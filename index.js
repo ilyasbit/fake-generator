@@ -9,7 +9,7 @@ const app = express();
 
 
 app.use(bodyParser.json());
-app.use(morgan('combined'));
+app.use(morgan('mini'));
 
 const port = 9999;
 
@@ -33,10 +33,12 @@ app.get('/us', (req, res) => {
       let fullState = parsedData[randomIndex].full_state;
       return {city,state,fullState,zip};
     }
-    let {city,state,fullState,zip} = getData();
-    while (fullState === undefined) {
-      let {city,state,fullState,zip} = getData();
+    let zipAddress = getData();
+    console.log(zipAddress.fullState)
+    if (zipAddress.fullState === undefined) {
+      zipAddress = getData();
     }
+    const {city,state,fullState,zip} = zipAddress;
     const firstName = faker.name.firstName();
     const lastName = faker.name.lastName();
     const email = faker.internet.email();
@@ -45,6 +47,7 @@ app.get('/us', (req, res) => {
     const phone = faker.phone.number('###-###-###')
     const fullAddress = faker.address.streetAddress();
     const company = faker.company.name();
+    
     return res.json({
     firstName,
     lastName,
