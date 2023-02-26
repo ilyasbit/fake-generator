@@ -1,0 +1,8917 @@
+[
+  {
+    "zip_code": 94555,
+    "latitude": 37.570681,
+    "longitude": -122.063323,
+    "city": "Fremont",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94556,
+    "latitude": 37.838926,
+    "longitude": -122.099224,
+    "city": "Moraga",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94557,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Hayward",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94558,
+    "latitude": 38.516158,
+    "longitude": -122.311921,
+    "city": "Napa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94559,
+    "latitude": 38.256973,
+    "longitude": -122.311685,
+    "city": "Napa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94560,
+    "latitude": 37.534102,
+    "longitude": -122.025352,
+    "city": "Newark",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94561,
+    "latitude": 37.996516,
+    "longitude": -121.68972,
+    "city": "Oakley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94562,
+    "latitude": 38.437887,
+    "longitude": -122.399101,
+    "city": "Oakville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94563,
+    "latitude": 37.893124,
+    "longitude": -122.144826,
+    "city": "Orinda",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94564,
+    "latitude": 37.990772,
+    "longitude": -122.243294,
+    "city": "Pinole",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94565,
+    "latitude": 38.00307,
+    "longitude": -121.917219,
+    "city": "Pittsburg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94566,
+    "latitude": 37.646081,
+    "longitude": -121.862128,
+    "city": "Pleasanton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94567,
+    "latitude": 38.649304,
+    "longitude": -122.44529,
+    "city": "Pope Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94568,
+    "latitude": 37.714402,
+    "longitude": -121.906329,
+    "city": "Dublin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94569,
+    "latitude": 38.04697,
+    "longitude": -122.193028,
+    "city": "Port Costa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94570,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Moraga",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94571,
+    "latitude": 38.209069,
+    "longitude": -121.777874,
+    "city": "Rio Vista",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94572,
+    "latitude": 38.030821,
+    "longitude": -122.245129,
+    "city": "Rodeo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94573,
+    "latitude": 38.466508,
+    "longitude": -122.414189,
+    "city": "Rutherford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94574,
+    "latitude": 38.537757,
+    "longitude": -122.401289,
+    "city": "Saint Helena",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94575,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Moraga",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94576,
+    "latitude": 38.450909,
+    "longitude": -122.444889,
+    "city": "Deer Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94577,
+    "latitude": 37.715629,
+    "longitude": -122.158621,
+    "city": "San Leandro",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94578,
+    "latitude": 37.704429,
+    "longitude": -122.124225,
+    "city": "San Leandro",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94579,
+    "latitude": 37.688518,
+    "longitude": -122.147425,
+    "city": "San Leandro",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94580,
+    "latitude": 37.68123,
+    "longitude": -122.133825,
+    "city": "San Lorenzo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94581,
+    "latitude": 38.509569,
+    "longitude": -122.3539,
+    "city": "Napa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94583,
+    "latitude": 37.768556,
+    "longitude": -121.975531,
+    "city": "San Ramon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94585,
+    "latitude": 38.195385,
+    "longitude": -121.994935,
+    "city": "Suisun City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94586,
+    "latitude": 37.585883,
+    "longitude": -121.883018,
+    "city": "Sunol",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94587,
+    "latitude": 37.589084,
+    "longitude": -121.97362,
+    "city": "Union City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94588,
+    "latitude": 37.688244,
+    "longitude": -121.898741,
+    "city": "Pleasanton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94589,
+    "latitude": 38.158221,
+    "longitude": -122.280383,
+    "city": "Vallejo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94590,
+    "latitude": 38.096719,
+    "longitude": -122.25328,
+    "city": "Vallejo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94591,
+    "latitude": 38.114249,
+    "longitude": -122.206292,
+    "city": "Vallejo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94592,
+    "latitude": 38.096788,
+    "longitude": -122.26986,
+    "city": "Vallejo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 94595,
+    "latitude": 37.873343,
+    "longitude": -122.070625,
+    "city": "Walnut Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94596,
+    "latitude": 37.952389,
+    "longitude": -121.864451,
+    "city": "Walnut Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94597,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Walnut Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94598,
+    "latitude": 37.906873,
+    "longitude": -122.037045,
+    "city": "Walnut Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94599,
+    "latitude": 38.41611,
+    "longitude": -122.361587,
+    "city": "Yountville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Napa"
+  },
+  {
+    "zip_code": 94601,
+    "latitude": 37.786027,
+    "longitude": -122.223779,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94602,
+    "latitude": 37.802777,
+    "longitude": -122.204578,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94603,
+    "latitude": 37.761778,
+    "longitude": -122.198428,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94604,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94605,
+    "latitude": 37.759322,
+    "longitude": -122.156626,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94606,
+    "latitude": 37.789927,
+    "longitude": -122.243979,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94607,
+    "latitude": 37.807967,
+    "longitude": -122.29878,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94608,
+    "latitude": 37.833876,
+    "longitude": -122.29548,
+    "city": "Emeryville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94609,
+    "latitude": 37.834776,
+    "longitude": -122.26328,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94610,
+    "latitude": 37.811277,
+    "longitude": -122.238779,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94611,
+    "latitude": 37.847076,
+    "longitude": -122.222278,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94612,
+    "latitude": 37.809435,
+    "longitude": -122.27018,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94613,
+    "latitude": 37.781098,
+    "longitude": -122.186573,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94614,
+    "latitude": 37.727739,
+    "longitude": -122.204573,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94615,
+    "latitude": 37.806677,
+    "longitude": -122.30038,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94617,
+    "latitude": 37.807827,
+    "longitude": -122.271652,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94618,
+    "latitude": 37.843126,
+    "longitude": -122.240179,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94619,
+    "latitude": 37.783877,
+    "longitude": -122.167126,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94620,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Piedmont",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94621,
+    "latitude": 37.742529,
+    "longitude": -122.196689,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94622,
+    "latitude": "",
+    "longitude": "",
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94623,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94624,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94625,
+    "latitude": 37.803927,
+    "longitude": -122.319655,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94626,
+    "latitude": 37.819314,
+    "longitude": -122.303136,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94627,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94643,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94649,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94659,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94660,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94661,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94662,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Emeryville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94666,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Oakland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94701,
+    "latitude": 37.860576,
+    "longitude": -122.29673,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94702,
+    "latitude": 37.864425,
+    "longitude": -122.28713,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94703,
+    "latitude": 37.865725,
+    "longitude": -122.27573,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94704,
+    "latitude": 37.866975,
+    "longitude": -122.256729,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94705,
+    "latitude": 37.85983,
+    "longitude": -122.242029,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94706,
+    "latitude": 37.889525,
+    "longitude": -122.29828,
+    "city": "Albany",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94707,
+    "latitude": 37.892675,
+    "longitude": -122.27608,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94708,
+    "latitude": 37.891825,
+    "longitude": -122.260429,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94709,
+    "latitude": 37.879825,
+    "longitude": -122.26553,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94710,
+    "latitude": 37.873366,
+    "longitude": -122.30273,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94712,
+    "latitude": 37.680181,
+    "longitude": -121.921498,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94720,
+    "latitude": 37.866825,
+    "longitude": -122.253582,
+    "city": "Berkeley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alameda"
+  },
+  {
+    "zip_code": 94801,
+    "latitude": 37.947523,
+    "longitude": -122.384032,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94802,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94803,
+    "latitude": 37.966422,
+    "longitude": -122.206177,
+    "city": "El Sobrante",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94804,
+    "latitude": 37.925174,
+    "longitude": -122.344381,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94805,
+    "latitude": 37.929123,
+    "longitude": -122.30093,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94806,
+    "latitude": 37.959573,
+    "longitude": -122.334131,
+    "city": "San Pablo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94807,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94808,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94820,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "El Sobrante",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94850,
+    "latitude": 37.777208,
+    "longitude": -121.955399,
+    "city": "Richmond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Contra Costa"
+  },
+  {
+    "zip_code": 94901,
+    "latitude": 37.970948,
+    "longitude": -122.504286,
+    "city": "San Rafael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94903,
+    "latitude": 38.033922,
+    "longitude": -122.58549,
+    "city": "San Rafael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94904,
+    "latitude": 37.947874,
+    "longitude": -122.536337,
+    "city": "Greenbrae",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94912,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "San Rafael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94913,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "San Rafael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94914,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Kentfield",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94915,
+    "latitude": 38.07392,
+    "longitude": -122.55944,
+    "city": "San Rafael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94920,
+    "latitude": 37.935324,
+    "longitude": -122.564439,
+    "city": "Belvedere Tiburon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94922,
+    "latitude": 38.351416,
+    "longitude": -122.974134,
+    "city": "Bodega",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94923,
+    "latitude": 38.367894,
+    "longitude": -123.048629,
+    "city": "Bodega Bay",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94924,
+    "latitude": 38.001976,
+    "longitude": -122.77915,
+    "city": "Bolinas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94925,
+    "latitude": 37.925039,
+    "longitude": -122.512035,
+    "city": "Corte Madera",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94926,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Cotati",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94927,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Rohnert Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94928,
+    "latitude": 38.345663,
+    "longitude": -122.698398,
+    "city": "Rohnert Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94929,
+    "latitude": 38.246928,
+    "longitude": -122.956202,
+    "city": "Dillon Beach",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94930,
+    "latitude": 37.981723,
+    "longitude": -122.607791,
+    "city": "Fairfax",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94931,
+    "latitude": 38.323614,
+    "longitude": -122.710565,
+    "city": "Cotati",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94933,
+    "latitude": 38.015803,
+    "longitude": -122.690302,
+    "city": "Forest Knolls",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94937,
+    "latitude": 38.112571,
+    "longitude": -122.887717,
+    "city": "Inverness",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94938,
+    "latitude": 38.022974,
+    "longitude": -122.699183,
+    "city": "Lagunitas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94939,
+    "latitude": 37.936624,
+    "longitude": -122.534237,
+    "city": "Larkspur",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94940,
+    "latitude": 38.17087,
+    "longitude": -122.823185,
+    "city": "Marshall",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94941,
+    "latitude": 37.886325,
+    "longitude": -122.562937,
+    "city": "Mill Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94942,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Mill Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94945,
+    "latitude": 38.027654,
+    "longitude": -122.540951,
+    "city": "Novato",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94946,
+    "latitude": 38.008973,
+    "longitude": -122.685568,
+    "city": "Nicasio",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94947,
+    "latitude": 38.09502,
+    "longitude": -122.620893,
+    "city": "Novato",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94948,
+    "latitude": 38.148858,
+    "longitude": -122.573745,
+    "city": "Novato",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94949,
+    "latitude": 38.06372,
+    "longitude": -122.541739,
+    "city": "Novato",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94950,
+    "latitude": 38.046703,
+    "longitude": -122.769854,
+    "city": "Olema",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94951,
+    "latitude": 38.315342,
+    "longitude": -122.648346,
+    "city": "Penngrove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94952,
+    "latitude": 38.265366,
+    "longitude": -122.822588,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94953,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94954,
+    "latitude": 38.225816,
+    "longitude": -122.574526,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94955,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94956,
+    "latitude": 38.057934,
+    "longitude": -122.853421,
+    "city": "Point Reyes Station",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94957,
+    "latitude": 38.022322,
+    "longitude": -122.561689,
+    "city": "Ross",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94960,
+    "latitude": 37.986473,
+    "longitude": -122.59184,
+    "city": "San Anselmo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94963,
+    "latitude": 38.016622,
+    "longitude": -122.659644,
+    "city": "San Geronimo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94964,
+    "latitude": 37.941571,
+    "longitude": -122.48436,
+    "city": "San Quentin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94965,
+    "latitude": 37.850417,
+    "longitude": -122.531423,
+    "city": "Sausalito",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94966,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Sausalito",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94970,
+    "latitude": 37.911625,
+    "longitude": -122.652043,
+    "city": "Stinson Beach",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94971,
+    "latitude": 38.242733,
+    "longitude": -122.91446,
+    "city": "Tomales",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94972,
+    "latitude": 38.307224,
+    "longitude": -122.855757,
+    "city": "Valley Ford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94973,
+    "latitude": 38.007172,
+    "longitude": -122.661691,
+    "city": "Woodacre",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94974,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "San Quentin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94975,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 94976,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Corte Madera",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94977,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Larkspur",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94978,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "Fairfax",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94979,
+    "latitude": 38.068036,
+    "longitude": -122.740988,
+    "city": "San Anselmo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94998,
+    "latitude": 38.117269,
+    "longitude": -122.568442,
+    "city": "Novato",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Marin"
+  },
+  {
+    "zip_code": 94999,
+    "latitude": 38.267466,
+    "longitude": -122.658097,
+    "city": "Petaluma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95001,
+    "latitude": 37.05297,
+    "longitude": -121.949418,
+    "city": "Aptos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95002,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Alviso",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95003,
+    "latitude": 37.024933,
+    "longitude": -121.879432,
+    "city": "Aptos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95004,
+    "latitude": 36.864154,
+    "longitude": -121.647608,
+    "city": "Aromas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Monterey"
+  },
+  {
+    "zip_code": 95005,
+    "latitude": 37.096297,
+    "longitude": -122.095525,
+    "city": "Ben Lomond",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95006,
+    "latitude": 37.176595,
+    "longitude": -122.130887,
+    "city": "Boulder Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95007,
+    "latitude": 37.10604,
+    "longitude": -122.111546,
+    "city": "Brookdale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95008,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Campbell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95009,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Campbell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95010,
+    "latitude": 37.012368,
+    "longitude": -122.000537,
+    "city": "Capitola",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95011,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Campbell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95012,
+    "latitude": 36.782556,
+    "longitude": -121.735759,
+    "city": "Castroville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Monterey"
+  },
+  {
+    "zip_code": 95013,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Coyote",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95014,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Cupertino",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95015,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Cupertino",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95017,
+    "latitude": 37.097536,
+    "longitude": -122.24338,
+    "city": "Davenport",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95018,
+    "latitude": 37.102414,
+    "longitude": -122.068323,
+    "city": "Felton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95019,
+    "latitude": 36.937042,
+    "longitude": -121.780262,
+    "city": "Freedom",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95020,
+    "latitude": 37.023347,
+    "longitude": -121.493849,
+    "city": "Gilroy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95021,
+    "latitude": 36.986148,
+    "longitude": -121.497349,
+    "city": "Gilroy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95023,
+    "latitude": 36.828078,
+    "longitude": -121.3924,
+    "city": "Hollister",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Benito"
+  },
+  {
+    "zip_code": 95024,
+    "latitude": 36.85443,
+    "longitude": -121.411909,
+    "city": "Hollister",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Benito"
+  },
+  {
+    "zip_code": 95026,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Holy City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95030,
+    "latitude": 37.107647,
+    "longitude": -121.842064,
+    "city": "Los Gatos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95031,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Los Gatos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95032,
+    "latitude": 37.070923,
+    "longitude": -121.66186,
+    "city": "Los Gatos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95033,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Los Gatos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95035,
+    "latitude": 37.436454,
+    "longitude": -121.861989,
+    "city": "Milpitas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95036,
+    "latitude": 37.456807,
+    "longitude": -121.913632,
+    "city": "Milpitas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95037,
+    "latitude": 37.130238,
+    "longitude": -121.681557,
+    "city": "Morgan Hill",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95038,
+    "latitude": 37.225787,
+    "longitude": -121.617894,
+    "city": "Morgan Hill",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95039,
+    "latitude": 36.797555,
+    "longitude": -121.76066,
+    "city": "Moss Landing",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Monterey"
+  },
+  {
+    "zip_code": 95041,
+    "latitude": 37.052137,
+    "longitude": -122.058024,
+    "city": "Mount Hermon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95042,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "New Almaden",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95043,
+    "latitude": 36.587379,
+    "longitude": -121.148586,
+    "city": "Paicines",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Benito"
+  },
+  {
+    "zip_code": 95044,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Redwood Estates",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95045,
+    "latitude": 36.831008,
+    "longitude": -121.442746,
+    "city": "San Juan Bautista",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Benito"
+  },
+  {
+    "zip_code": 95046,
+    "latitude": 37.090125,
+    "longitude": -121.606099,
+    "city": "San Martin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95050,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95051,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95052,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95053,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95054,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95055,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95056,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Santa Clara",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95060,
+    "latitude": 37.052748,
+    "longitude": -122.111126,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95061,
+    "latitude": 37.007399,
+    "longitude": -122.075125,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95062,
+    "latitude": 36.971549,
+    "longitude": -121.990571,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95063,
+    "latitude": 36.9634,
+    "longitude": -121.973771,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95064,
+    "latitude": 36.988837,
+    "longitude": -122.059073,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95065,
+    "latitude": 37.033568,
+    "longitude": -121.982632,
+    "city": "Santa Cruz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95066,
+    "latitude": 37.071387,
+    "longitude": -122.006276,
+    "city": "Scotts Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95067,
+    "latitude": 37.05297,
+    "longitude": -121.949418,
+    "city": "Scotts Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95070,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Saratoga",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95071,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "Saratoga",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95073,
+    "latitude": 37.031948,
+    "longitude": -121.94972,
+    "city": "Soquel",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95075,
+    "latitude": 36.761702,
+    "longitude": -121.274795,
+    "city": "Tres Pinos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Benito"
+  },
+  {
+    "zip_code": 95076,
+    "latitude": 36.98025,
+    "longitude": -121.74696,
+    "city": "Watsonville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95077,
+    "latitude": 37.05297,
+    "longitude": -121.949418,
+    "city": "Watsonville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Cruz"
+  },
+  {
+    "zip_code": 95101,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95102,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95103,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95106,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95108,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95109,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95110,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95111,
+    "latitude": 37.267947,
+    "longitude": -121.800001,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95112,
+    "latitude": 37.37004,
+    "longitude": -121.892093,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95113,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95114,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95115,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95116,
+    "latitude": 37.35504,
+    "longitude": -121.835344,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95117,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95118,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95119,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95120,
+    "latitude": 37.38478,
+    "longitude": -121.895798,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95121,
+    "latitude": 37.298592,
+    "longitude": -121.797977,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95122,
+    "latitude": 37.33074,
+    "longitude": -121.828333,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95123,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95124,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95125,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95126,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95127,
+    "latitude": 37.373903,
+    "longitude": -121.795913,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95128,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95129,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95130,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95131,
+    "latitude": 37.388389,
+    "longitude": -121.886316,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95132,
+    "latitude": 37.433587,
+    "longitude": -121.829615,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95133,
+    "latitude": 37.372239,
+    "longitude": -121.864265,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95134,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95135,
+    "latitude": 37.272289,
+    "longitude": -121.723862,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95136,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95137,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95138,
+    "latitude": 37.258733,
+    "longitude": -121.745159,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95139,
+    "latitude": 37.216394,
+    "longitude": -121.740059,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95140,
+    "latitude": 37.304321,
+    "longitude": -121.633457,
+    "city": "Mount Hamilton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95141,
+    "latitude": 37.178745,
+    "longitude": -121.741809,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95142,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95148,
+    "latitude": 37.335928,
+    "longitude": -121.776861,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95150,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95151,
+    "latitude": 37.187349,
+    "longitude": -121.75722,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95152,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95153,
+    "latitude": 37.216184,
+    "longitude": -121.743632,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95154,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95155,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95156,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95157,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95158,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95159,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95160,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95161,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95164,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95170,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95171,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95172,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95173,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95190,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95191,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95192,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95193,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95194,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95196,
+    "latitude": 37.189396,
+    "longitude": -121.705327,
+    "city": "San Jose",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Santa Clara"
+  },
+  {
+    "zip_code": 95201,
+    "latitude": 37.672196,
+    "longitude": -121.298794,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95202,
+    "latitude": 37.958573,
+    "longitude": -121.289206,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95203,
+    "latitude": 37.954573,
+    "longitude": -121.321707,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95204,
+    "latitude": 37.975473,
+    "longitude": -121.323758,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95205,
+    "latitude": 37.954773,
+    "longitude": -121.255405,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95206,
+    "latitude": 37.912324,
+    "longitude": -121.387007,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95207,
+    "latitude": 38.018146,
+    "longitude": -121.325487,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95208,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95209,
+    "latitude": 37.988691,
+    "longitude": -121.337187,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95210,
+    "latitude": 38.025472,
+    "longitude": -121.291628,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95211,
+    "latitude": 37.981073,
+    "longitude": -121.308008,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95212,
+    "latitude": 38.037321,
+    "longitude": -121.216156,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95213,
+    "latitude": 37.904777,
+    "longitude": -121.226782,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95215,
+    "latitude": 37.964123,
+    "longitude": -121.128903,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95219,
+    "latitude": 38.001613,
+    "longitude": -121.455259,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95220,
+    "latitude": 38.198666,
+    "longitude": -121.230207,
+    "city": "Acampo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95221,
+    "latitude": 38.092294,
+    "longitude": -120.535316,
+    "city": "Altaville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95222,
+    "latitude": 38.052816,
+    "longitude": -120.618608,
+    "city": "Angels Camp",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95223,
+    "latitude": 38.328969,
+    "longitude": -120.223837,
+    "city": "Arnold",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95224,
+    "latitude": 38.217249,
+    "longitude": -120.377348,
+    "city": "Avery",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95225,
+    "latitude": 38.191258,
+    "longitude": -120.910251,
+    "city": "Burson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95226,
+    "latitude": 38.211495,
+    "longitude": -120.849106,
+    "city": "Campo Seco",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95227,
+    "latitude": 38.211127,
+    "longitude": -121.044252,
+    "city": "Clements",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95228,
+    "latitude": 37.971877,
+    "longitude": -120.649912,
+    "city": "Copperopolis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95229,
+    "latitude": 38.110355,
+    "longitude": -120.45436,
+    "city": "Douglas Flat",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95230,
+    "latitude": 37.915075,
+    "longitude": -120.967398,
+    "city": "Farmington",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95231,
+    "latitude": 37.883775,
+    "longitude": -121.290405,
+    "city": "French Camp",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95232,
+    "latitude": 38.352793,
+    "longitude": -120.573947,
+    "city": "Glencoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95233,
+    "latitude": 38.183537,
+    "longitude": -120.388215,
+    "city": "Hathaway Pines",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95234,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Holt",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95236,
+    "latitude": 38.017322,
+    "longitude": -121.039852,
+    "city": "Linden",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95237,
+    "latitude": 38.141969,
+    "longitude": -121.152088,
+    "city": "Lockeford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95240,
+    "latitude": 38.111356,
+    "longitude": -121.172415,
+    "city": "Lodi",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95241,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Lodi",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95242,
+    "latitude": 38.138318,
+    "longitude": -121.422011,
+    "city": "Lodi",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95245,
+    "latitude": 38.29138,
+    "longitude": -120.571875,
+    "city": "Mokelumne Hill",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95246,
+    "latitude": 38.279047,
+    "longitude": -120.536352,
+    "city": "Mountain Ranch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95247,
+    "latitude": 38.131035,
+    "longitude": -120.454381,
+    "city": "Murphys",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95248,
+    "latitude": 38.325626,
+    "longitude": -120.485154,
+    "city": "Rail Road Flat",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95249,
+    "latitude": 38.190106,
+    "longitude": -120.616052,
+    "city": "San Andreas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95250,
+    "latitude": 38.243158,
+    "longitude": -120.436953,
+    "city": "Sheep Ranch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95251,
+    "latitude": 38.085205,
+    "longitude": -120.471841,
+    "city": "Vallecito",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95252,
+    "latitude": 38.190383,
+    "longitude": -120.733128,
+    "city": "Valley Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95253,
+    "latitude": 38.114669,
+    "longitude": -121.203656,
+    "city": "Victor",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95254,
+    "latitude": 38.161589,
+    "longitude": -120.944264,
+    "city": "Wallace",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95255,
+    "latitude": 38.403007,
+    "longitude": -120.477467,
+    "city": "West Point",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95257,
+    "latitude": 38.390344,
+    "longitude": -120.490831,
+    "city": "Wilseyville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Calaveras"
+  },
+  {
+    "zip_code": 95258,
+    "latitude": 38.157962,
+    "longitude": -121.314909,
+    "city": "Woodbridge",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95267,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95269,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95290,
+    "latitude": 37.953473,
+    "longitude": -121.285257,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95296,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Lyoth",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95297,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95298,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Stockton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95301,
+    "latitude": 37.317255,
+    "longitude": -120.647347,
+    "city": "Atwater",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95303,
+    "latitude": 37.470114,
+    "longitude": -120.624564,
+    "city": "Ballico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95304,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Tracy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95305,
+    "latitude": 37.822025,
+    "longitude": -120.241685,
+    "city": "Big Oak Flat",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95306,
+    "latitude": 37.408643,
+    "longitude": -120.122715,
+    "city": "Catheys Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95307,
+    "latitude": 37.561889,
+    "longitude": -120.967976,
+    "city": "Ceres",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95309,
+    "latitude": 37.807938,
+    "longitude": -120.440467,
+    "city": "Chinese Camp",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95310,
+    "latitude": 38.061003,
+    "longitude": -120.363545,
+    "city": "Columbia",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95311,
+    "latitude": 37.700116,
+    "longitude": -120.155251,
+    "city": "Coulterville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95312,
+    "latitude": 37.422175,
+    "longitude": -120.627348,
+    "city": "Cressey",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95313,
+    "latitude": 37.429147,
+    "longitude": -121.054997,
+    "city": "Crows Landing",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95314,
+    "latitude": 38.033541,
+    "longitude": -119.92502,
+    "city": "Dardanelle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95315,
+    "latitude": 37.429369,
+    "longitude": -120.762047,
+    "city": "Delhi",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95316,
+    "latitude": 37.55026,
+    "longitude": -120.718131,
+    "city": "Denair",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95317,
+    "latitude": 37.125735,
+    "longitude": -120.504934,
+    "city": "El Nido",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95318,
+    "latitude": 37.622232,
+    "longitude": -119.861258,
+    "city": "El Portal",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95319,
+    "latitude": 37.637531,
+    "longitude": -120.906593,
+    "city": "Empire",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95320,
+    "latitude": 37.817826,
+    "longitude": -121.033598,
+    "city": "Escalon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95321,
+    "latitude": 37.867634,
+    "longitude": -120.088197,
+    "city": "Groveland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95322,
+    "latitude": 37.150438,
+    "longitude": -120.987196,
+    "city": "Gustine",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95323,
+    "latitude": 37.599514,
+    "longitude": -120.659136,
+    "city": "Hickman",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95324,
+    "latitude": 37.399608,
+    "longitude": -120.885973,
+    "city": "Hilmar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95325,
+    "latitude": 37.555242,
+    "longitude": -120.226091,
+    "city": "Hornitos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95326,
+    "latitude": 37.545683,
+    "longitude": -120.966091,
+    "city": "Hughson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95327,
+    "latitude": 37.883131,
+    "longitude": -120.419802,
+    "city": "Jamestown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95328,
+    "latitude": 37.55928,
+    "longitude": -120.913846,
+    "city": "Keyes",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95329,
+    "latitude": 37.653226,
+    "longitude": -120.50941,
+    "city": "La Grange",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95330,
+    "latitude": 37.811976,
+    "longitude": -121.287362,
+    "city": "Lathrop",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95333,
+    "latitude": 37.264851,
+    "longitude": -120.231843,
+    "city": "Le Grand",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95334,
+    "latitude": 37.358769,
+    "longitude": -120.750082,
+    "city": "Livingston",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95335,
+    "latitude": 38.112838,
+    "longitude": -120.126643,
+    "city": "Long Barn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95336,
+    "latitude": 37.807297,
+    "longitude": -121.177601,
+    "city": "Manteca",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95337,
+    "latitude": 37.743327,
+    "longitude": -121.227351,
+    "city": "Manteca",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95338,
+    "latitude": 37.572907,
+    "longitude": -120.018973,
+    "city": "Mariposa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95340,
+    "latitude": 37.338191,
+    "longitude": -120.475427,
+    "city": "Merced",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95341,
+    "latitude": 37.186872,
+    "longitude": -120.650351,
+    "city": "Merced",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95342,
+    "latitude": 37.367315,
+    "longitude": -120.570634,
+    "city": "Atwater",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95343,
+    "latitude": 37.186872,
+    "longitude": -120.650351,
+    "city": "Merced",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95344,
+    "latitude": 37.378234,
+    "longitude": -120.617808,
+    "city": "Merced",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95345,
+    "latitude": 37.564369,
+    "longitude": -119.962569,
+    "city": "Midpines",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95346,
+    "latitude": 38.08455,
+    "longitude": -120.135262,
+    "city": "Mi Wuk Village",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95347,
+    "latitude": 37.805371,
+    "longitude": -120.375945,
+    "city": "Moccasin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95348,
+    "latitude": 37.412623,
+    "longitude": -120.50975,
+    "city": "Merced",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95350,
+    "latitude": 37.669463,
+    "longitude": -121.016796,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95351,
+    "latitude": 37.636384,
+    "longitude": -121.082742,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95352,
+    "latitude": 37.60396,
+    "longitude": -120.937052,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95353,
+    "latitude": 37.60396,
+    "longitude": -120.937052,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95354,
+    "latitude": 37.533682,
+    "longitude": -121.090835,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95355,
+    "latitude": 37.685879,
+    "longitude": -120.948033,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95356,
+    "latitude": 37.722878,
+    "longitude": -121.035846,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95357,
+    "latitude": 37.679529,
+    "longitude": -120.875893,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95358,
+    "latitude": 37.611,
+    "longitude": -121.103547,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95360,
+    "latitude": 37.340337,
+    "longitude": -121.213529,
+    "city": "Newman",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95361,
+    "latitude": 37.839643,
+    "longitude": -120.698578,
+    "city": "Oakdale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95363,
+    "latitude": 37.516383,
+    "longitude": -121.23848,
+    "city": "Patterson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95364,
+    "latitude": 38.004532,
+    "longitude": -119.993941,
+    "city": "Pinecrest",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95365,
+    "latitude": 37.289085,
+    "longitude": -120.317156,
+    "city": "Planada",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95366,
+    "latitude": 37.765177,
+    "longitude": -121.115411,
+    "city": "Ripon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95367,
+    "latitude": 37.69222,
+    "longitude": -120.865061,
+    "city": "Riverbank",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95368,
+    "latitude": 37.695359,
+    "longitude": -121.078608,
+    "city": "Salida",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95369,
+    "latitude": 37.483708,
+    "longitude": -120.463408,
+    "city": "Snelling",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95370,
+    "latitude": 37.96091,
+    "longitude": -120.343863,
+    "city": "Sonora",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95372,
+    "latitude": 38.010365,
+    "longitude": -120.230556,
+    "city": "Soulsbyville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95373,
+    "latitude": 37.986377,
+    "longitude": -120.241412,
+    "city": "Standard",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95374,
+    "latitude": 37.324536,
+    "longitude": -120.864936,
+    "city": "Stevinson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95375,
+    "latitude": 38.184096,
+    "longitude": -120.021342,
+    "city": "Strawberry",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95376,
+    "latitude": 37.688679,
+    "longitude": -121.407804,
+    "city": "Tracy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95377,
+    "latitude": 37.674004,
+    "longitude": -121.516857,
+    "city": "Tracy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95378,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Tracy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95379,
+    "latitude": 37.921694,
+    "longitude": -120.267887,
+    "city": "Tuolumne",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95380,
+    "latitude": 37.540206,
+    "longitude": -120.844063,
+    "city": "Turlock",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95381,
+    "latitude": 37.60396,
+    "longitude": -120.937052,
+    "city": "Turlock",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95382,
+    "latitude": 37.530174,
+    "longitude": -120.851857,
+    "city": "Turlock",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95383,
+    "latitude": 38.085837,
+    "longitude": -120.176042,
+    "city": "Twain Harte",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tuolumne"
+  },
+  {
+    "zip_code": 95385,
+    "latitude": 37.889849,
+    "longitude": -121.253872,
+    "city": "Vernalis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95386,
+    "latitude": 37.659644,
+    "longitude": -120.775617,
+    "city": "Waterford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95387,
+    "latitude": 37.561682,
+    "longitude": -121.249449,
+    "city": "Westley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95388,
+    "latitude": 37.411145,
+    "longitude": -120.55271,
+    "city": "Winton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Merced"
+  },
+  {
+    "zip_code": 95389,
+    "latitude": 37.63791,
+    "longitude": -119.694652,
+    "city": "Yosemite National Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mariposa"
+  },
+  {
+    "zip_code": 95390,
+    "latitude": 37.60396,
+    "longitude": -120.937052,
+    "city": "Riverbank",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95391,
+    "latitude": 37.78079,
+    "longitude": -121.598048,
+    "city": "Tracy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95397,
+    "latitude": 37.60396,
+    "longitude": -120.937052,
+    "city": "Modesto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Stanislaus"
+  },
+  {
+    "zip_code": 95401,
+    "latitude": 38.450412,
+    "longitude": -122.783159,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95402,
+    "latitude": 38.440061,
+    "longitude": -122.710598,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95403,
+    "latitude": 38.477043,
+    "longitude": -122.810328,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95404,
+    "latitude": 38.452642,
+    "longitude": -122.656296,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95405,
+    "latitude": 38.444714,
+    "longitude": -122.786392,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95406,
+    "latitude": 38.459575,
+    "longitude": -122.715654,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95407,
+    "latitude": 38.389113,
+    "longitude": -122.741849,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95408,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95409,
+    "latitude": 38.462575,
+    "longitude": -122.626545,
+    "city": "Santa Rosa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95410,
+    "latitude": 39.168027,
+    "longitude": -123.393401,
+    "city": "Albion",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95412,
+    "latitude": 38.710387,
+    "longitude": -123.386924,
+    "city": "Annapolis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95415,
+    "latitude": 39.046943,
+    "longitude": -123.418728,
+    "city": "Boonville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95416,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Boyes Hot Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95417,
+    "latitude": 39.677625,
+    "longitude": -123.64746,
+    "city": "Branscomb",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95418,
+    "latitude": 39.213324,
+    "longitude": -123.277143,
+    "city": "Calpella",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95419,
+    "latitude": 38.417883,
+    "longitude": -122.959401,
+    "city": "Camp Meeker",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95420,
+    "latitude": 39.367286,
+    "longitude": -123.8042,
+    "city": "Caspar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95421,
+    "latitude": 38.562107,
+    "longitude": -123.189714,
+    "city": "Cazadero",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95422,
+    "latitude": 38.946476,
+    "longitude": -122.657017,
+    "city": "Clearlake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95423,
+    "latitude": 38.953387,
+    "longitude": -122.620832,
+    "city": "Clearlake Oaks",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95424,
+    "latitude": 38.985997,
+    "longitude": -122.661027,
+    "city": "Clearlake Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95425,
+    "latitude": 38.638928,
+    "longitude": -122.91333,
+    "city": "Cloverdale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95426,
+    "latitude": 38.82677,
+    "longitude": -122.732911,
+    "city": "Cobb",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95427,
+    "latitude": 39.238683,
+    "longitude": -123.58761,
+    "city": "Comptche",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95428,
+    "latitude": 39.835096,
+    "longitude": -123.148437,
+    "city": "Covelo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95429,
+    "latitude": 39.671989,
+    "longitude": -123.394207,
+    "city": "Dos Rios",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95430,
+    "latitude": 38.442735,
+    "longitude": -123.071403,
+    "city": "Duncans Mills",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95431,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Eldridge",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95432,
+    "latitude": 39.076371,
+    "longitude": -123.618031,
+    "city": "Elk",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95433,
+    "latitude": 38.313864,
+    "longitude": -122.513093,
+    "city": "El Verano",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95435,
+    "latitude": 39.00686,
+    "longitude": -122.859625,
+    "city": "Finley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95436,
+    "latitude": 38.509736,
+    "longitude": -122.918385,
+    "city": "Forestville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95437,
+    "latitude": 39.500634,
+    "longitude": -123.637284,
+    "city": "Fort Bragg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95439,
+    "latitude": 38.49031,
+    "longitude": -122.776963,
+    "city": "Fulton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95441,
+    "latitude": 38.707323,
+    "longitude": -123.006531,
+    "city": "Geyserville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95442,
+    "latitude": 38.383854,
+    "longitude": -122.557253,
+    "city": "Glen Ellen",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95443,
+    "latitude": 39.034627,
+    "longitude": -122.748109,
+    "city": "Glenhaven",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95444,
+    "latitude": 38.434926,
+    "longitude": -122.868154,
+    "city": "Graton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95445,
+    "latitude": 38.836933,
+    "longitude": -123.527323,
+    "city": "Gualala",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95446,
+    "latitude": 38.495554,
+    "longitude": -122.979355,
+    "city": "Guerneville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95448,
+    "latitude": 38.512761,
+    "longitude": -122.787101,
+    "city": "Healdsburg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95449,
+    "latitude": 38.965637,
+    "longitude": -123.138986,
+    "city": "Hopland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95450,
+    "latitude": 38.546934,
+    "longitude": -123.227415,
+    "city": "Jenner",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95451,
+    "latitude": 38.930811,
+    "longitude": -122.793699,
+    "city": "Kelseyville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95452,
+    "latitude": 38.413111,
+    "longitude": -122.548243,
+    "city": "Kenwood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95453,
+    "latitude": 39.05345,
+    "longitude": -122.919291,
+    "city": "Lakeport",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95454,
+    "latitude": 39.772903,
+    "longitude": -123.573407,
+    "city": "Laytonville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95456,
+    "latitude": 39.267235,
+    "longitude": -123.696392,
+    "city": "Littleriver",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95457,
+    "latitude": 38.89699,
+    "longitude": -122.625621,
+    "city": "Lower Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95458,
+    "latitude": 39.157828,
+    "longitude": -122.809585,
+    "city": "Lucerne",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95459,
+    "latitude": 38.950236,
+    "longitude": -123.661507,
+    "city": "Manchester",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95460,
+    "latitude": 39.319949,
+    "longitude": -123.734377,
+    "city": "Mendocino",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95461,
+    "latitude": 39.040188,
+    "longitude": -122.719276,
+    "city": "Middletown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95462,
+    "latitude": 38.459755,
+    "longitude": -123.000625,
+    "city": "Monte Rio",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95463,
+    "latitude": 39.128136,
+    "longitude": -123.486408,
+    "city": "Navarro",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95464,
+    "latitude": 39.276878,
+    "longitude": -122.868266,
+    "city": "Nice",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95465,
+    "latitude": 38.406676,
+    "longitude": -123.020406,
+    "city": "Occidental",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95466,
+    "latitude": 39.056598,
+    "longitude": -123.525375,
+    "city": "Philo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95468,
+    "latitude": 38.919145,
+    "longitude": -123.540572,
+    "city": "Point Arena",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95469,
+    "latitude": 39.360935,
+    "longitude": -123.106751,
+    "city": "Potter Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95470,
+    "latitude": 39.302446,
+    "longitude": -123.462532,
+    "city": "Redwood Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95471,
+    "latitude": 38.523472,
+    "longitude": -122.982142,
+    "city": "Rio Nido",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95472,
+    "latitude": 38.407222,
+    "longitude": -122.869654,
+    "city": "Sebastopol",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95473,
+    "latitude": 38.325851,
+    "longitude": -122.505846,
+    "city": "Sebastopol",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95476,
+    "latitude": 38.255943,
+    "longitude": -122.476819,
+    "city": "Sonoma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95480,
+    "latitude": 38.676694,
+    "longitude": -123.372059,
+    "city": "Stewarts Point",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95481,
+    "latitude": 39.127247,
+    "longitude": -123.164533,
+    "city": "Talmage",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95482,
+    "latitude": 39.403699,
+    "longitude": -123.321202,
+    "city": "Ukiah",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95485,
+    "latitude": 39.252489,
+    "longitude": -122.85643,
+    "city": "Upper Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95486,
+    "latitude": 38.464487,
+    "longitude": -123.037996,
+    "city": "Villa Grande",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95487,
+    "latitude": 38.463088,
+    "longitude": -122.989975,
+    "city": "Vineburg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95488,
+    "latitude": 39.660425,
+    "longitude": -123.786385,
+    "city": "Westport",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95490,
+    "latitude": 39.525958,
+    "longitude": -123.36573,
+    "city": "Willits",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95492,
+    "latitude": 38.532827,
+    "longitude": -122.8041,
+    "city": "Windsor",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95493,
+    "latitude": 39.185033,
+    "longitude": -122.965163,
+    "city": "Witter Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 95494,
+    "latitude": 38.934552,
+    "longitude": -123.268378,
+    "city": "Yorkville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95497,
+    "latitude": 38.717318,
+    "longitude": -123.463976,
+    "city": "The Sea Ranch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sonoma"
+  },
+  {
+    "zip_code": 95501,
+    "latitude": 40.646324,
+    "longitude": -124.025773,
+    "city": "Eureka",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95502,
+    "latitude": 40.733552,
+    "longitude": -123.944021,
+    "city": "Eureka",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95503,
+    "latitude": 40.787799,
+    "longitude": -123.938685,
+    "city": "Eureka",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95511,
+    "latitude": 40.13049,
+    "longitude": -123.602161,
+    "city": "Alderpoint",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95514,
+    "latitude": 40.318601,
+    "longitude": -123.672124,
+    "city": "Blocksburg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95518,
+    "latitude": 40.881383,
+    "longitude": -123.984232,
+    "city": "Arcata",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95519,
+    "latitude": 40.708094,
+    "longitude": -123.976234,
+    "city": "Mckinleyville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95521,
+    "latitude": 40.564495,
+    "longitude": -123.935891,
+    "city": "Arcata",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95524,
+    "latitude": 40.823396,
+    "longitude": -124.041746,
+    "city": "Bayside",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95525,
+    "latitude": 40.961876,
+    "longitude": -123.88501,
+    "city": "Blue Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95526,
+    "latitude": 40.484837,
+    "longitude": -123.753321,
+    "city": "Bridgeville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95527,
+    "latitude": 40.477722,
+    "longitude": -123.107281,
+    "city": "Burnt Ranch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 95528,
+    "latitude": 40.501603,
+    "longitude": -123.952838,
+    "city": "Carlotta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95531,
+    "latitude": 41.744452,
+    "longitude": -124.056897,
+    "city": "Crescent City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95532,
+    "latitude": 41.852985,
+    "longitude": -124.15721,
+    "city": "Crescent City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95534,
+    "latitude": 40.733552,
+    "longitude": -123.944021,
+    "city": "Cutten",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95536,
+    "latitude": 40.465229,
+    "longitude": -124.26879,
+    "city": "Ferndale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95537,
+    "latitude": 40.72533,
+    "longitude": -124.21666,
+    "city": "Fields Landing",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95538,
+    "latitude": 41.892473,
+    "longitude": -124.145734,
+    "city": "Fort Dick",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95540,
+    "latitude": 40.815265,
+    "longitude": -123.903317,
+    "city": "Fortuna",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95542,
+    "latitude": 40.65136,
+    "longitude": -123.862815,
+    "city": "Garberville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95543,
+    "latitude": 41.912328,
+    "longitude": -123.810269,
+    "city": "Gasquet",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95545,
+    "latitude": 40.25679,
+    "longitude": -124.151347,
+    "city": "Honeydew",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95546,
+    "latitude": 40.786924,
+    "longitude": -123.754058,
+    "city": "Hoopa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95547,
+    "latitude": 40.548691,
+    "longitude": -124.09898,
+    "city": "Hydesville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95548,
+    "latitude": 41.609872,
+    "longitude": -124.054355,
+    "city": "Klamath",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95549,
+    "latitude": 40.647049,
+    "longitude": -123.913353,
+    "city": "Kneeland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95550,
+    "latitude": 40.768799,
+    "longitude": -123.859218,
+    "city": "Korbel",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95551,
+    "latitude": 40.665179,
+    "longitude": -124.239192,
+    "city": "Loleta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95552,
+    "latitude": 40.450929,
+    "longitude": -123.505623,
+    "city": "Mad River",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 95553,
+    "latitude": 40.23548,
+    "longitude": -123.845935,
+    "city": "Miranda",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95554,
+    "latitude": 40.262278,
+    "longitude": -123.81444,
+    "city": "Myers Flat",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95555,
+    "latitude": 41.291871,
+    "longitude": -124.060455,
+    "city": "Orick",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95556,
+    "latitude": 41.304908,
+    "longitude": -123.557541,
+    "city": "Orleans",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95558,
+    "latitude": 40.303424,
+    "longitude": -124.21441,
+    "city": "Petrolia",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95559,
+    "latitude": 40.195018,
+    "longitude": -123.786863,
+    "city": "Phillipsville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95560,
+    "latitude": 40.505478,
+    "longitude": -123.812063,
+    "city": "Redway",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95562,
+    "latitude": 40.314708,
+    "longitude": -123.984516,
+    "city": "Rio Dell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95563,
+    "latitude": 40.672576,
+    "longitude": -123.034604,
+    "city": "Salyer",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 95564,
+    "latitude": 40.795138,
+    "longitude": -124.199568,
+    "city": "Samoa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95565,
+    "latitude": 40.440193,
+    "longitude": -124.022847,
+    "city": "Scotia",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95567,
+    "latitude": 41.925977,
+    "longitude": -124.159812,
+    "city": "Smith River",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Del Norte"
+  },
+  {
+    "zip_code": 95568,
+    "latitude": 41.451129,
+    "longitude": -123.467024,
+    "city": "Somes Bar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 95569,
+    "latitude": 40.36547,
+    "longitude": -123.895246,
+    "city": "Redcrest",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95570,
+    "latitude": 40.982322,
+    "longitude": -124.125506,
+    "city": "Trinidad",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95571,
+    "latitude": 40.323964,
+    "longitude": -123.882487,
+    "city": "Weott",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95573,
+    "latitude": 40.872068,
+    "longitude": -123.90987,
+    "city": "Willow Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95585,
+    "latitude": 39.873214,
+    "longitude": -123.721407,
+    "city": "Leggett",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95587,
+    "latitude": 39.947575,
+    "longitude": -123.686938,
+    "city": "Piercy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mendocino"
+  },
+  {
+    "zip_code": 95589,
+    "latitude": 40.47949,
+    "longitude": -123.847878,
+    "city": "Whitethorn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 95595,
+    "latitude": 40.672576,
+    "longitude": -123.034604,
+    "city": "Zenia",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 95601,
+    "latitude": 38.418568,
+    "longitude": -120.831845,
+    "city": "Amador City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95602,
+    "latitude": 39.014933,
+    "longitude": -121.07047,
+    "city": "Auburn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95603,
+    "latitude": 38.973505,
+    "longitude": -121.067718,
+    "city": "Auburn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95604,
+    "latitude": 39.106287,
+    "longitude": -120.536032,
+    "city": "Auburn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95605,
+    "latitude": 38.591854,
+    "longitude": -121.537801,
+    "city": "West Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95606,
+    "latitude": 38.799836,
+    "longitude": -122.181084,
+    "city": "Brooks",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95607,
+    "latitude": 38.785596,
+    "longitude": -122.140491,
+    "city": "Capay",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95608,
+    "latitude": 38.62136,
+    "longitude": -121.332191,
+    "city": "Carmichael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95609,
+    "latitude": 38.650335,
+    "longitude": -121.327214,
+    "city": "Carmichael",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95610,
+    "latitude": 38.689802,
+    "longitude": -121.26736,
+    "city": "Citrus Heights",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95611,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Citrus Heights",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95612,
+    "latitude": 38.43141,
+    "longitude": -121.594875,
+    "city": "Clarksburg",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95613,
+    "latitude": 38.81419,
+    "longitude": -120.895188,
+    "city": "Coloma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95614,
+    "latitude": 38.877956,
+    "longitude": -120.986029,
+    "city": "Cool",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95615,
+    "latitude": 38.338322,
+    "longitude": -121.5378,
+    "city": "Courtland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95616,
+    "latitude": 38.521776,
+    "longitude": -121.749016,
+    "city": "Davis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95617,
+    "latitude": 38.619545,
+    "longitude": -121.961532,
+    "city": "Davis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95618,
+    "latitude": 38.54431,
+    "longitude": -121.685904,
+    "city": "El Macero",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95619,
+    "latitude": 38.629821,
+    "longitude": -120.820021,
+    "city": "Diamond Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95620,
+    "latitude": 38.397372,
+    "longitude": -121.761419,
+    "city": "Dixon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 95621,
+    "latitude": 38.693052,
+    "longitude": -121.309461,
+    "city": "Citrus Heights",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95623,
+    "latitude": 38.676272,
+    "longitude": -120.84598,
+    "city": "El Dorado",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95624,
+    "latitude": 38.44148,
+    "longitude": -121.307142,
+    "city": "Elk Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95625,
+    "latitude": 38.348022,
+    "longitude": -121.90029,
+    "city": "Elmira",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 95626,
+    "latitude": 38.695702,
+    "longitude": -121.452097,
+    "city": "Elverta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95627,
+    "latitude": 38.779509,
+    "longitude": -122.100884,
+    "city": "Esparto",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95628,
+    "latitude": 38.655263,
+    "longitude": -121.260709,
+    "city": "Fair Oaks",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95629,
+    "latitude": 38.510343,
+    "longitude": -120.708029,
+    "city": "Fiddletown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95630,
+    "latitude": 38.594181,
+    "longitude": -121.310796,
+    "city": "Folsom",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95631,
+    "latitude": 39.024453,
+    "longitude": -120.862663,
+    "city": "Foresthill",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95632,
+    "latitude": 38.289817,
+    "longitude": -121.313883,
+    "city": "Galt",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95633,
+    "latitude": 38.854672,
+    "longitude": -120.830282,
+    "city": "Garden Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95634,
+    "latitude": 38.924378,
+    "longitude": -120.703303,
+    "city": "Georgetown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95635,
+    "latitude": 38.909448,
+    "longitude": -120.889138,
+    "city": "Greenwood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95636,
+    "latitude": 38.63765,
+    "longitude": -120.553399,
+    "city": "Grizzly Flats",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95637,
+    "latitude": 38.850382,
+    "longitude": -122.214722,
+    "city": "Guinda",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95638,
+    "latitude": 38.320561,
+    "longitude": -121.154808,
+    "city": "Herald",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95639,
+    "latitude": 38.357839,
+    "longitude": -121.541649,
+    "city": "Hood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95640,
+    "latitude": 38.340647,
+    "longitude": -120.91473,
+    "city": "Ione",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95641,
+    "latitude": 38.18394,
+    "longitude": -121.60164,
+    "city": "Isleton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95642,
+    "latitude": 38.366959,
+    "longitude": -120.763365,
+    "city": "Jackson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95644,
+    "latitude": 38.463282,
+    "longitude": -120.550021,
+    "city": "Kit Carson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95645,
+    "latitude": 38.858483,
+    "longitude": -121.772472,
+    "city": "Knights Landing",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95646,
+    "latitude": 38.575433,
+    "longitude": -120.285021,
+    "city": "Kirkwood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alpine"
+  },
+  {
+    "zip_code": 95648,
+    "latitude": 38.929305,
+    "longitude": -121.327143,
+    "city": "Lincoln",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95650,
+    "latitude": 38.814428,
+    "longitude": -121.176622,
+    "city": "Loomis",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95651,
+    "latitude": 38.888405,
+    "longitude": -120.842623,
+    "city": "Lotus",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95652,
+    "latitude": 38.666653,
+    "longitude": -121.389613,
+    "city": "Mcclellan",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95653,
+    "latitude": 38.671903,
+    "longitude": -121.972096,
+    "city": "Madison",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95654,
+    "latitude": 38.463282,
+    "longitude": -120.550021,
+    "city": "Martell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95655,
+    "latitude": 38.554406,
+    "longitude": -121.28181,
+    "city": "Mather",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95656,
+    "latitude": 38.54723,
+    "longitude": -120.707891,
+    "city": "Mount Aukum",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95658,
+    "latitude": 39.038217,
+    "longitude": -120.971166,
+    "city": "Newcastle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95659,
+    "latitude": 38.837134,
+    "longitude": -121.551933,
+    "city": "Nicolaus",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95660,
+    "latitude": 38.667003,
+    "longitude": -121.387541,
+    "city": "North Highlands",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95661,
+    "latitude": 38.74073,
+    "longitude": -121.25603,
+    "city": "Roseville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95662,
+    "latitude": 38.687103,
+    "longitude": -121.225369,
+    "city": "Orangevale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95663,
+    "latitude": 38.852288,
+    "longitude": -121.180531,
+    "city": "Penryn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95664,
+    "latitude": 38.75162,
+    "longitude": -120.979123,
+    "city": "Pilot Hill",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95665,
+    "latitude": 38.4038,
+    "longitude": -120.668334,
+    "city": "Pine Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95666,
+    "latitude": 38.556287,
+    "longitude": -120.352661,
+    "city": "Pioneer",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95667,
+    "latitude": 38.730224,
+    "longitude": -120.797149,
+    "city": "Placerville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95668,
+    "latitude": 38.830643,
+    "longitude": -121.534228,
+    "city": "Pleasant Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95669,
+    "latitude": 38.486559,
+    "longitude": -120.86184,
+    "city": "Plymouth",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95670,
+    "latitude": 38.597705,
+    "longitude": -121.270426,
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95671,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Represa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95672,
+    "latitude": 38.718327,
+    "longitude": -120.994305,
+    "city": "Rescue",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95673,
+    "latitude": 38.478399,
+    "longitude": -121.459135,
+    "city": "Rio Linda",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95674,
+    "latitude": 38.931318,
+    "longitude": -121.489882,
+    "city": "Rio Oso",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95675,
+    "latitude": 38.544557,
+    "longitude": -120.74279,
+    "city": "River Pines",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95676,
+    "latitude": 38.868875,
+    "longitude": -121.70949,
+    "city": "Robbins",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95677,
+    "latitude": 38.801233,
+    "longitude": -121.230374,
+    "city": "Rocklin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95678,
+    "latitude": 38.910488,
+    "longitude": -121.131309,
+    "city": "Roseville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95679,
+    "latitude": 38.867147,
+    "longitude": -122.224813,
+    "city": "Rumsey",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95680,
+    "latitude": 38.232898,
+    "longitude": -121.568427,
+    "city": "Ryde",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95681,
+    "latitude": 38.989408,
+    "longitude": -121.346893,
+    "city": "Sheridan",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95682,
+    "latitude": 38.62183,
+    "longitude": -120.78801,
+    "city": "Shingle Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95683,
+    "latitude": 38.51858,
+    "longitude": -121.125431,
+    "city": "Sloughhouse",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95684,
+    "latitude": 38.639336,
+    "longitude": -120.599848,
+    "city": "Somerset",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95685,
+    "latitude": 38.436584,
+    "longitude": -120.742839,
+    "city": "Sutter Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95686,
+    "latitude": 38.189865,
+    "longitude": -121.450953,
+    "city": "Thornton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "San Joaquin"
+  },
+  {
+    "zip_code": 95687,
+    "latitude": 38.35056,
+    "longitude": -121.912773,
+    "city": "Vacaville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 95688,
+    "latitude": 38.407405,
+    "longitude": -122.012778,
+    "city": "Vacaville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 95689,
+    "latitude": 38.44727,
+    "longitude": -120.706876,
+    "city": "Volcano",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95690,
+    "latitude": 38.181635,
+    "longitude": -121.578895,
+    "city": "Walnut Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95691,
+    "latitude": 38.608615,
+    "longitude": -121.610919,
+    "city": "West Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95692,
+    "latitude": 39.08337,
+    "longitude": -121.397892,
+    "city": "Wheatland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95693,
+    "latitude": 38.405222,
+    "longitude": -121.239026,
+    "city": "Wilton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95694,
+    "latitude": 38.622768,
+    "longitude": -121.923196,
+    "city": "Winters",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95695,
+    "latitude": 38.74388,
+    "longitude": -121.915653,
+    "city": "Woodland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95696,
+    "latitude": 38.34896,
+    "longitude": -121.908324,
+    "city": "Vacaville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Solano"
+  },
+  {
+    "zip_code": 95697,
+    "latitude": 38.751038,
+    "longitude": -121.832156,
+    "city": "Yolo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95698,
+    "latitude": 38.782731,
+    "longitude": -121.89811,
+    "city": "Zamora",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95699,
+    "latitude": 38.437001,
+    "longitude": -120.845706,
+    "city": "Drytown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Amador"
+  },
+  {
+    "zip_code": 95701,
+    "latitude": 39.214162,
+    "longitude": -120.795987,
+    "city": "Alta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95703,
+    "latitude": 38.998186,
+    "longitude": -120.994598,
+    "city": "Applegate",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95709,
+    "latitude": 38.745549,
+    "longitude": -120.693072,
+    "city": "Camino",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95712,
+    "latitude": 39.167276,
+    "longitude": -120.964275,
+    "city": "Chicago Park",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95713,
+    "latitude": 39.126473,
+    "longitude": -120.863763,
+    "city": "Colfax",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95714,
+    "latitude": 39.196515,
+    "longitude": -120.829762,
+    "city": "Dutch Flat",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95715,
+    "latitude": 39.254601,
+    "longitude": -120.721541,
+    "city": "Emigrant Gap",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95717,
+    "latitude": 39.168473,
+    "longitude": -120.802035,
+    "city": "Gold Run",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95720,
+    "latitude": 38.892518,
+    "longitude": -120.25249,
+    "city": "Kyburz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95721,
+    "latitude": 38.83074,
+    "longitude": -120.055163,
+    "city": "Echo Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95722,
+    "latitude": 39.001448,
+    "longitude": -121.034843,
+    "city": "Meadow Vista",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95724,
+    "latitude": 39.26599,
+    "longitude": -120.64145,
+    "city": "Norden",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95726,
+    "latitude": 38.766276,
+    "longitude": -120.481278,
+    "city": "Pollock Pines",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95728,
+    "latitude": 39.31959,
+    "longitude": -120.435313,
+    "city": "Soda Springs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95735,
+    "latitude": 38.802139,
+    "longitude": -120.140714,
+    "city": "Twin Bridges",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95736,
+    "latitude": 39.01892,
+    "longitude": -120.962012,
+    "city": "Weimar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95741,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95742,
+    "latitude": 38.579621,
+    "longitude": -121.20253,
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95743,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95746,
+    "latitude": 38.756614,
+    "longitude": -121.183436,
+    "city": "Granite Bay",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95747,
+    "latitude": 38.779875,
+    "longitude": -121.335559,
+    "city": "Roseville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95758,
+    "latitude": 38.347205,
+    "longitude": -121.428681,
+    "city": "Elk Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95759,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Elk Grove",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95762,
+    "latitude": 38.686847,
+    "longitude": -121.044846,
+    "city": "El Dorado Hills",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 95763,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Folsom",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95765,
+    "latitude": 38.819795,
+    "longitude": -121.277439,
+    "city": "Rocklin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 95776,
+    "latitude": 38.695895,
+    "longitude": -121.709713,
+    "city": "Woodland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95798,
+    "latitude": 38.619545,
+    "longitude": -121.961532,
+    "city": "West Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95799,
+    "latitude": 38.619545,
+    "longitude": -121.961532,
+    "city": "West Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95812,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95813,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95814,
+    "latitude": 38.579055,
+    "longitude": -121.480905,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95815,
+    "latitude": 38.589505,
+    "longitude": -121.448665,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95816,
+    "latitude": 38.571505,
+    "longitude": -121.467549,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95817,
+    "latitude": 38.549232,
+    "longitude": -121.452264,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95818,
+    "latitude": 38.557255,
+    "longitude": -121.495915,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95819,
+    "latitude": 38.568305,
+    "longitude": -121.440764,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95820,
+    "latitude": 38.536606,
+    "longitude": -121.446414,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95821,
+    "latitude": 38.627204,
+    "longitude": -121.437964,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95822,
+    "latitude": 38.511356,
+    "longitude": -121.497716,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95823,
+    "latitude": 38.481354,
+    "longitude": -121.442071,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95824,
+    "latitude": 38.517256,
+    "longitude": -121.440764,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95825,
+    "latitude": 38.585804,
+    "longitude": -121.402213,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95826,
+    "latitude": 38.547639,
+    "longitude": -121.385459,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95827,
+    "latitude": 38.552752,
+    "longitude": -121.322653,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95828,
+    "latitude": 38.488446,
+    "longitude": -121.423245,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95829,
+    "latitude": 38.495328,
+    "longitude": -121.321524,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95830,
+    "latitude": 38.490022,
+    "longitude": -121.25614,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95831,
+    "latitude": 38.497863,
+    "longitude": -121.531332,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95832,
+    "latitude": 38.435014,
+    "longitude": -121.497276,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95833,
+    "latitude": 38.621802,
+    "longitude": -121.514016,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95834,
+    "latitude": 38.584193,
+    "longitude": -121.523566,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95835,
+    "latitude": 38.667783,
+    "longitude": -121.526051,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95836,
+    "latitude": 38.710901,
+    "longitude": -121.522717,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95837,
+    "latitude": 38.692855,
+    "longitude": -121.603038,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95838,
+    "latitude": 38.645103,
+    "longitude": -121.440015,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95840,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95841,
+    "latitude": 38.665385,
+    "longitude": -121.353862,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95842,
+    "latitude": 38.692752,
+    "longitude": -121.359009,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95843,
+    "latitude": 38.716091,
+    "longitude": -121.366613,
+    "city": "Antelope",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95851,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95852,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95853,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95857,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95860,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95864,
+    "latitude": 38.586554,
+    "longitude": -121.379467,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95865,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95866,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95867,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95873,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95887,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95894,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95899,
+    "latitude": 38.377411,
+    "longitude": -121.444429,
+    "city": "Sacramento",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sacramento"
+  },
+  {
+    "zip_code": 95901,
+    "latitude": 39.260878,
+    "longitude": -121.370959,
+    "city": "Marysville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95903,
+    "latitude": 39.111453,
+    "longitude": -121.360957,
+    "city": "Beale Afb",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95910,
+    "latitude": 39.466324,
+    "longitude": -120.829633,
+    "city": "Alleghany",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 95912,
+    "latitude": 39.0134,
+    "longitude": -121.996852,
+    "city": "Arbuckle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95913,
+    "latitude": 39.698298,
+    "longitude": -122.168928,
+    "city": "Artois",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95914,
+    "latitude": 39.409669,
+    "longitude": -121.406274,
+    "city": "Bangor",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95915,
+    "latitude": 39.912222,
+    "longitude": -120.834958,
+    "city": "Belden",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95916,
+    "latitude": 39.653813,
+    "longitude": -121.383744,
+    "city": "Berry Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95917,
+    "latitude": 39.40672,
+    "longitude": -121.753522,
+    "city": "Biggs",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95918,
+    "latitude": 39.321808,
+    "longitude": -121.367758,
+    "city": "Browns Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95919,
+    "latitude": 39.425005,
+    "longitude": -121.273889,
+    "city": "Brownsville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95920,
+    "latitude": 39.458507,
+    "longitude": -121.934145,
+    "city": "Butte City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95922,
+    "latitude": 39.414386,
+    "longitude": -121.111454,
+    "city": "Camptonville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95923,
+    "latitude": 40.211176,
+    "longitude": -121.120635,
+    "city": "Canyondam",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95924,
+    "latitude": 39.26599,
+    "longitude": -120.64145,
+    "city": "Cedar Ridge",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95925,
+    "latitude": 39.467095,
+    "longitude": -121.204452,
+    "city": "Challenge",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95926,
+    "latitude": 39.746159,
+    "longitude": -121.840083,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95927,
+    "latitude": 39.805255,
+    "longitude": -121.684124,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95928,
+    "latitude": 39.687626,
+    "longitude": -121.799166,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95929,
+    "latitude": 39.731406,
+    "longitude": -121.801215,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95930,
+    "latitude": 39.543835,
+    "longitude": -121.220469,
+    "city": "Clipper Mills",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95931,
+    "latitude": 39.169245,
+    "longitude": -122.290204,
+    "city": "College City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95932,
+    "latitude": 39.203958,
+    "longitude": -122.221269,
+    "city": "Colusa",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95934,
+    "latitude": 40.086309,
+    "longitude": -120.924541,
+    "city": "Crescent Mills",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95935,
+    "latitude": 39.377751,
+    "longitude": -121.188917,
+    "city": "Dobbins",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95936,
+    "latitude": 39.558607,
+    "longitude": -120.853714,
+    "city": "Downieville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 95937,
+    "latitude": 38.835384,
+    "longitude": -122.057921,
+    "city": "Dunnigan",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yolo"
+  },
+  {
+    "zip_code": 95938,
+    "latitude": 39.626362,
+    "longitude": -121.777546,
+    "city": "Durham",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95939,
+    "latitude": 39.54842,
+    "longitude": -122.567428,
+    "city": "Elk Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95940,
+    "latitude": 39.585648,
+    "longitude": -121.259009,
+    "city": "Feather Falls",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95941,
+    "latitude": 39.528374,
+    "longitude": -121.265237,
+    "city": "Forbestown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95942,
+    "latitude": 39.947462,
+    "longitude": -121.582814,
+    "city": "Forest Ranch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95943,
+    "latitude": 39.596546,
+    "longitude": -122.032181,
+    "city": "Glenn",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95944,
+    "latitude": 39.49253,
+    "longitude": -120.898248,
+    "city": "Goodyears Bar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 95945,
+    "latitude": 39.196288,
+    "longitude": -120.95855,
+    "city": "Grass Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95946,
+    "latitude": 39.21656,
+    "longitude": -121.117883,
+    "city": "Penn Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95947,
+    "latitude": 40.124832,
+    "longitude": -120.87884,
+    "city": "Greenville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95948,
+    "latitude": 39.355492,
+    "longitude": -121.724685,
+    "city": "Gridley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95949,
+    "latitude": 39.110986,
+    "longitude": -121.128336,
+    "city": "Grass Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95950,
+    "latitude": 39.065895,
+    "longitude": -121.908208,
+    "city": "Grimes",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95951,
+    "latitude": 39.728209,
+    "longitude": -122.053823,
+    "city": "Hamilton City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95953,
+    "latitude": 39.236141,
+    "longitude": -121.767177,
+    "city": "Live Oak",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95954,
+    "latitude": 39.867959,
+    "longitude": -121.599628,
+    "city": "Magalia",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95955,
+    "latitude": 39.2847,
+    "longitude": -122.210089,
+    "city": "Maxwell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95956,
+    "latitude": 39.896259,
+    "longitude": -121.096023,
+    "city": "Meadow Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95957,
+    "latitude": 39.066931,
+    "longitude": -121.848565,
+    "city": "Meridian",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95958,
+    "latitude": 39.556251,
+    "longitude": -121.803777,
+    "city": "Nelson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95959,
+    "latitude": 39.299606,
+    "longitude": -120.887965,
+    "city": "Nevada City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95960,
+    "latitude": 39.330529,
+    "longitude": -121.084241,
+    "city": "North San Juan",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95961,
+    "latitude": 39.214767,
+    "longitude": -121.391149,
+    "city": "Olivehurst",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95962,
+    "latitude": 39.210524,
+    "longitude": -121.347605,
+    "city": "Oregon House",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95963,
+    "latitude": 39.631197,
+    "longitude": -122.327137,
+    "city": "Orland",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95965,
+    "latitude": 39.578352,
+    "longitude": -121.58212,
+    "city": "Oroville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95966,
+    "latitude": 39.463113,
+    "longitude": -121.417372,
+    "city": "Oroville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95967,
+    "latitude": 39.723898,
+    "longitude": -121.572986,
+    "city": "Paradise",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95968,
+    "latitude": 39.443039,
+    "longitude": -121.55118,
+    "city": "Palermo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95969,
+    "latitude": 39.654279,
+    "longitude": -121.707265,
+    "city": "Paradise",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95970,
+    "latitude": 39.379166,
+    "longitude": -122.095709,
+    "city": "Princeton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95971,
+    "latitude": 40.005131,
+    "longitude": -121.017725,
+    "city": "Quincy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95972,
+    "latitude": 39.44442,
+    "longitude": -121.318329,
+    "city": "Rackerby",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95973,
+    "latitude": 39.837577,
+    "longitude": -121.869949,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95974,
+    "latitude": 39.50107,
+    "longitude": -121.754346,
+    "city": "Richvale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95975,
+    "latitude": 39.225477,
+    "longitude": -121.148643,
+    "city": "Rough And Ready",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95976,
+    "latitude": 39.723898,
+    "longitude": -121.572986,
+    "city": "Chico",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95977,
+    "latitude": 39.19443,
+    "longitude": -121.314435,
+    "city": "Smartville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95978,
+    "latitude": 39.995078,
+    "longitude": -121.47936,
+    "city": "Stirling City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 95979,
+    "latitude": 39.28207,
+    "longitude": -122.431045,
+    "city": "Stonyford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95980,
+    "latitude": 39.918503,
+    "longitude": -121.337404,
+    "city": "Storrie",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95981,
+    "latitude": 39.577329,
+    "longitude": -121.101562,
+    "city": "Strawberry Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Yuba"
+  },
+  {
+    "zip_code": 95982,
+    "latitude": 39.172636,
+    "longitude": -121.80251,
+    "city": "Sutter",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95983,
+    "latitude": 39.963458,
+    "longitude": -120.77591,
+    "city": "Taylorsville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95984,
+    "latitude": 39.950913,
+    "longitude": -121.094912,
+    "city": "Twain",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 95986,
+    "latitude": 39.352343,
+    "longitude": -120.79118,
+    "city": "Washington",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 95987,
+    "latitude": 39.142737,
+    "longitude": -122.243739,
+    "city": "Williams",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Colusa"
+  },
+  {
+    "zip_code": 95988,
+    "latitude": 39.519386,
+    "longitude": -122.292996,
+    "city": "Willows",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Glenn"
+  },
+  {
+    "zip_code": 95991,
+    "latitude": 39.048854,
+    "longitude": -121.612481,
+    "city": "Yuba City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95992,
+    "latitude": 39.020133,
+    "longitude": -121.681345,
+    "city": "Yuba City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 95993,
+    "latitude": 39.130338,
+    "longitude": -121.737911,
+    "city": "Yuba City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sutter"
+  },
+  {
+    "zip_code": 96001,
+    "latitude": 40.675738,
+    "longitude": -122.456982,
+    "city": "Redding",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96002,
+    "latitude": 40.624448,
+    "longitude": -122.3076,
+    "city": "Redding",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96003,
+    "latitude": 40.71711,
+    "longitude": -122.279493,
+    "city": "Redding",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96006,
+    "latitude": 41.236677,
+    "longitude": -120.932949,
+    "city": "Adin",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96007,
+    "latitude": 40.469324,
+    "longitude": -122.278404,
+    "city": "Anderson",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96008,
+    "latitude": 40.715565,
+    "longitude": -122.11939,
+    "city": "Bella Vista",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96009,
+    "latitude": 41.131506,
+    "longitude": -121.128616,
+    "city": "Bieber",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96010,
+    "latitude": 40.672576,
+    "longitude": -123.034604,
+    "city": "Big Bar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96011,
+    "latitude": 40.974917,
+    "longitude": -121.82502,
+    "city": "Big Bend",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96013,
+    "latitude": 40.942396,
+    "longitude": -121.687076,
+    "city": "Burney",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96014,
+    "latitude": 41.281549,
+    "longitude": -122.875526,
+    "city": "Callahan",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96015,
+    "latitude": 41.458738,
+    "longitude": -120.80293,
+    "city": "Canby",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96016,
+    "latitude": 40.933652,
+    "longitude": -121.56766,
+    "city": "Cassel",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96017,
+    "latitude": 41.110338,
+    "longitude": -122.316052,
+    "city": "Castella",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96019,
+    "latitude": 40.69686,
+    "longitude": -122.368263,
+    "city": "Shasta Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96020,
+    "latitude": 40.277282,
+    "longitude": -121.200726,
+    "city": "Chester",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96021,
+    "latitude": 40.125399,
+    "longitude": -122.135411,
+    "city": "Corning",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96022,
+    "latitude": 40.439989,
+    "longitude": -122.429495,
+    "city": "Cottonwood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96023,
+    "latitude": 41.919428,
+    "longitude": -121.973887,
+    "city": "Dorris",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96024,
+    "latitude": 40.668853,
+    "longitude": -122.942468,
+    "city": "Douglas City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96025,
+    "latitude": 41.45574,
+    "longitude": -122.390196,
+    "city": "Dunsmuir",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96027,
+    "latitude": 41.44631,
+    "longitude": -123.010024,
+    "city": "Etna",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96028,
+    "latitude": 41.034309,
+    "longitude": -121.471061,
+    "city": "Fall River Mills",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96029,
+    "latitude": 39.902424,
+    "longitude": -122.491767,
+    "city": "Flournoy",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96031,
+    "latitude": 41.219117,
+    "longitude": -123.23633,
+    "city": "Forks Of Salmon",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96032,
+    "latitude": 41.581383,
+    "longitude": -122.824847,
+    "city": "Fort Jones",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96033,
+    "latitude": 40.689232,
+    "longitude": -122.58753,
+    "city": "French Gulch",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96034,
+    "latitude": 41.441483,
+    "longitude": -122.699937,
+    "city": "Gazelle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96035,
+    "latitude": 40.049209,
+    "longitude": -122.209437,
+    "city": "Gerber",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96037,
+    "latitude": 41.540332,
+    "longitude": -122.936575,
+    "city": "Greenview",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96038,
+    "latitude": 41.63468,
+    "longitude": -122.46953,
+    "city": "Grenada",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96039,
+    "latitude": 41.666514,
+    "longitude": -123.421603,
+    "city": "Happy Camp",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96040,
+    "latitude": 40.808623,
+    "longitude": -121.499992,
+    "city": "Hat Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96041,
+    "latitude": 40.500622,
+    "longitude": -123.167247,
+    "city": "Hayfork",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96044,
+    "latitude": 41.939792,
+    "longitude": -122.525589,
+    "city": "Hornbrook",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96046,
+    "latitude": 40.613736,
+    "longitude": -123.448823,
+    "city": "Hyampom",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96047,
+    "latitude": 40.478246,
+    "longitude": -122.722296,
+    "city": "Igo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96048,
+    "latitude": 40.741117,
+    "longitude": -123.071788,
+    "city": "Junction City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96049,
+    "latitude": 40.709783,
+    "longitude": -122.311628,
+    "city": "Redding",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96050,
+    "latitude": 41.871172,
+    "longitude": -122.977919,
+    "city": "Klamath River",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96051,
+    "latitude": 40.910481,
+    "longitude": -122.410576,
+    "city": "Lakehead",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96052,
+    "latitude": 40.736068,
+    "longitude": -122.837262,
+    "city": "Lewiston",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96054,
+    "latitude": 41.234693,
+    "longitude": -121.215582,
+    "city": "Lookout",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96055,
+    "latitude": 40.039203,
+    "longitude": -122.13374,
+    "city": "Los Molinos",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96056,
+    "latitude": 41.096751,
+    "longitude": -121.436822,
+    "city": "Mcarthur",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96057,
+    "latitude": 41.247548,
+    "longitude": -122.112813,
+    "city": "Mccloud",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96058,
+    "latitude": 41.787881,
+    "longitude": -121.911394,
+    "city": "Macdoel",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96059,
+    "latitude": 40.420879,
+    "longitude": -121.864689,
+    "city": "Manton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96061,
+    "latitude": 40.343925,
+    "longitude": -121.503495,
+    "city": "Mill Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96062,
+    "latitude": 40.570081,
+    "longitude": -122.067214,
+    "city": "Millville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96063,
+    "latitude": 40.356403,
+    "longitude": -121.57102,
+    "city": "Mineral",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96064,
+    "latitude": 41.757491,
+    "longitude": -122.196783,
+    "city": "Montague",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96065,
+    "latitude": 40.900945,
+    "longitude": -121.916728,
+    "city": "Montgomery Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96067,
+    "latitude": 41.427158,
+    "longitude": -122.473307,
+    "city": "Mount Shasta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96068,
+    "latitude": 41.129955,
+    "longitude": -121.134222,
+    "city": "Nubieber",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96069,
+    "latitude": 40.691529,
+    "longitude": -122.042324,
+    "city": "Oak Run",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96070,
+    "latitude": 40.735153,
+    "longitude": -122.1944,
+    "city": "Obrien",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96071,
+    "latitude": 40.658943,
+    "longitude": -121.449467,
+    "city": "Old Station",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96073,
+    "latitude": 40.56844,
+    "longitude": -122.201552,
+    "city": "Palo Cedro",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96074,
+    "latitude": 39.877198,
+    "longitude": -122.581386,
+    "city": "Paskenta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96075,
+    "latitude": 40.364148,
+    "longitude": -121.841348,
+    "city": "Paynes Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96076,
+    "latitude": 40.375954,
+    "longitude": -122.936967,
+    "city": "Platina",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96078,
+    "latitude": 40.12517,
+    "longitude": -122.204141,
+    "city": "Proberta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96079,
+    "latitude": 40.686639,
+    "longitude": -122.334778,
+    "city": "Shasta Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96080,
+    "latitude": 40.142907,
+    "longitude": -122.340888,
+    "city": "Red Bluff",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96084,
+    "latitude": 40.762944,
+    "longitude": -122.171093,
+    "city": "Round Mountain",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96085,
+    "latitude": 41.728874,
+    "longitude": -123.03007,
+    "city": "Scott Bar",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96086,
+    "latitude": 41.833921,
+    "longitude": -123.235079,
+    "city": "Seiad Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96087,
+    "latitude": 40.601263,
+    "longitude": -122.494455,
+    "city": "Shasta",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96088,
+    "latitude": 40.488664,
+    "longitude": -121.960944,
+    "city": "Shingletown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96089,
+    "latitude": 40.657893,
+    "longitude": -122.427333,
+    "city": "Shasta Lake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96090,
+    "latitude": 40.021383,
+    "longitude": -122.118643,
+    "city": "Tehama",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96091,
+    "latitude": 41.050081,
+    "longitude": -122.686387,
+    "city": "Trinity Center",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96092,
+    "latitude": 39.927203,
+    "longitude": -122.025047,
+    "city": "Vina",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Tehama"
+  },
+  {
+    "zip_code": 96093,
+    "latitude": 40.704907,
+    "longitude": -122.956559,
+    "city": "Weaverville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Trinity"
+  },
+  {
+    "zip_code": 96094,
+    "latitude": 41.6661,
+    "longitude": -122.408583,
+    "city": "Weed",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96095,
+    "latitude": 40.735153,
+    "longitude": -122.1944,
+    "city": "Whiskeytown",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96096,
+    "latitude": 40.575131,
+    "longitude": -121.86265,
+    "city": "Whitmore",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96097,
+    "latitude": 41.623828,
+    "longitude": -122.440389,
+    "city": "Yreka",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96099,
+    "latitude": 40.704337,
+    "longitude": -122.387808,
+    "city": "Redding",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Shasta"
+  },
+  {
+    "zip_code": 96101,
+    "latitude": 41.433984,
+    "longitude": -120.640865,
+    "city": "Alturas",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96103,
+    "latitude": 39.812686,
+    "longitude": -120.640497,
+    "city": "Blairsden-Graeagle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96104,
+    "latitude": 41.42426,
+    "longitude": -120.111396,
+    "city": "Cedarville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96105,
+    "latitude": 39.794136,
+    "longitude": -120.132207,
+    "city": "Chilcoot",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96106,
+    "latitude": 39.754627,
+    "longitude": -120.595092,
+    "city": "Clio",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96107,
+    "latitude": 38.533336,
+    "longitude": -119.485034,
+    "city": "Coleville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mono"
+  },
+  {
+    "zip_code": 96108,
+    "latitude": 41.590548,
+    "longitude": -120.727706,
+    "city": "Davis Creek",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96109,
+    "latitude": 39.962841,
+    "longitude": -120.20247,
+    "city": "Doyle",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96110,
+    "latitude": 41.590548,
+    "longitude": -120.727706,
+    "city": "Eagleville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96111,
+    "latitude": 39.392752,
+    "longitude": -120.021212,
+    "city": "Floriston",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 96112,
+    "latitude": 41.590548,
+    "longitude": -120.727706,
+    "city": "Fort Bidwell",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96113,
+    "latitude": 40.101514,
+    "longitude": -120.244727,
+    "city": "Herlong",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96114,
+    "latitude": 40.298255,
+    "longitude": -120.506184,
+    "city": "Janesville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96115,
+    "latitude": 41.763674,
+    "longitude": -120.179132,
+    "city": "Lake City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96116,
+    "latitude": 41.232908,
+    "longitude": -120.507888,
+    "city": "Likely",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Modoc"
+  },
+  {
+    "zip_code": 96117,
+    "latitude": 40.407309,
+    "longitude": -120.40921,
+    "city": "Litchfield",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96118,
+    "latitude": 39.613008,
+    "longitude": -120.285676,
+    "city": "Loyalton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 96119,
+    "latitude": 40.97664,
+    "longitude": -120.554754,
+    "city": "Madeline",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96120,
+    "latitude": 38.771319,
+    "longitude": -119.832669,
+    "city": "Markleeville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Alpine"
+  },
+  {
+    "zip_code": 96121,
+    "latitude": 40.196745,
+    "longitude": -120.367586,
+    "city": "Milford",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96122,
+    "latitude": 39.800456,
+    "longitude": -120.542224,
+    "city": "Portola",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96123,
+    "latitude": 40.776154,
+    "longitude": -120.326259,
+    "city": "Ravendale",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96124,
+    "latitude": 39.613937,
+    "longitude": -120.404625,
+    "city": "Calpine",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 96125,
+    "latitude": 39.593596,
+    "longitude": -120.626908,
+    "city": "Sierra City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 96126,
+    "latitude": 39.582462,
+    "longitude": -120.371073,
+    "city": "Sierraville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Sierra"
+  },
+  {
+    "zip_code": 96127,
+    "latitude": 40.446063,
+    "longitude": -120.664132,
+    "city": "Susanville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96128,
+    "latitude": 40.341664,
+    "longitude": -120.423118,
+    "city": "Standish",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96129,
+    "latitude": 39.772064,
+    "longitude": -120.405095,
+    "city": "Beckwourth",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96130,
+    "latitude": 40.548881,
+    "longitude": -120.719159,
+    "city": "Susanville",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96132,
+    "latitude": 40.950868,
+    "longitude": -120.612954,
+    "city": "Termo",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96133,
+    "latitude": 38.617086,
+    "longitude": -119.506094,
+    "city": "Topaz",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Mono"
+  },
+  {
+    "zip_code": 96134,
+    "latitude": 41.93519,
+    "longitude": -121.58865,
+    "city": "Tulelake",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Siskiyou"
+  },
+  {
+    "zip_code": 96135,
+    "latitude": 40.02349,
+    "longitude": -120.79861,
+    "city": "Vinton",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Plumas"
+  },
+  {
+    "zip_code": 96136,
+    "latitude": 40.34056,
+    "longitude": -120.282398,
+    "city": "Wendel",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96137,
+    "latitude": 40.303792,
+    "longitude": -121.022584,
+    "city": "Westwood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Lassen"
+  },
+  {
+    "zip_code": 96140,
+    "latitude": 39.229978,
+    "longitude": -120.066235,
+    "city": "Carnelian Bay",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96141,
+    "latitude": 39.122962,
+    "longitude": -120.178327,
+    "city": "Homewood",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96142,
+    "latitude": 38.998714,
+    "longitude": -120.107955,
+    "city": "Tahoma",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96143,
+    "latitude": 39.201123,
+    "longitude": -120.083236,
+    "city": "Kings Beach",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96145,
+    "latitude": 39.163631,
+    "longitude": -120.131614,
+    "city": "Tahoe City",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96146,
+    "latitude": 39.175186,
+    "longitude": -120.19544,
+    "city": "Olympic Valley",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96148,
+    "latitude": 39.2226,
+    "longitude": -120.068988,
+    "city": "Tahoe Vista",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Placer"
+  },
+  {
+    "zip_code": 96150,
+    "latitude": 38.927507,
+    "longitude": -120.039632,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96151,
+    "latitude": 38.90392,
+    "longitude": -119.995024,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96152,
+    "latitude": 38.927149,
+    "longitude": -119.999032,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96154,
+    "latitude": 38.87529,
+    "longitude": -120.0188,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96155,
+    "latitude": 38.844909,
+    "longitude": -120.042996,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96156,
+    "latitude": 38.935245,
+    "longitude": -119.967631,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96157,
+    "latitude": 38.934409,
+    "longitude": -119.976707,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96158,
+    "latitude": 38.898142,
+    "longitude": -119.998419,
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "full_state": "California",
+    "county": "El Dorado"
+  },
+  {
+    "zip_code": 96160,
+    "latitude": 39.3781,
+    "longitude": -120.186383,
+    "city": "Truckee",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 96161,
+    "latitude": 39.377677,
+    "longitude": -120.407502,
+    "city": "Truckee",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 96162,
+    "latitude": 39.26599,
+    "longitude": -120.64145,
+    "city": "Truckee",
+    "state": "CA",
+    "full_state": "California",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 96201,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96202,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96203,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96204,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96205,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96206,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96207,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96208,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96212,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96213,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96214,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96215,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96217,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96218,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96219,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96220,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96221,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96224,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96251,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96257,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96258,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96259,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96260,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96262,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96264,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96266,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96267,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96269,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96271,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96275,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96276,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96278,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96283,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96284,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96297,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96306,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96309,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96310,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96311,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96313,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96319,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96321,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96322,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96323,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96325,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96326,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96328,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96330,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96336,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96337,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96338,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96343,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96347,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96348,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96349,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96350,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96351,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96362,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96364,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96365,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96367,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96368,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96370,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96372,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96373,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96374,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96375,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96376,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96377,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96378,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96379,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96384,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96386,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96387,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96388,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96403,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96490,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96505,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96506,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96507,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96508,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96511,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96512,
+    "latitude": "",
+    "longitude": "",
+    "city": "APO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96515,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  },
+  {
+    "zip_code": 96517,
+    "latitude": "",
+    "longitude": "",
+    "city": "FPO",
+    "state": "AP",
+    "county": ""
+  }
+]

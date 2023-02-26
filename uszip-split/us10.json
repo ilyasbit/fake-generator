@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 38634,
+    "latitude": 34.74504,
+    "longitude": -89.484963,
+    "city": "Holly Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38635,
+    "latitude": 34.774733,
+    "longitude": -89.513878,
+    "city": "Holly Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38637,
+    "latitude": 34.950609,
+    "longitude": -90.03355,
+    "city": "Horn Lake",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38638,
+    "latitude": 34.695853,
+    "longitude": -89.828798,
+    "city": "Independence",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tate"
+  },
+  {
+    "zip_code": 38639,
+    "latitude": 34.30373,
+    "longitude": -90.429351,
+    "city": "Jonestown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38641,
+    "latitude": 34.911835,
+    "longitude": -90.14603,
+    "city": "Lake Cormorant",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38642,
+    "latitude": 34.930329,
+    "longitude": -89.399923,
+    "city": "Lamar",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38643,
+    "latitude": 34.189235,
+    "longitude": -90.215916,
+    "city": "Lambert",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Quitman"
+  },
+  {
+    "zip_code": 38644,
+    "latitude": 34.461795,
+    "longitude": -90.498088,
+    "city": "Lula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38645,
+    "latitude": 34.236389,
+    "longitude": -90.47941,
+    "city": "Lyon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38646,
+    "latitude": 34.314968,
+    "longitude": -90.214465,
+    "city": "Marks",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Quitman"
+  },
+  {
+    "zip_code": 38647,
+    "latitude": 34.788948,
+    "longitude": -89.185048,
+    "city": "Michigan City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 38649,
+    "latitude": 34.953584,
+    "longitude": -89.523027,
+    "city": "Mount Pleasant",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38650,
+    "latitude": 34.512992,
+    "longitude": -89.133523,
+    "city": "Myrtle",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Union"
+  },
+  {
+    "zip_code": 38651,
+    "latitude": 34.875133,
+    "longitude": -89.985853,
+    "city": "Nesbit",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38652,
+    "latitude": 34.488692,
+    "longitude": -88.963649,
+    "city": "New Albany",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Union"
+  },
+  {
+    "zip_code": 38654,
+    "latitude": 34.921172,
+    "longitude": -89.869062,
+    "city": "Olive Branch",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38655,
+    "latitude": 34.330814,
+    "longitude": -89.483519,
+    "city": "Oxford",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38658,
+    "latitude": 34.196241,
+    "longitude": -89.888559,
+    "city": "Pope",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Panola"
+  },
+  {
+    "zip_code": 38659,
+    "latitude": 34.62921,
+    "longitude": -89.366355,
+    "city": "Potts Camp",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38661,
+    "latitude": 34.893744,
+    "longitude": -89.564928,
+    "city": "Red Banks",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38663,
+    "latitude": 34.722961,
+    "longitude": -88.903624,
+    "city": "Ripley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tippah"
+  },
+  {
+    "zip_code": 38664,
+    "latitude": 34.780008,
+    "longitude": -90.332582,
+    "city": "Robinsonville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tunica"
+  },
+  {
+    "zip_code": 38665,
+    "latitude": 34.414146,
+    "longitude": -90.039377,
+    "city": "Sarah",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Panola"
+  },
+  {
+    "zip_code": 38666,
+    "latitude": 34.358883,
+    "longitude": -89.930441,
+    "city": "Sardis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Panola"
+  },
+  {
+    "zip_code": 38668,
+    "latitude": 34.621336,
+    "longitude": -89.930083,
+    "city": "Senatobia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tate"
+  },
+  {
+    "zip_code": 38669,
+    "latitude": 34.195345,
+    "longitude": -90.733538,
+    "city": "Sherard",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38670,
+    "latitude": 34.561069,
+    "longitude": -90.330278,
+    "city": "Sledge",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tunica"
+  },
+  {
+    "zip_code": 38671,
+    "latitude": 34.956633,
+    "longitude": -89.99624,
+    "city": "Southaven",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38672,
+    "latitude": 34.947407,
+    "longitude": -89.925792,
+    "city": "Southaven",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38673,
+    "latitude": 34.291869,
+    "longitude": -89.611016,
+    "city": "Taylor",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38674,
+    "latitude": 34.877104,
+    "longitude": -88.900175,
+    "city": "Tiplersville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tippah"
+  },
+  {
+    "zip_code": 38675,
+    "latitude": 34.358201,
+    "longitude": -89.483865,
+    "city": "Tula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38676,
+    "latitude": 34.692892,
+    "longitude": -90.338981,
+    "city": "Tunica",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tunica"
+  },
+  {
+    "zip_code": 38677,
+    "latitude": 34.33962,
+    "longitude": -89.573605,
+    "city": "University",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38679,
+    "latitude": 34.870804,
+    "longitude": -89.64082,
+    "city": "Victoria",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 38680,
+    "latitude": 34.960712,
+    "longitude": -90.113913,
+    "city": "Walls",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38683,
+    "latitude": 34.89462,
+    "longitude": -88.885227,
+    "city": "Walnut",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tippah"
+  },
+  {
+    "zip_code": 38685,
+    "latitude": 34.547621,
+    "longitude": -89.612918,
+    "city": "Waterford",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38686,
+    "latitude": 34.875277,
+    "longitude": -89.991991,
+    "city": "Walls",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 38701,
+    "latitude": 33.314539,
+    "longitude": -91.02297,
+    "city": "Greenville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38702,
+    "latitude": 33.425792,
+    "longitude": -90.994597,
+    "city": "Greenville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38703,
+    "latitude": 33.414186,
+    "longitude": -91.009518,
+    "city": "Greenville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38704,
+    "latitude": 33.253401,
+    "longitude": -90.918503,
+    "city": "Greenville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38720,
+    "latitude": 34.074216,
+    "longitude": -90.75974,
+    "city": "Alligator",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38721,
+    "latitude": 32.973917,
+    "longitude": -90.831601,
+    "city": "Anguilla",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 38722,
+    "latitude": 33.26597,
+    "longitude": -90.844813,
+    "city": "Arcola",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38723,
+    "latitude": 33.218997,
+    "longitude": -91.047905,
+    "city": "Avon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38725,
+    "latitude": 33.627816,
+    "longitude": -90.994878,
+    "city": "Benoit",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38726,
+    "latitude": 33.75291,
+    "longitude": -90.958277,
+    "city": "Beulah",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38730,
+    "latitude": 33.741709,
+    "longitude": -90.773978,
+    "city": "Boyle",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38731,
+    "latitude": 33.085379,
+    "longitude": -91.088255,
+    "city": "Chatham",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38732,
+    "latitude": 33.847591,
+    "longitude": -90.84313,
+    "city": "Cleveland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38733,
+    "latitude": 33.624024,
+    "longitude": -90.819547,
+    "city": "Cleveland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38736,
+    "latitude": 33.690173,
+    "longitude": -90.549626,
+    "city": "Doddsville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38737,
+    "latitude": 33.685766,
+    "longitude": -90.607299,
+    "city": "Drew",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38738,
+    "latitude": 33.628715,
+    "longitude": -90.607457,
+    "city": "Parchman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38739,
+    "latitude": 34.060359,
+    "longitude": -90.501063,
+    "city": "Dublin",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38740,
+    "latitude": 33.94809,
+    "longitude": -90.770386,
+    "city": "Duncan",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38744,
+    "latitude": 33.045837,
+    "longitude": -91.019421,
+    "city": "Glen Allan",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38745,
+    "latitude": 32.711257,
+    "longitude": -90.952716,
+    "city": "Grace",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Issaquena"
+  },
+  {
+    "zip_code": 38746,
+    "latitude": 34.000588,
+    "longitude": -90.919616,
+    "city": "Gunnison",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38748,
+    "latitude": 33.230409,
+    "longitude": -90.910451,
+    "city": "Hollandale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38749,
+    "latitude": 33.628715,
+    "longitude": -90.607457,
+    "city": "Holly Ridge",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38751,
+    "latitude": 33.443446,
+    "longitude": -90.608662,
+    "city": "Indianola",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38753,
+    "latitude": 33.350655,
+    "longitude": -90.583441,
+    "city": "Inverness",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38754,
+    "latitude": 33.263048,
+    "longitude": -90.59677,
+    "city": "Isola",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Humphreys"
+  },
+  {
+    "zip_code": 38756,
+    "latitude": 33.398505,
+    "longitude": -90.88387,
+    "city": "Leland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38758,
+    "latitude": 34.076795,
+    "longitude": -90.507012,
+    "city": "Mattson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38759,
+    "latitude": 33.818742,
+    "longitude": -90.840631,
+    "city": "Merigold",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38760,
+    "latitude": 33.454614,
+    "longitude": -90.994264,
+    "city": "Metcalfe",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38761,
+    "latitude": 33.443386,
+    "longitude": -90.506817,
+    "city": "Moorhead",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38762,
+    "latitude": 33.767126,
+    "longitude": -90.846978,
+    "city": "Mound Bayou",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38763,
+    "latitude": 32.879795,
+    "longitude": -90.81096,
+    "city": "Nitta Yuma",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 38764,
+    "latitude": 33.725717,
+    "longitude": -90.92728,
+    "city": "Pace",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38765,
+    "latitude": 32.879795,
+    "longitude": -90.81096,
+    "city": "Panther Burn",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 38767,
+    "latitude": 34.1412,
+    "longitude": -90.7865,
+    "city": "Rena Lara",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Coahoma"
+  },
+  {
+    "zip_code": 38768,
+    "latitude": 33.958959,
+    "longitude": -90.477605,
+    "city": "Rome",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38769,
+    "latitude": 33.841892,
+    "longitude": -90.882598,
+    "city": "Rosedale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38771,
+    "latitude": 33.66479,
+    "longitude": -90.555537,
+    "city": "Ruleville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38772,
+    "latitude": 33.562871,
+    "longitude": -91.039093,
+    "city": "Scott",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38773,
+    "latitude": 33.608538,
+    "longitude": -90.794341,
+    "city": "Shaw",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38774,
+    "latitude": 33.957757,
+    "longitude": -90.74504,
+    "city": "Shelby",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38776,
+    "latitude": 33.409614,
+    "longitude": -90.910404,
+    "city": "Stoneville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38778,
+    "latitude": 33.556746,
+    "longitude": -90.545111,
+    "city": "Sunflower",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sunflower"
+  },
+  {
+    "zip_code": 38780,
+    "latitude": 33.272695,
+    "longitude": -90.995399,
+    "city": "Wayside",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38781,
+    "latitude": 33.887774,
+    "longitude": -90.737149,
+    "city": "Winstonville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Bolivar"
+  },
+  {
+    "zip_code": 38782,
+    "latitude": 33.269118,
+    "longitude": -90.957291,
+    "city": "Winterville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 38801,
+    "latitude": 34.291889,
+    "longitude": -88.683828,
+    "city": "Tupelo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38802,
+    "latitude": 34.234527,
+    "longitude": -88.767127,
+    "city": "Tupelo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38803,
+    "latitude": 34.187638,
+    "longitude": -88.77852,
+    "city": "Tupelo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38804,
+    "latitude": 34.3371,
+    "longitude": -88.684672,
+    "city": "Tupelo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38820,
+    "latitude": 34.171543,
+    "longitude": -89.032791,
+    "city": "Algoma",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38821,
+    "latitude": 33.942639,
+    "longitude": -88.411284,
+    "city": "Amory",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 38824,
+    "latitude": 34.314813,
+    "longitude": -88.63922,
+    "city": "Baldwyn",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38825,
+    "latitude": 33.869763,
+    "longitude": -88.462173,
+    "city": "Becker",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 38826,
+    "latitude": 34.269844,
+    "longitude": -88.745933,
+    "city": "Belden",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38827,
+    "latitude": 34.550663,
+    "longitude": -88.22674,
+    "city": "Belmont",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tishomingo"
+  },
+  {
+    "zip_code": 38828,
+    "latitude": 34.464253,
+    "longitude": -88.958608,
+    "city": "Blue Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Union"
+  },
+  {
+    "zip_code": 38829,
+    "latitude": 34.632922,
+    "longitude": -88.533107,
+    "city": "Booneville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Prentiss"
+  },
+  {
+    "zip_code": 38833,
+    "latitude": 34.855985,
+    "longitude": -88.286923,
+    "city": "Burnsville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tishomingo"
+  },
+  {
+    "zip_code": 38834,
+    "latitude": 34.87589,
+    "longitude": -88.591575,
+    "city": "Corinth",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Alcorn"
+  },
+  {
+    "zip_code": 38835,
+    "latitude": 34.920451,
+    "longitude": -88.521772,
+    "city": "Corinth",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Alcorn"
+  },
+  {
+    "zip_code": 38838,
+    "latitude": 34.584628,
+    "longitude": -88.248391,
+    "city": "Dennis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tishomingo"
+  },
+  {
+    "zip_code": 38839,
+    "latitude": 33.856165,
+    "longitude": -89.303214,
+    "city": "Derma",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38841,
+    "latitude": 34.336606,
+    "longitude": -89.010873,
+    "city": "Ecru",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38843,
+    "latitude": 34.276489,
+    "longitude": -88.355013,
+    "city": "Fulton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Itawamba"
+  },
+  {
+    "zip_code": 38844,
+    "latitude": 33.84026,
+    "longitude": -88.2635,
+    "city": "Gattman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 38846,
+    "latitude": 34.868523,
+    "longitude": -88.41982,
+    "city": "Glen",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Alcorn"
+  },
+  {
+    "zip_code": 38847,
+    "latitude": 34.346321,
+    "longitude": -88.246027,
+    "city": "Golden",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Itawamba"
+  },
+  {
+    "zip_code": 38848,
+    "latitude": 33.940078,
+    "longitude": -88.320711,
+    "city": "Greenwood Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 38849,
+    "latitude": 34.421084,
+    "longitude": -88.665975,
+    "city": "Guntown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38850,
+    "latitude": 34.013571,
+    "longitude": -88.996107,
+    "city": "Houlka",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38851,
+    "latitude": 33.911901,
+    "longitude": -88.931148,
+    "city": "Houston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38852,
+    "latitude": 34.81583,
+    "longitude": -88.2318,
+    "city": "Iuka",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tishomingo"
+  },
+  {
+    "zip_code": 38854,
+    "latitude": 33.906827,
+    "longitude": -88.955351,
+    "city": "Mc Condy",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38855,
+    "latitude": 34.324376,
+    "longitude": -88.393184,
+    "city": "Mantachie",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Itawamba"
+  },
+  {
+    "zip_code": 38856,
+    "latitude": 34.592786,
+    "longitude": -88.510356,
+    "city": "Marietta",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Prentiss"
+  },
+  {
+    "zip_code": 38857,
+    "latitude": 34.275006,
+    "longitude": -88.592851,
+    "city": "Mooreville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38858,
+    "latitude": 34.161842,
+    "longitude": -88.472146,
+    "city": "Nettleton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Itawamba"
+  },
+  {
+    "zip_code": 38859,
+    "latitude": 34.531462,
+    "longitude": -88.387511,
+    "city": "New Site",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Prentiss"
+  },
+  {
+    "zip_code": 38860,
+    "latitude": 33.94295,
+    "longitude": -88.868022,
+    "city": "Okolona",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38862,
+    "latitude": 34.239541,
+    "longitude": -88.617454,
+    "city": "Plantersville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38863,
+    "latitude": 34.227246,
+    "longitude": -89.040537,
+    "city": "Pontotoc",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38864,
+    "latitude": 34.161748,
+    "longitude": -89.179467,
+    "city": "Randolph",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38865,
+    "latitude": 34.818882,
+    "longitude": -88.56325,
+    "city": "Rienzi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Alcorn"
+  },
+  {
+    "zip_code": 38866,
+    "latitude": 34.304376,
+    "longitude": -88.667209,
+    "city": "Saltillo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38868,
+    "latitude": 34.144146,
+    "longitude": -88.68396,
+    "city": "Shannon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38869,
+    "latitude": 34.349542,
+    "longitude": -88.836268,
+    "city": "Sherman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38870,
+    "latitude": 34.045269,
+    "longitude": -88.365609,
+    "city": "Smithville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 38871,
+    "latitude": 34.317365,
+    "longitude": -89.159059,
+    "city": "Thaxton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pontotoc"
+  },
+  {
+    "zip_code": 38873,
+    "latitude": 34.671205,
+    "longitude": -88.238068,
+    "city": "Tishomingo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tishomingo"
+  },
+  {
+    "zip_code": 38874,
+    "latitude": 34.226527,
+    "longitude": -89.251922,
+    "city": "Toccopola",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38875,
+    "latitude": 33.906827,
+    "longitude": -88.955351,
+    "city": "Trebloc",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38876,
+    "latitude": 34.235149,
+    "longitude": -88.333454,
+    "city": "Tremont",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Itawamba"
+  },
+  {
+    "zip_code": 38877,
+    "latitude": 33.987089,
+    "longitude": -88.898807,
+    "city": "Van Vleet",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 38878,
+    "latitude": 33.896961,
+    "longitude": -89.221899,
+    "city": "Vardaman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38879,
+    "latitude": 34.170691,
+    "longitude": -88.759077,
+    "city": "Verona",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 38880,
+    "latitude": 34.612636,
+    "longitude": -88.582231,
+    "city": "Wheeler",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Prentiss"
+  },
+  {
+    "zip_code": 38901,
+    "latitude": 33.786016,
+    "longitude": -89.845462,
+    "city": "Grenada",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38902,
+    "latitude": 33.824113,
+    "longitude": -89.794687,
+    "city": "Grenada",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38912,
+    "latitude": 33.65497,
+    "longitude": -90.053958,
+    "city": "Avalon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38913,
+    "latitude": 34.12266,
+    "longitude": -89.395779,
+    "city": "Banner",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38914,
+    "latitude": 33.898213,
+    "longitude": -89.431864,
+    "city": "Big Creek",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38915,
+    "latitude": 34.034636,
+    "longitude": -89.342661,
+    "city": "Bruce",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38916,
+    "latitude": 33.857172,
+    "longitude": -89.352482,
+    "city": "Calhoun City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38917,
+    "latitude": 33.518425,
+    "longitude": -89.995978,
+    "city": "Carrollton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38920,
+    "latitude": 33.929206,
+    "longitude": -90.188462,
+    "city": "Cascilla",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38921,
+    "latitude": 34.007428,
+    "longitude": -90.115364,
+    "city": "Charleston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38922,
+    "latitude": 33.961287,
+    "longitude": -89.64824,
+    "city": "Coffeeville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yalobusha"
+  },
+  {
+    "zip_code": 38923,
+    "latitude": 33.445684,
+    "longitude": -89.910076,
+    "city": "Coila",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38924,
+    "latitude": 33.255582,
+    "longitude": -90.183344,
+    "city": "Cruger",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 38925,
+    "latitude": 33.563223,
+    "longitude": -89.641871,
+    "city": "Duck Hill",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 38926,
+    "latitude": 33.689476,
+    "longitude": -89.758302,
+    "city": "Elliott",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38927,
+    "latitude": 34.125054,
+    "longitude": -90.013183,
+    "city": "Enid",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38928,
+    "latitude": 33.929206,
+    "longitude": -90.188462,
+    "city": "Glendora",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38929,
+    "latitude": 33.78764,
+    "longitude": -89.647197,
+    "city": "Gore Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38930,
+    "latitude": 33.550408,
+    "longitude": -90.224856,
+    "city": "Greenwood",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38935,
+    "latitude": 33.523355,
+    "longitude": -90.27757,
+    "city": "Greenwood",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38940,
+    "latitude": 33.742966,
+    "longitude": -90.000461,
+    "city": "Holcomb",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38941,
+    "latitude": 33.467852,
+    "longitude": -90.294639,
+    "city": "Itta Bena",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38943,
+    "latitude": 33.489564,
+    "longitude": -89.834467,
+    "city": "Mc Carley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38944,
+    "latitude": 33.752133,
+    "longitude": -90.374127,
+    "city": "Minter City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38945,
+    "latitude": 33.650681,
+    "longitude": -90.196909,
+    "city": "Money",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38946,
+    "latitude": 33.404573,
+    "longitude": -90.371993,
+    "city": "Morgan City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38947,
+    "latitude": 33.512759,
+    "longitude": -89.920125,
+    "city": "North Carrollton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38948,
+    "latitude": 34.102656,
+    "longitude": -89.855317,
+    "city": "Oakland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yalobusha"
+  },
+  {
+    "zip_code": 38949,
+    "latitude": 34.199242,
+    "longitude": -89.381994,
+    "city": "Paris",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 38950,
+    "latitude": 33.733437,
+    "longitude": -90.237053,
+    "city": "Philipp",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38951,
+    "latitude": 33.942942,
+    "longitude": -89.283006,
+    "city": "Pittsboro",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38952,
+    "latitude": 33.627351,
+    "longitude": -90.301026,
+    "city": "Schlater",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38953,
+    "latitude": 34.029737,
+    "longitude": -89.719526,
+    "city": "Scobey",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yalobusha"
+  },
+  {
+    "zip_code": 38954,
+    "latitude": 33.445684,
+    "longitude": -89.910076,
+    "city": "Sidon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 38955,
+    "latitude": 33.743871,
+    "longitude": -89.375281,
+    "city": "Slate Spring",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 38957,
+    "latitude": 33.983323,
+    "longitude": -90.389521,
+    "city": "Sumner",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38958,
+    "latitude": 33.929206,
+    "longitude": -90.188462,
+    "city": "Swan Lake",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38959,
+    "latitude": 33.380913,
+    "longitude": -90.349601,
+    "city": "Swiftown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leflore"
+  },
+  {
+    "zip_code": 38960,
+    "latitude": 33.787157,
+    "longitude": -89.821941,
+    "city": "Tie Plant",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Grenada"
+  },
+  {
+    "zip_code": 38961,
+    "latitude": 34.029737,
+    "longitude": -89.719526,
+    "city": "Tillatoba",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yalobusha"
+  },
+  {
+    "zip_code": 38962,
+    "latitude": 33.929206,
+    "longitude": -90.188462,
+    "city": "Tippo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38963,
+    "latitude": 34.022051,
+    "longitude": -90.349894,
+    "city": "Tutwiler",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38964,
+    "latitude": 34.09953,
+    "longitude": -90.443027,
+    "city": "Vance",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Quitman"
+  },
+  {
+    "zip_code": 38965,
+    "latitude": 34.101631,
+    "longitude": -89.633458,
+    "city": "Water Valley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yalobusha"
+  },
+  {
+    "zip_code": 38966,
+    "latitude": 33.898064,
+    "longitude": -90.335055,
+    "city": "Webb",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Tallahatchie"
+  },
+  {
+    "zip_code": 38967,
+    "latitude": 33.514926,
+    "longitude": -89.628584,
+    "city": "Winona",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 39038,
+    "latitude": 33.170596,
+    "longitude": -90.475786,
+    "city": "Belzoni",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Humphreys"
+  },
+  {
+    "zip_code": 39039,
+    "latitude": 32.845368,
+    "longitude": -90.241776,
+    "city": "Benton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39040,
+    "latitude": 32.645794,
+    "longitude": -90.423646,
+    "city": "Bentonia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39041,
+    "latitude": 32.406956,
+    "longitude": -90.46141,
+    "city": "Bolton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39042,
+    "latitude": 32.300019,
+    "longitude": -89.938693,
+    "city": "Brandon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39043,
+    "latitude": 32.269041,
+    "longitude": -89.987491,
+    "city": "Brandon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39044,
+    "latitude": 31.96499,
+    "longitude": -89.981393,
+    "city": "Braxton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39045,
+    "latitude": 32.785348,
+    "longitude": -89.869807,
+    "city": "Camden",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39046,
+    "latitude": 32.625298,
+    "longitude": -90.008601,
+    "city": "Canton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39047,
+    "latitude": 32.388633,
+    "longitude": -89.958406,
+    "city": "Brandon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39051,
+    "latitude": 32.785217,
+    "longitude": -89.524057,
+    "city": "Carthage",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leake"
+  },
+  {
+    "zip_code": 39054,
+    "latitude": 32.812875,
+    "longitude": -90.927522,
+    "city": "Cary",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 39056,
+    "latitude": 32.370736,
+    "longitude": -90.312371,
+    "city": "Clinton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39057,
+    "latitude": 32.477116,
+    "longitude": -89.26359,
+    "city": "Conehatta",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39058,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Clinton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39059,
+    "latitude": 31.965088,
+    "longitude": -90.375733,
+    "city": "Crystal Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Copiah"
+  },
+  {
+    "zip_code": 39060,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Clinton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39061,
+    "latitude": 32.879795,
+    "longitude": -90.81096,
+    "city": "Delta City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 39062,
+    "latitude": 31.986101,
+    "longitude": -89.919219,
+    "city": "D Lo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39063,
+    "latitude": 33.071531,
+    "longitude": -89.899593,
+    "city": "Durant",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39066,
+    "latitude": 32.27307,
+    "longitude": -90.50985,
+    "city": "Edwards",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39067,
+    "latitude": 33.08167,
+    "longitude": -89.541348,
+    "city": "Ethel",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Attala"
+  },
+  {
+    "zip_code": 39069,
+    "latitude": 31.731988,
+    "longitude": -91.056503,
+    "city": "Fayette",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 39071,
+    "latitude": 32.553269,
+    "longitude": -90.326653,
+    "city": "Flora",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39072,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Pocahontas",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39073,
+    "latitude": 32.280972,
+    "longitude": -90.003854,
+    "city": "Florence",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39074,
+    "latitude": 32.399853,
+    "longitude": -89.505298,
+    "city": "Forest",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39077,
+    "latitude": 31.928751,
+    "longitude": -90.392603,
+    "city": "Gallman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Copiah"
+  },
+  {
+    "zip_code": 39078,
+    "latitude": 31.87408,
+    "longitude": -90.206289,
+    "city": "Georgetown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Copiah"
+  },
+  {
+    "zip_code": 39079,
+    "latitude": 32.989226,
+    "longitude": -89.943323,
+    "city": "Goodman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39080,
+    "latitude": 32.492533,
+    "longitude": -89.494585,
+    "city": "Harperville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39081,
+    "latitude": 31.739958,
+    "longitude": -91.050948,
+    "city": "Harriston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 39082,
+    "latitude": 31.94173,
+    "longitude": -90.133459,
+    "city": "Harrisville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39083,
+    "latitude": 31.868475,
+    "longitude": -90.429426,
+    "city": "Hazlehurst",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Copiah"
+  },
+  {
+    "zip_code": 39086,
+    "latitude": 31.997408,
+    "longitude": -90.716602,
+    "city": "Hermanville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 39087,
+    "latitude": 32.470606,
+    "longitude": -89.517069,
+    "city": "Hillsboro",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39088,
+    "latitude": 32.841523,
+    "longitude": -90.723119,
+    "city": "Holly Bluff",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39090,
+    "latitude": 33.055142,
+    "longitude": -89.5913,
+    "city": "Kosciusko",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Attala"
+  },
+  {
+    "zip_code": 39092,
+    "latitude": 32.384482,
+    "longitude": -89.415089,
+    "city": "Lake",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39094,
+    "latitude": 32.620305,
+    "longitude": -89.614259,
+    "city": "Lena",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leake"
+  },
+  {
+    "zip_code": 39095,
+    "latitude": 33.126082,
+    "longitude": -90.057116,
+    "city": "Lexington",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39096,
+    "latitude": 31.739958,
+    "longitude": -91.050948,
+    "city": "Lorman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 39097,
+    "latitude": 32.980758,
+    "longitude": -90.592812,
+    "city": "Louise",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Humphreys"
+  },
+  {
+    "zip_code": 39098,
+    "latitude": 32.566039,
+    "longitude": -89.713545,
+    "city": "Ludlow",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39107,
+    "latitude": 33.082754,
+    "longitude": -89.641184,
+    "city": "Mc Adams",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Attala"
+  },
+  {
+    "zip_code": 39108,
+    "latitude": 33.082754,
+    "longitude": -89.641184,
+    "city": "Mc Cool",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Attala"
+  },
+  {
+    "zip_code": 39109,
+    "latitude": 32.690864,
+    "longitude": -89.355388,
+    "city": "Madden",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leake"
+  },
+  {
+    "zip_code": 39110,
+    "latitude": 32.553769,
+    "longitude": -90.138906,
+    "city": "Madison",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39111,
+    "latitude": 31.910321,
+    "longitude": -89.775032,
+    "city": "Magee",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39112,
+    "latitude": 31.896236,
+    "longitude": -89.780694,
+    "city": "Sanatorium",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39113,
+    "latitude": 32.711257,
+    "longitude": -90.952716,
+    "city": "Mayersville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Issaquena"
+  },
+  {
+    "zip_code": 39114,
+    "latitude": 31.907972,
+    "longitude": -89.813907,
+    "city": "Mendenhall",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39115,
+    "latitude": 33.125998,
+    "longitude": -90.531759,
+    "city": "Midnight",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Humphreys"
+  },
+  {
+    "zip_code": 39116,
+    "latitude": 31.852342,
+    "longitude": -89.50805,
+    "city": "Mize",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 39117,
+    "latitude": 32.402897,
+    "longitude": -89.594886,
+    "city": "Morton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39119,
+    "latitude": 31.717905,
+    "longitude": -89.623543,
+    "city": "Mount Olive",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 39120,
+    "latitude": 31.527752,
+    "longitude": -91.307025,
+    "city": "Natchez",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 39121,
+    "latitude": 31.470602,
+    "longitude": -91.404404,
+    "city": "Natchez",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 39122,
+    "latitude": 31.470602,
+    "longitude": -91.404404,
+    "city": "Natchez",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 39130,
+    "latitude": 32.642448,
+    "longitude": -90.090683,
+    "city": "Madison",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39140,
+    "latitude": 31.71093,
+    "longitude": -90.038237,
+    "city": "Newhebron",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39144,
+    "latitude": 32.005479,
+    "longitude": -90.981274,
+    "city": "Pattison",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 39145,
+    "latitude": 32.33857,
+    "longitude": -89.833228,
+    "city": "Pelahatchie",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39146,
+    "latitude": 32.950379,
+    "longitude": -90.02631,
+    "city": "Pickens",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39148,
+    "latitude": 32.319905,
+    "longitude": -89.992257,
+    "city": "Piney Woods",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39149,
+    "latitude": 31.837604,
+    "longitude": -90.016517,
+    "city": "Pinola",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 39150,
+    "latitude": 31.916949,
+    "longitude": -90.975632,
+    "city": "Port Gibson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 39151,
+    "latitude": 32.106173,
+    "longitude": -89.783633,
+    "city": "Puckett",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39152,
+    "latitude": 32.274536,
+    "longitude": -89.562728,
+    "city": "Pulaski",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39153,
+    "latitude": 32.033656,
+    "longitude": -89.524458,
+    "city": "Raleigh",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 39154,
+    "latitude": 32.196072,
+    "longitude": -90.47528,
+    "city": "Raymond",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39156,
+    "latitude": 32.52792,
+    "longitude": -90.754175,
+    "city": "Redwood",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 39157,
+    "latitude": 32.436064,
+    "longitude": -90.13731,
+    "city": "Ridgeland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39158,
+    "latitude": 32.642448,
+    "longitude": -90.090683,
+    "city": "Ridgeland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39159,
+    "latitude": 32.859106,
+    "longitude": -90.897658,
+    "city": "Rolling Fork",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Sharkey"
+  },
+  {
+    "zip_code": 39160,
+    "latitude": 33.082754,
+    "longitude": -89.641184,
+    "city": "Sallis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Attala"
+  },
+  {
+    "zip_code": 39161,
+    "latitude": 32.498294,
+    "longitude": -89.868563,
+    "city": "Sandhill",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39162,
+    "latitude": 32.640397,
+    "longitude": -90.595701,
+    "city": "Satartia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39163,
+    "latitude": 32.642448,
+    "longitude": -90.090683,
+    "city": "Sharon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 39165,
+    "latitude": 31.470602,
+    "longitude": -91.404404,
+    "city": "Sibley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 39166,
+    "latitude": 33.094729,
+    "longitude": -90.490483,
+    "city": "Silver City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Humphreys"
+  },
+  {
+    "zip_code": 39167,
+    "latitude": 32.096124,
+    "longitude": -90.061508,
+    "city": "Star",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39168,
+    "latitude": 31.82958,
+    "longitude": -89.403302,
+    "city": "Taylorsville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 39169,
+    "latitude": 33.134414,
+    "longitude": -90.237888,
+    "city": "Tchula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39170,
+    "latitude": 32.189393,
+    "longitude": -90.422369,
+    "city": "Terry",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39171,
+    "latitude": 32.753923,
+    "longitude": -89.52414,
+    "city": "Thomastown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leake"
+  },
+  {
+    "zip_code": 39173,
+    "latitude": 32.762751,
+    "longitude": -90.36285,
+    "city": "Tinsley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39174,
+    "latitude": 32.395343,
+    "longitude": -90.154436,
+    "city": "Tougaloo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39175,
+    "latitude": 32.22149,
+    "longitude": -90.4372,
+    "city": "Utica",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39176,
+    "latitude": 33.329023,
+    "longitude": -89.751563,
+    "city": "Vaiden",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 39177,
+    "latitude": 32.711257,
+    "longitude": -90.952716,
+    "city": "Valley Park",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Issaquena"
+  },
+  {
+    "zip_code": 39179,
+    "latitude": 32.801526,
+    "longitude": -90.098134,
+    "city": "Vaughan",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39180,
+    "latitude": 32.339533,
+    "longitude": -90.834407,
+    "city": "Vicksburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 39181,
+    "latitude": 32.348565,
+    "longitude": -90.864199,
+    "city": "Vicksburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 39182,
+    "latitude": 32.348565,
+    "longitude": -90.864199,
+    "city": "Vicksburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 39183,
+    "latitude": 32.386006,
+    "longitude": -90.840021,
+    "city": "Vicksburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 39189,
+    "latitude": 32.62897,
+    "longitude": -89.406315,
+    "city": "Walnut Grove",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Leake"
+  },
+  {
+    "zip_code": 39190,
+    "latitude": 31.470602,
+    "longitude": -91.404404,
+    "city": "Washington",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 39191,
+    "latitude": 31.847453,
+    "longitude": -90.377153,
+    "city": "Wesson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Copiah"
+  },
+  {
+    "zip_code": 39192,
+    "latitude": 33.198544,
+    "longitude": -89.853487,
+    "city": "West",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 39193,
+    "latitude": 32.234775,
+    "longitude": -90.07263,
+    "city": "Whitfield",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39194,
+    "latitude": 32.815898,
+    "longitude": -90.475849,
+    "city": "Yazoo City",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Yazoo"
+  },
+  {
+    "zip_code": 39201,
+    "latitude": 32.291095,
+    "longitude": -90.192687,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39202,
+    "latitude": 32.305395,
+    "longitude": -90.176737,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39203,
+    "latitude": 32.308595,
+    "longitude": -90.210438,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39204,
+    "latitude": 32.30148,
+    "longitude": -90.290313,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39205,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39206,
+    "latitude": 32.370044,
+    "longitude": -90.169987,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39207,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39208,
+    "latitude": 32.267238,
+    "longitude": -89.958708,
+    "city": "Pearl",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39209,
+    "latitude": 32.374632,
+    "longitude": -90.362921,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39210,
+    "latitude": 32.321845,
+    "longitude": -90.177137,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39211,
+    "latitude": 32.366844,
+    "longitude": -90.123786,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39212,
+    "latitude": 32.238808,
+    "longitude": -90.28773,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39213,
+    "latitude": 32.306096,
+    "longitude": -90.216282,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39215,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39216,
+    "latitude": 32.336744,
+    "longitude": -90.216096,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39217,
+    "latitude": 32.297396,
+    "longitude": -90.208088,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39218,
+    "latitude": 32.215304,
+    "longitude": -90.126353,
+    "city": "Richland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39225,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39232,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Flowood",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39235,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39236,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39250,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39269,
+    "latitude": 32.300296,
+    "longitude": -90.188638,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39271,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39272,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Byram",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39282,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39283,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39284,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39286,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39288,
+    "latitude": 32.313127,
+    "longitude": -89.799625,
+    "city": "Pearl",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39289,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39296,
+    "latitude": 32.311287,
+    "longitude": -90.397157,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hinds"
+  },
+  {
+    "zip_code": 39298,
+    "latitude": 32.319905,
+    "longitude": -89.992257,
+    "city": "Jackson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Rankin"
+  },
+  {
+    "zip_code": 39301,
+    "latitude": 32.381605,
+    "longitude": -88.663489,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39302,
+    "latitude": 32.431958,
+    "longitude": -88.641888,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39303,
+    "latitude": 32.401233,
+    "longitude": -88.652279,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39304,
+    "latitude": 32.420847,
+    "longitude": -88.646016,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39305,
+    "latitude": 32.403111,
+    "longitude": -88.658234,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39307,
+    "latitude": 32.386718,
+    "longitude": -88.676575,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39309,
+    "latitude": 32.337389,
+    "longitude": -88.726474,
+    "city": "Meridian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39320,
+    "latitude": 32.52258,
+    "longitude": -88.745613,
+    "city": "Bailey",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39322,
+    "latitude": 31.582003,
+    "longitude": -88.548006,
+    "city": "Buckatunna",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 39323,
+    "latitude": 32.35048,
+    "longitude": -88.955099,
+    "city": "Chunky",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39324,
+    "latitude": 31.593682,
+    "longitude": -88.704829,
+    "city": "Clara",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 39325,
+    "latitude": 32.434473,
+    "longitude": -88.78778,
+    "city": "Collinsville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39326,
+    "latitude": 32.556534,
+    "longitude": -88.679062,
+    "city": "Daleville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39327,
+    "latitude": 32.427135,
+    "longitude": -89.092952,
+    "city": "Decatur",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39328,
+    "latitude": 32.799065,
+    "longitude": -88.698657,
+    "city": "De Kalb",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Kemper"
+  },
+  {
+    "zip_code": 39330,
+    "latitude": 32.14342,
+    "longitude": -88.819543,
+    "city": "Enterprise",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 39332,
+    "latitude": 32.323107,
+    "longitude": -89.083928,
+    "city": "Hickory",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39335,
+    "latitude": 32.498068,
+    "longitude": -88.534433,
+    "city": "Lauderdale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39336,
+    "latitude": 32.319198,
+    "longitude": -89.258254,
+    "city": "Lawrence",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39337,
+    "latitude": 32.5049,
+    "longitude": -88.995468,
+    "city": "Little Rock",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39338,
+    "latitude": 32.109313,
+    "longitude": -89.187423,
+    "city": "Louin",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39339,
+    "latitude": 33.101687,
+    "longitude": -89.068098,
+    "city": "Louisville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 39341,
+    "latitude": 33.125769,
+    "longitude": -88.54474,
+    "city": "Macon",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Noxubee"
+  },
+  {
+    "zip_code": 39342,
+    "latitude": 32.336743,
+    "longitude": -88.616297,
+    "city": "Marion",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39345,
+    "latitude": 32.39983,
+    "longitude": -89.08313,
+    "city": "Newton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 39346,
+    "latitude": 32.980751,
+    "longitude": -89.108325,
+    "city": "Noxapater",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 39347,
+    "latitude": 32.021692,
+    "longitude": -88.885093,
+    "city": "Pachuta",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 39348,
+    "latitude": 32.069413,
+    "longitude": -89.027181,
+    "city": "Paulding",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39350,
+    "latitude": 32.754387,
+    "longitude": -89.116797,
+    "city": "Philadelphia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Neshoba"
+  },
+  {
+    "zip_code": 39352,
+    "latitude": 32.797547,
+    "longitude": -88.523668,
+    "city": "Porterville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Kemper"
+  },
+  {
+    "zip_code": 39354,
+    "latitude": 32.855983,
+    "longitude": -88.827847,
+    "city": "Preston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Kemper"
+  },
+  {
+    "zip_code": 39355,
+    "latitude": 32.013802,
+    "longitude": -88.663429,
+    "city": "Quitman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 39356,
+    "latitude": 32.13603,
+    "longitude": -88.998801,
+    "city": "Rose Hill",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39358,
+    "latitude": 32.822624,
+    "longitude": -88.478138,
+    "city": "Scooba",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Kemper"
+  },
+  {
+    "zip_code": 39359,
+    "latitude": 32.551832,
+    "longitude": -89.357384,
+    "city": "Sebastopol",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 39360,
+    "latitude": 31.960687,
+    "longitude": -88.716818,
+    "city": "Shubuta",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 39361,
+    "latitude": 33.082645,
+    "longitude": -88.659645,
+    "city": "Shuqualak",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Noxubee"
+  },
+  {
+    "zip_code": 39362,
+    "latitude": 31.360647,
+    "longitude": -88.606456,
+    "city": "State Line",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 39363,
+    "latitude": 32.140683,
+    "longitude": -88.770572,
+    "city": "Stonewall",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 39364,
+    "latitude": 32.424306,
+    "longitude": -88.660633,
+    "city": "Toomsuba",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 39365,
+    "latitude": 32.643921,
+    "longitude": -89.111993,
+    "city": "Union",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Neshoba"
+  },
+  {
+    "zip_code": 39366,
+    "latitude": 31.950645,
+    "longitude": -88.970738,
+    "city": "Vossburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39367,
+    "latitude": 31.659327,
+    "longitude": -88.704113,
+    "city": "Waynesboro",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 39401,
+    "latitude": 31.245138,
+    "longitude": -89.28071,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39402,
+    "latitude": 31.335865,
+    "longitude": -89.379246,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39403,
+    "latitude": 31.356642,
+    "longitude": -89.382415,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39404,
+    "latitude": 31.172142,
+    "longitude": -89.294772,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39406,
+    "latitude": 31.172142,
+    "longitude": -89.294772,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39407,
+    "latitude": 31.172142,
+    "longitude": -89.294772,
+    "city": "Hattiesburg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39421,
+    "latitude": 31.582332,
+    "longitude": -89.781429,
+    "city": "Bassfield",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 39422,
+    "latitude": 31.989146,
+    "longitude": -89.209877,
+    "city": "Bay Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39423,
+    "latitude": 31.185365,
+    "longitude": -88.920132,
+    "city": "Beaumont",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 39425,
+    "latitude": 31.181756,
+    "longitude": -89.266547,
+    "city": "Brooklyn",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39426,
+    "latitude": 30.661121,
+    "longitude": -89.646536,
+    "city": "Carriere",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pearl River"
+  },
+  {
+    "zip_code": 39427,
+    "latitude": 31.601319,
+    "longitude": -89.865962,
+    "city": "Carson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 39428,
+    "latitude": 31.652811,
+    "longitude": -89.578002,
+    "city": "Collins",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 39429,
+    "latitude": 31.218188,
+    "longitude": -89.801872,
+    "city": "Columbia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 39436,
+    "latitude": 31.455471,
+    "longitude": -89.302042,
+    "city": "Eastabuchie",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39437,
+    "latitude": 31.611088,
+    "longitude": -89.171825,
+    "city": "Ellisville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39439,
+    "latitude": 31.892668,
+    "longitude": -89.077368,
+    "city": "Heidelberg",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39440,
+    "latitude": 31.711733,
+    "longitude": -89.114317,
+    "city": "Laurel",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39441,
+    "latitude": 31.727664,
+    "longitude": -89.075482,
+    "city": "Laurel",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39442,
+    "latitude": 31.682254,
+    "longitude": -89.040622,
+    "city": "Laurel",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39443,
+    "latitude": 31.686952,
+    "longitude": -89.121296,
+    "city": "Laurel",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39451,
+    "latitude": 31.167734,
+    "longitude": -88.637767,
+    "city": "Leakesville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 39452,
+    "latitude": 30.866791,
+    "longitude": -88.649035,
+    "city": "Lucedale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "George"
+  },
+  {
+    "zip_code": 39455,
+    "latitude": 31.100426,
+    "longitude": -89.503417,
+    "city": "Lumberton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 39456,
+    "latitude": 31.086666,
+    "longitude": -88.797692,
+    "city": "Mc Lain",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 39457,
+    "latitude": 30.666936,
+    "longitude": -89.673392,
+    "city": "Mc Neill",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pearl River"
+  },
+  {
+    "zip_code": 39459,
+    "latitude": 31.500214,
+    "longitude": -89.296883,
+    "city": "Moselle",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39460,
+    "latitude": 32.013235,
+    "longitude": -89.11656,
+    "city": "Moss",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39461,
+    "latitude": 31.210172,
+    "longitude": -88.754841,
+    "city": "Neely",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 39462,
+    "latitude": 31.171903,
+    "longitude": -88.991561,
+    "city": "New Augusta",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 39463,
+    "latitude": 30.563724,
+    "longitude": -89.557751,
+    "city": "Nicholson",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pearl River"
+  },
+  {
+    "zip_code": 39464,
+    "latitude": 31.311643,
+    "longitude": -88.999044,
+    "city": "Ovett",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 39465,
+    "latitude": 31.331528,
+    "longitude": -89.215061,
+    "city": "Petal",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Forrest"
+  },
+  {
+    "zip_code": 39466,
+    "latitude": 30.627655,
+    "longitude": -89.63128,
+    "city": "Picayune",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pearl River"
+  },
+  {
+    "zip_code": 39470,
+    "latitude": 30.756774,
+    "longitude": -89.58072,
+    "city": "Poplarville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pearl River"
+  },
+  {
+    "zip_code": 39474,
+    "latitude": 31.59763,
+    "longitude": -89.886038,
+    "city": "Prentiss",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 39475,
+    "latitude": 31.228126,
+    "longitude": -89.501513,
+    "city": "Purvis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 39476,
+    "latitude": 31.318239,
+    "longitude": -88.993126,
+    "city": "Richton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 39477,
+    "latitude": 31.790929,
+    "longitude": -89.041363,
+    "city": "Sandersville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39478,
+    "latitude": 31.078868,
+    "longitude": -89.847732,
+    "city": "Sandy Hook",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 39479,
+    "latitude": 31.5378,
+    "longitude": -89.502846,
+    "city": "Seminary",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 39480,
+    "latitude": 31.713226,
+    "longitude": -89.297336,
+    "city": "Soso",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 39481,
+    "latitude": 31.870465,
+    "longitude": -89.229337,
+    "city": "Stringer",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 39482,
+    "latitude": 31.216581,
+    "longitude": -89.531088,
+    "city": "Sumrall",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 39483,
+    "latitude": 31.247873,
+    "longitude": -89.92857,
+    "city": "Foxworth",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 39501,
+    "latitude": 30.396277,
+    "longitude": -89.064103,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39502,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39503,
+    "latitude": 30.467067,
+    "longitude": -89.151485,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39505,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39506,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39507,
+    "latitude": 30.400079,
+    "longitude": -89.031635,
+    "city": "Gulfport",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39520,
+    "latitude": 30.295608,
+    "longitude": -89.463187,
+    "city": "Bay Saint Louis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39521,
+    "latitude": 30.403156,
+    "longitude": -89.49821,
+    "city": "Bay Saint Louis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39522,
+    "latitude": 30.403156,
+    "longitude": -89.49821,
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39525,
+    "latitude": 30.372821,
+    "longitude": -89.377942,
+    "city": "Diamondhead",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39529,
+    "latitude": 30.403156,
+    "longitude": -89.49821,
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39530,
+    "latitude": 30.432454,
+    "longitude": -88.978634,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39531,
+    "latitude": 30.401498,
+    "longitude": -88.971229,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39532,
+    "latitude": 30.510988,
+    "longitude": -88.96808,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39533,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39534,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39535,
+    "latitude": 30.415795,
+    "longitude": -89.068448,
+    "city": "Biloxi",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39540,
+    "latitude": 30.442815,
+    "longitude": -88.897306,
+    "city": "Diberville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39552,
+    "latitude": 30.441072,
+    "longitude": -88.634482,
+    "city": "Escatawpa",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39553,
+    "latitude": 30.421676,
+    "longitude": -88.66487,
+    "city": "Gautier",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39555,
+    "latitude": 30.71325,
+    "longitude": -88.519743,
+    "city": "Hurley",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39556,
+    "latitude": 30.487498,
+    "longitude": -89.418722,
+    "city": "Kiln",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39558,
+    "latitude": 30.239124,
+    "longitude": -89.459526,
+    "city": "Lakeshore",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39560,
+    "latitude": 30.374646,
+    "longitude": -89.177143,
+    "city": "Long Beach",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39561,
+    "latitude": 30.721036,
+    "longitude": -89.172285,
+    "city": "Mc Henry",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 39562,
+    "latitude": 30.544726,
+    "longitude": -88.604298,
+    "city": "Moss Point",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39563,
+    "latitude": 30.539088,
+    "longitude": -88.621049,
+    "city": "Moss Point",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39564,
+    "latitude": 30.50028,
+    "longitude": -88.655024,
+    "city": "Ocean Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39565,
+    "latitude": 30.547365,
+    "longitude": -88.708582,
+    "city": "Ocean Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39566,
+    "latitude": 30.441072,
+    "longitude": -88.634482,
+    "city": "Ocean Springs",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39567,
+    "latitude": 30.534162,
+    "longitude": -88.489379,
+    "city": "Pascagoula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39568,
+    "latitude": 30.441072,
+    "longitude": -88.634482,
+    "city": "Pascagoula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39569,
+    "latitude": 30.441072,
+    "longitude": -88.634482,
+    "city": "Pascagoula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39571,
+    "latitude": 30.426162,
+    "longitude": -89.264327,
+    "city": "Pass Christian",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39572,
+    "latitude": 30.249299,
+    "longitude": -89.520472,
+    "city": "Pearlington",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39573,
+    "latitude": 30.773109,
+    "longitude": -89.112944,
+    "city": "Perkinston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 39574,
+    "latitude": 30.599773,
+    "longitude": -89.112683,
+    "city": "Saucier",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 39576,
+    "latitude": 30.285046,
+    "longitude": -89.371231,
+    "city": "Waveland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 39577,
+    "latitude": 30.847778,
+    "longitude": -89.086992,
+    "city": "Wiggins",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 39581,
+    "latitude": 30.539159,
+    "longitude": -88.621046,
+    "city": "Pascagoula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39595,
+    "latitude": 30.441072,
+    "longitude": -88.634482,
+    "city": "Pascagoula",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 39601,
+    "latitude": 31.521489,
+    "longitude": -90.460786,
+    "city": "Brookhaven",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 39602,
+    "latitude": 31.533354,
+    "longitude": -90.490661,
+    "city": "Brookhaven",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 39603,
+    "latitude": 31.612287,
+    "longitude": -90.446702,
+    "city": "Brookhaven",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 39629,
+    "latitude": 31.447124,
+    "longitude": -90.45787,
+    "city": "Bogue Chitto",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 39630,
+    "latitude": 31.465718,
+    "longitude": -90.895386,
+    "city": "Bude",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 39631,
+    "latitude": 31.134359,
+    "longitude": -91.175079,
+    "city": "Centreville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 39632,
+    "latitude": 31.114483,
+    "longitude": -90.487486,
+    "city": "Chatawa",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39633,
+    "latitude": 31.247847,
+    "longitude": -90.885075,
+    "city": "Crosby",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Amite"
+  },
+  {
+    "zip_code": 39635,
+    "latitude": 31.18537,
+    "longitude": -90.427966,
+    "city": "Fernwood",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39638,
+    "latitude": 31.199644,
+    "longitude": -90.916006,
+    "city": "Gloster",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Amite"
+  },
+  {
+    "zip_code": 39641,
+    "latitude": 31.409296,
+    "longitude": -90.142429,
+    "city": "Jayess",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39643,
+    "latitude": 31.243549,
+    "longitude": -89.978849,
+    "city": "Kokomo",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 39645,
+    "latitude": 31.17427,
+    "longitude": -90.803528,
+    "city": "Liberty",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Amite"
+  },
+  {
+    "zip_code": 39647,
+    "latitude": 31.465718,
+    "longitude": -90.895386,
+    "city": "Mc Call Creek",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 39648,
+    "latitude": 31.1769,
+    "longitude": -90.40156,
+    "city": "Mccomb",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39649,
+    "latitude": 31.17494,
+    "longitude": -90.403987,
+    "city": "Mccomb",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39652,
+    "latitude": 31.143395,
+    "longitude": -90.403989,
+    "city": "Magnolia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39653,
+    "latitude": 31.469888,
+    "longitude": -90.891482,
+    "city": "Meadville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 39654,
+    "latitude": 31.540111,
+    "longitude": -90.161012,
+    "city": "Monticello",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39656,
+    "latitude": 31.48225,
+    "longitude": -90.036767,
+    "city": "Oak Vale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39657,
+    "latitude": 31.043653,
+    "longitude": -90.403651,
+    "city": "Osyka",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39661,
+    "latitude": 31.50115,
+    "longitude": -91.069486,
+    "city": "Roxie",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 39662,
+    "latitude": 31.409907,
+    "longitude": -90.291051,
+    "city": "Ruth",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 39663,
+    "latitude": 31.594604,
+    "longitude": -90.044711,
+    "city": "Silver Creek",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39664,
+    "latitude": 31.268945,
+    "longitude": -90.670185,
+    "city": "Smithdale",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Amite"
+  },
+  {
+    "zip_code": 39665,
+    "latitude": 31.640256,
+    "longitude": -90.189547,
+    "city": "Sontag",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 39666,
+    "latitude": 31.258892,
+    "longitude": -90.404555,
+    "city": "Summit",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 39667,
+    "latitude": 31.175558,
+    "longitude": -90.090824,
+    "city": "Tylertown",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Walthall"
+  },
+  {
+    "zip_code": 39668,
+    "latitude": 31.714577,
+    "longitude": -90.746168,
+    "city": "Union Church",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 39669,
+    "latitude": 31.175443,
+    "longitude": -91.324666,
+    "city": "Woodville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 39701,
+    "latitude": 33.516258,
+    "longitude": -88.461318,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39702,
+    "latitude": 33.429569,
+    "longitude": -88.460218,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39703,
+    "latitude": 33.484147,
+    "longitude": -88.283998,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39704,
+    "latitude": 33.548523,
+    "longitude": -88.379614,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39705,
+    "latitude": 33.550752,
+    "longitude": -88.486521,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39710,
+    "latitude": 33.51633,
+    "longitude": -88.460083,
+    "city": "Columbus",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39730,
+    "latitude": 33.847638,
+    "longitude": -88.514694,
+    "city": "Aberdeen",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 39735,
+    "latitude": 33.278252,
+    "longitude": -89.191298,
+    "city": "Ackerman",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Choctaw"
+  },
+  {
+    "zip_code": 39736,
+    "latitude": 33.411531,
+    "longitude": -88.644261,
+    "city": "Artesia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39737,
+    "latitude": 33.648956,
+    "longitude": -89.334234,
+    "city": "Bellefontaine",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 39739,
+    "latitude": 33.220204,
+    "longitude": -88.482218,
+    "city": "Brooksville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Noxubee"
+  },
+  {
+    "zip_code": 39740,
+    "latitude": 33.81523,
+    "longitude": -88.271904,
+    "city": "Caledonia",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 39741,
+    "latitude": 33.659271,
+    "longitude": -88.753976,
+    "city": "Cedarbluff",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 39743,
+    "latitude": 33.334688,
+    "longitude": -88.556056,
+    "city": "Crawford",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39744,
+    "latitude": 33.549384,
+    "longitude": -89.290417,
+    "city": "Eupora",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 39745,
+    "latitude": 33.289753,
+    "longitude": -89.399875,
+    "city": "French Camp",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Choctaw"
+  },
+  {
+    "zip_code": 39746,
+    "latitude": 33.778926,
+    "longitude": -88.358784,
+    "city": "Hamilton",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 39747,
+    "latitude": 33.4346,
+    "longitude": -89.585663,
+    "city": "Kilmichael",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 39750,
+    "latitude": 33.599618,
+    "longitude": -89.262792,
+    "city": "Maben",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 39751,
+    "latitude": 33.94185,
+    "longitude": -89.323857,
+    "city": "Mantee",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 39752,
+    "latitude": 33.540161,
+    "longitude": -89.130294,
+    "city": "Mathiston",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 39753,
+    "latitude": 33.483814,
+    "longitude": -88.640881,
+    "city": "Mayhew",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39754,
+    "latitude": 33.659271,
+    "longitude": -88.753976,
+    "city": "Montpelier",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 39755,
+    "latitude": 33.659271,
+    "longitude": -88.753976,
+    "city": "Pheba",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 39756,
+    "latitude": 33.783578,
+    "longitude": -88.664183,
+    "city": "Prairie",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 39759,
+    "latitude": 33.42554,
+    "longitude": -88.879117,
+    "city": "Starkville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Oktibbeha"
+  },
+  {
+    "zip_code": 39760,
+    "latitude": 33.459924,
+    "longitude": -88.832163,
+    "city": "Starkville",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Oktibbeha"
+  },
+  {
+    "zip_code": 39762,
+    "latitude": 33.415601,
+    "longitude": -88.743329,
+    "city": "Mississippi State",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Oktibbeha"
+  },
+  {
+    "zip_code": 39766,
+    "latitude": 33.603342,
+    "longitude": -88.321007,
+    "city": "Steens",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 39767,
+    "latitude": 33.518048,
+    "longitude": -89.467862,
+    "city": "Stewart",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 39769,
+    "latitude": 33.405675,
+    "longitude": -88.993677,
+    "city": "Sturgis",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Oktibbeha"
+  },
+  {
+    "zip_code": 39771,
+    "latitude": 33.595758,
+    "longitude": -89.298621,
+    "city": "Walthall",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 39772,
+    "latitude": 33.321036,
+    "longitude": -89.271149,
+    "city": "Weir",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Choctaw"
+  },
+  {
+    "zip_code": 39773,
+    "latitude": 33.621135,
+    "longitude": -88.609136,
+    "city": "West Point",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 39776,
+    "latitude": 33.804808,
+    "longitude": -89.060746,
+    "city": "Woodland",
+    "state": "MS",
+    "full_state": "Mississippi",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 39901,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 40003,
+    "latitude": 38.274456,
+    "longitude": -85.090374,
+    "city": "Bagdad",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40004,
+    "latitude": 37.822585,
+    "longitude": -85.466944,
+    "city": "Bardstown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40006,
+    "latitude": 38.603011,
+    "longitude": -85.329441,
+    "city": "Bedford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Trimble"
+  },
+  {
+    "zip_code": 40007,
+    "latitude": 38.452892,
+    "longitude": -85.016907,
+    "city": "Bethlehem",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40008,
+    "latitude": 37.826549,
+    "longitude": -85.327083,
+    "city": "Bloomfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40009,
+    "latitude": 37.504057,
+    "longitude": -85.107213,
+    "city": "Bradfordsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40010,
+    "latitude": 38.389195,
+    "longitude": -85.44584,
+    "city": "Buckner",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40011,
+    "latitude": 38.45807,
+    "longitude": -85.132315,
+    "city": "Campbellsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40012,
+    "latitude": 37.903151,
+    "longitude": -85.191533,
+    "city": "Chaplin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40013,
+    "latitude": 37.912465,
+    "longitude": -85.465785,
+    "city": "Coxs Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40014,
+    "latitude": 38.358083,
+    "longitude": -85.446974,
+    "city": "Crestwood",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40018,
+    "latitude": 38.22977,
+    "longitude": -85.66304,
+    "city": "Eastwood",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40019,
+    "latitude": 38.416293,
+    "longitude": -85.171224,
+    "city": "Eminence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40020,
+    "latitude": 37.933981,
+    "longitude": -85.386242,
+    "city": "Fairfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40022,
+    "latitude": 38.15483,
+    "longitude": -85.340174,
+    "city": "Finchville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40023,
+    "latitude": 38.188936,
+    "longitude": -85.446269,
+    "city": "Fisherville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40025,
+    "latitude": 38.309597,
+    "longitude": -85.643359,
+    "city": "Glenview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40026,
+    "latitude": 38.412346,
+    "longitude": -85.527464,
+    "city": "Goshen",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40027,
+    "latitude": 38.329718,
+    "longitude": -85.63299,
+    "city": "Harrods Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40031,
+    "latitude": 38.423186,
+    "longitude": -85.454359,
+    "city": "La Grange",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40032,
+    "latitude": 38.40464,
+    "longitude": -85.460504,
+    "city": "La Grange",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40033,
+    "latitude": 37.541558,
+    "longitude": -85.256025,
+    "city": "Lebanon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40036,
+    "latitude": 38.455714,
+    "longitude": -84.988603,
+    "city": "Lockport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40037,
+    "latitude": 37.647483,
+    "longitude": -85.417876,
+    "city": "Loretto",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40040,
+    "latitude": 37.756812,
+    "longitude": -85.059008,
+    "city": "Mackville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 40041,
+    "latitude": 38.25361,
+    "longitude": -85.662215,
+    "city": "Masonic Home",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40045,
+    "latitude": 38.687402,
+    "longitude": -85.378762,
+    "city": "Milton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Trimble"
+  },
+  {
+    "zip_code": 40046,
+    "latitude": 38.019718,
+    "longitude": -85.181188,
+    "city": "Mount Eden",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 40047,
+    "latitude": 38.04141,
+    "longitude": -85.581303,
+    "city": "Mount Washington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40048,
+    "latitude": 37.756941,
+    "longitude": -85.44671,
+    "city": "Nazareth",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40049,
+    "latitude": 37.660251,
+    "longitude": -85.393204,
+    "city": "Nerinx",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40050,
+    "latitude": 38.427404,
+    "longitude": -85.18706,
+    "city": "New Castle",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40051,
+    "latitude": 37.643761,
+    "longitude": -85.547037,
+    "city": "New Haven",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40052,
+    "latitude": 37.602081,
+    "longitude": -85.516424,
+    "city": "New Hope",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40055,
+    "latitude": 38.473652,
+    "longitude": -85.300936,
+    "city": "Pendleton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40056,
+    "latitude": 38.303255,
+    "longitude": -85.485175,
+    "city": "Pewee Valley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40057,
+    "latitude": 38.431413,
+    "longitude": -85.032581,
+    "city": "Pleasureville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40058,
+    "latitude": 38.494055,
+    "longitude": -85.124192,
+    "city": "Port Royal",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40059,
+    "latitude": 38.341558,
+    "longitude": -85.598451,
+    "city": "Prospect",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40060,
+    "latitude": 37.533664,
+    "longitude": -85.429061,
+    "city": "Raywick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40061,
+    "latitude": 37.773962,
+    "longitude": -85.201068,
+    "city": "Saint Catharine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 40062,
+    "latitude": 37.604695,
+    "longitude": -85.425149,
+    "city": "Saint Francis",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40063,
+    "latitude": 37.579519,
+    "longitude": -85.355132,
+    "city": "Saint Mary",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40065,
+    "latitude": 38.222445,
+    "longitude": -85.172072,
+    "city": "Shelbyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40066,
+    "latitude": 38.197268,
+    "longitude": -85.212156,
+    "city": "Shelbyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40067,
+    "latitude": 38.223861,
+    "longitude": -85.360625,
+    "city": "Simpsonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40068,
+    "latitude": 38.408032,
+    "longitude": -85.267223,
+    "city": "Smithfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40069,
+    "latitude": 37.734249,
+    "longitude": -85.21065,
+    "city": "Springfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 40070,
+    "latitude": 38.476096,
+    "longitude": -85.248914,
+    "city": "Sulphur",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40071,
+    "latitude": 38.032735,
+    "longitude": -85.366055,
+    "city": "Taylorsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 40075,
+    "latitude": 38.552133,
+    "longitude": -85.101879,
+    "city": "Turners Station",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 40076,
+    "latitude": 38.122662,
+    "longitude": -85.103096,
+    "city": "Waddy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 40077,
+    "latitude": 38.491635,
+    "longitude": -85.424726,
+    "city": "Westport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 40078,
+    "latitude": 37.843697,
+    "longitude": -85.128804,
+    "city": "Willisburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 40104,
+    "latitude": 38.093864,
+    "longitude": -86.345301,
+    "city": "Battletown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40107,
+    "latitude": 37.740827,
+    "longitude": -85.59479,
+    "city": "Boston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 40108,
+    "latitude": 37.97552,
+    "longitude": -86.179546,
+    "city": "Brandenburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40109,
+    "latitude": 38.051236,
+    "longitude": -85.755592,
+    "city": "Brooks",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40110,
+    "latitude": 37.93462,
+    "longitude": -85.65545,
+    "city": "Clermont",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40111,
+    "latitude": 37.847839,
+    "longitude": -86.463591,
+    "city": "Cloverport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40115,
+    "latitude": 37.735817,
+    "longitude": -86.237827,
+    "city": "Custer",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40117,
+    "latitude": 37.884962,
+    "longitude": -86.115209,
+    "city": "Ekron",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40118,
+    "latitude": 38.096526,
+    "longitude": -85.758416,
+    "city": "Fairdale",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40119,
+    "latitude": 37.552184,
+    "longitude": -86.483592,
+    "city": "Falls Of Rough",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 40121,
+    "latitude": 37.899466,
+    "longitude": -85.952833,
+    "city": "Fort Knox",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40129,
+    "latitude": 38.081191,
+    "longitude": -85.682825,
+    "city": "Hillview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40140,
+    "latitude": 37.802295,
+    "longitude": -86.414768,
+    "city": "Garfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40142,
+    "latitude": 37.889946,
+    "longitude": -86.199842,
+    "city": "Guston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40143,
+    "latitude": 37.751214,
+    "longitude": -86.45371,
+    "city": "Hardinsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40144,
+    "latitude": 37.802295,
+    "longitude": -86.414768,
+    "city": "Harned",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40145,
+    "latitude": 37.606992,
+    "longitude": -86.321158,
+    "city": "Hudson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40146,
+    "latitude": 37.828452,
+    "longitude": -86.28417,
+    "city": "Irvington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40150,
+    "latitude": 37.90878,
+    "longitude": -85.688029,
+    "city": "Lebanon Junction",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40152,
+    "latitude": 37.619425,
+    "longitude": -86.449076,
+    "city": "Mc Daniels",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40153,
+    "latitude": 37.802295,
+    "longitude": -86.414768,
+    "city": "Mc Quady",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40155,
+    "latitude": 37.934131,
+    "longitude": -86.081991,
+    "city": "Muldraugh",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40157,
+    "latitude": 38.022328,
+    "longitude": -86.355493,
+    "city": "Payneville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40159,
+    "latitude": 37.723474,
+    "longitude": -85.976854,
+    "city": "Radcliff",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40160,
+    "latitude": 37.826634,
+    "longitude": -85.849432,
+    "city": "Radcliff",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40161,
+    "latitude": 38.005963,
+    "longitude": -86.398391,
+    "city": "Rhodelia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 40162,
+    "latitude": 37.755939,
+    "longitude": -86.032496,
+    "city": "Rineyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40164,
+    "latitude": 37.802295,
+    "longitude": -86.414768,
+    "city": "Se Ree",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40165,
+    "latitude": 37.959505,
+    "longitude": -85.704609,
+    "city": "Shepherdsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bullitt"
+  },
+  {
+    "zip_code": 40170,
+    "latitude": 37.913755,
+    "longitude": -86.52421,
+    "city": "Stephensport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40171,
+    "latitude": 37.802295,
+    "longitude": -86.414768,
+    "city": "Union Star",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40175,
+    "latitude": 37.803725,
+    "longitude": -86.050646,
+    "city": "Vine Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40176,
+    "latitude": 37.881048,
+    "longitude": -86.287044,
+    "city": "Webster",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40177,
+    "latitude": 37.980384,
+    "longitude": -85.966061,
+    "city": "West Point",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 40178,
+    "latitude": 37.645844,
+    "longitude": -86.405203,
+    "city": "Westview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breckinridge"
+  },
+  {
+    "zip_code": 40201,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40202,
+    "latitude": 38.25247,
+    "longitude": -85.753812,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40203,
+    "latitude": 38.249273,
+    "longitude": -85.769412,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40204,
+    "latitude": 38.23942,
+    "longitude": -85.722711,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40205,
+    "latitude": 38.224181,
+    "longitude": -85.60026,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40206,
+    "latitude": 38.25032,
+    "longitude": -85.703411,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40207,
+    "latitude": 38.262769,
+    "longitude": -85.666284,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40208,
+    "latitude": 38.21782,
+    "longitude": -85.763912,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40209,
+    "latitude": 38.214391,
+    "longitude": -85.769189,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40210,
+    "latitude": 38.23207,
+    "longitude": -85.788702,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40211,
+    "latitude": 38.232811,
+    "longitude": -85.815363,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40212,
+    "latitude": 38.234969,
+    "longitude": -85.794213,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40213,
+    "latitude": 38.182609,
+    "longitude": -85.707133,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40214,
+    "latitude": 38.163269,
+    "longitude": -85.788862,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40215,
+    "latitude": 38.19188,
+    "longitude": -85.785512,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40216,
+    "latitude": 38.186519,
+    "longitude": -85.833463,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40217,
+    "latitude": 38.21787,
+    "longitude": -85.739861,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40218,
+    "latitude": 38.171856,
+    "longitude": -85.67806,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40219,
+    "latitude": 38.138118,
+    "longitude": -85.69526,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40220,
+    "latitude": 38.214603,
+    "longitude": -85.620304,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40221,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40222,
+    "latitude": 38.267429,
+    "longitude": -85.623671,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40223,
+    "latitude": 38.265072,
+    "longitude": -85.558228,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40224,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40225,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40228,
+    "latitude": 38.144155,
+    "longitude": -85.626526,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40229,
+    "latitude": 38.135961,
+    "longitude": -85.649393,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40231,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40232,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40233,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40241,
+    "latitude": 38.304531,
+    "longitude": -85.581536,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40242,
+    "latitude": 38.278469,
+    "longitude": -85.59396,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40243,
+    "latitude": 38.242201,
+    "longitude": -85.535309,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40245,
+    "latitude": 38.258384,
+    "longitude": -85.475021,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40250,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40251,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40252,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40253,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40255,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40256,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40257,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40258,
+    "latitude": 38.145719,
+    "longitude": -85.864063,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40259,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40261,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40266,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40268,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40269,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40270,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40272,
+    "latitude": 38.084554,
+    "longitude": -85.851022,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40280,
+    "latitude": 38.246721,
+    "longitude": -85.685261,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40281,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40282,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40283,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40285,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40287,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40289,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40290,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40291,
+    "latitude": 38.13132,
+    "longitude": -85.575352,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40292,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40293,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40294,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40295,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40296,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40297,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40298,
+    "latitude": 38.188962,
+    "longitude": -85.676819,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40299,
+    "latitude": 38.176762,
+    "longitude": -85.521751,
+    "city": "Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 40310,
+    "latitude": 37.754839,
+    "longitude": -84.74994,
+    "city": "Burgin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 40311,
+    "latitude": 38.334059,
+    "longitude": -83.994865,
+    "city": "Carlisle",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 40312,
+    "latitude": 37.847517,
+    "longitude": -83.859331,
+    "city": "Clay City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 40313,
+    "latitude": 38.128726,
+    "longitude": -83.442495,
+    "city": "Clearfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rowan"
+  },
+  {
+    "zip_code": 40316,
+    "latitude": 37.938651,
+    "longitude": -83.605538,
+    "city": "Denniston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Menifee"
+  },
+  {
+    "zip_code": 40317,
+    "latitude": 38.176471,
+    "longitude": -83.268234,
+    "city": "Elliottville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rowan"
+  },
+  {
+    "zip_code": 40319,
+    "latitude": 38.140258,
+    "longitude": -83.533691,
+    "city": "Farmers",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rowan"
+  },
+  {
+    "zip_code": 40320,
+    "latitude": 37.968496,
+    "longitude": -84.157766,
+    "city": "Ford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 40322,
+    "latitude": 37.947025,
+    "longitude": -83.608449,
+    "city": "Frenchburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Menifee"
+  },
+  {
+    "zip_code": 40324,
+    "latitude": 38.239718,
+    "longitude": -84.574498,
+    "city": "Georgetown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 40328,
+    "latitude": 37.585972,
+    "longitude": -85.08651,
+    "city": "Gravel Switch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 40329,
+    "latitude": 38.206706,
+    "longitude": -83.41725,
+    "city": "Haldeman",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rowan"
+  },
+  {
+    "zip_code": 40330,
+    "latitude": 37.803283,
+    "longitude": -84.860707,
+    "city": "Harrodsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 40334,
+    "latitude": 38.016064,
+    "longitude": -83.771261,
+    "city": "Hope",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 40336,
+    "latitude": 37.70424,
+    "longitude": -83.944815,
+    "city": "Irvine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Estill"
+  },
+  {
+    "zip_code": 40337,
+    "latitude": 37.964096,
+    "longitude": -83.870275,
+    "city": "Jeffersonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 40339,
+    "latitude": 37.950381,
+    "longitude": -84.656887,
+    "city": "Keene",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jessamine"
+  },
+  {
+    "zip_code": 40340,
+    "latitude": 37.866238,
+    "longitude": -84.579491,
+    "city": "Nicholasville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jessamine"
+  },
+  {
+    "zip_code": 40342,
+    "latitude": 38.006484,
+    "longitude": -84.979923,
+    "city": "Lawrenceburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 40346,
+    "latitude": 37.973921,
+    "longitude": -83.743488,
+    "city": "Means",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Menifee"
+  },
+  {
+    "zip_code": 40347,
+    "latitude": 38.145835,
+    "longitude": -84.718028,
+    "city": "Midway",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 40348,
+    "latitude": 38.296337,
+    "longitude": -84.151319,
+    "city": "Millersburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 40350,
+    "latitude": 38.303859,
+    "longitude": -83.886328,
+    "city": "Moorefield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 40351,
+    "latitude": 38.210471,
+    "longitude": -83.42039,
+    "city": "Morehead",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rowan"
+  },
+  {
+    "zip_code": 40353,
+    "latitude": 38.052103,
+    "longitude": -83.924711,
+    "city": "Mount Sterling",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 40355,
+    "latitude": 38.627652,
+    "longitude": -84.87562,
+    "city": "New Liberty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 40356,
+    "latitude": 37.863751,
+    "longitude": -84.565075,
+    "city": "Nicholasville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jessamine"
+  },
+  {
+    "zip_code": 40357,
+    "latitude": 38.146395,
+    "longitude": -84.107655,
+    "city": "North Middletown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 40358,
+    "latitude": 38.084908,
+    "longitude": -83.700824,
+    "city": "Olympia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 40359,
+    "latitude": 38.493552,
+    "longitude": -84.843115,
+    "city": "Owenton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 40360,
+    "latitude": 38.146022,
+    "longitude": -83.78456,
+    "city": "Owingsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 40361,
+    "latitude": 38.217248,
+    "longitude": -84.213426,
+    "city": "Paris",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 40362,
+    "latitude": 38.219407,
+    "longitude": -84.205944,
+    "city": "Paris",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 40363,
+    "latitude": 38.5218,
+    "longitude": -85.013882,
+    "city": "Perry Park",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 40366,
+    "latitude": 38.086673,
+    "longitude": -83.757123,
+    "city": "Preston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 40370,
+    "latitude": 38.383618,
+    "longitude": -84.553016,
+    "city": "Sadieville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 40371,
+    "latitude": 38.10437,
+    "longitude": -83.621715,
+    "city": "Salt Lick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 40372,
+    "latitude": 37.866351,
+    "longitude": -84.884036,
+    "city": "Salvisa",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 40374,
+    "latitude": 38.228942,
+    "longitude": -83.88438,
+    "city": "Sharpsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 40376,
+    "latitude": 37.816074,
+    "longitude": -83.693949,
+    "city": "Slade",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 40379,
+    "latitude": 38.306329,
+    "longitude": -84.676123,
+    "city": "Stamping Ground",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 40380,
+    "latitude": 37.822307,
+    "longitude": -83.785309,
+    "city": "Stanton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 40383,
+    "latitude": 37.998762,
+    "longitude": -84.737666,
+    "city": "Versailles",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 40384,
+    "latitude": 38.021292,
+    "longitude": -84.745488,
+    "city": "Versailles",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 40385,
+    "latitude": 37.717603,
+    "longitude": -84.14483,
+    "city": "Waco",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40386,
+    "latitude": 38.021292,
+    "longitude": -84.745488,
+    "city": "Versailles",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 40387,
+    "latitude": 37.978036,
+    "longitude": -83.467497,
+    "city": "Wellington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Menifee"
+  },
+  {
+    "zip_code": 40390,
+    "latitude": 37.860199,
+    "longitude": -84.671365,
+    "city": "Wilmore",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jessamine"
+  },
+  {
+    "zip_code": 40391,
+    "latitude": 37.964922,
+    "longitude": -84.160724,
+    "city": "Winchester",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 40392,
+    "latitude": 37.968496,
+    "longitude": -84.157766,
+    "city": "Winchester",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 40402,
+    "latitude": 37.305202,
+    "longitude": -83.971127,
+    "city": "Annville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40403,
+    "latitude": 37.592589,
+    "longitude": -84.235247,
+    "city": "Berea",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40404,
+    "latitude": 37.716443,
+    "longitude": -84.299699,
+    "city": "Berea",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40405,
+    "latitude": 37.716443,
+    "longitude": -84.299699,
+    "city": "Bighill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40409,
+    "latitude": 37.373811,
+    "longitude": -84.412242,
+    "city": "Brodhead",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40410,
+    "latitude": 37.651397,
+    "longitude": -84.546693,
+    "city": "Bryantsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Garrard"
+  },
+  {
+    "zip_code": 40419,
+    "latitude": 37.43221,
+    "longitude": -84.517065,
+    "city": "Crab Orchard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40421,
+    "latitude": 37.416008,
+    "longitude": -83.993588,
+    "city": "Dabolt",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40422,
+    "latitude": 37.636006,
+    "longitude": -84.849682,
+    "city": "Danville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40423,
+    "latitude": 37.624659,
+    "longitude": -84.845767,
+    "city": "Danville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40434,
+    "latitude": 37.395468,
+    "longitude": -83.908492,
+    "city": "Gray Hawk",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40437,
+    "latitude": 37.443361,
+    "longitude": -84.767288,
+    "city": "Hustonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40440,
+    "latitude": 37.581754,
+    "longitude": -84.846678,
+    "city": "Junction City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40442,
+    "latitude": 37.362372,
+    "longitude": -84.695425,
+    "city": "Kings Mountain",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40444,
+    "latitude": 37.683184,
+    "longitude": -84.583605,
+    "city": "Lancaster",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Garrard"
+  },
+  {
+    "zip_code": 40445,
+    "latitude": 37.290742,
+    "longitude": -84.213618,
+    "city": "Livingston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40446,
+    "latitude": 37.651397,
+    "longitude": -84.546693,
+    "city": "Lancaster",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Garrard"
+  },
+  {
+    "zip_code": 40447,
+    "latitude": 37.433778,
+    "longitude": -84.025131,
+    "city": "Mc Kee",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40448,
+    "latitude": 37.445989,
+    "longitude": -84.699802,
+    "city": "Mc Kinney",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40452,
+    "latitude": 37.603345,
+    "longitude": -84.94918,
+    "city": "Mitchellsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40456,
+    "latitude": 37.398303,
+    "longitude": -84.337882,
+    "city": "Mount Vernon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40460,
+    "latitude": 37.345751,
+    "longitude": -84.31614,
+    "city": "Orlando",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40461,
+    "latitude": 37.593625,
+    "longitude": -84.426456,
+    "city": "Paint Lick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Garrard"
+  },
+  {
+    "zip_code": 40464,
+    "latitude": 37.571105,
+    "longitude": -84.924963,
+    "city": "Parksville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40467,
+    "latitude": 37.416008,
+    "longitude": -83.993588,
+    "city": "Peoples",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40468,
+    "latitude": 37.637433,
+    "longitude": -84.97602,
+    "city": "Perryville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyle"
+  },
+  {
+    "zip_code": 40472,
+    "latitude": 37.713915,
+    "longitude": -83.856874,
+    "city": "Ravenna",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Estill"
+  },
+  {
+    "zip_code": 40473,
+    "latitude": 37.345751,
+    "longitude": -84.31614,
+    "city": "Renfro Valley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40475,
+    "latitude": 37.764867,
+    "longitude": -84.296913,
+    "city": "Richmond",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40476,
+    "latitude": 37.716443,
+    "longitude": -84.299699,
+    "city": "Richmond",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 40481,
+    "latitude": 37.46592,
+    "longitude": -84.059717,
+    "city": "Sandgap",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40484,
+    "latitude": 37.522046,
+    "longitude": -84.684467,
+    "city": "Stanford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40486,
+    "latitude": 37.357587,
+    "longitude": -83.930007,
+    "city": "Tyner",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40488,
+    "latitude": 37.47477,
+    "longitude": -84.042748,
+    "city": "Waneta",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 40489,
+    "latitude": 37.377689,
+    "longitude": -84.620613,
+    "city": "Waynesburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 40492,
+    "latitude": 37.345751,
+    "longitude": -84.31614,
+    "city": "Wildie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Rockcastle"
+  },
+  {
+    "zip_code": 40495,
+    "latitude": 37.709721,
+    "longitude": -84.082894,
+    "city": "Winston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Estill"
+  },
+  {
+    "zip_code": 40502,
+    "latitude": 38.016674,
+    "longitude": -84.486043,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40503,
+    "latitude": 38.002578,
+    "longitude": -84.539437,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40504,
+    "latitude": 38.038613,
+    "longitude": -84.539422,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40505,
+    "latitude": 38.060845,
+    "longitude": -84.462937,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40506,
+    "latitude": 38.028712,
+    "longitude": -84.507471,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40507,
+    "latitude": 38.045571,
+    "longitude": -84.495969,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40508,
+    "latitude": 38.051285,
+    "longitude": -84.498954,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40509,
+    "latitude": 37.986629,
+    "longitude": -84.372883,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40510,
+    "latitude": 38.06146,
+    "longitude": -84.594901,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40511,
+    "latitude": 38.132747,
+    "longitude": -84.492226,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40512,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40513,
+    "latitude": 38.01513,
+    "longitude": -84.605827,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40514,
+    "latitude": 37.982677,
+    "longitude": -84.560827,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40515,
+    "latitude": 37.924774,
+    "longitude": -84.437207,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40516,
+    "latitude": 38.064867,
+    "longitude": -84.430752,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40517,
+    "latitude": 37.986751,
+    "longitude": -84.487251,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40522,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40523,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40524,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40526,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40533,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40536,
+    "latitude": 38.032075,
+    "longitude": -84.508361,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40544,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40546,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40550,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40555,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40574,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40575,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40576,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40577,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40578,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40579,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40580,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40581,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40582,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40583,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40584,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40585,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40586,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40587,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40588,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40589,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40590,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40591,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40592,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40593,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40594,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40595,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40596,
+    "latitude": 38.028269,
+    "longitude": -84.471505,
+    "city": "Lexington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 40601,
+    "latitude": 38.228115,
+    "longitude": -84.869708,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40602,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40603,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40604,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40618,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40619,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40620,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40621,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40622,
+    "latitude": 38.234133,
+    "longitude": -84.874809,
+    "city": "Frankfort",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 40701,
+    "latitude": 36.854371,
+    "longitude": -84.184688,
+    "city": "Corbin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40702,
+    "latitude": 36.937426,
+    "longitude": -84.1031,
+    "city": "Corbin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40724,
+    "latitude": 37.152074,
+    "longitude": -84.140847,
+    "city": "Bush",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40729,
+    "latitude": 37.248761,
+    "longitude": -84.13796,
+    "city": "East Bernstadt",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40730,
+    "latitude": 36.703868,
+    "longitude": -84.141486,
+    "city": "Emlyn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40734,
+    "latitude": 36.936999,
+    "longitude": -83.933848,
+    "city": "Gray",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40737,
+    "latitude": 36.997587,
+    "longitude": -84.129021,
+    "city": "Keavy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40740,
+    "latitude": 37.025647,
+    "longitude": -84.028217,
+    "city": "Lily",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40741,
+    "latitude": 37.154931,
+    "longitude": -84.096062,
+    "city": "London",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40742,
+    "latitude": 37.137615,
+    "longitude": -84.115617,
+    "city": "London",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40743,
+    "latitude": 37.134455,
+    "longitude": -84.045746,
+    "city": "London",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40744,
+    "latitude": 37.09949,
+    "longitude": -84.113057,
+    "city": "London",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40745,
+    "latitude": 37.137615,
+    "longitude": -84.115617,
+    "city": "London",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40751,
+    "latitude": 37.137615,
+    "longitude": -84.115617,
+    "city": "Marydell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40754,
+    "latitude": 36.780333,
+    "longitude": -84.11678,
+    "city": "Nevisdale",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40755,
+    "latitude": 37.167752,
+    "longitude": -84.116614,
+    "city": "Pittsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Laurel"
+  },
+  {
+    "zip_code": 40759,
+    "latitude": 36.832568,
+    "longitude": -84.070522,
+    "city": "Rockholds",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40763,
+    "latitude": 36.702504,
+    "longitude": -83.955033,
+    "city": "Siler",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40769,
+    "latitude": 36.747032,
+    "longitude": -84.139406,
+    "city": "Williamsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 40771,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Woodbine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40801,
+    "latitude": 36.865351,
+    "longitude": -83.287927,
+    "city": "Ages Brookside",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40803,
+    "latitude": 37.011357,
+    "longitude": -83.4553,
+    "city": "Asher",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40806,
+    "latitude": 36.879484,
+    "longitude": -83.304537,
+    "city": "Baxter",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40807,
+    "latitude": 36.971157,
+    "longitude": -82.955273,
+    "city": "Benham",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40808,
+    "latitude": 36.984102,
+    "longitude": -83.206701,
+    "city": "Big Laurel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40810,
+    "latitude": 36.934041,
+    "longitude": -83.324159,
+    "city": "Bledsoe",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40813,
+    "latitude": 36.714629,
+    "longitude": -83.64046,
+    "city": "Calvin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40815,
+    "latitude": 36.781218,
+    "longitude": -83.291362,
+    "city": "Cawood",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40816,
+    "latitude": 37.009799,
+    "longitude": -83.349418,
+    "city": "Chappell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40818,
+    "latitude": 36.789038,
+    "longitude": -83.264806,
+    "city": "Coalgood",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40819,
+    "latitude": 36.820072,
+    "longitude": -83.470712,
+    "city": "Coldiron",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40820,
+    "latitude": 36.847188,
+    "longitude": -83.170137,
+    "city": "Cranks",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40823,
+    "latitude": 36.912209,
+    "longitude": -83.163759,
+    "city": "Cumberland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40824,
+    "latitude": 36.835555,
+    "longitude": -83.375307,
+    "city": "Dayhoit",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40826,
+    "latitude": 37.043638,
+    "longitude": -82.809267,
+    "city": "Eolia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 40827,
+    "latitude": 37.054676,
+    "longitude": -83.456094,
+    "city": "Essie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40828,
+    "latitude": 36.839806,
+    "longitude": -83.223251,
+    "city": "Evarts",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40829,
+    "latitude": 36.797447,
+    "longitude": -83.264497,
+    "city": "Grays Knob",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40830,
+    "latitude": 36.77011,
+    "longitude": -83.330675,
+    "city": "Gulston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40831,
+    "latitude": 36.861519,
+    "longitude": -83.203025,
+    "city": "Harlan",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40840,
+    "latitude": 36.954292,
+    "longitude": -83.431346,
+    "city": "Helton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40843,
+    "latitude": 36.876106,
+    "longitude": -82.988157,
+    "city": "Holmes Mill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40844,
+    "latitude": 37.070198,
+    "longitude": -83.424395,
+    "city": "Hoskinston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40845,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Hulen",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40847,
+    "latitude": 36.87338,
+    "longitude": -83.145061,
+    "city": "Kenvir",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40849,
+    "latitude": 36.889879,
+    "longitude": -83.14331,
+    "city": "Lejunior",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40854,
+    "latitude": 36.848097,
+    "longitude": -83.353034,
+    "city": "Loyall",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40855,
+    "latitude": 36.960303,
+    "longitude": -82.919767,
+    "city": "Lynch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40856,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Miracle",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40858,
+    "latitude": 36.998854,
+    "longitude": -83.394253,
+    "city": "Mozelle",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40862,
+    "latitude": 37.012888,
+    "longitude": -82.879541,
+    "city": "Partridge",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 40863,
+    "latitude": 36.74962,
+    "longitude": -83.45935,
+    "city": "Pathfork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40865,
+    "latitude": 36.903881,
+    "longitude": -83.238139,
+    "city": "Putney",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40868,
+    "latitude": 37.08308,
+    "longitude": -83.419745,
+    "city": "Stinnett",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40870,
+    "latitude": 36.932991,
+    "longitude": -83.161655,
+    "city": "Totz",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40873,
+    "latitude": 36.817164,
+    "longitude": -83.419056,
+    "city": "Wallins Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40874,
+    "latitude": 36.98397,
+    "longitude": -83.466672,
+    "city": "Warbranch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40902,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Arjay",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40903,
+    "latitude": 36.839539,
+    "longitude": -83.850573,
+    "city": "Artemus",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40906,
+    "latitude": 36.810109,
+    "longitude": -83.894888,
+    "city": "Barbourville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40913,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Beverly",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40914,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Big Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40915,
+    "latitude": 36.908172,
+    "longitude": -83.789161,
+    "city": "Bimble",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40921,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Bryants Store",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40923,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Cannon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40927,
+    "latitude": 36.88452,
+    "longitude": -83.030287,
+    "city": "Closplint",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40930,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Dewitt",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40931,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Eriline",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40932,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Fall Rock",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40935,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Flat Lick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40939,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Fourmile",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40940,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Frakes",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40941,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Garrard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40943,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Girdler",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40944,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Goose Rock",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40946,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Green Road",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40949,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Heidrick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40951,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Hima",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40953,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Hinkle",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40955,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Ingram",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40958,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Kettle Island",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40962,
+    "latitude": 37.151101,
+    "longitude": -83.779273,
+    "city": "Manchester",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40964,
+    "latitude": 36.842977,
+    "longitude": -83.183446,
+    "city": "Mary Alice",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 40965,
+    "latitude": 36.669566,
+    "longitude": -83.693159,
+    "city": "Middlesboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40972,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Oneida",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40977,
+    "latitude": 36.715863,
+    "longitude": -83.766776,
+    "city": "Pineville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40979,
+    "latitude": 37.043772,
+    "longitude": -83.494862,
+    "city": "Roark",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 40981,
+    "latitude": 37.331259,
+    "longitude": -83.386991,
+    "city": "Saul",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 40982,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Scalf",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40983,
+    "latitude": 37.147687,
+    "longitude": -83.737014,
+    "city": "Sextons Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 40988,
+    "latitude": 36.769184,
+    "longitude": -83.708181,
+    "city": "Stoney Fork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bell"
+  },
+  {
+    "zip_code": 40995,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Trosper",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40997,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Walker",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 40999,
+    "latitude": 36.871254,
+    "longitude": -83.829985,
+    "city": "Woollum",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 41001,
+    "latitude": 38.921584,
+    "longitude": -84.374584,
+    "city": "Alexandria",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41002,
+    "latitude": 38.72342,
+    "longitude": -83.982911,
+    "city": "Augusta",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bracken"
+  },
+  {
+    "zip_code": 41003,
+    "latitude": 38.442076,
+    "longitude": -84.347201,
+    "city": "Berry",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 41004,
+    "latitude": 38.638654,
+    "longitude": -84.093504,
+    "city": "Brooksville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bracken"
+  },
+  {
+    "zip_code": 41005,
+    "latitude": 39.015027,
+    "longitude": -84.773564,
+    "city": "Burlington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41006,
+    "latitude": 38.739446,
+    "longitude": -84.392841,
+    "city": "Butler",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pendleton"
+  },
+  {
+    "zip_code": 41007,
+    "latitude": 38.905563,
+    "longitude": -84.317079,
+    "city": "California",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41008,
+    "latitude": 38.663866,
+    "longitude": -85.098906,
+    "city": "Carrollton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 41010,
+    "latitude": 38.552305,
+    "longitude": -84.611567,
+    "city": "Corinth",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41011,
+    "latitude": 39.05906,
+    "longitude": -84.542748,
+    "city": "Covington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41012,
+    "latitude": 38.944663,
+    "longitude": -84.520501,
+    "city": "Covington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41014,
+    "latitude": 39.064211,
+    "longitude": -84.511793,
+    "city": "Covington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41015,
+    "latitude": 38.94711,
+    "longitude": -84.490048,
+    "city": "Latonia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41016,
+    "latitude": 39.082839,
+    "longitude": -84.574749,
+    "city": "Covington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41017,
+    "latitude": 39.029983,
+    "longitude": -84.55902,
+    "city": "Ft Mitchell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41018,
+    "latitude": 39.019684,
+    "longitude": -84.591389,
+    "city": "Erlanger",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41019,
+    "latitude": 38.944663,
+    "longitude": -84.520501,
+    "city": "Covington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41022,
+    "latitude": 38.962372,
+    "longitude": -84.747789,
+    "city": "Florence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41030,
+    "latitude": 38.770542,
+    "longitude": -84.597256,
+    "city": "Crittenden",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41031,
+    "latitude": 38.356954,
+    "longitude": -84.323033,
+    "city": "Cynthiana",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 41033,
+    "latitude": 38.762312,
+    "longitude": -84.485907,
+    "city": "De Mossville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pendleton"
+  },
+  {
+    "zip_code": 41034,
+    "latitude": 38.707093,
+    "longitude": -83.904101,
+    "city": "Dover",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 41035,
+    "latitude": 38.691789,
+    "longitude": -84.650966,
+    "city": "Dry Ridge",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41037,
+    "latitude": 38.3481,
+    "longitude": -83.718626,
+    "city": "Elizaville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41039,
+    "latitude": 38.3481,
+    "longitude": -83.718626,
+    "city": "Ewing",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41040,
+    "latitude": 38.637848,
+    "longitude": -84.318142,
+    "city": "Falmouth",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pendleton"
+  },
+  {
+    "zip_code": 41041,
+    "latitude": 38.438363,
+    "longitude": -83.732284,
+    "city": "Flemingsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41042,
+    "latitude": 38.989548,
+    "longitude": -84.656711,
+    "city": "Florence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41043,
+    "latitude": 38.766691,
+    "longitude": -84.171226,
+    "city": "Foster",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bracken"
+  },
+  {
+    "zip_code": 41044,
+    "latitude": 38.635744,
+    "longitude": -83.989965,
+    "city": "Germantown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bracken"
+  },
+  {
+    "zip_code": 41045,
+    "latitude": 38.715638,
+    "longitude": -85.047073,
+    "city": "Ghent",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 41046,
+    "latitude": 38.732647,
+    "longitude": -84.805495,
+    "city": "Glencoe",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 41048,
+    "latitude": 39.086656,
+    "longitude": -84.712389,
+    "city": "Hebron",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41049,
+    "latitude": 38.237176,
+    "longitude": -83.584351,
+    "city": "Hillsboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41051,
+    "latitude": 38.923041,
+    "longitude": -84.54745,
+    "city": "Independence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41052,
+    "latitude": 38.658689,
+    "longitude": -84.750673,
+    "city": "Jonesville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41053,
+    "latitude": 38.944663,
+    "longitude": -84.520501,
+    "city": "Kenton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41054,
+    "latitude": 38.593226,
+    "longitude": -84.578552,
+    "city": "Mason",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41055,
+    "latitude": 38.522012,
+    "longitude": -83.860969,
+    "city": "Mayslick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 41056,
+    "latitude": 38.620653,
+    "longitude": -83.806657,
+    "city": "Maysville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 41059,
+    "latitude": 39.003401,
+    "longitude": -84.35698,
+    "city": "Melbourne",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41061,
+    "latitude": 38.688556,
+    "longitude": -84.070074,
+    "city": "Milford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Bracken"
+  },
+  {
+    "zip_code": 41062,
+    "latitude": 38.719573,
+    "longitude": -83.910276,
+    "city": "Minerva",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 41063,
+    "latitude": 38.866297,
+    "longitude": -84.517548,
+    "city": "Morning View",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Kenton"
+  },
+  {
+    "zip_code": 41064,
+    "latitude": 38.531698,
+    "longitude": -84.035565,
+    "city": "Mount Olivet",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Robertson"
+  },
+  {
+    "zip_code": 41065,
+    "latitude": 38.3481,
+    "longitude": -83.718626,
+    "city": "Muses Mills",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41071,
+    "latitude": 39.056261,
+    "longitude": -84.478742,
+    "city": "Newport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41072,
+    "latitude": 38.963761,
+    "longitude": -84.368926,
+    "city": "Newport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41073,
+    "latitude": 39.10441,
+    "longitude": -84.473642,
+    "city": "Bellevue",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41074,
+    "latitude": 39.057835,
+    "longitude": -84.396404,
+    "city": "Dayton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41075,
+    "latitude": 39.080411,
+    "longitude": -84.453991,
+    "city": "Fort Thomas",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41076,
+    "latitude": 39.029015,
+    "longitude": -84.440757,
+    "city": "Newport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41080,
+    "latitude": 39.039096,
+    "longitude": -84.837832,
+    "city": "Petersburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41081,
+    "latitude": 38.3481,
+    "longitude": -83.718626,
+    "city": "Plummers Landing",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41083,
+    "latitude": 38.660372,
+    "longitude": -85.005783,
+    "city": "Sanders",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 41085,
+    "latitude": 39.034045,
+    "longitude": -84.388143,
+    "city": "Silver Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41086,
+    "latitude": 38.731246,
+    "longitude": -84.895823,
+    "city": "Sparta",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 41091,
+    "latitude": 38.921583,
+    "longitude": -84.746057,
+    "city": "Union",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41092,
+    "latitude": 38.824585,
+    "longitude": -84.692136,
+    "city": "Verona",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41093,
+    "latitude": 38.3481,
+    "longitude": -83.718626,
+    "city": "Wallingford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fleming"
+  },
+  {
+    "zip_code": 41094,
+    "latitude": 38.88142,
+    "longitude": -84.665597,
+    "city": "Walton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 41095,
+    "latitude": 38.762505,
+    "longitude": -84.877785,
+    "city": "Warsaw",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 41096,
+    "latitude": 38.61225,
+    "longitude": -83.808021,
+    "city": "Washington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 41097,
+    "latitude": 38.654385,
+    "longitude": -84.603041,
+    "city": "Williamstown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 41098,
+    "latitude": 38.637181,
+    "longitude": -85.047765,
+    "city": "Worthville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 41099,
+    "latitude": 38.963761,
+    "longitude": -84.368926,
+    "city": "Newport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 41101,
+    "latitude": 38.43296,
+    "longitude": -82.693914,
+    "city": "Ashland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41102,
+    "latitude": 38.421818,
+    "longitude": -82.717284,
+    "city": "Ashland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41105,
+    "latitude": 38.370285,
+    "longitude": -82.694757,
+    "city": "Ashland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41114,
+    "latitude": 38.370285,
+    "longitude": -82.694757,
+    "city": "Ashland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41121,
+    "latitude": 38.511714,
+    "longitude": -82.872362,
+    "city": "Argillite",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41124,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Blaine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41127,
+    "latitude": 38.602881,
+    "longitude": -83.361625,
+    "city": "Camp Dix",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41128,
+    "latitude": 38.433912,
+    "longitude": -83.133597,
+    "city": "Carter",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41129,
+    "latitude": 38.349127,
+    "longitude": -82.649833,
+    "city": "Catlettsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41132,
+    "latitude": 38.259701,
+    "longitude": -82.856231,
+    "city": "Denton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41135,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Emerson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41137,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Firebrick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41139,
+    "latitude": 38.50316,
+    "longitude": -82.728176,
+    "city": "Flatwoods",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41141,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Garrison",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41142,
+    "latitude": 38.28974,
+    "longitude": -83.081077,
+    "city": "Grahn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41143,
+    "latitude": 38.324893,
+    "longitude": -83.000742,
+    "city": "Grayson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41144,
+    "latitude": 38.617863,
+    "longitude": -82.839401,
+    "city": "Greenup",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41146,
+    "latitude": 38.271432,
+    "longitude": -83.061941,
+    "city": "Hitchins",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41149,
+    "latitude": 38.131568,
+    "longitude": -83.079708,
+    "city": "Isonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Elliott"
+  },
+  {
+    "zip_code": 41150,
+    "latitude": 38.225087,
+    "longitude": -83.242129,
+    "city": "Jacobs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41156,
+    "latitude": 38.565211,
+    "longitude": -82.916586,
+    "city": "Lloyd",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41159,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Martha",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41160,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Mazie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41164,
+    "latitude": 38.349219,
+    "longitude": -83.177987,
+    "city": "Olive Hill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41166,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Quincy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  }
+]

@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 61239,
+    "latitude": 41.495034,
+    "longitude": -90.393778,
+    "city": "Carbon Cliff",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61240,
+    "latitude": 41.401019,
+    "longitude": -90.575785,
+    "city": "Coal Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61241,
+    "latitude": 41.437419,
+    "longitude": -90.166719,
+    "city": "Colona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61242,
+    "latitude": 41.702549,
+    "longitude": -90.27691,
+    "city": "Cordova",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61243,
+    "latitude": 41.620757,
+    "longitude": -89.710301,
+    "city": "Deer Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61244,
+    "latitude": 41.562693,
+    "longitude": -90.512483,
+    "city": "East Moline",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61250,
+    "latitude": 41.667507,
+    "longitude": -90.098292,
+    "city": "Erie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61251,
+    "latitude": 41.737836,
+    "longitude": -90.078132,
+    "city": "Fenton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61252,
+    "latitude": 41.79088,
+    "longitude": -90.112432,
+    "city": "Fulton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61254,
+    "latitude": 41.437746,
+    "longitude": -90.158163,
+    "city": "Geneseo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61256,
+    "latitude": 41.527582,
+    "longitude": -90.446341,
+    "city": "Hampton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61257,
+    "latitude": 41.501771,
+    "longitude": -90.606468,
+    "city": "Hillsdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61258,
+    "latitude": 41.522044,
+    "longitude": -89.91216,
+    "city": "Hooppole",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61259,
+    "latitude": 41.384813,
+    "longitude": -90.835558,
+    "city": "Illinois City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61260,
+    "latitude": 41.237259,
+    "longitude": -90.688648,
+    "city": "Joy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61261,
+    "latitude": 41.73562,
+    "longitude": -89.910699,
+    "city": "Lyndon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61262,
+    "latitude": 41.285461,
+    "longitude": -90.319658,
+    "city": "Lynn Center",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61263,
+    "latitude": 41.259938,
+    "longitude": -90.612757,
+    "city": "Matherville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61264,
+    "latitude": 41.420305,
+    "longitude": -90.595736,
+    "city": "Milan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61265,
+    "latitude": 41.529431,
+    "longitude": -90.528972,
+    "city": "Moline",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61266,
+    "latitude": 41.554901,
+    "longitude": -90.615975,
+    "city": "Moline",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61270,
+    "latitude": 41.781381,
+    "longitude": -90.002217,
+    "city": "Morrison",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61272,
+    "latitude": 41.238072,
+    "longitude": -90.987063,
+    "city": "New Boston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61273,
+    "latitude": 41.36211,
+    "longitude": -90.376529,
+    "city": "Orion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61274,
+    "latitude": 41.371081,
+    "longitude": -90.194276,
+    "city": "Osco",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61275,
+    "latitude": 41.545132,
+    "longitude": -90.41449,
+    "city": "Port Byron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61276,
+    "latitude": 41.299563,
+    "longitude": -90.586643,
+    "city": "Preemption",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61277,
+    "latitude": 41.654462,
+    "longitude": -89.924411,
+    "city": "Prophetstown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61278,
+    "latitude": 41.585883,
+    "longitude": -90.343228,
+    "city": "Rapids City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61279,
+    "latitude": 41.472195,
+    "longitude": -90.595329,
+    "city": "Reynolds",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61281,
+    "latitude": 41.280317,
+    "longitude": -90.520183,
+    "city": "Sherrard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61282,
+    "latitude": 41.560381,
+    "longitude": -90.51753,
+    "city": "Silvis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61283,
+    "latitude": 41.637929,
+    "longitude": -89.756769,
+    "city": "Tampico",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61284,
+    "latitude": 41.391078,
+    "longitude": -90.714746,
+    "city": "Taylor Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61285,
+    "latitude": 41.986802,
+    "longitude": -89.917167,
+    "city": "Thomson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61299,
+    "latitude": 41.520333,
+    "longitude": -90.541585,
+    "city": "Rock Island",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61301,
+    "latitude": 41.365092,
+    "longitude": -89.0866,
+    "city": "La Salle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61310,
+    "latitude": 41.721016,
+    "longitude": -89.299671,
+    "city": "Amboy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61311,
+    "latitude": 41.042631,
+    "longitude": -88.864211,
+    "city": "Ancona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61312,
+    "latitude": 41.43043,
+    "longitude": -89.240006,
+    "city": "Arlington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61313,
+    "latitude": 41.063241,
+    "longitude": -88.680876,
+    "city": "Blackstone",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61314,
+    "latitude": 41.306814,
+    "longitude": -89.653036,
+    "city": "Buda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61315,
+    "latitude": 41.289394,
+    "longitude": -89.368617,
+    "city": "Bureau",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61316,
+    "latitude": 41.261714,
+    "longitude": -89.123735,
+    "city": "Cedar Point",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61317,
+    "latitude": 41.426433,
+    "longitude": -89.212609,
+    "city": "Cherry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61318,
+    "latitude": 41.713223,
+    "longitude": -89.091458,
+    "city": "Compton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61319,
+    "latitude": 41.03103,
+    "longitude": -88.766797,
+    "city": "Cornell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61320,
+    "latitude": 41.366748,
+    "longitude": -89.479804,
+    "city": "Dalzell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61321,
+    "latitude": 40.999418,
+    "longitude": -88.989269,
+    "city": "Dana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61322,
+    "latitude": 41.309194,
+    "longitude": -89.325221,
+    "city": "Depue",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61323,
+    "latitude": 41.436173,
+    "longitude": -89.396006,
+    "city": "Dover",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61324,
+    "latitude": 41.771078,
+    "longitude": -89.412282,
+    "city": "Eldena",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61325,
+    "latitude": 41.237122,
+    "longitude": -88.817458,
+    "city": "Grand Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61326,
+    "latitude": 41.250055,
+    "longitude": -89.24284,
+    "city": "Granville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61327,
+    "latitude": 41.252096,
+    "longitude": -89.338005,
+    "city": "Hennepin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61328,
+    "latitude": 41.366883,
+    "longitude": -89.513065,
+    "city": "Kasbeer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61329,
+    "latitude": 41.37951,
+    "longitude": -89.203827,
+    "city": "Ladd",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61330,
+    "latitude": 41.454193,
+    "longitude": -89.448445,
+    "city": "La Moille",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61331,
+    "latitude": 41.74885,
+    "longitude": -89.282726,
+    "city": "Lee Center",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61332,
+    "latitude": 41.148788,
+    "longitude": -89.009131,
+    "city": "Leonore",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61333,
+    "latitude": 40.980115,
+    "longitude": -88.873628,
+    "city": "Long Point",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61334,
+    "latitude": 41.148202,
+    "longitude": -89.076145,
+    "city": "Lostant",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61335,
+    "latitude": 41.146046,
+    "longitude": -89.225915,
+    "city": "Mc Nabb",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61336,
+    "latitude": 41.213097,
+    "longitude": -89.314316,
+    "city": "Magnolia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61337,
+    "latitude": 41.422315,
+    "longitude": -89.335467,
+    "city": "Malden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61338,
+    "latitude": 41.455508,
+    "longitude": -89.669712,
+    "city": "Manlius",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61340,
+    "latitude": 41.265997,
+    "longitude": -89.249143,
+    "city": "Mark",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61341,
+    "latitude": 41.212787,
+    "longitude": -88.833689,
+    "city": "Marseilles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61342,
+    "latitude": 41.385519,
+    "longitude": -89.051012,
+    "city": "Mendota",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61344,
+    "latitude": 41.379654,
+    "longitude": -89.828368,
+    "city": "Mineral",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61345,
+    "latitude": 41.338444,
+    "longitude": -89.796313,
+    "city": "Neponset",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61346,
+    "latitude": 41.512158,
+    "longitude": -89.719934,
+    "city": "New Bedford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61348,
+    "latitude": 41.225813,
+    "longitude": -89.040428,
+    "city": "Oglesby",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61349,
+    "latitude": 41.459337,
+    "longitude": -89.596261,
+    "city": "Ohio",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61350,
+    "latitude": 41.248925,
+    "longitude": -88.833337,
+    "city": "Ottawa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61353,
+    "latitude": 41.69376,
+    "longitude": -88.995749,
+    "city": "Paw Paw",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61354,
+    "latitude": 41.326408,
+    "longitude": -89.08578,
+    "city": "Peru",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61356,
+    "latitude": 41.424736,
+    "longitude": -89.452044,
+    "city": "Princeton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61358,
+    "latitude": 40.985846,
+    "longitude": -88.989048,
+    "city": "Rutland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61359,
+    "latitude": 41.361251,
+    "longitude": -89.269125,
+    "city": "Seatonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61360,
+    "latitude": 41.221524,
+    "longitude": -88.835029,
+    "city": "Seneca",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61361,
+    "latitude": 41.404427,
+    "longitude": -89.530149,
+    "city": "Sheffield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61362,
+    "latitude": 41.423455,
+    "longitude": -89.506797,
+    "city": "Spring Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61363,
+    "latitude": 41.256668,
+    "longitude": -89.17784,
+    "city": "Standard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61364,
+    "latitude": 41.164177,
+    "longitude": -88.85632,
+    "city": "Streator",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61367,
+    "latitude": 41.628086,
+    "longitude": -89.274356,
+    "city": "Sublette",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61368,
+    "latitude": 41.248455,
+    "longitude": -89.521465,
+    "city": "Tiskilwa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61369,
+    "latitude": 41.006568,
+    "longitude": -89.134078,
+    "city": "Toluca",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61370,
+    "latitude": 41.222005,
+    "longitude": -88.989972,
+    "city": "Tonica",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61371,
+    "latitude": 41.499089,
+    "longitude": -89.021881,
+    "city": "Triumph",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61372,
+    "latitude": 41.451786,
+    "longitude": -89.070516,
+    "city": "Troy Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61373,
+    "latitude": 41.411759,
+    "longitude": -89.008197,
+    "city": "Utica",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 61374,
+    "latitude": 41.366883,
+    "longitude": -89.513065,
+    "city": "Van Orin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61375,
+    "latitude": 41.033886,
+    "longitude": -89.255983,
+    "city": "Varna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61376,
+    "latitude": 41.453979,
+    "longitude": -89.478453,
+    "city": "Walnut",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61377,
+    "latitude": 41.029236,
+    "longitude": -89.134955,
+    "city": "Wenona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61378,
+    "latitude": 41.722648,
+    "longitude": -89.193026,
+    "city": "West Brooklyn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61379,
+    "latitude": 41.442109,
+    "longitude": -89.44646,
+    "city": "Wyanet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bureau"
+  },
+  {
+    "zip_code": 61401,
+    "latitude": 40.964613,
+    "longitude": -90.213654,
+    "city": "Galesburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61402,
+    "latitude": 40.932207,
+    "longitude": -90.214412,
+    "city": "Galesburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61410,
+    "latitude": 40.927973,
+    "longitude": -90.304039,
+    "city": "Abingdon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61411,
+    "latitude": 40.387329,
+    "longitude": -90.506582,
+    "city": "Adair",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61412,
+    "latitude": 41.136994,
+    "longitude": -90.631224,
+    "city": "Alexis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61413,
+    "latitude": 41.20188,
+    "longitude": -90.245619,
+    "city": "Alpha",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61414,
+    "latitude": 41.096307,
+    "longitude": -90.138335,
+    "city": "Altona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61415,
+    "latitude": 40.608139,
+    "longitude": -90.362984,
+    "city": "Avon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61416,
+    "latitude": 40.497896,
+    "longitude": -90.508816,
+    "city": "Bardolph",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61417,
+    "latitude": 40.769783,
+    "longitude": -90.534172,
+    "city": "Berwick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61418,
+    "latitude": 40.853583,
+    "longitude": -90.864536,
+    "city": "Biggsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61419,
+    "latitude": 41.197682,
+    "longitude": -90.118344,
+    "city": "Bishop Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61420,
+    "latitude": 40.547789,
+    "longitude": -90.762736,
+    "city": "Blandinsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61421,
+    "latitude": 41.176471,
+    "longitude": -89.657789,
+    "city": "Bradford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61422,
+    "latitude": 40.548189,
+    "longitude": -90.657031,
+    "city": "Bushnell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61423,
+    "latitude": 40.904171,
+    "longitude": -90.556645,
+    "city": "Cameron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61424,
+    "latitude": 41.077977,
+    "longitude": -89.633233,
+    "city": "Camp Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61425,
+    "latitude": 40.852582,
+    "longitude": -90.985293,
+    "city": "Carman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61426,
+    "latitude": 41.118265,
+    "longitude": -89.70715,
+    "city": "Castleton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61427,
+    "latitude": 40.501446,
+    "longitude": -90.201152,
+    "city": "Cuba",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61428,
+    "latitude": 41.007962,
+    "longitude": -90.102455,
+    "city": "Dahinda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61430,
+    "latitude": 40.980167,
+    "longitude": -90.329573,
+    "city": "East Galesburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61431,
+    "latitude": 40.577403,
+    "longitude": -90.305162,
+    "city": "Ellisville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61432,
+    "latitude": 40.645183,
+    "longitude": -90.158064,
+    "city": "Fairview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61433,
+    "latitude": 40.449305,
+    "longitude": -90.161761,
+    "city": "Fiatt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61434,
+    "latitude": 41.212281,
+    "longitude": -90.091976,
+    "city": "Galva",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61435,
+    "latitude": 40.986267,
+    "longitude": -90.549089,
+    "city": "Gerlaw",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61436,
+    "latitude": 40.968763,
+    "longitude": -90.201205,
+    "city": "Gilson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61437,
+    "latitude": 40.852582,
+    "longitude": -90.985293,
+    "city": "Gladstone",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61438,
+    "latitude": 40.57311,
+    "longitude": -90.646976,
+    "city": "Good Hope",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61439,
+    "latitude": 41.027582,
+    "longitude": -90.357532,
+    "city": "Henderson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61440,
+    "latitude": 40.41622,
+    "longitude": -90.648351,
+    "city": "Industry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61441,
+    "latitude": 40.333536,
+    "longitude": -90.307389,
+    "city": "Ipava",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61442,
+    "latitude": 41.133733,
+    "longitude": -90.711121,
+    "city": "Keithsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61443,
+    "latitude": 41.257262,
+    "longitude": -90.118355,
+    "city": "Kewanee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61447,
+    "latitude": 40.871331,
+    "longitude": -90.656439,
+    "city": "Kirkwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61448,
+    "latitude": 40.972611,
+    "longitude": -90.168778,
+    "city": "Knoxville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61449,
+    "latitude": 41.109823,
+    "longitude": -89.97363,
+    "city": "La Fayette",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61450,
+    "latitude": 40.549636,
+    "longitude": -90.997312,
+    "city": "La Harpe",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 61451,
+    "latitude": 40.938808,
+    "longitude": -89.889949,
+    "city": "Laura",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61452,
+    "latitude": 40.20621,
+    "longitude": -90.652911,
+    "city": "Littleton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 61453,
+    "latitude": 40.991276,
+    "longitude": -90.707712,
+    "city": "Little York",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61454,
+    "latitude": 40.852582,
+    "longitude": -90.985293,
+    "city": "Lomax",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61455,
+    "latitude": 40.459904,
+    "longitude": -90.660675,
+    "city": "Macomb",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61458,
+    "latitude": 40.802776,
+    "longitude": -90.213566,
+    "city": "Maquon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61459,
+    "latitude": 40.510851,
+    "longitude": -90.393855,
+    "city": "Marietta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61460,
+    "latitude": 40.852582,
+    "longitude": -90.985293,
+    "city": "Media",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61462,
+    "latitude": 40.924563,
+    "longitude": -90.618313,
+    "city": "Monmouth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61465,
+    "latitude": 41.176867,
+    "longitude": -90.687247,
+    "city": "New Windsor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61466,
+    "latitude": 41.107653,
+    "longitude": -90.485206,
+    "city": "North Henderson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61467,
+    "latitude": 41.076845,
+    "longitude": -90.242298,
+    "city": "Oneida",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61468,
+    "latitude": 41.257228,
+    "longitude": -90.400667,
+    "city": "Opheim",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61469,
+    "latitude": 40.937485,
+    "longitude": -90.948392,
+    "city": "Oquawka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61470,
+    "latitude": 40.591144,
+    "longitude": -90.512266,
+    "city": "Prairie City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61471,
+    "latitude": 40.852582,
+    "longitude": -90.985293,
+    "city": "Raritan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61472,
+    "latitude": 41.100464,
+    "longitude": -90.38161,
+    "city": "Rio",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61473,
+    "latitude": 40.747768,
+    "longitude": -90.654131,
+    "city": "Roseville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61474,
+    "latitude": 40.739649,
+    "longitude": -90.358419,
+    "city": "Saint Augustine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61475,
+    "latitude": 40.583158,
+    "longitude": -90.731564,
+    "city": "Sciota",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 61476,
+    "latitude": 41.136652,
+    "longitude": -90.760811,
+    "city": "Seaton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61477,
+    "latitude": 40.495137,
+    "longitude": -90.345369,
+    "city": "Smithfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61478,
+    "latitude": 40.749815,
+    "longitude": -90.750256,
+    "city": "Smithshire",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 61479,
+    "latitude": 40.987171,
+    "longitude": -89.651961,
+    "city": "Speer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61480,
+    "latitude": 40.719278,
+    "longitude": -90.894204,
+    "city": "Stronghurst",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 61482,
+    "latitude": 40.376602,
+    "longitude": -90.408961,
+    "city": "Table Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61483,
+    "latitude": 41.09404,
+    "longitude": -89.864391,
+    "city": "Toulon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61484,
+    "latitude": 40.285383,
+    "longitude": -90.393432,
+    "city": "Vermont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61485,
+    "latitude": 41.00733,
+    "longitude": -90.085007,
+    "city": "Victoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61486,
+    "latitude": 41.208497,
+    "longitude": -90.575522,
+    "city": "Viola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61488,
+    "latitude": 41.016591,
+    "longitude": -90.251635,
+    "city": "Wataga",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61489,
+    "latitude": 40.94837,
+    "longitude": -90.042908,
+    "city": "Williamsfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61490,
+    "latitude": 41.208513,
+    "longitude": -90.230506,
+    "city": "Woodhull",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61491,
+    "latitude": 41.085606,
+    "longitude": -89.788462,
+    "city": "Wyoming",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61501,
+    "latitude": 40.243173,
+    "longitude": -90.324653,
+    "city": "Astoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61516,
+    "latitude": 40.853248,
+    "longitude": -89.131937,
+    "city": "Benson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61517,
+    "latitude": 40.814233,
+    "longitude": -89.859603,
+    "city": "Brimfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61519,
+    "latitude": 40.466267,
+    "longitude": -90.091027,
+    "city": "Bryant",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61520,
+    "latitude": 40.445611,
+    "longitude": -90.151535,
+    "city": "Canton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61523,
+    "latitude": 40.831823,
+    "longitude": -89.636673,
+    "city": "Chillicothe",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61524,
+    "latitude": 40.491606,
+    "longitude": -90.041936,
+    "city": "Dunfermline",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61525,
+    "latitude": 40.84674,
+    "longitude": -89.678884,
+    "city": "Dunlap",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61526,
+    "latitude": 40.911838,
+    "longitude": -89.644497,
+    "city": "Edelstein",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61528,
+    "latitude": 40.836603,
+    "longitude": -89.726242,
+    "city": "Edwards",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61529,
+    "latitude": 40.778516,
+    "longitude": -89.910219,
+    "city": "Elmwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61530,
+    "latitude": 40.705084,
+    "longitude": -89.376702,
+    "city": "Eureka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61531,
+    "latitude": 40.471426,
+    "longitude": -90.170475,
+    "city": "Farmington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61532,
+    "latitude": 40.305929,
+    "longitude": -89.8716,
+    "city": "Forest City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 61533,
+    "latitude": 40.589183,
+    "longitude": -89.815144,
+    "city": "Glasford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61534,
+    "latitude": 40.425189,
+    "longitude": -89.62064,
+    "city": "Green Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61535,
+    "latitude": 40.600997,
+    "longitude": -89.557074,
+    "city": "Groveland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61536,
+    "latitude": 40.685646,
+    "longitude": -89.781809,
+    "city": "Hanna City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61537,
+    "latitude": 41.053004,
+    "longitude": -89.339283,
+    "city": "Henry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61539,
+    "latitude": 40.557119,
+    "longitude": -89.768481,
+    "city": "Kingston Mines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61540,
+    "latitude": 41.007987,
+    "longitude": -89.337636,
+    "city": "Lacon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61541,
+    "latitude": 41.006325,
+    "longitude": -89.22692,
+    "city": "La Rose",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61542,
+    "latitude": 40.463185,
+    "longitude": -90.166942,
+    "city": "Lewistown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61543,
+    "latitude": 40.390243,
+    "longitude": -90.002625,
+    "city": "Liverpool",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61544,
+    "latitude": 40.672692,
+    "longitude": -90.291576,
+    "city": "London Mills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61545,
+    "latitude": 40.879257,
+    "longitude": -89.370304,
+    "city": "Lowpoint",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61546,
+    "latitude": 40.366447,
+    "longitude": -89.880969,
+    "city": "Manito",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 61547,
+    "latitude": 40.60896,
+    "longitude": -89.742265,
+    "city": "Mapleton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61548,
+    "latitude": 40.833004,
+    "longitude": -89.358019,
+    "city": "Metamora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61550,
+    "latitude": 40.591322,
+    "longitude": -89.425339,
+    "city": "Morton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61552,
+    "latitude": 40.817987,
+    "longitude": -89.567996,
+    "city": "Mossville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61553,
+    "latitude": 40.449305,
+    "longitude": -90.161761,
+    "city": "Norris",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61554,
+    "latitude": 40.548928,
+    "longitude": -89.638839,
+    "city": "Pekin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61555,
+    "latitude": 40.56071,
+    "longitude": -89.650232,
+    "city": "Pekin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61558,
+    "latitude": 40.554538,
+    "longitude": -89.609951,
+    "city": "Pekin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61559,
+    "latitude": 40.99564,
+    "longitude": -89.747439,
+    "city": "Princeville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 61560,
+    "latitude": 41.205454,
+    "longitude": -89.430236,
+    "city": "Putnam",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 61561,
+    "latitude": 40.793501,
+    "longitude": -89.238985,
+    "city": "Roanoke",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61562,
+    "latitude": 40.874269,
+    "longitude": -89.506695,
+    "city": "Rome",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61563,
+    "latitude": 40.491232,
+    "longitude": -90.050499,
+    "city": "Saint David",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 61564,
+    "latitude": 40.494804,
+    "longitude": -89.654598,
+    "city": "South Pekin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61565,
+    "latitude": 41.006602,
+    "longitude": -89.34804,
+    "city": "Sparland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61567,
+    "latitude": 40.344336,
+    "longitude": -89.885895,
+    "city": "Topeka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 61568,
+    "latitude": 40.456128,
+    "longitude": -89.542656,
+    "city": "Tremont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61569,
+    "latitude": 40.677626,
+    "longitude": -89.909859,
+    "city": "Trivoli",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61570,
+    "latitude": 40.935265,
+    "longitude": -89.33833,
+    "city": "Washburn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 61571,
+    "latitude": 40.575996,
+    "longitude": -89.487463,
+    "city": "Washington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61572,
+    "latitude": 40.785753,
+    "longitude": -90.042993,
+    "city": "Yates City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 61601,
+    "latitude": 40.693137,
+    "longitude": -89.589847,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61602,
+    "latitude": 40.683283,
+    "longitude": -89.604898,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61603,
+    "latitude": 40.779845,
+    "longitude": -89.554055,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61604,
+    "latitude": 40.779003,
+    "longitude": -89.617464,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61605,
+    "latitude": 40.676637,
+    "longitude": -89.633787,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61606,
+    "latitude": 40.698087,
+    "longitude": -89.608697,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61607,
+    "latitude": 40.632085,
+    "longitude": -89.690349,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61610,
+    "latitude": 40.654065,
+    "longitude": -89.571837,
+    "city": "Creve Coeur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61611,
+    "latitude": 40.563589,
+    "longitude": -89.543319,
+    "city": "East Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61612,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61613,
+    "latitude": 40.742537,
+    "longitude": -89.627948,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61614,
+    "latitude": 40.768117,
+    "longitude": -89.602647,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61615,
+    "latitude": 40.766087,
+    "longitude": -89.644982,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61616,
+    "latitude": 40.746726,
+    "longitude": -89.571641,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61625,
+    "latitude": 40.696287,
+    "longitude": -89.616648,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61628,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61629,
+    "latitude": 40.692037,
+    "longitude": -89.588747,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61630,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61632,
+    "latitude": 40.765301,
+    "longitude": -89.569207,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61633,
+    "latitude": 40.731165,
+    "longitude": -89.603081,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61634,
+    "latitude": 40.689637,
+    "longitude": -89.592597,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61635,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61636,
+    "latitude": 40.699937,
+    "longitude": -89.595147,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61637,
+    "latitude": 40.702487,
+    "longitude": -89.589797,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61638,
+    "latitude": 40.796887,
+    "longitude": -89.611146,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61639,
+    "latitude": 40.709837,
+    "longitude": -89.563646,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61640,
+    "latitude": 40.785653,
+    "longitude": -89.617657,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61641,
+    "latitude": 40.640002,
+    "longitude": -89.651987,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61643,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61644,
+    "latitude": 40.765301,
+    "longitude": -89.569207,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61650,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61651,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61652,
+    "latitude": 40.87671,
+    "longitude": -89.509113,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61653,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61654,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61655,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61656,
+    "latitude": 40.744179,
+    "longitude": -89.718401,
+    "city": "Peoria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Peoria"
+  },
+  {
+    "zip_code": 61701,
+    "latitude": 40.462041,
+    "longitude": -88.850396,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61702,
+    "latitude": 40.519236,
+    "longitude": -88.864303,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61704,
+    "latitude": 40.491715,
+    "longitude": -88.982373,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61709,
+    "latitude": 40.461431,
+    "longitude": -88.953015,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61710,
+    "latitude": 40.477735,
+    "longitude": -88.954174,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61720,
+    "latitude": 40.568549,
+    "longitude": -88.722113,
+    "city": "Anchor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61721,
+    "latitude": 40.36129,
+    "longitude": -89.323143,
+    "city": "Armington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61722,
+    "latitude": 40.447857,
+    "longitude": -88.632584,
+    "city": "Arrowsmith",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61723,
+    "latitude": 40.233769,
+    "longitude": -89.257602,
+    "city": "Atlanta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 61724,
+    "latitude": 40.332543,
+    "longitude": -88.549114,
+    "city": "Bellflower",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61725,
+    "latitude": 40.580974,
+    "longitude": -89.178681,
+    "city": "Carlock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61726,
+    "latitude": 40.535221,
+    "longitude": -88.895001,
+    "city": "Chenoa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61727,
+    "latitude": 40.152822,
+    "longitude": -88.947118,
+    "city": "Clinton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61728,
+    "latitude": 40.566345,
+    "longitude": -88.614116,
+    "city": "Colfax",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61729,
+    "latitude": 40.617077,
+    "longitude": -89.183981,
+    "city": "Congerville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61730,
+    "latitude": 40.54215,
+    "longitude": -88.716816,
+    "city": "Cooksville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61731,
+    "latitude": 40.608711,
+    "longitude": -88.480229,
+    "city": "Cropsey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61732,
+    "latitude": 40.43644,
+    "longitude": -88.882841,
+    "city": "Danvers",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61733,
+    "latitude": 40.561464,
+    "longitude": -89.406261,
+    "city": "Deer Creek",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61734,
+    "latitude": 40.424081,
+    "longitude": -89.600252,
+    "city": "Delavan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61735,
+    "latitude": 40.208276,
+    "longitude": -88.808015,
+    "city": "Dewitt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61736,
+    "latitude": 40.398907,
+    "longitude": -88.868647,
+    "city": "Downs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61737,
+    "latitude": 40.44998,
+    "longitude": -88.717168,
+    "city": "Ellsworth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61738,
+    "latitude": 40.684846,
+    "longitude": -89.106751,
+    "city": "El Paso",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61739,
+    "latitude": 40.76723,
+    "longitude": -88.627756,
+    "city": "Fairbury",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61740,
+    "latitude": 40.882185,
+    "longitude": -88.844393,
+    "city": "Flanagan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61741,
+    "latitude": 40.754176,
+    "longitude": -88.393085,
+    "city": "Forrest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61742,
+    "latitude": 40.661248,
+    "longitude": -89.289652,
+    "city": "Goodfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61743,
+    "latitude": 40.879417,
+    "longitude": -88.608644,
+    "city": "Graymont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61744,
+    "latitude": 40.744776,
+    "longitude": -88.881354,
+    "city": "Gridley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61745,
+    "latitude": 40.458782,
+    "longitude": -88.985385,
+    "city": "Heyworth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61747,
+    "latitude": 40.535696,
+    "longitude": -89.445054,
+    "city": "Hopedale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61748,
+    "latitude": 40.62502,
+    "longitude": -88.989005,
+    "city": "Hudson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61749,
+    "latitude": 40.111484,
+    "longitude": -89.062222,
+    "city": "Kenney",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61750,
+    "latitude": 40.098291,
+    "longitude": -88.841501,
+    "city": "Lane",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61751,
+    "latitude": 40.21927,
+    "longitude": -89.285172,
+    "city": "Lawndale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 61752,
+    "latitude": 40.459553,
+    "longitude": -88.849599,
+    "city": "Le Roy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61753,
+    "latitude": 40.483327,
+    "longitude": -88.874304,
+    "city": "Lexington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61754,
+    "latitude": 40.31522,
+    "longitude": -89.194639,
+    "city": "Mc Lean",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61755,
+    "latitude": 40.530344,
+    "longitude": -89.369718,
+    "city": "Mackinaw",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61756,
+    "latitude": 40.037523,
+    "longitude": -88.961338,
+    "city": "Maroa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 61758,
+    "latitude": 40.519236,
+    "longitude": -88.864303,
+    "city": "Merna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61759,
+    "latitude": 40.447572,
+    "longitude": -89.334398,
+    "city": "Minier",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 61760,
+    "latitude": 40.838957,
+    "longitude": -89.066126,
+    "city": "Minonk",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61761,
+    "latitude": 40.530375,
+    "longitude": -88.7989,
+    "city": "Normal",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61764,
+    "latitude": 40.87479,
+    "longitude": -88.630826,
+    "city": "Pontiac",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61769,
+    "latitude": 40.883768,
+    "longitude": -88.394974,
+    "city": "Saunemin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61770,
+    "latitude": 40.454332,
+    "longitude": -88.865256,
+    "city": "Saybrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61771,
+    "latitude": 40.742182,
+    "longitude": -89.134822,
+    "city": "Secor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Woodford"
+  },
+  {
+    "zip_code": 61772,
+    "latitude": 40.519236,
+    "longitude": -88.864303,
+    "city": "Shirley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61773,
+    "latitude": 40.57361,
+    "longitude": -88.384737,
+    "city": "Sibley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 61774,
+    "latitude": 40.435192,
+    "longitude": -89.220679,
+    "city": "Stanford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61775,
+    "latitude": 40.652662,
+    "longitude": -88.39463,
+    "city": "Strawn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 61776,
+    "latitude": 40.562341,
+    "longitude": -88.897711,
+    "city": "Towanda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61777,
+    "latitude": 40.223337,
+    "longitude": -88.943985,
+    "city": "Wapella",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61778,
+    "latitude": 40.241747,
+    "longitude": -89.092664,
+    "city": "Waynesville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61790,
+    "latitude": 40.51032,
+    "longitude": -88.99803,
+    "city": "Normal",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61791,
+    "latitude": 40.519236,
+    "longitude": -88.864303,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61799,
+    "latitude": 40.488468,
+    "longitude": -88.939637,
+    "city": "Bloomington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 61801,
+    "latitude": 40.133657,
+    "longitude": -88.182071,
+    "city": "Urbana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61802,
+    "latitude": 40.074573,
+    "longitude": -88.169093,
+    "city": "Urbana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61803,
+    "latitude": 40.10593,
+    "longitude": -88.224669,
+    "city": "Urbana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61810,
+    "latitude": 39.923693,
+    "longitude": -87.899719,
+    "city": "Allerton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61811,
+    "latitude": 40.285456,
+    "longitude": -87.632675,
+    "city": "Alvin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61812,
+    "latitude": 40.258038,
+    "longitude": -87.874221,
+    "city": "Armstrong",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61813,
+    "latitude": 39.908567,
+    "longitude": -88.599987,
+    "city": "Bement",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61814,
+    "latitude": 40.24097,
+    "longitude": -87.576801,
+    "city": "Bismarck",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61815,
+    "latitude": 40.10838,
+    "longitude": -88.378167,
+    "city": "Bondville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61816,
+    "latitude": 39.923208,
+    "longitude": -87.992677,
+    "city": "Broadlands",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61817,
+    "latitude": 40.015467,
+    "longitude": -87.804585,
+    "city": "Catlin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61818,
+    "latitude": 39.88603,
+    "longitude": -88.68207,
+    "city": "Cerro Gordo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61820,
+    "latitude": 40.101777,
+    "longitude": -88.197166,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61821,
+    "latitude": 40.117337,
+    "longitude": -88.312996,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61822,
+    "latitude": 40.131682,
+    "longitude": -88.28541,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61824,
+    "latitude": 40.139946,
+    "longitude": -88.196102,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61825,
+    "latitude": 40.139946,
+    "longitude": -88.196102,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61826,
+    "latitude": 40.113139,
+    "longitude": -88.361251,
+    "city": "Champaign",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61830,
+    "latitude": 40.028868,
+    "longitude": -88.69568,
+    "city": "Cisco",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61831,
+    "latitude": 40.227338,
+    "longitude": -87.80397,
+    "city": "Collison",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61832,
+    "latitude": 40.10398,
+    "longitude": -87.757792,
+    "city": "Danville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61833,
+    "latitude": 40.064586,
+    "longitude": -87.637493,
+    "city": "Tilton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61834,
+    "latitude": 40.160162,
+    "longitude": -87.67293,
+    "city": "Danville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61839,
+    "latitude": 40.124321,
+    "longitude": -88.623262,
+    "city": "De Land",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61840,
+    "latitude": 40.307054,
+    "longitude": -88.301259,
+    "city": "Dewey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61841,
+    "latitude": 40.135318,
+    "longitude": -87.808538,
+    "city": "Fairmount",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61842,
+    "latitude": 40.18631,
+    "longitude": -88.69107,
+    "city": "Farmer City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61843,
+    "latitude": 40.137239,
+    "longitude": -88.208104,
+    "city": "Fisher",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61844,
+    "latitude": 40.139763,
+    "longitude": -87.86895,
+    "city": "Fithian",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61845,
+    "latitude": 40.347405,
+    "longitude": -88.384648,
+    "city": "Foosland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61846,
+    "latitude": 39.979714,
+    "longitude": -87.734359,
+    "city": "Georgetown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61847,
+    "latitude": 40.278553,
+    "longitude": -88.011017,
+    "city": "Gifford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61848,
+    "latitude": 40.304034,
+    "longitude": -87.700689,
+    "city": "Henning",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61849,
+    "latitude": 40.110684,
+    "longitude": -88.154018,
+    "city": "Homer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61850,
+    "latitude": 39.939685,
+    "longitude": -87.730068,
+    "city": "Indianola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61851,
+    "latitude": 39.959789,
+    "longitude": -88.25522,
+    "city": "Ivesdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61852,
+    "latitude": 39.91593,
+    "longitude": -88.034929,
+    "city": "Longview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61853,
+    "latitude": 40.111848,
+    "longitude": -88.20431,
+    "city": "Mahomet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61854,
+    "latitude": 40.193243,
+    "longitude": -88.545144,
+    "city": "Mansfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61855,
+    "latitude": 39.923765,
+    "longitude": -88.659875,
+    "city": "Milmine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61856,
+    "latitude": 40.050289,
+    "longitude": -88.597923,
+    "city": "Monticello",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61857,
+    "latitude": 40.116478,
+    "longitude": -87.844689,
+    "city": "Muncie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61858,
+    "latitude": 40.133222,
+    "longitude": -87.756376,
+    "city": "Oakwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61859,
+    "latitude": 40.069274,
+    "longitude": -88.105359,
+    "city": "Ogden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61862,
+    "latitude": 40.305199,
+    "longitude": -87.966332,
+    "city": "Penfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61863,
+    "latitude": 40.090766,
+    "longitude": -88.1675,
+    "city": "Pesotum",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61864,
+    "latitude": 40.011073,
+    "longitude": -88.151394,
+    "city": "Philo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61865,
+    "latitude": 40.211734,
+    "longitude": -87.785617,
+    "city": "Potomac",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61866,
+    "latitude": 40.249954,
+    "longitude": -88.113686,
+    "city": "Rantoul",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61870,
+    "latitude": 39.910953,
+    "longitude": -87.615286,
+    "city": "Ridge Farm",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61871,
+    "latitude": 40.192376,
+    "longitude": -87.974197,
+    "city": "Royal",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61872,
+    "latitude": 39.945436,
+    "longitude": -88.359609,
+    "city": "Sadorus",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61873,
+    "latitude": 40.144962,
+    "longitude": -88.072851,
+    "city": "Saint Joseph",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61874,
+    "latitude": 40.068677,
+    "longitude": -88.253105,
+    "city": "Savoy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61875,
+    "latitude": 40.092808,
+    "longitude": -88.406344,
+    "city": "Seymour",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61876,
+    "latitude": 39.935302,
+    "longitude": -87.83913,
+    "city": "Sidell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61877,
+    "latitude": 39.98922,
+    "longitude": -88.076343,
+    "city": "Sidney",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61878,
+    "latitude": 40.241697,
+    "longitude": -88.155556,
+    "city": "Thomasboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61880,
+    "latitude": 40.03821,
+    "longitude": -88.174757,
+    "city": "Tolono",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 61882,
+    "latitude": 40.134768,
+    "longitude": -88.745542,
+    "city": "Weldon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Dewitt"
+  },
+  {
+    "zip_code": 61883,
+    "latitude": 40.103625,
+    "longitude": -87.744819,
+    "city": "Westville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 61884,
+    "latitude": 40.091056,
+    "longitude": -88.503949,
+    "city": "White Heath",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61910,
+    "latitude": 39.725828,
+    "longitude": -88.305182,
+    "city": "Arcola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61911,
+    "latitude": 39.728925,
+    "longitude": -88.249344,
+    "city": "Arthur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61912,
+    "latitude": 39.531041,
+    "longitude": -88.040616,
+    "city": "Ashmore",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 61913,
+    "latitude": 39.766094,
+    "longitude": -88.273085,
+    "city": "Atwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61914,
+    "latitude": 39.638,
+    "longitude": -88.75367,
+    "city": "Bethany",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Moultrie"
+  },
+  {
+    "zip_code": 61917,
+    "latitude": 39.713401,
+    "longitude": -87.818005,
+    "city": "Brocton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61919,
+    "latitude": 39.752952,
+    "longitude": -88.149912,
+    "city": "Camargo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61920,
+    "latitude": 39.499622,
+    "longitude": -88.160348,
+    "city": "Charleston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 61924,
+    "latitude": 39.77859,
+    "longitude": -87.687638,
+    "city": "Chrisman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61925,
+    "latitude": 39.679871,
+    "longitude": -88.774951,
+    "city": "Dalton City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Moultrie"
+  },
+  {
+    "zip_code": 61928,
+    "latitude": 39.585282,
+    "longitude": -88.639372,
+    "city": "Gays",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Moultrie"
+  },
+  {
+    "zip_code": 61929,
+    "latitude": 39.843006,
+    "longitude": -88.585389,
+    "city": "Hammond",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61930,
+    "latitude": 39.695357,
+    "longitude": -88.127173,
+    "city": "Hindsboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61931,
+    "latitude": 39.586199,
+    "longitude": -88.347315,
+    "city": "Humboldt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 61932,
+    "latitude": 39.718148,
+    "longitude": -87.873472,
+    "city": "Hume",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61933,
+    "latitude": 39.637094,
+    "longitude": -87.896219,
+    "city": "Kansas",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61936,
+    "latitude": 39.798287,
+    "longitude": -88.727157,
+    "city": "La Place",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Piatt"
+  },
+  {
+    "zip_code": 61937,
+    "latitude": 39.701633,
+    "longitude": -88.606722,
+    "city": "Lovington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Moultrie"
+  },
+  {
+    "zip_code": 61938,
+    "latitude": 39.505679,
+    "longitude": -88.247012,
+    "city": "Mattoon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 61940,
+    "latitude": 39.80461,
+    "longitude": -87.780032,
+    "city": "Metcalf",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61941,
+    "latitude": 39.800028,
+    "longitude": -88.183049,
+    "city": "Murdock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61942,
+    "latitude": 39.800771,
+    "longitude": -88.029696,
+    "city": "Newman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61943,
+    "latitude": 39.62812,
+    "longitude": -88.217663,
+    "city": "Oakland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 61944,
+    "latitude": 39.638496,
+    "longitude": -87.740488,
+    "city": "Paris",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61949,
+    "latitude": 39.660054,
+    "longitude": -87.863306,
+    "city": "Redmon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61951,
+    "latitude": 39.588093,
+    "longitude": -88.633539,
+    "city": "Sullivan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Moultrie"
+  },
+  {
+    "zip_code": 61953,
+    "latitude": 39.787385,
+    "longitude": -88.274137,
+    "city": "Tuscola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61955,
+    "latitude": 39.679882,
+    "longitude": -87.750216,
+    "city": "Vermilion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edgar"
+  },
+  {
+    "zip_code": 61956,
+    "latitude": 39.766275,
+    "longitude": -88.091437,
+    "city": "Villa Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 61957,
+    "latitude": 39.425509,
+    "longitude": -88.714896,
+    "city": "Windsor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62001,
+    "latitude": 38.882109,
+    "longitude": -89.739366,
+    "city": "Alhambra",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62002,
+    "latitude": 38.929065,
+    "longitude": -89.968862,
+    "city": "Alton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62006,
+    "latitude": 39.004588,
+    "longitude": -90.653455,
+    "city": "Batchtown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62009,
+    "latitude": 39.120709,
+    "longitude": -89.940021,
+    "city": "Benld",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62010,
+    "latitude": 38.923994,
+    "longitude": -90.054615,
+    "city": "Bethalto",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62011,
+    "latitude": 39.112821,
+    "longitude": -89.212452,
+    "city": "Bingham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62012,
+    "latitude": 39.07267,
+    "longitude": -90.254596,
+    "city": "Brighton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62013,
+    "latitude": 38.925543,
+    "longitude": -90.596798,
+    "city": "Brussels",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62014,
+    "latitude": 39.049428,
+    "longitude": -89.980834,
+    "city": "Bunker Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62015,
+    "latitude": 39.210135,
+    "longitude": -89.532057,
+    "city": "Butler",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62016,
+    "latitude": 39.380638,
+    "longitude": -90.399251,
+    "city": "Carrollton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62017,
+    "latitude": 39.070254,
+    "longitude": -89.380042,
+    "city": "Coffeen",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62018,
+    "latitude": 38.909971,
+    "longitude": -90.064279,
+    "city": "Cottage Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62019,
+    "latitude": 39.004543,
+    "longitude": -89.464108,
+    "city": "Donnellson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62021,
+    "latitude": 38.964212,
+    "longitude": -89.97814,
+    "city": "Dorsey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62022,
+    "latitude": 38.992751,
+    "longitude": -90.316504,
+    "city": "Dow",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62023,
+    "latitude": 39.111806,
+    "longitude": -89.785514,
+    "city": "Eagarville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62024,
+    "latitude": 38.831578,
+    "longitude": -89.99119,
+    "city": "East Alton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62025,
+    "latitude": 38.841819,
+    "longitude": -89.877841,
+    "city": "Edwardsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62026,
+    "latitude": 38.733748,
+    "longitude": -89.94305,
+    "city": "Edwardsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62027,
+    "latitude": 39.286993,
+    "longitude": -90.553924,
+    "city": "Eldred",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62028,
+    "latitude": 38.959647,
+    "longitude": -90.338648,
+    "city": "Elsah",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62030,
+    "latitude": 39.092772,
+    "longitude": -90.374651,
+    "city": "Fidelity",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62031,
+    "latitude": 39.107914,
+    "longitude": -90.501701,
+    "city": "Fieldon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62032,
+    "latitude": 39.11551,
+    "longitude": -89.362709,
+    "city": "Fillmore",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62033,
+    "latitude": 39.25627,
+    "longitude": -89.888832,
+    "city": "Gillespie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62034,
+    "latitude": 38.810731,
+    "longitude": -90.023867,
+    "city": "Glen Carbon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62035,
+    "latitude": 38.884108,
+    "longitude": -90.110532,
+    "city": "Godfrey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62036,
+    "latitude": 38.966585,
+    "longitude": -90.660769,
+    "city": "Golden Eagle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62037,
+    "latitude": 38.98414,
+    "longitude": -90.43136,
+    "city": "Grafton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62040,
+    "latitude": 38.802398,
+    "longitude": -90.1289,
+    "city": "Granite City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62044,
+    "latitude": 39.355962,
+    "longitude": -90.244338,
+    "city": "Greenfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62045,
+    "latitude": 39.13427,
+    "longitude": -90.69376,
+    "city": "Hamburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62046,
+    "latitude": 38.880823,
+    "longitude": -89.860115,
+    "city": "Hamel",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62047,
+    "latitude": 39.149443,
+    "longitude": -90.622789,
+    "city": "Hardin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62048,
+    "latitude": 38.827848,
+    "longitude": -90.092606,
+    "city": "Hartford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62049,
+    "latitude": 39.139201,
+    "longitude": -89.471754,
+    "city": "Hillsboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62050,
+    "latitude": 39.319696,
+    "longitude": -90.385171,
+    "city": "Hillview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62051,
+    "latitude": 39.199223,
+    "longitude": -89.371698,
+    "city": "Irving",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62052,
+    "latitude": 39.101894,
+    "longitude": -90.304917,
+    "city": "Jerseyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62053,
+    "latitude": 39.311587,
+    "longitude": -90.636915,
+    "city": "Kampsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62054,
+    "latitude": 39.191892,
+    "longitude": -90.352339,
+    "city": "Kane",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62056,
+    "latitude": 39.169422,
+    "longitude": -89.552405,
+    "city": "Litchfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62058,
+    "latitude": 38.968616,
+    "longitude": -89.794284,
+    "city": "Livingston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62059,
+    "latitude": 38.439983,
+    "longitude": -89.983521,
+    "city": "Lovejoy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62060,
+    "latitude": 38.683349,
+    "longitude": -90.149108,
+    "city": "Madison",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62061,
+    "latitude": 38.779256,
+    "longitude": -89.778648,
+    "city": "Marine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62062,
+    "latitude": 38.713829,
+    "longitude": -89.965751,
+    "city": "Maryville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62063,
+    "latitude": 39.092772,
+    "longitude": -90.374651,
+    "city": "Medora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jersey"
+  },
+  {
+    "zip_code": 62065,
+    "latitude": 39.13427,
+    "longitude": -90.69376,
+    "city": "Michael",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62067,
+    "latitude": 38.928421,
+    "longitude": -89.984339,
+    "city": "Moro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62069,
+    "latitude": 39.265646,
+    "longitude": -89.922605,
+    "city": "Mount Olive",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62070,
+    "latitude": 39.13427,
+    "longitude": -90.69376,
+    "city": "Mozier",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 62071,
+    "latitude": 38.6516,
+    "longitude": -90.163909,
+    "city": "National Stock Yards",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62074,
+    "latitude": 38.892137,
+    "longitude": -89.714645,
+    "city": "New Douglas",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62075,
+    "latitude": 39.241367,
+    "longitude": -89.322889,
+    "city": "Nokomis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62076,
+    "latitude": 39.261791,
+    "longitude": -89.421584,
+    "city": "Ohlman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62077,
+    "latitude": 39.031684,
+    "longitude": -89.52368,
+    "city": "Panama",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62078,
+    "latitude": 39.319696,
+    "longitude": -90.385171,
+    "city": "Patterson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62079,
+    "latitude": 39.112843,
+    "longitude": -90.11977,
+    "city": "Piasa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62080,
+    "latitude": 39.144177,
+    "longitude": -89.110549,
+    "city": "Ramsey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62081,
+    "latitude": 39.319696,
+    "longitude": -90.385171,
+    "city": "Rockbridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62082,
+    "latitude": 39.483354,
+    "longitude": -90.373258,
+    "city": "Roodhouse",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62083,
+    "latitude": 39.37433,
+    "longitude": -89.198256,
+    "city": "Rosamond",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62084,
+    "latitude": 38.846947,
+    "longitude": -90.080752,
+    "city": "Roxana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62085,
+    "latitude": 39.082793,
+    "longitude": -89.804349,
+    "city": "Sawyerville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62086,
+    "latitude": 38.961617,
+    "longitude": -89.554727,
+    "city": "Sorento",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62087,
+    "latitude": 38.822547,
+    "longitude": -90.058255,
+    "city": "South Roxana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62088,
+    "latitude": 39.038526,
+    "longitude": -89.784732,
+    "city": "Staunton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62089,
+    "latitude": 39.121757,
+    "longitude": -89.494172,
+    "city": "Taylor Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62090,
+    "latitude": 38.67025,
+    "longitude": -90.168859,
+    "city": "Venice",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62091,
+    "latitude": 39.061381,
+    "longitude": -89.61133,
+    "city": "Walshville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62092,
+    "latitude": 39.43886,
+    "longitude": -90.402937,
+    "city": "White Hall",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62093,
+    "latitude": 39.069484,
+    "longitude": -89.856534,
+    "city": "Wilsonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62094,
+    "latitude": 39.162463,
+    "longitude": -89.40593,
+    "city": "Witt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62095,
+    "latitude": 38.861597,
+    "longitude": -90.085657,
+    "city": "Wood River",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62097,
+    "latitude": 38.921075,
+    "longitude": -89.922418,
+    "city": "Worden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62098,
+    "latitude": 39.376153,
+    "longitude": -90.293302,
+    "city": "Wrights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 62201,
+    "latitude": 38.612317,
+    "longitude": -90.115857,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62202,
+    "latitude": 38.6163,
+    "longitude": -90.159059,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62203,
+    "latitude": 38.595757,
+    "longitude": -90.077007,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62204,
+    "latitude": 38.6308,
+    "longitude": -90.095007,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62205,
+    "latitude": 38.6123,
+    "longitude": -90.124308,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62206,
+    "latitude": 38.551401,
+    "longitude": -90.15441,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62207,
+    "latitude": 38.58705,
+    "longitude": -90.127808,
+    "city": "East Saint Louis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62208,
+    "latitude": 38.59666,
+    "longitude": -90.006304,
+    "city": "Fairview Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62214,
+    "latitude": 38.381545,
+    "longitude": -89.579449,
+    "city": "Addieville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62215,
+    "latitude": 38.514316,
+    "longitude": -89.627154,
+    "city": "Albers",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62216,
+    "latitude": 38.608924,
+    "longitude": -89.603386,
+    "city": "Aviston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62217,
+    "latitude": 38.155348,
+    "longitude": -89.752849,
+    "city": "Baldwin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62218,
+    "latitude": 38.542321,
+    "longitude": -89.462267,
+    "city": "Bartelso",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62219,
+    "latitude": 38.601825,
+    "longitude": -89.427944,
+    "city": "Beckemeyer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62220,
+    "latitude": 38.46435,
+    "longitude": -89.973877,
+    "city": "Belleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62221,
+    "latitude": 38.523569,
+    "longitude": -89.911601,
+    "city": "Belleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62222,
+    "latitude": 38.439983,
+    "longitude": -89.983521,
+    "city": "Belleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62223,
+    "latitude": 38.55025,
+    "longitude": -90.076357,
+    "city": "Belleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62224,
+    "latitude": 38.439983,
+    "longitude": -89.983521,
+    "city": "Mascoutah",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62225,
+    "latitude": 38.543201,
+    "longitude": -89.85902,
+    "city": "Scott Air Force Base",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62226,
+    "latitude": 38.509999,
+    "longitude": -89.998685,
+    "city": "Belleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62230,
+    "latitude": 38.640028,
+    "longitude": -89.52961,
+    "city": "Breese",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62231,
+    "latitude": 38.620776,
+    "longitude": -89.402155,
+    "city": "Carlyle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62232,
+    "latitude": 38.630199,
+    "longitude": -90.012477,
+    "city": "Caseyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62233,
+    "latitude": 38.048847,
+    "longitude": -89.815308,
+    "city": "Chester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62234,
+    "latitude": 38.733747,
+    "longitude": -89.908644,
+    "city": "Collinsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62236,
+    "latitude": 38.409442,
+    "longitude": -90.16382,
+    "city": "Columbia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62237,
+    "latitude": 38.175298,
+    "longitude": -89.647936,
+    "city": "Coulterville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62238,
+    "latitude": 38.046458,
+    "longitude": -89.478358,
+    "city": "Cutler",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 62239,
+    "latitude": 38.519424,
+    "longitude": -90.181561,
+    "city": "Dupo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62240,
+    "latitude": 38.524005,
+    "longitude": -90.200514,
+    "city": "East Carondelet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62241,
+    "latitude": 38.041586,
+    "longitude": -89.893045,
+    "city": "Ellis Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62242,
+    "latitude": 38.10828,
+    "longitude": -89.943684,
+    "city": "Evansville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62243,
+    "latitude": 38.428067,
+    "longitude": -89.895886,
+    "city": "Freeburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62244,
+    "latitude": 38.187143,
+    "longitude": -90.194704,
+    "city": "Fults",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62245,
+    "latitude": 38.560662,
+    "longitude": -89.559413,
+    "city": "Germantown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62246,
+    "latitude": 38.884421,
+    "longitude": -89.423032,
+    "city": "Greenville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62247,
+    "latitude": 38.977111,
+    "longitude": -88.975507,
+    "city": "Hagarstown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62248,
+    "latitude": 38.299507,
+    "longitude": -89.961825,
+    "city": "Hecker",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62249,
+    "latitude": 38.758429,
+    "longitude": -89.741694,
+    "city": "Highland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62250,
+    "latitude": 38.540877,
+    "longitude": -89.436298,
+    "city": "Hoffman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62252,
+    "latitude": 38.601768,
+    "longitude": -89.291549,
+    "city": "Huey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62253,
+    "latitude": 38.588112,
+    "longitude": -89.472555,
+    "city": "Keyesport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62254,
+    "latitude": 38.605448,
+    "longitude": -89.82823,
+    "city": "Lebanon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62255,
+    "latitude": 38.30606,
+    "longitude": -89.782156,
+    "city": "Lenzburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62256,
+    "latitude": 38.30426,
+    "longitude": -90.135645,
+    "city": "Maeystown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62257,
+    "latitude": 38.311672,
+    "longitude": -89.778855,
+    "city": "Marissa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62258,
+    "latitude": 38.421239,
+    "longitude": -89.769993,
+    "city": "Mascoutah",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62259,
+    "latitude": 38.013132,
+    "longitude": -89.899569,
+    "city": "Menard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62260,
+    "latitude": 38.471651,
+    "longitude": -90.092336,
+    "city": "Millstadt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62261,
+    "latitude": 38.01529,
+    "longitude": -90.00377,
+    "city": "Modoc",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62262,
+    "latitude": 38.93611,
+    "longitude": -89.313739,
+    "city": "Mulberry Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62263,
+    "latitude": 38.331439,
+    "longitude": -89.3674,
+    "city": "Nashville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62264,
+    "latitude": 38.30799,
+    "longitude": -89.921695,
+    "city": "New Athens",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62265,
+    "latitude": 38.513254,
+    "longitude": -89.587348,
+    "city": "New Baden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62266,
+    "latitude": 38.485708,
+    "longitude": -89.681587,
+    "city": "New Memphis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62268,
+    "latitude": 38.274439,
+    "longitude": -89.553239,
+    "city": "Oakdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62269,
+    "latitude": 38.571835,
+    "longitude": -89.89568,
+    "city": "O Fallon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62271,
+    "latitude": 38.433952,
+    "longitude": -89.511013,
+    "city": "Okawville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62272,
+    "latitude": 37.997145,
+    "longitude": -89.626074,
+    "city": "Percy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62273,
+    "latitude": 38.884459,
+    "longitude": -89.444898,
+    "city": "Pierron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62274,
+    "latitude": 38.083297,
+    "longitude": -89.386589,
+    "city": "Pinckneyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 62275,
+    "latitude": 38.822283,
+    "longitude": -89.525591,
+    "city": "Pocahontas",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62277,
+    "latitude": 38.114151,
+    "longitude": -90.034123,
+    "city": "Prairie Du Rocher",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62278,
+    "latitude": 38.119605,
+    "longitude": -89.818578,
+    "city": "Red Bud",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62279,
+    "latitude": 38.152057,
+    "longitude": -90.134596,
+    "city": "Renault",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62280,
+    "latitude": 37.861143,
+    "longitude": -89.698387,
+    "city": "Rockwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62281,
+    "latitude": 38.705928,
+    "longitude": -89.792463,
+    "city": "Saint Jacob",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62282,
+    "latitude": 38.363228,
+    "longitude": -89.713921,
+    "city": "Saint Libory",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62283,
+    "latitude": 38.652071,
+    "longitude": -89.214562,
+    "city": "Shattuc",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62284,
+    "latitude": 38.890378,
+    "longitude": -89.314242,
+    "city": "Smithboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Bond"
+  },
+  {
+    "zip_code": 62285,
+    "latitude": 38.475288,
+    "longitude": -89.898651,
+    "city": "Smithton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62286,
+    "latitude": 38.108083,
+    "longitude": -89.726486,
+    "city": "Sparta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62288,
+    "latitude": 38.004698,
+    "longitude": -89.676103,
+    "city": "Steeleville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62289,
+    "latitude": 38.596698,
+    "longitude": -89.751194,
+    "city": "Summerfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 62292,
+    "latitude": 38.212224,
+    "longitude": -89.689539,
+    "city": "Tilden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62293,
+    "latitude": 38.620028,
+    "longitude": -89.569004,
+    "city": "Trenton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 62294,
+    "latitude": 38.721612,
+    "longitude": -89.895817,
+    "city": "Troy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 62295,
+    "latitude": 38.280514,
+    "longitude": -90.312208,
+    "city": "Valmeyer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62297,
+    "latitude": 38.036046,
+    "longitude": -89.83918,
+    "city": "Walsh",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 62298,
+    "latitude": 38.327408,
+    "longitude": -90.155869,
+    "city": "Waterloo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 62301,
+    "latitude": 39.952413,
+    "longitude": -91.200676,
+    "city": "Quincy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62305,
+    "latitude": 39.96008,
+    "longitude": -91.302633,
+    "city": "Quincy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62306,
+    "latitude": 39.97863,
+    "longitude": -91.21256,
+    "city": "Quincy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62310,
+    "latitude": 40.416145,
+    "longitude": -91.205805,
+    "city": "Adrian",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62311,
+    "latitude": 40.330707,
+    "longitude": -91.045874,
+    "city": "Augusta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62312,
+    "latitude": 39.611334,
+    "longitude": -90.894104,
+    "city": "Barry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62313,
+    "latitude": 40.31943,
+    "longitude": -91.240855,
+    "city": "Basco",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62314,
+    "latitude": 39.729666,
+    "longitude": -90.90981,
+    "city": "Baylis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62316,
+    "latitude": 40.376123,
+    "longitude": -91.17718,
+    "city": "Bowen",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62318,
+    "latitude": 40.488126,
+    "longitude": -91.135819,
+    "city": "Burnside",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62319,
+    "latitude": 40.131603,
+    "longitude": -90.556586,
+    "city": "Camden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 62320,
+    "latitude": 40.018202,
+    "longitude": -91.060449,
+    "city": "Camp Point",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62321,
+    "latitude": 40.432148,
+    "longitude": -91.135365,
+    "city": "Carthage",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62323,
+    "latitude": 39.782477,
+    "longitude": -90.749883,
+    "city": "Chambersburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62324,
+    "latitude": 39.982894,
+    "longitude": -90.949268,
+    "city": "Clayton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62325,
+    "latitude": 40.012663,
+    "longitude": -91.152206,
+    "city": "Coatsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62326,
+    "latitude": 40.400892,
+    "longitude": -90.734536,
+    "city": "Colchester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 62329,
+    "latitude": 40.571353,
+    "longitude": -91.168221,
+    "city": "Colusa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62330,
+    "latitude": 40.435191,
+    "longitude": -91.077508,
+    "city": "Dallas City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62334,
+    "latitude": 40.41707,
+    "longitude": -91.221434,
+    "city": "Elvaston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62336,
+    "latitude": 40.468178,
+    "longitude": -91.170959,
+    "city": "Ferris",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62338,
+    "latitude": 39.960187,
+    "longitude": -91.282143,
+    "city": "Fowler",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62339,
+    "latitude": 40.110022,
+    "longitude": -91.027961,
+    "city": "Golden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62340,
+    "latitude": 39.741573,
+    "longitude": -90.749386,
+    "city": "Griggsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62341,
+    "latitude": 40.475714,
+    "longitude": -91.271002,
+    "city": "Hamilton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62343,
+    "latitude": 39.620372,
+    "longitude": -90.967919,
+    "city": "Hull",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62344,
+    "latitude": 40.131603,
+    "longitude": -90.556586,
+    "city": "Huntsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 62345,
+    "latitude": 39.620372,
+    "longitude": -90.967919,
+    "city": "Kinderhook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62346,
+    "latitude": 40.148051,
+    "longitude": -91.004209,
+    "city": "La Prairie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62347,
+    "latitude": 39.887579,
+    "longitude": -91.106747,
+    "city": "Liberty",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62348,
+    "latitude": 40.165558,
+    "longitude": -91.387504,
+    "city": "Lima",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62349,
+    "latitude": 40.154457,
+    "longitude": -91.210203,
+    "city": "Loraine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62351,
+    "latitude": 40.074962,
+    "longitude": -91.283098,
+    "city": "Mendon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62352,
+    "latitude": 39.563497,
+    "longitude": -90.650336,
+    "city": "Milton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62353,
+    "latitude": 39.978147,
+    "longitude": -90.756924,
+    "city": "Mount Sterling",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 62354,
+    "latitude": 40.432598,
+    "longitude": -91.208266,
+    "city": "Nauvoo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62355,
+    "latitude": 39.442983,
+    "longitude": -90.787696,
+    "city": "Nebo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62356,
+    "latitude": 39.620372,
+    "longitude": -90.967919,
+    "city": "New Canton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62357,
+    "latitude": 39.705209,
+    "longitude": -90.845884,
+    "city": "New Salem",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62358,
+    "latitude": 40.49093,
+    "longitude": -91.247972,
+    "city": "Niota",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62359,
+    "latitude": 39.97863,
+    "longitude": -91.21256,
+    "city": "Paloma",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62360,
+    "latitude": 39.829819,
+    "longitude": -91.286815,
+    "city": "Payson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62361,
+    "latitude": 39.460514,
+    "longitude": -90.627114,
+    "city": "Pearl",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62362,
+    "latitude": 39.78247,
+    "longitude": -90.747978,
+    "city": "Perry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62363,
+    "latitude": 39.615433,
+    "longitude": -90.798482,
+    "city": "Pittsfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62365,
+    "latitude": 39.935995,
+    "longitude": -91.232952,
+    "city": "Plainville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62366,
+    "latitude": 39.447008,
+    "longitude": -90.87168,
+    "city": "Pleasant Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62367,
+    "latitude": 40.323553,
+    "longitude": -90.967177,
+    "city": "Plymouth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62370,
+    "latitude": 39.620372,
+    "longitude": -90.967919,
+    "city": "Rockport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 62373,
+    "latitude": 40.286511,
+    "longitude": -91.372569,
+    "city": "Sutter",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62374,
+    "latitude": 40.388444,
+    "longitude": -90.764268,
+    "city": "Tennessee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mcdonough"
+  },
+  {
+    "zip_code": 62375,
+    "latitude": 40.007601,
+    "longitude": -90.874657,
+    "city": "Timewell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 62376,
+    "latitude": 40.073445,
+    "longitude": -91.206586,
+    "city": "Ursa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 62378,
+    "latitude": 39.944465,
+    "longitude": -90.737957,
+    "city": "Versailles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 62379,
+    "latitude": 40.297801,
+    "longitude": -91.198818,
+    "city": "Warsaw",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62380,
+    "latitude": 40.241584,
+    "longitude": -91.240017,
+    "city": "West Point",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 62401,
+    "latitude": 39.116649,
+    "longitude": -88.545705,
+    "city": "Effingham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62410,
+    "latitude": 38.527638,
+    "longitude": -87.706344,
+    "city": "Allendale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 62411,
+    "latitude": 39.053436,
+    "longitude": -88.719754,
+    "city": "Altamont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62413,
+    "latitude": 39.134986,
+    "longitude": -87.838419,
+    "city": "Annapolis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62414,
+    "latitude": 39.194098,
+    "longitude": -88.760126,
+    "city": "Beecher City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62415,
+    "latitude": 38.710336,
+    "longitude": -87.703639,
+    "city": "Birds",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 62417,
+    "latitude": 38.654076,
+    "longitude": -87.706902,
+    "city": "Bridgeport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 62418,
+    "latitude": 38.994303,
+    "longitude": -88.955042,
+    "city": "Brownstown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62419,
+    "latitude": 38.65,
+    "longitude": -88.047886,
+    "city": "Calhoun",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62420,
+    "latitude": 39.293482,
+    "longitude": -87.954456,
+    "city": "Casey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62421,
+    "latitude": 38.743413,
+    "longitude": -87.966843,
+    "city": "Claremont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62422,
+    "latitude": 39.250015,
+    "longitude": -88.862961,
+    "city": "Cowden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62423,
+    "latitude": 39.411823,
+    "longitude": -87.573146,
+    "city": "Dennison",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62424,
+    "latitude": 39.049843,
+    "longitude": -88.576045,
+    "city": "Dieterich",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62425,
+    "latitude": 38.819798,
+    "longitude": -88.090524,
+    "city": "Dundas",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62426,
+    "latitude": 38.988768,
+    "longitude": -88.524406,
+    "city": "Edgewood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62427,
+    "latitude": 38.895585,
+    "longitude": -87.672672,
+    "city": "Flat Rock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62428,
+    "latitude": 39.274017,
+    "longitude": -88.124598,
+    "city": "Greenup",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 62431,
+    "latitude": 39.219603,
+    "longitude": -88.981896,
+    "city": "Herrick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62432,
+    "latitude": 39.127107,
+    "longitude": -88.117007,
+    "city": "Hidalgo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62433,
+    "latitude": 39.085312,
+    "longitude": -87.707636,
+    "city": "Hutsonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62434,
+    "latitude": 38.757302,
+    "longitude": -88.473594,
+    "city": "Ingraham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62435,
+    "latitude": 39.374287,
+    "longitude": -88.244487,
+    "city": "Janesville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 62436,
+    "latitude": 39.207405,
+    "longitude": -88.273197,
+    "city": "Jewett",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 62438,
+    "latitude": 39.434607,
+    "longitude": -88.805278,
+    "city": "Lakewood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62439,
+    "latitude": 38.685176,
+    "longitude": -87.634235,
+    "city": "Lawrenceville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 62440,
+    "latitude": 39.418401,
+    "longitude": -88.270006,
+    "city": "Lerna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 62441,
+    "latitude": 39.331139,
+    "longitude": -87.747363,
+    "city": "Marshall",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62442,
+    "latitude": 39.325782,
+    "longitude": -87.850086,
+    "city": "Martinsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62443,
+    "latitude": 38.95267,
+    "longitude": -88.635111,
+    "city": "Mason",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62444,
+    "latitude": 39.434607,
+    "longitude": -88.805278,
+    "city": "Mode",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62445,
+    "latitude": 39.163869,
+    "longitude": -88.37756,
+    "city": "Montrose",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62446,
+    "latitude": 38.381926,
+    "longitude": -88.405596,
+    "city": "Mount Erie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62447,
+    "latitude": 39.290276,
+    "longitude": -88.241333,
+    "city": "Neoga",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 62448,
+    "latitude": 38.980049,
+    "longitude": -88.184675,
+    "city": "Newton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62449,
+    "latitude": 39.029652,
+    "longitude": -87.782569,
+    "city": "Oblong",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62450,
+    "latitude": 38.709154,
+    "longitude": -88.085204,
+    "city": "Olney",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62451,
+    "latitude": 39.000528,
+    "longitude": -87.604191,
+    "city": "Palestine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62452,
+    "latitude": 38.587985,
+    "longitude": -88.011149,
+    "city": "Parkersburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62454,
+    "latitude": 39.004559,
+    "longitude": -87.751776,
+    "city": "Robinson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62458,
+    "latitude": 39.025319,
+    "longitude": -88.852372,
+    "city": "Saint Elmo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62459,
+    "latitude": 38.927986,
+    "longitude": -88.029084,
+    "city": "Sainte Marie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62460,
+    "latitude": 38.592132,
+    "longitude": -87.648661,
+    "city": "Saint Francisville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 62461,
+    "latitude": 39.112465,
+    "longitude": -88.670484,
+    "city": "Shumway",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62462,
+    "latitude": 39.251684,
+    "longitude": -88.510776,
+    "city": "Sigel",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62463,
+    "latitude": 39.273518,
+    "longitude": -88.80134,
+    "city": "Stewardson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62464,
+    "latitude": 38.98981,
+    "longitude": -87.839627,
+    "city": "Stoy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62465,
+    "latitude": 39.349589,
+    "longitude": -88.616381,
+    "city": "Strasburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62466,
+    "latitude": 38.717105,
+    "longitude": -87.863812,
+    "city": "Sumner",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 62467,
+    "latitude": 39.132706,
+    "longitude": -88.450793,
+    "city": "Teutopolis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62468,
+    "latitude": 39.282208,
+    "longitude": -88.272657,
+    "city": "Toledo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 62469,
+    "latitude": 39.393753,
+    "longitude": -88.348819,
+    "city": "Trilla",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Coles"
+  },
+  {
+    "zip_code": 62471,
+    "latitude": 38.982404,
+    "longitude": -89.051628,
+    "city": "Vandalia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62473,
+    "latitude": 38.990551,
+    "longitude": -88.558435,
+    "city": "Watson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 62474,
+    "latitude": 39.407315,
+    "longitude": -87.949053,
+    "city": "Westfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62475,
+    "latitude": 39.003369,
+    "longitude": -88.067535,
+    "city": "West Liberty",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62476,
+    "latitude": 38.519678,
+    "longitude": -88.009457,
+    "city": "West Salem",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 62477,
+    "latitude": 39.236906,
+    "longitude": -87.674977,
+    "city": "West Union",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 62478,
+    "latitude": 39.158846,
+    "longitude": -87.723392,
+    "city": "West York",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 62479,
+    "latitude": 39.028977,
+    "longitude": -88.299931,
+    "city": "Wheeler",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62480,
+    "latitude": 38.992322,
+    "longitude": -88.031057,
+    "city": "Willow Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62481,
+    "latitude": 39.121515,
+    "longitude": -88.157258,
+    "city": "Yale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 62501,
+    "latitude": 39.965322,
+    "longitude": -88.848695,
+    "city": "Argenta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62510,
+    "latitude": 39.527214,
+    "longitude": -89.249643,
+    "city": "Assumption",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62511,
+    "latitude": 39.339104,
+    "longitude": -89.735704,
+    "city": "Atwater",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62512,
+    "latitude": 40.150457,
+    "longitude": -89.228483,
+    "city": "Beason",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62513,
+    "latitude": 39.76891,
+    "longitude": -89.044099,
+    "city": "Blue Mound",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62514,
+    "latitude": 39.764726,
+    "longitude": -89.039766,
+    "city": "Boody",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62515,
+    "latitude": 39.849893,
+    "longitude": -89.387944,
+    "city": "Buffalo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62517,
+    "latitude": 39.588232,
+    "longitude": -89.417117,
+    "city": "Bulpitt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62518,
+    "latitude": 40.05335,
+    "longitude": -89.19891,
+    "city": "Chestnut",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62519,
+    "latitude": 39.937364,
+    "longitude": -89.40234,
+    "city": "Cornland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62520,
+    "latitude": 39.826185,
+    "longitude": -89.43989,
+    "city": "Dawson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62521,
+    "latitude": 39.839477,
+    "longitude": -88.946486,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62522,
+    "latitude": 39.865621,
+    "longitude": -89.018696,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62523,
+    "latitude": 39.911662,
+    "longitude": -88.890104,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62524,
+    "latitude": 39.853981,
+    "longitude": -88.981511,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62525,
+    "latitude": 39.853981,
+    "longitude": -88.981511,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62526,
+    "latitude": 39.858284,
+    "longitude": -88.938244,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62527,
+    "latitude": 39.853981,
+    "longitude": -88.981511,
+    "city": "Decatur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62530,
+    "latitude": 39.569165,
+    "longitude": -89.662571,
+    "city": "Divernon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62531,
+    "latitude": 39.612132,
+    "longitude": -89.311109,
+    "city": "Edinburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62532,
+    "latitude": 39.780021,
+    "longitude": -88.980838,
+    "city": "Elwin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62533,
+    "latitude": 39.440138,
+    "longitude": -89.617023,
+    "city": "Farmersville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62534,
+    "latitude": 39.519283,
+    "longitude": -88.746756,
+    "city": "Findlay",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62535,
+    "latitude": 39.884409,
+    "longitude": -89.001417,
+    "city": "Forsyth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62536,
+    "latitude": 39.641606,
+    "longitude": -89.650041,
+    "city": "Glenarm",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62537,
+    "latitude": 39.856678,
+    "longitude": -89.085041,
+    "city": "Harristown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62538,
+    "latitude": 39.367208,
+    "longitude": -89.522401,
+    "city": "Harvel",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62539,
+    "latitude": 39.860619,
+    "longitude": -89.378449,
+    "city": "Illiopolis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62540,
+    "latitude": 39.500009,
+    "longitude": -89.416708,
+    "city": "Kincaid",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62541,
+    "latitude": 39.970619,
+    "longitude": -89.350528,
+    "city": "Lake Fork",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62543,
+    "latitude": 40.075633,
+    "longitude": -89.315464,
+    "city": "Latham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62544,
+    "latitude": 39.700267,
+    "longitude": -89.022026,
+    "city": "Macon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62545,
+    "latitude": 39.777807,
+    "longitude": -89.406447,
+    "city": "Mechanicsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62546,
+    "latitude": 39.469098,
+    "longitude": -89.396732,
+    "city": "Morrisonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62547,
+    "latitude": 39.702903,
+    "longitude": -89.282367,
+    "city": "Mount Auburn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62548,
+    "latitude": 39.989734,
+    "longitude": -89.294027,
+    "city": "Mount Pulaski",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62549,
+    "latitude": 39.825599,
+    "longitude": -88.907654,
+    "city": "Mt Zion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62550,
+    "latitude": 39.575086,
+    "longitude": -88.889483,
+    "city": "Moweaqua",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62551,
+    "latitude": 39.91497,
+    "longitude": -88.997459,
+    "city": "Niantic",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62552,
+    "latitude": 39.883505,
+    "longitude": -88.8048,
+    "city": "Oakley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62553,
+    "latitude": 39.434607,
+    "longitude": -88.805278,
+    "city": "Oconee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62554,
+    "latitude": 39.927262,
+    "longitude": -88.850218,
+    "city": "Oreana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62555,
+    "latitude": 39.458365,
+    "longitude": -89.217453,
+    "city": "Owaneco",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62556,
+    "latitude": 39.429374,
+    "longitude": -89.30808,
+    "city": "Palmer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62557,
+    "latitude": 39.503638,
+    "longitude": -89.243695,
+    "city": "Pana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62558,
+    "latitude": 39.60855,
+    "longitude": -89.567791,
+    "city": "Pawnee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62560,
+    "latitude": 39.311814,
+    "longitude": -89.580236,
+    "city": "Raymond",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62561,
+    "latitude": 39.750415,
+    "longitude": -89.542678,
+    "city": "Riverton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62563,
+    "latitude": 39.718237,
+    "longitude": -89.564891,
+    "city": "Rochester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62565,
+    "latitude": 39.458013,
+    "longitude": -88.805788,
+    "city": "Shelbyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62567,
+    "latitude": 39.646379,
+    "longitude": -89.218939,
+    "city": "Stonington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62568,
+    "latitude": 39.559092,
+    "longitude": -89.34063,
+    "city": "Taylorville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62570,
+    "latitude": 39.588002,
+    "longitude": -89.449507,
+    "city": "Tovey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 62571,
+    "latitude": 39.38996,
+    "longitude": -88.959746,
+    "city": "Tower Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 62572,
+    "latitude": 39.368777,
+    "longitude": -89.654507,
+    "city": "Waggoner",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 62573,
+    "latitude": 39.917841,
+    "longitude": -89.017515,
+    "city": "Warrensburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 62601,
+    "latitude": 39.751657,
+    "longitude": -90.045839,
+    "city": "Alexander",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62610,
+    "latitude": 39.551987,
+    "longitude": -90.386156,
+    "city": "Alsey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 62611,
+    "latitude": 39.913938,
+    "longitude": -90.370736,
+    "city": "Arenzville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62612,
+    "latitude": 39.938647,
+    "longitude": -90.079241,
+    "city": "Ashland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62613,
+    "latitude": 39.950205,
+    "longitude": -89.683294,
+    "city": "Athens",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62615,
+    "latitude": 39.588654,
+    "longitude": -89.749692,
+    "city": "Auburn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62617,
+    "latitude": 40.153626,
+    "longitude": -90.166065,
+    "city": "Bath",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62618,
+    "latitude": 39.962623,
+    "longitude": -90.265277,
+    "city": "Beardstown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62621,
+    "latitude": 39.729634,
+    "longitude": -90.531307,
+    "city": "Bluffs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 62622,
+    "latitude": 39.979614,
+    "longitude": -90.352444,
+    "city": "Bluff Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62624,
+    "latitude": 40.131603,
+    "longitude": -90.556586,
+    "city": "Browning",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 62625,
+    "latitude": 39.916942,
+    "longitude": -89.689148,
+    "city": "Cantrall",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62626,
+    "latitude": 39.288546,
+    "longitude": -89.866054,
+    "city": "Carlinville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62627,
+    "latitude": 40.037402,
+    "longitude": -90.116282,
+    "city": "Chandlerville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62628,
+    "latitude": 39.80547,
+    "longitude": -90.375324,
+    "city": "Chapin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62629,
+    "latitude": 39.793982,
+    "longitude": -89.695888,
+    "city": "Chatham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62630,
+    "latitude": 39.337165,
+    "longitude": -90.070475,
+    "city": "Chesterfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62631,
+    "latitude": 39.825847,
+    "longitude": -90.37469,
+    "city": "Concord",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62633,
+    "latitude": 40.227887,
+    "longitude": -89.890271,
+    "city": "Easton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62634,
+    "latitude": 40.109099,
+    "longitude": -89.471352,
+    "city": "Elkhart",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62635,
+    "latitude": 40.195101,
+    "longitude": -89.483718,
+    "city": "Emden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62638,
+    "latitude": 39.622203,
+    "longitude": -90.088945,
+    "city": "Franklin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62639,
+    "latitude": 40.131603,
+    "longitude": -90.556586,
+    "city": "Frederick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 62640,
+    "latitude": 39.383843,
+    "longitude": -89.85006,
+    "city": "Girard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62642,
+    "latitude": 40.101722,
+    "longitude": -89.746851,
+    "city": "Greenview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62643,
+    "latitude": 40.251211,
+    "longitude": -89.47409,
+    "city": "Hartsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62644,
+    "latitude": 40.308441,
+    "longitude": -89.938334,
+    "city": "Havana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62649,
+    "latitude": 39.34792,
+    "longitude": -90.071437,
+    "city": "Hettick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62650,
+    "latitude": 39.737044,
+    "longitude": -90.301388,
+    "city": "Jacksonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62651,
+    "latitude": 39.698311,
+    "longitude": -90.26153,
+    "city": "Jacksonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62655,
+    "latitude": 40.214332,
+    "longitude": -89.855105,
+    "city": "Kilbourne",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62656,
+    "latitude": 40.162779,
+    "longitude": -89.398361,
+    "city": "Lincoln",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62659,
+    "latitude": 40.031115,
+    "longitude": -89.786723,
+    "city": "Lincoln's New Salem",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62660,
+    "latitude": 39.858933,
+    "longitude": -90.200747,
+    "city": "Literberry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62661,
+    "latitude": 39.671039,
+    "longitude": -89.845401,
+    "city": "Loami",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62662,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Lowder",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62663,
+    "latitude": 39.540479,
+    "longitude": -90.331705,
+    "city": "Manchester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 62664,
+    "latitude": 40.226923,
+    "longitude": -89.731758,
+    "city": "Mason City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62665,
+    "latitude": 39.724007,
+    "longitude": -90.426529,
+    "city": "Meredosia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62666,
+    "latitude": 40.085044,
+    "longitude": -89.522027,
+    "city": "Middletown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62667,
+    "latitude": 39.480647,
+    "longitude": -89.982149,
+    "city": "Modesto",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62668,
+    "latitude": 39.675739,
+    "longitude": -90.323925,
+    "city": "Murrayville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62670,
+    "latitude": 39.768067,
+    "longitude": -89.854952,
+    "city": "New Berlin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62671,
+    "latitude": 40.16912,
+    "longitude": -89.542183,
+    "city": "New Holland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 62672,
+    "latitude": 39.397082,
+    "longitude": -89.89125,
+    "city": "Nilwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62673,
+    "latitude": 40.100737,
+    "longitude": -89.966028,
+    "city": "Oakford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62674,
+    "latitude": 39.422719,
+    "longitude": -90.031093,
+    "city": "Palmyra",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62675,
+    "latitude": 39.972828,
+    "longitude": -89.807192,
+    "city": "Petersburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62677,
+    "latitude": 39.83314,
+    "longitude": -89.868578,
+    "city": "Pleasant Plains",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62681,
+    "latitude": 40.113259,
+    "longitude": -90.543205,
+    "city": "Rushville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 62682,
+    "latitude": 40.301103,
+    "longitude": -89.687211,
+    "city": "San Jose",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 62683,
+    "latitude": 39.260862,
+    "longitude": -89.926068,
+    "city": "Scottville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62684,
+    "latitude": 39.912115,
+    "longitude": -89.587697,
+    "city": "Sherman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62685,
+    "latitude": 39.195161,
+    "longitude": -89.960661,
+    "city": "Shipman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62686,
+    "latitude": 39.23868,
+    "longitude": -89.889363,
+    "city": "Standard City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62688,
+    "latitude": 39.938136,
+    "longitude": -89.943256,
+    "city": "Tallula",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Menard"
+  },
+  {
+    "zip_code": 62689,
+    "latitude": 39.539389,
+    "longitude": -89.762086,
+    "city": "Thayer",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62690,
+    "latitude": 39.480838,
+    "longitude": -89.903356,
+    "city": "Virden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Macoupin"
+  },
+  {
+    "zip_code": 62691,
+    "latitude": 39.958003,
+    "longitude": -90.176415,
+    "city": "Virginia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 62692,
+    "latitude": 39.622723,
+    "longitude": -90.003569,
+    "city": "Waverly",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62693,
+    "latitude": 39.920091,
+    "longitude": -89.570001,
+    "city": "Williamsville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62694,
+    "latitude": 39.62663,
+    "longitude": -90.466389,
+    "city": "Winchester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 62695,
+    "latitude": 39.618903,
+    "longitude": -90.225738,
+    "city": "Woodson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 62701,
+    "latitude": 39.820839,
+    "longitude": -89.598978,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62702,
+    "latitude": 39.831699,
+    "longitude": -89.646507,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62703,
+    "latitude": 39.762206,
+    "longitude": -89.627547,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62704,
+    "latitude": 39.772463,
+    "longitude": -89.688924,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62705,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62706,
+    "latitude": 39.79885,
+    "longitude": -89.653399,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62707,
+    "latitude": 39.785116,
+    "longitude": -89.632205,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62708,
+    "latitude": 39.806089,
+    "longitude": -89.586356,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62709,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62713,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62715,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62716,
+    "latitude": 39.848201,
+    "longitude": -89.536369,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62718,
+    "latitude": 39.778044,
+    "longitude": -89.646555,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62719,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62720,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62721,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62722,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62723,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62726,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62736,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62739,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62746,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62756,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62757,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62761,
+    "latitude": 39.852361,
+    "longitude": -89.541017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62762,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62763,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62764,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62765,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62766,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62767,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62769,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62776,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62777,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62781,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62786,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62791,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62794,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62796,
+    "latitude": 39.749457,
+    "longitude": -89.606017,
+    "city": "Springfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Sangamon"
+  },
+  {
+    "zip_code": 62801,
+    "latitude": 38.63831,
+    "longitude": -88.957758,
+    "city": "Centralia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62803,
+    "latitude": 38.371071,
+    "longitude": -89.300072,
+    "city": "Hoyleton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62805,
+    "latitude": 37.994296,
+    "longitude": -88.941665,
+    "city": "Akin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62806,
+    "latitude": 38.328816,
+    "longitude": -88.064182,
+    "city": "Albion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 62807,
+    "latitude": 38.758394,
+    "longitude": -88.929039,
+    "city": "Alma",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62808,
+    "latitude": 38.290049,
+    "longitude": -89.232163,
+    "city": "Ashley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62809,
+    "latitude": 38.431273,
+    "longitude": -88.424978,
+    "city": "Barnhill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62810,
+    "latitude": 38.202361,
+    "longitude": -88.774226,
+    "city": "Belle Rive",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62811,
+    "latitude": 38.384525,
+    "longitude": -87.908101,
+    "city": "Bellmont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 62812,
+    "latitude": 37.994423,
+    "longitude": -88.907464,
+    "city": "Benton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62814,
+    "latitude": 38.384549,
+    "longitude": -88.746322,
+    "city": "Bluford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62815,
+    "latitude": 38.413149,
+    "longitude": -88.043941,
+    "city": "Bone Gap",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 62816,
+    "latitude": 38.20359,
+    "longitude": -88.936697,
+    "city": "Bonnie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62817,
+    "latitude": 37.921925,
+    "longitude": -88.468436,
+    "city": "Broughton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 62818,
+    "latitude": 38.413149,
+    "longitude": -88.043941,
+    "city": "Browns",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 62819,
+    "latitude": 37.976448,
+    "longitude": -89.020912,
+    "city": "Buckner",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62820,
+    "latitude": 38.220716,
+    "longitude": -88.222704,
+    "city": "Burnt Prairie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62821,
+    "latitude": 38.089387,
+    "longitude": -88.175742,
+    "city": "Carmi",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62822,
+    "latitude": 38.028648,
+    "longitude": -89.07209,
+    "city": "Christopher",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62823,
+    "latitude": 38.431273,
+    "longitude": -88.424978,
+    "city": "Cisne",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62824,
+    "latitude": 38.725325,
+    "longitude": -88.417422,
+    "city": "Clay City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62825,
+    "latitude": 37.994633,
+    "longitude": -89.067228,
+    "city": "Coello",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62827,
+    "latitude": 38.163144,
+    "longitude": -88.03546,
+    "city": "Crossville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62828,
+    "latitude": 38.168641,
+    "longitude": -88.629728,
+    "city": "Dahlgren",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 62829,
+    "latitude": 38.081592,
+    "longitude": -88.538609,
+    "city": "Dale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 62830,
+    "latitude": 38.357503,
+    "longitude": -88.910561,
+    "city": "Dix",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62831,
+    "latitude": 38.249974,
+    "longitude": -89.230396,
+    "city": "Du Bois",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62832,
+    "latitude": 38.044645,
+    "longitude": -89.253006,
+    "city": "Du Quoin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 62833,
+    "latitude": 38.413149,
+    "longitude": -88.043941,
+    "city": "Ellery",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 62834,
+    "latitude": 37.97622,
+    "longitude": -88.120182,
+    "city": "Emma",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62835,
+    "latitude": 38.100523,
+    "longitude": -88.29927,
+    "city": "Enfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62836,
+    "latitude": 38.082002,
+    "longitude": -88.790486,
+    "city": "Ewing",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62837,
+    "latitude": 38.389091,
+    "longitude": -88.367146,
+    "city": "Fairfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62838,
+    "latitude": 38.832201,
+    "longitude": -88.776244,
+    "city": "Farina",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62839,
+    "latitude": 38.710797,
+    "longitude": -88.493686,
+    "city": "Flora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62840,
+    "latitude": 37.994296,
+    "longitude": -88.941665,
+    "city": "Frankfort Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62841,
+    "latitude": 37.80308,
+    "longitude": -89.009201,
+    "city": "Freeman Spur",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62842,
+    "latitude": 38.441055,
+    "longitude": -88.409905,
+    "city": "Geff",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62843,
+    "latitude": 38.357551,
+    "longitude": -88.206145,
+    "city": "Golden Gate",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62844,
+    "latitude": 38.147618,
+    "longitude": -88.122963,
+    "city": "Grayville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62845,
+    "latitude": 38.073931,
+    "longitude": -88.142657,
+    "city": "Herald",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62846,
+    "latitude": 38.155485,
+    "longitude": -88.819501,
+    "city": "Ina",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62847,
+    "latitude": 38.757302,
+    "longitude": -88.473594,
+    "city": "Iola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62848,
+    "latitude": 38.413658,
+    "longitude": -89.167834,
+    "city": "Irvington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62849,
+    "latitude": 38.595441,
+    "longitude": -88.809517,
+    "city": "Iuka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62850,
+    "latitude": 38.519401,
+    "longitude": -88.536564,
+    "city": "Johnsonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62851,
+    "latitude": 38.431273,
+    "longitude": -88.424978,
+    "city": "Keenes",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62852,
+    "latitude": 38.351408,
+    "longitude": -87.86607,
+    "city": "Keensburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 62853,
+    "latitude": 38.59718,
+    "longitude": -88.901043,
+    "city": "Kell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62854,
+    "latitude": 38.657892,
+    "longitude": -88.91335,
+    "city": "Kinmundy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62855,
+    "latitude": 38.403424,
+    "longitude": -87.818672,
+    "city": "Lancaster",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 62856,
+    "latitude": 37.994296,
+    "longitude": -88.941665,
+    "city": "Logan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62857,
+    "latitude": 38.977111,
+    "longitude": -88.975507,
+    "city": "Loogootee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62858,
+    "latitude": 38.771768,
+    "longitude": -88.506465,
+    "city": "Louisville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62859,
+    "latitude": 38.08963,
+    "longitude": -88.53653,
+    "city": "Mc Leansboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 62860,
+    "latitude": 38.081592,
+    "longitude": -88.538609,
+    "city": "Macedonia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 62861,
+    "latitude": 38.036393,
+    "longitude": -88.075864,
+    "city": "Maunie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62862,
+    "latitude": 38.164114,
+    "longitude": -88.258325,
+    "city": "Mill Shoals",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62863,
+    "latitude": 38.441814,
+    "longitude": -87.828423,
+    "city": "Mount Carmel",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 62864,
+    "latitude": 38.293269,
+    "longitude": -88.892273,
+    "city": "Mount Vernon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62865,
+    "latitude": 37.97746,
+    "longitude": -89.081507,
+    "city": "Mulkeytown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62866,
+    "latitude": 38.16542,
+    "longitude": -88.967551,
+    "city": "Nason",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62867,
+    "latitude": 37.887676,
+    "longitude": -88.146409,
+    "city": "New Haven",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62868,
+    "latitude": 38.715532,
+    "longitude": -88.225831,
+    "city": "Noble",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 62869,
+    "latitude": 38.076688,
+    "longitude": -88.211579,
+    "city": "Norris City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62870,
+    "latitude": 38.636324,
+    "longitude": -88.946253,
+    "city": "Odin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62871,
+    "latitude": 37.845963,
+    "longitude": -88.240226,
+    "city": "Omaha",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62872,
+    "latitude": 38.273854,
+    "longitude": -88.805414,
+    "city": "Opdyke",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62874,
+    "latitude": 37.91819,
+    "longitude": -88.976706,
+    "city": "Orient",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62875,
+    "latitude": 38.701337,
+    "longitude": -88.962515,
+    "city": "Patoka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62876,
+    "latitude": 38.260696,
+    "longitude": -89.198858,
+    "city": "Radom",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62877,
+    "latitude": 38.394883,
+    "longitude": -89.224511,
+    "city": "Richview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 62878,
+    "latitude": 38.431273,
+    "longitude": -88.424978,
+    "city": "Rinard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62879,
+    "latitude": 38.757302,
+    "longitude": -88.473594,
+    "city": "Sailor Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62880,
+    "latitude": 38.867965,
+    "longitude": -88.852749,
+    "city": "Saint Peter",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62881,
+    "latitude": 38.643793,
+    "longitude": -88.974839,
+    "city": "Salem",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62882,
+    "latitude": 38.597,
+    "longitude": -88.968203,
+    "city": "Sandoval",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62883,
+    "latitude": 38.176165,
+    "longitude": -89.094644,
+    "city": "Scheller",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62884,
+    "latitude": 38.053351,
+    "longitude": -89.056638,
+    "city": "Sesser",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62885,
+    "latitude": 38.977111,
+    "longitude": -88.975507,
+    "city": "Shobonier",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 62886,
+    "latitude": 38.362874,
+    "longitude": -88.533608,
+    "city": "Sims",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62887,
+    "latitude": 38.15015,
+    "longitude": -88.216053,
+    "city": "Springerton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "White"
+  },
+  {
+    "zip_code": 62888,
+    "latitude": 38.133323,
+    "longitude": -89.217309,
+    "city": "Tamaroa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 62889,
+    "latitude": 38.44683,
+    "longitude": -88.826247,
+    "city": "Texico",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62890,
+    "latitude": 37.936421,
+    "longitude": -88.770913,
+    "city": "Thompsonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62891,
+    "latitude": 38.022241,
+    "longitude": -89.035053,
+    "city": "Valier",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62892,
+    "latitude": 38.787524,
+    "longitude": -89.040989,
+    "city": "Vernon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62893,
+    "latitude": 38.547927,
+    "longitude": -88.929247,
+    "city": "Walnut Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 62894,
+    "latitude": 38.212153,
+    "longitude": -89.043552,
+    "city": "Waltonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62895,
+    "latitude": 38.350936,
+    "longitude": -88.566951,
+    "city": "Wayne City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 62896,
+    "latitude": 37.976856,
+    "longitude": -88.910164,
+    "city": "West Frankfort",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62897,
+    "latitude": 38.087223,
+    "longitude": -88.901443,
+    "city": "Whittington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62898,
+    "latitude": 38.314373,
+    "longitude": -89.050259,
+    "city": "Woodlawn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 62899,
+    "latitude": 38.710776,
+    "longitude": -88.664186,
+    "city": "Xenia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 62901,
+    "latitude": 37.77452,
+    "longitude": -89.387286,
+    "city": "Carbondale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62902,
+    "latitude": 37.758646,
+    "longitude": -89.415831,
+    "city": "Carbondale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62903,
+    "latitude": 37.758646,
+    "longitude": -89.415831,
+    "city": "Carbondale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62905,
+    "latitude": 37.546479,
+    "longitude": -89.357896,
+    "city": "Alto Pass",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62906,
+    "latitude": 37.474268,
+    "longitude": -89.163042,
+    "city": "Anna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62907,
+    "latitude": 37.832038,
+    "longitude": -89.43068,
+    "city": "Ava",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62908,
+    "latitude": 37.335571,
+    "longitude": -88.909205,
+    "city": "Belknap",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62909,
+    "latitude": 37.44725,
+    "longitude": -88.876792,
+    "city": "Boles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62910,
+    "latitude": 37.212897,
+    "longitude": -88.605104,
+    "city": "Brookport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Massac"
+  },
+  {
+    "zip_code": 62912,
+    "latitude": 37.467463,
+    "longitude": -89.000586,
+    "city": "Buncombe",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62913,
+    "latitude": 37.152775,
+    "longitude": -89.325581,
+    "city": "Cache",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62914,
+    "latitude": 37.028797,
+    "longitude": -89.192754,
+    "city": "Cairo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62915,
+    "latitude": 37.784657,
+    "longitude": -89.118111,
+    "city": "Cambria",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62916,
+    "latitude": 37.883589,
+    "longitude": -89.557933,
+    "city": "Campbell Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62917,
+    "latitude": 37.680285,
+    "longitude": -88.619902,
+    "city": "Carrier Mills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62918,
+    "latitude": 37.730777,
+    "longitude": -88.931157,
+    "city": "Carterville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62919,
+    "latitude": 37.500757,
+    "longitude": -88.238292,
+    "city": "Cave In Rock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 62920,
+    "latitude": 37.526817,
+    "longitude": -89.219012,
+    "city": "Cobden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62921,
+    "latitude": 37.805677,
+    "longitude": -89.075999,
+    "city": "Colp",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62922,
+    "latitude": 37.682,
+    "longitude": -88.817787,
+    "city": "Creal Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62923,
+    "latitude": 37.365007,
+    "longitude": -88.974743,
+    "city": "Cypress",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62924,
+    "latitude": 37.837009,
+    "longitude": -89.350508,
+    "city": "De Soto",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62926,
+    "latitude": 37.42204,
+    "longitude": -89.225572,
+    "city": "Dongola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62927,
+    "latitude": 37.939205,
+    "longitude": -89.231786,
+    "city": "Dowell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62928,
+    "latitude": 37.333591,
+    "longitude": -88.561428,
+    "city": "Eddyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 62930,
+    "latitude": 37.810121,
+    "longitude": -88.452662,
+    "city": "Eldorado",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62931,
+    "latitude": 37.500757,
+    "longitude": -88.238292,
+    "city": "Elizabethtown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 62932,
+    "latitude": 37.894281,
+    "longitude": -89.217138,
+    "city": "Elkville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62933,
+    "latitude": 37.77783,
+    "longitude": -89.063381,
+    "city": "Energy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62934,
+    "latitude": 37.706289,
+    "longitude": -88.330839,
+    "city": "Equality",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62935,
+    "latitude": 37.823001,
+    "longitude": -88.596123,
+    "city": "Galatia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62938,
+    "latitude": 37.360193,
+    "longitude": -88.488571,
+    "city": "Golconda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 62939,
+    "latitude": 37.534099,
+    "longitude": -88.971292,
+    "city": "Goreville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62940,
+    "latitude": 37.736732,
+    "longitude": -89.469534,
+    "city": "Gorham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62941,
+    "latitude": 37.240291,
+    "longitude": -88.995404,
+    "city": "Grand Chain",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62942,
+    "latitude": 37.634633,
+    "longitude": -89.479836,
+    "city": "Grand Tower",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62943,
+    "latitude": 37.379384,
+    "longitude": -88.758329,
+    "city": "Grantsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62944,
+    "latitude": 37.333591,
+    "longitude": -88.561428,
+    "city": "Hamletsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 62946,
+    "latitude": 37.720129,
+    "longitude": -88.536736,
+    "city": "Harrisburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62947,
+    "latitude": 37.333591,
+    "longitude": -88.561428,
+    "city": "Herod",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 62948,
+    "latitude": 37.740444,
+    "longitude": -88.992312,
+    "city": "Herrin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62949,
+    "latitude": 37.836584,
+    "longitude": -89.142415,
+    "city": "Hurst",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62950,
+    "latitude": 37.764248,
+    "longitude": -89.584575,
+    "city": "Jacob",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62951,
+    "latitude": 37.802518,
+    "longitude": -88.961656,
+    "city": "Johnston City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62952,
+    "latitude": 37.422793,
+    "longitude": -89.266574,
+    "city": "Jonesboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62953,
+    "latitude": 37.209231,
+    "longitude": -88.844181,
+    "city": "Joppa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Massac"
+  },
+  {
+    "zip_code": 62954,
+    "latitude": 37.695153,
+    "longitude": -88.260046,
+    "city": "Junction",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62955,
+    "latitude": 37.500757,
+    "longitude": -88.238292,
+    "city": "Karbers Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 62956,
+    "latitude": 37.262019,
+    "longitude": -89.005155,
+    "city": "Karnak",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62957,
+    "latitude": 37.295842,
+    "longitude": -89.46653,
+    "city": "Mc Clure",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62958,
+    "latitude": 37.687072,
+    "longitude": -89.250933,
+    "city": "Makanda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62959,
+    "latitude": 37.729571,
+    "longitude": -88.912852,
+    "city": "Marion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62960,
+    "latitude": 37.228995,
+    "longitude": -88.714524,
+    "city": "Metropolis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Massac"
+  },
+  {
+    "zip_code": 62961,
+    "latitude": 37.340918,
+    "longitude": -89.254203,
+    "city": "Millcreek",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62962,
+    "latitude": 37.152775,
+    "longitude": -89.325581,
+    "city": "Miller City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62963,
+    "latitude": 37.178242,
+    "longitude": -89.179333,
+    "city": "Mound City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62964,
+    "latitude": 37.198411,
+    "longitude": -89.124001,
+    "city": "Mounds",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62965,
+    "latitude": 37.801972,
+    "longitude": -88.548695,
+    "city": "Muddy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62966,
+    "latitude": 37.782223,
+    "longitude": -89.396839,
+    "city": "Murphysboro",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62967,
+    "latitude": 37.577998,
+    "longitude": -88.745405,
+    "city": "New Burnside",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62969,
+    "latitude": 37.167445,
+    "longitude": -89.353662,
+    "city": "Olive Branch",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62970,
+    "latitude": 37.210643,
+    "longitude": -89.104341,
+    "city": "Olmsted",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62971,
+    "latitude": 37.758646,
+    "longitude": -89.415831,
+    "city": "Oraville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62972,
+    "latitude": 37.54725,
+    "longitude": -88.770166,
+    "city": "Ozark",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  }
+]

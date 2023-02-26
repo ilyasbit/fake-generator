@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 68019,
+    "latitude": 41.792415,
+    "longitude": -96.376462,
+    "city": "Craig",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Burt"
+  },
+  {
+    "zip_code": 68020,
+    "latitude": 41.974318,
+    "longitude": -96.250681,
+    "city": "Decatur",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Burt"
+  },
+  {
+    "zip_code": 68022,
+    "latitude": 41.288631,
+    "longitude": -96.238818,
+    "city": "Elkhorn",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68023,
+    "latitude": 41.447307,
+    "longitude": -96.023829,
+    "city": "Fort Calhoun",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68025,
+    "latitude": 41.487786,
+    "longitude": -96.501672,
+    "city": "Fremont",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68026,
+    "latitude": 41.567907,
+    "longitude": -96.617443,
+    "city": "Fremont",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68028,
+    "latitude": 41.098888,
+    "longitude": -96.239744,
+    "city": "Gretna",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68029,
+    "latitude": 41.63256,
+    "longitude": -96.273735,
+    "city": "Herman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68030,
+    "latitude": 42.332188,
+    "longitude": -96.465599,
+    "city": "Homer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68031,
+    "latitude": 41.621961,
+    "longitude": -96.549316,
+    "city": "Hooper",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68033,
+    "latitude": 41.147084,
+    "longitude": -96.523011,
+    "city": "Ithaca",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68034,
+    "latitude": 41.45256,
+    "longitude": -96.190348,
+    "city": "Kennard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68035,
+    "latitude": 41.339383,
+    "longitude": -96.444769,
+    "city": "Leshara",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68036,
+    "latitude": 41.375639,
+    "longitude": -96.983695,
+    "city": "Linwood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68037,
+    "latitude": 40.979898,
+    "longitude": -96.084122,
+    "city": "Louisville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68038,
+    "latitude": 41.951479,
+    "longitude": -96.450944,
+    "city": "Lyons",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Burt"
+  },
+  {
+    "zip_code": 68039,
+    "latitude": 42.146597,
+    "longitude": -96.545297,
+    "city": "Macy",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68040,
+    "latitude": 41.270638,
+    "longitude": -96.647937,
+    "city": "Malmo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68041,
+    "latitude": 41.19999,
+    "longitude": -96.640076,
+    "city": "Mead",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68042,
+    "latitude": 41.094587,
+    "longitude": -96.430553,
+    "city": "Memphis",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68044,
+    "latitude": 41.536902,
+    "longitude": -96.520741,
+    "city": "Nickerson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68045,
+    "latitude": 41.845492,
+    "longitude": -96.401432,
+    "city": "Oakland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Burt"
+  },
+  {
+    "zip_code": 68046,
+    "latitude": 41.118594,
+    "longitude": -96.060367,
+    "city": "Papillion",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68047,
+    "latitude": 42.110449,
+    "longitude": -96.723917,
+    "city": "Pender",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68048,
+    "latitude": 40.971961,
+    "longitude": -96.001244,
+    "city": "Plattsmouth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68050,
+    "latitude": 41.314461,
+    "longitude": -96.823281,
+    "city": "Prague",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68054,
+    "latitude": 41.089048,
+    "longitude": -96.070433,
+    "city": "Richfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68055,
+    "latitude": 42.056416,
+    "longitude": -96.513859,
+    "city": "Rosalie",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68056,
+    "latitude": 41.092703,
+    "longitude": -96.090546,
+    "city": "St Columbans",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68057,
+    "latitude": 41.567768,
+    "longitude": -96.588672,
+    "city": "Scribner",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68058,
+    "latitude": 41.006712,
+    "longitude": -96.246207,
+    "city": "South Bend",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68059,
+    "latitude": 41.066988,
+    "longitude": -96.184792,
+    "city": "Springfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68061,
+    "latitude": 41.808435,
+    "longitude": -96.25543,
+    "city": "Tekamah",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Burt"
+  },
+  {
+    "zip_code": 68062,
+    "latitude": 42.146597,
+    "longitude": -96.545297,
+    "city": "Thurston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68063,
+    "latitude": 41.736896,
+    "longitude": -96.503746,
+    "city": "Uehling",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68064,
+    "latitude": 41.342714,
+    "longitude": -96.344273,
+    "city": "Valley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68065,
+    "latitude": 41.108919,
+    "longitude": -96.831839,
+    "city": "Valparaiso",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68066,
+    "latitude": 41.197043,
+    "longitude": -96.669114,
+    "city": "Wahoo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68067,
+    "latitude": 42.14967,
+    "longitude": -96.493734,
+    "city": "Walthill",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68068,
+    "latitude": 41.395315,
+    "longitude": -96.209006,
+    "city": "Washington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68069,
+    "latitude": 41.248299,
+    "longitude": -96.305914,
+    "city": "Waterloo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68070,
+    "latitude": 41.20724,
+    "longitude": -96.758162,
+    "city": "Weston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68071,
+    "latitude": 42.238161,
+    "longitude": -96.472847,
+    "city": "Winnebago",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 68072,
+    "latitude": 41.61023,
+    "longitude": -96.503281,
+    "city": "Winslow",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68073,
+    "latitude": 41.211111,
+    "longitude": -96.453285,
+    "city": "Yutan",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68101,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68102,
+    "latitude": 41.262003,
+    "longitude": -95.933564,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68103,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68104,
+    "latitude": 41.295396,
+    "longitude": -95.99895,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68105,
+    "latitude": 41.240468,
+    "longitude": -95.964396,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68106,
+    "latitude": 41.239005,
+    "longitude": -95.999367,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68107,
+    "latitude": 41.211348,
+    "longitude": -95.950312,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68108,
+    "latitude": 41.23814,
+    "longitude": -95.964985,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68109,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68110,
+    "latitude": 41.295598,
+    "longitude": -95.914481,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68111,
+    "latitude": 41.295395,
+    "longitude": -95.964477,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68112,
+    "latitude": 41.353658,
+    "longitude": -95.95064,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68113,
+    "latitude": 41.128191,
+    "longitude": -95.917392,
+    "city": "Offutt A F B",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68114,
+    "latitude": 41.263262,
+    "longitude": -96.053634,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68116,
+    "latitude": 41.293997,
+    "longitude": -96.167398,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68117,
+    "latitude": 41.207194,
+    "longitude": -96.001636,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68118,
+    "latitude": 41.264155,
+    "longitude": -96.176419,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68119,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68120,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68122,
+    "latitude": 41.353003,
+    "longitude": -96.07026,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68123,
+    "latitude": 41.115628,
+    "longitude": -95.939269,
+    "city": "Bellevue",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68124,
+    "latitude": 41.23467,
+    "longitude": -96.052206,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68127,
+    "latitude": 41.207414,
+    "longitude": -96.061154,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68128,
+    "latitude": 41.164994,
+    "longitude": -96.061055,
+    "city": "La Vista",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68130,
+    "latitude": 41.234004,
+    "longitude": -96.19506,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68131,
+    "latitude": 41.265611,
+    "longitude": -95.963832,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68132,
+    "latitude": 41.264309,
+    "longitude": -96.000888,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68133,
+    "latitude": 41.129114,
+    "longitude": -96.100064,
+    "city": "Papillion",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68134,
+    "latitude": 41.302434,
+    "longitude": -96.055426,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68135,
+    "latitude": 41.205998,
+    "longitude": -96.193498,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68136,
+    "latitude": 41.169034,
+    "longitude": -96.172007,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68137,
+    "latitude": 41.207498,
+    "longitude": -96.114696,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68138,
+    "latitude": 41.154898,
+    "longitude": -96.137617,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68139,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68142,
+    "latitude": 41.35585,
+    "longitude": -96.101846,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68144,
+    "latitude": 41.233498,
+    "longitude": -96.118847,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68145,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68147,
+    "latitude": 41.175798,
+    "longitude": -95.95529,
+    "city": "Bellevue",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68152,
+    "latitude": 41.354544,
+    "longitude": -95.988532,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68154,
+    "latitude": 41.286298,
+    "longitude": -96.117202,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68155,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68157,
+    "latitude": 41.180985,
+    "longitude": -95.990942,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68164,
+    "latitude": 41.306689,
+    "longitude": -96.104795,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68172,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68175,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68176,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68178,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68179,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68180,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68181,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68182,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68183,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68197,
+    "latitude": 41.259697,
+    "longitude": -95.937836,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68198,
+    "latitude": 41.291736,
+    "longitude": -96.171104,
+    "city": "Omaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68301,
+    "latitude": 40.45603,
+    "longitude": -96.513526,
+    "city": "Adams",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68303,
+    "latitude": 40.244068,
+    "longitude": -97.386612,
+    "city": "Alexandria",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68304,
+    "latitude": 40.885316,
+    "longitude": -96.37898,
+    "city": "Alvo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68305,
+    "latitude": 40.428801,
+    "longitude": -95.843077,
+    "city": "Auburn",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68307,
+    "latitude": 40.881809,
+    "longitude": -96.239403,
+    "city": "Avoca",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68309,
+    "latitude": 40.041196,
+    "longitude": -96.5963,
+    "city": "Barneston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68310,
+    "latitude": 40.313364,
+    "longitude": -96.693082,
+    "city": "Beatrice",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68313,
+    "latitude": 40.785436,
+    "longitude": -97.23499,
+    "city": "Beaver Crossing",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68314,
+    "latitude": 41.002864,
+    "longitude": -97.034527,
+    "city": "Bee",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68315,
+    "latitude": 40.176221,
+    "longitude": -97.594987,
+    "city": "Belvidere",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68316,
+    "latitude": 41.003042,
+    "longitude": -97.610404,
+    "city": "Benedict",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68317,
+    "latitude": 40.664491,
+    "longitude": -96.518083,
+    "city": "Bennet",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68318,
+    "latitude": 40.299157,
+    "longitude": -96.753208,
+    "city": "Blue Springs",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68319,
+    "latitude": 40.930567,
+    "longitude": -97.750193,
+    "city": "Bradshaw",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68320,
+    "latitude": 40.479009,
+    "longitude": -95.960638,
+    "city": "Brock",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68321,
+    "latitude": 40.397541,
+    "longitude": -95.663987,
+    "city": "Brownville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68322,
+    "latitude": 40.335959,
+    "longitude": -97.56495,
+    "city": "Bruning",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68323,
+    "latitude": 40.146335,
+    "longitude": -96.348151,
+    "city": "Burchard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68324,
+    "latitude": 40.536353,
+    "longitude": -96.299662,
+    "city": "Burr",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68325,
+    "latitude": 40.005757,
+    "longitude": -97.76566,
+    "city": "Byron",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68326,
+    "latitude": 40.303471,
+    "longitude": -97.67615,
+    "city": "Carleton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68327,
+    "latitude": 40.00937,
+    "longitude": -97.617985,
+    "city": "Chester",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68328,
+    "latitude": 40.466038,
+    "longitude": -96.850863,
+    "city": "Clatonia",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68329,
+    "latitude": 40.510888,
+    "longitude": -96.161196,
+    "city": "Cook",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 68330,
+    "latitude": 40.720174,
+    "longitude": -97.311257,
+    "city": "Cordova",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68331,
+    "latitude": 40.50528,
+    "longitude": -96.752373,
+    "city": "Cortland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68332,
+    "latitude": 40.392595,
+    "longitude": -96.26478,
+    "city": "Crab Orchard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 68333,
+    "latitude": 40.628937,
+    "longitude": -97.016925,
+    "city": "Crete",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68335,
+    "latitude": 40.312473,
+    "longitude": -97.811467,
+    "city": "Davenport",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68336,
+    "latitude": 40.955071,
+    "longitude": -96.699697,
+    "city": "Davey",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68337,
+    "latitude": 40.132685,
+    "longitude": -95.830408,
+    "city": "Dawson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68338,
+    "latitude": 40.306449,
+    "longitude": -97.14239,
+    "city": "Daykin",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68339,
+    "latitude": 40.719464,
+    "longitude": -96.850518,
+    "city": "Denton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68340,
+    "latitude": 40.139448,
+    "longitude": -97.723461,
+    "city": "Deshler",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68341,
+    "latitude": 40.374875,
+    "longitude": -96.960827,
+    "city": "De Witt",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68342,
+    "latitude": 40.109484,
+    "longitude": -97.125705,
+    "city": "Diller",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68343,
+    "latitude": 40.646087,
+    "longitude": -97.114965,
+    "city": "Dorchester",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68344,
+    "latitude": 40.569758,
+    "longitude": -96.42238,
+    "city": "Douglas",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68345,
+    "latitude": 40.037725,
+    "longitude": -96.069797,
+    "city": "Du Bois",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68346,
+    "latitude": 40.634055,
+    "longitude": -96.030125,
+    "city": "Dunbar",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68347,
+    "latitude": 40.899936,
+    "longitude": -96.378887,
+    "city": "Eagle",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68348,
+    "latitude": 40.287778,
+    "longitude": -96.12748,
+    "city": "Elk Creek",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 68349,
+    "latitude": 40.834419,
+    "longitude": -96.323714,
+    "city": "Elmwood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68350,
+    "latitude": 40.049596,
+    "longitude": -97.081254,
+    "city": "Endicott",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68351,
+    "latitude": 40.653635,
+    "longitude": -97.430884,
+    "city": "Exeter",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68352,
+    "latitude": 40.175641,
+    "longitude": -97.171023,
+    "city": "Fairbury",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68354,
+    "latitude": 40.641428,
+    "longitude": -97.559927,
+    "city": "Fairmont",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68355,
+    "latitude": 40.073908,
+    "longitude": -95.602053,
+    "city": "Falls City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68357,
+    "latitude": 40.284748,
+    "longitude": -96.535195,
+    "city": "Filley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68358,
+    "latitude": 40.560657,
+    "longitude": -96.58393,
+    "city": "Firth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68359,
+    "latitude": 40.526915,
+    "longitude": -97.111028,
+    "city": "Friend",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68360,
+    "latitude": 40.966358,
+    "longitude": -96.96783,
+    "city": "Garland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68361,
+    "latitude": 40.52749,
+    "longitude": -97.600691,
+    "city": "Geneva",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68362,
+    "latitude": 40.176221,
+    "longitude": -97.594987,
+    "city": "Gilead",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68364,
+    "latitude": 40.829068,
+    "longitude": -97.196716,
+    "city": "Goehner",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68365,
+    "latitude": 40.629407,
+    "longitude": -97.714675,
+    "city": "Grafton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68366,
+    "latitude": 40.905385,
+    "longitude": -96.290223,
+    "city": "Greenwood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68367,
+    "latitude": 41.010433,
+    "longitude": -97.425506,
+    "city": "Gresham",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68368,
+    "latitude": 40.573856,
+    "longitude": -96.79982,
+    "city": "Hallam",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68370,
+    "latitude": 40.240562,
+    "longitude": -97.64485,
+    "city": "Hebron",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68371,
+    "latitude": 40.796446,
+    "longitude": -97.773811,
+    "city": "Henderson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68372,
+    "latitude": 40.61189,
+    "longitude": -96.62468,
+    "city": "Hickman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68375,
+    "latitude": 40.008563,
+    "longitude": -97.497878,
+    "city": "Hubbell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68376,
+    "latitude": 40.167245,
+    "longitude": -95.945731,
+    "city": "Humboldt",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68377,
+    "latitude": 40.232006,
+    "longitude": -97.028942,
+    "city": "Jansen",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68378,
+    "latitude": 40.345196,
+    "longitude": -96.000386,
+    "city": "Johnson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68380,
+    "latitude": 40.195573,
+    "longitude": -96.379188,
+    "city": "Lewiston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68381,
+    "latitude": 40.262266,
+    "longitude": -96.689998,
+    "city": "Liberty",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68382,
+    "latitude": 40.653589,
+    "longitude": -96.086904,
+    "city": "Lorton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68401,
+    "latitude": 40.734852,
+    "longitude": -97.568381,
+    "city": "Mc Cool Junction",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68402,
+    "latitude": 40.908246,
+    "longitude": -96.813503,
+    "city": "Malcolm",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68403,
+    "latitude": 40.923199,
+    "longitude": -96.171189,
+    "city": "Manley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68404,
+    "latitude": 40.617579,
+    "longitude": -96.669936,
+    "city": "Martell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68405,
+    "latitude": 40.77786,
+    "longitude": -97.082489,
+    "city": "Milford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68406,
+    "latitude": 40.501806,
+    "longitude": -97.385947,
+    "city": "Milligan",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68407,
+    "latitude": 40.907906,
+    "longitude": -96.268221,
+    "city": "Murdock",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68409,
+    "latitude": 40.90767,
+    "longitude": -95.949383,
+    "city": "Murray",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68410,
+    "latitude": 40.707742,
+    "longitude": -95.907718,
+    "city": "Nebraska City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68413,
+    "latitude": 40.856763,
+    "longitude": -96.015428,
+    "city": "Nehawka",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68414,
+    "latitude": 40.339435,
+    "longitude": -95.676576,
+    "city": "Nemaha",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68415,
+    "latitude": 40.050592,
+    "longitude": -96.801542,
+    "city": "Odell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68416,
+    "latitude": 40.454112,
+    "longitude": -97.421084,
+    "city": "Ohiowa",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68417,
+    "latitude": 40.750553,
+    "longitude": -96.080921,
+    "city": "Otoe",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68418,
+    "latitude": 40.705559,
+    "longitude": -96.397545,
+    "city": "Palmyra",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68419,
+    "latitude": 40.599807,
+    "longitude": -96.512915,
+    "city": "Panama",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68420,
+    "latitude": 40.111565,
+    "longitude": -96.151758,
+    "city": "Pawnee City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68421,
+    "latitude": 40.477743,
+    "longitude": -95.729589,
+    "city": "Peru",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 68422,
+    "latitude": 40.378063,
+    "longitude": -96.728578,
+    "city": "Pickrell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68423,
+    "latitude": 40.813869,
+    "longitude": -96.968018,
+    "city": "Pleasant Dale",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68424,
+    "latitude": 40.291721,
+    "longitude": -97.029005,
+    "city": "Plymouth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68428,
+    "latitude": 40.934176,
+    "longitude": -96.786573,
+    "city": "Raymond",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68429,
+    "latitude": 40.059775,
+    "longitude": -97.380646,
+    "city": "Reynolds",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thayer"
+  },
+  {
+    "zip_code": 68430,
+    "latitude": 40.661609,
+    "longitude": -96.664859,
+    "city": "Roca",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68431,
+    "latitude": 40.046277,
+    "longitude": -95.428531,
+    "city": "Rulo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68433,
+    "latitude": 40.131136,
+    "longitude": -95.659484,
+    "city": "Salem",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68434,
+    "latitude": 40.91582,
+    "longitude": -97.101341,
+    "city": "Seward",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68436,
+    "latitude": 40.416166,
+    "longitude": -97.722218,
+    "city": "Shickley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68437,
+    "latitude": 40.236756,
+    "longitude": -95.684024,
+    "city": "Shubert",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68438,
+    "latitude": 40.626661,
+    "longitude": -96.745622,
+    "city": "Sprague",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68439,
+    "latitude": 40.95971,
+    "longitude": -97.251684,
+    "city": "Staplehurst",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68440,
+    "latitude": 40.152861,
+    "longitude": -97.126435,
+    "city": "Steele City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 68441,
+    "latitude": 40.207313,
+    "longitude": -96.231879,
+    "city": "Steinauer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68442,
+    "latitude": 40.23102,
+    "longitude": -95.77285,
+    "city": "Stella",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68443,
+    "latitude": 40.463451,
+    "longitude": -96.378249,
+    "city": "Sterling",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 68444,
+    "latitude": 40.418921,
+    "longitude": -97.578418,
+    "city": "Strang",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 68445,
+    "latitude": 40.379788,
+    "longitude": -97.080431,
+    "city": "Swanton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68446,
+    "latitude": 40.645896,
+    "longitude": -96.169603,
+    "city": "Syracuse",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68447,
+    "latitude": 40.179541,
+    "longitude": -96.097374,
+    "city": "Table Rock",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 68448,
+    "latitude": 40.55711,
+    "longitude": -95.998514,
+    "city": "Talmage",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68450,
+    "latitude": 40.410949,
+    "longitude": -96.280341,
+    "city": "Tecumseh",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 68452,
+    "latitude": 40.524526,
+    "longitude": -98.051184,
+    "city": "Ong",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68453,
+    "latitude": 40.418436,
+    "longitude": -97.336671,
+    "city": "Tobias",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68454,
+    "latitude": 40.684941,
+    "longitude": -96.270409,
+    "city": "Unadilla",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Otoe"
+  },
+  {
+    "zip_code": 68455,
+    "latitude": 40.831238,
+    "longitude": -95.903802,
+    "city": "Union",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68456,
+    "latitude": 40.938023,
+    "longitude": -97.292178,
+    "city": "Utica",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 68457,
+    "latitude": 40.149228,
+    "longitude": -95.710477,
+    "city": "Verdon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Richardson"
+  },
+  {
+    "zip_code": 68458,
+    "latitude": 40.262266,
+    "longitude": -96.689998,
+    "city": "Virginia",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68460,
+    "latitude": 40.886702,
+    "longitude": -97.437812,
+    "city": "Waco",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68461,
+    "latitude": 40.762763,
+    "longitude": -96.515859,
+    "city": "Walton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68462,
+    "latitude": 40.935601,
+    "longitude": -96.543431,
+    "city": "Waverly",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68463,
+    "latitude": 40.884503,
+    "longitude": -96.146512,
+    "city": "Weeping Water",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68464,
+    "latitude": 40.403717,
+    "longitude": -97.265045,
+    "city": "Western",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68465,
+    "latitude": 40.484136,
+    "longitude": -96.96829,
+    "city": "Wilber",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 68466,
+    "latitude": 40.122407,
+    "longitude": -96.666863,
+    "city": "Wymore",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gage"
+  },
+  {
+    "zip_code": 68467,
+    "latitude": 40.890132,
+    "longitude": -97.597278,
+    "city": "York",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "York"
+  },
+  {
+    "zip_code": 68501,
+    "latitude": 40.865142,
+    "longitude": -96.823133,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68502,
+    "latitude": 40.813101,
+    "longitude": -96.683702,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68503,
+    "latitude": 40.84505,
+    "longitude": -96.698646,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68504,
+    "latitude": 40.8532,
+    "longitude": -96.662454,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68505,
+    "latitude": 40.900275,
+    "longitude": -96.618058,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68506,
+    "latitude": 40.804064,
+    "longitude": -96.687195,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68507,
+    "latitude": 40.889449,
+    "longitude": -96.652274,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68508,
+    "latitude": 40.7981,
+    "longitude": -96.624692,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68509,
+    "latitude": 40.784451,
+    "longitude": -96.688799,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68510,
+    "latitude": 40.83545,
+    "longitude": -96.630741,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68512,
+    "latitude": 40.785689,
+    "longitude": -96.686643,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68514,
+    "latitude": 40.940125,
+    "longitude": -96.662138,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68516,
+    "latitude": 40.777556,
+    "longitude": -96.661769,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68517,
+    "latitude": 40.939903,
+    "longitude": -96.609721,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68520,
+    "latitude": 40.7842,
+    "longitude": -96.534981,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68521,
+    "latitude": 40.863301,
+    "longitude": -96.718994,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68522,
+    "latitude": 40.78456,
+    "longitude": -96.750075,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68523,
+    "latitude": 40.735793,
+    "longitude": -96.763247,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68524,
+    "latitude": 40.879252,
+    "longitude": -96.815309,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68526,
+    "latitude": 40.743346,
+    "longitude": -96.582442,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68527,
+    "latitude": 40.855121,
+    "longitude": -96.525245,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68528,
+    "latitude": 40.855107,
+    "longitude": -96.813579,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68529,
+    "latitude": 40.879752,
+    "longitude": -96.779796,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68531,
+    "latitude": 40.900801,
+    "longitude": -96.720143,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68532,
+    "latitude": 40.777663,
+    "longitude": -96.853616,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68542,
+    "latitude": 40.784451,
+    "longitude": -96.688799,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68583,
+    "latitude": 40.784451,
+    "longitude": -96.688799,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68588,
+    "latitude": 40.820645,
+    "longitude": -96.692843,
+    "city": "Lincoln",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 68601,
+    "latitude": 41.542962,
+    "longitude": -97.376314,
+    "city": "Columbus",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68602,
+    "latitude": 41.53808,
+    "longitude": -97.541795,
+    "city": "Columbus",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68620,
+    "latitude": 41.648736,
+    "longitude": -98.011092,
+    "city": "Albion",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 68621,
+    "latitude": 41.499208,
+    "longitude": -96.624657,
+    "city": "Ames",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68622,
+    "latitude": 41.914601,
+    "longitude": -98.528373,
+    "city": "Bartlett",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 68623,
+    "latitude": 41.471865,
+    "longitude": -98.068163,
+    "city": "Belgrade",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nance"
+  },
+  {
+    "zip_code": 68624,
+    "latitude": 41.342556,
+    "longitude": -97.214802,
+    "city": "Bellwood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68626,
+    "latitude": 41.143956,
+    "longitude": -96.992319,
+    "city": "Brainard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68627,
+    "latitude": 41.558087,
+    "longitude": -98.150139,
+    "city": "Cedar Rapids",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 68628,
+    "latitude": 41.202853,
+    "longitude": -97.80937,
+    "city": "Clarks",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68629,
+    "latitude": 41.663195,
+    "longitude": -97.137751,
+    "city": "Clarkson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Colfax"
+  },
+  {
+    "zip_code": 68631,
+    "latitude": 41.718708,
+    "longitude": -97.372671,
+    "city": "Creston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68632,
+    "latitude": 41.220715,
+    "longitude": -97.157229,
+    "city": "David City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68633,
+    "latitude": 41.593378,
+    "longitude": -96.675369,
+    "city": "Dodge",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68634,
+    "latitude": 41.393146,
+    "longitude": -97.595435,
+    "city": "Duncan",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68635,
+    "latitude": 41.066016,
+    "longitude": -97.114365,
+    "city": "Dwight",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68636,
+    "latitude": 41.982761,
+    "longitude": -98.083714,
+    "city": "Elgin",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68637,
+    "latitude": 41.779992,
+    "longitude": -98.679988,
+    "city": "Ericson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 68638,
+    "latitude": 41.414475,
+    "longitude": -97.899889,
+    "city": "Fullerton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nance"
+  },
+  {
+    "zip_code": 68640,
+    "latitude": 41.445863,
+    "longitude": -97.732584,
+    "city": "Genoa",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nance"
+  },
+  {
+    "zip_code": 68641,
+    "latitude": 41.66172,
+    "longitude": -97.103325,
+    "city": "Howells",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Colfax"
+  },
+  {
+    "zip_code": 68642,
+    "latitude": 41.690226,
+    "longitude": -97.487407,
+    "city": "Humphrey",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68643,
+    "latitude": 41.647114,
+    "longitude": -97.184984,
+    "city": "Leigh",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Colfax"
+  },
+  {
+    "zip_code": 68644,
+    "latitude": 41.701476,
+    "longitude": -97.694247,
+    "city": "Lindsay",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68647,
+    "latitude": 41.465573,
+    "longitude": -97.625525,
+    "city": "Monroe",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68648,
+    "latitude": 41.375782,
+    "longitude": -96.811409,
+    "city": "Morse Bluff",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68649,
+    "latitude": 41.54148,
+    "longitude": -96.685416,
+    "city": "North Bend",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68651,
+    "latitude": 41.170633,
+    "longitude": -97.57,
+    "city": "Osceola",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 68652,
+    "latitude": 41.853086,
+    "longitude": -98.07996,
+    "city": "Petersburg",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 68653,
+    "latitude": 41.537151,
+    "longitude": -97.48488,
+    "city": "Platte Center",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 68654,
+    "latitude": 41.075237,
+    "longitude": -97.78707,
+    "city": "Polk",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 68655,
+    "latitude": 41.698452,
+    "longitude": -98.062909,
+    "city": "Primrose",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 68658,
+    "latitude": 41.19712,
+    "longitude": -97.181952,
+    "city": "Rising City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68659,
+    "latitude": 41.593926,
+    "longitude": -96.956019,
+    "city": "Rogers",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Colfax"
+  },
+  {
+    "zip_code": 68660,
+    "latitude": 41.570444,
+    "longitude": -97.863484,
+    "city": "Saint Edward",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 68661,
+    "latitude": 41.559744,
+    "longitude": -97.079635,
+    "city": "Schuyler",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Colfax"
+  },
+  {
+    "zip_code": 68662,
+    "latitude": 41.154703,
+    "longitude": -97.519253,
+    "city": "Shelby",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 68663,
+    "latitude": 41.303844,
+    "longitude": -97.723453,
+    "city": "Silver Creek",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68664,
+    "latitude": 41.648478,
+    "longitude": -96.787252,
+    "city": "Snyder",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 68665,
+    "latitude": 41.688144,
+    "longitude": -98.363282,
+    "city": "Spalding",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Greeley"
+  },
+  {
+    "zip_code": 68666,
+    "latitude": 41.114446,
+    "longitude": -97.591433,
+    "city": "Stromsburg",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 68667,
+    "latitude": 41.126818,
+    "longitude": -97.292178,
+    "city": "Surprise",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68669,
+    "latitude": 41.09176,
+    "longitude": -97.224683,
+    "city": "Ulysses",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68701,
+    "latitude": 41.99641,
+    "longitude": -97.601189,
+    "city": "Norfolk",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68702,
+    "latitude": 41.916476,
+    "longitude": -97.601348,
+    "city": "Norfolk",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68710,
+    "latitude": 42.445278,
+    "longitude": -96.884378,
+    "city": "Allen",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68711,
+    "latitude": 42.556421,
+    "longitude": -99.032048,
+    "city": "Amelia",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68713,
+    "latitude": 42.533852,
+    "longitude": -98.975603,
+    "city": "Atkinson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68714,
+    "latitude": 42.583147,
+    "longitude": -99.551245,
+    "city": "Bassett",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 68715,
+    "latitude": 41.976904,
+    "longitude": -97.568855,
+    "city": "Battle Creek",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68716,
+    "latitude": 41.909399,
+    "longitude": -96.816403,
+    "city": "Beemer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cuming"
+  },
+  {
+    "zip_code": 68717,
+    "latitude": 42.429295,
+    "longitude": -97.212986,
+    "city": "Belden",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68718,
+    "latitude": 42.628731,
+    "longitude": -97.659606,
+    "city": "Bloomfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68719,
+    "latitude": 42.879903,
+    "longitude": -98.781334,
+    "city": "Bristow",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 68720,
+    "latitude": 42.176397,
+    "longitude": -98.066911,
+    "city": "Brunswick",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68722,
+    "latitude": 42.911492,
+    "longitude": -98.847065,
+    "city": "Butte",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 68723,
+    "latitude": 42.286328,
+    "longitude": -97.193337,
+    "city": "Carroll",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 68724,
+    "latitude": 42.597304,
+    "longitude": -97.866951,
+    "city": "Center",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68725,
+    "latitude": 42.20186,
+    "longitude": -98.749451,
+    "city": "Chambers",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68726,
+    "latitude": 42.176397,
+    "longitude": -98.066911,
+    "city": "Clearwater",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68727,
+    "latitude": 42.530505,
+    "longitude": -97.260393,
+    "city": "Coleridge",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68728,
+    "latitude": 42.493637,
+    "longitude": -96.853429,
+    "city": "Concord",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68729,
+    "latitude": 42.490856,
+    "longitude": -97.919351,
+    "city": "Creighton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68730,
+    "latitude": 42.758387,
+    "longitude": -97.603391,
+    "city": "Crofton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68731,
+    "latitude": 42.381775,
+    "longitude": -96.565385,
+    "city": "Dakota City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68732,
+    "latitude": 42.480297,
+    "longitude": -96.967598,
+    "city": "Dixon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68733,
+    "latitude": 42.361551,
+    "longitude": -96.639317,
+    "city": "Emerson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68734,
+    "latitude": 42.492295,
+    "longitude": -98.778556,
+    "city": "Emmet",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68735,
+    "latitude": 42.259207,
+    "longitude": -98.344313,
+    "city": "Ewing",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68736,
+    "latitude": 42.728606,
+    "longitude": -97.319381,
+    "city": "Fordyce",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68737,
+    "latitude": 42.264356,
+    "longitude": -97.601337,
+    "city": "Foster",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68738,
+    "latitude": 42.264356,
+    "longitude": -97.601337,
+    "city": "Hadar",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68739,
+    "latitude": 42.591685,
+    "longitude": -97.250509,
+    "city": "Hartington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68740,
+    "latitude": 42.221141,
+    "longitude": -97.309909,
+    "city": "Hoskins",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 68741,
+    "latitude": 42.357595,
+    "longitude": -96.603097,
+    "city": "Hubbard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68742,
+    "latitude": 42.380604,
+    "longitude": -98.530866,
+    "city": "Inman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68743,
+    "latitude": 42.452053,
+    "longitude": -96.631738,
+    "city": "Jackson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68745,
+    "latitude": 42.475072,
+    "longitude": -97.142457,
+    "city": "Laurel",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68746,
+    "latitude": 42.879903,
+    "longitude": -98.781334,
+    "city": "Lynch",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 68747,
+    "latitude": 42.438634,
+    "longitude": -97.475151,
+    "city": "Mclean",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68748,
+    "latitude": 41.881046,
+    "longitude": -97.48448,
+    "city": "Madison",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68749,
+    "latitude": 42.609687,
+    "longitude": -97.250378,
+    "city": "Magnet",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68751,
+    "latitude": 42.481711,
+    "longitude": -96.926042,
+    "city": "Maskell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68752,
+    "latitude": 42.034395,
+    "longitude": -97.782829,
+    "city": "Meadow Grove",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68753,
+    "latitude": 42.858168,
+    "longitude": -99.726221,
+    "city": "Mills",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keya Paha"
+  },
+  {
+    "zip_code": 68755,
+    "latitude": 42.879903,
+    "longitude": -98.781334,
+    "city": "Naper",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 68756,
+    "latitude": 42.216925,
+    "longitude": -98.13176,
+    "city": "Neligh",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68757,
+    "latitude": 42.494685,
+    "longitude": -96.861558,
+    "city": "Newcastle",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68758,
+    "latitude": 41.747884,
+    "longitude": -97.777198,
+    "city": "Newman Grove",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68759,
+    "latitude": 42.858168,
+    "longitude": -99.726221,
+    "city": "Newport",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keya Paha"
+  },
+  {
+    "zip_code": 68760,
+    "latitude": 42.739127,
+    "longitude": -97.924783,
+    "city": "Niobrara",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68761,
+    "latitude": 42.176397,
+    "longitude": -98.066911,
+    "city": "Oakdale",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68763,
+    "latitude": 42.370456,
+    "longitude": -98.665685,
+    "city": "Oneill",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68764,
+    "latitude": 42.337003,
+    "longitude": -98.239908,
+    "city": "Orchard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68765,
+    "latitude": 42.360661,
+    "longitude": -97.598511,
+    "city": "Osmond",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68766,
+    "latitude": 42.492295,
+    "longitude": -98.778556,
+    "city": "Page",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68767,
+    "latitude": 42.224218,
+    "longitude": -97.581551,
+    "city": "Pierce",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68768,
+    "latitude": 41.976143,
+    "longitude": -97.07791,
+    "city": "Pilger",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Stanton"
+  },
+  {
+    "zip_code": 68769,
+    "latitude": 42.35378,
+    "longitude": -97.788065,
+    "city": "Plainview",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 68770,
+    "latitude": 42.565991,
+    "longitude": -96.711058,
+    "city": "Ponca",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68771,
+    "latitude": 42.438743,
+    "longitude": -97.319835,
+    "city": "Randolph",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68772,
+    "latitude": 42.445152,
+    "longitude": -99.455891,
+    "city": "Rose",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 68773,
+    "latitude": 42.176397,
+    "longitude": -98.066911,
+    "city": "Royal",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Antelope"
+  },
+  {
+    "zip_code": 68774,
+    "latitude": 42.804591,
+    "longitude": -97.304691,
+    "city": "Saint Helena",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68776,
+    "latitude": 42.459711,
+    "longitude": -96.457068,
+    "city": "South Sioux City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 68777,
+    "latitude": 42.872702,
+    "longitude": -98.701552,
+    "city": "Spencer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 68778,
+    "latitude": 42.836424,
+    "longitude": -99.747046,
+    "city": "Springview",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keya Paha"
+  },
+  {
+    "zip_code": 68779,
+    "latitude": 41.982175,
+    "longitude": -97.203396,
+    "city": "Stanton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Stanton"
+  },
+  {
+    "zip_code": 68780,
+    "latitude": 42.599715,
+    "longitude": -99.141514,
+    "city": "Stuart",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 68781,
+    "latitude": 42.042732,
+    "longitude": -97.829855,
+    "city": "Tilden",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 68783,
+    "latitude": 42.624821,
+    "longitude": -98.129817,
+    "city": "Verdigre",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68784,
+    "latitude": 42.307797,
+    "longitude": -96.930286,
+    "city": "Wakefield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68785,
+    "latitude": 42.512745,
+    "longitude": -96.824742,
+    "city": "Waterbury",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dixon"
+  },
+  {
+    "zip_code": 68786,
+    "latitude": 42.518247,
+    "longitude": -97.608966,
+    "city": "Wausa",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68787,
+    "latitude": 42.206417,
+    "longitude": -96.979049,
+    "city": "Wayne",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 68788,
+    "latitude": 41.870968,
+    "longitude": -96.777787,
+    "city": "West Point",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cuming"
+  },
+  {
+    "zip_code": 68789,
+    "latitude": 42.533387,
+    "longitude": -98.004988,
+    "city": "Winnetoon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 68790,
+    "latitude": 42.155768,
+    "longitude": -97.193232,
+    "city": "Winside",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 68791,
+    "latitude": 41.960145,
+    "longitude": -96.893932,
+    "city": "Wisner",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cuming"
+  },
+  {
+    "zip_code": 68792,
+    "latitude": 42.708262,
+    "longitude": -97.161919,
+    "city": "Wynot",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 68801,
+    "latitude": 40.87227,
+    "longitude": -98.368698,
+    "city": "Grand Island",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68802,
+    "latitude": 40.872457,
+    "longitude": -98.50213,
+    "city": "Grand Island",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68803,
+    "latitude": 40.872531,
+    "longitude": -98.521343,
+    "city": "Grand Island",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68810,
+    "latitude": 40.860721,
+    "longitude": -98.504787,
+    "city": "Alda",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68812,
+    "latitude": 40.916581,
+    "longitude": -99.292974,
+    "city": "Amherst",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68813,
+    "latitude": 41.620773,
+    "longitude": -99.864392,
+    "city": "Anselmo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68814,
+    "latitude": 41.289827,
+    "longitude": -99.381735,
+    "city": "Ansley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68815,
+    "latitude": 41.52244,
+    "longitude": -99.038945,
+    "city": "Arcadia",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 68816,
+    "latitude": 41.140845,
+    "longitude": -98.13559,
+    "city": "Archer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68817,
+    "latitude": 41.249476,
+    "longitude": -98.79476,
+    "city": "Ashton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 68818,
+    "latitude": 40.850832,
+    "longitude": -98.054272,
+    "city": "Aurora",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68819,
+    "latitude": 41.35201,
+    "longitude": -99.502374,
+    "city": "Berwyn",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68820,
+    "latitude": 41.11924,
+    "longitude": -98.681367,
+    "city": "Boelus",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68821,
+    "latitude": 41.936376,
+    "longitude": -99.857111,
+    "city": "Brewster",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 68822,
+    "latitude": 41.451119,
+    "longitude": -99.621491,
+    "city": "Broken Bow",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68823,
+    "latitude": 41.782277,
+    "longitude": -99.134041,
+    "city": "Burwell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 68824,
+    "latitude": 40.908706,
+    "longitude": -98.568185,
+    "city": "Cairo",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68825,
+    "latitude": 41.290502,
+    "longitude": -99.921245,
+    "city": "Callaway",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68826,
+    "latitude": 41.162876,
+    "longitude": -98.010548,
+    "city": "Central City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68827,
+    "latitude": 41.046263,
+    "longitude": -98.188441,
+    "city": "Chapman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68828,
+    "latitude": 41.393902,
+    "longitude": -99.728097,
+    "city": "Comstock",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68831,
+    "latitude": 41.16614,
+    "longitude": -98.546616,
+    "city": "Dannebrog",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68832,
+    "latitude": 40.800367,
+    "longitude": -98.446665,
+    "city": "Doniphan",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68833,
+    "latitude": 41.912303,
+    "longitude": -99.977135,
+    "city": "Dunning",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 68834,
+    "latitude": 40.980376,
+    "longitude": -99.685939,
+    "city": "Eddyville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 68835,
+    "latitude": 41.32178,
+    "longitude": -98.604437,
+    "city": "Elba",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68836,
+    "latitude": 40.779914,
+    "longitude": -99.331426,
+    "city": "Elm Creek",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68837,
+    "latitude": 41.567344,
+    "longitude": -98.981592,
+    "city": "Elyria",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 68838,
+    "latitude": 41.206635,
+    "longitude": -98.679842,
+    "city": "Farwell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68840,
+    "latitude": 40.770884,
+    "longitude": -98.882818,
+    "city": "Gibbon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68841,
+    "latitude": 40.763612,
+    "longitude": -98.158838,
+    "city": "Giltner",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68842,
+    "latitude": 41.563806,
+    "longitude": -98.530685,
+    "city": "Greeley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Greeley"
+  },
+  {
+    "zip_code": 68843,
+    "latitude": 40.933448,
+    "longitude": -98.021035,
+    "city": "Hampton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68844,
+    "latitude": 41.220515,
+    "longitude": -98.975997,
+    "city": "Hazard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 68845,
+    "latitude": 40.75141,
+    "longitude": -99.129054,
+    "city": "Kearney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68846,
+    "latitude": 40.962667,
+    "longitude": -97.991525,
+    "city": "Hordville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68847,
+    "latitude": 40.850493,
+    "longitude": -99.073398,
+    "city": "Kearney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68848,
+    "latitude": 40.686053,
+    "longitude": -99.069318,
+    "city": "Kearney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68849,
+    "latitude": 40.849654,
+    "longitude": -99.074058,
+    "city": "Kearney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68850,
+    "latitude": 40.873227,
+    "longitude": -99.718408,
+    "city": "Lexington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 68852,
+    "latitude": 41.156948,
+    "longitude": -99.153012,
+    "city": "Litchfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 68853,
+    "latitude": 41.276435,
+    "longitude": -98.966954,
+    "city": "Loup City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 68854,
+    "latitude": 41.015778,
+    "longitude": -98.008324,
+    "city": "Marquette",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68855,
+    "latitude": 41.283369,
+    "longitude": -99.37871,
+    "city": "Mason City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68856,
+    "latitude": 41.484951,
+    "longitude": -99.760782,
+    "city": "Merna",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68858,
+    "latitude": 40.952708,
+    "longitude": -99.364921,
+    "city": "Miller",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68859,
+    "latitude": 41.567344,
+    "longitude": -98.981592,
+    "city": "North Loup",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 68860,
+    "latitude": 41.393902,
+    "longitude": -99.728097,
+    "city": "Oconto",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68861,
+    "latitude": 40.72996,
+    "longitude": -99.283748,
+    "city": "Odessa",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68862,
+    "latitude": 41.603603,
+    "longitude": -98.932718,
+    "city": "Ord",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 68863,
+    "latitude": 40.801246,
+    "longitude": -99.521933,
+    "city": "Overton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 68864,
+    "latitude": 41.244701,
+    "longitude": -98.182952,
+    "city": "Palmer",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Merrick"
+  },
+  {
+    "zip_code": 68865,
+    "latitude": 40.893539,
+    "longitude": -98.102223,
+    "city": "Phillips",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 68866,
+    "latitude": 40.960145,
+    "longitude": -99.121861,
+    "city": "Pleasanton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68869,
+    "latitude": 40.960075,
+    "longitude": -98.902302,
+    "city": "Ravenna",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68870,
+    "latitude": 40.829478,
+    "longitude": -99.126061,
+    "city": "Riverdale",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68871,
+    "latitude": 41.117178,
+    "longitude": -98.832654,
+    "city": "Rockville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 68872,
+    "latitude": 41.096855,
+    "longitude": -98.450297,
+    "city": "Saint Libory",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68873,
+    "latitude": 41.232405,
+    "longitude": -98.503283,
+    "city": "Saint Paul",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 68874,
+    "latitude": 41.645695,
+    "longitude": -99.371585,
+    "city": "Sargent",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68875,
+    "latitude": 41.467579,
+    "longitude": -98.703727,
+    "city": "Scotia",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Greeley"
+  },
+  {
+    "zip_code": 68876,
+    "latitude": 40.812713,
+    "longitude": -98.788349,
+    "city": "Shelton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 68878,
+    "latitude": 40.959402,
+    "longitude": -99.539866,
+    "city": "Sumner",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 68879,
+    "latitude": 41.91406,
+    "longitude": -99.454335,
+    "city": "Taylor",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Loup"
+  },
+  {
+    "zip_code": 68880,
+    "latitude": 41.393902,
+    "longitude": -99.728097,
+    "city": "Weissert",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68881,
+    "latitude": 41.393902,
+    "longitude": -99.728097,
+    "city": "Westerville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 68882,
+    "latitude": 41.397214,
+    "longitude": -98.431898,
+    "city": "Wolbach",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Greeley"
+  },
+  {
+    "zip_code": 68883,
+    "latitude": 40.872494,
+    "longitude": -98.589324,
+    "city": "Wood River",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 68901,
+    "latitude": 40.582425,
+    "longitude": -98.389035,
+    "city": "Hastings",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68902,
+    "latitude": 40.589594,
+    "longitude": -98.397248,
+    "city": "Hastings",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68920,
+    "latitude": 40.101761,
+    "longitude": -99.352846,
+    "city": "Alma",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 68922,
+    "latitude": 40.294628,
+    "longitude": -99.842844,
+    "city": "Arapahoe",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68923,
+    "latitude": 40.410446,
+    "longitude": -99.405055,
+    "city": "Atlanta",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 68924,
+    "latitude": 40.50339,
+    "longitude": -99.091654,
+    "city": "Axtell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kearney"
+  },
+  {
+    "zip_code": 68925,
+    "latitude": 40.429989,
+    "longitude": -98.463055,
+    "city": "Ayr",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68926,
+    "latitude": 40.137671,
+    "longitude": -99.82693,
+    "city": "Beaver City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68927,
+    "latitude": 40.525235,
+    "longitude": -99.634275,
+    "city": "Bertrand",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 68928,
+    "latitude": 40.323796,
+    "longitude": -98.597026,
+    "city": "Bladen",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 68929,
+    "latitude": 40.097871,
+    "longitude": -99.037737,
+    "city": "Bloomington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68930,
+    "latitude": 40.316739,
+    "longitude": -98.450468,
+    "city": "Blue Hill",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 68932,
+    "latitude": 40.306364,
+    "longitude": -98.814655,
+    "city": "Campbell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68933,
+    "latitude": 40.565856,
+    "longitude": -98.070907,
+    "city": "Clay Center",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68934,
+    "latitude": 40.35398,
+    "longitude": -98.140015,
+    "city": "Deweese",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68935,
+    "latitude": 40.379736,
+    "longitude": -97.905641,
+    "city": "Edgar",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68936,
+    "latitude": 40.277359,
+    "longitude": -99.776089,
+    "city": "Edison",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68937,
+    "latitude": 40.56962,
+    "longitude": -99.831972,
+    "city": "Elwood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gosper"
+  },
+  {
+    "zip_code": 68938,
+    "latitude": 40.395335,
+    "longitude": -98.053432,
+    "city": "Fairfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68939,
+    "latitude": 40.096305,
+    "longitude": -98.995406,
+    "city": "Franklin",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68940,
+    "latitude": 40.464046,
+    "longitude": -99.251676,
+    "city": "Funk",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 68941,
+    "latitude": 40.503252,
+    "longitude": -98.255757,
+    "city": "Glenvil",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68942,
+    "latitude": 40.071648,
+    "longitude": -98.330001,
+    "city": "Guide Rock",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 68943,
+    "latitude": 40.074907,
+    "longitude": -97.900651,
+    "city": "Hardy",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68944,
+    "latitude": 40.620578,
+    "longitude": -98.096849,
+    "city": "Harvard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68945,
+    "latitude": 40.55428,
+    "longitude": -98.790623,
+    "city": "Heartwell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kearney"
+  },
+  {
+    "zip_code": 68946,
+    "latitude": 40.176314,
+    "longitude": -99.913076,
+    "city": "Hendley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68947,
+    "latitude": 40.337828,
+    "longitude": -99.043138,
+    "city": "Hildreth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68948,
+    "latitude": 40.304641,
+    "longitude": -99.959503,
+    "city": "Holbrook",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68949,
+    "latitude": 40.429207,
+    "longitude": -99.325955,
+    "city": "Holdrege",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 68950,
+    "latitude": 40.437334,
+    "longitude": -98.638633,
+    "city": "Holstein",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68952,
+    "latitude": 40.176368,
+    "longitude": -98.500037,
+    "city": "Inavale",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 68954,
+    "latitude": 40.524526,
+    "longitude": -98.051184,
+    "city": "Inland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68955,
+    "latitude": 40.596951,
+    "longitude": -98.506045,
+    "city": "Juniata",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68956,
+    "latitude": 40.611581,
+    "longitude": -98.610696,
+    "city": "Kenesaw",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68957,
+    "latitude": 40.291047,
+    "longitude": -98.25954,
+    "city": "Lawrence",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68958,
+    "latitude": 40.477867,
+    "longitude": -99.508075,
+    "city": "Loomis",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 68959,
+    "latitude": 40.502515,
+    "longitude": -98.907731,
+    "city": "Minden",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kearney"
+  },
+  {
+    "zip_code": 68960,
+    "latitude": 40.074785,
+    "longitude": -99.137325,
+    "city": "Naponee",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68961,
+    "latitude": 40.20105,
+    "longitude": -98.068371,
+    "city": "Nelson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68963,
+    "latitude": 40.478879,
+    "longitude": -98.792699,
+    "city": "Norman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kearney"
+  },
+  {
+    "zip_code": 68964,
+    "latitude": 40.237813,
+    "longitude": -97.903047,
+    "city": "Oak",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68966,
+    "latitude": 40.130072,
+    "longitude": -99.45511,
+    "city": "Orleans",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 68967,
+    "latitude": 40.254078,
+    "longitude": -99.637884,
+    "city": "Oxford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 68969,
+    "latitude": 40.176513,
+    "longitude": -99.404864,
+    "city": "Ragan",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 68970,
+    "latitude": 40.201919,
+    "longitude": -98.500021,
+    "city": "Red Cloud",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 68971,
+    "latitude": 40.093106,
+    "longitude": -99.246197,
+    "city": "Republican City",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 68972,
+    "latitude": 40.176335,
+    "longitude": -98.952642,
+    "city": "Riverton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68973,
+    "latitude": 40.466384,
+    "longitude": -98.544036,
+    "city": "Roseland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 68974,
+    "latitude": 40.152394,
+    "longitude": -97.91468,
+    "city": "Ruskin",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68975,
+    "latitude": 40.602128,
+    "longitude": -97.938811,
+    "city": "Saronville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68976,
+    "latitude": 40.539998,
+    "longitude": -99.830345,
+    "city": "Smithfield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Gosper"
+  },
+  {
+    "zip_code": 68977,
+    "latitude": 40.176513,
+    "longitude": -99.404864,
+    "city": "Stamford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Harlan"
+  },
+  {
+    "zip_code": 68978,
+    "latitude": 40.036673,
+    "longitude": -98.069593,
+    "city": "Superior",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Nuckolls"
+  },
+  {
+    "zip_code": 68979,
+    "latitude": 40.507387,
+    "longitude": -97.85543,
+    "city": "Sutton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68980,
+    "latitude": 40.639247,
+    "longitude": -98.25112,
+    "city": "Trumbull",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 68981,
+    "latitude": 40.31743,
+    "longitude": -98.904418,
+    "city": "Upland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 68982,
+    "latitude": 40.378795,
+    "longitude": -99.152181,
+    "city": "Wilcox",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kearney"
+  },
+  {
+    "zip_code": 69001,
+    "latitude": 40.207969,
+    "longitude": -100.620628,
+    "city": "Mc Cook",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Red Willow"
+  },
+  {
+    "zip_code": 69020,
+    "latitude": 40.252545,
+    "longitude": -100.305432,
+    "city": "Bartley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Red Willow"
+  },
+  {
+    "zip_code": 69021,
+    "latitude": 40.103088,
+    "longitude": -101.789168,
+    "city": "Benkelman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dundy"
+  },
+  {
+    "zip_code": 69022,
+    "latitude": 40.269966,
+    "longitude": -100.171378,
+    "city": "Cambridge",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 69023,
+    "latitude": 40.52473,
+    "longitude": -101.69724,
+    "city": "Champion",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 69024,
+    "latitude": 40.231495,
+    "longitude": -100.835774,
+    "city": "Culbertson",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hitchcock"
+  },
+  {
+    "zip_code": 69025,
+    "latitude": 40.643861,
+    "longitude": -100.54399,
+    "city": "Curtis",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Frontier"
+  },
+  {
+    "zip_code": 69026,
+    "latitude": 40.176507,
+    "longitude": -100.476977,
+    "city": "Danbury",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Red Willow"
+  },
+  {
+    "zip_code": 69027,
+    "latitude": 40.52473,
+    "longitude": -101.69724,
+    "city": "Enders",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 69028,
+    "latitude": 40.564186,
+    "longitude": -100.00978,
+    "city": "Eustis",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Frontier"
+  },
+  {
+    "zip_code": 69029,
+    "latitude": 40.740544,
+    "longitude": -100.173314,
+    "city": "Farnam",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 69030,
+    "latitude": 40.176417,
+    "longitude": -101.687688,
+    "city": "Haigler",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dundy"
+  },
+  {
+    "zip_code": 69031,
+    "latitude": 40.524819,
+    "longitude": -101.061328,
+    "city": "Hamlet",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hayes"
+  },
+  {
+    "zip_code": 69032,
+    "latitude": 40.524819,
+    "longitude": -101.061328,
+    "city": "Hayes Center",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hayes"
+  },
+  {
+    "zip_code": 69033,
+    "latitude": 40.515114,
+    "longitude": -101.632038,
+    "city": "Imperial",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 69034,
+    "latitude": 40.240034,
+    "longitude": -100.365256,
+    "city": "Indianola",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Red Willow"
+  },
+  {
+    "zip_code": 69036,
+    "latitude": 40.176507,
+    "longitude": -100.476977,
+    "city": "Lebanon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Red Willow"
+  },
+  {
+    "zip_code": 69037,
+    "latitude": 40.176417,
+    "longitude": -101.687688,
+    "city": "Max",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dundy"
+  },
+  {
+    "zip_code": 69038,
+    "latitude": 40.524809,
+    "longitude": -100.38203,
+    "city": "Maywood",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Frontier"
+  },
+  {
+    "zip_code": 69039,
+    "latitude": 40.524809,
+    "longitude": -100.38203,
+    "city": "Moorefield",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Frontier"
+  },
+  {
+    "zip_code": 69040,
+    "latitude": 40.267333,
+    "longitude": -101.065001,
+    "city": "Palisade",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hitchcock"
+  },
+  {
+    "zip_code": 69041,
+    "latitude": 40.176417,
+    "longitude": -101.687688,
+    "city": "Parks",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dundy"
+  },
+  {
+    "zip_code": 69042,
+    "latitude": 40.524809,
+    "longitude": -100.38203,
+    "city": "Stockville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Frontier"
+  },
+  {
+    "zip_code": 69043,
+    "latitude": 40.15014,
+    "longitude": -101.227939,
+    "city": "Stratton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hitchcock"
+  },
+  {
+    "zip_code": 69044,
+    "latitude": 40.176356,
+    "longitude": -101.010823,
+    "city": "Trenton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hitchcock"
+  },
+  {
+    "zip_code": 69045,
+    "latitude": 40.416806,
+    "longitude": -101.370507,
+    "city": "Wauneta",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 69046,
+    "latitude": 40.112009,
+    "longitude": -100.106003,
+    "city": "Wilsonville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Furnas"
+  },
+  {
+    "zip_code": 69101,
+    "latitude": 41.102555,
+    "longitude": -100.74907,
+    "city": "North Platte",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69103,
+    "latitude": 41.046447,
+    "longitude": -100.746912,
+    "city": "North Platte",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69120,
+    "latitude": 41.423996,
+    "longitude": -100.194253,
+    "city": "Arnold",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 69121,
+    "latitude": 41.554073,
+    "longitude": -101.714495,
+    "city": "Arthur",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Arthur"
+  },
+  {
+    "zip_code": 69122,
+    "latitude": 41.111961,
+    "longitude": -102.261262,
+    "city": "Big Springs",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 69123,
+    "latitude": 41.049046,
+    "longitude": -100.391826,
+    "city": "Brady",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69125,
+    "latitude": 41.598622,
+    "longitude": -102.852752,
+    "city": "Broadwater",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Morrill"
+  },
+  {
+    "zip_code": 69127,
+    "latitude": 41.135819,
+    "longitude": -101.921709,
+    "city": "Brule",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keith"
+  },
+  {
+    "zip_code": 69128,
+    "latitude": 41.232626,
+    "longitude": -103.891757,
+    "city": "Bushnell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kimball"
+  },
+  {
+    "zip_code": 69129,
+    "latitude": 41.112122,
+    "longitude": -102.421494,
+    "city": "Chappell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 69130,
+    "latitude": 40.895003,
+    "longitude": -99.967448,
+    "city": "Cozad",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 69131,
+    "latitude": 41.380172,
+    "longitude": -103.031435,
+    "city": "Dalton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69132,
+    "latitude": 41.046447,
+    "longitude": -100.746912,
+    "city": "Dickens",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69133,
+    "latitude": 41.19801,
+    "longitude": -103.714501,
+    "city": "Dix",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kimball"
+  },
+  {
+    "zip_code": 69134,
+    "latitude": 40.850739,
+    "longitude": -101.649075,
+    "city": "Elsie",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 69135,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Elsmere",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69138,
+    "latitude": 40.945256,
+    "longitude": -100.129125,
+    "city": "Gothenburg",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 69140,
+    "latitude": 40.846046,
+    "longitude": -101.7258,
+    "city": "Grant",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 69141,
+    "latitude": 41.315041,
+    "longitude": -102.983464,
+    "city": "Gurley",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69142,
+    "latitude": 41.913806,
+    "longitude": -100.555805,
+    "city": "Halsey",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 69143,
+    "latitude": 40.98993,
+    "longitude": -100.96308,
+    "city": "Hershey",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69144,
+    "latitude": 41.293525,
+    "longitude": -101.604569,
+    "city": "Keystone",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keith"
+  },
+  {
+    "zip_code": 69145,
+    "latitude": 41.206972,
+    "longitude": -103.769557,
+    "city": "Kimball",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Kimball"
+  },
+  {
+    "zip_code": 69146,
+    "latitude": 41.323607,
+    "longitude": -101.767329,
+    "city": "Lemoyne",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keith"
+  },
+  {
+    "zip_code": 69147,
+    "latitude": 41.315509,
+    "longitude": -102.153084,
+    "city": "Lewellen",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Garden"
+  },
+  {
+    "zip_code": 69148,
+    "latitude": 41.409518,
+    "longitude": -102.476752,
+    "city": "Lisco",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Garden"
+  },
+  {
+    "zip_code": 69149,
+    "latitude": 41.223638,
+    "longitude": -102.794277,
+    "city": "Lodgepole",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69150,
+    "latitude": 40.850739,
+    "longitude": -101.649075,
+    "city": "Madrid",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 69151,
+    "latitude": 41.096752,
+    "longitude": -100.583269,
+    "city": "Maxwell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69152,
+    "latitude": 42.042143,
+    "longitude": -101.045192,
+    "city": "Mullen",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Hooker"
+  },
+  {
+    "zip_code": 69153,
+    "latitude": 41.131676,
+    "longitude": -101.663033,
+    "city": "Ogallala",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keith"
+  },
+  {
+    "zip_code": 69154,
+    "latitude": 41.377536,
+    "longitude": -102.385678,
+    "city": "Oshkosh",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Garden"
+  },
+  {
+    "zip_code": 69155,
+    "latitude": 41.199097,
+    "longitude": -101.423214,
+    "city": "Paxton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Keith"
+  },
+  {
+    "zip_code": 69156,
+    "latitude": 41.212817,
+    "longitude": -103.247811,
+    "city": "Potter",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69157,
+    "latitude": 41.912303,
+    "longitude": -99.977135,
+    "city": "Purdum",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 69160,
+    "latitude": 41.220549,
+    "longitude": -102.995925,
+    "city": "Sidney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69161,
+    "latitude": 41.913806,
+    "longitude": -100.555805,
+    "city": "Seneca",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 69162,
+    "latitude": 41.161943,
+    "longitude": -103.066015,
+    "city": "Sidney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 69163,
+    "latitude": 41.480166,
+    "longitude": -100.512463,
+    "city": "Stapleton",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 69165,
+    "latitude": 41.1597,
+    "longitude": -101.136616,
+    "city": "Sutherland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69166,
+    "latitude": 41.979407,
+    "longitude": -100.557354,
+    "city": "Thedford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 69167,
+    "latitude": 41.568548,
+    "longitude": -101.059489,
+    "city": "Tryon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 69168,
+    "latitude": 40.850739,
+    "longitude": -101.649075,
+    "city": "Venango",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 69169,
+    "latitude": 41.046447,
+    "longitude": -100.746912,
+    "city": "Wallace",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69170,
+    "latitude": 40.762172,
+    "longitude": -100.760429,
+    "city": "Wellfleet",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 69171,
+    "latitude": 40.892469,
+    "longitude": -100.070257,
+    "city": "Willow Island",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 69190,
+    "latitude": 41.615307,
+    "longitude": -102.331762,
+    "city": "Oshkosh",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Garden"
+  },
+  {
+    "zip_code": 69201,
+    "latitude": 42.906836,
+    "longitude": -100.996747,
+    "city": "Valentine",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69210,
+    "latitude": 42.542734,
+    "longitude": -99.852364,
+    "city": "Ainsworth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 69211,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Cody",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69212,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Crookston",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69214,
+    "latitude": 42.465698,
+    "longitude": -99.930477,
+    "city": "Johnstown",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 69216,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Kilgore",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69217,
+    "latitude": 42.533987,
+    "longitude": -99.702813,
+    "city": "Long Pine",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 69218,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Merriman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69219,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Nenzel",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69220,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Sparks",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69221,
+    "latitude": 42.542631,
+    "longitude": -101.126167,
+    "city": "Wood Lake",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cherry"
+  },
+  {
+    "zip_code": 69301,
+    "latitude": 42.219844,
+    "longitude": -103.073327,
+    "city": "Alliance",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Box Butte"
+  },
+  {
+    "zip_code": 69331,
+    "latitude": 41.721468,
+    "longitude": -103.003835,
+    "city": "Angora",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Morrill"
+  },
+  {
+    "zip_code": 69333,
+    "latitude": 41.919117,
+    "longitude": -101.746919,
+    "city": "Ashby",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 69334,
+    "latitude": 41.760711,
+    "longitude": -103.32705,
+    "city": "Bayard",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Morrill"
+  },
+  {
+    "zip_code": 69335,
+    "latitude": 42.730616,
+    "longitude": -102.471549,
+    "city": "Bingham",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69336,
+    "latitude": 41.667733,
+    "longitude": -103.102335,
+    "city": "Bridgeport",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Morrill"
+  },
+  {
+    "zip_code": 69337,
+    "latitude": 42.774479,
+    "longitude": -103.138479,
+    "city": "Chadron",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawes"
+  },
+  {
+    "zip_code": 69339,
+    "latitude": 42.611517,
+    "longitude": -103.303223,
+    "city": "Crawford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawes"
+  },
+  {
+    "zip_code": 69340,
+    "latitude": 42.502412,
+    "longitude": -102.399697,
+    "city": "Ellsworth",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69341,
+    "latitude": 41.80602,
+    "longitude": -103.75796,
+    "city": "Gering",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69343,
+    "latitude": 42.763456,
+    "longitude": -102.314593,
+    "city": "Gordon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69345,
+    "latitude": 41.546441,
+    "longitude": -103.710045,
+    "city": "Harrisburg",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Banner"
+  },
+  {
+    "zip_code": 69346,
+    "latitude": 42.631216,
+    "longitude": -103.782027,
+    "city": "Harrison",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 69347,
+    "latitude": 42.636894,
+    "longitude": -102.665536,
+    "city": "Hay Springs",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69348,
+    "latitude": 42.314537,
+    "longitude": -103.097258,
+    "city": "Hemingford",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Box Butte"
+  },
+  {
+    "zip_code": 69349,
+    "latitude": 41.987327,
+    "longitude": -104.045244,
+    "city": "Henry",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69350,
+    "latitude": 41.959181,
+    "longitude": -101.751854,
+    "city": "Hyannis",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 69351,
+    "latitude": 42.502412,
+    "longitude": -102.399697,
+    "city": "Lakeside",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69352,
+    "latitude": 41.835492,
+    "longitude": -103.974153,
+    "city": "Lyman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69353,
+    "latitude": 41.746944,
+    "longitude": -103.416351,
+    "city": "Mcgrew",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69354,
+    "latitude": 42.524433,
+    "longitude": -103.25644,
+    "city": "Marsland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawes"
+  },
+  {
+    "zip_code": 69355,
+    "latitude": 41.765008,
+    "longitude": -103.468748,
+    "city": "Melbeta",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69356,
+    "latitude": 41.861192,
+    "longitude": -103.643939,
+    "city": "Minatare",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69357,
+    "latitude": 41.874333,
+    "longitude": -103.803504,
+    "city": "Mitchell",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69358,
+    "latitude": 41.929379,
+    "longitude": -103.950162,
+    "city": "Morrill",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69360,
+    "latitude": 42.71634,
+    "longitude": -102.46359,
+    "city": "Rushville",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69361,
+    "latitude": 41.872005,
+    "longitude": -103.77023,
+    "city": "Scottsbluff",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69363,
+    "latitude": 41.851012,
+    "longitude": -103.70726,
+    "city": "Scottsbluff",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Scotts Bluff"
+  },
+  {
+    "zip_code": 69365,
+    "latitude": 42.502412,
+    "longitude": -102.399697,
+    "city": "Whiteclay",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 69366,
+    "latitude": 41.919117,
+    "longitude": -101.746919,
+    "city": "Whitman",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 69367,
+    "latitude": 42.788579,
+    "longitude": -103.299462,
+    "city": "Whitney",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Dawes"
+  },
+  {
+    "zip_code": 70001,
+    "latitude": 29.984643,
+    "longitude": -90.161821,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70002,
+    "latitude": 30.008003,
+    "longitude": -90.176491,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70003,
+    "latitude": 30.005653,
+    "longitude": -90.20733,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70004,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70005,
+    "latitude": 29.998821,
+    "longitude": -90.134428,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70006,
+    "latitude": 30.013413,
+    "longitude": -90.195842,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70009,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70010,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70011,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70030,
+    "latitude": 29.841219,
+    "longitude": -90.430699,
+    "city": "Des Allemands",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70031,
+    "latitude": 29.947005,
+    "longitude": -90.295997,
+    "city": "Ama",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70032,
+    "latitude": 29.956803,
+    "longitude": -89.987547,
+    "city": "Arabi",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70033,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70036,
+    "latitude": 29.696362,
+    "longitude": -90.112182,
+    "city": "Barataria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70037,
+    "latitude": 29.620092,
+    "longitude": -89.771638,
+    "city": "Belle Chasse",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70038,
+    "latitude": 29.303827,
+    "longitude": -89.401545,
+    "city": "Boothville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70039,
+    "latitude": 29.904159,
+    "longitude": -90.374038,
+    "city": "Boutte",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70040,
+    "latitude": 29.736105,
+    "longitude": -89.919691,
+    "city": "Braithwaite",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70041,
+    "latitude": 29.427314,
+    "longitude": -89.571937,
+    "city": "Buras",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70042,
+    "latitude": 29.380066,
+    "longitude": -89.477464,
+    "city": "Carlisle",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70043,
+    "latitude": 29.947746,
+    "longitude": -89.954906,
+    "city": "Chalmette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70044,
+    "latitude": 29.96765,
+    "longitude": -89.951441,
+    "city": "Chalmette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70046,
+    "latitude": 29.61829,
+    "longitude": -89.872599,
+    "city": "Davant",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70047,
+    "latitude": 29.964207,
+    "longitude": -90.368185,
+    "city": "Destrehan",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70049,
+    "latitude": 30.033264,
+    "longitude": -90.575432,
+    "city": "Edgard",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70050,
+    "latitude": 29.404065,
+    "longitude": -89.59563,
+    "city": "Empire",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70051,
+    "latitude": 29.998705,
+    "longitude": -90.619382,
+    "city": "Garyville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70052,
+    "latitude": 30.048935,
+    "longitude": -90.711904,
+    "city": "Gramercy",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70053,
+    "latitude": 29.911385,
+    "longitude": -90.055722,
+    "city": "Gretna",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70054,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Gretna",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70055,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70056,
+    "latitude": 29.887204,
+    "longitude": -90.033138,
+    "city": "Gretna",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70057,
+    "latitude": 29.966812,
+    "longitude": -90.408167,
+    "city": "Hahnville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70058,
+    "latitude": 29.875555,
+    "longitude": -90.069558,
+    "city": "Harvey",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70059,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Harvey",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70060,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Metairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70062,
+    "latitude": 29.994398,
+    "longitude": -90.20446,
+    "city": "Kenner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70063,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Kenner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70064,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Kenner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70065,
+    "latitude": 30.027041,
+    "longitude": -90.250547,
+    "city": "Kenner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70066,
+    "latitude": 30.003409,
+    "longitude": -90.45072,
+    "city": "Killona",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70067,
+    "latitude": 29.825895,
+    "longitude": -90.113675,
+    "city": "Lafitte",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70068,
+    "latitude": 30.065367,
+    "longitude": -90.527515,
+    "city": "La Place",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70069,
+    "latitude": 30.091158,
+    "longitude": -90.483189,
+    "city": "La Place",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70070,
+    "latitude": 29.944447,
+    "longitude": -90.348009,
+    "city": "Luling",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70071,
+    "latitude": 30.03757,
+    "longitude": -90.73039,
+    "city": "Lutcher",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70072,
+    "latitude": 29.819729,
+    "longitude": -90.078264,
+    "city": "Marrero",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70073,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Marrero",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70075,
+    "latitude": 29.932133,
+    "longitude": -89.923522,
+    "city": "Meraux",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70076,
+    "latitude": 30.057525,
+    "longitude": -90.636855,
+    "city": "Mount Airy",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70078,
+    "latitude": 29.981674,
+    "longitude": -90.38595,
+    "city": "New Sarpy",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70079,
+    "latitude": 29.973479,
+    "longitude": -90.404699,
+    "city": "Norco",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70080,
+    "latitude": 29.891541,
+    "longitude": -90.378697,
+    "city": "Paradis",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70081,
+    "latitude": 29.285081,
+    "longitude": -89.364034,
+    "city": "Pilottown",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70082,
+    "latitude": 29.587389,
+    "longitude": -89.831317,
+    "city": "Pointe A La Hache",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70083,
+    "latitude": 29.502725,
+    "longitude": -89.69023,
+    "city": "Port Sulphur",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70084,
+    "latitude": 30.05819,
+    "longitude": -90.605871,
+    "city": "Reserve",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "St John The Baptist"
+  },
+  {
+    "zip_code": 70085,
+    "latitude": 29.818387,
+    "longitude": -89.775097,
+    "city": "Saint Bernard",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70086,
+    "latitude": 30.033127,
+    "longitude": -90.867755,
+    "city": "Saint James",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70087,
+    "latitude": 29.945998,
+    "longitude": -90.354891,
+    "city": "Saint Rose",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 70090,
+    "latitude": 29.989546,
+    "longitude": -90.761722,
+    "city": "Vacherie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70091,
+    "latitude": 29.279536,
+    "longitude": -89.373855,
+    "city": "Venice",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Plaquemines"
+  },
+  {
+    "zip_code": 70092,
+    "latitude": 29.900262,
+    "longitude": -89.894926,
+    "city": "Violet",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Bernard"
+  },
+  {
+    "zip_code": 70094,
+    "latitude": 29.920768,
+    "longitude": -90.204326,
+    "city": "Westwego",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70096,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "Westwego",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70112,
+    "latitude": 29.958304,
+    "longitude": -90.077,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70113,
+    "latitude": 29.943769,
+    "longitude": -90.083172,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70114,
+    "latitude": 29.929605,
+    "longitude": -90.013164,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70115,
+    "latitude": 29.938343,
+    "longitude": -90.100773,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70116,
+    "latitude": 29.968504,
+    "longitude": -90.067122,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70117,
+    "latitude": 29.968553,
+    "longitude": -90.02845,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70118,
+    "latitude": 29.948283,
+    "longitude": -90.122498,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70119,
+    "latitude": 29.973053,
+    "longitude": -90.08542,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70121,
+    "latitude": 29.961448,
+    "longitude": -90.157715,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70122,
+    "latitude": 30.009063,
+    "longitude": -90.062147,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70123,
+    "latitude": 29.951082,
+    "longitude": -90.206031,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70124,
+    "latitude": 30.002253,
+    "longitude": -90.103673,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70125,
+    "latitude": 29.952659,
+    "longitude": -90.102965,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70126,
+    "latitude": 29.998653,
+    "longitude": -90.044561,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70127,
+    "latitude": 30.031251,
+    "longitude": -89.975819,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70128,
+    "latitude": 30.048653,
+    "longitude": -89.958519,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70129,
+    "latitude": 30.087708,
+    "longitude": -89.846226,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70130,
+    "latitude": 29.939504,
+    "longitude": -90.074122,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70131,
+    "latitude": 29.915873,
+    "longitude": -89.962403,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70139,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70140,
+    "latitude": 29.95612,
+    "longitude": -90.078312,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70141,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70142,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70143,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70145,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70146,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70148,
+    "latitude": 30.030902,
+    "longitude": -90.068022,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70149,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70150,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70151,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70152,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70153,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70154,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70156,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70157,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70158,
+    "latitude": 29.922905,
+    "longitude": -90.070922,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70159,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70160,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70161,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70162,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70163,
+    "latitude": 29.950659,
+    "longitude": -90.075121,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70164,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70165,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70166,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70167,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70170,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70172,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70174,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70175,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70176,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70177,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70178,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70179,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70181,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70182,
+    "latitude": 30.067646,
+    "longitude": -89.815993,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70183,
+    "latitude": 29.677893,
+    "longitude": -90.0901,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70184,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70185,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70186,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70187,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70189,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70190,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70195,
+    "latitude": 30.032997,
+    "longitude": -89.882564,
+    "city": "New Orleans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Orleans"
+  },
+  {
+    "zip_code": 70301,
+    "latitude": 29.640426,
+    "longitude": -90.599039,
+    "city": "Thibodaux",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70302,
+    "latitude": 29.458689,
+    "longitude": -90.502848,
+    "city": "Thibodaux",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70310,
+    "latitude": 29.803282,
+    "longitude": -90.816914,
+    "city": "Thibodaux",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70339,
+    "latitude": 29.947562,
+    "longitude": -91.188549,
+    "city": "Pierre Part",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70340,
+    "latitude": 29.688425,
+    "longitude": -91.220844,
+    "city": "Amelia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70341,
+    "latitude": 30.03307,
+    "longitude": -91.077279,
+    "city": "Belle Rose",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70342,
+    "latitude": 29.692879,
+    "longitude": -91.251811,
+    "city": "Berwick",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70343,
+    "latitude": 29.543768,
+    "longitude": -90.607587,
+    "city": "Bourg",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70344,
+    "latitude": 29.393661,
+    "longitude": -90.609142,
+    "city": "Chauvin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70345,
+    "latitude": 29.509589,
+    "longitude": -90.335128,
+    "city": "Cut Off",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70346,
+    "latitude": 30.159584,
+    "longitude": -90.967424,
+    "city": "Donaldsonville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70352,
+    "latitude": 29.696385,
+    "longitude": -90.944418,
+    "city": "Donner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70353,
+    "latitude": 29.369707,
+    "longitude": -90.712335,
+    "city": "Dulac",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70354,
+    "latitude": 29.437009,
+    "longitude": -90.304724,
+    "city": "Galliano",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70355,
+    "latitude": 29.64798,
+    "longitude": -90.48031,
+    "city": "Gheens",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70356,
+    "latitude": 29.654609,
+    "longitude": -90.912489,
+    "city": "Gibson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70357,
+    "latitude": 29.269324,
+    "longitude": -90.195917,
+    "city": "Golden Meadow",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70358,
+    "latitude": 29.227559,
+    "longitude": -90.018901,
+    "city": "Grand Isle",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 70359,
+    "latitude": 29.6936,
+    "longitude": -90.770768,
+    "city": "Gray",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70360,
+    "latitude": 29.6421,
+    "longitude": -90.852551,
+    "city": "Houma",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70361,
+    "latitude": 29.382117,
+    "longitude": -90.865568,
+    "city": "Houma",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70363,
+    "latitude": 29.561855,
+    "longitude": -90.752351,
+    "city": "Houma",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70364,
+    "latitude": 29.597188,
+    "longitude": -90.732776,
+    "city": "Houma",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70371,
+    "latitude": 29.865202,
+    "longitude": -90.596159,
+    "city": "Kraemer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70372,
+    "latitude": 29.917298,
+    "longitude": -90.985769,
+    "city": "Labadieville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70373,
+    "latitude": 29.520061,
+    "longitude": -90.347406,
+    "city": "Larose",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70374,
+    "latitude": 29.533839,
+    "longitude": -90.409864,
+    "city": "Lockport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70375,
+    "latitude": 29.693833,
+    "longitude": -90.549555,
+    "city": "Mathews",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70376,
+    "latitude": 30.204707,
+    "longitude": -90.869481,
+    "city": "Modeste",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70377,
+    "latitude": 29.456248,
+    "longitude": -90.524964,
+    "city": "Montegut",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70380,
+    "latitude": 29.697653,
+    "longitude": -91.265374,
+    "city": "Morgan City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70381,
+    "latitude": 29.694629,
+    "longitude": -91.259347,
+    "city": "Morgan City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70390,
+    "latitude": 29.908353,
+    "longitude": -91.064291,
+    "city": "Napoleonville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70391,
+    "latitude": 29.994968,
+    "longitude": -91.063485,
+    "city": "Paincourtville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70392,
+    "latitude": 29.751746,
+    "longitude": -91.383904,
+    "city": "Patterson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70393,
+    "latitude": 29.9974,
+    "longitude": -91.023196,
+    "city": "Plattenville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Assumption"
+  },
+  {
+    "zip_code": 70394,
+    "latitude": 29.683764,
+    "longitude": -90.627822,
+    "city": "Raceland",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafourche"
+  },
+  {
+    "zip_code": 70395,
+    "latitude": 29.691176,
+    "longitude": -90.863923,
+    "city": "Schriever",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70397,
+    "latitude": 29.396246,
+    "longitude": -90.78627,
+    "city": "Theriot",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Terrebonne"
+  },
+  {
+    "zip_code": 70401,
+    "latitude": 30.549037,
+    "longitude": -90.464466,
+    "city": "Hammond",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70402,
+    "latitude": 30.513982,
+    "longitude": -90.480403,
+    "city": "Hammond",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70403,
+    "latitude": 30.529506,
+    "longitude": -90.465499,
+    "city": "Hammond",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70404,
+    "latitude": 30.505061,
+    "longitude": -90.422504,
+    "city": "Hammond",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70420,
+    "latitude": 30.477483,
+    "longitude": -89.955328,
+    "city": "Abita Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70421,
+    "latitude": 30.612371,
+    "longitude": -90.405312,
+    "city": "Akers",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70422,
+    "latitude": 30.74483,
+    "longitude": -90.41058,
+    "city": "Amite",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70426,
+    "latitude": 30.915579,
+    "longitude": -89.882844,
+    "city": "Angie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70427,
+    "latitude": 30.791723,
+    "longitude": -90.044253,
+    "city": "Bogalusa",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70429,
+    "latitude": 30.83503,
+    "longitude": -90.037115,
+    "city": "Bogalusa",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70431,
+    "latitude": 30.549629,
+    "longitude": -90.030882,
+    "city": "Bush",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70433,
+    "latitude": 30.435893,
+    "longitude": -90.011991,
+    "city": "Covington",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70434,
+    "latitude": 30.492753,
+    "longitude": -90.125666,
+    "city": "Covington",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70435,
+    "latitude": 30.566088,
+    "longitude": -90.109823,
+    "city": "Covington",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70436,
+    "latitude": 30.819086,
+    "longitude": -90.532641,
+    "city": "Fluker",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70437,
+    "latitude": 30.593426,
+    "longitude": -90.144908,
+    "city": "Folsom",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70438,
+    "latitude": 30.840587,
+    "longitude": -90.120807,
+    "city": "Franklinton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70441,
+    "latitude": 30.657123,
+    "longitude": -90.651536,
+    "city": "Greensburg",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Helena"
+  },
+  {
+    "zip_code": 70442,
+    "latitude": 30.655912,
+    "longitude": -90.438581,
+    "city": "Husser",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70443,
+    "latitude": 30.651594,
+    "longitude": -90.491168,
+    "city": "Independence",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70444,
+    "latitude": 30.814466,
+    "longitude": -90.428043,
+    "city": "Kentwood",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70445,
+    "latitude": 30.386606,
+    "longitude": -89.900397,
+    "city": "Lacombe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70446,
+    "latitude": 30.635647,
+    "longitude": -90.361759,
+    "city": "Loranger",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70447,
+    "latitude": 30.389107,
+    "longitude": -90.001553,
+    "city": "Madisonville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70448,
+    "latitude": 30.37706,
+    "longitude": -89.977719,
+    "city": "Mandeville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70449,
+    "latitude": 30.342352,
+    "longitude": -90.685853,
+    "city": "Maurepas",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70450,
+    "latitude": 30.91821,
+    "longitude": -90.043651,
+    "city": "Mount Hermon",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70451,
+    "latitude": 30.531157,
+    "longitude": -90.475981,
+    "city": "Natalbany",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70452,
+    "latitude": 30.423603,
+    "longitude": -89.921823,
+    "city": "Pearl River",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70453,
+    "latitude": 30.676164,
+    "longitude": -90.80277,
+    "city": "Pine Grove",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Helena"
+  },
+  {
+    "zip_code": 70454,
+    "latitude": 30.467958,
+    "longitude": -90.393867,
+    "city": "Ponchatoula",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70455,
+    "latitude": 30.533384,
+    "longitude": -90.300373,
+    "city": "Robert",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70456,
+    "latitude": 30.654562,
+    "longitude": -90.501975,
+    "city": "Roseland",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70457,
+    "latitude": 30.42551,
+    "longitude": -89.881256,
+    "city": "Saint Benedict",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70458,
+    "latitude": 30.446993,
+    "longitude": -89.976592,
+    "city": "Slidell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70459,
+    "latitude": 30.42551,
+    "longitude": -89.881256,
+    "city": "Slidell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70460,
+    "latitude": 30.379561,
+    "longitude": -89.90975,
+    "city": "Slidell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70461,
+    "latitude": 30.24974,
+    "longitude": -89.712618,
+    "city": "Slidell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70462,
+    "latitude": 30.387413,
+    "longitude": -90.588723,
+    "city": "Springfield",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70463,
+    "latitude": 30.653805,
+    "longitude": -89.895502,
+    "city": "Sun",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70464,
+    "latitude": 30.534697,
+    "longitude": -89.885927,
+    "city": "Talisheek",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70465,
+    "latitude": 30.863873,
+    "longitude": -90.51295,
+    "city": "Tangipahoa",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70466,
+    "latitude": 30.572825,
+    "longitude": -90.439399,
+    "city": "Tickfaw",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tangipahoa"
+  },
+  {
+    "zip_code": 70467,
+    "latitude": 30.90169,
+    "longitude": -89.820725,
+    "city": "Angie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 70469,
+    "latitude": 30.42551,
+    "longitude": -89.881256,
+    "city": "Slidell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70470,
+    "latitude": 30.42551,
+    "longitude": -89.881256,
+    "city": "Mandeville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70471,
+    "latitude": 30.343159,
+    "longitude": -89.975815,
+    "city": "Mandeville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Tammany"
+  },
+  {
+    "zip_code": 70501,
+    "latitude": 30.232955,
+    "longitude": -92.066574,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70502,
+    "latitude": 30.319799,
+    "longitude": -92.026969,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70503,
+    "latitude": 30.202892,
+    "longitude": -92.059521,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70504,
+    "latitude": 30.21385,
+    "longitude": -92.01866,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70505,
+    "latitude": 30.202251,
+    "longitude": -92.01877,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70506,
+    "latitude": 30.176093,
+    "longitude": -92.066315,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70507,
+    "latitude": 30.2528,
+    "longitude": -92.038679,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70508,
+    "latitude": 30.181866,
+    "longitude": -92.026859,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70509,
+    "latitude": 30.156506,
+    "longitude": -92.000019,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70510,
+    "latitude": 29.946603,
+    "longitude": -92.241595,
+    "city": "Abbeville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70511,
+    "latitude": 30.032434,
+    "longitude": -92.176655,
+    "city": "Abbeville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70512,
+    "latitude": 30.474902,
+    "longitude": -91.967292,
+    "city": "Arnaudville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70513,
+    "latitude": 30.045066,
+    "longitude": -91.878675,
+    "city": "Avery Island",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70514,
+    "latitude": 29.846077,
+    "longitude": -91.545263,
+    "city": "Baldwin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70515,
+    "latitude": 30.67837,
+    "longitude": -92.519207,
+    "city": "Basile",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70516,
+    "latitude": 30.344615,
+    "longitude": -92.345888,
+    "city": "Branch",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70517,
+    "latitude": 30.240316,
+    "longitude": -91.828827,
+    "city": "Breaux Bridge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Martin"
+  },
+  {
+    "zip_code": 70518,
+    "latitude": 30.1606,
+    "longitude": -91.963869,
+    "city": "Broussard",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70519,
+    "latitude": 30.079692,
+    "longitude": -91.911387,
+    "city": "Cade",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Martin"
+  },
+  {
+    "zip_code": 70520,
+    "latitude": 30.238176,
+    "longitude": -92.047919,
+    "city": "Carencro",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70521,
+    "latitude": 30.344923,
+    "longitude": -91.854758,
+    "city": "Cecilia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Martin"
+  },
+  {
+    "zip_code": 70522,
+    "latitude": 29.75226,
+    "longitude": -91.439679,
+    "city": "Centerville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70523,
+    "latitude": 29.867131,
+    "longitude": -91.539372,
+    "city": "Charenton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70524,
+    "latitude": 30.575361,
+    "longitude": -92.287372,
+    "city": "Chataignier",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70525,
+    "latitude": 30.382556,
+    "longitude": -92.318696,
+    "city": "Church Point",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70526,
+    "latitude": 30.228294,
+    "longitude": -92.438484,
+    "city": "Crowley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70527,
+    "latitude": 30.228409,
+    "longitude": -92.301795,
+    "city": "Crowley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70528,
+    "latitude": 29.984693,
+    "longitude": -91.987226,
+    "city": "Delcambre",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70529,
+    "latitude": 30.187978,
+    "longitude": -92.168953,
+    "city": "Duson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70531,
+    "latitude": 30.256951,
+    "longitude": -92.486465,
+    "city": "Egan",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70532,
+    "latitude": 30.426249,
+    "longitude": -92.71368,
+    "city": "Elton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70533,
+    "latitude": 29.947394,
+    "longitude": -92.045277,
+    "city": "Erath",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70534,
+    "latitude": 30.184157,
+    "longitude": -92.447152,
+    "city": "Estherwood",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70535,
+    "latitude": 30.507236,
+    "longitude": -92.210855,
+    "city": "Eunice",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70537,
+    "latitude": 30.203238,
+    "longitude": -92.471305,
+    "city": "Evangeline",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70538,
+    "latitude": 29.720652,
+    "longitude": -91.540902,
+    "city": "Franklin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70540,
+    "latitude": 29.76327,
+    "longitude": -91.466962,
+    "city": "Garden City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Mary"
+  },
+  {
+    "zip_code": 70541,
+    "latitude": 30.417402,
+    "longitude": -92.031178,
+    "city": "Grand Coteau",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70542,
+    "latitude": 30.010373,
+    "longitude": -92.560894,
+    "city": "Gueydan",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70543,
+    "latitude": 30.299682,
+    "longitude": -92.469182,
+    "city": "Iota",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70544,
+    "latitude": 29.936497,
+    "longitude": -91.724248,
+    "city": "Jeanerette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70546,
+    "latitude": 30.259096,
+    "longitude": -92.69411,
+    "city": "Jennings",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70548,
+    "latitude": 29.875194,
+    "longitude": -92.315721,
+    "city": "Kaplan",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70549,
+    "latitude": 30.260341,
+    "longitude": -92.781945,
+    "city": "Lake Arthur",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70550,
+    "latitude": 30.543842,
+    "longitude": -92.160849,
+    "city": "Lawtell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70551,
+    "latitude": 30.475194,
+    "longitude": -91.973736,
+    "city": "Leonville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70552,
+    "latitude": 30.052016,
+    "longitude": -91.683294,
+    "city": "Loreauville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70554,
+    "latitude": 30.714716,
+    "longitude": -92.425103,
+    "city": "Mamou",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70555,
+    "latitude": 30.074655,
+    "longitude": -92.147849,
+    "city": "Maurice",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70556,
+    "latitude": 30.186145,
+    "longitude": -92.572176,
+    "city": "Mermentau",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70558,
+    "latitude": 30.098819,
+    "longitude": -92.064797,
+    "city": "Milton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70559,
+    "latitude": 30.129756,
+    "longitude": -92.476684,
+    "city": "Morse",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70560,
+    "latitude": 29.949527,
+    "longitude": -91.832747,
+    "city": "New Iberia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70562,
+    "latitude": 29.739932,
+    "longitude": -91.6331,
+    "city": "New Iberia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70563,
+    "latitude": 30.024515,
+    "longitude": -91.749604,
+    "city": "New Iberia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70569,
+    "latitude": 29.909643,
+    "longitude": -91.812552,
+    "city": "Lydia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberia"
+  },
+  {
+    "zip_code": 70570,
+    "latitude": 30.529765,
+    "longitude": -92.00983,
+    "city": "Opelousas",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70571,
+    "latitude": 30.57445,
+    "longitude": -92.086077,
+    "city": "Opelousas",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70575,
+    "latitude": 29.866543,
+    "longitude": -92.158982,
+    "city": "Perry",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 70576,
+    "latitude": 30.756671,
+    "longitude": -92.411722,
+    "city": "Pine Prairie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70577,
+    "latitude": 30.544276,
+    "longitude": -91.918924,
+    "city": "Port Barre",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70578,
+    "latitude": 30.256405,
+    "longitude": -92.261328,
+    "city": "Rayne",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Acadia"
+  },
+  {
+    "zip_code": 70580,
+    "latitude": 30.700768,
+    "longitude": -92.421915,
+    "city": "Reddell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70581,
+    "latitude": 30.246362,
+    "longitude": -92.742134,
+    "city": "Roanoke",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70582,
+    "latitude": 30.223672,
+    "longitude": -91.779374,
+    "city": "Saint Martinville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Martin"
+  },
+  {
+    "zip_code": 70583,
+    "latitude": 30.273,
+    "longitude": -92.100669,
+    "city": "Scott",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70584,
+    "latitude": 30.471399,
+    "longitude": -92.065702,
+    "city": "Sunset",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70585,
+    "latitude": 30.901424,
+    "longitude": -92.430522,
+    "city": "Turkey Creek",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70586,
+    "latitude": 30.724974,
+    "longitude": -92.386968,
+    "city": "Ville Platte",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 70589,
+    "latitude": 30.694115,
+    "longitude": -92.048517,
+    "city": "Washington",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70591,
+    "latitude": 30.294276,
+    "longitude": -92.833656,
+    "city": "Welsh",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70592,
+    "latitude": 30.14033,
+    "longitude": -92.022573,
+    "city": "Youngsville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70593,
+    "latitude": 30.20812,
+    "longitude": -92.095109,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70596,
+    "latitude": 30.20812,
+    "longitude": -92.095109,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70598,
+    "latitude": 30.20812,
+    "longitude": -92.095109,
+    "city": "Lafayette",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 70601,
+    "latitude": 30.233355,
+    "longitude": -93.214903,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70602,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70605,
+    "latitude": 30.130378,
+    "longitude": -93.245056,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70606,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70607,
+    "latitude": 30.124378,
+    "longitude": -93.183478,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70609,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70611,
+    "latitude": 30.335834,
+    "longitude": -93.204847,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70612,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70615,
+    "latitude": 30.258498,
+    "longitude": -93.114623,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70616,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70629,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Lake Charles",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70630,
+    "latitude": 30.105386,
+    "longitude": -93.037173,
+    "city": "Bell City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70631,
+    "latitude": 29.791099,
+    "longitude": -93.437979,
+    "city": "Cameron",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 70632,
+    "latitude": 29.807493,
+    "longitude": -93.051554,
+    "city": "Creole",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 70633,
+    "latitude": 30.358944,
+    "longitude": -93.268731,
+    "city": "Dequincy",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70634,
+    "latitude": 30.651656,
+    "longitude": -93.299574,
+    "city": "Deridder",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70637,
+    "latitude": 30.743467,
+    "longitude": -93.020236,
+    "city": "Dry Creek",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70638,
+    "latitude": 30.818176,
+    "longitude": -92.758262,
+    "city": "Elizabeth",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70639,
+    "latitude": 30.96842,
+    "longitude": -93.520348,
+    "city": "Evans",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 70640,
+    "latitude": 30.35502,
+    "longitude": -92.946269,
+    "city": "Fenton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70642,
+    "latitude": 31.111979,
+    "longitude": -93.200936,
+    "city": "Fullerton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 70643,
+    "latitude": 29.764417,
+    "longitude": -92.926076,
+    "city": "Grand Chenier",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 70644,
+    "latitude": 30.770681,
+    "longitude": -92.933723,
+    "city": "Grant",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70645,
+    "latitude": 29.897443,
+    "longitude": -93.368241,
+    "city": "Hackberry",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 70646,
+    "latitude": 30.11138,
+    "longitude": -92.945098,
+    "city": "Hayes",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70647,
+    "latitude": 30.239624,
+    "longitude": -93.033305,
+    "city": "Iowa",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70648,
+    "latitude": 30.578402,
+    "longitude": -92.928777,
+    "city": "Kinder",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70650,
+    "latitude": 30.261021,
+    "longitude": -92.877409,
+    "city": "Lacassine",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jefferson Davis"
+  },
+  {
+    "zip_code": 70651,
+    "latitude": 30.512276,
+    "longitude": -92.980987,
+    "city": "Leblanc",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70652,
+    "latitude": 30.585628,
+    "longitude": -93.223551,
+    "city": "Longville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70653,
+    "latitude": 30.682899,
+    "longitude": -93.441983,
+    "city": "Merryville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70654,
+    "latitude": 30.703476,
+    "longitude": -92.906757,
+    "city": "Mittie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70655,
+    "latitude": 30.644704,
+    "longitude": -92.763802,
+    "city": "Oberlin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70656,
+    "latitude": 30.987139,
+    "longitude": -93.046679,
+    "city": "Pitkin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 70657,
+    "latitude": 30.528185,
+    "longitude": -93.148903,
+    "city": "Ragley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70658,
+    "latitude": 30.511148,
+    "longitude": -93.036823,
+    "city": "Reeves",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 70659,
+    "latitude": 30.923606,
+    "longitude": -93.195312,
+    "city": "Rosepine",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 70660,
+    "latitude": 30.593966,
+    "longitude": -93.369139,
+    "city": "Singer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70661,
+    "latitude": 30.312173,
+    "longitude": -93.643003,
+    "city": "Starks",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70662,
+    "latitude": 30.803752,
+    "longitude": -93.010616,
+    "city": "Sugartown",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Beauregard"
+  },
+  {
+    "zip_code": 70663,
+    "latitude": 30.300185,
+    "longitude": -93.435063,
+    "city": "Sulphur",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70664,
+    "latitude": 30.264232,
+    "longitude": -93.326527,
+    "city": "Sulphur",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70665,
+    "latitude": 30.200948,
+    "longitude": -93.443701,
+    "city": "Sulphur",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70668,
+    "latitude": 30.208206,
+    "longitude": -93.583787,
+    "city": "Vinton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70669,
+    "latitude": 30.240705,
+    "longitude": -93.275454,
+    "city": "Westlake",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Calcasieu"
+  },
+  {
+    "zip_code": 70704,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baker",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70706,
+    "latitude": 30.570887,
+    "longitude": -90.877022,
+    "city": "Denham Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70707,
+    "latitude": 30.204707,
+    "longitude": -90.869481,
+    "city": "Gonzales",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70710,
+    "latitude": 30.362992,
+    "longitude": -91.263088,
+    "city": "Addis",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Baton Rouge"
+  },
+  {
+    "zip_code": 70711,
+    "latitude": 30.527008,
+    "longitude": -90.742229,
+    "city": "Albany",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70712,
+    "latitude": 30.97337,
+    "longitude": -91.538682,
+    "city": "Angola",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Feliciana"
+  },
+  {
+    "zip_code": 70714,
+    "latitude": 30.578637,
+    "longitude": -91.126275,
+    "city": "Baker",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70715,
+    "latitude": 30.829754,
+    "longitude": -91.694354,
+    "city": "Batchelor",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70716,
+    "latitude": 30.261384,
+    "longitude": -91.36026,
+    "city": "Bayou Goula",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70717,
+    "latitude": 30.566266,
+    "longitude": -91.58857,
+    "city": "Blanks",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70718,
+    "latitude": 30.201004,
+    "longitude": -90.868876,
+    "city": "Brittany",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70719,
+    "latitude": 30.390091,
+    "longitude": -91.273501,
+    "city": "Brusly",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Baton Rouge"
+  },
+  {
+    "zip_code": 70720,
+    "latitude": 30.596789,
+    "longitude": -91.339546,
+    "city": "Bueche",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Baton Rouge"
+  },
+  {
+    "zip_code": 70721,
+    "latitude": 30.232366,
+    "longitude": -91.104709,
+    "city": "Carville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70722,
+    "latitude": 30.842734,
+    "longitude": -90.960294,
+    "city": "Clinton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70723,
+    "latitude": 30.051774,
+    "longitude": -90.858531,
+    "city": "Convent",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70725,
+    "latitude": 30.134188,
+    "longitude": -90.963042,
+    "city": "Darrow",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70726,
+    "latitude": 30.459026,
+    "longitude": -90.902723,
+    "city": "Denham Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70727,
+    "latitude": 30.337495,
+    "longitude": -90.843449,
+    "city": "Denham Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70728,
+    "latitude": 30.295446,
+    "longitude": -90.945836,
+    "city": "Duplessis",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70729,
+    "latitude": 30.551335,
+    "longitude": -91.394396,
+    "city": "Erwinville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Baton Rouge"
+  },
+  {
+    "zip_code": 70730,
+    "latitude": 30.828705,
+    "longitude": -91.124098,
+    "city": "Ethel",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70732,
+    "latitude": 30.657644,
+    "longitude": -91.626406,
+    "city": "Fordoche",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70733,
+    "latitude": 30.30657,
+    "longitude": -90.779704,
+    "city": "French Settlement",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70734,
+    "latitude": 30.205118,
+    "longitude": -90.992636,
+    "city": "Geismar",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70736,
+    "latitude": 30.643098,
+    "longitude": -91.32916,
+    "city": "Glynn",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70737,
+    "latitude": 30.219419,
+    "longitude": -90.9248,
+    "city": "Gonzales",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70738,
+    "latitude": 30.204707,
+    "longitude": -90.869481,
+    "city": "Burnside",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70739,
+    "latitude": 30.574145,
+    "longitude": -90.963516,
+    "city": "Greenwell Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70740,
+    "latitude": 30.371497,
+    "longitude": -91.412678,
+    "city": "Grosse Tete",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70743,
+    "latitude": 30.020595,
+    "longitude": -90.781355,
+    "city": "Hester",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70744,
+    "latitude": 30.507099,
+    "longitude": -90.696724,
+    "city": "Holden",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70747,
+    "latitude": 30.902018,
+    "longitude": -91.71085,
+    "city": "Innis",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70748,
+    "latitude": 30.808675,
+    "longitude": -91.198736,
+    "city": "Jackson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70749,
+    "latitude": 30.630136,
+    "longitude": -91.411031,
+    "city": "Jarreau",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70750,
+    "latitude": 30.525441,
+    "longitude": -91.907178,
+    "city": "Krotz Springs",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 70751,
+    "latitude": 30.7513,
+    "longitude": -91.566273,
+    "city": "Labarre",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70752,
+    "latitude": 30.575993,
+    "longitude": -91.446813,
+    "city": "Lakeland",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70753,
+    "latitude": 30.936504,
+    "longitude": -91.73539,
+    "city": "Lettsworth",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70754,
+    "latitude": 30.407207,
+    "longitude": -90.743125,
+    "city": "Livingston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70755,
+    "latitude": 30.574555,
+    "longitude": -91.548373,
+    "city": "Livonia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70756,
+    "latitude": 30.572542,
+    "longitude": -91.628222,
+    "city": "Lottie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70757,
+    "latitude": 30.435891,
+    "longitude": -91.490655,
+    "city": "Maringouin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70759,
+    "latitude": 30.778438,
+    "longitude": -91.651669,
+    "city": "Morganza",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70760,
+    "latitude": 30.687199,
+    "longitude": -91.500474,
+    "city": "New Roads",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70761,
+    "latitude": 30.959067,
+    "longitude": -91.024752,
+    "city": "Norwood",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70762,
+    "latitude": 30.616102,
+    "longitude": -91.456649,
+    "city": "Oscar",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70763,
+    "latitude": 30.041815,
+    "longitude": -90.743705,
+    "city": "Paulina",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70764,
+    "latitude": 30.215233,
+    "longitude": -91.267904,
+    "city": "Plaquemine",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70765,
+    "latitude": 30.261384,
+    "longitude": -91.36026,
+    "city": "Plaquemine",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70767,
+    "latitude": 30.494882,
+    "longitude": -91.309262,
+    "city": "Port Allen",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Baton Rouge"
+  },
+  {
+    "zip_code": 70769,
+    "latitude": 30.287275,
+    "longitude": -90.926014,
+    "city": "Prairieville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  }
+]

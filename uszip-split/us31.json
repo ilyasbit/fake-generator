@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 81236,
+    "latitude": 38.747896,
+    "longitude": -106.251196,
+    "city": "Nathrop",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81237,
+    "latitude": 38.590788,
+    "longitude": -106.602838,
+    "city": "Ohio City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81239,
+    "latitude": 38.537083,
+    "longitude": -106.635214,
+    "city": "Parlin",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81240,
+    "latitude": 38.414125,
+    "longitude": -105.047277,
+    "city": "Penrose",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81241,
+    "latitude": 38.589072,
+    "longitude": -106.570985,
+    "city": "Pitkin",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81242,
+    "latitude": 38.471892,
+    "longitude": -106.097284,
+    "city": "Poncha Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81243,
+    "latitude": 38.270602,
+    "longitude": -107.302888,
+    "city": "Powderhorn",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81244,
+    "latitude": 38.336184,
+    "longitude": -105.22114,
+    "city": "Rockvale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81246,
+    "latitude": 38.477563,
+    "longitude": -105.476577,
+    "city": "Canon City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81247,
+    "latitude": 38.457513,
+    "longitude": -107.292081,
+    "city": "Gunnison",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81248,
+    "latitude": 38.403295,
+    "longitude": -106.416083,
+    "city": "Sargents",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81251,
+    "latitude": 39.151466,
+    "longitude": -106.422616,
+    "city": "Twin Lakes",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 81252,
+    "latitude": 38.095173,
+    "longitude": -105.421953,
+    "city": "Westcliffe",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 81253,
+    "latitude": 38.121657,
+    "longitude": -105.14766,
+    "city": "Wetmore",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 81290,
+    "latitude": 38.358421,
+    "longitude": -105.106881,
+    "city": "Florence",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81301,
+    "latitude": 37.318364,
+    "longitude": -107.880367,
+    "city": "Durango",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81302,
+    "latitude": 37.357249,
+    "longitude": -107.935945,
+    "city": "Durango",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81303,
+    "latitude": 37.133408,
+    "longitude": -107.843803,
+    "city": "Durango",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81320,
+    "latitude": 37.718233,
+    "longitude": -108.791671,
+    "city": "Cahone",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Dolores"
+  },
+  {
+    "zip_code": 81321,
+    "latitude": 37.373594,
+    "longitude": -108.662826,
+    "city": "Cortez",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81323,
+    "latitude": 37.469333,
+    "longitude": -108.35245,
+    "city": "Dolores",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81324,
+    "latitude": 37.711532,
+    "longitude": -108.924334,
+    "city": "Dove Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Dolores"
+  },
+  {
+    "zip_code": 81325,
+    "latitude": 37.929371,
+    "longitude": -108.846067,
+    "city": "Egnar",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Miguel"
+  },
+  {
+    "zip_code": 81326,
+    "latitude": 37.205423,
+    "longitude": -108.138519,
+    "city": "Hesperus",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81327,
+    "latitude": 37.458047,
+    "longitude": -108.655638,
+    "city": "Lewis",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81328,
+    "latitude": 37.336041,
+    "longitude": -108.468364,
+    "city": "Mancos",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81329,
+    "latitude": 37.092605,
+    "longitude": -108.125194,
+    "city": "Marvel",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81330,
+    "latitude": 37.319207,
+    "longitude": -108.509012,
+    "city": "Mesa Verde National Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81331,
+    "latitude": 37.551564,
+    "longitude": -108.829926,
+    "city": "Pleasant View",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81332,
+    "latitude": 37.690498,
+    "longitude": -108.03241,
+    "city": "Rico",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Dolores"
+  },
+  {
+    "zip_code": 81334,
+    "latitude": 37.319207,
+    "longitude": -108.509012,
+    "city": "Towaoc",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81335,
+    "latitude": 37.508114,
+    "longitude": -108.744007,
+    "city": "Yellow Jacket",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montezuma"
+  },
+  {
+    "zip_code": 81401,
+    "latitude": 38.443069,
+    "longitude": -108.050689,
+    "city": "Montrose",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81402,
+    "latitude": 38.485093,
+    "longitude": -107.885975,
+    "city": "Montrose",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81410,
+    "latitude": 38.805013,
+    "longitude": -107.983125,
+    "city": "Austin",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81411,
+    "latitude": 38.34867,
+    "longitude": -108.937369,
+    "city": "Bedrock",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81413,
+    "latitude": 38.881646,
+    "longitude": -107.795704,
+    "city": "Cedaredge",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81414,
+    "latitude": 38.788697,
+    "longitude": -107.986174,
+    "city": "Cory",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81415,
+    "latitude": 38.767652,
+    "longitude": -107.63089,
+    "city": "Crawford",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81416,
+    "latitude": 38.785768,
+    "longitude": -107.97078,
+    "city": "Delta",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81418,
+    "latitude": 38.87534,
+    "longitude": -107.961178,
+    "city": "Eckert",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81419,
+    "latitude": 38.859973,
+    "longitude": -107.752349,
+    "city": "Hotchkiss",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81420,
+    "latitude": 38.781745,
+    "longitude": -107.780778,
+    "city": "Lazear",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81421,
+    "latitude": 38.942927,
+    "longitude": -107.939831,
+    "city": "Maher",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81422,
+    "latitude": 38.269387,
+    "longitude": -108.574539,
+    "city": "Naturita",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81423,
+    "latitude": 38.028899,
+    "longitude": -108.316049,
+    "city": "Norwood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Miguel"
+  },
+  {
+    "zip_code": 81424,
+    "latitude": 38.310689,
+    "longitude": -108.57669,
+    "city": "Nucla",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81425,
+    "latitude": 38.497566,
+    "longitude": -108.078623,
+    "city": "Olathe",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81426,
+    "latitude": 37.843026,
+    "longitude": -107.86454,
+    "city": "Ophir",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Miguel"
+  },
+  {
+    "zip_code": 81427,
+    "latitude": 38.087654,
+    "longitude": -107.728712,
+    "city": "Ouray",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Ouray"
+  },
+  {
+    "zip_code": 81428,
+    "latitude": 38.877198,
+    "longitude": -107.609167,
+    "city": "Paonia",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 81429,
+    "latitude": 38.371101,
+    "longitude": -108.969823,
+    "city": "Paradox",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81430,
+    "latitude": 38.059321,
+    "longitude": -107.990438,
+    "city": "Placerville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Miguel"
+  },
+  {
+    "zip_code": 81431,
+    "latitude": 38.192224,
+    "longitude": -108.415514,
+    "city": "Redvale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81432,
+    "latitude": 38.177464,
+    "longitude": -107.72736,
+    "city": "Ridgway",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Ouray"
+  },
+  {
+    "zip_code": 81433,
+    "latitude": 37.848391,
+    "longitude": -107.680381,
+    "city": "Silverton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 81434,
+    "latitude": 38.988409,
+    "longitude": -107.231438,
+    "city": "Somerset",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81435,
+    "latitude": 37.983589,
+    "longitude": -107.956606,
+    "city": "Telluride",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "San Miguel"
+  },
+  {
+    "zip_code": 81501,
+    "latitude": 39.069019,
+    "longitude": -108.583126,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81502,
+    "latitude": 39.017876,
+    "longitude": -108.481354,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81503,
+    "latitude": 39.013584,
+    "longitude": -108.591229,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81504,
+    "latitude": 39.123554,
+    "longitude": -108.589414,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81505,
+    "latitude": 39.14657,
+    "longitude": -108.626481,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81506,
+    "latitude": 39.089167,
+    "longitude": -108.566523,
+    "city": "Grand Junction",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81520,
+    "latitude": 39.08246,
+    "longitude": -108.404055,
+    "city": "Clifton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81521,
+    "latitude": 39.149614,
+    "longitude": -108.685164,
+    "city": "Fruita",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81522,
+    "latitude": 38.678448,
+    "longitude": -108.971863,
+    "city": "Gateway",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81523,
+    "latitude": 38.989416,
+    "longitude": -108.78097,
+    "city": "Glade Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81524,
+    "latitude": 39.256425,
+    "longitude": -108.78446,
+    "city": "Loma",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81525,
+    "latitude": 39.246379,
+    "longitude": -108.933957,
+    "city": "Mack",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81526,
+    "latitude": 39.095369,
+    "longitude": -108.299254,
+    "city": "Palisade",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81527,
+    "latitude": 38.814573,
+    "longitude": -108.604695,
+    "city": "Whitewater",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81601,
+    "latitude": 39.500281,
+    "longitude": -107.585235,
+    "city": "Glenwood Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81602,
+    "latitude": 39.511742,
+    "longitude": -107.325336,
+    "city": "Glenwood Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81610,
+    "latitude": 40.36715,
+    "longitude": -108.277407,
+    "city": "Dinosaur",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81611,
+    "latitude": 39.169324,
+    "longitude": -106.776744,
+    "city": "Aspen",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81612,
+    "latitude": 39.223416,
+    "longitude": -106.882774,
+    "city": "Aspen",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81615,
+    "latitude": 39.206518,
+    "longitude": -106.868877,
+    "city": "Snowmass Village",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81620,
+    "latitude": 39.631349,
+    "longitude": -106.510843,
+    "city": "Avon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81621,
+    "latitude": 39.495223,
+    "longitude": -106.804842,
+    "city": "Basalt",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81623,
+    "latitude": 39.476857,
+    "longitude": -107.38813,
+    "city": "Carbondale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81624,
+    "latitude": 39.205633,
+    "longitude": -107.929135,
+    "city": "Collbran",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81625,
+    "latitude": 40.612421,
+    "longitude": -108.009784,
+    "city": "Craig",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81626,
+    "latitude": 40.667669,
+    "longitude": -107.783276,
+    "city": "Craig",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81630,
+    "latitude": 39.292409,
+    "longitude": -108.210688,
+    "city": "De Beque",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81631,
+    "latitude": 39.607401,
+    "longitude": -106.805111,
+    "city": "Eagle",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81632,
+    "latitude": 39.638166,
+    "longitude": -106.620644,
+    "city": "Edwards",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81633,
+    "latitude": 40.377031,
+    "longitude": -108.398991,
+    "city": "Dinosaur",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81635,
+    "latitude": 39.458498,
+    "longitude": -107.878874,
+    "city": "Parachute",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81636,
+    "latitude": 39.430535,
+    "longitude": -108.023924,
+    "city": "Battlement Mesa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81637,
+    "latitude": 39.615505,
+    "longitude": -106.895722,
+    "city": "Gypsum",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81638,
+    "latitude": 40.297591,
+    "longitude": -107.665731,
+    "city": "Hamilton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81639,
+    "latitude": 40.438195,
+    "longitude": -107.277181,
+    "city": "Hayden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 81640,
+    "latitude": 40.673756,
+    "longitude": -108.369943,
+    "city": "Maybell",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81641,
+    "latitude": 39.967864,
+    "longitude": -108.043592,
+    "city": "Meeker",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Blanco"
+  },
+  {
+    "zip_code": 81642,
+    "latitude": 39.294737,
+    "longitude": -106.715287,
+    "city": "Meredith",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81643,
+    "latitude": 39.14932,
+    "longitude": -108.169723,
+    "city": "Mesa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81645,
+    "latitude": 39.580461,
+    "longitude": -106.417574,
+    "city": "Minturn",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81646,
+    "latitude": 39.165152,
+    "longitude": -108.076508,
+    "city": "Molina",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mesa"
+  },
+  {
+    "zip_code": 81647,
+    "latitude": 39.597433,
+    "longitude": -107.566159,
+    "city": "New Castle",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81648,
+    "latitude": 39.936331,
+    "longitude": -108.650793,
+    "city": "Rangely",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Blanco"
+  },
+  {
+    "zip_code": 81649,
+    "latitude": 39.458351,
+    "longitude": -106.385056,
+    "city": "Red Cliff",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81650,
+    "latitude": 39.582273,
+    "longitude": -107.794723,
+    "city": "Rifle",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81652,
+    "latitude": 39.502817,
+    "longitude": -107.665664,
+    "city": "Silt",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 81653,
+    "latitude": 40.997896,
+    "longitude": -107.33877,
+    "city": "Slater",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Moffat"
+  },
+  {
+    "zip_code": 81654,
+    "latitude": 39.251721,
+    "longitude": -106.922425,
+    "city": "Snowmass",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81655,
+    "latitude": 39.79073,
+    "longitude": -106.696372,
+    "city": "Wolcott",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81656,
+    "latitude": 39.283116,
+    "longitude": -106.898514,
+    "city": "Woody Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pitkin"
+  },
+  {
+    "zip_code": 81657,
+    "latitude": 39.5824,
+    "longitude": -106.44873,
+    "city": "Vail",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 81658,
+    "latitude": 39.624171,
+    "longitude": -106.497314,
+    "city": "Vail",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 82001,
+    "latitude": 41.25173,
+    "longitude": -104.56264,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82002,
+    "latitude": 41.327351,
+    "longitude": -104.666365,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82003,
+    "latitude": 41.219107,
+    "longitude": -104.661244,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82005,
+    "latitude": 41.139057,
+    "longitude": -104.862947,
+    "city": "Fe Warren Afb",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82006,
+    "latitude": 41.327351,
+    "longitude": -104.666365,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82007,
+    "latitude": 41.209351,
+    "longitude": -104.666476,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82008,
+    "latitude": 41.327351,
+    "longitude": -104.666365,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82009,
+    "latitude": 41.377698,
+    "longitude": -104.660353,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82010,
+    "latitude": 41.327351,
+    "longitude": -104.666365,
+    "city": "Cheyenne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82050,
+    "latitude": 41.335468,
+    "longitude": -104.249495,
+    "city": "Albin",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82051,
+    "latitude": 41.464065,
+    "longitude": -105.676771,
+    "city": "Bosler",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82052,
+    "latitude": 41.110146,
+    "longitude": -105.325712,
+    "city": "Buford",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82053,
+    "latitude": 41.235922,
+    "longitude": -104.378477,
+    "city": "Burns",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82054,
+    "latitude": 41.097376,
+    "longitude": -104.356347,
+    "city": "Carpenter",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82055,
+    "latitude": 41.311739,
+    "longitude": -105.847938,
+    "city": "Centennial",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82058,
+    "latitude": 42.203504,
+    "longitude": -105.677952,
+    "city": "Garrett",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82059,
+    "latitude": 41.047337,
+    "longitude": -105.151706,
+    "city": "Granite Canon",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82060,
+    "latitude": 41.213557,
+    "longitude": -104.493307,
+    "city": "Hillsdale",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82061,
+    "latitude": 41.435318,
+    "longitude": -105.141679,
+    "city": "Horse Creek",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82063,
+    "latitude": 41.053927,
+    "longitude": -106.076251,
+    "city": "Jelm",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82070,
+    "latitude": 41.43902,
+    "longitude": -105.801022,
+    "city": "Laramie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82071,
+    "latitude": 41.715061,
+    "longitude": -105.797388,
+    "city": "Laramie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82072,
+    "latitude": 41.582018,
+    "longitude": -105.708717,
+    "city": "Laramie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82073,
+    "latitude": 41.307065,
+    "longitude": -105.624667,
+    "city": "Laramie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82081,
+    "latitude": 41.513944,
+    "longitude": -104.441122,
+    "city": "Meriden",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82082,
+    "latitude": 41.277286,
+    "longitude": -104.205462,
+    "city": "Pine Bluffs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Laramie"
+  },
+  {
+    "zip_code": 82083,
+    "latitude": 42.023074,
+    "longitude": -105.51461,
+    "city": "Rock River",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82084,
+    "latitude": 41.271207,
+    "longitude": -105.486538,
+    "city": "Tie Siding",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Albany"
+  },
+  {
+    "zip_code": 82190,
+    "latitude": 44.795733,
+    "longitude": -110.613731,
+    "city": "Yellowstone National Park",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82201,
+    "latitude": 42.013984,
+    "longitude": -104.967405,
+    "city": "Wheatland",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 82210,
+    "latitude": 41.74064,
+    "longitude": -104.871308,
+    "city": "Chugwater",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 82212,
+    "latitude": 42.213334,
+    "longitude": -104.518529,
+    "city": "Fort Laramie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82213,
+    "latitude": 42.481824,
+    "longitude": -104.980954,
+    "city": "Glendo",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 82214,
+    "latitude": 42.256819,
+    "longitude": -104.786912,
+    "city": "Guernsey",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 82215,
+    "latitude": 42.321218,
+    "longitude": -104.722426,
+    "city": "Hartville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 82217,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Hawk Springs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82218,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Huntley",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82219,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Jay Em",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82221,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Lagrange",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82222,
+    "latitude": 43.152195,
+    "longitude": -104.59198,
+    "city": "Lance Creek",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Niobrara"
+  },
+  {
+    "zip_code": 82223,
+    "latitude": 42.137939,
+    "longitude": -104.351273,
+    "city": "Lingle",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82224,
+    "latitude": 42.987443,
+    "longitude": -104.919086,
+    "city": "Lost Springs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Converse"
+  },
+  {
+    "zip_code": 82225,
+    "latitude": 42.964197,
+    "longitude": -104.385106,
+    "city": "Lusk",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Niobrara"
+  },
+  {
+    "zip_code": 82227,
+    "latitude": 42.73001,
+    "longitude": -104.702397,
+    "city": "Manville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Niobrara"
+  },
+  {
+    "zip_code": 82229,
+    "latitude": 42.787675,
+    "longitude": -105.063337,
+    "city": "Shawnee",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Converse"
+  },
+  {
+    "zip_code": 82240,
+    "latitude": 42.072314,
+    "longitude": -104.187474,
+    "city": "Torrington",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82242,
+    "latitude": 42.703263,
+    "longitude": -104.140785,
+    "city": "Van Tassell",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Niobrara"
+  },
+  {
+    "zip_code": 82243,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Veteran",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82244,
+    "latitude": 42.088115,
+    "longitude": -104.354049,
+    "city": "Yoder",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Goshen"
+  },
+  {
+    "zip_code": 82301,
+    "latitude": 41.538075,
+    "longitude": -106.921959,
+    "city": "Rawlins",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82310,
+    "latitude": 42.472474,
+    "longitude": -107.760978,
+    "city": "Jeffrey City",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82321,
+    "latitude": 41.025579,
+    "longitude": -107.569976,
+    "city": "Baggs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82322,
+    "latitude": 42.239404,
+    "longitude": -107.558882,
+    "city": "Bairoil",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82323,
+    "latitude": 41.031513,
+    "longitude": -107.642891,
+    "city": "Dixon",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82324,
+    "latitude": 41.687359,
+    "longitude": -106.414629,
+    "city": "Elk Mountain",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82325,
+    "latitude": 41.224462,
+    "longitude": -106.790506,
+    "city": "Encampment",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82327,
+    "latitude": 41.869647,
+    "longitude": -106.552216,
+    "city": "Hanna",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82329,
+    "latitude": 41.834011,
+    "longitude": -106.180829,
+    "city": "Medicine Bow",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82331,
+    "latitude": 41.497994,
+    "longitude": -106.753979,
+    "city": "Saratoga",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82332,
+    "latitude": 41.027293,
+    "longitude": -107.634563,
+    "city": "Savery",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82334,
+    "latitude": 41.780239,
+    "longitude": -107.117226,
+    "city": "Sinclair",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82335,
+    "latitude": 41.71694,
+    "longitude": -106.999195,
+    "city": "Walcott",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82336,
+    "latitude": 41.853191,
+    "longitude": -107.851852,
+    "city": "Wamsutter",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82401,
+    "latitude": 44.008105,
+    "longitude": -108.141457,
+    "city": "Worland",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Washakie"
+  },
+  {
+    "zip_code": 82410,
+    "latitude": 44.346935,
+    "longitude": -108.165824,
+    "city": "Basin",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82411,
+    "latitude": 44.436282,
+    "longitude": -108.470326,
+    "city": "Burlington",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82412,
+    "latitude": 44.784396,
+    "longitude": -108.543965,
+    "city": "Byron",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82414,
+    "latitude": 44.541637,
+    "longitude": -109.436585,
+    "city": "Cody",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82420,
+    "latitude": 44.884137,
+    "longitude": -108.463779,
+    "city": "Cowley",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82421,
+    "latitude": 44.702955,
+    "longitude": -108.335432,
+    "city": "Deaver",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82422,
+    "latitude": 44.583633,
+    "longitude": -107.883519,
+    "city": "Emblem",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82423,
+    "latitude": 44.971811,
+    "longitude": -108.622097,
+    "city": "Frannie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82426,
+    "latitude": 44.477394,
+    "longitude": -108.130553,
+    "city": "Greybull",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82427,
+    "latitude": 43.76976,
+    "longitude": -108.454106,
+    "city": "Hamilton Dome",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Hot Springs"
+  },
+  {
+    "zip_code": 82428,
+    "latitude": 44.217942,
+    "longitude": -107.681792,
+    "city": "Hyattville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82430,
+    "latitude": 43.804189,
+    "longitude": -108.180469,
+    "city": "Kirby",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Hot Springs"
+  },
+  {
+    "zip_code": 82431,
+    "latitude": 44.584242,
+    "longitude": -108.264522,
+    "city": "Lovell",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82432,
+    "latitude": 44.303336,
+    "longitude": -107.85976,
+    "city": "Manderson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82433,
+    "latitude": 44.165967,
+    "longitude": -108.916862,
+    "city": "Meeteetse",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82434,
+    "latitude": 44.532074,
+    "longitude": -108.423412,
+    "city": "Otto",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82435,
+    "latitude": 44.615962,
+    "longitude": -108.948914,
+    "city": "Powell",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82440,
+    "latitude": 44.69496,
+    "longitude": -108.883283,
+    "city": "Ralston",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82441,
+    "latitude": 44.601118,
+    "longitude": -107.78886,
+    "city": "Shell",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 82442,
+    "latitude": 43.908687,
+    "longitude": -107.530662,
+    "city": "Ten Sleep",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Washakie"
+  },
+  {
+    "zip_code": 82443,
+    "latitude": 43.775844,
+    "longitude": -108.383949,
+    "city": "Thermopolis",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Hot Springs"
+  },
+  {
+    "zip_code": 82450,
+    "latitude": 44.463071,
+    "longitude": -109.415501,
+    "city": "Wapiti",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Park"
+  },
+  {
+    "zip_code": 82501,
+    "latitude": 43.180647,
+    "longitude": -108.925734,
+    "city": "Riverton",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82510,
+    "latitude": 43.035809,
+    "longitude": -108.584486,
+    "city": "Arapahoe",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82512,
+    "latitude": 43.362997,
+    "longitude": -109.221657,
+    "city": "Crowheart",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82513,
+    "latitude": 43.549861,
+    "longitude": -109.704749,
+    "city": "Dubois",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82514,
+    "latitude": 43.059931,
+    "longitude": -108.879125,
+    "city": "Fort Washakie",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82515,
+    "latitude": 42.900791,
+    "longitude": -108.582745,
+    "city": "Hudson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82516,
+    "latitude": 43.267755,
+    "longitude": -108.933381,
+    "city": "Kinnear",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82520,
+    "latitude": 42.920832,
+    "longitude": -108.591264,
+    "city": "Lander",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82523,
+    "latitude": 43.362321,
+    "longitude": -108.699805,
+    "city": "Pavillion",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82524,
+    "latitude": 42.998588,
+    "longitude": -108.57191,
+    "city": "Saint Stephens",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82601,
+    "latitude": 42.859875,
+    "longitude": -106.312561,
+    "city": "Casper",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82602,
+    "latitude": 42.889576,
+    "longitude": -106.35696,
+    "city": "Casper",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82604,
+    "latitude": 42.973745,
+    "longitude": -106.893746,
+    "city": "Casper",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82605,
+    "latitude": 42.966192,
+    "longitude": -106.807047,
+    "city": "Casper",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82609,
+    "latitude": 42.811163,
+    "longitude": -106.267391,
+    "city": "Casper",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82615,
+    "latitude": 41.71694,
+    "longitude": -106.999195,
+    "city": "Shirley Basin",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 82620,
+    "latitude": 42.530223,
+    "longitude": -106.759971,
+    "city": "Alcova",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82630,
+    "latitude": 42.966192,
+    "longitude": -106.807047,
+    "city": "Arminto",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82631,
+    "latitude": 42.894249,
+    "longitude": -105.485243,
+    "city": "Bill",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Converse"
+  },
+  {
+    "zip_code": 82633,
+    "latitude": 42.894084,
+    "longitude": -105.389691,
+    "city": "Douglas",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Converse"
+  },
+  {
+    "zip_code": 82635,
+    "latitude": 43.407351,
+    "longitude": -106.263808,
+    "city": "Edgerton",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82636,
+    "latitude": 42.899153,
+    "longitude": -106.175375,
+    "city": "Evansville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82637,
+    "latitude": 42.780251,
+    "longitude": -105.871922,
+    "city": "Glenrock",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Converse"
+  },
+  {
+    "zip_code": 82638,
+    "latitude": 42.966192,
+    "longitude": -106.807047,
+    "city": "Hiland",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82639,
+    "latitude": 43.720933,
+    "longitude": -106.541709,
+    "city": "Kaycee",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 82640,
+    "latitude": 43.565149,
+    "longitude": -106.172827,
+    "city": "Linch",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 82642,
+    "latitude": 43.282255,
+    "longitude": -107.815622,
+    "city": "Lysite",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82643,
+    "latitude": 43.405584,
+    "longitude": -106.278264,
+    "city": "Midwest",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82644,
+    "latitude": 42.947954,
+    "longitude": -106.444584,
+    "city": "Mills",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82646,
+    "latitude": 42.966192,
+    "longitude": -106.807047,
+    "city": "Natrona",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82648,
+    "latitude": 42.966192,
+    "longitude": -106.807047,
+    "city": "Powder River",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Natrona"
+  },
+  {
+    "zip_code": 82649,
+    "latitude": 43.191539,
+    "longitude": -108.009659,
+    "city": "Shoshoni",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 82701,
+    "latitude": 43.8397,
+    "longitude": -104.567814,
+    "city": "Newcastle",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Weston"
+  },
+  {
+    "zip_code": 82710,
+    "latitude": 44.738184,
+    "longitude": -104.288519,
+    "city": "Aladdin",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82711,
+    "latitude": 44.68734,
+    "longitude": -104.441353,
+    "city": "Alva",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82712,
+    "latitude": 44.543625,
+    "longitude": -104.074532,
+    "city": "Beulah",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82713,
+    "latitude": 44.525891,
+    "longitude": -104.767846,
+    "city": "Carlile",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82714,
+    "latitude": 44.524758,
+    "longitude": -104.686692,
+    "city": "Devils Tower",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82715,
+    "latitude": 43.840033,
+    "longitude": -104.568128,
+    "city": "Four Corners",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Weston"
+  },
+  {
+    "zip_code": 82716,
+    "latitude": 44.377283,
+    "longitude": -105.550237,
+    "city": "Gillette",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82717,
+    "latitude": 44.304713,
+    "longitude": -105.495943,
+    "city": "Gillette",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82718,
+    "latitude": 43.928249,
+    "longitude": -105.549244,
+    "city": "Gillette",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82720,
+    "latitude": 44.675348,
+    "longitude": -104.661438,
+    "city": "Hulett",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82721,
+    "latitude": 44.415431,
+    "longitude": -104.838916,
+    "city": "Moorcroft",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82723,
+    "latitude": 44.04631,
+    "longitude": -104.360224,
+    "city": "Osage",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Weston"
+  },
+  {
+    "zip_code": 82725,
+    "latitude": 44.851059,
+    "longitude": -105.669641,
+    "city": "Recluse",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82727,
+    "latitude": 44.412924,
+    "longitude": -105.529275,
+    "city": "Rozet",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82729,
+    "latitude": 44.352274,
+    "longitude": -104.420625,
+    "city": "Sundance",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Crook"
+  },
+  {
+    "zip_code": 82730,
+    "latitude": 43.937319,
+    "longitude": -104.620856,
+    "city": "Upton",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Weston"
+  },
+  {
+    "zip_code": 82731,
+    "latitude": 44.770503,
+    "longitude": -105.358147,
+    "city": "Weston",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82732,
+    "latitude": 43.761422,
+    "longitude": -105.520135,
+    "city": "Wright",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 82801,
+    "latitude": 44.780378,
+    "longitude": -106.837563,
+    "city": "Sheridan",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82831,
+    "latitude": 44.731059,
+    "longitude": -106.392413,
+    "city": "Arvada",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82832,
+    "latitude": 44.768801,
+    "longitude": -106.555587,
+    "city": "Banner",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82833,
+    "latitude": 44.653104,
+    "longitude": -107.024713,
+    "city": "Big Horn",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82834,
+    "latitude": 44.122611,
+    "longitude": -106.561068,
+    "city": "Buffalo",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 82835,
+    "latitude": 44.770346,
+    "longitude": -106.425278,
+    "city": "Clearmont",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82836,
+    "latitude": 44.870973,
+    "longitude": -107.330606,
+    "city": "Dayton",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82837,
+    "latitude": 44.783153,
+    "longitude": -106.280598,
+    "city": "Leiter",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82838,
+    "latitude": 44.808925,
+    "longitude": -107.135181,
+    "city": "Parkman",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82839,
+    "latitude": 44.917078,
+    "longitude": -107.173995,
+    "city": "Ranchester",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82840,
+    "latitude": 44.497609,
+    "longitude": -106.870963,
+    "city": "Saddlestring",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 82842,
+    "latitude": 44.580015,
+    "longitude": -106.897795,
+    "city": "Story",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82844,
+    "latitude": 44.850012,
+    "longitude": -107.185309,
+    "city": "Wolf",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82845,
+    "latitude": 44.753413,
+    "longitude": -106.694907,
+    "city": "Wyarno",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 82901,
+    "latitude": 41.634515,
+    "longitude": -109.149045,
+    "city": "Rock Springs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82902,
+    "latitude": 41.631408,
+    "longitude": -108.963931,
+    "city": "Rock Springs",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82922,
+    "latitude": 43.221022,
+    "longitude": -110.152755,
+    "city": "Bondurant",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 82923,
+    "latitude": 42.723092,
+    "longitude": -109.582132,
+    "city": "Boulder",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 82925,
+    "latitude": 43.125465,
+    "longitude": -109.981117,
+    "city": "Cora",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 82929,
+    "latitude": 41.758101,
+    "longitude": -109.745873,
+    "city": "Little America",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82930,
+    "latitude": 41.233758,
+    "longitude": -110.664401,
+    "city": "Evanston",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82931,
+    "latitude": 41.261943,
+    "longitude": -110.919995,
+    "city": "Evanston",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82932,
+    "latitude": 42.083362,
+    "longitude": -109.418358,
+    "city": "Farson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82933,
+    "latitude": 41.295023,
+    "longitude": -110.399094,
+    "city": "Fort Bridger",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82934,
+    "latitude": 41.537225,
+    "longitude": -109.763045,
+    "city": "Granger",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82935,
+    "latitude": 41.51437,
+    "longitude": -109.427616,
+    "city": "Green River",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82936,
+    "latitude": 41.024224,
+    "longitude": -110.173336,
+    "city": "Lonetree",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82937,
+    "latitude": 41.331817,
+    "longitude": -110.303367,
+    "city": "Lyman",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82938,
+    "latitude": 41.251079,
+    "longitude": -109.275019,
+    "city": "Mc Kinnon",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82939,
+    "latitude": 41.233491,
+    "longitude": -110.337157,
+    "city": "Mountain View",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82941,
+    "latitude": 42.849757,
+    "longitude": -109.938968,
+    "city": "Pinedale",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 82942,
+    "latitude": 41.653038,
+    "longitude": -108.525247,
+    "city": "Point Of Rocks",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82943,
+    "latitude": 41.669845,
+    "longitude": -109.191857,
+    "city": "Reliance",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 82944,
+    "latitude": 41.099266,
+    "longitude": -110.500655,
+    "city": "Robertson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Uinta"
+  },
+  {
+    "zip_code": 82945,
+    "latitude": 41.7643,
+    "longitude": -108.968062,
+    "city": "Superior",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sweetwater"
+  },
+  {
+    "zip_code": 83001,
+    "latitude": 43.452793,
+    "longitude": -110.739266,
+    "city": "Jackson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83002,
+    "latitude": 43.50537,
+    "longitude": -110.786527,
+    "city": "Jackson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83011,
+    "latitude": 43.950896,
+    "longitude": -110.553181,
+    "city": "Kelly",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83012,
+    "latitude": 43.550144,
+    "longitude": -110.747494,
+    "city": "Moose",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83013,
+    "latitude": 43.950896,
+    "longitude": -110.553181,
+    "city": "Moran",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83014,
+    "latitude": 43.482361,
+    "longitude": -110.839782,
+    "city": "Wilson",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83025,
+    "latitude": 43.443851,
+    "longitude": -110.694002,
+    "city": "Teton Village",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83101,
+    "latitude": 42.368433,
+    "longitude": -110.514132,
+    "city": "Kemmerer",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83110,
+    "latitude": 42.711296,
+    "longitude": -110.619734,
+    "city": "Afton",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83111,
+    "latitude": 42.478175,
+    "longitude": -110.981561,
+    "city": "Auburn",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83112,
+    "latitude": 42.8701,
+    "longitude": -110.940062,
+    "city": "Bedford",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83113,
+    "latitude": 42.648328,
+    "longitude": -110.124616,
+    "city": "Big Piney",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 83114,
+    "latitude": 42.247455,
+    "longitude": -110.941119,
+    "city": "Cokeville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83115,
+    "latitude": 42.785695,
+    "longitude": -110.186599,
+    "city": "Daniel",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Sublette"
+  },
+  {
+    "zip_code": 83116,
+    "latitude": 41.783935,
+    "longitude": -110.54,
+    "city": "Diamondville",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83118,
+    "latitude": 43.044268,
+    "longitude": -111.008517,
+    "city": "Etna",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83119,
+    "latitude": 42.674643,
+    "longitude": -111.014786,
+    "city": "Fairview",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83120,
+    "latitude": 43.026767,
+    "longitude": -111.003953,
+    "city": "Freedom",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83121,
+    "latitude": 41.796019,
+    "longitude": -110.537302,
+    "city": "Frontier",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83122,
+    "latitude": 42.789343,
+    "longitude": -110.942061,
+    "city": "Grover",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83123,
+    "latitude": 42.206598,
+    "longitude": -110.286804,
+    "city": "La Barge",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83124,
+    "latitude": 41.779459,
+    "longitude": -110.275995,
+    "city": "Opal",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83126,
+    "latitude": 42.587769,
+    "longitude": -110.916034,
+    "city": "Smoot",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83127,
+    "latitude": 42.956988,
+    "longitude": -110.974174,
+    "city": "Thayne",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83128,
+    "latitude": 43.030327,
+    "longitude": -110.884515,
+    "city": "Alpine",
+    "state": "WY",
+    "full_state": "Wyoming",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83201,
+    "latitude": 42.770177,
+    "longitude": -112.259807,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83202,
+    "latitude": 42.935728,
+    "longitude": -112.46793,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83203,
+    "latitude": 43.033131,
+    "longitude": -112.428535,
+    "city": "Fort Hall",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83204,
+    "latitude": 42.72575,
+    "longitude": -112.335661,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83205,
+    "latitude": 42.80616,
+    "longitude": -112.410283,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83206,
+    "latitude": 42.639474,
+    "longitude": -112.313836,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83209,
+    "latitude": 42.639474,
+    "longitude": -112.313836,
+    "city": "Pocatello",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83210,
+    "latitude": 43.004883,
+    "longitude": -112.839971,
+    "city": "Aberdeen",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83211,
+    "latitude": 42.635233,
+    "longitude": -112.945777,
+    "city": "American Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Power"
+  },
+  {
+    "zip_code": 83212,
+    "latitude": 42.512788,
+    "longitude": -112.542643,
+    "city": "Arbon",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Power"
+  },
+  {
+    "zip_code": 83213,
+    "latitude": 43.634236,
+    "longitude": -113.213308,
+    "city": "Arco",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 83214,
+    "latitude": 42.566743,
+    "longitude": -112.259209,
+    "city": "Arimo",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83215,
+    "latitude": 43.244795,
+    "longitude": -112.297912,
+    "city": "Atomic City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83217,
+    "latitude": 42.813756,
+    "longitude": -111.52793,
+    "city": "Bancroft",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Caribou"
+  },
+  {
+    "zip_code": 83218,
+    "latitude": 43.304278,
+    "longitude": -112.181741,
+    "city": "Basalt",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83220,
+    "latitude": 42.295466,
+    "longitude": -111.373414,
+    "city": "Bern",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83221,
+    "latitude": 43.251328,
+    "longitude": -112.464518,
+    "city": "Blackfoot",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83223,
+    "latitude": 42.190025,
+    "longitude": -111.470801,
+    "city": "Bloomington",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83226,
+    "latitude": 44.50599,
+    "longitude": -114.222666,
+    "city": "Challis",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 83227,
+    "latitude": 44.22397,
+    "longitude": -114.312713,
+    "city": "Clayton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 83228,
+    "latitude": 42.207519,
+    "longitude": -111.997341,
+    "city": "Clifton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83229,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Cobalt",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83230,
+    "latitude": 42.719102,
+    "longitude": -111.596651,
+    "city": "Conda",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Caribou"
+  },
+  {
+    "zip_code": 83232,
+    "latitude": 42.145827,
+    "longitude": -111.97748,
+    "city": "Dayton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83233,
+    "latitude": 42.177359,
+    "longitude": -111.217381,
+    "city": "Dingle",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83234,
+    "latitude": 42.473005,
+    "longitude": -112.120195,
+    "city": "Downey",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83235,
+    "latitude": 44.22397,
+    "longitude": -114.312713,
+    "city": "Ellis",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 83236,
+    "latitude": 43.303218,
+    "longitude": -112.10957,
+    "city": "Firth",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83237,
+    "latitude": 42.028792,
+    "longitude": -111.787055,
+    "city": "Franklin",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83238,
+    "latitude": 42.331048,
+    "longitude": -111.088609,
+    "city": "Geneva",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83239,
+    "latitude": 42.472875,
+    "longitude": -111.435777,
+    "city": "Georgetown",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83241,
+    "latitude": 42.525874,
+    "longitude": -111.76691,
+    "city": "Grace",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Caribou"
+  },
+  {
+    "zip_code": 83243,
+    "latitude": 42.234859,
+    "longitude": -112.599201,
+    "city": "Holbrook",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 83244,
+    "latitude": 43.908662,
+    "longitude": -113.087828,
+    "city": "Howe",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 83245,
+    "latitude": 42.670637,
+    "longitude": -112.248038,
+    "city": "Inkom",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83246,
+    "latitude": 42.60197,
+    "longitude": -112.058039,
+    "city": "Lava Hot Springs",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83250,
+    "latitude": 42.611881,
+    "longitude": -112.207443,
+    "city": "Mccammon",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83251,
+    "latitude": 44.017199,
+    "longitude": -113.740599,
+    "city": "Mackay",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 83252,
+    "latitude": 42.236441,
+    "longitude": -112.556004,
+    "city": "Malad City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 83253,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "May",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83254,
+    "latitude": 42.28644,
+    "longitude": -111.29681,
+    "city": "Montpelier",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83255,
+    "latitude": 43.729598,
+    "longitude": -113.4544,
+    "city": "Moore",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 83256,
+    "latitude": 43.222648,
+    "longitude": -112.442253,
+    "city": "Moreland",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83261,
+    "latitude": 42.224249,
+    "longitude": -111.420825,
+    "city": "Paris",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83262,
+    "latitude": 43.133647,
+    "longitude": -112.629467,
+    "city": "Pingree",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83263,
+    "latitude": 42.207376,
+    "longitude": -111.812126,
+    "city": "Preston",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83271,
+    "latitude": 42.490846,
+    "longitude": -112.836032,
+    "city": "Rockland",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Power"
+  },
+  {
+    "zip_code": 83272,
+    "latitude": 42.095512,
+    "longitude": -111.329873,
+    "city": "Saint Charles",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83274,
+    "latitude": 43.349659,
+    "longitude": -112.118813,
+    "city": "Shelley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83276,
+    "latitude": 42.772866,
+    "longitude": -111.634757,
+    "city": "Soda Springs",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Caribou"
+  },
+  {
+    "zip_code": 83277,
+    "latitude": 43.080334,
+    "longitude": -112.672955,
+    "city": "Springfield",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bingham"
+  },
+  {
+    "zip_code": 83278,
+    "latitude": 44.371442,
+    "longitude": -114.856089,
+    "city": "Stanley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 83281,
+    "latitude": 42.319496,
+    "longitude": -111.978055,
+    "city": "Swanlake",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bannock"
+  },
+  {
+    "zip_code": 83283,
+    "latitude": 42.379408,
+    "longitude": -111.684093,
+    "city": "Thatcher",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83285,
+    "latitude": 42.892211,
+    "longitude": -111.267458,
+    "city": "Wayan",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Caribou"
+  },
+  {
+    "zip_code": 83286,
+    "latitude": 42.060353,
+    "longitude": -112.013197,
+    "city": "Weston",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 83287,
+    "latitude": 42.039684,
+    "longitude": -111.441977,
+    "city": "Fish Haven",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bear Lake"
+  },
+  {
+    "zip_code": 83301,
+    "latitude": 42.443224,
+    "longitude": -114.629497,
+    "city": "Twin Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83302,
+    "latitude": 42.166936,
+    "longitude": -114.815971,
+    "city": "Rogerson",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83303,
+    "latitude": 42.456273,
+    "longitude": -114.519536,
+    "city": "Twin Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83311,
+    "latitude": 42.339326,
+    "longitude": -113.461324,
+    "city": "Albion",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83312,
+    "latitude": 42.084606,
+    "longitude": -113.628255,
+    "city": "Almo",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83313,
+    "latitude": 43.39476,
+    "longitude": -114.217718,
+    "city": "Bellevue",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83314,
+    "latitude": 42.918993,
+    "longitude": -114.887601,
+    "city": "Bliss",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gooding"
+  },
+  {
+    "zip_code": 83316,
+    "latitude": 42.586201,
+    "longitude": -114.829856,
+    "city": "Buhl",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83318,
+    "latitude": 42.399472,
+    "longitude": -113.848558,
+    "city": "Burley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83320,
+    "latitude": 43.391742,
+    "longitude": -114.076206,
+    "city": "Carey",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83321,
+    "latitude": 42.402884,
+    "longitude": -114.784168,
+    "city": "Castleford",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83322,
+    "latitude": 43.528155,
+    "longitude": -114.730694,
+    "city": "Corral",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Camas"
+  },
+  {
+    "zip_code": 83323,
+    "latitude": 42.524527,
+    "longitude": -113.433757,
+    "city": "Declo",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83324,
+    "latitude": 42.888995,
+    "longitude": -114.289216,
+    "city": "Dietrich",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83325,
+    "latitude": 42.586804,
+    "longitude": -114.246706,
+    "city": "Eden",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jerome"
+  },
+  {
+    "zip_code": 83327,
+    "latitude": 43.368419,
+    "longitude": -114.686706,
+    "city": "Fairfield",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Camas"
+  },
+  {
+    "zip_code": 83328,
+    "latitude": 42.54076,
+    "longitude": -114.623799,
+    "city": "Filer",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83330,
+    "latitude": 42.907488,
+    "longitude": -114.773963,
+    "city": "Gooding",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gooding"
+  },
+  {
+    "zip_code": 83332,
+    "latitude": 42.807535,
+    "longitude": -114.86211,
+    "city": "Hagerman",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gooding"
+  },
+  {
+    "zip_code": 83333,
+    "latitude": 43.54195,
+    "longitude": -114.31008,
+    "city": "Hailey",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83334,
+    "latitude": 42.451937,
+    "longitude": -114.207144,
+    "city": "Hansen",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83335,
+    "latitude": 42.596069,
+    "longitude": -114.071311,
+    "city": "Hazelton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jerome"
+  },
+  {
+    "zip_code": 83336,
+    "latitude": 42.564732,
+    "longitude": -113.809824,
+    "city": "Heyburn",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Minidoka"
+  },
+  {
+    "zip_code": 83337,
+    "latitude": 43.3277,
+    "longitude": -114.801713,
+    "city": "Hill City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Camas"
+  },
+  {
+    "zip_code": 83338,
+    "latitude": 42.736869,
+    "longitude": -114.374568,
+    "city": "Jerome",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jerome"
+  },
+  {
+    "zip_code": 83340,
+    "latitude": 43.669159,
+    "longitude": -114.485781,
+    "city": "Ketchum",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83341,
+    "latitude": 42.50541,
+    "longitude": -114.367966,
+    "city": "Kimberly",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83342,
+    "latitude": 42.274076,
+    "longitude": -113.392736,
+    "city": "Malta",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83343,
+    "latitude": 42.772955,
+    "longitude": -113.509762,
+    "city": "Minidoka",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Minidoka"
+  },
+  {
+    "zip_code": 83344,
+    "latitude": 42.476903,
+    "longitude": -114.120513,
+    "city": "Murtaugh",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Twin Falls"
+  },
+  {
+    "zip_code": 83346,
+    "latitude": 42.193954,
+    "longitude": -113.872032,
+    "city": "Oakley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Cassia"
+  },
+  {
+    "zip_code": 83347,
+    "latitude": 42.684923,
+    "longitude": -113.790133,
+    "city": "Paul",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Minidoka"
+  },
+  {
+    "zip_code": 83348,
+    "latitude": 43.298245,
+    "longitude": -114.023913,
+    "city": "Picabo",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83349,
+    "latitude": 43.060804,
+    "longitude": -114.212408,
+    "city": "Richfield",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83350,
+    "latitude": 42.688753,
+    "longitude": -113.648077,
+    "city": "Rupert",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Minidoka"
+  },
+  {
+    "zip_code": 83352,
+    "latitude": 43.059165,
+    "longitude": -114.414825,
+    "city": "Shoshone",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 83353,
+    "latitude": 43.684047,
+    "longitude": -114.527235,
+    "city": "Sun Valley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83354,
+    "latitude": 43.594633,
+    "longitude": -114.322568,
+    "city": "Sun Valley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 83355,
+    "latitude": 42.747536,
+    "longitude": -114.730593,
+    "city": "Wendell",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gooding"
+  },
+  {
+    "zip_code": 83401,
+    "latitude": 43.516701,
+    "longitude": -111.691535,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83402,
+    "latitude": 43.51824,
+    "longitude": -112.134734,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83403,
+    "latitude": 43.421132,
+    "longitude": -111.333376,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83404,
+    "latitude": 43.433036,
+    "longitude": -111.660433,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83405,
+    "latitude": 43.323306,
+    "longitude": -111.782152,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83406,
+    "latitude": 43.444641,
+    "longitude": -111.963375,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83415,
+    "latitude": 43.323306,
+    "longitude": -111.782152,
+    "city": "Idaho Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83420,
+    "latitude": 44.015259,
+    "longitude": -111.42527,
+    "city": "Ashton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83421,
+    "latitude": 44.001141,
+    "longitude": -111.535095,
+    "city": "Chester",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83422,
+    "latitude": 43.713752,
+    "longitude": -111.158402,
+    "city": "Driggs",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83423,
+    "latitude": 44.177432,
+    "longitude": -112.219898,
+    "city": "Dubois",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 83424,
+    "latitude": 43.872755,
+    "longitude": -111.153854,
+    "city": "Felt",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83425,
+    "latitude": 43.878511,
+    "longitude": -112.260858,
+    "city": "Hamer",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83427,
+    "latitude": 43.407293,
+    "longitude": -111.854263,
+    "city": "Iona",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83428,
+    "latitude": 43.386149,
+    "longitude": -111.25273,
+    "city": "Irwin",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83429,
+    "latitude": 44.408347,
+    "longitude": -111.427555,
+    "city": "Island Park",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83431,
+    "latitude": 43.692913,
+    "longitude": -112.023161,
+    "city": "Lewisville",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83433,
+    "latitude": 44.319199,
+    "longitude": -111.60171,
+    "city": "Macks Inn",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83434,
+    "latitude": 43.714547,
+    "longitude": -112.041547,
+    "city": "Menan",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83435,
+    "latitude": 43.871293,
+    "longitude": -112.447757,
+    "city": "Monteview",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83436,
+    "latitude": 43.89767,
+    "longitude": -111.59402,
+    "city": "Newdale",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83438,
+    "latitude": 44.319199,
+    "longitude": -111.60171,
+    "city": "Parker",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83440,
+    "latitude": 43.79132,
+    "longitude": -111.771375,
+    "city": "Rexburg",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 83441,
+    "latitude": 43.776095,
+    "longitude": -111.691047,
+    "city": "Rexburg",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 83442,
+    "latitude": 43.692206,
+    "longitude": -111.889325,
+    "city": "Rigby",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83443,
+    "latitude": 43.641033,
+    "longitude": -111.71458,
+    "city": "Ririe",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83444,
+    "latitude": 43.698922,
+    "longitude": -112.173195,
+    "city": "Roberts",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83445,
+    "latitude": 43.962969,
+    "longitude": -111.703605,
+    "city": "Saint Anthony",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83446,
+    "latitude": 44.271785,
+    "longitude": -112.306237,
+    "city": "Spencer",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 83447,
+    "latitude": 44.319199,
+    "longitude": -111.60171,
+    "city": "Squirrel",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83448,
+    "latitude": 43.847662,
+    "longitude": -111.693201,
+    "city": "Sugar City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 83449,
+    "latitude": 43.509657,
+    "longitude": -111.402336,
+    "city": "Swan Valley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83450,
+    "latitude": 43.85886,
+    "longitude": -112.439084,
+    "city": "Terreton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 83451,
+    "latitude": 43.890665,
+    "longitude": -111.650418,
+    "city": "Teton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 83452,
+    "latitude": 43.781382,
+    "longitude": -111.211829,
+    "city": "Tetonia",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83454,
+    "latitude": 43.593567,
+    "longitude": -111.957274,
+    "city": "Ucon",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonneville"
+  },
+  {
+    "zip_code": 83455,
+    "latitude": 43.63848,
+    "longitude": -111.132302,
+    "city": "Victor",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 83460,
+    "latitude": 43.776095,
+    "longitude": -111.691047,
+    "city": "Rexburg",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 83462,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Carmen",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83463,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Gibbonsville",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83464,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Leadore",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83465,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Lemhi",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83466,
+    "latitude": 45.612948,
+    "longitude": -113.967272,
+    "city": "North Fork",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83467,
+    "latitude": 45.171856,
+    "longitude": -113.921041,
+    "city": "Salmon",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83468,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Tendoy",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83469,
+    "latitude": 44.968059,
+    "longitude": -113.816735,
+    "city": "Shoup",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lemhi"
+  },
+  {
+    "zip_code": 83501,
+    "latitude": 46.3646,
+    "longitude": -116.860852,
+    "city": "Lewiston",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Nez Perce"
+  },
+  {
+    "zip_code": 83520,
+    "latitude": 46.507385,
+    "longitude": -116.296141,
+    "city": "Ahsahka",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83522,
+    "latitude": 45.688686,
+    "longitude": -115.596198,
+    "city": "Cottonwood",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83523,
+    "latitude": 46.269379,
+    "longitude": -116.539248,
+    "city": "Craigmont",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 83524,
+    "latitude": 46.401878,
+    "longitude": -116.651362,
+    "city": "Culdesac",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Nez Perce"
+  },
+  {
+    "zip_code": 83525,
+    "latitude": 45.822931,
+    "longitude": -115.791688,
+    "city": "Elk City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83526,
+    "latitude": 46.152621,
+    "longitude": -116.390762,
+    "city": "Ferdinand",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83530,
+    "latitude": 45.869801,
+    "longitude": -116.19729,
+    "city": "Grangeville",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83531,
+    "latitude": 45.889314,
+    "longitude": -115.557407,
+    "city": "Fenn",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83533,
+    "latitude": 45.889314,
+    "longitude": -115.557407,
+    "city": "Greencreek",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83535,
+    "latitude": 46.582376,
+    "longitude": -116.739999,
+    "city": "Juliaetta",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83536,
+    "latitude": 46.223289,
+    "longitude": -116.034292,
+    "city": "Kamiah",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 83537,
+    "latitude": 46.663944,
+    "longitude": -116.573632,
+    "city": "Kendrick",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83539,
+    "latitude": 46.115992,
+    "longitude": -115.945949,
+    "city": "Kooskia",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83540,
+    "latitude": 46.402671,
+    "longitude": -116.805125,
+    "city": "Lapwai",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Nez Perce"
+  },
+  {
+    "zip_code": 83541,
+    "latitude": 46.549573,
+    "longitude": -116.377265,
+    "city": "Lenore",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83542,
+    "latitude": 45.536959,
+    "longitude": -116.323741,
+    "city": "Lucile",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83543,
+    "latitude": 46.296282,
+    "longitude": -116.264274,
+    "city": "Nezperce",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 83544,
+    "latitude": 46.4976,
+    "longitude": -116.184848,
+    "city": "Orofino",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83545,
+    "latitude": 46.451381,
+    "longitude": -116.517114,
+    "city": "Peck",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Nez Perce"
+  },
+  {
+    "zip_code": 83546,
+    "latitude": 46.443665,
+    "longitude": -115.804849,
+    "city": "Pierce",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83547,
+    "latitude": 45.325345,
+    "longitude": -116.359122,
+    "city": "Pollock",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83548,
+    "latitude": 46.32309,
+    "longitude": -116.538865,
+    "city": "Reubens",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 83549,
+    "latitude": 45.400163,
+    "longitude": -116.351079,
+    "city": "Riggins",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83551,
+    "latitude": 46.400349,
+    "longitude": -116.804544,
+    "city": "Spalding",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Nez Perce"
+  },
+  {
+    "zip_code": 83552,
+    "latitude": 46.117669,
+    "longitude": -115.974107,
+    "city": "Stites",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83553,
+    "latitude": 46.381159,
+    "longitude": -115.918826,
+    "city": "Weippe",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83554,
+    "latitude": 45.889314,
+    "longitude": -115.557407,
+    "city": "White Bird",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83555,
+    "latitude": 46.24243,
+    "longitude": -116.544158,
+    "city": "Winchester",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 83601,
+    "latitude": 43.847915,
+    "longitude": -115.253751,
+    "city": "Atlanta",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83602,
+    "latitude": 44.088695,
+    "longitude": -116.065807,
+    "city": "Banks",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83604,
+    "latitude": 42.613957,
+    "longitude": -115.841917,
+    "city": "Bruneau",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Owyhee"
+  },
+  {
+    "zip_code": 83605,
+    "latitude": 43.630795,
+    "longitude": -116.717598,
+    "city": "Caldwell",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83606,
+    "latitude": 43.724917,
+    "longitude": -116.798923,
+    "city": "Caldwell",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83607,
+    "latitude": 43.618618,
+    "longitude": -116.750109,
+    "city": "Caldwell",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83610,
+    "latitude": 44.642508,
+    "longitude": -116.690316,
+    "city": "Cambridge",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 83611,
+    "latitude": 44.692713,
+    "longitude": -115.641659,
+    "city": "Cascade",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 83612,
+    "latitude": 44.853452,
+    "longitude": -116.548601,
+    "city": "Council",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 83615,
+    "latitude": 44.665905,
+    "longitude": -116.036911,
+    "city": "Donnelly",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 83616,
+    "latitude": 43.735179,
+    "longitude": -116.41033,
+    "city": "Eagle",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83617,
+    "latitude": 43.908876,
+    "longitude": -116.492657,
+    "city": "Emmett",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gem"
+  },
+  {
+    "zip_code": 83619,
+    "latitude": 43.974615,
+    "longitude": -116.900775,
+    "city": "Fruitland",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Payette"
+  },
+  {
+    "zip_code": 83620,
+    "latitude": 44.817671,
+    "longitude": -116.429857,
+    "city": "Fruitvale",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 83622,
+    "latitude": 44.091712,
+    "longitude": -115.909781,
+    "city": "Garden Valley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83623,
+    "latitude": 42.950333,
+    "longitude": -115.310227,
+    "city": "Glenns Ferry",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83624,
+    "latitude": 43.300562,
+    "longitude": -116.510261,
+    "city": "Grand View",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Owyhee"
+  },
+  {
+    "zip_code": 83626,
+    "latitude": 43.679989,
+    "longitude": -116.76248,
+    "city": "Greenleaf",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83627,
+    "latitude": 42.948206,
+    "longitude": -115.38369,
+    "city": "Hammett",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83628,
+    "latitude": 43.635593,
+    "longitude": -116.96811,
+    "city": "Homedale",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Owyhee"
+  },
+  {
+    "zip_code": 83629,
+    "latitude": 43.969086,
+    "longitude": -116.11845,
+    "city": "Horseshoe Bend",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83630,
+    "latitude": 43.602661,
+    "longitude": -116.790284,
+    "city": "Huston",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83631,
+    "latitude": 43.883371,
+    "longitude": -115.708048,
+    "city": "Idaho City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83632,
+    "latitude": 44.560567,
+    "longitude": -116.462903,
+    "city": "Indian Valley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 83633,
+    "latitude": 42.979861,
+    "longitude": -115.189933,
+    "city": "King Hill",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83634,
+    "latitude": 43.459904,
+    "longitude": -116.338457,
+    "city": "Kuna",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83635,
+    "latitude": 44.68367,
+    "longitude": -115.453583,
+    "city": "Lake Fork",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 83636,
+    "latitude": 43.896275,
+    "longitude": -116.646209,
+    "city": "Letha",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gem"
+  },
+  {
+    "zip_code": 83637,
+    "latitude": 44.108217,
+    "longitude": -115.481823,
+    "city": "Lowman",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83638,
+    "latitude": 44.75196,
+    "longitude": -116.057987,
+    "city": "Mccall",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 83639,
+    "latitude": 43.388977,
+    "longitude": -116.731362,
+    "city": "Marsing",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Owyhee"
+  },
+  {
+    "zip_code": 83641,
+    "latitude": 43.389331,
+    "longitude": -116.583102,
+    "city": "Melba",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83642,
+    "latitude": 43.579067,
+    "longitude": -116.421656,
+    "city": "Meridian",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83643,
+    "latitude": 44.625475,
+    "longitude": -116.449286,
+    "city": "Mesa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 83644,
+    "latitude": 43.577401,
+    "longitude": -116.590338,
+    "city": "Middleton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83645,
+    "latitude": 44.38304,
+    "longitude": -116.651974,
+    "city": "Midvale",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 83647,
+    "latitude": 43.156195,
+    "longitude": -115.720455,
+    "city": "Mountain Home",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83648,
+    "latitude": 43.009282,
+    "longitude": -115.588317,
+    "city": "Mountain Home A F B",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 83650,
+    "latitude": 42.838437,
+    "longitude": -116.032163,
+    "city": "Murphy",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Owyhee"
+  },
+  {
+    "zip_code": 83651,
+    "latitude": 43.595567,
+    "longitude": -116.61063,
+    "city": "Nampa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83652,
+    "latitude": 43.70713,
+    "longitude": -116.620774,
+    "city": "Nampa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83653,
+    "latitude": 43.585149,
+    "longitude": -116.752963,
+    "city": "Nampa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83654,
+    "latitude": 45.086839,
+    "longitude": -116.303451,
+    "city": "New Meadows",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 83655,
+    "latitude": 43.95779,
+    "longitude": -116.813237,
+    "city": "New Plymouth",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Payette"
+  },
+  {
+    "zip_code": 83656,
+    "latitude": 43.725933,
+    "longitude": -116.799727,
+    "city": "Notus",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83657,
+    "latitude": 44.241764,
+    "longitude": -116.273214,
+    "city": "Ola",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gem"
+  },
+  {
+    "zip_code": 83660,
+    "latitude": 43.785082,
+    "longitude": -116.897455,
+    "city": "Parma",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83661,
+    "latitude": 44.063604,
+    "longitude": -116.750704,
+    "city": "Payette",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Payette"
+  },
+  {
+    "zip_code": 83666,
+    "latitude": 44.004244,
+    "longitude": -115.966981,
+    "city": "Placerville",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boise"
+  },
+  {
+    "zip_code": 83669,
+    "latitude": 43.713037,
+    "longitude": -116.485429,
+    "city": "Star",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83670,
+    "latitude": 43.989971,
+    "longitude": -116.328567,
+    "city": "Sweet",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Gem"
+  },
+  {
+    "zip_code": 83671,
+    "latitude": 45.889314,
+    "longitude": -115.557407,
+    "city": "Warren",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Idaho"
+  },
+  {
+    "zip_code": 83672,
+    "latitude": 44.304193,
+    "longitude": -116.859937,
+    "city": "Weiser",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 83676,
+    "latitude": 43.657855,
+    "longitude": -116.919629,
+    "city": "Wilder",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83677,
+    "latitude": 44.68367,
+    "longitude": -115.453583,
+    "city": "Yellow Pine",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 83680,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Meridian",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83686,
+    "latitude": 43.549984,
+    "longitude": -116.612678,
+    "city": "Nampa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83687,
+    "latitude": 43.602302,
+    "longitude": -116.552636,
+    "city": "Nampa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Canyon"
+  },
+  {
+    "zip_code": 83701,
+    "latitude": 43.603768,
+    "longitude": -116.272921,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83702,
+    "latitude": 43.661963,
+    "longitude": -116.195004,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83703,
+    "latitude": 43.680432,
+    "longitude": -116.248664,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83704,
+    "latitude": 43.641467,
+    "longitude": -116.290009,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83705,
+    "latitude": 43.565639,
+    "longitude": -116.223203,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83706,
+    "latitude": 43.478618,
+    "longitude": -116.137752,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83707,
+    "latitude": 43.38469,
+    "longitude": -115.997118,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83708,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83709,
+    "latitude": 43.558127,
+    "longitude": -116.276002,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83711,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83712,
+    "latitude": 43.58775,
+    "longitude": -116.139425,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83713,
+    "latitude": 43.634002,
+    "longitude": -116.341948,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83714,
+    "latitude": 43.6428,
+    "longitude": -116.282554,
+    "city": "Garden City",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83715,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83716,
+    "latitude": 43.441445,
+    "longitude": -116.079142,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83717,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83719,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83720,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83721,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83722,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83723,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83724,
+    "latitude": 43.619477,
+    "longitude": -116.195159,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83725,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83726,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83727,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83728,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83729,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83730,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83731,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83732,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83733,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83735,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83744,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83756,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83757,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83788,
+    "latitude": 43.60682,
+    "longitude": -116.282259,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83799,
+    "latitude": 43.459855,
+    "longitude": -116.243984,
+    "city": "Boise",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Ada"
+  },
+  {
+    "zip_code": 83801,
+    "latitude": 47.922361,
+    "longitude": -116.686007,
+    "city": "Athol",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83802,
+    "latitude": 47.501205,
+    "longitude": -115.644501,
+    "city": "Avery",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83803,
+    "latitude": 47.982174,
+    "longitude": -116.549408,
+    "city": "Bayview",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83804,
+    "latitude": 48.274708,
+    "longitude": -116.604444,
+    "city": "Blanchard",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83805,
+    "latitude": 48.814078,
+    "longitude": -116.398202,
+    "city": "Bonners Ferry",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boundary"
+  },
+  {
+    "zip_code": 83806,
+    "latitude": 46.871563,
+    "longitude": -116.407235,
+    "city": "Bovill",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83808,
+    "latitude": 47.501205,
+    "longitude": -115.644501,
+    "city": "Calder",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83809,
+    "latitude": 48.048216,
+    "longitude": -116.59389,
+    "city": "Careywood",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83810,
+    "latitude": 47.527719,
+    "longitude": -116.453134,
+    "city": "Cataldo",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83811,
+    "latitude": 48.115891,
+    "longitude": -116.128983,
+    "city": "Clark Fork",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83812,
+    "latitude": 46.974333,
+    "longitude": -116.28108,
+    "city": "Clarkia",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83813,
+    "latitude": 48.087984,
+    "longitude": -116.614684,
+    "city": "Cocolalla",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83814,
+    "latitude": 47.728441,
+    "longitude": -116.780869,
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83815,
+    "latitude": 47.837453,
+    "longitude": -116.718533,
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83816,
+    "latitude": 47.678798,
+    "longitude": -116.682718,
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83821,
+    "latitude": 48.607807,
+    "longitude": -116.84866,
+    "city": "Coolin",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83822,
+    "latitude": 48.155185,
+    "longitude": -116.978066,
+    "city": "Oldtown",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83823,
+    "latitude": 46.777036,
+    "longitude": -116.525556,
+    "city": "Deary",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83824,
+    "latitude": 47.146411,
+    "longitude": -116.915483,
+    "city": "Desmet",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83825,
+    "latitude": 48.36875,
+    "longitude": -116.545493,
+    "city": "Dover",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83826,
+    "latitude": 48.750618,
+    "longitude": -116.54067,
+    "city": "Eastport",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boundary"
+  },
+  {
+    "zip_code": 83827,
+    "latitude": 46.779553,
+    "longitude": -116.214523,
+    "city": "Elk River",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 83830,
+    "latitude": 47.112423,
+    "longitude": -116.528526,
+    "city": "Fernwood",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83832,
+    "latitude": 46.604181,
+    "longitude": -116.903754,
+    "city": "Genesee",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83833,
+    "latitude": 47.501761,
+    "longitude": -116.751226,
+    "city": "Harrison",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83834,
+    "latitude": 46.924095,
+    "longitude": -116.715837,
+    "city": "Harvard",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83835,
+    "latitude": 47.798886,
+    "longitude": -116.742254,
+    "city": "Hayden",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83836,
+    "latitude": 48.248701,
+    "longitude": -116.279202,
+    "city": "Hope",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83837,
+    "latitude": 47.515352,
+    "longitude": -116.01766,
+    "city": "Kellogg",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83839,
+    "latitude": 47.574471,
+    "longitude": -116.145637,
+    "city": "Kingston",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83840,
+    "latitude": 48.314378,
+    "longitude": -116.515276,
+    "city": "Kootenai",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83841,
+    "latitude": 48.179085,
+    "longitude": -116.824602,
+    "city": "Laclede",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83842,
+    "latitude": 47.464178,
+    "longitude": -116.659053,
+    "city": "Medimont",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83843,
+    "latitude": 46.735334,
+    "longitude": -116.870147,
+    "city": "Moscow",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83844,
+    "latitude": 46.836284,
+    "longitude": -116.684553,
+    "city": "Moscow",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83845,
+    "latitude": 48.695988,
+    "longitude": -116.305402,
+    "city": "Moyie Springs",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boundary"
+  },
+  {
+    "zip_code": 83846,
+    "latitude": 47.465825,
+    "longitude": -115.765951,
+    "city": "Mullan",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83847,
+    "latitude": 48.694804,
+    "longitude": -116.304264,
+    "city": "Naples",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boundary"
+  },
+  {
+    "zip_code": 83848,
+    "latitude": 48.614631,
+    "longitude": -116.925844,
+    "city": "Nordman",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83849,
+    "latitude": 47.521132,
+    "longitude": -116.021029,
+    "city": "Osburn",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83850,
+    "latitude": 47.494941,
+    "longitude": -116.041059,
+    "city": "Pinehurst",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83851,
+    "latitude": 47.243487,
+    "longitude": -116.862018,
+    "city": "Plummer",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83852,
+    "latitude": 48.411377,
+    "longitude": -116.731899,
+    "city": "Ponderay",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83853,
+    "latitude": 48.750618,
+    "longitude": -116.54067,
+    "city": "Porthill",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Boundary"
+  },
+  {
+    "zip_code": 83854,
+    "latitude": 47.795737,
+    "longitude": -116.946395,
+    "city": "Post Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83855,
+    "latitude": 46.950211,
+    "longitude": -116.935859,
+    "city": "Potlatch",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83856,
+    "latitude": 48.324253,
+    "longitude": -116.669154,
+    "city": "Priest River",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83857,
+    "latitude": 46.884343,
+    "longitude": -116.804736,
+    "city": "Princeton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83858,
+    "latitude": 47.845814,
+    "longitude": -116.839411,
+    "city": "Rathdrum",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83860,
+    "latitude": 48.193853,
+    "longitude": -116.644705,
+    "city": "Sagle",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83861,
+    "latitude": 47.279233,
+    "longitude": -116.646826,
+    "city": "Saint Maries",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83862,
+    "latitude": 48.36875,
+    "longitude": -116.545493,
+    "city": "Samuels",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83864,
+    "latitude": 48.299486,
+    "longitude": -116.553968,
+    "city": "Sandpoint",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83865,
+    "latitude": 48.363251,
+    "longitude": -116.625594,
+    "city": "Colburn",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 83866,
+    "latitude": 47.154416,
+    "longitude": -116.430997,
+    "city": "Santa",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83867,
+    "latitude": 47.498078,
+    "longitude": -115.965732,
+    "city": "Silverton",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83868,
+    "latitude": 47.536163,
+    "longitude": -116.206234,
+    "city": "Smelterville",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83869,
+    "latitude": 47.944549,
+    "longitude": -116.811536,
+    "city": "Spirit Lake",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83870,
+    "latitude": 47.147494,
+    "longitude": -116.918177,
+    "city": "Tensed",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Benewah"
+  },
+  {
+    "zip_code": 83871,
+    "latitude": 46.75717,
+    "longitude": -116.714214,
+    "city": "Troy",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83872,
+    "latitude": 46.871724,
+    "longitude": -116.967516,
+    "city": "Viola",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Latah"
+  },
+  {
+    "zip_code": 83873,
+    "latitude": 47.553491,
+    "longitude": -116.01401,
+    "city": "Wallace",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83874,
+    "latitude": 47.501205,
+    "longitude": -115.644501,
+    "city": "Murray",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Shoshone"
+  },
+  {
+    "zip_code": 83876,
+    "latitude": 47.456856,
+    "longitude": -116.898603,
+    "city": "Worley",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83877,
+    "latitude": 47.678798,
+    "longitude": -116.682718,
+    "city": "Post Falls",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Kootenai"
+  },
+  {
+    "zip_code": 83888,
+    "latitude": 48.36875,
+    "longitude": -116.545493,
+    "city": "Sandpoint",
+    "state": "ID",
+    "full_state": "Idaho",
+    "county": "Bonner"
+  },
+  {
+    "zip_code": 84001,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Altamont",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84002,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Altonah",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84003,
+    "latitude": 40.395796,
+    "longitude": -111.803101,
+    "city": "American Fork",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84004,
+    "latitude": 40.459133,
+    "longitude": -111.773164,
+    "city": "Alpine",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84006,
+    "latitude": 40.592045,
+    "longitude": -112.0786,
+    "city": "Bingham Canyon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84007,
+    "latitude": 40.312539,
+    "longitude": -110.229816,
+    "city": "Bluebell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84008,
+    "latitude": 40.443106,
+    "longitude": -109.505593,
+    "city": "Bonanza",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84010,
+    "latitude": 40.874038,
+    "longitude": -111.870994,
+    "city": "Bountiful",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84011,
+    "latitude": 40.963547,
+    "longitude": -112.115984,
+    "city": "Bountiful",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84013,
+    "latitude": 40.183311,
+    "longitude": -111.919871,
+    "city": "Cedar Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84014,
+    "latitude": 40.929547,
+    "longitude": -111.889651,
+    "city": "Centerville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84015,
+    "latitude": 41.017594,
+    "longitude": -111.995023,
+    "city": "Clearfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84016,
+    "latitude": 40.892995,
+    "longitude": -111.888121,
+    "city": "Clearfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84017,
+    "latitude": 40.840518,
+    "longitude": -111.322754,
+    "city": "Coalville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84018,
+    "latitude": 41.090456,
+    "longitude": -111.486959,
+    "city": "Croydon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 84020,
+    "latitude": 40.506148,
+    "longitude": -111.869671,
+    "city": "Draper",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84021,
+    "latitude": 40.193815,
+    "longitude": -110.31321,
+    "city": "Duchesne",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84022,
+    "latitude": 40.270806,
+    "longitude": -112.689833,
+    "city": "Dugway",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84023,
+    "latitude": 40.936315,
+    "longitude": -109.432883,
+    "city": "Dutch John",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Daggett"
+  },
+  {
+    "zip_code": 84024,
+    "latitude": 40.989171,
+    "longitude": -111.451001,
+    "city": "Echo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84025,
+    "latitude": 40.969069,
+    "longitude": -111.907344,
+    "city": "Farmington",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84026,
+    "latitude": 40.290515,
+    "longitude": -109.846675,
+    "city": "Fort Duchesne",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84027,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Fruitland",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84028,
+    "latitude": 41.907816,
+    "longitude": -111.379691,
+    "city": "Garden City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Rich"
+  },
+  {
+    "zip_code": 84029,
+    "latitude": 40.560384,
+    "longitude": -112.54061,
+    "city": "Grantsville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84030,
+    "latitude": 40.160179,
+    "longitude": -109.547839,
+    "city": "Gusher",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84031,
+    "latitude": 40.428901,
+    "longitude": -110.807816,
+    "city": "Hanna",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84032,
+    "latitude": 40.517678,
+    "longitude": -111.348882,
+    "city": "Heber City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wasatch"
+  },
+  {
+    "zip_code": 84033,
+    "latitude": 41.018639,
+    "longitude": -111.501094,
+    "city": "Henefer",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84034,
+    "latitude": 40.489989,
+    "longitude": -113.095905,
+    "city": "Ibapah",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84035,
+    "latitude": 40.344753,
+    "longitude": -109.387441,
+    "city": "Jensen",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84036,
+    "latitude": 40.667933,
+    "longitude": -111.312427,
+    "city": "Kamas",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84037,
+    "latitude": 40.960691,
+    "longitude": -111.92797,
+    "city": "Kaysville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84038,
+    "latitude": 41.858357,
+    "longitude": -111.349487,
+    "city": "Laketown",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Rich"
+  },
+  {
+    "zip_code": 84039,
+    "latitude": 40.485962,
+    "longitude": -109.774553,
+    "city": "Lapoint",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84040,
+    "latitude": 41.088889,
+    "longitude": -111.92614,
+    "city": "Layton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84041,
+    "latitude": 41.059863,
+    "longitude": -111.994525,
+    "city": "Layton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84042,
+    "latitude": 40.340251,
+    "longitude": -111.719923,
+    "city": "Lindon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84043,
+    "latitude": 40.318139,
+    "longitude": -111.921078,
+    "city": "Lehi",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84044,
+    "latitude": 40.699401,
+    "longitude": -112.088875,
+    "city": "Magna",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84046,
+    "latitude": 40.990039,
+    "longitude": -109.704889,
+    "city": "Manila",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Daggett"
+  },
+  {
+    "zip_code": 84047,
+    "latitude": 40.608972,
+    "longitude": -111.885868,
+    "city": "Midvale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84049,
+    "latitude": 40.489378,
+    "longitude": -111.485127,
+    "city": "Midway",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wasatch"
+  },
+  {
+    "zip_code": 84050,
+    "latitude": 41.068883,
+    "longitude": -111.702746,
+    "city": "Morgan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 84051,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Mountain Home",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84052,
+    "latitude": 40.200074,
+    "longitude": -110.049034,
+    "city": "Myton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84053,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Neola",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84054,
+    "latitude": 40.844595,
+    "longitude": -111.919115,
+    "city": "North Salt Lake",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84055,
+    "latitude": 40.724311,
+    "longitude": -111.24561,
+    "city": "Oakley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84056,
+    "latitude": 41.120219,
+    "longitude": -111.989813,
+    "city": "Hill Afb",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84057,
+    "latitude": 40.311353,
+    "longitude": -111.72496,
+    "city": "Orem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84058,
+    "latitude": 40.2818,
+    "longitude": -111.72091,
+    "city": "Orem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84059,
+    "latitude": 40.176975,
+    "longitude": -111.536036,
+    "city": "Orem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84060,
+    "latitude": 40.71188,
+    "longitude": -111.448892,
+    "city": "Park City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84061,
+    "latitude": 40.743379,
+    "longitude": -111.351178,
+    "city": "Peoa",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84062,
+    "latitude": 40.386385,
+    "longitude": -111.732911,
+    "city": "Pleasant Grove",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84063,
+    "latitude": 40.30168,
+    "longitude": -109.806162,
+    "city": "Randlett",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84064,
+    "latitude": 41.690895,
+    "longitude": -111.184512,
+    "city": "Randolph",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Rich"
+  },
+  {
+    "zip_code": 84065,
+    "latitude": 40.495129,
+    "longitude": -112.00627,
+    "city": "Riverton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84066,
+    "latitude": 40.266539,
+    "longitude": -110.106937,
+    "city": "Roosevelt",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84067,
+    "latitude": 41.178743,
+    "longitude": -112.052525,
+    "city": "Roy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84068,
+    "latitude": 40.66797,
+    "longitude": -111.505365,
+    "city": "Park City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84069,
+    "latitude": 40.356629,
+    "longitude": -112.465914,
+    "city": "Rush Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84070,
+    "latitude": 40.578597,
+    "longitude": -111.859504,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84071,
+    "latitude": 40.441463,
+    "longitude": -112.355926,
+    "city": "Stockton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84072,
+    "latitude": 40.359782,
+    "longitude": -110.721218,
+    "city": "Tabiona",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84073,
+    "latitude": 40.320728,
+    "longitude": -110.435974,
+    "city": "Talmage",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Duchesne"
+  },
+  {
+    "zip_code": 84074,
+    "latitude": 40.617392,
+    "longitude": -113.144159,
+    "city": "Tooele",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84075,
+    "latitude": 41.096293,
+    "longitude": -112.079415,
+    "city": "Syracuse",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84076,
+    "latitude": 40.425577,
+    "longitude": -109.840776,
+    "city": "Tridell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84078,
+    "latitude": 40.368246,
+    "longitude": -109.556103,
+    "city": "Vernal",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84079,
+    "latitude": 40.160179,
+    "longitude": -109.547839,
+    "city": "Vernal",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84080,
+    "latitude": 40.086909,
+    "longitude": -112.455046,
+    "city": "Vernon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84082,
+    "latitude": 40.410548,
+    "longitude": -111.394222,
+    "city": "Wallsburg",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wasatch"
+  },
+  {
+    "zip_code": 84083,
+    "latitude": 40.7329,
+    "longitude": -113.991849,
+    "city": "Wendover",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Tooele"
+  },
+  {
+    "zip_code": 84084,
+    "latitude": 40.606125,
+    "longitude": -111.978898,
+    "city": "West Jordan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84085,
+    "latitude": 40.374808,
+    "longitude": -109.911237,
+    "city": "Whiterocks",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Uintah"
+  },
+  {
+    "zip_code": 84086,
+    "latitude": 41.467578,
+    "longitude": -111.18365,
+    "city": "Woodruff",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Rich"
+  },
+  {
+    "zip_code": 84087,
+    "latitude": 40.889027,
+    "longitude": -111.926646,
+    "city": "Woods Cross",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84088,
+    "latitude": 40.587629,
+    "longitude": -111.98342,
+    "city": "West Jordan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84089,
+    "latitude": 40.963547,
+    "longitude": -112.115984,
+    "city": "Clearfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 84090,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84091,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84092,
+    "latitude": 40.583401,
+    "longitude": -111.746713,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84093,
+    "latitude": 40.595025,
+    "longitude": -111.824566,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84094,
+    "latitude": 40.569893,
+    "longitude": -111.858617,
+    "city": "Sandy",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84095,
+    "latitude": 40.554098,
+    "longitude": -111.953891,
+    "city": "South Jordan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84097,
+    "latitude": 40.297153,
+    "longitude": -111.670519,
+    "city": "Orem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84098,
+    "latitude": 40.702896,
+    "longitude": -111.548098,
+    "city": "Park City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 84101,
+    "latitude": 40.756095,
+    "longitude": -111.900719,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84102,
+    "latitude": 40.759246,
+    "longitude": -111.86259,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84103,
+    "latitude": 40.785847,
+    "longitude": -111.869485,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84104,
+    "latitude": 40.747845,
+    "longitude": -111.9841,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84105,
+    "latitude": 40.738153,
+    "longitude": -111.856517,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84106,
+    "latitude": 40.707846,
+    "longitude": -111.836766,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84107,
+    "latitude": 40.656796,
+    "longitude": -111.890414,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84108,
+    "latitude": 40.777078,
+    "longitude": -111.753274,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84109,
+    "latitude": 40.707005,
+    "longitude": -111.744257,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84110,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84111,
+    "latitude": 40.755596,
+    "longitude": -111.883718,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84112,
+    "latitude": 40.765868,
+    "longitude": -111.840284,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84113,
+    "latitude": 40.765795,
+    "longitude": -111.836423,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84114,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84115,
+    "latitude": 40.714496,
+    "longitude": -111.893118,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84116,
+    "latitude": 40.798495,
+    "longitude": -111.999902,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84117,
+    "latitude": 40.655097,
+    "longitude": -111.833966,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84118,
+    "latitude": 40.650407,
+    "longitude": -112.005421,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84119,
+    "latitude": 40.633297,
+    "longitude": -111.913368,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84120,
+    "latitude": 40.695045,
+    "longitude": -112.000072,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84121,
+    "latitude": 40.622557,
+    "longitude": -111.777749,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84122,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84123,
+    "latitude": 40.65963,
+    "longitude": -111.919269,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84124,
+    "latitude": 40.653246,
+    "longitude": -111.820566,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84125,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84126,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84127,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84128,
+    "latitude": 40.697645,
+    "longitude": -112.037673,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84130,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84131,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84132,
+    "latitude": 40.772743,
+    "longitude": -111.838541,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84133,
+    "latitude": 40.769046,
+    "longitude": -111.889319,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84134,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84135,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84136,
+    "latitude": 40.768546,
+    "longitude": -111.887869,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84138,
+    "latitude": 40.671614,
+    "longitude": -111.74828,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84139,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84140,
+    "latitude": 40.771345,
+    "longitude": -111.93087,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84141,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84142,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84143,
+    "latitude": 40.786886,
+    "longitude": -111.900832,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84144,
+    "latitude": 40.767946,
+    "longitude": -111.890819,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84145,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84147,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84148,
+    "latitude": 40.756796,
+    "longitude": -111.837567,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84150,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84151,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84152,
+    "latitude": 40.728579,
+    "longitude": -111.66273,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84153,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84157,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84158,
+    "latitude": 40.768996,
+    "longitude": -111.762115,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84165,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84170,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84171,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84180,
+    "latitude": 40.769045,
+    "longitude": -111.900769,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84184,
+    "latitude": 40.676839,
+    "longitude": -111.956811,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84189,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84190,
+    "latitude": 40.668068,
+    "longitude": -111.908297,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84193,
+    "latitude": "",
+    "longitude": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84194,
+    "latitude": "",
+    "longitude": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84195,
+    "latitude": "",
+    "longitude": "",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84199,
+    "latitude": 40.725946,
+    "longitude": -111.93942,
+    "city": "Salt Lake City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Salt Lake"
+  },
+  {
+    "zip_code": 84201,
+    "latitude": 41.244261,
+    "longitude": -112.007924,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84244,
+    "latitude": 41.255285,
+    "longitude": -111.956721,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84301,
+    "latitude": 41.609266,
+    "longitude": -112.124107,
+    "city": "Bear River City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84302,
+    "latitude": 41.537922,
+    "longitude": -112.061761,
+    "city": "Brigham City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84304,
+    "latitude": 41.816936,
+    "longitude": -111.998197,
+    "city": "Cache Junction",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84305,
+    "latitude": 41.919726,
+    "longitude": -112.030254,
+    "city": "Clarkston",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84306,
+    "latitude": 41.781268,
+    "longitude": -112.066608,
+    "city": "Collinston",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84307,
+    "latitude": 41.454713,
+    "longitude": -112.390322,
+    "city": "Corinne",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84308,
+    "latitude": 41.944253,
+    "longitude": -111.973275,
+    "city": "Cornish",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84309,
+    "latitude": 41.713643,
+    "longitude": -112.097195,
+    "city": "Deweyville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84310,
+    "latitude": 41.339343,
+    "longitude": -111.738298,
+    "city": "Eden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84311,
+    "latitude": 41.628942,
+    "longitude": -112.094039,
+    "city": "Fielding",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84312,
+    "latitude": 41.798402,
+    "longitude": -112.140361,
+    "city": "Garland",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84313,
+    "latitude": 41.500586,
+    "longitude": -112.957875,
+    "city": "Grouse Creek",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84314,
+    "latitude": 41.651978,
+    "longitude": -112.104979,
+    "city": "Honeyville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84315,
+    "latitude": 41.182343,
+    "longitude": -112.103475,
+    "city": "Hooper",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84316,
+    "latitude": 41.77328,
+    "longitude": -112.396755,
+    "city": "Howell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84317,
+    "latitude": 41.266035,
+    "longitude": -111.715855,
+    "city": "Huntsville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84318,
+    "latitude": 41.800028,
+    "longitude": -111.812321,
+    "city": "Hyde Park",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84319,
+    "latitude": 41.717589,
+    "longitude": -111.879653,
+    "city": "Hyrum",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84320,
+    "latitude": 41.816874,
+    "longitude": -111.874421,
+    "city": "Lewiston",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84321,
+    "latitude": 41.76695,
+    "longitude": -111.885084,
+    "city": "Logan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84322,
+    "latitude": 41.641189,
+    "longitude": -111.896571,
+    "city": "Logan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84323,
+    "latitude": 41.684253,
+    "longitude": -111.783783,
+    "city": "Logan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84324,
+    "latitude": 41.492844,
+    "longitude": -111.9424,
+    "city": "Mantua",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84325,
+    "latitude": 41.724699,
+    "longitude": -111.989806,
+    "city": "Mendon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84326,
+    "latitude": 41.675906,
+    "longitude": -111.818459,
+    "city": "Millville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84327,
+    "latitude": 41.921329,
+    "longitude": -112.002633,
+    "city": "Newton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84328,
+    "latitude": 41.548529,
+    "longitude": -111.81074,
+    "city": "Paradise",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84329,
+    "latitude": 41.808234,
+    "longitude": -113.523193,
+    "city": "Park Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84330,
+    "latitude": 41.883058,
+    "longitude": -112.138837,
+    "city": "Plymouth",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84331,
+    "latitude": 41.906183,
+    "longitude": -112.180605,
+    "city": "Portage",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84332,
+    "latitude": 41.797849,
+    "longitude": -111.915564,
+    "city": "Providence",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84333,
+    "latitude": 41.883064,
+    "longitude": -111.798034,
+    "city": "Richmond",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84334,
+    "latitude": 41.786849,
+    "longitude": -112.146687,
+    "city": "Riverside",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84335,
+    "latitude": 41.801798,
+    "longitude": -111.910101,
+    "city": "Smithfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84336,
+    "latitude": 41.965964,
+    "longitude": -112.726895,
+    "city": "Snowville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84337,
+    "latitude": 41.68849,
+    "longitude": -112.255453,
+    "city": "Tremonton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84338,
+    "latitude": 41.92405,
+    "longitude": -111.925583,
+    "city": "Trenton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84339,
+    "latitude": 41.637826,
+    "longitude": -111.917588,
+    "city": "Wellsville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84340,
+    "latitude": 41.387828,
+    "longitude": -112.04765,
+    "city": "Willard",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Box Elder"
+  },
+  {
+    "zip_code": 84341,
+    "latitude": 41.838005,
+    "longitude": -111.917217,
+    "city": "Logan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Cache"
+  },
+  {
+    "zip_code": 84401,
+    "latitude": 41.221328,
+    "longitude": -111.957685,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84402,
+    "latitude": 41.255285,
+    "longitude": -111.956721,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84403,
+    "latitude": 41.178343,
+    "longitude": -111.938216,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84404,
+    "latitude": 41.279292,
+    "longitude": -112.079805,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84405,
+    "latitude": 41.171493,
+    "longitude": -111.968874,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84407,
+    "latitude": 41.238547,
+    "longitude": -111.965867,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84408,
+    "latitude": 41.195593,
+    "longitude": -111.948474,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84409,
+    "latitude": 41.255285,
+    "longitude": -111.956721,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84412,
+    "latitude": 41.255285,
+    "longitude": -111.956721,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84414,
+    "latitude": 41.309184,
+    "longitude": -111.92559,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84415,
+    "latitude": 41.255285,
+    "longitude": -111.956721,
+    "city": "Ogden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Weber"
+  },
+  {
+    "zip_code": 84501,
+    "latitude": 39.567883,
+    "longitude": -110.650901,
+    "city": "Price",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84510,
+    "latitude": 37.748946,
+    "longitude": -110.22691,
+    "city": "Aneth",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84511,
+    "latitude": 37.566938,
+    "longitude": -109.44141,
+    "city": "Blanding",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84512,
+    "latitude": 37.624663,
+    "longitude": -109.479932,
+    "city": "Bluff",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84513,
+    "latitude": 39.196393,
+    "longitude": -111.052868,
+    "city": "Castle Dale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84515,
+    "latitude": 38.999877,
+    "longitude": -109.615008,
+    "city": "Cisco",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 84516,
+    "latitude": 39.119759,
+    "longitude": -111.100814,
+    "city": "Clawson",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84518,
+    "latitude": 39.373583,
+    "longitude": -110.893573,
+    "city": "Cleveland",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84520,
+    "latitude": 39.531795,
+    "longitude": -110.403536,
+    "city": "East Carbon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84521,
+    "latitude": 39.403255,
+    "longitude": -110.810027,
+    "city": "Elmo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84522,
+    "latitude": 38.9226,
+    "longitude": -111.251238,
+    "city": "Emery",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84523,
+    "latitude": 39.14373,
+    "longitude": -111.118572,
+    "city": "Ferron",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84525,
+    "latitude": 39.020075,
+    "longitude": -110.213864,
+    "city": "Green River",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84526,
+    "latitude": 39.637459,
+    "longitude": -110.77667,
+    "city": "Helper",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84527,
+    "latitude": 39.640779,
+    "longitude": -110.560697,
+    "city": "Hiawatha",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84528,
+    "latitude": 39.283156,
+    "longitude": -110.961933,
+    "city": "Huntington",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84529,
+    "latitude": 39.688418,
+    "longitude": -110.80726,
+    "city": "Kenilworth",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84530,
+    "latitude": 37.748946,
+    "longitude": -110.22691,
+    "city": "La Sal",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84531,
+    "latitude": 37.748946,
+    "longitude": -110.22691,
+    "city": "Mexican Hat",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84532,
+    "latitude": 38.5804,
+    "longitude": -109.54019,
+    "city": "Moab",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 84533,
+    "latitude": 37.748946,
+    "longitude": -110.22691,
+    "city": "Lake Powell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84534,
+    "latitude": 37.25391,
+    "longitude": -109.106079,
+    "city": "Montezuma Creek",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84535,
+    "latitude": 38.099745,
+    "longitude": -109.259108,
+    "city": "Monticello",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84536,
+    "latitude": 37.280022,
+    "longitude": -109.56809,
+    "city": "Monument Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 84537,
+    "latitude": 39.230155,
+    "longitude": -111.051827,
+    "city": "Orangeville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Emery"
+  },
+  {
+    "zip_code": 84539,
+    "latitude": 39.534651,
+    "longitude": -110.398832,
+    "city": "Sunnyside",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84540,
+    "latitude": 38.999877,
+    "longitude": -109.615008,
+    "city": "Thompson",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 84542,
+    "latitude": 39.614663,
+    "longitude": -110.641314,
+    "city": "Wellington",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 84601,
+    "latitude": 40.235053,
+    "longitude": -111.695558,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84602,
+    "latitude": 40.356343,
+    "longitude": -111.732476,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84603,
+    "latitude": 40.203908,
+    "longitude": -111.626081,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84604,
+    "latitude": 40.317059,
+    "longitude": -111.608241,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84605,
+    "latitude": 40.176975,
+    "longitude": -111.536036,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84606,
+    "latitude": 40.218905,
+    "longitude": -111.635353,
+    "city": "Provo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84620,
+    "latitude": 38.959002,
+    "longitude": -111.904385,
+    "city": "Aurora",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84621,
+    "latitude": 39.192478,
+    "longitude": -111.719605,
+    "city": "Axtell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84622,
+    "latitude": 39.109892,
+    "longitude": -111.823067,
+    "city": "Centerfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84623,
+    "latitude": 39.494319,
+    "longitude": -111.493217,
+    "city": "Chester",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84624,
+    "latitude": 39.247056,
+    "longitude": -112.526542,
+    "city": "Delta",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84626,
+    "latitude": 40.176975,
+    "longitude": -111.536036,
+    "city": "Elberta",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84627,
+    "latitude": 39.373122,
+    "longitude": -111.62523,
+    "city": "Ephraim",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84628,
+    "latitude": 39.941737,
+    "longitude": -112.174424,
+    "city": "Eureka",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Juab"
+  },
+  {
+    "zip_code": 84629,
+    "latitude": 39.697844,
+    "longitude": -111.430513,
+    "city": "Fairview",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84630,
+    "latitude": 39.21521,
+    "longitude": -111.879009,
+    "city": "Fayette",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84631,
+    "latitude": 39.055572,
+    "longitude": -112.467412,
+    "city": "Fillmore",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84632,
+    "latitude": 39.392622,
+    "longitude": -111.729316,
+    "city": "Fountain Green",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84633,
+    "latitude": 40.029693,
+    "longitude": -111.764116,
+    "city": "Goshen",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84634,
+    "latitude": 39.136318,
+    "longitude": -111.845821,
+    "city": "Gunnison",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84635,
+    "latitude": 39.114202,
+    "longitude": -113.130306,
+    "city": "Hinckley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84636,
+    "latitude": 39.096372,
+    "longitude": -112.283443,
+    "city": "Holden",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84637,
+    "latitude": 38.831824,
+    "longitude": -112.456072,
+    "city": "Kanosh",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84638,
+    "latitude": 39.530246,
+    "longitude": -112.295191,
+    "city": "Leamington",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84639,
+    "latitude": 39.521515,
+    "longitude": -111.943753,
+    "city": "Levan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Juab"
+  },
+  {
+    "zip_code": 84640,
+    "latitude": 39.494252,
+    "longitude": -112.397903,
+    "city": "Lynndyl",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84642,
+    "latitude": 39.358358,
+    "longitude": -111.65769,
+    "city": "Manti",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84643,
+    "latitude": 39.11544,
+    "longitude": -111.690522,
+    "city": "Mayfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84644,
+    "latitude": 39.06433,
+    "longitude": -113.032141,
+    "city": "Meadow",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84645,
+    "latitude": 39.848111,
+    "longitude": -111.850284,
+    "city": "Mona",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Juab"
+  },
+  {
+    "zip_code": 84646,
+    "latitude": 39.510792,
+    "longitude": -111.560318,
+    "city": "Moroni",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84647,
+    "latitude": 39.348588,
+    "longitude": -111.605642,
+    "city": "Mount Pleasant",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84648,
+    "latitude": 39.757861,
+    "longitude": -111.841787,
+    "city": "Nephi",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Juab"
+  },
+  {
+    "zip_code": 84649,
+    "latitude": 39.372902,
+    "longitude": -112.328797,
+    "city": "Oak City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84650,
+    "latitude": 39.29022,
+    "longitude": -112.628084,
+    "city": "Oasis",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84651,
+    "latitude": 40.032911,
+    "longitude": -111.723974,
+    "city": "Payson",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84652,
+    "latitude": 38.906498,
+    "longitude": -111.975313,
+    "city": "Redmond",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84653,
+    "latitude": 40.011274,
+    "longitude": -111.599759,
+    "city": "Salem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84654,
+    "latitude": 38.921403,
+    "longitude": -111.908156,
+    "city": "Salina",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84655,
+    "latitude": 40.003254,
+    "longitude": -111.812973,
+    "city": "Santaquin",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84656,
+    "latitude": 39.249513,
+    "longitude": -112.106366,
+    "city": "Scipio",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84657,
+    "latitude": 38.848233,
+    "longitude": -111.973737,
+    "city": "Sigurd",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84660,
+    "latitude": 40.069946,
+    "longitude": -111.649086,
+    "city": "Spanish Fork",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84662,
+    "latitude": 39.467083,
+    "longitude": -111.46609,
+    "city": "Spring City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84663,
+    "latitude": 40.180718,
+    "longitude": -111.562586,
+    "city": "Springville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84664,
+    "latitude": 40.125168,
+    "longitude": -111.580197,
+    "city": "Mapleton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Utah"
+  },
+  {
+    "zip_code": 84665,
+    "latitude": 39.133489,
+    "longitude": -111.740853,
+    "city": "Sterling",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84667,
+    "latitude": 39.488381,
+    "longitude": -111.634051,
+    "city": "Wales",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sanpete"
+  },
+  {
+    "zip_code": 84701,
+    "latitude": 38.738771,
+    "longitude": -112.074362,
+    "city": "Richfield",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84710,
+    "latitude": 37.438637,
+    "longitude": -112.482285,
+    "city": "Alton",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84711,
+    "latitude": 38.716845,
+    "longitude": -112.065687,
+    "city": "Annabella",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84712,
+    "latitude": 37.729535,
+    "longitude": -110.543374,
+    "city": "Antimony",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84713,
+    "latitude": 38.315334,
+    "longitude": -112.798228,
+    "city": "Beaver",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 84714,
+    "latitude": 37.721369,
+    "longitude": -113.663891,
+    "city": "Beryl",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84715,
+    "latitude": 38.327826,
+    "longitude": -111.526391,
+    "city": "Bicknell",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84716,
+    "latitude": 37.844777,
+    "longitude": -111.308206,
+    "city": "Boulder",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84717,
+    "latitude": 37.844777,
+    "longitude": -111.308206,
+    "city": "Bryce Canyon",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84718,
+    "latitude": 37.844777,
+    "longitude": -111.308206,
+    "city": "Cannonville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84719,
+    "latitude": 37.735522,
+    "longitude": -112.839145,
+    "city": "Brian Head",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84720,
+    "latitude": 37.694059,
+    "longitude": -113.192619,
+    "city": "Cedar City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84721,
+    "latitude": 37.656843,
+    "longitude": -113.3695,
+    "city": "Cedar City",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84722,
+    "latitude": 37.46693,
+    "longitude": -113.624783,
+    "city": "Central",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84723,
+    "latitude": 38.182708,
+    "longitude": -112.232857,
+    "city": "Circleville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Piute"
+  },
+  {
+    "zip_code": 84724,
+    "latitude": 38.686192,
+    "longitude": -112.108495,
+    "city": "Elsinore",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84725,
+    "latitude": 37.579739,
+    "longitude": -113.689359,
+    "city": "Enterprise",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84726,
+    "latitude": 37.767764,
+    "longitude": -111.595666,
+    "city": "Escalante",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84728,
+    "latitude": 39.06433,
+    "longitude": -113.032141,
+    "city": "Garrison",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Millard"
+  },
+  {
+    "zip_code": 84729,
+    "latitude": 37.311416,
+    "longitude": -112.601749,
+    "city": "Glendale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84730,
+    "latitude": 38.766687,
+    "longitude": -111.96278,
+    "city": "Glenwood",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84731,
+    "latitude": 38.235645,
+    "longitude": -112.783262,
+    "city": "Greenville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 84732,
+    "latitude": 38.328871,
+    "longitude": -112.142622,
+    "city": "Greenwich",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Piute"
+  },
+  {
+    "zip_code": 84733,
+    "latitude": 37.287695,
+    "longitude": -113.760596,
+    "city": "Gunlock",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84734,
+    "latitude": 38.286909,
+    "longitude": -110.68796,
+    "city": "Hanksville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84735,
+    "latitude": 37.717477,
+    "longitude": -112.477716,
+    "city": "Hatch",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84736,
+    "latitude": 37.844777,
+    "longitude": -111.308206,
+    "city": "Henrieville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84737,
+    "latitude": 37.145366,
+    "longitude": -113.367458,
+    "city": "Hurricane",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84738,
+    "latitude": 37.218261,
+    "longitude": -113.545812,
+    "city": "Ivins",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84739,
+    "latitude": 38.683242,
+    "longitude": -112.115118,
+    "city": "Joseph",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84740,
+    "latitude": 38.243856,
+    "longitude": -112.223742,
+    "city": "Junction",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Piute"
+  },
+  {
+    "zip_code": 84741,
+    "latitude": 37.265251,
+    "longitude": -111.687187,
+    "city": "Kanab",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84742,
+    "latitude": 37.522753,
+    "longitude": -113.203633,
+    "city": "Kanarraville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84743,
+    "latitude": 38.227829,
+    "longitude": -112.20536,
+    "city": "Kingston",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Piute"
+  },
+  {
+    "zip_code": 84744,
+    "latitude": 38.722109,
+    "longitude": -111.871305,
+    "city": "Koosharem",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84745,
+    "latitude": 37.222917,
+    "longitude": -113.316429,
+    "city": "La Verkin",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84746,
+    "latitude": 37.237225,
+    "longitude": -113.33562,
+    "city": "Leeds",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84747,
+    "latitude": 38.441473,
+    "longitude": -111.595751,
+    "city": "Loa",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84749,
+    "latitude": 38.398684,
+    "longitude": -111.592048,
+    "city": "Lyman",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84750,
+    "latitude": 38.434909,
+    "longitude": -112.206757,
+    "city": "Marysvale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Piute"
+  },
+  {
+    "zip_code": 84751,
+    "latitude": 38.305873,
+    "longitude": -113.250981,
+    "city": "Milford",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 84752,
+    "latitude": 38.214874,
+    "longitude": -112.923106,
+    "city": "Minersville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 84753,
+    "latitude": 37.775781,
+    "longitude": -113.813634,
+    "city": "Modena",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84754,
+    "latitude": 38.657847,
+    "longitude": -112.126117,
+    "city": "Monroe",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84755,
+    "latitude": 37.241269,
+    "longitude": -112.696938,
+    "city": "Mount Carmel",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84756,
+    "latitude": 37.692401,
+    "longitude": -113.627239,
+    "city": "Newcastle",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84757,
+    "latitude": 37.455047,
+    "longitude": -113.268012,
+    "city": "New Harmony",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84758,
+    "latitude": 37.272395,
+    "longitude": -112.716919,
+    "city": "Orderville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84759,
+    "latitude": 37.827846,
+    "longitude": -112.522595,
+    "city": "Panguitch",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84760,
+    "latitude": 37.886012,
+    "longitude": -112.791568,
+    "city": "Paragonah",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84761,
+    "latitude": 37.823412,
+    "longitude": -112.849246,
+    "city": "Parowan",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84762,
+    "latitude": 37.516889,
+    "longitude": -112.663612,
+    "city": "Duck Creek Village",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 84763,
+    "latitude": 37.160144,
+    "longitude": -113.042525,
+    "city": "Rockville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84764,
+    "latitude": 37.844777,
+    "longitude": -111.308206,
+    "city": "Bryce",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84765,
+    "latitude": 37.345219,
+    "longitude": -113.676057,
+    "city": "Santa Clara",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84766,
+    "latitude": 38.578516,
+    "longitude": -112.310757,
+    "city": "Sevier",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 84767,
+    "latitude": 37.186249,
+    "longitude": -113.013922,
+    "city": "Springdale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84770,
+    "latitude": 37.306845,
+    "longitude": -113.355421,
+    "city": "Saint George",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84771,
+    "latitude": 37.309231,
+    "longitude": -113.476182,
+    "city": "Saint George",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84772,
+    "latitude": 37.815946,
+    "longitude": -112.900041,
+    "city": "Summit",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 84773,
+    "latitude": 38.272761,
+    "longitude": -111.464123,
+    "city": "Teasdale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84774,
+    "latitude": 37.237701,
+    "longitude": -113.332321,
+    "city": "Toquerville",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84775,
+    "latitude": 38.296853,
+    "longitude": -111.413774,
+    "city": "Torrey",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 84776,
+    "latitude": 37.626146,
+    "longitude": -112.083565,
+    "city": "Tropic",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 84779,
+    "latitude": 37.202201,
+    "longitude": -113.185422,
+    "city": "Virgin",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84780,
+    "latitude": 37.322604,
+    "longitude": -113.583816,
+    "city": "Washington",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84781,
+    "latitude": 37.37104,
+    "longitude": -113.384806,
+    "city": "Pine Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84782,
+    "latitude": 37.359958,
+    "longitude": -113.621344,
+    "city": "Veyo",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84783,
+    "latitude": 37.307734,
+    "longitude": -113.665249,
+    "city": "Dammeron Valley",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84784,
+    "latitude": 37.004364,
+    "longitude": -112.978418,
+    "city": "Hildale",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84790,
+    "latitude": 37.083098,
+    "longitude": -113.558068,
+    "city": "Saint George",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 84791,
+    "latitude": 37.309231,
+    "longitude": -113.476182,
+    "city": "Saint George",
+    "state": "UT",
+    "full_state": "Utah",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 85001,
+    "latitude": 33.703967,
+    "longitude": -112.351835,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85002,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85003,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85004,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85005,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85006,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85007,
+    "latitude": 33.276539,
+    "longitude": -112.18717,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85008,
+    "latitude": 33.446797,
+    "longitude": -111.953512,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  },
+  {
+    "zip_code": 85009,
+    "latitude": 33.447489,
+    "longitude": -111.96942,
+    "city": "Phoenix",
+    "state": "AZ",
+    "full_state": "Arizona",
+    "county": "Maricopa"
+  }
+]

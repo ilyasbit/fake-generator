@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 49743,
+    "latitude": 45.283467,
+    "longitude": -83.873719,
+    "city": "Hawks",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49744,
+    "latitude": 44.996329,
+    "longitude": -83.667641,
+    "city": "Herron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alpena"
+  },
+  {
+    "zip_code": 49745,
+    "latitude": 46.021715,
+    "longitude": -84.42845,
+    "city": "Hessel",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49746,
+    "latitude": 45.05958,
+    "longitude": -84.022691,
+    "city": "Hillman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montmorency"
+  },
+  {
+    "zip_code": 49747,
+    "latitude": 44.909723,
+    "longitude": -83.608911,
+    "city": "Hubbard Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alpena"
+  },
+  {
+    "zip_code": 49748,
+    "latitude": 46.390752,
+    "longitude": -85.176386,
+    "city": "Hulbert",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49749,
+    "latitude": 45.447209,
+    "longitude": -84.578019,
+    "city": "Indian River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49751,
+    "latitude": 44.963223,
+    "longitude": -84.505983,
+    "city": "Johannesburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49752,
+    "latitude": 46.259604,
+    "longitude": -84.647332,
+    "city": "Kinross",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49753,
+    "latitude": 45.013075,
+    "longitude": -83.761958,
+    "city": "Lachine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alpena"
+  },
+  {
+    "zip_code": 49755,
+    "latitude": 45.592565,
+    "longitude": -84.86323,
+    "city": "Levering",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49756,
+    "latitude": 44.91306,
+    "longitude": -84.21857,
+    "city": "Lewiston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montmorency"
+  },
+  {
+    "zip_code": 49757,
+    "latitude": 45.853721,
+    "longitude": -84.618203,
+    "city": "Mackinac Island",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49759,
+    "latitude": 45.430946,
+    "longitude": -84.085375,
+    "city": "Millersburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49760,
+    "latitude": 46.07039,
+    "longitude": -84.992591,
+    "city": "Moran",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49761,
+    "latitude": 45.559536,
+    "longitude": -84.522098,
+    "city": "Mullett Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49762,
+    "latitude": 46.109525,
+    "longitude": -85.34592,
+    "city": "Naubinway",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49764,
+    "latitude": 45.480257,
+    "longitude": -84.814645,
+    "city": "Oden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49765,
+    "latitude": 45.363283,
+    "longitude": -83.871571,
+    "city": "Onaway",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49766,
+    "latitude": 45.028249,
+    "longitude": -83.53661,
+    "city": "Ossineke",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alpena"
+  },
+  {
+    "zip_code": 49768,
+    "latitude": 46.595083,
+    "longitude": -85.097324,
+    "city": "Paradise",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49769,
+    "latitude": 45.566112,
+    "longitude": -84.863241,
+    "city": "Pellston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49770,
+    "latitude": 45.355915,
+    "longitude": -84.913255,
+    "city": "Petoskey",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49774,
+    "latitude": 46.179987,
+    "longitude": -84.315417,
+    "city": "Pickford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49775,
+    "latitude": 45.969075,
+    "longitude": -84.991195,
+    "city": "Pointe Aux Pins",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49776,
+    "latitude": 45.278913,
+    "longitude": -83.734615,
+    "city": "Posen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49777,
+    "latitude": 45.283057,
+    "longitude": -83.586073,
+    "city": "Presque Isle",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49778,
+    "latitude": 46.410777,
+    "longitude": -84.336519,
+    "city": "Brimley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49779,
+    "latitude": 45.384168,
+    "longitude": -83.74985,
+    "city": "Rogers City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Presque Isle"
+  },
+  {
+    "zip_code": 49780,
+    "latitude": 46.258514,
+    "longitude": -84.800411,
+    "city": "Rudyard",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49781,
+    "latitude": 45.99852,
+    "longitude": -84.697818,
+    "city": "Saint Ignace",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49782,
+    "latitude": 45.668447,
+    "longitude": -85.547299,
+    "city": "Beaver Island",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49783,
+    "latitude": 46.357439,
+    "longitude": -84.587315,
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49784,
+    "latitude": 46.410777,
+    "longitude": -84.336519,
+    "city": "Kincheloe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49785,
+    "latitude": 46.181451,
+    "longitude": -84.405367,
+    "city": "Kincheloe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49786,
+    "latitude": 46.410777,
+    "longitude": -84.336519,
+    "city": "Kincheloe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49788,
+    "latitude": 46.288432,
+    "longitude": -84.541577,
+    "city": "Kincheloe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49790,
+    "latitude": 46.387377,
+    "longitude": -84.966792,
+    "city": "Strongs",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49791,
+    "latitude": 45.483842,
+    "longitude": -84.593561,
+    "city": "Topinabee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49792,
+    "latitude": 45.358825,
+    "longitude": -84.295283,
+    "city": "Tower",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49793,
+    "latitude": 46.215929,
+    "longitude": -85.006769,
+    "city": "Trout Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49795,
+    "latitude": 45.139667,
+    "longitude": -84.552604,
+    "city": "Vanderbilt",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49796,
+    "latitude": 45.245371,
+    "longitude": -84.938228,
+    "city": "Walloon Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49797,
+    "latitude": 44.870234,
+    "longitude": -84.659847,
+    "city": "Waters",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49799,
+    "latitude": 45.326831,
+    "longitude": -84.549533,
+    "city": "Wolverine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49801,
+    "latitude": 46.021627,
+    "longitude": -87.874496,
+    "city": "Iron Mountain",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49802,
+    "latitude": 45.807905,
+    "longitude": -88.084302,
+    "city": "Kingsford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49805,
+    "latitude": 47.287939,
+    "longitude": -88.412893,
+    "city": "Allouez",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Keweenaw"
+  },
+  {
+    "zip_code": 49806,
+    "latitude": 46.444586,
+    "longitude": -86.911506,
+    "city": "Au Train",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49807,
+    "latitude": 45.695595,
+    "longitude": -87.207306,
+    "city": "Bark River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49808,
+    "latitude": 46.770788,
+    "longitude": -87.672566,
+    "city": "Big Bay",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49812,
+    "latitude": 45.601899,
+    "longitude": -87.519075,
+    "city": "Carney",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49813,
+    "latitude": 45.443789,
+    "longitude": -87.401604,
+    "city": "Cedar River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49814,
+    "latitude": 46.466637,
+    "longitude": -87.920429,
+    "city": "Champion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49815,
+    "latitude": 46.17823,
+    "longitude": -87.934279,
+    "city": "Channing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49816,
+    "latitude": 46.336962,
+    "longitude": -86.993579,
+    "city": "Chatham",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49817,
+    "latitude": 45.915778,
+    "longitude": -86.473246,
+    "city": "Cooks",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Schoolcraft"
+  },
+  {
+    "zip_code": 49818,
+    "latitude": 45.910352,
+    "longitude": -87.20714,
+    "city": "Cornell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49819,
+    "latitude": 46.604141,
+    "longitude": -87.614805,
+    "city": "Arnold",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49820,
+    "latitude": 46.159286,
+    "longitude": -85.699294,
+    "city": "Curtis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49821,
+    "latitude": 45.524441,
+    "longitude": -87.614772,
+    "city": "Daggett",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49822,
+    "latitude": 46.426964,
+    "longitude": -87.049704,
+    "city": "Deerton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49825,
+    "latitude": 46.329926,
+    "longitude": -87.013761,
+    "city": "Eben Junction",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49826,
+    "latitude": 46.348071,
+    "longitude": -87.043622,
+    "city": "Rumely",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49827,
+    "latitude": 46.169384,
+    "longitude": -85.587976,
+    "city": "Engadine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49829,
+    "latitude": 45.851343,
+    "longitude": -87.057049,
+    "city": "Escanaba",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49831,
+    "latitude": 46.022634,
+    "longitude": -87.793865,
+    "city": "Felch",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49833,
+    "latitude": 46.279714,
+    "longitude": -87.331099,
+    "city": "Little Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49834,
+    "latitude": 45.939891,
+    "longitude": -87.805995,
+    "city": "Foster City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49835,
+    "latitude": 45.756636,
+    "longitude": -86.586125,
+    "city": "Garden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49836,
+    "latitude": 46.042076,
+    "longitude": -86.235756,
+    "city": "Germfask",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Schoolcraft"
+  },
+  {
+    "zip_code": 49837,
+    "latitude": 45.881256,
+    "longitude": -87.115221,
+    "city": "Gladstone",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49838,
+    "latitude": 46.074658,
+    "longitude": -85.733841,
+    "city": "Gould City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49839,
+    "latitude": 46.668806,
+    "longitude": -85.964145,
+    "city": "Grand Marais",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49840,
+    "latitude": 46.042076,
+    "longitude": -86.235756,
+    "city": "Gulliver",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Schoolcraft"
+  },
+  {
+    "zip_code": 49841,
+    "latitude": 46.331119,
+    "longitude": -87.439658,
+    "city": "Gwinn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49845,
+    "latitude": 45.692178,
+    "longitude": -87.351342,
+    "city": "Harris",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49847,
+    "latitude": 45.700102,
+    "longitude": -87.642374,
+    "city": "Hermansville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49848,
+    "latitude": 45.371769,
+    "longitude": -87.623735,
+    "city": "Ingalls",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49849,
+    "latitude": 46.43869,
+    "longitude": -87.709096,
+    "city": "Ishpeming",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49852,
+    "latitude": 45.827514,
+    "longitude": -87.776381,
+    "city": "Loretto",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49853,
+    "latitude": 46.347592,
+    "longitude": -85.658525,
+    "city": "Mc Millan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Luce"
+  },
+  {
+    "zip_code": 49854,
+    "latitude": 46.006223,
+    "longitude": -86.25549,
+    "city": "Manistique",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Schoolcraft"
+  },
+  {
+    "zip_code": 49855,
+    "latitude": 46.593435,
+    "longitude": -87.615282,
+    "city": "Marquette",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49858,
+    "latitude": 45.228959,
+    "longitude": -87.56772,
+    "city": "Menominee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49861,
+    "latitude": 46.530795,
+    "longitude": -88.091432,
+    "city": "Michigamme",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49862,
+    "latitude": 46.414779,
+    "longitude": -86.460319,
+    "city": "Munising",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49863,
+    "latitude": 45.608658,
+    "longitude": -87.56331,
+    "city": "Nadeau",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49864,
+    "latitude": 45.842437,
+    "longitude": -86.655849,
+    "city": "Nahma",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49865,
+    "latitude": 46.604141,
+    "longitude": -87.614805,
+    "city": "National Mine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49866,
+    "latitude": 46.494904,
+    "longitude": -87.799518,
+    "city": "Negaunee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49868,
+    "latitude": 46.460159,
+    "longitude": -85.515605,
+    "city": "Newberry",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Luce"
+  },
+  {
+    "zip_code": 49870,
+    "latitude": 45.857201,
+    "longitude": -87.917602,
+    "city": "Norway",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49871,
+    "latitude": 46.441565,
+    "longitude": -87.576355,
+    "city": "Palmer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49872,
+    "latitude": 45.992476,
+    "longitude": -87.079231,
+    "city": "Perkins",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49873,
+    "latitude": 45.84102,
+    "longitude": -87.481565,
+    "city": "Perronville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49874,
+    "latitude": 45.703409,
+    "longitude": -87.512409,
+    "city": "Powers",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49876,
+    "latitude": 45.80759,
+    "longitude": -87.959862,
+    "city": "Quinnesec",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49877,
+    "latitude": 46.129666,
+    "longitude": -87.736665,
+    "city": "Ralph",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49878,
+    "latitude": 45.913952,
+    "longitude": -86.804734,
+    "city": "Rapid River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49879,
+    "latitude": 46.36558,
+    "longitude": -87.89039,
+    "city": "Republic",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49880,
+    "latitude": 46.057396,
+    "longitude": -87.122594,
+    "city": "Rock",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49881,
+    "latitude": 46.074737,
+    "longitude": -88.039613,
+    "city": "Sagola",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49883,
+    "latitude": 46.042076,
+    "longitude": -86.235756,
+    "city": "Seney",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Schoolcraft"
+  },
+  {
+    "zip_code": 49884,
+    "latitude": 46.434256,
+    "longitude": -86.367899,
+    "city": "Shingleton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49885,
+    "latitude": 46.396896,
+    "longitude": -87.300505,
+    "city": "Skandia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 49886,
+    "latitude": 45.677744,
+    "longitude": -87.485236,
+    "city": "Spalding",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49887,
+    "latitude": 45.447416,
+    "longitude": -87.61396,
+    "city": "Stephenson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49891,
+    "latitude": 46.238695,
+    "longitude": -87.014443,
+    "city": "Trenary",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49892,
+    "latitude": 45.830389,
+    "longitude": -87.807258,
+    "city": "Vulcan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 49893,
+    "latitude": 45.295383,
+    "longitude": -87.585611,
+    "city": "Wallace",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49894,
+    "latitude": 45.788216,
+    "longitude": -87.078454,
+    "city": "Wells",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Delta"
+  },
+  {
+    "zip_code": 49895,
+    "latitude": 46.291471,
+    "longitude": -86.671351,
+    "city": "Wetmore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alger"
+  },
+  {
+    "zip_code": 49896,
+    "latitude": 45.679339,
+    "longitude": -87.389877,
+    "city": "Wilson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 49901,
+    "latitude": 47.293287,
+    "longitude": -88.389708,
+    "city": "Ahmeek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Keweenaw"
+  },
+  {
+    "zip_code": 49902,
+    "latitude": 46.030951,
+    "longitude": -88.377097,
+    "city": "Alpha",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49903,
+    "latitude": 46.249415,
+    "longitude": -88.417593,
+    "city": "Amasa",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49905,
+    "latitude": 47.072716,
+    "longitude": -88.634939,
+    "city": "Atlantic Mine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49908,
+    "latitude": 46.80476,
+    "longitude": -88.575842,
+    "city": "Baraga",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Baraga"
+  },
+  {
+    "zip_code": 49910,
+    "latitude": 46.585302,
+    "longitude": -89.517464,
+    "city": "Bergland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49911,
+    "latitude": 46.423427,
+    "longitude": -89.992677,
+    "city": "Bessemer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49912,
+    "latitude": 46.475105,
+    "longitude": -89.222897,
+    "city": "Bruce Crossing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49913,
+    "latitude": 47.154742,
+    "longitude": -88.525475,
+    "city": "Calumet",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49915,
+    "latitude": 46.065734,
+    "longitude": -88.630972,
+    "city": "Caspian",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49916,
+    "latitude": 47.020152,
+    "longitude": -88.572499,
+    "city": "Chassell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49917,
+    "latitude": 47.284183,
+    "longitude": -88.387535,
+    "city": "Copper City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49918,
+    "latitude": 47.471616,
+    "longitude": -87.946283,
+    "city": "Copper Harbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Keweenaw"
+  },
+  {
+    "zip_code": 49919,
+    "latitude": 46.526495,
+    "longitude": -88.584598,
+    "city": "Covington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Baraga"
+  },
+  {
+    "zip_code": 49920,
+    "latitude": 46.143009,
+    "longitude": -88.376197,
+    "city": "Crystal Falls",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49921,
+    "latitude": 47.092838,
+    "longitude": -88.583578,
+    "city": "Dodgeville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49922,
+    "latitude": 47.120346,
+    "longitude": -88.461337,
+    "city": "Dollar Bay",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49925,
+    "latitude": 46.548352,
+    "longitude": -89.365311,
+    "city": "Ewen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49927,
+    "latitude": 46.035213,
+    "longitude": -88.56094,
+    "city": "Gaastra",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49929,
+    "latitude": 46.780865,
+    "longitude": -89.114601,
+    "city": "Greenland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49930,
+    "latitude": 47.156614,
+    "longitude": -88.558554,
+    "city": "Hancock",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49931,
+    "latitude": 47.105336,
+    "longitude": -88.548157,
+    "city": "Houghton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49934,
+    "latitude": 47.167087,
+    "longitude": -88.466785,
+    "city": "Hubbell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49935,
+    "latitude": 46.12047,
+    "longitude": -88.618995,
+    "city": "Iron River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49938,
+    "latitude": 46.479574,
+    "longitude": -90.167111,
+    "city": "Ironwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49942,
+    "latitude": 47.269416,
+    "longitude": -88.41841,
+    "city": "Kearsarge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49945,
+    "latitude": 47.162481,
+    "longitude": -88.503108,
+    "city": "Lake Linden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49946,
+    "latitude": 46.740227,
+    "longitude": -88.44705,
+    "city": "Lanse",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Baraga"
+  },
+  {
+    "zip_code": 49947,
+    "latitude": 46.379315,
+    "longitude": -89.612621,
+    "city": "Marenisco",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49948,
+    "latitude": 46.722794,
+    "longitude": -89.051191,
+    "city": "Mass City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49950,
+    "latitude": 47.352566,
+    "longitude": -88.288905,
+    "city": "Mohawk",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Keweenaw"
+  },
+  {
+    "zip_code": 49952,
+    "latitude": 46.774818,
+    "longitude": -88.879888,
+    "city": "Nisula",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49953,
+    "latitude": 46.73807,
+    "longitude": -89.334696,
+    "city": "Ontonagon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49955,
+    "latitude": 47.04038,
+    "longitude": -88.670361,
+    "city": "Painesdale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49958,
+    "latitude": 46.7402,
+    "longitude": -88.7479,
+    "city": "Pelkie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49959,
+    "latitude": 46.472742,
+    "longitude": -89.99761,
+    "city": "Ramsay",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49960,
+    "latitude": 46.753715,
+    "longitude": -89.195837,
+    "city": "Rockland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49961,
+    "latitude": 46.501487,
+    "longitude": -88.79715,
+    "city": "Sidnaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49962,
+    "latitude": 46.867128,
+    "longitude": -88.139072,
+    "city": "Skanee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Baraga"
+  },
+  {
+    "zip_code": 49963,
+    "latitude": 47.071862,
+    "longitude": -88.651973,
+    "city": "South Range",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49964,
+    "latitude": 46.079655,
+    "longitude": -88.629006,
+    "city": "Stambaugh",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 49965,
+    "latitude": 46.910918,
+    "longitude": -88.85321,
+    "city": "Toivola",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Houghton"
+  },
+  {
+    "zip_code": 49967,
+    "latitude": 46.4931,
+    "longitude": -89.085164,
+    "city": "Trout Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 49968,
+    "latitude": 46.490844,
+    "longitude": -89.875182,
+    "city": "Wakefield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49969,
+    "latitude": 46.22184,
+    "longitude": -89.240577,
+    "city": "Watersmeet",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gogebic"
+  },
+  {
+    "zip_code": 49970,
+    "latitude": 46.731668,
+    "longitude": -88.335388,
+    "city": "Watton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Baraga"
+  },
+  {
+    "zip_code": 49971,
+    "latitude": 46.782698,
+    "longitude": -89.597404,
+    "city": "White Pine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ontonagon"
+  },
+  {
+    "zip_code": 50001,
+    "latitude": 41.384345,
+    "longitude": -93.424294,
+    "city": "Ackworth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50002,
+    "latitude": 41.439109,
+    "longitude": -94.633805,
+    "city": "Adair",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 50003,
+    "latitude": 41.617591,
+    "longitude": -94.034515,
+    "city": "Adel",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50005,
+    "latitude": 42.143933,
+    "longitude": -92.961868,
+    "city": "Albion",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50006,
+    "latitude": 42.430997,
+    "longitude": -93.390638,
+    "city": "Alden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50007,
+    "latitude": 41.813089,
+    "longitude": -93.609929,
+    "city": "Alleman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50008,
+    "latitude": 40.672872,
+    "longitude": -93.405589,
+    "city": "Allerton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50009,
+    "latitude": 41.65097,
+    "longitude": -93.4685,
+    "city": "Altoona",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50010,
+    "latitude": 42.037879,
+    "longitude": -93.600254,
+    "city": "Ames",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50011,
+    "latitude": 42.035998,
+    "longitude": -93.465172,
+    "city": "Ames",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50012,
+    "latitude": 42.023557,
+    "longitude": -93.648465,
+    "city": "Ames",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50013,
+    "latitude": 42.023535,
+    "longitude": -93.640818,
+    "city": "Ames",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50014,
+    "latitude": 42.045748,
+    "longitude": -93.647237,
+    "city": "Ames",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50015,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Ankeny",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50020,
+    "latitude": 41.390677,
+    "longitude": -94.813882,
+    "city": "Anita",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 50021,
+    "latitude": 41.756321,
+    "longitude": -93.601467,
+    "city": "Ankeny",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50022,
+    "latitude": 41.381871,
+    "longitude": -94.960765,
+    "city": "Atlantic",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 50025,
+    "latitude": 41.704535,
+    "longitude": -94.918652,
+    "city": "Audubon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 50026,
+    "latitude": 41.827251,
+    "longitude": -94.449511,
+    "city": "Bagley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50027,
+    "latitude": 41.46974,
+    "longitude": -92.487177,
+    "city": "Barnes City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 50028,
+    "latitude": 41.811839,
+    "longitude": -93.159506,
+    "city": "Baxter",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50029,
+    "latitude": 41.6872,
+    "longitude": -94.528322,
+    "city": "Bayard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50031,
+    "latitude": 42.038746,
+    "longitude": -94.143566,
+    "city": "Beaver",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50032,
+    "latitude": 41.665838,
+    "longitude": -93.54323,
+    "city": "Berwick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50033,
+    "latitude": 41.334078,
+    "longitude": -94.015337,
+    "city": "Bevington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50034,
+    "latitude": 42.485099,
+    "longitude": -93.68778,
+    "city": "Blairsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50035,
+    "latitude": 41.730186,
+    "longitude": -93.45694,
+    "city": "Bondurant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50036,
+    "latitude": 42.0425,
+    "longitude": -93.904897,
+    "city": "Boone",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50037,
+    "latitude": 42.036552,
+    "longitude": -93.931686,
+    "city": "Boone",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50038,
+    "latitude": 41.630419,
+    "longitude": -93.946297,
+    "city": "Booneville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50039,
+    "latitude": 41.82003,
+    "longitude": -94.00881,
+    "city": "Bouton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50040,
+    "latitude": 42.161647,
+    "longitude": -94.088499,
+    "city": "Boxholm",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50041,
+    "latitude": 42.600335,
+    "longitude": -93.223204,
+    "city": "Bradford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50042,
+    "latitude": 41.54069,
+    "longitude": -94.878382,
+    "city": "Brayton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 50043,
+    "latitude": 42.417866,
+    "longitude": -93.375544,
+    "city": "Buckeye",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50044,
+    "latitude": 41.211897,
+    "longitude": -93.054149,
+    "city": "Bussey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50046,
+    "latitude": 41.914036,
+    "longitude": -93.51988,
+    "city": "Cambridge",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50047,
+    "latitude": 41.416785,
+    "longitude": -93.520445,
+    "city": "Carlisle",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50048,
+    "latitude": 41.576333,
+    "longitude": -94.521205,
+    "city": "Casey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50049,
+    "latitude": 41.046868,
+    "longitude": -93.309464,
+    "city": "Chariton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 50050,
+    "latitude": 42.141856,
+    "longitude": -94.503538,
+    "city": "Churdan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50051,
+    "latitude": 42.11412,
+    "longitude": -93.149072,
+    "city": "Clemons",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50052,
+    "latitude": 40.634202,
+    "longitude": -93.447953,
+    "city": "Clio",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50054,
+    "latitude": 41.684507,
+    "longitude": -93.222321,
+    "city": "Colfax",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50055,
+    "latitude": 41.906479,
+    "longitude": -93.294572,
+    "city": "Collins",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50056,
+    "latitude": 42.000921,
+    "longitude": -93.380733,
+    "city": "Colo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50057,
+    "latitude": 41.196557,
+    "longitude": -93.159664,
+    "city": "Columbia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50058,
+    "latitude": 41.957228,
+    "longitude": -94.735083,
+    "city": "Coon Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 50059,
+    "latitude": 42.036334,
+    "longitude": -94.396956,
+    "city": "Cooper",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50060,
+    "latitude": 40.777093,
+    "longitude": -93.327355,
+    "city": "Corydon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50061,
+    "latitude": 41.468663,
+    "longitude": -93.745358,
+    "city": "Cumming",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50062,
+    "latitude": 41.334487,
+    "longitude": -93.14778,
+    "city": "Dallas",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50063,
+    "latitude": 41.713107,
+    "longitude": -93.930807,
+    "city": "Dallas Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50064,
+    "latitude": 42.100422,
+    "longitude": -94.230723,
+    "city": "Dana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50065,
+    "latitude": 40.634604,
+    "longitude": -93.8105,
+    "city": "Davis City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50066,
+    "latitude": 41.800769,
+    "longitude": -94.202714,
+    "city": "Dawson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50067,
+    "latitude": 40.743001,
+    "longitude": -93.831719,
+    "city": "Decatur",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50068,
+    "latitude": 41.029481,
+    "longitude": -93.327475,
+    "city": "Derby",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 50069,
+    "latitude": 41.521176,
+    "longitude": -94.107532,
+    "city": "De Soto",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50070,
+    "latitude": 41.531827,
+    "longitude": -94.205252,
+    "city": "Dexter",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50071,
+    "latitude": 42.651566,
+    "longitude": -93.582732,
+    "city": "Dows",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50072,
+    "latitude": 41.43059,
+    "longitude": -94.107202,
+    "city": "Earlham",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50073,
+    "latitude": 41.783265,
+    "longitude": -93.5171,
+    "city": "Elkhart",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50074,
+    "latitude": 40.846834,
+    "longitude": -94.088656,
+    "city": "Ellston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50075,
+    "latitude": 42.325487,
+    "longitude": -93.55153,
+    "city": "Ellsworth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50076,
+    "latitude": 41.589212,
+    "longitude": -94.870749,
+    "city": "Exira",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 50078,
+    "latitude": 41.937357,
+    "longitude": -92.865043,
+    "city": "Ferguson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50101,
+    "latitude": 42.666494,
+    "longitude": -93.627104,
+    "city": "Galt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50102,
+    "latitude": 42.235432,
+    "longitude": -93.373262,
+    "city": "Garden City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50103,
+    "latitude": 40.736644,
+    "longitude": -93.785839,
+    "city": "Garden Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50104,
+    "latitude": 41.480854,
+    "longitude": -92.371164,
+    "city": "Gibson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 50105,
+    "latitude": 42.114752,
+    "longitude": -93.63986,
+    "city": "Gilbert",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50106,
+    "latitude": 41.987444,
+    "longitude": -92.963098,
+    "city": "Gilman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50107,
+    "latitude": 42.035745,
+    "longitude": -94.242288,
+    "city": "Grand Junction",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50108,
+    "latitude": 40.819397,
+    "longitude": -93.962986,
+    "city": "Grand River",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50109,
+    "latitude": 41.761574,
+    "longitude": -93.853297,
+    "city": "Granger",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50110,
+    "latitude": 41.840109,
+    "longitude": -94.981191,
+    "city": "Gray",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 50111,
+    "latitude": 41.652116,
+    "longitude": -93.600453,
+    "city": "Grimes",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50112,
+    "latitude": 41.685324,
+    "longitude": -92.630258,
+    "city": "Grinnell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 50115,
+    "latitude": 41.683516,
+    "longitude": -94.559702,
+    "city": "Guthrie Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50116,
+    "latitude": 41.189953,
+    "longitude": -92.95896,
+    "city": "Hamilton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50117,
+    "latitude": 41.746719,
+    "longitude": -94.847093,
+    "city": "Hamlin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 50118,
+    "latitude": 41.439093,
+    "longitude": -93.36963,
+    "city": "Hartford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50119,
+    "latitude": 41.299888,
+    "longitude": -92.928147,
+    "city": "Harvey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50120,
+    "latitude": 41.938248,
+    "longitude": -92.968108,
+    "city": "Haverhill",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50122,
+    "latitude": 42.303338,
+    "longitude": -93.329584,
+    "city": "Hubbard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50123,
+    "latitude": 40.80286,
+    "longitude": -93.518445,
+    "city": "Humeston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50124,
+    "latitude": 41.906086,
+    "longitude": -93.616342,
+    "city": "Huxley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50125,
+    "latitude": 41.314309,
+    "longitude": -93.588041,
+    "city": "Indianola",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50126,
+    "latitude": 42.43026,
+    "longitude": -93.253363,
+    "city": "Iowa Falls",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50127,
+    "latitude": 41.777174,
+    "longitude": -93.21383,
+    "city": "Ira",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50128,
+    "latitude": 41.820851,
+    "longitude": -94.319081,
+    "city": "Jamaica",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50129,
+    "latitude": 42.007323,
+    "longitude": -94.372586,
+    "city": "Jefferson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50130,
+    "latitude": 42.339466,
+    "longitude": -93.721503,
+    "city": "Jewell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50131,
+    "latitude": 41.714435,
+    "longitude": -93.732559,
+    "city": "Johnston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50132,
+    "latitude": 42.390667,
+    "longitude": -93.684048,
+    "city": "Kamrar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50133,
+    "latitude": 40.709922,
+    "longitude": -94.049307,
+    "city": "Kellerton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50134,
+    "latitude": 41.932278,
+    "longitude": -93.654229,
+    "city": "Kelley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50135,
+    "latitude": 41.706656,
+    "longitude": -93.023296,
+    "city": "Kellogg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50136,
+    "latitude": 41.455621,
+    "longitude": -92.288871,
+    "city": "Keswick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 50137,
+    "latitude": 41.659444,
+    "longitude": -92.939073,
+    "city": "Killduff",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50138,
+    "latitude": 41.295893,
+    "longitude": -93.104232,
+    "city": "Knoxville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50139,
+    "latitude": 41.218741,
+    "longitude": -93.414713,
+    "city": "Lacona",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50140,
+    "latitude": 40.618769,
+    "longitude": -93.927187,
+    "city": "Lamoni",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50141,
+    "latitude": 41.898521,
+    "longitude": -92.967122,
+    "city": "Laurel",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50142,
+    "latitude": 42.020946,
+    "longitude": -92.775909,
+    "city": "Le Grand",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50143,
+    "latitude": 41.338137,
+    "longitude": -92.794397,
+    "city": "Leighton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 50144,
+    "latitude": 40.740697,
+    "longitude": -93.748889,
+    "city": "Leon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50145,
+    "latitude": 41.207133,
+    "longitude": -93.499347,
+    "city": "Liberty Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50146,
+    "latitude": 41.674068,
+    "longitude": -94.203105,
+    "city": "Linden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50147,
+    "latitude": 40.586053,
+    "longitude": -93.523318,
+    "city": "Lineville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50148,
+    "latitude": 42.175223,
+    "longitude": -92.969854,
+    "city": "Liscomb",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50149,
+    "latitude": 41.108111,
+    "longitude": -94.102318,
+    "city": "Lorimor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50150,
+    "latitude": 41.028469,
+    "longitude": -92.976822,
+    "city": "Lovilia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 50151,
+    "latitude": 41.004925,
+    "longitude": -93.492145,
+    "city": "Lucas",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 50152,
+    "latitude": 41.938679,
+    "longitude": -93.837061,
+    "city": "Luther",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50153,
+    "latitude": 41.60565,
+    "longitude": -92.846323,
+    "city": "Lynnville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50154,
+    "latitude": 42.158029,
+    "longitude": -93.395647,
+    "city": "Mc Callsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50155,
+    "latitude": 41.210365,
+    "longitude": -94.182509,
+    "city": "Macksburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50156,
+    "latitude": 41.92886,
+    "longitude": -93.797086,
+    "city": "Madrid",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50157,
+    "latitude": 41.732036,
+    "longitude": -92.512822,
+    "city": "Malcom",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 50158,
+    "latitude": 42.036096,
+    "longitude": -92.998867,
+    "city": "Marshalltown",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50160,
+    "latitude": 41.385401,
+    "longitude": -93.741773,
+    "city": "Martensdale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50161,
+    "latitude": 41.920999,
+    "longitude": -93.395946,
+    "city": "Maxwell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50162,
+    "latitude": 42.035719,
+    "longitude": -93.115647,
+    "city": "Melbourne",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50163,
+    "latitude": 41.242194,
+    "longitude": -93.173193,
+    "city": "Melcher",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50164,
+    "latitude": 41.553004,
+    "longitude": -94.395245,
+    "city": "Menlo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50165,
+    "latitude": 40.843741,
+    "longitude": -93.362185,
+    "city": "Millerton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 50166,
+    "latitude": 41.283124,
+    "longitude": -93.428847,
+    "city": "Milo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50167,
+    "latitude": 41.732252,
+    "longitude": -94.047607,
+    "city": "Minburn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50168,
+    "latitude": 41.775852,
+    "longitude": -93.246431,
+    "city": "Mingo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50169,
+    "latitude": 41.626952,
+    "longitude": -93.373903,
+    "city": "Mitchellville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50170,
+    "latitude": 41.569003,
+    "longitude": -93.101184,
+    "city": "Monroe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50171,
+    "latitude": 41.605693,
+    "longitude": -92.473857,
+    "city": "Montezuma",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 50173,
+    "latitude": 41.95619,
+    "longitude": -92.712756,
+    "city": "Montour",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50174,
+    "latitude": 41.026682,
+    "longitude": -93.925695,
+    "city": "Murray",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 50177,
+    "latitude": 41.685742,
+    "longitude": -92.532032,
+    "city": "Grinnell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 50197,
+    "latitude": 41.334549,
+    "longitude": -93.099205,
+    "city": "Knoxville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50198,
+    "latitude": 41.334549,
+    "longitude": -93.099205,
+    "city": "Knoxville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50201,
+    "latitude": 42.00207,
+    "longitude": -93.503866,
+    "city": "Nevada",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50206,
+    "latitude": 42.272076,
+    "longitude": -93.256399,
+    "city": "New Providence",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50207,
+    "latitude": 41.393559,
+    "longitude": -92.634295,
+    "city": "New Sharon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 50208,
+    "latitude": 41.718107,
+    "longitude": -93.012335,
+    "city": "Newton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50210,
+    "latitude": 41.319061,
+    "longitude": -93.672017,
+    "city": "New Virginia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50211,
+    "latitude": 41.442071,
+    "longitude": -93.667713,
+    "city": "Norwalk",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50212,
+    "latitude": 42.043714,
+    "longitude": -94.052358,
+    "city": "Ogden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50213,
+    "latitude": 41.029937,
+    "longitude": -93.775845,
+    "city": "Osceola",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 50214,
+    "latitude": 41.426958,
+    "longitude": -93.030605,
+    "city": "Otley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50216,
+    "latitude": 41.650933,
+    "longitude": -94.425111,
+    "city": "Panora",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50217,
+    "latitude": 42.166202,
+    "longitude": -94.280982,
+    "city": "Paton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50218,
+    "latitude": 41.349901,
+    "longitude": -93.880265,
+    "city": "Patterson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50219,
+    "latitude": 41.341915,
+    "longitude": -93.092797,
+    "city": "Pella",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50220,
+    "latitude": 41.790296,
+    "longitude": -94.06178,
+    "city": "Perry",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50222,
+    "latitude": 41.221731,
+    "longitude": -93.962334,
+    "city": "Peru",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50223,
+    "latitude": 42.059677,
+    "longitude": -94.040876,
+    "city": "Pilot Mound",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 50225,
+    "latitude": 41.351116,
+    "longitude": -93.23362,
+    "city": "Pleasantville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50226,
+    "latitude": 41.75673,
+    "longitude": -93.698063,
+    "city": "Polk City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50227,
+    "latitude": 42.644276,
+    "longitude": -93.450081,
+    "city": "Popejoy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50228,
+    "latitude": 41.590964,
+    "longitude": -93.234793,
+    "city": "Prairie City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50229,
+    "latitude": 41.368045,
+    "longitude": -93.703126,
+    "city": "Prole",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50230,
+    "latitude": 42.310875,
+    "longitude": -93.347563,
+    "city": "Radcliffe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50231,
+    "latitude": 42.240121,
+    "longitude": -93.628266,
+    "city": "Randall",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50232,
+    "latitude": 41.560308,
+    "longitude": -92.981908,
+    "city": "Reasnor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50233,
+    "latitude": 41.621146,
+    "longitude": -94.212048,
+    "city": "Redfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50234,
+    "latitude": 41.906231,
+    "longitude": -93.154445,
+    "city": "Rhodes",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50235,
+    "latitude": 41.928403,
+    "longitude": -94.222127,
+    "city": "Rippey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 50236,
+    "latitude": 42.161972,
+    "longitude": -93.496057,
+    "city": "Roland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50237,
+    "latitude": 41.561367,
+    "longitude": -93.398946,
+    "city": "Runnells",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50238,
+    "latitude": 40.981221,
+    "longitude": -93.200472,
+    "city": "Russell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 50239,
+    "latitude": 42.140911,
+    "longitude": -93.174505,
+    "city": "Saint Anthony",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50240,
+    "latitude": 41.289336,
+    "longitude": -93.862695,
+    "city": "Saint Charles",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50241,
+    "latitude": 41.308413,
+    "longitude": -93.736916,
+    "city": "Saint Marys",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 50242,
+    "latitude": 41.569631,
+    "longitude": -92.654204,
+    "city": "Searsboro",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 50243,
+    "latitude": 41.857068,
+    "longitude": -93.697325,
+    "city": "Sheldahl",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50244,
+    "latitude": 41.8925,
+    "longitude": -93.664006,
+    "city": "Slater",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50246,
+    "latitude": 42.296671,
+    "longitude": -93.776637,
+    "city": "Stanhope",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50247,
+    "latitude": 42.02551,
+    "longitude": -93.144785,
+    "city": "State Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 50248,
+    "latitude": 42.158072,
+    "longitude": -93.610141,
+    "city": "Story City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50249,
+    "latitude": 42.296737,
+    "longitude": -93.721315,
+    "city": "Stratford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50250,
+    "latitude": 41.573966,
+    "longitude": -94.339598,
+    "city": "Stuart",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50251,
+    "latitude": 41.576832,
+    "longitude": -92.924355,
+    "city": "Sully",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 50252,
+    "latitude": 41.457722,
+    "longitude": -93.219421,
+    "city": "Swan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50254,
+    "latitude": 40.978688,
+    "longitude": -94.10039,
+    "city": "Thayer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50255,
+    "latitude": 41.336267,
+    "longitude": -92.178366,
+    "city": "Thornburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 50256,
+    "latitude": 41.263991,
+    "longitude": -92.938838,
+    "city": "Tracy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 50257,
+    "latitude": 41.206381,
+    "longitude": -93.863473,
+    "city": "Truro",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50258,
+    "latitude": 42.252265,
+    "longitude": -93.089028,
+    "city": "Union",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50259,
+    "latitude": 42.383133,
+    "longitude": -93.250567,
+    "city": "Gifford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50261,
+    "latitude": 41.658215,
+    "longitude": -93.944641,
+    "city": "Van Meter",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50262,
+    "latitude": 40.736644,
+    "longitude": -93.785839,
+    "city": "Van Wert",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50263,
+    "latitude": 41.59896,
+    "longitude": -93.875317,
+    "city": "Waukee",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50264,
+    "latitude": 40.885821,
+    "longitude": -93.761591,
+    "city": "Weldon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 50265,
+    "latitude": 41.567138,
+    "longitude": -93.717232,
+    "city": "West Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50266,
+    "latitude": 41.653027,
+    "longitude": -93.747073,
+    "city": "West Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50268,
+    "latitude": 41.396307,
+    "longitude": -92.331335,
+    "city": "What Cheer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 50269,
+    "latitude": 42.271774,
+    "longitude": -93.021413,
+    "city": "Whitten",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50271,
+    "latitude": 42.477733,
+    "longitude": -93.554643,
+    "city": "Williams",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50272,
+    "latitude": 41.029481,
+    "longitude": -93.327475,
+    "city": "Williamson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 50273,
+    "latitude": 41.351621,
+    "longitude": -94.042219,
+    "city": "Winterset",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 50274,
+    "latitude": 41.374394,
+    "longitude": -94.904879,
+    "city": "Wiota",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 50275,
+    "latitude": 41.029822,
+    "longitude": -93.614875,
+    "city": "Woodburn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 50276,
+    "latitude": 41.776121,
+    "longitude": -93.955694,
+    "city": "Woodward",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 50277,
+    "latitude": 41.775934,
+    "longitude": -94.357971,
+    "city": "Yale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Guthrie"
+  },
+  {
+    "zip_code": 50278,
+    "latitude": 42.149851,
+    "longitude": -93.29898,
+    "city": "Zearing",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Story"
+  },
+  {
+    "zip_code": 50301,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50302,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50303,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50304,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50305,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50306,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50307,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50308,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50309,
+    "latitude": 41.584089,
+    "longitude": -93.620267,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50310,
+    "latitude": 41.623438,
+    "longitude": -93.680954,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50311,
+    "latitude": 41.63998,
+    "longitude": -93.71657,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50312,
+    "latitude": 41.582645,
+    "longitude": -93.691719,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50313,
+    "latitude": 41.643316,
+    "longitude": -93.621343,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50314,
+    "latitude": 41.603938,
+    "longitude": -93.613817,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50315,
+    "latitude": 41.545107,
+    "longitude": -93.620917,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50316,
+    "latitude": 41.609988,
+    "longitude": -93.600816,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50317,
+    "latitude": 41.612221,
+    "longitude": -93.529588,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50318,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50319,
+    "latitude": 41.592089,
+    "longitude": -93.603967,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50320,
+    "latitude": 41.544539,
+    "longitude": -93.582366,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50321,
+    "latitude": 41.546945,
+    "longitude": -93.659668,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50322,
+    "latitude": 41.630449,
+    "longitude": -93.753628,
+    "city": "Urbandale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50323,
+    "latitude": 41.62938,
+    "longitude": -93.771676,
+    "city": "Urbandale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50325,
+    "latitude": 41.607588,
+    "longitude": -93.744905,
+    "city": "Clive",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50327,
+    "latitude": 41.586369,
+    "longitude": -93.487707,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50328,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50329,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50330,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50331,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50332,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50333,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50334,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50335,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50336,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50338,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50339,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50340,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50347,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50350,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50359,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50360,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50361,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50362,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50363,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50364,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50367,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50368,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50369,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50380,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50381,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50391,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50392,
+    "latitude": 41.587839,
+    "longitude": -93.627368,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50393,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50394,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50395,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50396,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50397,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50398,
+    "latitude": 41.594543,
+    "longitude": -93.785502,
+    "city": "West Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50401,
+    "latitude": 43.116477,
+    "longitude": -93.270559,
+    "city": "Mason City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50402,
+    "latitude": 43.081604,
+    "longitude": -93.260879,
+    "city": "Mason City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50420,
+    "latitude": 42.819841,
+    "longitude": -93.429379,
+    "city": "Alexander",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50421,
+    "latitude": 42.783801,
+    "longitude": -93.712614,
+    "city": "Belmond",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50423,
+    "latitude": 43.081779,
+    "longitude": -93.734689,
+    "city": "Britt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50424,
+    "latitude": 43.37731,
+    "longitude": -93.803062,
+    "city": "Buffalo Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50426,
+    "latitude": 43.414935,
+    "longitude": -93.002846,
+    "city": "Carpenter",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50427,
+    "latitude": 42.834852,
+    "longitude": -93.222587,
+    "city": "Chapin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50428,
+    "latitude": 43.100399,
+    "longitude": -93.260676,
+    "city": "Clear Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50430,
+    "latitude": 42.980309,
+    "longitude": -93.872724,
+    "city": "Corwith",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50431,
+    "latitude": 42.738164,
+    "longitude": -93.369996,
+    "city": "Coulter",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50432,
+    "latitude": 43.21835,
+    "longitude": -93.800697,
+    "city": "Crystal Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50433,
+    "latitude": 43.053101,
+    "longitude": -93.261024,
+    "city": "Dougherty",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50434,
+    "latitude": 43.299228,
+    "longitude": -93.28496,
+    "city": "Fertile",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50435,
+    "latitude": 43.136067,
+    "longitude": -92.77932,
+    "city": "Floyd",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50436,
+    "latitude": 43.299419,
+    "longitude": -93.684781,
+    "city": "Forest City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50438,
+    "latitude": 43.089116,
+    "longitude": -93.734009,
+    "city": "Garner",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50439,
+    "latitude": 43.074783,
+    "longitude": -93.675089,
+    "city": "Goodell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50440,
+    "latitude": 43.320548,
+    "longitude": -93.200006,
+    "city": "Grafton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50441,
+    "latitude": 42.731454,
+    "longitude": -93.230657,
+    "city": "Hampton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50444,
+    "latitude": 43.32067,
+    "longitude": -93.378938,
+    "city": "Hanlontown",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50446,
+    "latitude": 43.353565,
+    "longitude": -93.3832,
+    "city": "Joice",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50447,
+    "latitude": 43.069212,
+    "longitude": -93.734839,
+    "city": "Kanawha",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50448,
+    "latitude": 43.359809,
+    "longitude": -93.240306,
+    "city": "Kensett",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50449,
+    "latitude": 42.991727,
+    "longitude": -93.566985,
+    "city": "Klemme",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50450,
+    "latitude": 43.408993,
+    "longitude": -93.567204,
+    "city": "Lake Mills",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50451,
+    "latitude": 43.366038,
+    "longitude": -94.10309,
+    "city": "Lakota",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50452,
+    "latitude": 42.782628,
+    "longitude": -93.389744,
+    "city": "Latimer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50453,
+    "latitude": 43.342548,
+    "longitude": -93.689464,
+    "city": "Leland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50454,
+    "latitude": 43.385605,
+    "longitude": -92.738099,
+    "city": "Little Cedar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50455,
+    "latitude": 43.457197,
+    "longitude": -92.63316,
+    "city": "Mc Intire",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50456,
+    "latitude": 43.342237,
+    "longitude": -93.271287,
+    "city": "Manly",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50457,
+    "latitude": 43.059175,
+    "longitude": -93.292969,
+    "city": "Meservey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50458,
+    "latitude": 43.149677,
+    "longitude": -92.974488,
+    "city": "Nora Springs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50459,
+    "latitude": 43.428355,
+    "longitude": -93.261042,
+    "city": "Northwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 50460,
+    "latitude": 43.234006,
+    "longitude": -92.686031,
+    "city": "Orchard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50461,
+    "latitude": 43.320773,
+    "longitude": -92.789683,
+    "city": "Osage",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50464,
+    "latitude": 43.234199,
+    "longitude": -93.082854,
+    "city": "Plymouth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50465,
+    "latitude": 43.464673,
+    "longitude": -93.872202,
+    "city": "Rake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50466,
+    "latitude": 43.381795,
+    "longitude": -92.475226,
+    "city": "Riceville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 50467,
+    "latitude": 43.206593,
+    "longitude": -93.08574,
+    "city": "Rock Falls",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50468,
+    "latitude": 43.016911,
+    "longitude": -92.907599,
+    "city": "Rockford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50469,
+    "latitude": 43.00211,
+    "longitude": -93.181709,
+    "city": "Rockwell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50470,
+    "latitude": 42.724794,
+    "longitude": -93.558042,
+    "city": "Rowan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50471,
+    "latitude": 43.128382,
+    "longitude": -92.887374,
+    "city": "Rudd",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50472,
+    "latitude": 43.406399,
+    "longitude": -92.810582,
+    "city": "Saint Ansgar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50473,
+    "latitude": 43.457336,
+    "longitude": -93.674587,
+    "city": "Scarville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50475,
+    "latitude": 42.732312,
+    "longitude": -93.262211,
+    "city": "Sheffield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50476,
+    "latitude": 43.435628,
+    "longitude": -92.853243,
+    "city": "Stacyville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50477,
+    "latitude": 42.984273,
+    "longitude": -93.35609,
+    "city": "Swaledale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50478,
+    "latitude": 43.406406,
+    "longitude": -93.748603,
+    "city": "Thompson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 50479,
+    "latitude": 43.077155,
+    "longitude": -93.312569,
+    "city": "Thornton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50480,
+    "latitude": 43.253389,
+    "longitude": -94.05929,
+    "city": "Titonka",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50481,
+    "latitude": 43.356439,
+    "longitude": -92.788967,
+    "city": "Toeterville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 50482,
+    "latitude": 43.111474,
+    "longitude": -93.467873,
+    "city": "Ventura",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cerro Gordo"
+  },
+  {
+    "zip_code": 50483,
+    "latitude": 43.103297,
+    "longitude": -94.029455,
+    "city": "Wesley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50484,
+    "latitude": 43.197698,
+    "longitude": -93.881521,
+    "city": "Woden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 50501,
+    "latitude": 42.438596,
+    "longitude": -94.166587,
+    "city": "Fort Dodge",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50510,
+    "latitude": 42.735002,
+    "longitude": -95.151118,
+    "city": "Albert City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50511,
+    "latitude": 43.109313,
+    "longitude": -94.166994,
+    "city": "Algona",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50514,
+    "latitude": 43.407517,
+    "longitude": -94.531703,
+    "city": "Armstrong",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 50515,
+    "latitude": 43.01825,
+    "longitude": -94.855316,
+    "city": "Ayrshire",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50516,
+    "latitude": 42.601287,
+    "longitude": -94.148103,
+    "city": "Badger",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50517,
+    "latitude": 43.306166,
+    "longitude": -94.251434,
+    "city": "Bancroft",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50518,
+    "latitude": 42.552043,
+    "longitude": -94.369181,
+    "city": "Barnum",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50519,
+    "latitude": 42.863891,
+    "longitude": -94.295698,
+    "city": "Bode",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50520,
+    "latitude": 42.801126,
+    "longitude": -94.358387,
+    "city": "Bradgate",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50521,
+    "latitude": 42.346605,
+    "longitude": -94.116205,
+    "city": "Burnside",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50522,
+    "latitude": 43.183395,
+    "longitude": -94.177422,
+    "city": "Burt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50523,
+    "latitude": 42.347134,
+    "longitude": -94.280864,
+    "city": "Callender",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50524,
+    "latitude": 42.514307,
+    "longitude": -94.212455,
+    "city": "Clare",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50525,
+    "latitude": 42.703045,
+    "longitude": -93.745623,
+    "city": "Clarion",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50526,
+    "latitude": 42.733001,
+    "longitude": -93.73523,
+    "city": "Clarion",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50527,
+    "latitude": 42.970187,
+    "longitude": -94.769596,
+    "city": "Curlew",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50528,
+    "latitude": 43.124819,
+    "longitude": -94.531189,
+    "city": "Cylinder",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50529,
+    "latitude": 42.73695,
+    "longitude": -94.243675,
+    "city": "Dakota City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50530,
+    "latitude": 42.281924,
+    "longitude": -94.110777,
+    "city": "Dayton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50531,
+    "latitude": 43.449975,
+    "longitude": -94.610236,
+    "city": "Dolliver",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 50532,
+    "latitude": 42.463053,
+    "longitude": -94.016459,
+    "city": "Duncombe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50533,
+    "latitude": 42.646337,
+    "longitude": -93.882675,
+    "city": "Eagle Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50535,
+    "latitude": 42.458243,
+    "longitude": -95.16624,
+    "city": "Early",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 50536,
+    "latitude": 43.118345,
+    "longitude": -94.690755,
+    "city": "Emmetsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50538,
+    "latitude": 42.279298,
+    "longitude": -94.465144,
+    "city": "Farnhamville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50539,
+    "latitude": 43.241336,
+    "longitude": -94.384458,
+    "city": "Fenton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50540,
+    "latitude": 42.646211,
+    "longitude": -94.797046,
+    "city": "Fonda",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50541,
+    "latitude": 42.720638,
+    "longitude": -94.393684,
+    "city": "Gilmore City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50542,
+    "latitude": 42.785534,
+    "longitude": -93.91222,
+    "city": "Goldfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50543,
+    "latitude": 42.325308,
+    "longitude": -94.25193,
+    "city": "Gowrie",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50544,
+    "latitude": 42.260243,
+    "longitude": -94.16463,
+    "city": "Harcourt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50545,
+    "latitude": 42.797529,
+    "longitude": -94.079932,
+    "city": "Hardy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50546,
+    "latitude": 42.842446,
+    "longitude": -94.721926,
+    "city": "Havelock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50548,
+    "latitude": 42.775833,
+    "longitude": -94.207763,
+    "city": "Humboldt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50551,
+    "latitude": 42.487057,
+    "longitude": -94.756959,
+    "city": "Jolley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50552,
+    "latitude": 42.42361,
+    "longitude": -94.458642,
+    "city": "Knierim",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50554,
+    "latitude": 42.821248,
+    "longitude": -94.835889,
+    "city": "Laurens",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50556,
+    "latitude": 43.443079,
+    "longitude": -94.187319,
+    "city": "Ledyard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50557,
+    "latitude": 42.390452,
+    "longitude": -94.048108,
+    "city": "Lehigh",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50558,
+    "latitude": 42.841534,
+    "longitude": -94.163578,
+    "city": "Livermore",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50559,
+    "latitude": 43.219959,
+    "longitude": -94.309997,
+    "city": "Lone Rock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50560,
+    "latitude": 42.976166,
+    "longitude": -94.124477,
+    "city": "Lu Verne",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50561,
+    "latitude": 42.421312,
+    "longitude": -94.821328,
+    "city": "Lytton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50562,
+    "latitude": 42.973755,
+    "longitude": -94.644417,
+    "city": "Mallard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50563,
+    "latitude": 42.50089,
+    "longitude": -94.57695,
+    "city": "Manson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50565,
+    "latitude": 42.858254,
+    "longitude": -94.9984,
+    "city": "Marathon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50566,
+    "latitude": 42.440996,
+    "longitude": -94.315601,
+    "city": "Moorland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50567,
+    "latitude": 42.509655,
+    "longitude": -95.104435,
+    "city": "Nemaha",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 50568,
+    "latitude": 42.705762,
+    "longitude": -95.003782,
+    "city": "Newell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50569,
+    "latitude": 42.437722,
+    "longitude": -94.220655,
+    "city": "Otho",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50570,
+    "latitude": 42.841797,
+    "longitude": -94.374343,
+    "city": "Ottosen",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50571,
+    "latitude": 42.645733,
+    "longitude": -94.560735,
+    "city": "Palmer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50573,
+    "latitude": 42.864825,
+    "longitude": -94.619745,
+    "city": "Plover",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50574,
+    "latitude": 42.726507,
+    "longitude": -94.650755,
+    "city": "Pocahontas",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50575,
+    "latitude": 42.519205,
+    "longitude": -94.678445,
+    "city": "Pomeroy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50576,
+    "latitude": 42.825241,
+    "longitude": -95.141444,
+    "city": "Rembrandt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50577,
+    "latitude": 42.844755,
+    "longitude": -94.1314,
+    "city": "Renwick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50578,
+    "latitude": 43.31281,
+    "longitude": -94.560669,
+    "city": "Ringsted",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 50579,
+    "latitude": 42.393114,
+    "longitude": -94.633664,
+    "city": "Rockwell City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50581,
+    "latitude": 42.744133,
+    "longitude": -94.642302,
+    "city": "Rolfe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50582,
+    "latitude": 42.79315,
+    "longitude": -94.305614,
+    "city": "Rutland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50583,
+    "latitude": 42.439752,
+    "longitude": -94.992967,
+    "city": "Sac City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 50585,
+    "latitude": 42.757096,
+    "longitude": -95.103677,
+    "city": "Sioux Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50586,
+    "latitude": 42.386479,
+    "longitude": -94.454529,
+    "city": "Somers",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 50588,
+    "latitude": 42.693184,
+    "longitude": -95.151811,
+    "city": "Storm Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50590,
+    "latitude": 43.283285,
+    "longitude": -94.295584,
+    "city": "Swea City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50591,
+    "latitude": 42.77609,
+    "longitude": -94.059946,
+    "city": "Thor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Humboldt"
+  },
+  {
+    "zip_code": 50592,
+    "latitude": 42.726167,
+    "longitude": -95.185325,
+    "city": "Truesdale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 50593,
+    "latitude": 42.659794,
+    "longitude": -94.897858,
+    "city": "Varina",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 50594,
+    "latitude": 42.581749,
+    "longitude": -94.030651,
+    "city": "Vincent",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 50595,
+    "latitude": 42.434161,
+    "longitude": -93.825581,
+    "city": "Webster City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 50597,
+    "latitude": 43.002465,
+    "longitude": -94.501553,
+    "city": "West Bend",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 50598,
+    "latitude": 43.082501,
+    "longitude": -94.389877,
+    "city": "Whittemore",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Kossuth"
+  },
+  {
+    "zip_code": 50599,
+    "latitude": 42.600976,
+    "longitude": -93.794414,
+    "city": "Woolstock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 50601,
+    "latitude": 42.408805,
+    "longitude": -93.09251,
+    "city": "Ackley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50602,
+    "latitude": 42.697108,
+    "longitude": -92.7981,
+    "city": "Allison",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50603,
+    "latitude": 43.13992,
+    "longitude": -92.424719,
+    "city": "Alta Vista",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50604,
+    "latitude": 42.657249,
+    "longitude": -92.895287,
+    "city": "Aplington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50605,
+    "latitude": 42.804004,
+    "longitude": -92.985938,
+    "city": "Aredale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50606,
+    "latitude": 42.752653,
+    "longitude": -91.69556,
+    "city": "Arlington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 50607,
+    "latitude": 42.570346,
+    "longitude": -91.748063,
+    "city": "Aurora",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50608,
+    "latitude": 42.58243,
+    "longitude": -92.95988,
+    "city": "Austinville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50609,
+    "latitude": 42.260476,
+    "longitude": -92.806788,
+    "city": "Beaman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50611,
+    "latitude": 42.811045,
+    "longitude": -92.882596,
+    "city": "Bristow",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50612,
+    "latitude": 42.271906,
+    "longitude": -92.388908,
+    "city": "Buckingham",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50613,
+    "latitude": 42.517091,
+    "longitude": -92.43585,
+    "city": "Cedar Falls",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50614,
+    "latitude": 42.469768,
+    "longitude": -92.309475,
+    "city": "Cedar Falls",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50616,
+    "latitude": 43.059926,
+    "longitude": -92.789058,
+    "city": "Charles City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50619,
+    "latitude": 42.793119,
+    "longitude": -92.653238,
+    "city": "Clarksville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50620,
+    "latitude": 43.110765,
+    "longitude": -92.744821,
+    "city": "Colwell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50621,
+    "latitude": 42.261859,
+    "longitude": -92.913373,
+    "city": "Conrad",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50622,
+    "latitude": 42.686195,
+    "longitude": -92.387102,
+    "city": "Denver",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50623,
+    "latitude": 42.525282,
+    "longitude": -92.220701,
+    "city": "Dewar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50624,
+    "latitude": 42.377438,
+    "longitude": -92.713296,
+    "city": "Dike",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50625,
+    "latitude": 42.753663,
+    "longitude": -92.912537,
+    "city": "Dumont",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50626,
+    "latitude": 42.562505,
+    "longitude": -92.178342,
+    "city": "Dunkerton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50627,
+    "latitude": 42.335289,
+    "longitude": -93.141651,
+    "city": "Eldora",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50628,
+    "latitude": 43.296535,
+    "longitude": -92.3868,
+    "city": "Elma",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 50629,
+    "latitude": 42.577399,
+    "longitude": -91.981702,
+    "city": "Fairbank",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50630,
+    "latitude": 43.052855,
+    "longitude": -92.205513,
+    "city": "Fredericksburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50631,
+    "latitude": 42.882661,
+    "longitude": -92.306271,
+    "city": "Frederika",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50632,
+    "latitude": 42.101125,
+    "longitude": -92.674254,
+    "city": "Garwin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50633,
+    "latitude": 42.669601,
+    "longitude": -93.114687,
+    "city": "Geneva",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 50634,
+    "latitude": 42.419686,
+    "longitude": -92.21986,
+    "city": "Gilbertville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50635,
+    "latitude": 42.194806,
+    "longitude": -92.533334,
+    "city": "Gladbrook",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50636,
+    "latitude": 42.826237,
+    "longitude": -92.84909,
+    "city": "Greene",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50638,
+    "latitude": 42.369118,
+    "longitude": -92.807878,
+    "city": "Grundy Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50641,
+    "latitude": 42.574258,
+    "longitude": -91.924112,
+    "city": "Hazleton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50642,
+    "latitude": 42.44797,
+    "longitude": -92.817924,
+    "city": "Holland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50643,
+    "latitude": 42.383317,
+    "longitude": -92.416125,
+    "city": "Hudson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50644,
+    "latitude": 42.506055,
+    "longitude": -91.81214,
+    "city": "Independence",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50645,
+    "latitude": 43.052822,
+    "longitude": -92.445706,
+    "city": "Ionia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50647,
+    "latitude": 42.665934,
+    "longitude": -92.465858,
+    "city": "Janesville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50648,
+    "latitude": 42.482524,
+    "longitude": -91.90519,
+    "city": "Jesup",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50649,
+    "latitude": 42.662619,
+    "longitude": -92.911151,
+    "city": "Kesley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50650,
+    "latitude": 42.585655,
+    "longitude": -91.716494,
+    "city": "Lamont",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50651,
+    "latitude": 42.369559,
+    "longitude": -92.206097,
+    "city": "La Porte City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50652,
+    "latitude": 42.264291,
+    "longitude": -92.693018,
+    "city": "Lincoln",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50653,
+    "latitude": 43.060131,
+    "longitude": -92.877776,
+    "city": "Marble Rock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 50654,
+    "latitude": 42.457286,
+    "longitude": -91.564233,
+    "city": "Masonville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 50655,
+    "latitude": 42.878853,
+    "longitude": -91.917241,
+    "city": "Maynard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 50657,
+    "latitude": 42.343304,
+    "longitude": -92.673819,
+    "city": "Morrison",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50658,
+    "latitude": 42.985096,
+    "longitude": -92.475463,
+    "city": "Nashua",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50659,
+    "latitude": 43.065359,
+    "longitude": -92.338474,
+    "city": "New Hampton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50660,
+    "latitude": 42.599292,
+    "longitude": -92.623199,
+    "city": "New Hartford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50661,
+    "latitude": 43.117425,
+    "longitude": -92.414422,
+    "city": "North Washington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 50662,
+    "latitude": 42.693463,
+    "longitude": -91.853578,
+    "city": "Oelwein",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 50664,
+    "latitude": 42.862275,
+    "longitude": -91.843639,
+    "city": "Oran",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 50665,
+    "latitude": 42.655813,
+    "longitude": -92.824122,
+    "city": "Parkersburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50666,
+    "latitude": 42.840591,
+    "longitude": -92.470373,
+    "city": "Plainfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50667,
+    "latitude": 42.466587,
+    "longitude": -92.21642,
+    "city": "Raymond",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50668,
+    "latitude": 42.693337,
+    "longitude": -92.219605,
+    "city": "Readlyn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50669,
+    "latitude": 42.332039,
+    "longitude": -92.705292,
+    "city": "Reinbeck",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50670,
+    "latitude": 42.674311,
+    "longitude": -92.633495,
+    "city": "Shell Rock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 50671,
+    "latitude": 42.614435,
+    "longitude": -91.795647,
+    "city": "Stanley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50672,
+    "latitude": 42.412327,
+    "longitude": -93.084751,
+    "city": "Steamboat Rock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 50673,
+    "latitude": 42.525507,
+    "longitude": -92.70291,
+    "city": "Stout",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50674,
+    "latitude": 42.787919,
+    "longitude": -92.309263,
+    "city": "Sumner",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50675,
+    "latitude": 42.173618,
+    "longitude": -92.527236,
+    "city": "Traer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 50676,
+    "latitude": 42.786204,
+    "longitude": -92.278632,
+    "city": "Tripoli",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50677,
+    "latitude": 42.774781,
+    "longitude": -92.403969,
+    "city": "Waverly",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Bremer"
+  },
+  {
+    "zip_code": 50680,
+    "latitude": 42.445049,
+    "longitude": -92.926227,
+    "city": "Wellsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 50681,
+    "latitude": 42.781206,
+    "longitude": -92.012235,
+    "city": "Westgate",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 50682,
+    "latitude": 42.433855,
+    "longitude": -91.831019,
+    "city": "Winthrop",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 50701,
+    "latitude": 42.441117,
+    "longitude": -92.339209,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50702,
+    "latitude": 42.458761,
+    "longitude": -92.313876,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50703,
+    "latitude": 42.549802,
+    "longitude": -92.258493,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50704,
+    "latitude": 42.469768,
+    "longitude": -92.309475,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50706,
+    "latitude": 42.415638,
+    "longitude": -92.270339,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50707,
+    "latitude": 42.482297,
+    "longitude": -92.276183,
+    "city": "Evansdale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50799,
+    "latitude": 42.469768,
+    "longitude": -92.309475,
+    "city": "Waterloo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Black Hawk"
+  },
+  {
+    "zip_code": 50801,
+    "latitude": 41.049896,
+    "longitude": -94.347137,
+    "city": "Creston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50830,
+    "latitude": 41.033593,
+    "longitude": -94.19714,
+    "city": "Afton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50831,
+    "latitude": 40.931394,
+    "longitude": -94.219334,
+    "city": "Arispe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50833,
+    "latitude": 40.687613,
+    "longitude": -94.690576,
+    "city": "Bedford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50835,
+    "latitude": 40.735117,
+    "longitude": -94.243258,
+    "city": "Benton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50836,
+    "latitude": 40.624823,
+    "longitude": -94.547407,
+    "city": "Blockton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50837,
+    "latitude": 41.258885,
+    "longitude": -94.666868,
+    "city": "Bridgewater",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 50839,
+    "latitude": 41.048733,
+    "longitude": -94.823088,
+    "city": "Carbon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 50840,
+    "latitude": 40.782221,
+    "longitude": -94.606348,
+    "city": "Clearfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50841,
+    "latitude": 41.028942,
+    "longitude": -94.746591,
+    "city": "Corning",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 50842,
+    "latitude": 41.039762,
+    "longitude": -94.461622,
+    "city": "Cromwell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50843,
+    "latitude": 41.255042,
+    "longitude": -94.947597,
+    "city": "Cumberland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 50845,
+    "latitude": 40.727999,
+    "longitude": -94.292656,
+    "city": "Diagonal",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50846,
+    "latitude": 41.300894,
+    "longitude": -94.54783,
+    "city": "Fontanelle",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 50847,
+    "latitude": 41.142675,
+    "longitude": -94.984159,
+    "city": "Grant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 50848,
+    "latitude": 40.772971,
+    "longitude": -94.737189,
+    "city": "Gravity",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50849,
+    "latitude": 41.299977,
+    "longitude": -94.456404,
+    "city": "Greenfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 50851,
+    "latitude": 40.844837,
+    "longitude": -94.585174,
+    "city": "Lenox",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50853,
+    "latitude": 41.229493,
+    "longitude": -94.784375,
+    "city": "Massena",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 50854,
+    "latitude": 40.716275,
+    "longitude": -94.228794,
+    "city": "Mount Ayr",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50857,
+    "latitude": 40.9765,
+    "longitude": -94.871606,
+    "city": "Nodaway",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 50858,
+    "latitude": 41.215096,
+    "longitude": -94.423224,
+    "city": "Orient",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 50859,
+    "latitude": 41.057677,
+    "longitude": -94.594228,
+    "city": "Prescott",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 50860,
+    "latitude": 40.604641,
+    "longitude": -94.388509,
+    "city": "Redding",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50861,
+    "latitude": 40.933655,
+    "longitude": -94.242881,
+    "city": "Shannon City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Union"
+  },
+  {
+    "zip_code": 50862,
+    "latitude": 40.812934,
+    "longitude": -94.662137,
+    "city": "Sharpsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 50863,
+    "latitude": 40.853588,
+    "longitude": -94.194013,
+    "city": "Tingley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ringgold"
+  },
+  {
+    "zip_code": 50864,
+    "latitude": 41.029639,
+    "longitude": -95.051602,
+    "city": "Villisca",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 50936,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50940,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50947,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50950,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50980,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 50981,
+    "latitude": 41.672687,
+    "longitude": -93.572173,
+    "city": "Des Moines",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 51001,
+    "latitude": 42.822482,
+    "longitude": -96.462952,
+    "city": "Akron",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51002,
+    "latitude": 42.735364,
+    "longitude": -95.151121,
+    "city": "Alta",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 51003,
+    "latitude": 43.03801,
+    "longitude": -95.970314,
+    "city": "Alton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51004,
+    "latitude": 42.336668,
+    "longitude": -95.962495,
+    "city": "Anthon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51005,
+    "latitude": 42.719513,
+    "longitude": -95.534693,
+    "city": "Aurelia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51006,
+    "latitude": 42.359052,
+    "longitude": -95.546574,
+    "city": "Battle Creek",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ida"
+  },
+  {
+    "zip_code": 51007,
+    "latitude": 42.421334,
+    "longitude": -96.165179,
+    "city": "Bronson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51008,
+    "latitude": 42.809252,
+    "longitude": -96.26257,
+    "city": "Brunsville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51009,
+    "latitude": 42.9552,
+    "longitude": -95.570082,
+    "city": "Calumet",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51010,
+    "latitude": 42.080842,
+    "longitude": -95.903339,
+    "city": "Castana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51011,
+    "latitude": 42.926468,
+    "longitude": -96.494824,
+    "city": "Chatsworth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51012,
+    "latitude": 42.721535,
+    "longitude": -95.574297,
+    "city": "Cherokee",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51014,
+    "latitude": 42.779201,
+    "longitude": -95.701743,
+    "city": "Cleghorn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51015,
+    "latitude": 42.345024,
+    "longitude": -96.087523,
+    "city": "Climbing Hill",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51016,
+    "latitude": 42.394029,
+    "longitude": -95.969596,
+    "city": "Correctionville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51017,
+    "latitude": 42.896225,
+    "longitude": -96.309509,
+    "city": "Craig",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51018,
+    "latitude": 42.355069,
+    "longitude": -96.015944,
+    "city": "Cushing",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51019,
+    "latitude": 42.339186,
+    "longitude": -96.016316,
+    "city": "Danbury",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51020,
+    "latitude": 42.487916,
+    "longitude": -95.430208,
+    "city": "Galva",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ida"
+  },
+  {
+    "zip_code": 51022,
+    "latitude": 42.974677,
+    "longitude": -96.086114,
+    "city": "Granville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51023,
+    "latitude": 43.022799,
+    "longitude": -96.263075,
+    "city": "Hawarden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51024,
+    "latitude": 42.625126,
+    "longitude": -96.299512,
+    "city": "Hinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51025,
+    "latitude": 42.443085,
+    "longitude": -95.530596,
+    "city": "Holstein",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ida"
+  },
+  {
+    "zip_code": 51026,
+    "latitude": 42.300778,
+    "longitude": -96.092119,
+    "city": "Hornick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51027,
+    "latitude": 43.039676,
+    "longitude": -96.303174,
+    "city": "Ireton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51028,
+    "latitude": 42.619263,
+    "longitude": -96.077531,
+    "city": "Kingsley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51029,
+    "latitude": 42.873445,
+    "longitude": -95.565095,
+    "city": "Larrabee",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51030,
+    "latitude": 42.475035,
+    "longitude": -96.03323,
+    "city": "Lawton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51031,
+    "latitude": 42.749146,
+    "longitude": -96.261735,
+    "city": "Le Mars",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51033,
+    "latitude": 42.865889,
+    "longitude": -95.274623,
+    "city": "Linn Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buena Vista"
+  },
+  {
+    "zip_code": 51034,
+    "latitude": 42.137392,
+    "longitude": -95.913273,
+    "city": "Mapleton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51035,
+    "latitude": 42.76416,
+    "longitude": -95.786406,
+    "city": "Marcus",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51036,
+    "latitude": 42.975118,
+    "longitude": -96.307201,
+    "city": "Maurice",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51037,
+    "latitude": 42.822577,
+    "longitude": -95.642519,
+    "city": "Meriden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51038,
+    "latitude": 42.764455,
+    "longitude": -96.354983,
+    "city": "Merrill",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51039,
+    "latitude": 42.444948,
+    "longitude": -96.069377,
+    "city": "Moville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51040,
+    "latitude": 42.021131,
+    "longitude": -96.129525,
+    "city": "Onawa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51041,
+    "latitude": 43.033432,
+    "longitude": -96.076051,
+    "city": "Orange City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51044,
+    "latitude": 42.298397,
+    "longitude": -95.972137,
+    "city": "Oto",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51045,
+    "latitude": 42.8199,
+    "longitude": -96.056556,
+    "city": "Oyens",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51046,
+    "latitude": 42.982521,
+    "longitude": -95.69489,
+    "city": "Paullina",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51047,
+    "latitude": 43.004019,
+    "longitude": -95.299649,
+    "city": "Peterson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51048,
+    "latitude": 42.394713,
+    "longitude": -96.017208,
+    "city": "Pierson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51049,
+    "latitude": 42.701397,
+    "longitude": -95.70264,
+    "city": "Quimby",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51050,
+    "latitude": 42.793867,
+    "longitude": -96.207399,
+    "city": "Remsen",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51051,
+    "latitude": 42.197953,
+    "longitude": -95.976865,
+    "city": "Rodney",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51052,
+    "latitude": 42.399824,
+    "longitude": -96.11349,
+    "city": "Salix",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51053,
+    "latitude": 42.480673,
+    "longitude": -95.265117,
+    "city": "Schaller",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 51054,
+    "latitude": 42.387867,
+    "longitude": -96.335924,
+    "city": "Sergeant Bluff",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51055,
+    "latitude": 42.345513,
+    "longitude": -96.048349,
+    "city": "Sloan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51056,
+    "latitude": 42.347007,
+    "longitude": -96.037409,
+    "city": "Smithland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51058,
+    "latitude": 42.997133,
+    "longitude": -95.486296,
+    "city": "Sutherland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51059,
+    "latitude": 42.033205,
+    "longitude": -95.965126,
+    "city": "Turin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51060,
+    "latitude": 42.033712,
+    "longitude": -95.720898,
+    "city": "Ute",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51061,
+    "latitude": 42.691698,
+    "longitude": -95.628595,
+    "city": "Washta",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 51062,
+    "latitude": 42.70123,
+    "longitude": -96.50939,
+    "city": "Westfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 51063,
+    "latitude": 42.149647,
+    "longitude": -96.179563,
+    "city": "Whiting",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51101,
+    "latitude": 42.494745,
+    "longitude": -96.399356,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51102,
+    "latitude": 42.368406,
+    "longitude": -96.317951,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51103,
+    "latitude": 42.523895,
+    "longitude": -96.435508,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51104,
+    "latitude": 42.472367,
+    "longitude": -96.106247,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51105,
+    "latitude": 42.481003,
+    "longitude": -96.403691,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51106,
+    "latitude": 42.471097,
+    "longitude": -96.338435,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51108,
+    "latitude": 42.5336,
+    "longitude": -96.354682,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51109,
+    "latitude": 42.527558,
+    "longitude": -96.453358,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51111,
+    "latitude": 42.423688,
+    "longitude": -96.378007,
+    "city": "Sioux City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Woodbury"
+  },
+  {
+    "zip_code": 51201,
+    "latitude": 43.170886,
+    "longitude": -95.792885,
+    "city": "Sheldon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51230,
+    "latitude": 43.352717,
+    "longitude": -96.311777,
+    "city": "Alvord",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51231,
+    "latitude": 43.098882,
+    "longitude": -95.743011,
+    "city": "Archer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51232,
+    "latitude": 43.309073,
+    "longitude": -95.772984,
+    "city": "Ashton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51234,
+    "latitude": 43.186085,
+    "longitude": -96.005794,
+    "city": "Boyden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51235,
+    "latitude": 43.301697,
+    "longitude": -96.244934,
+    "city": "Doon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51237,
+    "latitude": 43.345209,
+    "longitude": -95.988879,
+    "city": "George",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51238,
+    "latitude": 43.07719,
+    "longitude": -95.938839,
+    "city": "Hospers",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51239,
+    "latitude": 43.192887,
+    "longitude": -96.180883,
+    "city": "Hull",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51240,
+    "latitude": 43.338402,
+    "longitude": -96.293245,
+    "city": "Inwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51241,
+    "latitude": 43.423375,
+    "longitude": -96.457839,
+    "city": "Larchwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51242,
+    "latitude": 43.444333,
+    "longitude": -96.336111,
+    "city": "Lester",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51243,
+    "latitude": 43.389621,
+    "longitude": -96.081644,
+    "city": "Little Rock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51244,
+    "latitude": 43.214976,
+    "longitude": -95.915089,
+    "city": "Matlock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51245,
+    "latitude": 43.083854,
+    "longitude": -95.625042,
+    "city": "Primghar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51246,
+    "latitude": 43.415126,
+    "longitude": -96.146555,
+    "city": "Rock Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 51247,
+    "latitude": 43.084636,
+    "longitude": -96.204802,
+    "city": "Rock Valley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51248,
+    "latitude": 43.172865,
+    "longitude": -95.643967,
+    "city": "Sanborn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51249,
+    "latitude": 43.377681,
+    "longitude": -95.624809,
+    "city": "Sibley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51250,
+    "latitude": 43.084013,
+    "longitude": -96.269648,
+    "city": "Sioux Center",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 51301,
+    "latitude": 43.13291,
+    "longitude": -95.177909,
+    "city": "Spencer",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51330,
+    "latitude": 43.415305,
+    "longitude": -95.643435,
+    "city": "Allendorf",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51331,
+    "latitude": 43.377945,
+    "longitude": -95.24015,
+    "city": "Arnolds Park",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51333,
+    "latitude": 43.135131,
+    "longitude": -94.983739,
+    "city": "Dickens",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51334,
+    "latitude": 43.377886,
+    "longitude": -94.737792,
+    "city": "Estherville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 51338,
+    "latitude": 43.176799,
+    "longitude": -95.308899,
+    "city": "Everly",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51340,
+    "latitude": 43.082426,
+    "longitude": -95.151095,
+    "city": "Fostoria",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51341,
+    "latitude": 43.015704,
+    "longitude": -95.043088,
+    "city": "Gillett Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51342,
+    "latitude": 43.19802,
+    "longitude": -94.736878,
+    "city": "Graettinger",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 51343,
+    "latitude": 43.107743,
+    "longitude": -95.140993,
+    "city": "Greenville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51344,
+    "latitude": 43.393593,
+    "longitude": -94.704925,
+    "city": "Gruver",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 51345,
+    "latitude": 43.399433,
+    "longitude": -95.437464,
+    "city": "Harris",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51346,
+    "latitude": 43.154712,
+    "longitude": -95.505959,
+    "city": "Hartley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Obrien"
+  },
+  {
+    "zip_code": 51347,
+    "latitude": 43.399671,
+    "longitude": -95.284164,
+    "city": "Lake Park",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51349,
+    "latitude": 43.377882,
+    "longitude": -95.624809,
+    "city": "May City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51350,
+    "latitude": 43.315953,
+    "longitude": -95.614641,
+    "city": "Melvin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51351,
+    "latitude": 43.367677,
+    "longitude": -95.208331,
+    "city": "Milford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51354,
+    "latitude": 43.378852,
+    "longitude": -95.626901,
+    "city": "Ocheyedan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 51355,
+    "latitude": 43.429006,
+    "longitude": -95.077599,
+    "city": "Okoboji",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51357,
+    "latitude": 43.043676,
+    "longitude": -95.199867,
+    "city": "Royal",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51358,
+    "latitude": 43.130459,
+    "longitude": -94.855389,
+    "city": "Ruthven",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Palo Alto"
+  },
+  {
+    "zip_code": 51360,
+    "latitude": 43.407002,
+    "longitude": -95.121813,
+    "city": "Spirit Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51363,
+    "latitude": 43.431836,
+    "longitude": -94.946943,
+    "city": "Superior",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51364,
+    "latitude": 43.35271,
+    "longitude": -95.119487,
+    "city": "Terril",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 51365,
+    "latitude": 43.318868,
+    "longitude": -94.796359,
+    "city": "Wallingford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 51366,
+    "latitude": 42.967221,
+    "longitude": -95.013216,
+    "city": "Webb",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 51401,
+    "latitude": 42.042547,
+    "longitude": -94.8338,
+    "city": "Carroll",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51430,
+    "latitude": 42.087657,
+    "longitude": -95.015299,
+    "city": "Arcadia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51431,
+    "latitude": 42.341553,
+    "longitude": -95.371381,
+    "city": "Arthur",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ida"
+  },
+  {
+    "zip_code": 51432,
+    "latitude": 41.911924,
+    "longitude": -95.135602,
+    "city": "Aspinwall",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51433,
+    "latitude": 42.340836,
+    "longitude": -95.080439,
+    "city": "Auburn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 51436,
+    "latitude": 42.15864,
+    "longitude": -94.991919,
+    "city": "Breda",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51439,
+    "latitude": 42.08798,
+    "longitude": -95.372611,
+    "city": "Charter Oak",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51440,
+    "latitude": 41.960798,
+    "longitude": -94.833323,
+    "city": "Dedham",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51441,
+    "latitude": 42.123762,
+    "longitude": -95.304518,
+    "city": "Deloit",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51442,
+    "latitude": 42.037235,
+    "longitude": -95.381819,
+    "city": "Denison",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51443,
+    "latitude": 42.049241,
+    "longitude": -94.802643,
+    "city": "Glidden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51444,
+    "latitude": 42.008229,
+    "longitude": -94.994311,
+    "city": "Halbur",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51445,
+    "latitude": 42.326783,
+    "longitude": -95.477979,
+    "city": "Ida Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Ida"
+  },
+  {
+    "zip_code": 51446,
+    "latitude": 41.684667,
+    "longitude": -95.325315,
+    "city": "Irwin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51447,
+    "latitude": 41.718539,
+    "longitude": -95.189811,
+    "city": "Kirkman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51448,
+    "latitude": 42.046292,
+    "longitude": -95.294668,
+    "city": "Kiron",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51449,
+    "latitude": 42.29709,
+    "longitude": -94.721051,
+    "city": "Lake City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 51450,
+    "latitude": 42.312348,
+    "longitude": -95.028491,
+    "city": "Lake View",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 51451,
+    "latitude": 42.184481,
+    "longitude": -94.691739,
+    "city": "Lanesboro",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51452,
+    "latitude": 42.125396,
+    "longitude": -94.775361,
+    "city": "Lidderdale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51453,
+    "latitude": 42.281733,
+    "longitude": -94.542337,
+    "city": "Lohrville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 51454,
+    "latitude": 41.968254,
+    "longitude": -95.222803,
+    "city": "Manilla",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51455,
+    "latitude": 42.024754,
+    "longitude": -94.861182,
+    "city": "Manning",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51458,
+    "latitude": 42.319844,
+    "longitude": -95.100688,
+    "city": "Odebolt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 51459,
+    "latitude": 42.041412,
+    "longitude": -94.632143,
+    "city": "Ralston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51460,
+    "latitude": 42.130428,
+    "longitude": -95.574593,
+    "city": "Ricketts",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51461,
+    "latitude": 42.137253,
+    "longitude": -95.388295,
+    "city": "Schleswig",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51462,
+    "latitude": 42.02913,
+    "longitude": -94.541989,
+    "city": "Scranton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 51463,
+    "latitude": 41.912702,
+    "longitude": -94.898698,
+    "city": "Templeton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 51465,
+    "latitude": 42.037189,
+    "longitude": -95.256476,
+    "city": "Vail",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51466,
+    "latitude": 42.268076,
+    "longitude": -95.121242,
+    "city": "Wall Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Sac"
+  },
+  {
+    "zip_code": 51467,
+    "latitude": 42.080572,
+    "longitude": -95.26403,
+    "city": "Westside",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51501,
+    "latitude": 41.23238,
+    "longitude": -95.875086,
+    "city": "Council Bluffs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51502,
+    "latitude": 41.332943,
+    "longitude": -95.587197,
+    "city": "Council Bluffs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51503,
+    "latitude": 41.286046,
+    "longitude": -95.711085,
+    "city": "Council Bluffs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51510,
+    "latitude": 41.287335,
+    "longitude": -95.91689,
+    "city": "Carter Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51520,
+    "latitude": 41.979124,
+    "longitude": -95.450804,
+    "city": "Arion",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51521,
+    "latitude": 41.433448,
+    "longitude": -95.342363,
+    "city": "Avoca",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51523,
+    "latitude": 41.915049,
+    "longitude": -96.049414,
+    "city": "Blencoe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51525,
+    "latitude": 41.224143,
+    "longitude": -95.413327,
+    "city": "Carson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51526,
+    "latitude": 41.363436,
+    "longitude": -95.887827,
+    "city": "Crescent",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51527,
+    "latitude": 41.80531,
+    "longitude": -95.353707,
+    "city": "Defiance",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51528,
+    "latitude": 41.950237,
+    "longitude": -95.470108,
+    "city": "Dow City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 51529,
+    "latitude": 41.779196,
+    "longitude": -95.716392,
+    "city": "Dunlap",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51530,
+    "latitude": 41.787073,
+    "longitude": -95.438704,
+    "city": "Earling",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51531,
+    "latitude": 41.562409,
+    "longitude": -95.129522,
+    "city": "Elk Horn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51532,
+    "latitude": 41.119637,
+    "longitude": -95.108675,
+    "city": "Elliott",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 51533,
+    "latitude": 41.016355,
+    "longitude": -95.422695,
+    "city": "Emerson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51534,
+    "latitude": 41.031806,
+    "longitude": -95.71558,
+    "city": "Glenwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51535,
+    "latitude": 41.236242,
+    "longitude": -95.041216,
+    "city": "Griswold",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 51536,
+    "latitude": 41.389941,
+    "longitude": -95.372891,
+    "city": "Hancock",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51537,
+    "latitude": 41.667566,
+    "longitude": -95.29087,
+    "city": "Harlan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51540,
+    "latitude": 41.013156,
+    "longitude": -95.500756,
+    "city": "Hastings",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51541,
+    "latitude": 41.12933,
+    "longitude": -95.453376,
+    "city": "Henderson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51542,
+    "latitude": 41.435092,
+    "longitude": -95.831903,
+    "city": "Honey Creek",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51543,
+    "latitude": 41.657834,
+    "longitude": -95.044476,
+    "city": "Kimballton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Audubon"
+  },
+  {
+    "zip_code": 51544,
+    "latitude": 41.252785,
+    "longitude": -95.098198,
+    "city": "Lewis",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 51545,
+    "latitude": 41.787434,
+    "longitude": -96.005056,
+    "city": "Little Sioux",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51546,
+    "latitude": 41.657856,
+    "longitude": -95.786047,
+    "city": "Logan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51548,
+    "latitude": 41.377671,
+    "longitude": -95.599683,
+    "city": "Mc Clelland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51549,
+    "latitude": 41.327892,
+    "longitude": -95.514083,
+    "city": "Macedonia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51550,
+    "latitude": 41.693412,
+    "longitude": -95.889638,
+    "city": "Magnolia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51551,
+    "latitude": 41.006817,
+    "longitude": -95.594792,
+    "city": "Malvern",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51552,
+    "latitude": 41.447152,
+    "longitude": -95.104078,
+    "city": "Marne",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 51553,
+    "latitude": 41.404922,
+    "longitude": -95.549781,
+    "city": "Minden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51554,
+    "latitude": 41.141404,
+    "longitude": -95.700491,
+    "city": "Mineola",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51555,
+    "latitude": 41.605102,
+    "longitude": -95.908803,
+    "city": "Missouri Valley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51556,
+    "latitude": 41.643973,
+    "longitude": -96.013027,
+    "city": "Modale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51557,
+    "latitude": 41.739098,
+    "longitude": -95.99577,
+    "city": "Mondamin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51558,
+    "latitude": 41.939436,
+    "longitude": -95.853673,
+    "city": "Moorhead",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51559,
+    "latitude": 41.390749,
+    "longitude": -95.583086,
+    "city": "Neola",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51560,
+    "latitude": 41.324842,
+    "longitude": -95.422978,
+    "city": "Oakland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51561,
+    "latitude": 41.011257,
+    "longitude": -95.808797,
+    "city": "Pacific Junction",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51562,
+    "latitude": 41.701435,
+    "longitude": -95.492423,
+    "city": "Panama",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51563,
+    "latitude": 41.634002,
+    "longitude": -95.788095,
+    "city": "Persia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51564,
+    "latitude": 41.805536,
+    "longitude": -95.898207,
+    "city": "Pisgah",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51565,
+    "latitude": 41.708156,
+    "longitude": -95.44989,
+    "city": "Portsmouth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51566,
+    "latitude": 41.030516,
+    "longitude": -95.19404,
+    "city": "Red Oak",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 51570,
+    "latitude": 41.476766,
+    "longitude": -95.370203,
+    "city": "Shelby",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51571,
+    "latitude": 41.110642,
+    "longitude": -95.604984,
+    "city": "Silver City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mills"
+  },
+  {
+    "zip_code": 51572,
+    "latitude": 41.994014,
+    "longitude": -95.778514,
+    "city": "Soldier",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monona"
+  },
+  {
+    "zip_code": 51573,
+    "latitude": 40.980119,
+    "longitude": -95.115799,
+    "city": "Stanton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 51574,
+    "latitude": 41.595663,
+    "longitude": -95.441923,
+    "city": "Tennant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51575,
+    "latitude": 41.230742,
+    "longitude": -95.608582,
+    "city": "Treynor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51576,
+    "latitude": 41.382994,
+    "longitude": -95.721535,
+    "city": "Underwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51577,
+    "latitude": 41.418923,
+    "longitude": -95.302966,
+    "city": "Walnut",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Pottawattamie"
+  },
+  {
+    "zip_code": 51578,
+    "latitude": 41.719899,
+    "longitude": -95.395187,
+    "city": "Westphalia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51579,
+    "latitude": 41.745172,
+    "longitude": -95.716704,
+    "city": "Woodbine",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 51591,
+    "latitude": 41.030256,
+    "longitude": -95.156205,
+    "city": "Red Oak",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 51593,
+    "latitude": 41.332943,
+    "longitude": -95.587197,
+    "city": "Harlan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 51601,
+    "latitude": 40.718258,
+    "longitude": -95.16372,
+    "city": "Shenandoah",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51602,
+    "latitude": 40.738309,
+    "longitude": -95.149305,
+    "city": "Shenandoah",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51603,
+    "latitude": 40.738309,
+    "longitude": -95.149305,
+    "city": "Shenandoah",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51630,
+    "latitude": 40.616851,
+    "longitude": -95.152493,
+    "city": "Blanchard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51631,
+    "latitude": 40.604915,
+    "longitude": -95.017884,
+    "city": "Braddyville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51632,
+    "latitude": 40.738247,
+    "longitude": -95.108481,
+    "city": "Clarinda",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51636,
+    "latitude": 40.646512,
+    "longitude": -95.199797,
+    "city": "Coin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51637,
+    "latitude": 40.63122,
+    "longitude": -95.12241,
+    "city": "College Springs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51638,
+    "latitude": 40.77046,
+    "longitude": -95.261263,
+    "city": "Essex",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51639,
+    "latitude": 40.72146,
+    "longitude": -95.477606,
+    "city": "Farragut",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51640,
+    "latitude": 40.741699,
+    "longitude": -95.583179,
+    "city": "Hamburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51645,
+    "latitude": 40.858205,
+    "longitude": -95.432381,
+    "city": "Imogene",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51646,
+    "latitude": 40.722464,
+    "longitude": -94.842837,
+    "city": "New Market",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 51647,
+    "latitude": 40.609974,
+    "longitude": -95.316476,
+    "city": "Northboro",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51648,
+    "latitude": 40.742301,
+    "longitude": -95.761779,
+    "city": "Percival",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51649,
+    "latitude": 40.847951,
+    "longitude": -95.537377,
+    "city": "Randolph",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51650,
+    "latitude": 40.662884,
+    "longitude": -95.577257,
+    "city": "Riverton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51651,
+    "latitude": 40.65747,
+    "longitude": -95.024969,
+    "city": "Shambaugh",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 51652,
+    "latitude": 40.77152,
+    "longitude": -95.626355,
+    "city": "Sidney",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51653,
+    "latitude": 40.822599,
+    "longitude": -95.694406,
+    "city": "Tabor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51654,
+    "latitude": 40.79334,
+    "longitude": -95.758636,
+    "city": "Thurman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 51656,
+    "latitude": 40.737446,
+    "longitude": -95.156217,
+    "city": "Yorktown",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Page"
+  },
+  {
+    "zip_code": 52001,
+    "latitude": 42.458876,
+    "longitude": -90.877135,
+    "city": "Dubuque",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52002,
+    "latitude": 42.532019,
+    "longitude": -90.7718,
+    "city": "Dubuque",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52003,
+    "latitude": 42.436426,
+    "longitude": -90.716921,
+    "city": "Dubuque",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52004,
+    "latitude": 42.484861,
+    "longitude": -90.804116,
+    "city": "Dubuque",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52030,
+    "latitude": 42.164053,
+    "longitude": -90.61074,
+    "city": "Andrew",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52031,
+    "latitude": 42.207444,
+    "longitude": -90.49192,
+    "city": "Bellevue",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52032,
+    "latitude": 42.338928,
+    "longitude": -90.864175,
+    "city": "Bernard",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52033,
+    "latitude": 42.362066,
+    "longitude": -90.903195,
+    "city": "Cascade",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52035,
+    "latitude": 42.560859,
+    "longitude": -91.347333,
+    "city": "Colesburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52036,
+    "latitude": 42.476609,
+    "longitude": -91.311248,
+    "city": "Delaware",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52037,
+    "latitude": 41.9604,
+    "longitude": -90.636408,
+    "city": "Delmar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52038,
+    "latitude": 42.559127,
+    "longitude": -91.47609,
+    "city": "Dundee",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52039,
+    "latitude": 42.534545,
+    "longitude": -90.851368,
+    "city": "Durango",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52040,
+    "latitude": 42.421746,
+    "longitude": -91.035655,
+    "city": "Dyersville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52041,
+    "latitude": 42.519834,
+    "longitude": -91.299742,
+    "city": "Earlville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52042,
+    "latitude": 42.756961,
+    "longitude": -91.34453,
+    "city": "Edgewood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52043,
+    "latitude": 42.842609,
+    "longitude": -91.408507,
+    "city": "Elkader",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52044,
+    "latitude": 42.762431,
+    "longitude": -91.320305,
+    "city": "Elkport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52045,
+    "latitude": 42.458113,
+    "longitude": -90.933197,
+    "city": "Epworth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52046,
+    "latitude": 42.45328,
+    "longitude": -91.026374,
+    "city": "Farley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52047,
+    "latitude": 42.984477,
+    "longitude": -91.354816,
+    "city": "Farmersburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52048,
+    "latitude": 42.736871,
+    "longitude": -91.249013,
+    "city": "Garber",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52049,
+    "latitude": 42.808244,
+    "longitude": -91.257708,
+    "city": "Garnavillo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52050,
+    "latitude": 42.554136,
+    "longitude": -91.332816,
+    "city": "Greeley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52052,
+    "latitude": 42.845668,
+    "longitude": -91.249472,
+    "city": "Guttenberg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52053,
+    "latitude": 42.539813,
+    "longitude": -90.90914,
+    "city": "Holy Cross",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52054,
+    "latitude": 42.284057,
+    "longitude": -90.595351,
+    "city": "La Motte",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52055,
+    "latitude": 42.862739,
+    "longitude": -91.252459,
+    "city": "Littleport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52056,
+    "latitude": 42.578283,
+    "longitude": -91.062066,
+    "city": "Luxemburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52057,
+    "latitude": 42.492356,
+    "longitude": -91.39658,
+    "city": "Manchester",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52060,
+    "latitude": 42.19807,
+    "longitude": -90.605827,
+    "city": "Maquoketa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52064,
+    "latitude": 42.120881,
+    "longitude": -90.329993,
+    "city": "Miles",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52065,
+    "latitude": 42.547149,
+    "longitude": -90.991701,
+    "city": "New Vienna",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52066,
+    "latitude": 42.667786,
+    "longitude": -90.986518,
+    "city": "North Buena Vista",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52068,
+    "latitude": 42.432281,
+    "longitude": -90.808309,
+    "city": "Peosta",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52069,
+    "latitude": 42.076366,
+    "longitude": -90.432502,
+    "city": "Preston",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52070,
+    "latitude": 42.093989,
+    "longitude": -90.360035,
+    "city": "Sabula",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52071,
+    "latitude": 42.319577,
+    "longitude": -90.490269,
+    "city": "Saint Donatus",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52072,
+    "latitude": 42.876289,
+    "longitude": -91.386044,
+    "city": "Saint Olaf",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52073,
+    "latitude": 42.5854,
+    "longitude": -90.811885,
+    "city": "Sherrill",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52074,
+    "latitude": 42.098358,
+    "longitude": -90.478972,
+    "city": "Spragueville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52075,
+    "latitude": 42.164766,
+    "longitude": -90.498366,
+    "city": "Springbrook",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52076,
+    "latitude": 42.720409,
+    "longitude": -91.490023,
+    "city": "Strawberry Point",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52077,
+    "latitude": 42.844453,
+    "longitude": -91.496533,
+    "city": "Volga",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52078,
+    "latitude": 42.388741,
+    "longitude": -91.089374,
+    "city": "Worthington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52079,
+    "latitude": 42.338446,
+    "longitude": -90.714464,
+    "city": "Zwingle",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52099,
+    "latitude": 42.484861,
+    "longitude": -90.804116,
+    "city": "Dubuque",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Dubuque"
+  },
+  {
+    "zip_code": 52101,
+    "latitude": 43.294252,
+    "longitude": -91.789582,
+    "city": "Decorah",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52132,
+    "latitude": 43.168758,
+    "longitude": -91.867666,
+    "city": "Calmar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52133,
+    "latitude": 43.136114,
+    "longitude": -91.664324,
+    "city": "Castalia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52134,
+    "latitude": 43.464701,
+    "longitude": -92.40617,
+    "city": "Chester",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 52135,
+    "latitude": 42.942633,
+    "longitude": -91.674712,
+    "city": "Clermont",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52136,
+    "latitude": 43.35666,
+    "longitude": -92.189287,
+    "city": "Cresco",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 52140,
+    "latitude": 43.43073,
+    "longitude": -91.509087,
+    "city": "Dorchester",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52141,
+    "latitude": 42.941219,
+    "longitude": -91.699573,
+    "city": "Elgin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52142,
+    "latitude": 42.885443,
+    "longitude": -91.8084,
+    "city": "Fayette",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52144,
+    "latitude": 43.268916,
+    "longitude": -91.924788,
+    "city": "Fort Atkinson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52146,
+    "latitude": 43.288601,
+    "longitude": -91.209339,
+    "city": "Harpers Ferry",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52147,
+    "latitude": 42.938391,
+    "longitude": -91.929151,
+    "city": "Hawkeye",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52149,
+    "latitude": 43.463765,
+    "longitude": -91.689862,
+    "city": "Highlandville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52151,
+    "latitude": 43.346574,
+    "longitude": -91.277117,
+    "city": "Lansing",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52154,
+    "latitude": 43.110826,
+    "longitude": -92.169251,
+    "city": "Lawler",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Chickasaw"
+  },
+  {
+    "zip_code": 52155,
+    "latitude": 43.410582,
+    "longitude": -92.276168,
+    "city": "Lime Springs",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 52156,
+    "latitude": 43.020695,
+    "longitude": -91.47665,
+    "city": "Luana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52157,
+    "latitude": 42.91563,
+    "longitude": -91.295555,
+    "city": "Mc Gregor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52158,
+    "latitude": 43.036006,
+    "longitude": -91.193057,
+    "city": "Marquette",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52159,
+    "latitude": 43.034025,
+    "longitude": -91.393408,
+    "city": "Monona",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 52160,
+    "latitude": 43.457526,
+    "longitude": -91.354022,
+    "city": "New Albin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52161,
+    "latitude": 43.142181,
+    "longitude": -91.763097,
+    "city": "Ossian",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52162,
+    "latitude": 43.175423,
+    "longitude": -91.507751,
+    "city": "Postville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52163,
+    "latitude": 43.216975,
+    "longitude": -92.092682,
+    "city": "Protivin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 52164,
+    "latitude": 42.846576,
+    "longitude": -91.896581,
+    "city": "Randalia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52165,
+    "latitude": 43.253702,
+    "longitude": -91.880018,
+    "city": "Ridgeway",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52166,
+    "latitude": 43.060717,
+    "longitude": -91.923226,
+    "city": "Saint Lucas",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52168,
+    "latitude": 43.203195,
+    "longitude": -91.944055,
+    "city": "Spillville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Winneshiek"
+  },
+  {
+    "zip_code": 52169,
+    "latitude": 42.841014,
+    "longitude": -91.674168,
+    "city": "Wadena",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52170,
+    "latitude": 43.217292,
+    "longitude": -91.310349,
+    "city": "Waterville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52171,
+    "latitude": 42.92664,
+    "longitude": -91.976961,
+    "city": "Waucoma",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52172,
+    "latitude": 43.290026,
+    "longitude": -91.445754,
+    "city": "Waukon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Allamakee"
+  },
+  {
+    "zip_code": 52175,
+    "latitude": 42.943828,
+    "longitude": -91.833409,
+    "city": "West Union",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 52201,
+    "latitude": 41.351113,
+    "longitude": -91.581212,
+    "city": "Ainsworth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52202,
+    "latitude": 42.157086,
+    "longitude": -91.645825,
+    "city": "Alburnett",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52203,
+    "latitude": 41.812242,
+    "longitude": -91.913869,
+    "city": "Amana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52204,
+    "latitude": 41.686351,
+    "longitude": -92.063603,
+    "city": "Amana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52205,
+    "latitude": 42.10352,
+    "longitude": -91.240145,
+    "city": "Anamosa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52206,
+    "latitude": 42.057516,
+    "longitude": -92.058526,
+    "city": "Atkins",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52207,
+    "latitude": 42.120007,
+    "longitude": -90.816341,
+    "city": "Baldwin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52208,
+    "latitude": 41.917133,
+    "longitude": -92.242382,
+    "city": "Belle Plaine",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52209,
+    "latitude": 41.913181,
+    "longitude": -92.112381,
+    "city": "Blairstown",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52210,
+    "latitude": 42.348147,
+    "longitude": -92.003981,
+    "city": "Brandon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 52211,
+    "latitude": 41.759702,
+    "longitude": -92.436452,
+    "city": "Brooklyn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 52212,
+    "latitude": 42.120097,
+    "longitude": -91.029004,
+    "city": "Center Junction",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52213,
+    "latitude": 42.197041,
+    "longitude": -91.744447,
+    "city": "Center Point",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52214,
+    "latitude": 42.186959,
+    "longitude": -91.520359,
+    "city": "Central City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52215,
+    "latitude": 42.036478,
+    "longitude": -92.400098,
+    "city": "Chelsea",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52216,
+    "latitude": 41.864242,
+    "longitude": -91.024771,
+    "city": "Clarence",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52217,
+    "latitude": 42.083382,
+    "longitude": -92.420884,
+    "city": "Clutier",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52218,
+    "latitude": 42.250724,
+    "longitude": -91.53445,
+    "city": "Coggon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52219,
+    "latitude": 42.231046,
+    "longitude": -91.395429,
+    "city": "Prairieburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52220,
+    "latitude": 41.73543,
+    "longitude": -92.010162,
+    "city": "Conroy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52221,
+    "latitude": 41.637767,
+    "longitude": -92.347941,
+    "city": "Guernsey",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 52222,
+    "latitude": 41.59165,
+    "longitude": -92.373998,
+    "city": "Deep River",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 52223,
+    "latitude": 42.413678,
+    "longitude": -91.31071,
+    "city": "Delhi",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52224,
+    "latitude": 42.195645,
+    "longitude": -92.36492,
+    "city": "Dysart",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52225,
+    "latitude": 41.990954,
+    "longitude": -92.363359,
+    "city": "Elberon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52226,
+    "latitude": 41.988971,
+    "longitude": -90.73596,
+    "city": "Elwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52227,
+    "latitude": 41.910425,
+    "longitude": -91.575268,
+    "city": "Ely",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52228,
+    "latitude": 41.912837,
+    "longitude": -91.764387,
+    "city": "Fairfax",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52229,
+    "latitude": 42.137698,
+    "longitude": -92.160995,
+    "city": "Garrison",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52231,
+    "latitude": 41.357763,
+    "longitude": -92.063442,
+    "city": "Harper",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  }
+]

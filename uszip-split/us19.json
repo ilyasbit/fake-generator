@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 56474,
+    "latitude": 46.712158,
+    "longitude": -94.251126,
+    "city": "Pine River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56475,
+    "latitude": 46.105236,
+    "longitude": -94.531738,
+    "city": "Randall",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56477,
+    "latitude": 46.652292,
+    "longitude": -94.974942,
+    "city": "Sebeka",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56478,
+    "latitude": 46.605266,
+    "longitude": -94.900729,
+    "city": "Nimrod",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56479,
+    "latitude": 46.250882,
+    "longitude": -94.934361,
+    "city": "Staples",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56481,
+    "latitude": 46.506528,
+    "longitude": -94.967564,
+    "city": "Verndale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56482,
+    "latitude": 46.564002,
+    "longitude": -95.082796,
+    "city": "Wadena",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56484,
+    "latitude": 47.067057,
+    "longitude": -94.489824,
+    "city": "Walker",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56501,
+    "latitude": 46.834262,
+    "longitude": -95.746871,
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56502,
+    "latitude": 46.933961,
+    "longitude": -95.678375,
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56510,
+    "latitude": 47.325283,
+    "longitude": -96.597259,
+    "city": "Ada",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56511,
+    "latitude": 46.850852,
+    "longitude": -95.995824,
+    "city": "Audubon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56513,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Baker",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56514,
+    "latitude": 46.649467,
+    "longitude": -96.391637,
+    "city": "Barnesville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56515,
+    "latitude": 46.294519,
+    "longitude": -95.707485,
+    "city": "Battle Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56516,
+    "latitude": 47.325198,
+    "longitude": -95.80918,
+    "city": "Bejou",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mahnomen"
+  },
+  {
+    "zip_code": 56517,
+    "latitude": 47.801705,
+    "longitude": -96.43368,
+    "city": "Beltrami",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56518,
+    "latitude": 46.412413,
+    "longitude": -95.713452,
+    "city": "Bluffton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56519,
+    "latitude": 47.201971,
+    "longitude": -96.500374,
+    "city": "Borup",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56520,
+    "latitude": 46.191367,
+    "longitude": -96.500224,
+    "city": "Breckenridge",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56521,
+    "latitude": 46.979328,
+    "longitude": -95.912192,
+    "city": "Callaway",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56522,
+    "latitude": 46.140224,
+    "longitude": -96.443327,
+    "city": "Campbell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56523,
+    "latitude": 47.683698,
+    "longitude": -96.87154,
+    "city": "Climax",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56524,
+    "latitude": 46.275667,
+    "longitude": -95.630788,
+    "city": "Clitherall",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56525,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Comstock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56527,
+    "latitude": 46.392933,
+    "longitude": -95.318951,
+    "city": "Deer Creek",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56528,
+    "latitude": 46.57101,
+    "longitude": -95.728629,
+    "city": "Dent",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56529,
+    "latitude": 46.877143,
+    "longitude": -96.709806,
+    "city": "Dilworth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56531,
+    "latitude": 45.997662,
+    "longitude": -95.963007,
+    "city": "Elbow Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56533,
+    "latitude": 46.380324,
+    "longitude": -96.132614,
+    "city": "Elizabeth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56534,
+    "latitude": 46.483858,
+    "longitude": -96.097914,
+    "city": "Erhard",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56535,
+    "latitude": 47.665688,
+    "longitude": -95.99807,
+    "city": "Erskine",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56536,
+    "latitude": 47.077246,
+    "longitude": -96.503987,
+    "city": "Felton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56537,
+    "latitude": 46.3194,
+    "longitude": -95.657003,
+    "city": "Fergus Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56538,
+    "latitude": 46.412413,
+    "longitude": -95.713452,
+    "city": "Fergus Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56540,
+    "latitude": 47.534788,
+    "longitude": -96.285663,
+    "city": "Fertile",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56541,
+    "latitude": 47.325074,
+    "longitude": -96.469194,
+    "city": "Flom",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56542,
+    "latitude": 47.597727,
+    "longitude": -96.270444,
+    "city": "Fosston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56543,
+    "latitude": 46.326166,
+    "longitude": -96.528032,
+    "city": "Foxhome",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56544,
+    "latitude": 46.803165,
+    "longitude": -95.579405,
+    "city": "Frazee",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56545,
+    "latitude": 47.372863,
+    "longitude": -96.264276,
+    "city": "Gary",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56546,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Georgetown",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56547,
+    "latitude": 46.870695,
+    "longitude": -96.576425,
+    "city": "Glyndon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56548,
+    "latitude": 47.350668,
+    "longitude": -96.82368,
+    "city": "Halstad",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56549,
+    "latitude": 46.977738,
+    "longitude": -96.409155,
+    "city": "Hawley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56550,
+    "latitude": 47.263731,
+    "longitude": -96.811279,
+    "city": "Hendrum",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56551,
+    "latitude": 46.293243,
+    "longitude": -95.483624,
+    "city": "Henning",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56552,
+    "latitude": 46.972026,
+    "longitude": -96.25589,
+    "city": "Hitterdal",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56553,
+    "latitude": 46.326166,
+    "longitude": -96.528032,
+    "city": "Kent",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56554,
+    "latitude": 46.891231,
+    "longitude": -96.102425,
+    "city": "Lake Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56556,
+    "latitude": 47.637117,
+    "longitude": -95.884768,
+    "city": "Mcintosh",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56557,
+    "latitude": 47.287889,
+    "longitude": -95.939586,
+    "city": "Mahnomen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mahnomen"
+  },
+  {
+    "zip_code": 56560,
+    "latitude": 46.803546,
+    "longitude": -96.557389,
+    "city": "Moorhead",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56561,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Moorhead",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56562,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Moorhead",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56563,
+    "latitude": 46.890034,
+    "longitude": -96.506156,
+    "city": "Moorhead",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56565,
+    "latitude": 46.326166,
+    "longitude": -96.528032,
+    "city": "Nashua",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56566,
+    "latitude": 47.325198,
+    "longitude": -95.80918,
+    "city": "Naytahwaush",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mahnomen"
+  },
+  {
+    "zip_code": 56567,
+    "latitude": 46.491294,
+    "longitude": -95.366068,
+    "city": "New York Mills",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56568,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Nielsville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56569,
+    "latitude": 47.10914,
+    "longitude": -95.782254,
+    "city": "Ogema",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56570,
+    "latitude": 46.923974,
+    "longitude": -95.362298,
+    "city": "Osage",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56571,
+    "latitude": 46.465546,
+    "longitude": -95.564365,
+    "city": "Ottertail",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56572,
+    "latitude": 46.611549,
+    "longitude": -96.059669,
+    "city": "Pelican Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56573,
+    "latitude": 46.597093,
+    "longitude": -95.822634,
+    "city": "Perham",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56574,
+    "latitude": 47.177615,
+    "longitude": -96.804613,
+    "city": "Perley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56575,
+    "latitude": 47.061724,
+    "longitude": -95.429915,
+    "city": "Ponsford",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56576,
+    "latitude": 46.443365,
+    "longitude": -95.792367,
+    "city": "Richville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56577,
+    "latitude": 46.933961,
+    "longitude": -95.678375,
+    "city": "Richwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56578,
+    "latitude": 46.886152,
+    "longitude": -95.724599,
+    "city": "Rochert",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56579,
+    "latitude": 46.529553,
+    "longitude": -96.349085,
+    "city": "Rothsay",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56580,
+    "latitude": 46.779487,
+    "longitude": -96.651185,
+    "city": "Sabin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56581,
+    "latitude": 47.320042,
+    "longitude": -96.54441,
+    "city": "Shelly",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56583,
+    "latitude": 46.007415,
+    "longitude": -96.359342,
+    "city": "Tintah",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Traverse"
+  },
+  {
+    "zip_code": 56584,
+    "latitude": 47.271463,
+    "longitude": -96.182441,
+    "city": "Twin Valley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Norman"
+  },
+  {
+    "zip_code": 56585,
+    "latitude": 47.0663,
+    "longitude": -96.258706,
+    "city": "Ulen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 56586,
+    "latitude": 46.285081,
+    "longitude": -95.874117,
+    "city": "Underwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56587,
+    "latitude": 46.457968,
+    "longitude": -95.919355,
+    "city": "Vergas",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56588,
+    "latitude": 46.412413,
+    "longitude": -95.713452,
+    "city": "Vining",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56589,
+    "latitude": 47.184343,
+    "longitude": -95.939849,
+    "city": "Waubun",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mahnomen"
+  },
+  {
+    "zip_code": 56590,
+    "latitude": 45.934055,
+    "longitude": -96.012359,
+    "city": "Wendell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56591,
+    "latitude": 46.933961,
+    "longitude": -95.678375,
+    "city": "White Earth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56592,
+    "latitude": 47.631462,
+    "longitude": -95.889453,
+    "city": "Winger",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56593,
+    "latitude": 46.821648,
+    "longitude": -95.391968,
+    "city": "Wolf Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Becker"
+  },
+  {
+    "zip_code": 56594,
+    "latitude": 46.326166,
+    "longitude": -96.528032,
+    "city": "Wolverton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wilkin"
+  },
+  {
+    "zip_code": 56601,
+    "latitude": 47.571964,
+    "longitude": -94.801272,
+    "city": "Bemidji",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56619,
+    "latitude": 47.625699,
+    "longitude": -94.822154,
+    "city": "Bemidji",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56621,
+    "latitude": 47.531644,
+    "longitude": -95.377949,
+    "city": "Bagley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 56623,
+    "latitude": 48.750473,
+    "longitude": -94.84626,
+    "city": "Baudette",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake Of The Woods"
+  },
+  {
+    "zip_code": 56626,
+    "latitude": 47.370372,
+    "longitude": -94.251376,
+    "city": "Bena",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56627,
+    "latitude": 48.091615,
+    "longitude": -93.81606,
+    "city": "Big Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56628,
+    "latitude": 47.710353,
+    "longitude": -93.612694,
+    "city": "Bigfork",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56629,
+    "latitude": 48.642546,
+    "longitude": -94.06358,
+    "city": "Birchdale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56630,
+    "latitude": 47.804493,
+    "longitude": -94.575871,
+    "city": "Blackduck",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56631,
+    "latitude": 47.087782,
+    "longitude": -93.921429,
+    "city": "Bowstring",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56633,
+    "latitude": 47.327719,
+    "longitude": -94.476853,
+    "city": "Cass Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56634,
+    "latitude": 47.610498,
+    "longitude": -95.421104,
+    "city": "Clearbrook",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 56636,
+    "latitude": 47.46843,
+    "longitude": -93.810949,
+    "city": "Deer River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56637,
+    "latitude": 47.615375,
+    "longitude": -93.837811,
+    "city": "Talmoon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56639,
+    "latitude": 47.852226,
+    "longitude": -93.524252,
+    "city": "Effie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56641,
+    "latitude": 47.206552,
+    "longitude": -94.263384,
+    "city": "Federal Dam",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56644,
+    "latitude": 47.715406,
+    "longitude": -95.470782,
+    "city": "Gonvick",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 56646,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Gully",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56647,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Hines",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56649,
+    "latitude": 48.232494,
+    "longitude": -93.640382,
+    "city": "International Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56650,
+    "latitude": 47.940789,
+    "longitude": -94.45001,
+    "city": "Kelliher",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56651,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Lengby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56652,
+    "latitude": 47.585873,
+    "longitude": -95.375974,
+    "city": "Leonard",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 56653,
+    "latitude": 48.357144,
+    "longitude": -93.612836,
+    "city": "Littlefork",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56654,
+    "latitude": 48.538803,
+    "longitude": -93.840769,
+    "city": "Loman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56655,
+    "latitude": 46.994097,
+    "longitude": -94.243551,
+    "city": "Longville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56657,
+    "latitude": 47.548518,
+    "longitude": -93.62356,
+    "city": "Marcell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56658,
+    "latitude": 48.27888,
+    "longitude": -93.755536,
+    "city": "Margie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56659,
+    "latitude": 47.661759,
+    "longitude": -94.015607,
+    "city": "Max",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56660,
+    "latitude": 47.933964,
+    "longitude": -94.23693,
+    "city": "Mizpah",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56661,
+    "latitude": 47.919215,
+    "longitude": -94.097415,
+    "city": "Northome",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56662,
+    "latitude": 46.879043,
+    "longitude": -93.918172,
+    "city": "Outing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56663,
+    "latitude": 47.448274,
+    "longitude": -94.471485,
+    "city": "Pennington",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56666,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Ponemah",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56667,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Puposky",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56668,
+    "latitude": 48.603143,
+    "longitude": -93.29771,
+    "city": "Ranier",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56669,
+    "latitude": 48.394721,
+    "longitude": -93.310667,
+    "city": "Ray",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56670,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Redby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56671,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Redlake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56672,
+    "latitude": 47.095793,
+    "longitude": -94.021032,
+    "city": "Remer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56673,
+    "latitude": 48.769244,
+    "longitude": -95.747559,
+    "city": "Roosevelt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56676,
+    "latitude": 47.585873,
+    "longitude": -95.375974,
+    "city": "Shevlin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Clearwater"
+  },
+  {
+    "zip_code": 56678,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Solway",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56679,
+    "latitude": 48.27888,
+    "longitude": -93.755536,
+    "city": "South International Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Koochiching"
+  },
+  {
+    "zip_code": 56680,
+    "latitude": 47.635946,
+    "longitude": -93.922032,
+    "city": "Spring Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56681,
+    "latitude": 47.624415,
+    "longitude": -94.187735,
+    "city": "Squaw Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56682,
+    "latitude": 48.769244,
+    "longitude": -95.747559,
+    "city": "Swift",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56683,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Tenstrike",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56684,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Trail",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56685,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Waskish",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56686,
+    "latitude": 48.820843,
+    "longitude": -94.933138,
+    "city": "Williams",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake Of The Woods"
+  },
+  {
+    "zip_code": 56687,
+    "latitude": 47.974989,
+    "longitude": -95.008708,
+    "city": "Wilton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Beltrami"
+  },
+  {
+    "zip_code": 56688,
+    "latitude": 47.746177,
+    "longitude": -93.962961,
+    "city": "Wirt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 56701,
+    "latitude": 48.076333,
+    "longitude": -96.149002,
+    "city": "Thief River Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 56710,
+    "latitude": 48.191085,
+    "longitude": -96.998433,
+    "city": "Alvarado",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56711,
+    "latitude": 48.875164,
+    "longitude": -94.885668,
+    "city": "Angle Inlet",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake Of The Woods"
+  },
+  {
+    "zip_code": 56712,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Angus",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56713,
+    "latitude": 48.331455,
+    "longitude": -96.816197,
+    "city": "Argyle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56714,
+    "latitude": 48.774428,
+    "longitude": -96.020334,
+    "city": "Badger",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56715,
+    "latitude": 47.814152,
+    "longitude": -96.005263,
+    "city": "Brooks",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Red Lake"
+  },
+  {
+    "zip_code": 56716,
+    "latitude": 47.705082,
+    "longitude": -96.412,
+    "city": "Crookston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56720,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Donaldson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56721,
+    "latitude": 47.874048,
+    "longitude": -96.924085,
+    "city": "East Grand Forks",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56722,
+    "latitude": 47.836367,
+    "longitude": -96.3504,
+    "city": "Euclid",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56723,
+    "latitude": 47.799949,
+    "longitude": -96.798532,
+    "city": "Fisher",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56724,
+    "latitude": 48.358371,
+    "longitude": -96.378062,
+    "city": "Gatzke",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56725,
+    "latitude": 48.144158,
+    "longitude": -95.804345,
+    "city": "Goodridge",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 56726,
+    "latitude": 48.834783,
+    "longitude": -96.286287,
+    "city": "Greenbush",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56727,
+    "latitude": 48.358371,
+    "longitude": -96.378062,
+    "city": "Grygla",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56728,
+    "latitude": 48.774787,
+    "longitude": -96.942022,
+    "city": "Hallock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56729,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Halma",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56731,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Humboldt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56732,
+    "latitude": 48.565003,
+    "longitude": -96.53266,
+    "city": "Karlstad",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56733,
+    "latitude": 48.643714,
+    "longitude": -96.914605,
+    "city": "Kennedy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56734,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Lake Bronson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56735,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Lancaster",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56736,
+    "latitude": 47.681728,
+    "longitude": -96.154311,
+    "city": "Mentor",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 56737,
+    "latitude": 48.438104,
+    "longitude": -96.513779,
+    "city": "Middle River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56738,
+    "latitude": 48.358371,
+    "longitude": -96.378062,
+    "city": "Newfolden",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56740,
+    "latitude": 48.771938,
+    "longitude": -96.812921,
+    "city": "Noyes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56741,
+    "latitude": 48.875164,
+    "longitude": -94.885668,
+    "city": "Oak Island",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake Of The Woods"
+  },
+  {
+    "zip_code": 56742,
+    "latitude": 47.838345,
+    "longitude": -95.853261,
+    "city": "Oklee",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Red Lake"
+  },
+  {
+    "zip_code": 56744,
+    "latitude": 48.19941,
+    "longitude": -97.130755,
+    "city": "Oslo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56748,
+    "latitude": 47.86217,
+    "longitude": -96.095883,
+    "city": "Plummer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Red Lake"
+  },
+  {
+    "zip_code": 56750,
+    "latitude": 47.885347,
+    "longitude": -96.270368,
+    "city": "Red Lake Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Red Lake"
+  },
+  {
+    "zip_code": 56751,
+    "latitude": 48.704839,
+    "longitude": -95.750383,
+    "city": "Roseau",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56754,
+    "latitude": 48.014969,
+    "longitude": -96.213472,
+    "city": "Saint Hilaire",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 56755,
+    "latitude": 48.871994,
+    "longitude": -97.092442,
+    "city": "Saint Vincent",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kittson"
+  },
+  {
+    "zip_code": 56756,
+    "latitude": 48.769244,
+    "longitude": -95.747559,
+    "city": "Salol",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56757,
+    "latitude": 48.477158,
+    "longitude": -96.867548,
+    "city": "Stephen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56758,
+    "latitude": 48.358371,
+    "longitude": -96.378062,
+    "city": "Strandquist",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56759,
+    "latitude": 48.749138,
+    "longitude": -96.062783,
+    "city": "Strathcona",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56760,
+    "latitude": 48.358371,
+    "longitude": -96.378062,
+    "city": "Viking",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56761,
+    "latitude": 48.769244,
+    "longitude": -95.747559,
+    "city": "Wannaska",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 56762,
+    "latitude": 48.261376,
+    "longitude": -96.772583,
+    "city": "Warren",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 56763,
+    "latitude": 48.900663,
+    "longitude": -95.250324,
+    "city": "Warroad",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Roseau"
+  },
+  {
+    "zip_code": 57001,
+    "latitude": 42.931698,
+    "longitude": -96.624298,
+    "city": "Alcester",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Union"
+  },
+  {
+    "zip_code": 57002,
+    "latitude": 44.304195,
+    "longitude": -96.667977,
+    "city": "Aurora",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57003,
+    "latitude": 43.64514,
+    "longitude": -96.814589,
+    "city": "Baltic",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57004,
+    "latitude": 42.842947,
+    "longitude": -96.681135,
+    "city": "Beresford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Union"
+  },
+  {
+    "zip_code": 57005,
+    "latitude": 43.603401,
+    "longitude": -96.793708,
+    "city": "Brandon",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57006,
+    "latitude": 44.355091,
+    "longitude": -96.762102,
+    "city": "Brookings",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57007,
+    "latitude": 44.369696,
+    "longitude": -96.790705,
+    "city": "Brookings",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57010,
+    "latitude": 42.827796,
+    "longitude": -96.847373,
+    "city": "Burbank",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 57012,
+    "latitude": 43.572888,
+    "longitude": -97.248418,
+    "city": "Canistota",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mccook"
+  },
+  {
+    "zip_code": 57013,
+    "latitude": 43.29831,
+    "longitude": -96.70718,
+    "city": "Canton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57014,
+    "latitude": 43.291296,
+    "longitude": -97.042271,
+    "city": "Centerville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57015,
+    "latitude": 43.408226,
+    "longitude": -96.983852,
+    "city": "Chancellor",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57016,
+    "latitude": 43.895505,
+    "longitude": -96.928024,
+    "city": "Chester",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57017,
+    "latitude": 43.984778,
+    "longitude": -96.814237,
+    "city": "Colman",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Moody"
+  },
+  {
+    "zip_code": 57018,
+    "latitude": 43.790192,
+    "longitude": -96.907845,
+    "city": "Colton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57020,
+    "latitude": 43.666894,
+    "longitude": -96.822137,
+    "city": "Crooks",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57021,
+    "latitude": 43.272502,
+    "longitude": -96.983494,
+    "city": "Davis",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57022,
+    "latitude": 43.803585,
+    "longitude": -96.699766,
+    "city": "Dell Rapids",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57024,
+    "latitude": 43.998434,
+    "longitude": -96.648034,
+    "city": "Egan",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Moody"
+  },
+  {
+    "zip_code": 57025,
+    "latitude": 42.76399,
+    "longitude": -96.676742,
+    "city": "Elk Point",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Union"
+  },
+  {
+    "zip_code": 57026,
+    "latitude": 44.289677,
+    "longitude": -96.540249,
+    "city": "Elkton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57027,
+    "latitude": 43.197041,
+    "longitude": -96.513506,
+    "city": "Fairview",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57028,
+    "latitude": 43.984004,
+    "longitude": -96.616189,
+    "city": "Flandreau",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Moody"
+  },
+  {
+    "zip_code": 57029,
+    "latitude": 43.321384,
+    "longitude": -97.547869,
+    "city": "Freeman",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57030,
+    "latitude": 43.747639,
+    "longitude": -96.596379,
+    "city": "Garretson",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57031,
+    "latitude": 42.886136,
+    "longitude": -97.209902,
+    "city": "Gayville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57032,
+    "latitude": 43.425258,
+    "longitude": -96.659737,
+    "city": "Harrisburg",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57033,
+    "latitude": 43.630545,
+    "longitude": -96.814539,
+    "city": "Hartford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57034,
+    "latitude": 43.184976,
+    "longitude": -96.580939,
+    "city": "Hudson",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57035,
+    "latitude": 43.637836,
+    "longitude": -96.816129,
+    "city": "Humboldt",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57036,
+    "latitude": 43.278943,
+    "longitude": -97.141677,
+    "city": "Hurley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57037,
+    "latitude": 43.068331,
+    "longitude": -97.130498,
+    "city": "Irene",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 57038,
+    "latitude": 42.580112,
+    "longitude": -96.576256,
+    "city": "Jefferson",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Union"
+  },
+  {
+    "zip_code": 57039,
+    "latitude": 43.298098,
+    "longitude": -96.856021,
+    "city": "Lennox",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57040,
+    "latitude": 43.06062,
+    "longitude": -97.568901,
+    "city": "Lesterville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57041,
+    "latitude": 43.728488,
+    "longitude": -96.870928,
+    "city": "Lyons",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57042,
+    "latitude": 44.054223,
+    "longitude": -97.091339,
+    "city": "Madison",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57043,
+    "latitude": 43.292364,
+    "longitude": -97.278318,
+    "city": "Marion",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57044,
+    "latitude": 42.840984,
+    "longitude": -97.091959,
+    "city": "Meckling",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 57045,
+    "latitude": 43.248825,
+    "longitude": -97.538733,
+    "city": "Menno",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57046,
+    "latitude": 42.969251,
+    "longitude": -97.297103,
+    "city": "Mission Hill",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57047,
+    "latitude": 43.489841,
+    "longitude": -97.250932,
+    "city": "Monroe",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57048,
+    "latitude": 43.696853,
+    "longitude": -97.18593,
+    "city": "Montrose",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mccook"
+  },
+  {
+    "zip_code": 57049,
+    "latitude": 42.587483,
+    "longitude": -96.585026,
+    "city": "North Sioux City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Union"
+  },
+  {
+    "zip_code": 57050,
+    "latitude": 44.021983,
+    "longitude": -97.129455,
+    "city": "Nunda",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57051,
+    "latitude": 44.245942,
+    "longitude": -97.32031,
+    "city": "Oldham",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57052,
+    "latitude": 43.284183,
+    "longitude": -97.718224,
+    "city": "Olivet",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57053,
+    "latitude": 43.399595,
+    "longitude": -97.134211,
+    "city": "Parker",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57054,
+    "latitude": 44.1186,
+    "longitude": -97.215191,
+    "city": "Ramona",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57055,
+    "latitude": 43.666979,
+    "longitude": -96.760473,
+    "city": "Renner",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57056,
+    "latitude": 43.521559,
+    "longitude": -96.558738,
+    "city": "Rowena",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57057,
+    "latitude": 44.021983,
+    "longitude": -97.129455,
+    "city": "Rutland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57058,
+    "latitude": 43.639298,
+    "longitude": -97.343417,
+    "city": "Salem",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mccook"
+  },
+  {
+    "zip_code": 57059,
+    "latitude": 43.024378,
+    "longitude": -97.783482,
+    "city": "Scotland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bon Homme"
+  },
+  {
+    "zip_code": 57061,
+    "latitude": 44.242764,
+    "longitude": -97.018205,
+    "city": "Sinai",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57062,
+    "latitude": 42.881672,
+    "longitude": -97.926212,
+    "city": "Springfield",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bon Homme"
+  },
+  {
+    "zip_code": 57063,
+    "latitude": 42.947515,
+    "longitude": -97.714195,
+    "city": "Tabor",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bon Homme"
+  },
+  {
+    "zip_code": 57064,
+    "latitude": 43.41434,
+    "longitude": -96.842783,
+    "city": "Tea",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57065,
+    "latitude": 43.907616,
+    "longitude": -96.653301,
+    "city": "Trent",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Moody"
+  },
+  {
+    "zip_code": 57066,
+    "latitude": 42.98853,
+    "longitude": -97.873263,
+    "city": "Tyndall",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bon Homme"
+  },
+  {
+    "zip_code": 57067,
+    "latitude": 43.016376,
+    "longitude": -97.369385,
+    "city": "Utica",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57068,
+    "latitude": 43.594402,
+    "longitude": -96.528511,
+    "city": "Valley Springs",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57069,
+    "latitude": 42.854124,
+    "longitude": -96.973318,
+    "city": "Vermillion",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 57070,
+    "latitude": 43.188383,
+    "longitude": -97.180373,
+    "city": "Viborg",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 57071,
+    "latitude": 44.369694,
+    "longitude": -96.790512,
+    "city": "Volga",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57072,
+    "latitude": 43.002044,
+    "longitude": -97.239829,
+    "city": "Volin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57073,
+    "latitude": 42.996509,
+    "longitude": -97.058654,
+    "city": "Wakonda",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 57075,
+    "latitude": 43.996979,
+    "longitude": -96.967095,
+    "city": "Wentworth",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57076,
+    "latitude": 44.021983,
+    "longitude": -97.129455,
+    "city": "Winfred",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 57077,
+    "latitude": 43.286596,
+    "longitude": -96.776784,
+    "city": "Worthing",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 57078,
+    "latitude": 42.94396,
+    "longitude": -97.37689,
+    "city": "Yankton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57079,
+    "latitude": 42.867556,
+    "longitude": -97.390268,
+    "city": "Yankton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Yankton"
+  },
+  {
+    "zip_code": 57101,
+    "latitude": 43.546358,
+    "longitude": -96.69063,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57103,
+    "latitude": 43.548433,
+    "longitude": -96.63871,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57104,
+    "latitude": 43.589218,
+    "longitude": -96.685294,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57105,
+    "latitude": 43.518636,
+    "longitude": -96.732266,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57106,
+    "latitude": 43.529244,
+    "longitude": -96.780065,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57107,
+    "latitude": 43.600064,
+    "longitude": -96.801033,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57108,
+    "latitude": 43.550404,
+    "longitude": -96.696878,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57109,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57110,
+    "latitude": 43.548613,
+    "longitude": -96.633203,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57115,
+    "latitude": 43.521895,
+    "longitude": -96.868464,
+    "city": "Buffalo Ridge",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57117,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57118,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57186,
+    "latitude": 43.544455,
+    "longitude": -96.723779,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57188,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57189,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57192,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57193,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57194,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57195,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57196,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57197,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57198,
+    "latitude": 43.674582,
+    "longitude": -96.79134,
+    "city": "Sioux Falls",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Minnehaha"
+  },
+  {
+    "zip_code": 57201,
+    "latitude": 44.955643,
+    "longitude": -97.177954,
+    "city": "Watertown",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57202,
+    "latitude": 44.977634,
+    "longitude": -97.188372,
+    "city": "Waverly",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57212,
+    "latitude": 44.368264,
+    "longitude": -97.246086,
+    "city": "Arlington",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57213,
+    "latitude": 44.562302,
+    "longitude": -96.591264,
+    "city": "Astoria",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57214,
+    "latitude": 44.484381,
+    "longitude": -97.209173,
+    "city": "Badger",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57216,
+    "latitude": 45.170552,
+    "longitude": -96.534574,
+    "city": "Big Stone City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57217,
+    "latitude": 44.90626,
+    "longitude": -97.708049,
+    "city": "Bradley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57218,
+    "latitude": 44.76048,
+    "longitude": -96.668424,
+    "city": "Brandt",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57219,
+    "latitude": 45.319218,
+    "longitude": -97.637812,
+    "city": "Bristol",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57220,
+    "latitude": 44.456735,
+    "longitude": -96.89302,
+    "city": "Bruce",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57221,
+    "latitude": 44.590094,
+    "longitude": -97.466776,
+    "city": "Bryant",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57223,
+    "latitude": 44.65665,
+    "longitude": -97.116149,
+    "city": "Castlewood",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57224,
+    "latitude": 45.616422,
+    "longitude": -96.849416,
+    "city": "Claire City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57225,
+    "latitude": 44.891983,
+    "longitude": -97.832972,
+    "city": "Clark",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57226,
+    "latitude": 44.761249,
+    "longitude": -96.690651,
+    "city": "Clear Lake",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57227,
+    "latitude": 45.616422,
+    "longitude": -96.849416,
+    "city": "Corona",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57231,
+    "latitude": 44.369482,
+    "longitude": -97.542049,
+    "city": "De Smet",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57232,
+    "latitude": 45.631054,
+    "longitude": -97.40057,
+    "city": "Eden",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57233,
+    "latitude": 44.470856,
+    "longitude": -97.370412,
+    "city": "Erwin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57234,
+    "latitude": 44.673762,
+    "longitude": -97.188324,
+    "city": "Estelline",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57235,
+    "latitude": 45.015481,
+    "longitude": -97.306014,
+    "city": "Florence",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57236,
+    "latitude": 44.848565,
+    "longitude": -97.737227,
+    "city": "Garden City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57237,
+    "latitude": 44.792302,
+    "longitude": -96.45927,
+    "city": "Gary",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57238,
+    "latitude": 44.76048,
+    "longitude": -96.668424,
+    "city": "Goodwin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57239,
+    "latitude": 45.369855,
+    "longitude": -97.603949,
+    "city": "Grenville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57241,
+    "latitude": 44.657338,
+    "longitude": -97.20497,
+    "city": "Hayti",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57242,
+    "latitude": 44.759144,
+    "longitude": -97.381575,
+    "city": "Hazel",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57243,
+    "latitude": 44.929255,
+    "longitude": -97.391955,
+    "city": "Henry",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57244,
+    "latitude": 44.425409,
+    "longitude": -97.289881,
+    "city": "Hetland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57245,
+    "latitude": 44.892254,
+    "longitude": -96.917412,
+    "city": "Kranzburg",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57246,
+    "latitude": 45.115408,
+    "longitude": -96.670622,
+    "city": "Labolt",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57247,
+    "latitude": 45.717904,
+    "longitude": -97.470748,
+    "city": "Lake City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57248,
+    "latitude": 44.588234,
+    "longitude": -97.142872,
+    "city": "Lake Norden",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hamlin"
+  },
+  {
+    "zip_code": 57249,
+    "latitude": 44.369159,
+    "longitude": -97.382824,
+    "city": "Lake Preston",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57251,
+    "latitude": 45.274296,
+    "longitude": -96.942159,
+    "city": "Marvin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57252,
+    "latitude": 45.171617,
+    "longitude": -96.629203,
+    "city": "Milbank",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57253,
+    "latitude": 45.151477,
+    "longitude": -96.839235,
+    "city": "Milbank",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57255,
+    "latitude": 45.616422,
+    "longitude": -96.849416,
+    "city": "New Effington",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57256,
+    "latitude": 45.616422,
+    "longitude": -96.849416,
+    "city": "Ortley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57257,
+    "latitude": 45.542151,
+    "longitude": -96.951675,
+    "city": "Peever",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57258,
+    "latitude": 44.910756,
+    "longitude": -97.939298,
+    "city": "Raymond",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57259,
+    "latitude": 45.080517,
+    "longitude": -96.555664,
+    "city": "Revillo",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57260,
+    "latitude": 45.616422,
+    "longitude": -96.849416,
+    "city": "Rosholt",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57261,
+    "latitude": 45.369855,
+    "longitude": -97.603949,
+    "city": "Roslyn",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57262,
+    "latitude": 45.541443,
+    "longitude": -96.970202,
+    "city": "Sisseton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57263,
+    "latitude": 45.100745,
+    "longitude": -97.036356,
+    "city": "South Shore",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57264,
+    "latitude": 45.106694,
+    "longitude": -96.802259,
+    "city": "Stockholm",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57265,
+    "latitude": 45.021579,
+    "longitude": -96.74078,
+    "city": "Strandburg",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57266,
+    "latitude": 45.30204,
+    "longitude": -97.036537,
+    "city": "Summit",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57268,
+    "latitude": 44.567419,
+    "longitude": -96.59444,
+    "city": "Toronto",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Deuel"
+  },
+  {
+    "zip_code": 57269,
+    "latitude": 45.230876,
+    "longitude": -96.823706,
+    "city": "Twin Brooks",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 57270,
+    "latitude": 45.849458,
+    "longitude": -97.376617,
+    "city": "Veblen",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57271,
+    "latitude": 44.848565,
+    "longitude": -97.737227,
+    "city": "Vienna",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57272,
+    "latitude": 45.093607,
+    "longitude": -97.453149,
+    "city": "Wallace",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Codington"
+  },
+  {
+    "zip_code": 57273,
+    "latitude": 45.332568,
+    "longitude": -97.307239,
+    "city": "Waubay",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57274,
+    "latitude": 45.31506,
+    "longitude": -97.525395,
+    "city": "Webster",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57276,
+    "latitude": 44.405596,
+    "longitude": -96.599788,
+    "city": "White",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brookings"
+  },
+  {
+    "zip_code": 57278,
+    "latitude": 44.659815,
+    "longitude": -97.573152,
+    "city": "Willow Lake",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57279,
+    "latitude": 45.39857,
+    "longitude": -96.832256,
+    "city": "Wilmot",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 57301,
+    "latitude": 43.69591,
+    "longitude": -98.086401,
+    "city": "Mitchell",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Davison"
+  },
+  {
+    "zip_code": 57311,
+    "latitude": 43.66844,
+    "longitude": -97.75632,
+    "city": "Alexandria",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hanson"
+  },
+  {
+    "zip_code": 57312,
+    "latitude": 44.122811,
+    "longitude": -98.412198,
+    "city": "Alpena",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jerauld"
+  },
+  {
+    "zip_code": 57313,
+    "latitude": 43.341035,
+    "longitude": -98.398964,
+    "city": "Armour",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 57314,
+    "latitude": 44.020961,
+    "longitude": -98.01144,
+    "city": "Artesian",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Sanborn"
+  },
+  {
+    "zip_code": 57315,
+    "latitude": 42.988284,
+    "longitude": -97.878579,
+    "city": "Avon",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bon Homme"
+  },
+  {
+    "zip_code": 57317,
+    "latitude": 43.248832,
+    "longitude": -99.016376,
+    "city": "Bonesteel",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57319,
+    "latitude": 43.550264,
+    "longitude": -97.469058,
+    "city": "Bridgewater",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mccook"
+  },
+  {
+    "zip_code": 57321,
+    "latitude": 43.892123,
+    "longitude": -97.540053,
+    "city": "Canova",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Miner"
+  },
+  {
+    "zip_code": 57322,
+    "latitude": 44.848565,
+    "longitude": -97.737227,
+    "city": "Carpenter",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 57323,
+    "latitude": 44.138176,
+    "longitude": -97.720661,
+    "city": "Carthage",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Miner"
+  },
+  {
+    "zip_code": 57324,
+    "latitude": 44.325314,
+    "longitude": -98.013968,
+    "city": "Cavour",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57325,
+    "latitude": 43.772585,
+    "longitude": -99.149806,
+    "city": "Chamberlain",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brule"
+  },
+  {
+    "zip_code": 57326,
+    "latitude": 43.71725,
+    "longitude": -99.131736,
+    "city": "Chamberlain",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brule"
+  },
+  {
+    "zip_code": 57328,
+    "latitude": 43.420306,
+    "longitude": -98.439859,
+    "city": "Corsica",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 57329,
+    "latitude": 42.984707,
+    "longitude": -98.175204,
+    "city": "Dante",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57330,
+    "latitude": 43.290614,
+    "longitude": -98.178372,
+    "city": "Delmont",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 57331,
+    "latitude": 43.470444,
+    "longitude": -97.999352,
+    "city": "Dimock",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57332,
+    "latitude": 43.586451,
+    "longitude": -97.65539,
+    "city": "Emery",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hanson"
+  },
+  {
+    "zip_code": 57334,
+    "latitude": 43.59997,
+    "longitude": -98.074101,
+    "city": "Ethan",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Davison"
+  },
+  {
+    "zip_code": 57335,
+    "latitude": 43.248832,
+    "longitude": -99.016376,
+    "city": "Fairfax",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57337,
+    "latitude": 44.001852,
+    "longitude": -97.750838,
+    "city": "Fedora",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Miner"
+  },
+  {
+    "zip_code": 57339,
+    "latitude": 44.064873,
+    "longitude": -99.251509,
+    "city": "Fort Thompson",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 57340,
+    "latitude": 43.762939,
+    "longitude": -97.869025,
+    "city": "Fulton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hanson"
+  },
+  {
+    "zip_code": 57341,
+    "latitude": 44.064873,
+    "longitude": -99.251509,
+    "city": "Gann Valley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 57342,
+    "latitude": 43.251263,
+    "longitude": -98.736404,
+    "city": "Geddes",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57344,
+    "latitude": 43.409186,
+    "longitude": -98.528068,
+    "city": "Harrison",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 57345,
+    "latitude": 44.574651,
+    "longitude": -99.486417,
+    "city": "Highmore",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hyde"
+  },
+  {
+    "zip_code": 57346,
+    "latitude": 44.545094,
+    "longitude": -99.488221,
+    "city": "Stephan",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hyde"
+  },
+  {
+    "zip_code": 57348,
+    "latitude": 44.567404,
+    "longitude": -98.406424,
+    "city": "Hitchcock",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57349,
+    "latitude": 44.037102,
+    "longitude": -97.56034,
+    "city": "Howard",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Miner"
+  },
+  {
+    "zip_code": 57350,
+    "latitude": 44.398874,
+    "longitude": -98.180113,
+    "city": "Huron",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57353,
+    "latitude": 44.369593,
+    "longitude": -97.652194,
+    "city": "Iroquois",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Kingsbury"
+  },
+  {
+    "zip_code": 57354,
+    "latitude": 43.334069,
+    "longitude": -97.756924,
+    "city": "Kaylor",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57355,
+    "latitude": 43.744477,
+    "longitude": -98.95381,
+    "city": "Kimball",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brule"
+  },
+  {
+    "zip_code": 57356,
+    "latitude": 43.147572,
+    "longitude": -98.527479,
+    "city": "Lake Andes",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57357,
+    "latitude": 43.136365,
+    "longitude": -98.427173,
+    "city": "Ravinia",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57358,
+    "latitude": 44.069628,
+    "longitude": -98.425228,
+    "city": "Lane",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jerauld"
+  },
+  {
+    "zip_code": 57359,
+    "latitude": 43.953471,
+    "longitude": -98.151193,
+    "city": "Letcher",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Sanborn"
+  },
+  {
+    "zip_code": 57361,
+    "latitude": 43.01957,
+    "longitude": -98.446929,
+    "city": "Marty",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57362,
+    "latitude": 44.480979,
+    "longitude": -99.062766,
+    "city": "Miller",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hand"
+  },
+  {
+    "zip_code": 57363,
+    "latitude": 43.674994,
+    "longitude": -98.164483,
+    "city": "Mount Vernon",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Davison"
+  },
+  {
+    "zip_code": 57364,
+    "latitude": 43.427358,
+    "longitude": -98.608778,
+    "city": "New Holland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 57365,
+    "latitude": 43.797502,
+    "longitude": -99.394735,
+    "city": "Oacoma",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57366,
+    "latitude": 43.383849,
+    "longitude": -97.915618,
+    "city": "Parkston",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57367,
+    "latitude": 43.067306,
+    "longitude": -98.522951,
+    "city": "Pickstown",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57368,
+    "latitude": 43.746753,
+    "longitude": -98.518533,
+    "city": "Plankinton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Aurora"
+  },
+  {
+    "zip_code": 57369,
+    "latitude": 43.2916,
+    "longitude": -98.767186,
+    "city": "Platte",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57370,
+    "latitude": 43.776542,
+    "longitude": -99.186931,
+    "city": "Pukwana",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brule"
+  },
+  {
+    "zip_code": 57371,
+    "latitude": 44.422833,
+    "longitude": -99.218556,
+    "city": "Ree Heights",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hand"
+  },
+  {
+    "zip_code": 57373,
+    "latitude": 44.495497,
+    "longitude": -98.869647,
+    "city": "Saint Lawrence",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hand"
+  },
+  {
+    "zip_code": 57374,
+    "latitude": 43.723565,
+    "longitude": -97.581441,
+    "city": "Spencer",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mccook"
+  },
+  {
+    "zip_code": 57375,
+    "latitude": 43.571628,
+    "longitude": -98.498361,
+    "city": "Stickney",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Aurora"
+  },
+  {
+    "zip_code": 57376,
+    "latitude": 43.24846,
+    "longitude": -97.923502,
+    "city": "Tripp",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 57379,
+    "latitude": 44.283816,
+    "longitude": -98.50273,
+    "city": "Virgil",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57380,
+    "latitude": 43.034725,
+    "longitude": -98.315504,
+    "city": "Wagner",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Charles Mix"
+  },
+  {
+    "zip_code": 57381,
+    "latitude": 44.415437,
+    "longitude": -98.642453,
+    "city": "Wessington",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57382,
+    "latitude": 44.066415,
+    "longitude": -98.675133,
+    "city": "Wessington Springs",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jerauld"
+  },
+  {
+    "zip_code": 57383,
+    "latitude": 43.714955,
+    "longitude": -98.644922,
+    "city": "White Lake",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Aurora"
+  },
+  {
+    "zip_code": 57384,
+    "latitude": 44.44945,
+    "longitude": -98.487894,
+    "city": "Wolsey",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57385,
+    "latitude": 44.04271,
+    "longitude": -98.231397,
+    "city": "Woonsocket",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Sanborn"
+  },
+  {
+    "zip_code": 57386,
+    "latitude": 44.522526,
+    "longitude": -98.040081,
+    "city": "Yale",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57399,
+    "latitude": 44.414319,
+    "longitude": -98.279548,
+    "city": "Huron",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Beadle"
+  },
+  {
+    "zip_code": 57401,
+    "latitude": 45.476172,
+    "longitude": -98.410405,
+    "city": "Aberdeen",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57402,
+    "latitude": 45.589567,
+    "longitude": -98.352014,
+    "city": "Aberdeen",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57420,
+    "latitude": 45.29069,
+    "longitude": -99.991823,
+    "city": "Akaska",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 57421,
+    "latitude": 45.758528,
+    "longitude": -97.927389,
+    "city": "Amherst",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57422,
+    "latitude": 45.369855,
+    "longitude": -97.603949,
+    "city": "Andover",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57424,
+    "latitude": 45.046485,
+    "longitude": -98.397319,
+    "city": "Ashton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57426,
+    "latitude": 45.735409,
+    "longitude": -98.569848,
+    "city": "Barnard",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57427,
+    "latitude": 45.626851,
+    "longitude": -98.270454,
+    "city": "Bath",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57428,
+    "latitude": 45.469377,
+    "longitude": -99.595667,
+    "city": "Bowdle",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Edmunds"
+  },
+  {
+    "zip_code": 57429,
+    "latitude": 45.163452,
+    "longitude": -98.319296,
+    "city": "Brentford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57430,
+    "latitude": 45.761704,
+    "longitude": -97.72957,
+    "city": "Britton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57432,
+    "latitude": 45.682867,
+    "longitude": -98.051948,
+    "city": "Claremont",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57433,
+    "latitude": 45.537847,
+    "longitude": -98.339885,
+    "city": "Columbia",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57434,
+    "latitude": 45.139317,
+    "longitude": -98.15339,
+    "city": "Conde",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57435,
+    "latitude": 45.136245,
+    "longitude": -98.915424,
+    "city": "Cresbard",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57436,
+    "latitude": 44.846523,
+    "longitude": -98.10236,
+    "city": "Doland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57437,
+    "latitude": 45.77074,
+    "longitude": -99.330778,
+    "city": "Eureka",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 57438,
+    "latitude": 45.085504,
+    "longitude": -99.195418,
+    "city": "Faulkton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57439,
+    "latitude": 45.32904,
+    "longitude": -98.083721,
+    "city": "Ferney",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57440,
+    "latitude": 44.870365,
+    "longitude": -98.225875,
+    "city": "Frankfort",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57441,
+    "latitude": 45.693116,
+    "longitude": -98.368918,
+    "city": "Frederick",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57442,
+    "latitude": 45.033588,
+    "longitude": -100.035273,
+    "city": "Gettysburg",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 57445,
+    "latitude": 45.589027,
+    "longitude": -98.245639,
+    "city": "Groton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57446,
+    "latitude": 45.849431,
+    "longitude": -98.157861,
+    "city": "Hecla",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57448,
+    "latitude": 45.552579,
+    "longitude": -99.461653,
+    "city": "Hosmer",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Edmunds"
+  },
+  {
+    "zip_code": 57449,
+    "latitude": 45.60711,
+    "longitude": -98.170069,
+    "city": "Houghton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57450,
+    "latitude": 45.241265,
+    "longitude": -99.777259,
+    "city": "Hoven",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 57451,
+    "latitude": 45.421905,
+    "longitude": -99.258683,
+    "city": "Ipswich",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Edmunds"
+  },
+  {
+    "zip_code": 57452,
+    "latitude": 45.449196,
+    "longitude": -99.821987,
+    "city": "Java",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 57454,
+    "latitude": 45.692919,
+    "longitude": -97.768102,
+    "city": "Langford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 57455,
+    "latitude": 45.072088,
+    "longitude": -99.998438,
+    "city": "Lebanon",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 57456,
+    "latitude": 45.773436,
+    "longitude": -98.983305,
+    "city": "Leola",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 57457,
+    "latitude": 45.882332,
+    "longitude": -99.169825,
+    "city": "Longlake",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 57460,
+    "latitude": 45.22295,
+    "longitude": -98.599388,
+    "city": "Mansfield",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57461,
+    "latitude": 45.155829,
+    "longitude": -98.426714,
+    "city": "Mellette",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57462,
+    "latitude": 45.404015,
+    "longitude": -98.806895,
+    "city": "Mina",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Edmunds"
+  },
+  {
+    "zip_code": 57465,
+    "latitude": 45.125985,
+    "longitude": -98.625836,
+    "city": "Northville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57466,
+    "latitude": 45.180068,
+    "longitude": -99.46426,
+    "city": "Onaka",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57467,
+    "latitude": 44.911775,
+    "longitude": -99.073204,
+    "city": "Orient",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57468,
+    "latitude": 45.369855,
+    "longitude": -97.603949,
+    "city": "Pierpont",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Day"
+  },
+  {
+    "zip_code": 57469,
+    "latitude": 44.954101,
+    "longitude": -98.406878,
+    "city": "Redfield",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57470,
+    "latitude": 45.033056,
+    "longitude": -98.882787,
+    "city": "Rockham",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57471,
+    "latitude": 45.419289,
+    "longitude": -99.346593,
+    "city": "Roscoe",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Edmunds"
+  },
+  {
+    "zip_code": 57472,
+    "latitude": 45.434632,
+    "longitude": -100.098171,
+    "city": "Selby",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 57473,
+    "latitude": 44.99142,
+    "longitude": -99.340678,
+    "city": "Seneca",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Faulk"
+  },
+  {
+    "zip_code": 57474,
+    "latitude": 45.306691,
+    "longitude": -98.258376,
+    "city": "Stratford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57475,
+    "latitude": 45.22375,
+    "longitude": -99.694578,
+    "city": "Tolstoy",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 57476,
+    "latitude": 44.893778,
+    "longitude": -98.402047,
+    "city": "Tulare",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57477,
+    "latitude": 45.045466,
+    "longitude": -98.182922,
+    "city": "Turton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Spink"
+  },
+  {
+    "zip_code": 57479,
+    "latitude": 45.329227,
+    "longitude": -98.47485,
+    "city": "Warner",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57481,
+    "latitude": 45.670534,
+    "longitude": -98.580207,
+    "city": "Westport",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 57501,
+    "latitude": 44.334073,
+    "longitude": -100.094195,
+    "city": "Pierre",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hughes"
+  },
+  {
+    "zip_code": 57520,
+    "latitude": 44.802621,
+    "longitude": -100.158903,
+    "city": "Agar",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Sully"
+  },
+  {
+    "zip_code": 57521,
+    "latitude": 43.691966,
+    "longitude": -101.601609,
+    "city": "Belvidere",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 57522,
+    "latitude": 44.43719,
+    "longitude": -99.926952,
+    "city": "Blunt",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hughes"
+  },
+  {
+    "zip_code": 57523,
+    "latitude": 43.182547,
+    "longitude": -99.293674,
+    "city": "Burke",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57526,
+    "latitude": 43.382122,
+    "longitude": -99.88231,
+    "city": "Carter",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57528,
+    "latitude": 43.260083,
+    "longitude": -99.716537,
+    "city": "Colome",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57529,
+    "latitude": 43.23571,
+    "longitude": -99.515887,
+    "city": "Dallas",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57531,
+    "latitude": 43.938049,
+    "longitude": -100.701672,
+    "city": "Draper",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 57532,
+    "latitude": 44.343326,
+    "longitude": -100.635312,
+    "city": "Fort Pierre",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Stanley"
+  },
+  {
+    "zip_code": 57533,
+    "latitude": 43.213649,
+    "longitude": -99.36219,
+    "city": "Gregory",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57534,
+    "latitude": 43.382122,
+    "longitude": -99.88231,
+    "city": "Hamill",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57536,
+    "latitude": 44.333927,
+    "longitude": -99.767237,
+    "city": "Harrold",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hughes"
+  },
+  {
+    "zip_code": 57537,
+    "latitude": 44.531281,
+    "longitude": -101.014052,
+    "city": "Hayes",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Stanley"
+  },
+  {
+    "zip_code": 57538,
+    "latitude": 43.114883,
+    "longitude": -99.195945,
+    "city": "Herrick",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57540,
+    "latitude": 44.490558,
+    "longitude": -99.589344,
+    "city": "Holabird",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Hyde"
+  },
+  {
+    "zip_code": 57541,
+    "latitude": 43.382122,
+    "longitude": -99.88231,
+    "city": "Ideal",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57542,
+    "latitude": 43.85862,
+    "longitude": -99.824337,
+    "city": "Iona",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57543,
+    "latitude": 43.824178,
+    "longitude": -101.389524,
+    "city": "Kadoka",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 57544,
+    "latitude": 43.85862,
+    "longitude": -99.824337,
+    "city": "Kennebec",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57547,
+    "latitude": 43.691966,
+    "longitude": -101.601609,
+    "city": "Long Valley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 57548,
+    "latitude": 43.85862,
+    "longitude": -99.824337,
+    "city": "Lower Brule",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57551,
+    "latitude": 43.172158,
+    "longitude": -101.734068,
+    "city": "Martin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bennett"
+  },
+  {
+    "zip_code": 57552,
+    "latitude": 44.370733,
+    "longitude": -101.527178,
+    "city": "Midland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Haakon"
+  },
+  {
+    "zip_code": 57553,
+    "latitude": 44.370733,
+    "longitude": -101.527178,
+    "city": "Milesville",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Haakon"
+  },
+  {
+    "zip_code": 57555,
+    "latitude": 43.304572,
+    "longitude": -100.662079,
+    "city": "Mission",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 57557,
+    "latitude": 44.475844,
+    "longitude": -100.529517,
+    "city": "Mission Ridge",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Stanley"
+  },
+  {
+    "zip_code": 57559,
+    "latitude": 43.879993,
+    "longitude": -100.75734,
+    "city": "Murdo",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 57560,
+    "latitude": 43.623523,
+    "longitude": -100.721218,
+    "city": "Norris",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mellette"
+  },
+  {
+    "zip_code": 57562,
+    "latitude": 43.938049,
+    "longitude": -100.701672,
+    "city": "Okaton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 57563,
+    "latitude": 43.194063,
+    "longitude": -100.713373,
+    "city": "Okreek",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 57564,
+    "latitude": 44.722873,
+    "longitude": -99.979546,
+    "city": "Onida",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Sully"
+  },
+  {
+    "zip_code": 57566,
+    "latitude": 43.194063,
+    "longitude": -100.713373,
+    "city": "Parmelee",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 57567,
+    "latitude": 44.046063,
+    "longitude": -101.630722,
+    "city": "Philip",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Haakon"
+  },
+  {
+    "zip_code": 57568,
+    "latitude": 43.908372,
+    "longitude": -100.046855,
+    "city": "Presho",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57569,
+    "latitude": 43.85862,
+    "longitude": -99.824337,
+    "city": "Reliance",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57570,
+    "latitude": 43.302375,
+    "longitude": -100.626863,
+    "city": "Rosebud",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 57571,
+    "latitude": 43.248832,
+    "longitude": -99.016376,
+    "city": "Saint Charles",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Gregory"
+  },
+  {
+    "zip_code": 57572,
+    "latitude": 43.194063,
+    "longitude": -100.713373,
+    "city": "Saint Francis",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 57574,
+    "latitude": 43.193203,
+    "longitude": -101.66933,
+    "city": "Tuthill",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bennett"
+  },
+  {
+    "zip_code": 57576,
+    "latitude": 43.85862,
+    "longitude": -99.824337,
+    "city": "Vivian",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lyman"
+  },
+  {
+    "zip_code": 57577,
+    "latitude": 43.691966,
+    "longitude": -101.601609,
+    "city": "Wanblee",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 57578,
+    "latitude": 43.382122,
+    "longitude": -99.88231,
+    "city": "Wewela",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57579,
+    "latitude": 43.566116,
+    "longitude": -100.745912,
+    "city": "White River",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mellette"
+  },
+  {
+    "zip_code": 57580,
+    "latitude": 43.331763,
+    "longitude": -99.803286,
+    "city": "Winner",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57584,
+    "latitude": 43.382122,
+    "longitude": -99.88231,
+    "city": "Witten",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Tripp"
+  },
+  {
+    "zip_code": 57585,
+    "latitude": 43.623523,
+    "longitude": -100.721218,
+    "city": "Wood",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Mellette"
+  },
+  {
+    "zip_code": 57601,
+    "latitude": 45.550822,
+    "longitude": -100.330283,
+    "city": "Mobridge",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 57620,
+    "latitude": 45.409748,
+    "longitude": -102.513087,
+    "city": "Bison",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57621,
+    "latitude": 45.847567,
+    "longitude": -101.09974,
+    "city": "Bullhead",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57622,
+    "latitude": 44.992051,
+    "longitude": -101.568656,
+    "city": "Cherry Creek",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Ziebach"
+  },
+  {
+    "zip_code": 57623,
+    "latitude": 45.050456,
+    "longitude": -101.607171,
+    "city": "Dupree",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Ziebach"
+  },
+  {
+    "zip_code": 57625,
+    "latitude": 45.001611,
+    "longitude": -101.232885,
+    "city": "Eagle Butte",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57626,
+    "latitude": 45.024533,
+    "longitude": -102.026734,
+    "city": "Faith",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57628,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Firesteel",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57629,
+    "latitude": 44.992051,
+    "longitude": -101.568656,
+    "city": "Glad Valley",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Ziebach"
+  },
+  {
+    "zip_code": 57630,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Glencross",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57631,
+    "latitude": 45.504288,
+    "longitude": -100.311701,
+    "city": "Glenham",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 57632,
+    "latitude": 45.833733,
+    "longitude": -100.020048,
+    "city": "Herreid",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 57633,
+    "latitude": 45.396212,
+    "longitude": -101.438525,
+    "city": "Isabel",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57634,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Keldron",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57636,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Lantry",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57638,
+    "latitude": 45.732219,
+    "longitude": -102.410975,
+    "city": "Lemmon",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57639,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Little Eagle",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57640,
+    "latitude": 45.703777,
+    "longitude": -102.663011,
+    "city": "Lodgepole",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57641,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Mc Intosh",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57642,
+    "latitude": 45.876336,
+    "longitude": -100.891469,
+    "city": "Mc Laughlin",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57643,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Mahto",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57644,
+    "latitude": 45.453221,
+    "longitude": -102.280948,
+    "city": "Meadow",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57645,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Morristown",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57646,
+    "latitude": 45.715461,
+    "longitude": -100.048071,
+    "city": "Mound City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 57647,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Parade",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57648,
+    "latitude": 45.844431,
+    "longitude": -100.283026,
+    "city": "Pollock",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 57649,
+    "latitude": 45.440744,
+    "longitude": -102.704216,
+    "city": "Prairie City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57650,
+    "latitude": 45.578941,
+    "longitude": -103.493668,
+    "city": "Ralph",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57651,
+    "latitude": 45.578941,
+    "longitude": -103.493668,
+    "city": "Reva",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57652,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Ridgeview",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57653,
+    "latitude": 45.680798,
+    "longitude": -102.292753,
+    "city": "Shadehill",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Perkins"
+  },
+  {
+    "zip_code": 57656,
+    "latitude": 45.427032,
+    "longitude": -101.07469,
+    "city": "Timber Lake",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57657,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Trail City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57658,
+    "latitude": 45.655452,
+    "longitude": -100.537928,
+    "city": "Wakpala",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57659,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Walker",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57660,
+    "latitude": 45.708402,
+    "longitude": -101.154581,
+    "city": "Watauga",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Corson"
+  },
+  {
+    "zip_code": 57661,
+    "latitude": 45.098685,
+    "longitude": -100.879214,
+    "city": "Whitehorse",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Dewey"
+  },
+  {
+    "zip_code": 57701,
+    "latitude": 44.004363,
+    "longitude": -103.240024,
+    "city": "Rapid City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57702,
+    "latitude": 44.003641,
+    "longitude": -103.358868,
+    "city": "Rapid City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57703,
+    "latitude": 44.048039,
+    "longitude": -103.176287,
+    "city": "Rapid City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57706,
+    "latitude": 44.185222,
+    "longitude": -103.229087,
+    "city": "Ellsworth Afb",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57709,
+    "latitude": 44.076106,
+    "longitude": -103.317149,
+    "city": "Rapid City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57714,
+    "latitude": 43.193203,
+    "longitude": -101.66933,
+    "city": "Allen",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Bennett"
+  },
+  {
+    "zip_code": 57716,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Batesland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57717,
+    "latitude": 44.93037,
+    "longitude": -103.87313,
+    "city": "Belle Fourche",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 57718,
+    "latitude": 44.183216,
+    "longitude": -103.326118,
+    "city": "Black Hawk",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57719,
+    "latitude": 44.03667,
+    "longitude": -103.204293,
+    "city": "Box Elder",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57720,
+    "latitude": 45.576652,
+    "longitude": -103.911719,
+    "city": "Buffalo",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57722,
+    "latitude": 43.666816,
+    "longitude": -103.371071,
+    "city": "Buffalo Gap",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 57724,
+    "latitude": 45.578941,
+    "longitude": -103.493668,
+    "city": "Camp Crook",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57725,
+    "latitude": 43.948063,
+    "longitude": -102.793461,
+    "city": "Caputa",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57729,
+    "latitude": 44.312407,
+    "longitude": -102.150335,
+    "city": "Creighton",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57730,
+    "latitude": 43.657304,
+    "longitude": -103.425807,
+    "city": "Custer",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 57732,
+    "latitude": 44.36485,
+    "longitude": -103.735731,
+    "city": "Deadwood",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57735,
+    "latitude": 43.294549,
+    "longitude": -103.830431,
+    "city": "Edgemont",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57736,
+    "latitude": 44.348777,
+    "longitude": -102.52386,
+    "city": "Elm Springs",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57737,
+    "latitude": 44.589806,
+    "longitude": -102.787188,
+    "city": "Enning",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57738,
+    "latitude": 43.685927,
+    "longitude": -103.20817,
+    "city": "Fairburn",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 57741,
+    "latitude": 44.40932,
+    "longitude": -103.455428,
+    "city": "Fort Meade",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57742,
+    "latitude": 44.66913,
+    "longitude": -103.697073,
+    "city": "Fruitdale",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 57744,
+    "latitude": 43.838528,
+    "longitude": -103.19146,
+    "city": "Hermosa",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 57745,
+    "latitude": 44.0082,
+    "longitude": -103.651357,
+    "city": "Hill City",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57747,
+    "latitude": 43.314186,
+    "longitude": -103.528353,
+    "city": "Hot Springs",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57748,
+    "latitude": 44.589806,
+    "longitude": -102.787188,
+    "city": "Howes",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57750,
+    "latitude": 43.691966,
+    "longitude": -101.601609,
+    "city": "Interior",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 57751,
+    "latitude": 43.884764,
+    "longitude": -103.399471,
+    "city": "Keystone",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57752,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Kyle",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57754,
+    "latitude": 44.444505,
+    "longitude": -103.752683,
+    "city": "Lead",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57755,
+    "latitude": 45.578941,
+    "longitude": -103.493668,
+    "city": "Ludlow",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57756,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Manderson",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57758,
+    "latitude": 44.589806,
+    "longitude": -102.787188,
+    "city": "Mud Butte",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57759,
+    "latitude": 44.372688,
+    "longitude": -103.754204,
+    "city": "Nemo",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57760,
+    "latitude": 44.715217,
+    "longitude": -103.417574,
+    "city": "Newell",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 57761,
+    "latitude": 44.056691,
+    "longitude": -102.79897,
+    "city": "New Underwood",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57762,
+    "latitude": 44.673533,
+    "longitude": -103.556354,
+    "city": "Nisland",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 57763,
+    "latitude": 43.180956,
+    "longitude": -103.243935,
+    "city": "Oelrichs",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57764,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Oglala",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57765,
+    "latitude": 44.589806,
+    "longitude": -102.787188,
+    "city": "Opal",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57766,
+    "latitude": 43.239655,
+    "longitude": -103.527757,
+    "city": "Oral",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57767,
+    "latitude": 44.067413,
+    "longitude": -102.680781,
+    "city": "Owanka",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57769,
+    "latitude": 44.220524,
+    "longitude": -103.272284,
+    "city": "Piedmont",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57770,
+    "latitude": 43.024319,
+    "longitude": -102.535178,
+    "city": "Pine Ridge",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57772,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Porcupine",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57773,
+    "latitude": 43.666816,
+    "longitude": -103.371071,
+    "city": "Pringle",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 57774,
+    "latitude": 43.239655,
+    "longitude": -103.527757,
+    "city": "Provo",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57775,
+    "latitude": 44.068731,
+    "longitude": -102.222633,
+    "city": "Quinn",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57776,
+    "latitude": 45.578941,
+    "longitude": -103.493668,
+    "city": "Redig",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Harding"
+  },
+  {
+    "zip_code": 57777,
+    "latitude": 44.691005,
+    "longitude": -102.587048,
+    "city": "Red Owl",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57778,
+    "latitude": 44.117606,
+    "longitude": -103.761058,
+    "city": "Rochford",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57779,
+    "latitude": 44.547307,
+    "longitude": -103.723214,
+    "city": "Saint Onge",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57780,
+    "latitude": 43.788416,
+    "longitude": -102.346797,
+    "city": "Scenic",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57782,
+    "latitude": 43.239655,
+    "longitude": -103.527757,
+    "city": "Smithwick",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Fall River"
+  },
+  {
+    "zip_code": 57783,
+    "latitude": 44.467137,
+    "longitude": -103.772331,
+    "city": "Spearfish",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57785,
+    "latitude": 44.369172,
+    "longitude": -103.361658,
+    "city": "Sturgis",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57787,
+    "latitude": 44.653923,
+    "longitude": -102.725189,
+    "city": "Union Center",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57788,
+    "latitude": 44.719176,
+    "longitude": -103.42562,
+    "city": "Vale",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Butte"
+  },
+  {
+    "zip_code": 57790,
+    "latitude": 44.013772,
+    "longitude": -102.238397,
+    "city": "Wall",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57791,
+    "latitude": 44.016848,
+    "longitude": -102.59866,
+    "city": "Wasta",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Pennington"
+  },
+  {
+    "zip_code": 57792,
+    "latitude": 44.589806,
+    "longitude": -102.787188,
+    "city": "White Owl",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 57793,
+    "latitude": 44.46498,
+    "longitude": -103.644136,
+    "city": "Whitewood",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 57794,
+    "latitude": 43.352617,
+    "longitude": -102.5411,
+    "city": "Wounded Knee",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 57799,
+    "latitude": 44.495846,
+    "longitude": -103.870251,
+    "city": "Spearfish",
+    "state": "SD",
+    "full_state": "South Dakota",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 58001,
+    "latitude": 46.447936,
+    "longitude": -96.727788,
+    "city": "Abercrombie",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58002,
+    "latitude": 46.859694,
+    "longitude": -97.214587,
+    "city": "Absaraka",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58004,
+    "latitude": 47.021032,
+    "longitude": -97.271545,
+    "city": "Amenia",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58005,
+    "latitude": 47.057026,
+    "longitude": -96.975162,
+    "city": "Argusville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58006,
+    "latitude": 47.102334,
+    "longitude": -97.140334,
+    "city": "Arthur",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58007,
+    "latitude": 47.01392,
+    "longitude": -97.462894,
+    "city": "Ayr",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58008,
+    "latitude": 46.273086,
+    "longitude": -96.864373,
+    "city": "Barney",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58009,
+    "latitude": 47.454888,
+    "longitude": -97.151692,
+    "city": "Blanchard",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58011,
+    "latitude": 46.920016,
+    "longitude": -97.557491,
+    "city": "Buffalo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58012,
+    "latitude": 47.050272,
+    "longitude": -97.062647,
+    "city": "Casselton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58013,
+    "latitude": 46.062144,
+    "longitude": -97.529438,
+    "city": "Cayuga",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58014,
+    "latitude": 46.775027,
+    "longitude": -97.352437,
+    "city": "Chaffee",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58015,
+    "latitude": 46.593582,
+    "longitude": -96.809354,
+    "city": "Christine",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58016,
+    "latitude": 47.454888,
+    "longitude": -97.151692,
+    "city": "Clifford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58017,
+    "latitude": 46.06593,
+    "longitude": -97.820733,
+    "city": "Cogswell",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58018,
+    "latitude": 46.457386,
+    "longitude": -96.873653,
+    "city": "Colfax",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58021,
+    "latitude": 46.731743,
+    "longitude": -97.063137,
+    "city": "Davenport",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58027,
+    "latitude": 46.456337,
+    "longitude": -97.777909,
+    "city": "Enderlin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ransom"
+  },
+  {
+    "zip_code": 58029,
+    "latitude": 47.115505,
+    "longitude": -97.377138,
+    "city": "Erie",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58030,
+    "latitude": 46.094599,
+    "longitude": -96.907594,
+    "city": "Fairmount",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58031,
+    "latitude": 46.775099,
+    "longitude": -97.797553,
+    "city": "Fingal",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58032,
+    "latitude": 46.058634,
+    "longitude": -97.633282,
+    "city": "Forman",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58033,
+    "latitude": 46.449387,
+    "longitude": -97.909114,
+    "city": "Fort Ransom",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ransom"
+  },
+  {
+    "zip_code": 58035,
+    "latitude": 47.270447,
+    "longitude": -97.408156,
+    "city": "Galesburg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58036,
+    "latitude": 47.157949,
+    "longitude": -96.957752,
+    "city": "Gardner",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58038,
+    "latitude": 47.072418,
+    "longitude": -96.96915,
+    "city": "Grandin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58039,
+    "latitude": 46.160427,
+    "longitude": -96.843465,
+    "city": "Great Bend",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58040,
+    "latitude": 46.152725,
+    "longitude": -97.767735,
+    "city": "Gwinner",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58041,
+    "latitude": 46.073423,
+    "longitude": -96.92473,
+    "city": "Hankinson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58042,
+    "latitude": 46.956511,
+    "longitude": -96.965445,
+    "city": "Harwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58043,
+    "latitude": 45.978943,
+    "longitude": -97.54423,
+    "city": "Havana",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58045,
+    "latitude": 47.383461,
+    "longitude": -97.060324,
+    "city": "Hillsboro",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58046,
+    "latitude": 47.323726,
+    "longitude": -97.713371,
+    "city": "Hope",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 58047,
+    "latitude": 46.710147,
+    "longitude": -96.88506,
+    "city": "Horace",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58048,
+    "latitude": 46.981541,
+    "longitude": -97.150669,
+    "city": "Hunter",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58049,
+    "latitude": 46.717679,
+    "longitude": -97.976311,
+    "city": "Kathryn",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58051,
+    "latitude": 46.673526,
+    "longitude": -97.050584,
+    "city": "Kindred",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58052,
+    "latitude": 46.765575,
+    "longitude": -97.294037,
+    "city": "Leonard",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58053,
+    "latitude": 46.191782,
+    "longitude": -96.994919,
+    "city": "Lidgerwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58054,
+    "latitude": 46.455974,
+    "longitude": -97.636917,
+    "city": "Lisbon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ransom"
+  },
+  {
+    "zip_code": 58056,
+    "latitude": 47.45565,
+    "longitude": -97.718955,
+    "city": "Luverne",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 58057,
+    "latitude": 46.443826,
+    "longitude": -97.343373,
+    "city": "Mcleod",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ransom"
+  },
+  {
+    "zip_code": 58058,
+    "latitude": 46.16038,
+    "longitude": -96.969366,
+    "city": "Mantador",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58059,
+    "latitude": 46.861424,
+    "longitude": -97.115726,
+    "city": "Mapleton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58060,
+    "latitude": 46.200657,
+    "longitude": -97.477179,
+    "city": "Milnor",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58061,
+    "latitude": 46.315035,
+    "longitude": -96.861092,
+    "city": "Mooreton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58062,
+    "latitude": 46.680795,
+    "longitude": -97.786984,
+    "city": "Nome",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58063,
+    "latitude": 46.964791,
+    "longitude": -97.789289,
+    "city": "Oriska",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58064,
+    "latitude": 47.000029,
+    "longitude": -97.515646,
+    "city": "Page",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58065,
+    "latitude": 46.650741,
+    "longitude": -98.195722,
+    "city": "Pillsbury",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58067,
+    "latitude": 46.036974,
+    "longitude": -97.431104,
+    "city": "Rutland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58068,
+    "latitude": 46.521481,
+    "longitude": -97.416257,
+    "city": "Sheldon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ransom"
+  },
+  {
+    "zip_code": 58069,
+    "latitude": 46.221613,
+    "longitude": -97.62307,
+    "city": "Stirum",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sargent"
+  },
+  {
+    "zip_code": 58071,
+    "latitude": 46.949236,
+    "longitude": -97.626101,
+    "city": "Tower City",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58072,
+    "latitude": 46.972286,
+    "longitude": -98.007534,
+    "city": "Valley City",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58074,
+    "latitude": 46.283291,
+    "longitude": -96.917614,
+    "city": "Wahpeton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58075,
+    "latitude": 46.336591,
+    "longitude": -96.792057,
+    "city": "Wahpeton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58076,
+    "latitude": 46.271839,
+    "longitude": -96.608142,
+    "city": "Wahpeton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58077,
+    "latitude": 46.445916,
+    "longitude": -97.013693,
+    "city": "Walcott",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58078,
+    "latitude": 46.890692,
+    "longitude": -96.925828,
+    "city": "West Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58079,
+    "latitude": 46.832617,
+    "longitude": -97.346067,
+    "city": "Wheatland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58081,
+    "latitude": 46.384021,
+    "longitude": -97.11408,
+    "city": "Wyndmere",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 58102,
+    "latitude": 46.92536,
+    "longitude": -96.990615,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58103,
+    "latitude": 46.832152,
+    "longitude": -96.825841,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58104,
+    "latitude": 46.781589,
+    "longitude": -96.884106,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58105,
+    "latitude": 46.9414,
+    "longitude": -96.967371,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58106,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58107,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58108,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58109,
+    "latitude": 46.82352,
+    "longitude": -96.8148,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58121,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58122,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58123,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58124,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58125,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58126,
+    "latitude": 46.934596,
+    "longitude": -97.229718,
+    "city": "Fargo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 58201,
+    "latitude": 47.9041,
+    "longitude": -97.431501,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58202,
+    "latitude": 47.933481,
+    "longitude": -97.394446,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58203,
+    "latitude": 47.892243,
+    "longitude": -97.301297,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58204,
+    "latitude": 47.967909,
+    "longitude": -97.367534,
+    "city": "Grand Forks Afb",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58205,
+    "latitude": 47.933481,
+    "longitude": -97.394446,
+    "city": "Grand Forks Afb",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58206,
+    "latitude": 47.933481,
+    "longitude": -97.394446,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58207,
+    "latitude": 47.933481,
+    "longitude": -97.394446,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58208,
+    "latitude": 47.933481,
+    "longitude": -97.394446,
+    "city": "Grand Forks",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58210,
+    "latitude": 48.383547,
+    "longitude": -97.997964,
+    "city": "Adams",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58212,
+    "latitude": 47.766493,
+    "longitude": -98.043481,
+    "city": "Aneta",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58213,
+    "latitude": 48.237795,
+    "longitude": -97.275528,
+    "city": "Ardoch",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58214,
+    "latitude": 47.925956,
+    "longitude": -97.494107,
+    "city": "Arvilla",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58216,
+    "latitude": 48.874863,
+    "longitude": -97.42543,
+    "city": "Bathgate",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58218,
+    "latitude": 47.602249,
+    "longitude": -97.099519,
+    "city": "Buxton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58219,
+    "latitude": 47.454888,
+    "longitude": -97.151692,
+    "city": "Caledonia",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58220,
+    "latitude": 48.738902,
+    "longitude": -97.699122,
+    "city": "Cavalier",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58222,
+    "latitude": 48.6449,
+    "longitude": -97.633342,
+    "city": "Crystal",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58223,
+    "latitude": 47.454888,
+    "longitude": -97.151692,
+    "city": "Cummings",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58224,
+    "latitude": 48.165871,
+    "longitude": -97.957485,
+    "city": "Dahlen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58225,
+    "latitude": 48.668146,
+    "longitude": -97.362726,
+    "city": "Drayton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58227,
+    "latitude": 48.499712,
+    "longitude": -97.893218,
+    "city": "Edinburg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58228,
+    "latitude": 47.889676,
+    "longitude": -97.280993,
+    "city": "Emerado",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58229,
+    "latitude": 48.380603,
+    "longitude": -98.054828,
+    "city": "Fairdale",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58230,
+    "latitude": 47.51207,
+    "longitude": -97.83707,
+    "city": "Finley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 58231,
+    "latitude": 48.281947,
+    "longitude": -97.827805,
+    "city": "Fordville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58233,
+    "latitude": 48.259974,
+    "longitude": -97.522485,
+    "city": "Forest River",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58235,
+    "latitude": 48.085827,
+    "longitude": -97.514081,
+    "city": "Gilby",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58236,
+    "latitude": 48.720149,
+    "longitude": -97.469623,
+    "city": "Glasston",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58237,
+    "latitude": 48.368876,
+    "longitude": -97.437265,
+    "city": "Grafton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58238,
+    "latitude": 48.778717,
+    "longitude": -97.449975,
+    "city": "Hamilton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58239,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Hannah",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58240,
+    "latitude": 47.638521,
+    "longitude": -97.459319,
+    "city": "Hatton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58241,
+    "latitude": 48.720338,
+    "longitude": -97.699287,
+    "city": "Hensel",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58243,
+    "latitude": 48.490539,
+    "longitude": -97.677015,
+    "city": "Hoople",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58244,
+    "latitude": 48.107863,
+    "longitude": -97.683056,
+    "city": "Inkster",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58249,
+    "latitude": 48.753679,
+    "longitude": -98.288629,
+    "city": "Langdon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58250,
+    "latitude": 48.282007,
+    "longitude": -98.076663,
+    "city": "Lankin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58251,
+    "latitude": 47.911531,
+    "longitude": -97.626389,
+    "city": "Larimore",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58254,
+    "latitude": 47.856367,
+    "longitude": -98.134365,
+    "city": "Mcville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58255,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Maida",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58256,
+    "latitude": 48.107279,
+    "longitude": -97.28791,
+    "city": "Manvel",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58257,
+    "latitude": 47.487262,
+    "longitude": -97.345104,
+    "city": "Mayville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58258,
+    "latitude": 48.007368,
+    "longitude": -97.430451,
+    "city": "Mekinock",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58259,
+    "latitude": 48.020355,
+    "longitude": -98.118574,
+    "city": "Michigan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58260,
+    "latitude": 48.624861,
+    "longitude": -98.042871,
+    "city": "Milton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58261,
+    "latitude": 48.25997,
+    "longitude": -97.314367,
+    "city": "Minto",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58262,
+    "latitude": 48.693099,
+    "longitude": -97.884115,
+    "city": "Mountain",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58265,
+    "latitude": 48.943793,
+    "longitude": -97.512602,
+    "city": "Neche",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58266,
+    "latitude": 48.015728,
+    "longitude": -97.817106,
+    "city": "Niagara",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58267,
+    "latitude": 47.759107,
+    "longitude": -97.603773,
+    "city": "Northwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58269,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Osnabrock",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58270,
+    "latitude": 48.420411,
+    "longitude": -97.774812,
+    "city": "Park River",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58271,
+    "latitude": 48.85897,
+    "longitude": -97.288585,
+    "city": "Pembina",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58272,
+    "latitude": 48.00598,
+    "longitude": -98.000193,
+    "city": "Petersburg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58273,
+    "latitude": 48.323898,
+    "longitude": -97.81439,
+    "city": "Pisek",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Walsh"
+  },
+  {
+    "zip_code": 58274,
+    "latitude": 47.582141,
+    "longitude": -97.244353,
+    "city": "Portland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Traill"
+  },
+  {
+    "zip_code": 58275,
+    "latitude": 47.872332,
+    "longitude": -97.236128,
+    "city": "Reynolds",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58276,
+    "latitude": 48.630369,
+    "longitude": -97.471056,
+    "city": "Saint Thomas",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58277,
+    "latitude": 47.45565,
+    "longitude": -97.718955,
+    "city": "Sharon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 58278,
+    "latitude": 47.785848,
+    "longitude": -97.34703,
+    "city": "Thompson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grand Forks"
+  },
+  {
+    "zip_code": 58281,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Wales",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58282,
+    "latitude": 48.880795,
+    "longitude": -97.797358,
+    "city": "Walhalla",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pembina"
+  },
+  {
+    "zip_code": 58301,
+    "latitude": 48.264352,
+    "longitude": -98.781979,
+    "city": "Devils Lake",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58310,
+    "latitude": 48.770913,
+    "longitude": -99.772702,
+    "city": "Agate",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58311,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Alsen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58313,
+    "latitude": 48.104177,
+    "longitude": -99.992145,
+    "city": "Balta",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 58316,
+    "latitude": 48.777557,
+    "longitude": -99.799919,
+    "city": "Belcourt",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58317,
+    "latitude": 48.58807,
+    "longitude": -99.23173,
+    "city": "Bisbee",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58318,
+    "latitude": 48.830347,
+    "longitude": -100.601174,
+    "city": "Bottineau",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58319,
+    "latitude": 47.663508,
+    "longitude": -99.664406,
+    "city": "Bremen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58320,
+    "latitude": 48.28641,
+    "longitude": -99.404705,
+    "city": "Brinsmade",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58321,
+    "latitude": 48.238222,
+    "longitude": -98.400599,
+    "city": "Brocket",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58323,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Calvin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58324,
+    "latitude": 48.500121,
+    "longitude": -99.231923,
+    "city": "Cando",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58325,
+    "latitude": 48.29,
+    "longitude": -99.070499,
+    "city": "Churchs Ferry",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58327,
+    "latitude": 48.091012,
+    "longitude": -98.573116,
+    "city": "Crary",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58329,
+    "latitude": 48.856083,
+    "longitude": -100.024102,
+    "city": "Dunseith",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58330,
+    "latitude": 48.422614,
+    "longitude": -98.49963,
+    "city": "Edmore",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58331,
+    "latitude": 48.652908,
+    "longitude": -99.123224,
+    "city": "Egeland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58332,
+    "latitude": 48.059736,
+    "longitude": -99.538336,
+    "city": "Esmond",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58335,
+    "latitude": 48.108758,
+    "longitude": -99.186842,
+    "city": "Fort Totten",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58337,
+    "latitude": 47.587372,
+    "longitude": -99.667737,
+    "city": "Hamberg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58338,
+    "latitude": 48.499953,
+    "longitude": -98.644371,
+    "city": "Hampden",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58339,
+    "latitude": 48.900063,
+    "longitude": -99.427769,
+    "city": "Hansboro",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58341,
+    "latitude": 47.703539,
+    "longitude": -99.747755,
+    "city": "Harvey",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58343,
+    "latitude": 48.301215,
+    "longitude": -99.689358,
+    "city": "Knox",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58344,
+    "latitude": 47.971966,
+    "longitude": -98.324631,
+    "city": "Lakota",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58345,
+    "latitude": 48.275146,
+    "longitude": -98.438346,
+    "city": "Lawton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58346,
+    "latitude": 48.165312,
+    "longitude": -99.432466,
+    "city": "Leeds",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58348,
+    "latitude": 47.999093,
+    "longitude": -99.535801,
+    "city": "Maddock",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58351,
+    "latitude": 48.130016,
+    "longitude": -99.38981,
+    "city": "Minnewaukan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58352,
+    "latitude": 48.66937,
+    "longitude": -98.835465,
+    "city": "Munich",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58353,
+    "latitude": 48.772022,
+    "longitude": -99.838063,
+    "city": "Mylo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58355,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Nekoma",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58356,
+    "latitude": 47.71736,
+    "longitude": -98.898693,
+    "city": "New Rockford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Eddy"
+  },
+  {
+    "zip_code": 58357,
+    "latitude": 47.949694,
+    "longitude": -99.133201,
+    "city": "Oberon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58359,
+    "latitude": 48.089537,
+    "longitude": -100.164357,
+    "city": "Orrin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 58361,
+    "latitude": 47.798489,
+    "longitude": -98.364994,
+    "city": "Pekin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58362,
+    "latitude": 48.275494,
+    "longitude": -99.070415,
+    "city": "Penn",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58363,
+    "latitude": 48.754621,
+    "longitude": -99.438351,
+    "city": "Perth",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58365,
+    "latitude": 48.844548,
+    "longitude": -99.26309,
+    "city": "Rocklake",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Towner"
+  },
+  {
+    "zip_code": 58366,
+    "latitude": 48.700886,
+    "longitude": -99.878456,
+    "city": "Rolette",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58367,
+    "latitude": 48.826826,
+    "longitude": -99.786546,
+    "city": "Rolla",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58368,
+    "latitude": 48.254504,
+    "longitude": -99.989912,
+    "city": "Rugby",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 58369,
+    "latitude": 48.880498,
+    "longitude": -99.734073,
+    "city": "Saint John",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Rolette"
+  },
+  {
+    "zip_code": 58370,
+    "latitude": 47.985595,
+    "longitude": -98.849264,
+    "city": "Saint Michael",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58372,
+    "latitude": 48.77178,
+    "longitude": -98.464102,
+    "city": "Sarles",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Cavalier"
+  },
+  {
+    "zip_code": 58374,
+    "latitude": 47.761272,
+    "longitude": -98.90997,
+    "city": "Sheyenne",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Eddy"
+  },
+  {
+    "zip_code": 58377,
+    "latitude": 48.449321,
+    "longitude": -98.760596,
+    "city": "Starkweather",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58379,
+    "latitude": 48.108758,
+    "longitude": -99.186842,
+    "city": "Tokio",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58380,
+    "latitude": 47.846213,
+    "longitude": -98.451175,
+    "city": "Tolna",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 58381,
+    "latitude": 47.910133,
+    "longitude": -98.75889,
+    "city": "Warwick",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58382,
+    "latitude": 48.317012,
+    "longitude": -98.800481,
+    "city": "Webster",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 58384,
+    "latitude": 48.660609,
+    "longitude": -100.352409,
+    "city": "Willow City",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58385,
+    "latitude": 48.465282,
+    "longitude": -99.645681,
+    "city": "Wolford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 58386,
+    "latitude": 48.256479,
+    "longitude": -99.602542,
+    "city": "York",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Benson"
+  },
+  {
+    "zip_code": 58401,
+    "latitude": 46.921005,
+    "longitude": -98.745485,
+    "city": "Jamestown",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58402,
+    "latitude": 46.97882,
+    "longitude": -98.960032,
+    "city": "Jamestown",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58405,
+    "latitude": 46.913344,
+    "longitude": -98.699553,
+    "city": "Jamestown",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58413,
+    "latitude": 46.056209,
+    "longitude": -99.285013,
+    "city": "Ashley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 58415,
+    "latitude": 46.362715,
+    "longitude": -98.473702,
+    "city": "Berlin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58416,
+    "latitude": 47.489506,
+    "longitude": -98.410133,
+    "city": "Binford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Griggs"
+  },
+  {
+    "zip_code": 58418,
+    "latitude": 47.457667,
+    "longitude": -99.649702,
+    "city": "Bowdon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58420,
+    "latitude": 47.005084,
+    "longitude": -98.900709,
+    "city": "Buchanan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58421,
+    "latitude": 47.457278,
+    "longitude": -98.893314,
+    "city": "Carrington",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Foster"
+  },
+  {
+    "zip_code": 58422,
+    "latitude": 47.628946,
+    "longitude": -99.404936,
+    "city": "Cathay",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58423,
+    "latitude": 47.464366,
+    "longitude": -99.830601,
+    "city": "Chaseley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58424,
+    "latitude": 46.893112,
+    "longitude": -99.128846,
+    "city": "Cleveland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58425,
+    "latitude": 47.366922,
+    "longitude": -98.295699,
+    "city": "Cooperstown",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Griggs"
+  },
+  {
+    "zip_code": 58426,
+    "latitude": 47.196576,
+    "longitude": -98.594244,
+    "city": "Courtenay",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58428,
+    "latitude": 46.806728,
+    "longitude": -99.772396,
+    "city": "Dawson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58429,
+    "latitude": 47.182819,
+    "longitude": -98.161621,
+    "city": "Dazey",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58430,
+    "latitude": 47.529679,
+    "longitude": -100.271687,
+    "city": "Denhoff",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 58431,
+    "latitude": 46.47261,
+    "longitude": -98.54261,
+    "city": "Dickey",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58432,
+    "latitude": 46.892518,
+    "longitude": -98.375536,
+    "city": "Eckelson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58433,
+    "latitude": 46.41198,
+    "longitude": -98.713086,
+    "city": "Edgeley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58436,
+    "latitude": 46.106141,
+    "longitude": -98.620707,
+    "city": "Ellendale",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dickey"
+  },
+  {
+    "zip_code": 58438,
+    "latitude": 47.625048,
+    "longitude": -99.564274,
+    "city": "Fessenden",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58439,
+    "latitude": 46.011902,
+    "longitude": -98.848644,
+    "city": "Forbes",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dickey"
+  },
+  {
+    "zip_code": 58440,
+    "latitude": 46.37014,
+    "longitude": -99.173337,
+    "city": "Fredonia",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 58441,
+    "latitude": 46.175992,
+    "longitude": -98.379846,
+    "city": "Fullerton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dickey"
+  },
+  {
+    "zip_code": 58442,
+    "latitude": 46.522452,
+    "longitude": -99.173063,
+    "city": "Gackle",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 58443,
+    "latitude": 47.456948,
+    "longitude": -98.691563,
+    "city": "Glenfield",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Foster"
+  },
+  {
+    "zip_code": 58444,
+    "latitude": 47.479529,
+    "longitude": -100.14659,
+    "city": "Goodrich",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 58445,
+    "latitude": 47.457057,
+    "longitude": -98.702131,
+    "city": "Grace City",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Foster"
+  },
+  {
+    "zip_code": 58448,
+    "latitude": 47.378619,
+    "longitude": -98.350201,
+    "city": "Hannaford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Griggs"
+  },
+  {
+    "zip_code": 58451,
+    "latitude": 47.472804,
+    "longitude": -99.937233,
+    "city": "Hurdsfield",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58452,
+    "latitude": 47.456477,
+    "longitude": -98.230415,
+    "city": "Jessie",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Griggs"
+  },
+  {
+    "zip_code": 58454,
+    "latitude": 46.551079,
+    "longitude": -98.86671,
+    "city": "Jud",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58455,
+    "latitude": 47.240135,
+    "longitude": -98.753458,
+    "city": "Kensal",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58456,
+    "latitude": 46.391635,
+    "longitude": -98.603141,
+    "city": "Kulm",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58458,
+    "latitude": 46.384379,
+    "longitude": -98.358671,
+    "city": "Lamoure",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58460,
+    "latitude": 46.140661,
+    "longitude": -99.378147,
+    "city": "Lehr",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 58461,
+    "latitude": 46.717981,
+    "longitude": -98.186443,
+    "city": "Litchville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58463,
+    "latitude": 47.506755,
+    "longitude": -100.41715,
+    "city": "Mcclusky",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 58464,
+    "latitude": 47.507777,
+    "longitude": -98.627951,
+    "city": "Mchenry",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Foster"
+  },
+  {
+    "zip_code": 58466,
+    "latitude": 46.551382,
+    "longitude": -98.368983,
+    "city": "Marion",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58467,
+    "latitude": 46.899774,
+    "longitude": -99.316908,
+    "city": "Medina",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58472,
+    "latitude": 46.681609,
+    "longitude": -98.660404,
+    "city": "Montpelier",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58474,
+    "latitude": 46.109493,
+    "longitude": -98.225652,
+    "city": "Oakes",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dickey"
+  },
+  {
+    "zip_code": 58475,
+    "latitude": 47.153918,
+    "longitude": -99.584222,
+    "city": "Pettibone",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58476,
+    "latitude": 47.203846,
+    "longitude": -99.014385,
+    "city": "Pingree",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58477,
+    "latitude": 47.212951,
+    "longitude": -100.548434,
+    "city": "Regan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58478,
+    "latitude": 46.979659,
+    "longitude": -99.689234,
+    "city": "Robinson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58479,
+    "latitude": 47.074088,
+    "longitude": -98.213603,
+    "city": "Rogers",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58480,
+    "latitude": 46.892615,
+    "longitude": -98.258971,
+    "city": "Sanborn",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58481,
+    "latitude": 46.986518,
+    "longitude": -98.521889,
+    "city": "Spiritwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58482,
+    "latitude": 46.875966,
+    "longitude": -99.798975,
+    "city": "Steele",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58483,
+    "latitude": 46.718326,
+    "longitude": -99.344287,
+    "city": "Streeter",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58484,
+    "latitude": 47.39903,
+    "longitude": -98.403593,
+    "city": "Sutton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Griggs"
+  },
+  {
+    "zip_code": 58486,
+    "latitude": 47.421182,
+    "longitude": -99.404828,
+    "city": "Sykeston",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 58487,
+    "latitude": 46.806274,
+    "longitude": -99.594248,
+    "city": "Tappen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58488,
+    "latitude": 47.132159,
+    "longitude": -99.970526,
+    "city": "Tuttle",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Kidder"
+  },
+  {
+    "zip_code": 58489,
+    "latitude": 46.027975,
+    "longitude": -99.649774,
+    "city": "Venturia",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 58490,
+    "latitude": 46.398713,
+    "longitude": -98.099446,
+    "city": "Verona",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Lamoure"
+  },
+  {
+    "zip_code": 58492,
+    "latitude": 47.110075,
+    "longitude": -98.397443,
+    "city": "Wimbledon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Barnes"
+  },
+  {
+    "zip_code": 58494,
+    "latitude": 47.157924,
+    "longitude": -100.294569,
+    "city": "Wing",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58495,
+    "latitude": 46.191724,
+    "longitude": -99.613132,
+    "city": "Wishek",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 58496,
+    "latitude": 47.153721,
+    "longitude": -99.259784,
+    "city": "Woodworth",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58497,
+    "latitude": 46.768695,
+    "longitude": -98.565136,
+    "city": "Ypsilanti",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stutsman"
+  },
+  {
+    "zip_code": 58501,
+    "latitude": 46.981207,
+    "longitude": -100.502724,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58502,
+    "latitude": 46.8887,
+    "longitude": -100.681855,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58503,
+    "latitude": 46.906399,
+    "longitude": -100.752189,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58504,
+    "latitude": 46.829938,
+    "longitude": -100.45598,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58505,
+    "latitude": 46.816543,
+    "longitude": -100.780505,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58506,
+    "latitude": 46.980475,
+    "longitude": -100.520063,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58507,
+    "latitude": 46.980475,
+    "longitude": -100.520063,
+    "city": "Bismarck",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58520,
+    "latitude": 46.720185,
+    "longitude": -101.498156,
+    "city": "Almont",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58521,
+    "latitude": 47.016148,
+    "longitude": -100.693721,
+    "city": "Baldwin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58523,
+    "latitude": 47.277895,
+    "longitude": -101.853161,
+    "city": "Beulah",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 58524,
+    "latitude": 46.56035,
+    "longitude": -100.107546,
+    "city": "Braddock",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58528,
+    "latitude": 46.361639,
+    "longitude": -100.688991,
+    "city": "Cannon Ball",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 58529,
+    "latitude": 46.300853,
+    "longitude": -101.673608,
+    "city": "Carson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 58530,
+    "latitude": 47.145874,
+    "longitude": -101.159363,
+    "city": "Center",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Oliver"
+  },
+  {
+    "zip_code": 58531,
+    "latitude": 47.581047,
+    "longitude": -101.143206,
+    "city": "Coleharbor",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58532,
+    "latitude": 46.851141,
+    "longitude": -100.18329,
+    "city": "Driscoll",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58533,
+    "latitude": 46.367859,
+    "longitude": -101.755819,
+    "city": "Elgin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 58535,
+    "latitude": 46.599807,
+    "longitude": -101.316642,
+    "city": "Flasher",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58538,
+    "latitude": 46.170605,
+    "longitude": -100.710536,
+    "city": "Fort Yates",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 58540,
+    "latitude": 47.667515,
+    "longitude": -101.61418,
+    "city": "Garrison",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58541,
+    "latitude": 47.312542,
+    "longitude": -102.056796,
+    "city": "Golden Valley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 58542,
+    "latitude": 46.080221,
+    "longitude": -100.097715,
+    "city": "Hague",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58544,
+    "latitude": 46.517223,
+    "longitude": -100.337283,
+    "city": "Hazelton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58545,
+    "latitude": 47.386092,
+    "longitude": -101.760142,
+    "city": "Hazen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 58549,
+    "latitude": 46.455044,
+    "longitude": -99.969631,
+    "city": "Kintyre",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58552,
+    "latitude": 46.185512,
+    "longitude": -100.233084,
+    "city": "Linton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58553,
+    "latitude": 46.871308,
+    "longitude": -100.402135,
+    "city": "Mckenzie",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58554,
+    "latitude": 46.71312,
+    "longitude": -100.952585,
+    "city": "Mandan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58558,
+    "latitude": 46.808449,
+    "longitude": -100.45556,
+    "city": "Menoken",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58559,
+    "latitude": 47.501822,
+    "longitude": -100.758394,
+    "city": "Mercer",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58560,
+    "latitude": 46.673047,
+    "longitude": -100.300199,
+    "city": "Moffit",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58561,
+    "latitude": 46.464858,
+    "longitude": -99.65682,
+    "city": "Napoleon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 58562,
+    "latitude": 46.382285,
+    "longitude": -101.961907,
+    "city": "New Leipzig",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 58563,
+    "latitude": 46.805999,
+    "longitude": -101.429122,
+    "city": "New Salem",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58564,
+    "latitude": 46.267125,
+    "longitude": -101.372162,
+    "city": "Raleigh",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 58565,
+    "latitude": 47.396354,
+    "longitude": -101.203255,
+    "city": "Riverdale",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58566,
+    "latitude": 46.646616,
+    "longitude": -100.94428,
+    "city": "Saint Anthony",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58568,
+    "latitude": 46.186442,
+    "longitude": -101.252738,
+    "city": "Selfridge",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 58569,
+    "latitude": 46.244657,
+    "longitude": -101.218713,
+    "city": "Shields",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 58570,
+    "latitude": 46.365588,
+    "longitude": -100.783143,
+    "city": "Solen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sioux"
+  },
+  {
+    "zip_code": 58571,
+    "latitude": 47.377264,
+    "longitude": -101.394939,
+    "city": "Stanton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 58572,
+    "latitude": 46.876069,
+    "longitude": -100.277434,
+    "city": "Sterling",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burleigh"
+  },
+  {
+    "zip_code": 58573,
+    "latitude": 46.080388,
+    "longitude": -100.223542,
+    "city": "Strasburg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Emmons"
+  },
+  {
+    "zip_code": 58575,
+    "latitude": 47.501425,
+    "longitude": -100.895863,
+    "city": "Turtle Lake",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58576,
+    "latitude": 47.445896,
+    "longitude": -101.21736,
+    "city": "Underwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58577,
+    "latitude": 47.380715,
+    "longitude": -101.095673,
+    "city": "Washburn",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58579,
+    "latitude": 47.488872,
+    "longitude": -101.085504,
+    "city": "Wilton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58580,
+    "latitude": 47.263087,
+    "longitude": -101.929416,
+    "city": "Zap",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 58581,
+    "latitude": 46.064366,
+    "longitude": -99.786023,
+    "city": "Zeeland",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 58601,
+    "latitude": 46.805716,
+    "longitude": -102.756514,
+    "city": "Dickinson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58602,
+    "latitude": 46.820185,
+    "longitude": -102.663913,
+    "city": "Dickinson",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58620,
+    "latitude": 46.454966,
+    "longitude": -103.485325,
+    "city": "Amidon",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Slope"
+  },
+  {
+    "zip_code": 58621,
+    "latitude": 46.963728,
+    "longitude": -103.898766,
+    "city": "Beach",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Golden Valley"
+  },
+  {
+    "zip_code": 58622,
+    "latitude": 46.819805,
+    "longitude": -103.126111,
+    "city": "Belfield",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58623,
+    "latitude": 46.205537,
+    "longitude": -103.521263,
+    "city": "Bowman",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bowman"
+  },
+  {
+    "zip_code": 58625,
+    "latitude": 47.305726,
+    "longitude": -102.202834,
+    "city": "Dodge",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58626,
+    "latitude": 47.336337,
+    "longitude": -102.663492,
+    "city": "Dunn Center",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58627,
+    "latitude": 46.921188,
+    "longitude": -103.509564,
+    "city": "Fairfield",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Billings"
+  },
+  {
+    "zip_code": 58630,
+    "latitude": 46.848918,
+    "longitude": -102.6399,
+    "city": "Gladstone",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58631,
+    "latitude": 46.813372,
+    "longitude": -101.822672,
+    "city": "Glen Ullin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58632,
+    "latitude": 46.672225,
+    "longitude": -103.952158,
+    "city": "Golva",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Golden Valley"
+  },
+  {
+    "zip_code": 58634,
+    "latitude": 47.737435,
+    "longitude": -103.298383,
+    "city": "Grassy Butte",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58636,
+    "latitude": 47.351748,
+    "longitude": -102.336761,
+    "city": "Halliday",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58638,
+    "latitude": 46.849592,
+    "longitude": -101.972303,
+    "city": "Hebron",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 58639,
+    "latitude": 46.057786,
+    "longitude": -102.785054,
+    "city": "Hettinger",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 58640,
+    "latitude": 47.526978,
+    "longitude": -102.703916,
+    "city": "Killdeer",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58641,
+    "latitude": 46.724077,
+    "longitude": -102.663709,
+    "city": "Lefor",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58642,
+    "latitude": 47.402085,
+    "longitude": -102.622139,
+    "city": "Manning",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58643,
+    "latitude": 46.454966,
+    "longitude": -103.485325,
+    "city": "Marmarth",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Slope"
+  },
+  {
+    "zip_code": 58644,
+    "latitude": 47.402085,
+    "longitude": -102.622139,
+    "city": "Marshall",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 58645,
+    "latitude": 46.979437,
+    "longitude": -103.349989,
+    "city": "Medora",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Billings"
+  },
+  {
+    "zip_code": 58646,
+    "latitude": 46.369616,
+    "longitude": -102.326958,
+    "city": "Mott",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Hettinger"
+  },
+  {
+    "zip_code": 58647,
+    "latitude": 46.459446,
+    "longitude": -102.595864,
+    "city": "New England",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Hettinger"
+  },
+  {
+    "zip_code": 58649,
+    "latitude": 46.113891,
+    "longitude": -102.496805,
+    "city": "Reeder",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 58650,
+    "latitude": 46.418659,
+    "longitude": -102.56228,
+    "city": "Regent",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Hettinger"
+  },
+  {
+    "zip_code": 58651,
+    "latitude": 46.112755,
+    "longitude": -103.520928,
+    "city": "Rhame",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bowman"
+  },
+  {
+    "zip_code": 58652,
+    "latitude": 46.820533,
+    "longitude": -102.264513,
+    "city": "Richardton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58653,
+    "latitude": 46.112755,
+    "longitude": -103.520928,
+    "city": "Scranton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bowman"
+  },
+  {
+    "zip_code": 58654,
+    "latitude": 46.847632,
+    "longitude": -103.874736,
+    "city": "Sentinel Butte",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Golden Valley"
+  },
+  {
+    "zip_code": 58655,
+    "latitude": 46.767691,
+    "longitude": -103.072219,
+    "city": "South Heart",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58656,
+    "latitude": 46.856469,
+    "longitude": -102.784581,
+    "city": "Taylor",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 58701,
+    "latitude": 48.084625,
+    "longitude": -101.419006,
+    "city": "Minot",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58702,
+    "latitude": 48.336898,
+    "longitude": -101.451285,
+    "city": "Minot",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58703,
+    "latitude": 48.299433,
+    "longitude": -101.606,
+    "city": "Minot",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58704,
+    "latitude": 48.42429,
+    "longitude": -101.319942,
+    "city": "Minot Afb",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58705,
+    "latitude": 48.234184,
+    "longitude": -101.297161,
+    "city": "Minot Afb",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58707,
+    "latitude": 48.245267,
+    "longitude": -101.301179,
+    "city": "Minot",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58710,
+    "latitude": 47.926998,
+    "longitude": -100.284856,
+    "city": "Anamoose",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58711,
+    "latitude": 48.813251,
+    "longitude": -101.227611,
+    "city": "Antler",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58712,
+    "latitude": 47.992915,
+    "longitude": -100.497516,
+    "city": "Balfour",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58713,
+    "latitude": 48.528579,
+    "longitude": -100.635538,
+    "city": "Bantry",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58716,
+    "latitude": 47.761315,
+    "longitude": -101.109594,
+    "city": "Benedict",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58718,
+    "latitude": 48.306397,
+    "longitude": -101.686644,
+    "city": "Berthold",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58721,
+    "latitude": 48.837753,
+    "longitude": -102.283897,
+    "city": "Bowbells",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58722,
+    "latitude": 48.10469,
+    "longitude": -101.543429,
+    "city": "Burlington",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58723,
+    "latitude": 47.69365,
+    "longitude": -100.692443,
+    "city": "Butte",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58725,
+    "latitude": 48.417859,
+    "longitude": -101.705933,
+    "city": "Carpio",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58727,
+    "latitude": 48.852362,
+    "longitude": -102.592042,
+    "city": "Columbus",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58730,
+    "latitude": 48.928166,
+    "longitude": -103.296728,
+    "city": "Crosby",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Divide"
+  },
+  {
+    "zip_code": 58731,
+    "latitude": 48.490508,
+    "longitude": -100.961945,
+    "city": "Deering",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58733,
+    "latitude": 48.187543,
+    "longitude": -101.668759,
+    "city": "Des Lacs",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58734,
+    "latitude": 48.495604,
+    "longitude": -102.006123,
+    "city": "Donnybrook",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58735,
+    "latitude": 47.952635,
+    "longitude": -101.464689,
+    "city": "Douglas",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58736,
+    "latitude": 47.978309,
+    "longitude": -100.384482,
+    "city": "Drake",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58737,
+    "latitude": 48.877183,
+    "longitude": -102.382327,
+    "city": "Flaxton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58740,
+    "latitude": 48.647206,
+    "longitude": -101.540749,
+    "city": "Glenburn",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 58741,
+    "latitude": 48.305738,
+    "longitude": -100.67856,
+    "city": "Granville",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58744,
+    "latitude": 48.194146,
+    "longitude": -100.591093,
+    "city": "Karlsruhe",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58746,
+    "latitude": 48.523046,
+    "longitude": -101.670989,
+    "city": "Kenmare",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58747,
+    "latitude": 47.876848,
+    "longitude": -100.660544,
+    "city": "Kief",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58748,
+    "latitude": 48.697742,
+    "longitude": -100.634566,
+    "city": "Kramer",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58750,
+    "latitude": 48.634598,
+    "longitude": -101.297326,
+    "city": "Lansford",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58752,
+    "latitude": 48.821804,
+    "longitude": -102.611948,
+    "city": "Lignite",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58755,
+    "latitude": 48.405038,
+    "longitude": -103.407189,
+    "city": "Mcgregor",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58756,
+    "latitude": 47.957203,
+    "longitude": -101.778246,
+    "city": "Makoti",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58757,
+    "latitude": 47.737435,
+    "longitude": -103.298383,
+    "city": "Mandaree",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58758,
+    "latitude": 47.717951,
+    "longitude": -100.21234,
+    "city": "Martin",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 58759,
+    "latitude": 47.567805,
+    "longitude": -101.164109,
+    "city": "Max",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58760,
+    "latitude": 48.736656,
+    "longitude": -101.197701,
+    "city": "Maxbass",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58761,
+    "latitude": 48.726868,
+    "longitude": -101.605847,
+    "city": "Mohall",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 58762,
+    "latitude": 48.770759,
+    "longitude": -101.067192,
+    "city": "Newburg",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58763,
+    "latitude": 47.971759,
+    "longitude": -102.471636,
+    "city": "New Town",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58765,
+    "latitude": 48.925358,
+    "longitude": -103.071081,
+    "city": "Noonan",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Divide"
+  },
+  {
+    "zip_code": 58768,
+    "latitude": 48.269539,
+    "longitude": -100.950246,
+    "city": "Norwich",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58769,
+    "latitude": 48.284698,
+    "longitude": -102.257478,
+    "city": "Palermo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58770,
+    "latitude": 47.946158,
+    "longitude": -102.103378,
+    "city": "Parshall",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58771,
+    "latitude": 48.065743,
+    "longitude": -102.030195,
+    "city": "Plaza",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58772,
+    "latitude": 48.953774,
+    "longitude": -102.622651,
+    "city": "Portal",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58773,
+    "latitude": 48.655093,
+    "longitude": -102.679499,
+    "city": "Powers Lake",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 58775,
+    "latitude": 47.681855,
+    "longitude": -101.866895,
+    "city": "Roseglen",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58776,
+    "latitude": 48.272077,
+    "longitude": -102.547886,
+    "city": "Ross",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58778,
+    "latitude": 47.746583,
+    "longitude": -100.931173,
+    "city": "Ruso",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 58779,
+    "latitude": 47.978815,
+    "longitude": -101.668252,
+    "city": "Ryder",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58781,
+    "latitude": 48.181645,
+    "longitude": -101.340912,
+    "city": "Sawyer",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58782,
+    "latitude": 48.863353,
+    "longitude": -101.770037,
+    "city": "Sherwood",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 58783,
+    "latitude": 48.87384,
+    "longitude": -100.735863,
+    "city": "Souris",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58784,
+    "latitude": 48.345765,
+    "longitude": -102.418466,
+    "city": "Stanley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58785,
+    "latitude": 48.290933,
+    "longitude": -101.111794,
+    "city": "Surrey",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 58787,
+    "latitude": 48.759404,
+    "longitude": -101.862477,
+    "city": "Tolley",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 58788,
+    "latitude": 48.363638,
+    "longitude": -100.4854,
+    "city": "Towner",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58789,
+    "latitude": 48.348495,
+    "longitude": -100.831317,
+    "city": "Upham",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58790,
+    "latitude": 48.021268,
+    "longitude": -100.629723,
+    "city": "Velva",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58792,
+    "latitude": 47.98605,
+    "longitude": -100.798821,
+    "city": "Voltaire",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 58793,
+    "latitude": 48.86655,
+    "longitude": -100.836782,
+    "city": "Westhope",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Bottineau"
+  },
+  {
+    "zip_code": 58794,
+    "latitude": 48.299352,
+    "longitude": -102.770085,
+    "city": "White Earth",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mountrail"
+  },
+  {
+    "zip_code": 58795,
+    "latitude": 48.567814,
+    "longitude": -103.153622,
+    "city": "Wildrose",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58801,
+    "latitude": 48.225729,
+    "longitude": -103.649047,
+    "city": "Williston",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  }
+]

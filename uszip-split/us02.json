@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 3034,
+    "latitude": 43.059283,
+    "longitude": -71.305437,
+    "city": "Candia",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3036,
+    "latitude": 42.961606,
+    "longitude": -71.251021,
+    "city": "Chester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3037,
+    "latitude": 42.987495,
+    "longitude": -71.252719,
+    "city": "Deerfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3038,
+    "latitude": 42.950825,
+    "longitude": -71.197169,
+    "city": "Derry",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3040,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "East Candia",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3041,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "East Derry",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3042,
+    "latitude": 43.047595,
+    "longitude": -71.084411,
+    "city": "Epping",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3043,
+    "latitude": 42.916233,
+    "longitude": -71.816505,
+    "city": "Francestown",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3044,
+    "latitude": 42.992203,
+    "longitude": -71.127041,
+    "city": "Fremont",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3045,
+    "latitude": 42.94671,
+    "longitude": -71.687633,
+    "city": "Goffstown",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3046,
+    "latitude": 43.10118,
+    "longitude": -71.60501,
+    "city": "Dunbarton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3047,
+    "latitude": 42.929346,
+    "longitude": -71.859087,
+    "city": "Greenfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3048,
+    "latitude": 42.875116,
+    "longitude": -71.717548,
+    "city": "Greenville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3049,
+    "latitude": 42.859545,
+    "longitude": -71.581313,
+    "city": "Hollis",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3051,
+    "latitude": 42.766426,
+    "longitude": -71.61887,
+    "city": "Hudson",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3052,
+    "latitude": 42.886789,
+    "longitude": -71.485331,
+    "city": "Litchfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3053,
+    "latitude": 42.8712,
+    "longitude": -71.387776,
+    "city": "Londonderry",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3054,
+    "latitude": 42.924928,
+    "longitude": -71.667508,
+    "city": "Merrimack",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3055,
+    "latitude": 42.848787,
+    "longitude": -71.743882,
+    "city": "Milford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3057,
+    "latitude": 42.850464,
+    "longitude": -71.727044,
+    "city": "Mont Vernon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3060,
+    "latitude": 42.771537,
+    "longitude": -71.626336,
+    "city": "Nashua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3061,
+    "latitude": 42.952124,
+    "longitude": -71.653939,
+    "city": "Nashua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3062,
+    "latitude": 42.860117,
+    "longitude": -71.49976,
+    "city": "Nashua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3063,
+    "latitude": 42.774427,
+    "longitude": -71.511111,
+    "city": "Nashua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3064,
+    "latitude": 42.774237,
+    "longitude": -71.628611,
+    "city": "Nashua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3070,
+    "latitude": 42.903497,
+    "longitude": -71.775889,
+    "city": "New Boston",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3071,
+    "latitude": 42.762946,
+    "longitude": -71.845164,
+    "city": "New Ipswich",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3073,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "North Salem",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3076,
+    "latitude": 42.740651,
+    "longitude": -71.318715,
+    "city": "Pelham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3077,
+    "latitude": 43.05932,
+    "longitude": -71.204521,
+    "city": "Raymond",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3079,
+    "latitude": 42.872045,
+    "longitude": -71.196195,
+    "city": "Salem",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3082,
+    "latitude": 42.902031,
+    "longitude": -71.773947,
+    "city": "Lyndeborough",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3084,
+    "latitude": 42.822275,
+    "longitude": -71.860983,
+    "city": "Temple",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3086,
+    "latitude": 42.894022,
+    "longitude": -71.730154,
+    "city": "Wilton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3087,
+    "latitude": 42.892211,
+    "longitude": -71.234009,
+    "city": "Windham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3101,
+    "latitude": 42.988483,
+    "longitude": -71.462111,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3102,
+    "latitude": 43.007883,
+    "longitude": -71.494561,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3103,
+    "latitude": 42.942463,
+    "longitude": -71.463761,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3104,
+    "latitude": 42.897524,
+    "longitude": -71.372208,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3105,
+    "latitude": 42.952124,
+    "longitude": -71.653939,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3106,
+    "latitude": 43.065097,
+    "longitude": -71.443616,
+    "city": "Hooksett",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3107,
+    "latitude": 42.952124,
+    "longitude": -71.653939,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3108,
+    "latitude": 42.952124,
+    "longitude": -71.653939,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3109,
+    "latitude": 42.970084,
+    "longitude": -71.405283,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3110,
+    "latitude": 42.93743,
+    "longitude": -71.535515,
+    "city": "Bedford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3111,
+    "latitude": 42.952124,
+    "longitude": -71.653939,
+    "city": "Manchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3215,
+    "latitude": 43.930221,
+    "longitude": -71.534068,
+    "city": "Waterville Valley",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3216,
+    "latitude": 43.447006,
+    "longitude": -71.684093,
+    "city": "Andover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3217,
+    "latitude": 43.715626,
+    "longitude": -71.639896,
+    "city": "Ashland",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3218,
+    "latitude": 43.417369,
+    "longitude": -71.373189,
+    "city": "Barnstead",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3220,
+    "latitude": 43.455551,
+    "longitude": -71.40709,
+    "city": "Belmont",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3221,
+    "latitude": 43.280961,
+    "longitude": -71.792489,
+    "city": "Bradford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3222,
+    "latitude": 43.70781,
+    "longitude": -71.72158,
+    "city": "Bristol",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3223,
+    "latitude": 43.841799,
+    "longitude": -71.665223,
+    "city": "Campton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3224,
+    "latitude": 43.378281,
+    "longitude": -71.604226,
+    "city": "Canterbury",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3225,
+    "latitude": 43.386652,
+    "longitude": -71.292981,
+    "city": "Center Barnstead",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3226,
+    "latitude": 43.69387,
+    "longitude": -71.466212,
+    "city": "Center Harbor",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3227,
+    "latitude": 43.694809,
+    "longitude": -71.323953,
+    "city": "Center Sandwich",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3229,
+    "latitude": 43.301308,
+    "longitude": -71.812943,
+    "city": "Contoocook",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3230,
+    "latitude": 43.514791,
+    "longitude": -71.882094,
+    "city": "Danbury",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3231,
+    "latitude": 43.466172,
+    "longitude": -71.736518,
+    "city": "East Andover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3232,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "East Hebron",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3233,
+    "latitude": 43.422706,
+    "longitude": -71.944794,
+    "city": "Elkins",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3234,
+    "latitude": 43.340736,
+    "longitude": -71.669712,
+    "city": "Epsom",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3235,
+    "latitude": 43.374297,
+    "longitude": -71.680021,
+    "city": "Franklin",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3237,
+    "latitude": 43.414064,
+    "longitude": -71.384213,
+    "city": "Gilmanton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3238,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Glencliff",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3240,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Grafton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3241,
+    "latitude": 43.718268,
+    "longitude": -71.889483,
+    "city": "Hebron",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3242,
+    "latitude": 43.180148,
+    "longitude": -71.81959,
+    "city": "Henniker",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3243,
+    "latitude": 43.443473,
+    "longitude": -71.762631,
+    "city": "Hill",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3244,
+    "latitude": 43.12295,
+    "longitude": -71.914287,
+    "city": "Hillsboro",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3245,
+    "latitude": 43.737831,
+    "longitude": -71.604406,
+    "city": "Holderness",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3246,
+    "latitude": 43.535461,
+    "longitude": -71.426997,
+    "city": "Laconia",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3247,
+    "latitude": 43.588972,
+    "longitude": -71.445452,
+    "city": "Laconia",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3249,
+    "latitude": 43.5586,
+    "longitude": -71.3844,
+    "city": "Gilford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3251,
+    "latitude": 44.049183,
+    "longitude": -71.653505,
+    "city": "Lincoln",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3252,
+    "latitude": 43.468562,
+    "longitude": -71.537145,
+    "city": "Lochmere",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3253,
+    "latitude": 43.592239,
+    "longitude": -71.517479,
+    "city": "Meredith",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3254,
+    "latitude": 43.728235,
+    "longitude": -71.335248,
+    "city": "Moultonborough",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3255,
+    "latitude": 43.321723,
+    "longitude": -72.01184,
+    "city": "Newbury",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3256,
+    "latitude": 43.603288,
+    "longitude": -71.634674,
+    "city": "New Hampton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3257,
+    "latitude": 43.301663,
+    "longitude": -71.733643,
+    "city": "New London",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3258,
+    "latitude": 43.265259,
+    "longitude": -71.408835,
+    "city": "Chichester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3259,
+    "latitude": 43.85971,
+    "longitude": -71.37719,
+    "city": "North Sandwich",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3260,
+    "latitude": 43.365345,
+    "longitude": -71.934059,
+    "city": "North Sutton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3261,
+    "latitude": 43.208676,
+    "longitude": -71.202568,
+    "city": "Northwood",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3262,
+    "latitude": 44.035391,
+    "longitude": -71.686326,
+    "city": "North Woodstock",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3263,
+    "latitude": 43.297834,
+    "longitude": -71.343707,
+    "city": "Pittsfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3264,
+    "latitude": 43.710919,
+    "longitude": -71.694017,
+    "city": "Plymouth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3266,
+    "latitude": 43.752475,
+    "longitude": -71.788434,
+    "city": "Rumney",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3268,
+    "latitude": 43.361756,
+    "longitude": -71.558817,
+    "city": "Salisbury",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3269,
+    "latitude": 43.50178,
+    "longitude": -71.514248,
+    "city": "Sanbornton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3272,
+    "latitude": 43.310279,
+    "longitude": -71.662928,
+    "city": "South Newbury",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3273,
+    "latitude": 43.304205,
+    "longitude": -71.928867,
+    "city": "South Sutton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3274,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Stinson Lake",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3275,
+    "latitude": 43.286382,
+    "longitude": -71.599047,
+    "city": "Suncook",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3276,
+    "latitude": 43.536056,
+    "longitude": -71.49166,
+    "city": "Tilton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3278,
+    "latitude": 43.310858,
+    "longitude": -71.842299,
+    "city": "Warner",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3279,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Warren",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3280,
+    "latitude": 43.17229,
+    "longitude": -72.100689,
+    "city": "Washington",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3281,
+    "latitude": 43.084176,
+    "longitude": -71.762578,
+    "city": "Weare",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3282,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Wentworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3284,
+    "latitude": 43.493812,
+    "longitude": -72.047018,
+    "city": "Springfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3287,
+    "latitude": 43.44853,
+    "longitude": -71.915826,
+    "city": "Wilmot",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3289,
+    "latitude": 43.496372,
+    "longitude": -71.519728,
+    "city": "Winnisquam",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3290,
+    "latitude": 43.124825,
+    "longitude": -71.125879,
+    "city": "Nottingham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3291,
+    "latitude": 43.182251,
+    "longitude": -71.139551,
+    "city": "West Nottingham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3293,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Woodstock",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3298,
+    "latitude": 43.524872,
+    "longitude": -71.445841,
+    "city": "Tilton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3299,
+    "latitude": 43.524872,
+    "longitude": -71.445841,
+    "city": "Tilton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3301,
+    "latitude": 43.230314,
+    "longitude": -71.536101,
+    "city": "Concord",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3302,
+    "latitude": 43.310279,
+    "longitude": -71.662928,
+    "city": "Concord",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3303,
+    "latitude": 43.281654,
+    "longitude": -71.659523,
+    "city": "Concord",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3304,
+    "latitude": 43.128256,
+    "longitude": -71.544599,
+    "city": "Bow",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3305,
+    "latitude": 43.2134,
+    "longitude": -71.517151,
+    "city": "Concord",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3307,
+    "latitude": 43.319339,
+    "longitude": -71.467006,
+    "city": "Loudon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Merrimack"
+  },
+  {
+    "zip_code": 3431,
+    "latitude": 42.903656,
+    "longitude": -72.248052,
+    "city": "Keene",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3435,
+    "latitude": 42.947098,
+    "longitude": -72.243029,
+    "city": "Keene",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3440,
+    "latitude": 43.044535,
+    "longitude": -71.971353,
+    "city": "Antrim",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3441,
+    "latitude": 42.777271,
+    "longitude": -72.444106,
+    "city": "Ashuelot",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3442,
+    "latitude": 43.002936,
+    "longitude": -71.908029,
+    "city": "Bennington",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3443,
+    "latitude": 42.883948,
+    "longitude": -72.454813,
+    "city": "Chesterfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3444,
+    "latitude": 42.889124,
+    "longitude": -72.018993,
+    "city": "Dublin",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3445,
+    "latitude": 42.998225,
+    "longitude": -72.201903,
+    "city": "Sullivan",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3446,
+    "latitude": 42.841079,
+    "longitude": -72.330145,
+    "city": "Swanzey",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3447,
+    "latitude": 42.881769,
+    "longitude": -72.248026,
+    "city": "Fitzwilliam",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3448,
+    "latitude": 42.936786,
+    "longitude": -72.210953,
+    "city": "Gilsum",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3449,
+    "latitude": 42.93924,
+    "longitude": -71.983797,
+    "city": "Hancock",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3450,
+    "latitude": 42.884548,
+    "longitude": -72.102634,
+    "city": "Harrisville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3451,
+    "latitude": 42.894151,
+    "longitude": -72.280099,
+    "city": "Hinsdale",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3452,
+    "latitude": 42.821969,
+    "longitude": -72.082559,
+    "city": "Jaffrey",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3455,
+    "latitude": 42.88825,
+    "longitude": -72.279638,
+    "city": "Marlborough",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3456,
+    "latitude": 43.119294,
+    "longitude": -72.202564,
+    "city": "Marlow",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3457,
+    "latitude": 42.896623,
+    "longitude": -72.091677,
+    "city": "Nelson",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3458,
+    "latitude": 42.956433,
+    "longitude": -71.9372,
+    "city": "Peterborough",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3461,
+    "latitude": 42.76509,
+    "longitude": -72.00912,
+    "city": "Rindge",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3462,
+    "latitude": 42.870716,
+    "longitude": -72.239432,
+    "city": "Spofford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3464,
+    "latitude": 42.95478,
+    "longitude": -72.102454,
+    "city": "Stoddard",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3465,
+    "latitude": 42.843617,
+    "longitude": -72.279814,
+    "city": "Troy",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3466,
+    "latitude": 42.858419,
+    "longitude": -72.432202,
+    "city": "West Chesterfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3467,
+    "latitude": 42.973867,
+    "longitude": -72.44256,
+    "city": "Westmoreland",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3468,
+    "latitude": 42.890804,
+    "longitude": -71.933396,
+    "city": "West Peterborough",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3469,
+    "latitude": 42.87341,
+    "longitude": -72.31509,
+    "city": "West Swanzey",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3470,
+    "latitude": 42.895797,
+    "longitude": -72.274928,
+    "city": "Winchester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3561,
+    "latitude": 44.335289,
+    "longitude": -71.877638,
+    "city": "Littleton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3570,
+    "latitude": 44.512344,
+    "longitude": -71.194226,
+    "city": "Berlin",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3574,
+    "latitude": 44.30632,
+    "longitude": -71.728049,
+    "city": "Bethlehem",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3575,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Bretton Woods",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3576,
+    "latitude": 44.902731,
+    "longitude": -71.500809,
+    "city": "Colebrook",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3579,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Errol",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3580,
+    "latitude": 44.212814,
+    "longitude": -71.737162,
+    "city": "Franconia",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3581,
+    "latitude": 44.404848,
+    "longitude": -71.154758,
+    "city": "Gorham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3582,
+    "latitude": 44.75096,
+    "longitude": -71.422453,
+    "city": "Groveton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3583,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Jefferson",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3584,
+    "latitude": 44.476575,
+    "longitude": -71.561225,
+    "city": "Lancaster",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3585,
+    "latitude": 44.245004,
+    "longitude": -71.888882,
+    "city": "Lisbon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3587,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Meadows",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3588,
+    "latitude": 44.56532,
+    "longitude": -71.218672,
+    "city": "Milan",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3589,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Mount Washington",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3590,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "North Stratford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3592,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "Pittsburg",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3595,
+    "latitude": 44.26895,
+    "longitude": -71.547061,
+    "city": "Twin Mountain",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3597,
+    "latitude": 44.695648,
+    "longitude": -71.387387,
+    "city": "West Stewartstown",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3598,
+    "latitude": 44.363681,
+    "longitude": -71.610189,
+    "city": "Whitefield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Coos"
+  },
+  {
+    "zip_code": 3601,
+    "latitude": 43.195982,
+    "longitude": -72.300075,
+    "city": "Acworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3602,
+    "latitude": 43.134412,
+    "longitude": -72.310623,
+    "city": "Alstead",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3603,
+    "latitude": 43.268117,
+    "longitude": -72.370222,
+    "city": "Charlestown",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3604,
+    "latitude": 42.947098,
+    "longitude": -72.243029,
+    "city": "Drewsville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3605,
+    "latitude": 43.213615,
+    "longitude": -72.196758,
+    "city": "Lempster",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3607,
+    "latitude": 43.364504,
+    "longitude": -72.193966,
+    "city": "South Acworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3608,
+    "latitude": 43.072239,
+    "longitude": -72.390121,
+    "city": "Walpole",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3609,
+    "latitude": 43.138018,
+    "longitude": -72.407236,
+    "city": "North Walpole",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Cheshire"
+  },
+  {
+    "zip_code": 3740,
+    "latitude": 44.114163,
+    "longitude": -71.948852,
+    "city": "Bath",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3741,
+    "latitude": 43.63123,
+    "longitude": -72.057312,
+    "city": "Canaan",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3743,
+    "latitude": 43.415993,
+    "longitude": -72.209819,
+    "city": "Claremont",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3745,
+    "latitude": 43.462156,
+    "longitude": -72.337149,
+    "city": "Cornish",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3746,
+    "latitude": 43.364504,
+    "longitude": -72.193966,
+    "city": "Cornish Flat",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3748,
+    "latitude": 43.630906,
+    "longitude": -72.116603,
+    "city": "Enfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3749,
+    "latitude": 43.579573,
+    "longitude": -72.08541,
+    "city": "Enfield Center",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3750,
+    "latitude": 43.697999,
+    "longitude": -72.215182,
+    "city": "Etna",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3751,
+    "latitude": 43.44872,
+    "longitude": -72.063675,
+    "city": "Georges Mills",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3752,
+    "latitude": 43.417705,
+    "longitude": -72.196718,
+    "city": "Goshen",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3753,
+    "latitude": 43.463101,
+    "longitude": -72.218445,
+    "city": "Grantham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3754,
+    "latitude": 43.365618,
+    "longitude": -72.125562,
+    "city": "Guild",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3755,
+    "latitude": 43.861077,
+    "longitude": -72.120314,
+    "city": "Hanover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3756,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Lebanon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3765,
+    "latitude": 44.037549,
+    "longitude": -72.046692,
+    "city": "Haverhill",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3766,
+    "latitude": 43.637148,
+    "longitude": -72.23546,
+    "city": "Lebanon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3768,
+    "latitude": 43.801656,
+    "longitude": -72.130495,
+    "city": "Lyme",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3769,
+    "latitude": 43.786267,
+    "longitude": -72.120468,
+    "city": "Lyme Center",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3770,
+    "latitude": 43.421675,
+    "longitude": -72.255638,
+    "city": "Meriden",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3771,
+    "latitude": 44.268612,
+    "longitude": -72.015317,
+    "city": "Monroe",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3773,
+    "latitude": 43.390485,
+    "longitude": -72.199659,
+    "city": "Newport",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3774,
+    "latitude": 44.077803,
+    "longitude": -72.014608,
+    "city": "North Haverhill",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3777,
+    "latitude": 43.927348,
+    "longitude": -72.10987,
+    "city": "Orford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3779,
+    "latitude": 43.948343,
+    "longitude": -72.062132,
+    "city": "Piermont",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3780,
+    "latitude": 43.967542,
+    "longitude": -71.840883,
+    "city": "Pike",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3781,
+    "latitude": 43.432999,
+    "longitude": -72.282596,
+    "city": "Plainfield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3782,
+    "latitude": 43.426838,
+    "longitude": -72.15471,
+    "city": "Sunapee",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 3784,
+    "latitude": 43.644367,
+    "longitude": -72.2348,
+    "city": "West Lebanon",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3785,
+    "latitude": 43.948644,
+    "longitude": -72.080708,
+    "city": "Woodsville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Grafton"
+  },
+  {
+    "zip_code": 3801,
+    "latitude": 43.009222,
+    "longitude": -70.950742,
+    "city": "Portsmouth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3802,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "Portsmouth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3803,
+    "latitude": 42.92703,
+    "longitude": -71.444752,
+    "city": "Portsmouth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3804,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "Portsmouth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3805,
+    "latitude": 43.285282,
+    "longitude": -70.930684,
+    "city": "Rollinsford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3809,
+    "latitude": 43.462586,
+    "longitude": -71.222455,
+    "city": "Alton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3810,
+    "latitude": 43.502514,
+    "longitude": -71.277387,
+    "city": "Alton Bay",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3811,
+    "latitude": 42.878366,
+    "longitude": -71.159035,
+    "city": "Atkinson",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3812,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "Bartlett",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3813,
+    "latitude": 43.797391,
+    "longitude": -71.145357,
+    "city": "Center Conway",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3814,
+    "latitude": 43.762429,
+    "longitude": -71.122689,
+    "city": "Center Ossipee",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3815,
+    "latitude": 43.253739,
+    "longitude": -71.109825,
+    "city": "Center Strafford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3816,
+    "latitude": 43.660752,
+    "longitude": -71.274458,
+    "city": "Center Tuftonboro",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3817,
+    "latitude": 43.74858,
+    "longitude": -71.089796,
+    "city": "Chocorua",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3818,
+    "latitude": 43.78892,
+    "longitude": -71.10261,
+    "city": "Conway",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3819,
+    "latitude": 42.926725,
+    "longitude": -71.082299,
+    "city": "Danville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3820,
+    "latitude": 43.297309,
+    "longitude": -70.992042,
+    "city": "Dover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3821,
+    "latitude": 43.326734,
+    "longitude": -71.028427,
+    "city": "Dover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3822,
+    "latitude": 43.326734,
+    "longitude": -71.028427,
+    "city": "Dover",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3824,
+    "latitude": 43.165772,
+    "longitude": -70.962843,
+    "city": "Durham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3825,
+    "latitude": 43.29779,
+    "longitude": -71.097423,
+    "city": "Barrington",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3826,
+    "latitude": 42.893629,
+    "longitude": -71.14269,
+    "city": "East Hampstead",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3827,
+    "latitude": 42.912071,
+    "longitude": -71.054245,
+    "city": "East Kingston",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3830,
+    "latitude": 43.635065,
+    "longitude": -71.009368,
+    "city": "East Wakefield",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3832,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "Eaton Center",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3833,
+    "latitude": 42.951274,
+    "longitude": -70.922262,
+    "city": "Exeter",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3835,
+    "latitude": 43.306172,
+    "longitude": -71.003435,
+    "city": "Farmington",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3836,
+    "latitude": 43.823704,
+    "longitude": -71.093154,
+    "city": "Freedom",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3837,
+    "latitude": 43.446567,
+    "longitude": -71.299456,
+    "city": "Gilmanton Iron Works",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Belknap"
+  },
+  {
+    "zip_code": 3838,
+    "latitude": 44.050111,
+    "longitude": -71.265371,
+    "city": "Glen",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3839,
+    "latitude": 43.309966,
+    "longitude": -70.998256,
+    "city": "Rochester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3840,
+    "latitude": 43.038634,
+    "longitude": -70.809157,
+    "city": "Greenland",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3841,
+    "latitude": 42.877438,
+    "longitude": -71.139098,
+    "city": "Hampstead",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3842,
+    "latitude": 42.917389,
+    "longitude": -70.95095,
+    "city": "Hampton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3843,
+    "latitude": 43.005895,
+    "longitude": -71.013202,
+    "city": "Hampton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3844,
+    "latitude": 42.891888,
+    "longitude": -70.982601,
+    "city": "Hampton Falls",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3845,
+    "latitude": 44.082716,
+    "longitude": -71.134348,
+    "city": "Intervale",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3846,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "Jackson",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3847,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "Kearsarge",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3848,
+    "latitude": 42.909731,
+    "longitude": -71.102933,
+    "city": "Kingston",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3849,
+    "latitude": 43.902311,
+    "longitude": -71.124612,
+    "city": "Madison",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3850,
+    "latitude": 43.707657,
+    "longitude": -71.301681,
+    "city": "Melvin Village",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3851,
+    "latitude": 43.422942,
+    "longitude": -71.011369,
+    "city": "Milton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3852,
+    "latitude": 43.326734,
+    "longitude": -71.028427,
+    "city": "Milton Mills",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3853,
+    "latitude": 43.646319,
+    "longitude": -71.282068,
+    "city": "Mirror Lake",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3854,
+    "latitude": 43.064938,
+    "longitude": -70.721596,
+    "city": "New Castle",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3855,
+    "latitude": 43.459503,
+    "longitude": -71.119055,
+    "city": "New Durham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3856,
+    "latitude": 43.037363,
+    "longitude": -70.978211,
+    "city": "Newfields",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3857,
+    "latitude": 42.979021,
+    "longitude": -70.891642,
+    "city": "Newmarket",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3858,
+    "latitude": 42.937092,
+    "longitude": -71.006898,
+    "city": "Newton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3859,
+    "latitude": 42.861915,
+    "longitude": -71.04002,
+    "city": "Newton Junction",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3860,
+    "latitude": 43.784643,
+    "longitude": -71.10263,
+    "city": "North Conway",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3862,
+    "latitude": 43.00027,
+    "longitude": -70.913947,
+    "city": "North Hampton",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3864,
+    "latitude": 43.667352,
+    "longitude": -71.153338,
+    "city": "Ossipee",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3865,
+    "latitude": 42.937838,
+    "longitude": -70.926206,
+    "city": "Plaistow",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3866,
+    "latitude": 43.41176,
+    "longitude": -71.027303,
+    "city": "Rochester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3867,
+    "latitude": 43.326831,
+    "longitude": -70.993148,
+    "city": "Rochester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3868,
+    "latitude": 43.349689,
+    "longitude": -70.945161,
+    "city": "Rochester",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3869,
+    "latitude": 43.16136,
+    "longitude": -70.942666,
+    "city": "Rollinsford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3870,
+    "latitude": 43.010939,
+    "longitude": -70.764813,
+    "city": "Rye",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3871,
+    "latitude": 42.980639,
+    "longitude": -70.771896,
+    "city": "Rye Beach",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3872,
+    "latitude": 43.570694,
+    "longitude": -71.079427,
+    "city": "Sanbornville",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3873,
+    "latitude": 42.922666,
+    "longitude": -71.174262,
+    "city": "Sandown",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3874,
+    "latitude": 42.964415,
+    "longitude": -70.819897,
+    "city": "Seabrook",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3875,
+    "latitude": 43.855269,
+    "longitude": -71.176182,
+    "city": "Silver Lake",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3878,
+    "latitude": 43.229489,
+    "longitude": -70.958264,
+    "city": "Somersworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3882,
+    "latitude": 43.704702,
+    "longitude": -70.990155,
+    "city": "Effingham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3883,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "South Tamworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3884,
+    "latitude": 43.256871,
+    "longitude": -71.171886,
+    "city": "Strafford",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Strafford"
+  },
+  {
+    "zip_code": 3885,
+    "latitude": 43.01295,
+    "longitude": -70.882134,
+    "city": "Stratham",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3886,
+    "latitude": 43.647527,
+    "longitude": -71.277779,
+    "city": "Tamworth",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3887,
+    "latitude": 43.459999,
+    "longitude": -71.040842,
+    "city": "Union",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3890,
+    "latitude": 43.811782,
+    "longitude": -71.194586,
+    "city": "West Ossipee",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3894,
+    "latitude": 43.667102,
+    "longitude": -71.183597,
+    "city": "Wolfeboro",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3896,
+    "latitude": 43.589157,
+    "longitude": -71.218894,
+    "city": "Wolfeboro Falls",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3897,
+    "latitude": 43.883871,
+    "longitude": -71.257726,
+    "city": "Wonalancet",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 3901,
+    "latitude": 43.279539,
+    "longitude": -70.740013,
+    "city": "Berwick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3902,
+    "latitude": 43.245785,
+    "longitude": -70.664719,
+    "city": "Cape Neddick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3903,
+    "latitude": 43.182729,
+    "longitude": -70.745759,
+    "city": "Eliot",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3904,
+    "latitude": 43.191554,
+    "longitude": -70.684607,
+    "city": "Kittery",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3905,
+    "latitude": 43.094746,
+    "longitude": -70.68928,
+    "city": "Kittery Point",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3906,
+    "latitude": 43.340626,
+    "longitude": -70.753996,
+    "city": "North Berwick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3907,
+    "latitude": 43.350806,
+    "longitude": -70.731498,
+    "city": "Ogunquit",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3908,
+    "latitude": 43.227549,
+    "longitude": -70.71171,
+    "city": "South Berwick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3909,
+    "latitude": 43.237891,
+    "longitude": -70.69099,
+    "city": "York",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3910,
+    "latitude": 43.211674,
+    "longitude": -70.73201,
+    "city": "York Beach",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 3911,
+    "latitude": 43.155465,
+    "longitude": -70.635702,
+    "city": "York Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4001,
+    "latitude": 43.520752,
+    "longitude": -70.804588,
+    "city": "Acton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4002,
+    "latitude": 43.467224,
+    "longitude": -70.738992,
+    "city": "Alfred",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4003,
+    "latitude": 43.735867,
+    "longitude": -69.995456,
+    "city": "Bailey Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4004,
+    "latitude": 43.365658,
+    "longitude": -70.604379,
+    "city": "Bar Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4005,
+    "latitude": 43.532376,
+    "longitude": -70.651859,
+    "city": "Biddeford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4006,
+    "latitude": 43.436049,
+    "longitude": -70.3598,
+    "city": "Biddeford Pool",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4007,
+    "latitude": 43.45813,
+    "longitude": -70.505301,
+    "city": "Biddeford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4008,
+    "latitude": 44.023162,
+    "longitude": -69.875816,
+    "city": "Bowdoinham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4009,
+    "latitude": 43.939828,
+    "longitude": -70.747431,
+    "city": "Bridgton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4010,
+    "latitude": 44.163033,
+    "longitude": -70.739823,
+    "city": "Brownfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4011,
+    "latitude": 43.935634,
+    "longitude": -70.340652,
+    "city": "Brunswick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4013,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Bustins Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4014,
+    "latitude": 43.365658,
+    "longitude": -70.604379,
+    "city": "Cape Porpoise",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4015,
+    "latitude": 43.962115,
+    "longitude": -70.524465,
+    "city": "Casco",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4016,
+    "latitude": 44.180965,
+    "longitude": -70.891727,
+    "city": "Center Lovell",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4017,
+    "latitude": 43.727806,
+    "longitude": -70.120437,
+    "city": "Chebeague Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4019,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Cliff Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4020,
+    "latitude": 43.77397,
+    "longitude": -70.791727,
+    "city": "Cornish",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4021,
+    "latitude": 43.812676,
+    "longitude": -70.450494,
+    "city": "Cumberland Center",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4022,
+    "latitude": 44.566156,
+    "longitude": -70.661557,
+    "city": "Denmark",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4024,
+    "latitude": 43.844826,
+    "longitude": -70.688656,
+    "city": "East Baldwin",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4027,
+    "latitude": 43.459708,
+    "longitude": -70.91519,
+    "city": "Lebanon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4028,
+    "latitude": 43.732391,
+    "longitude": -70.845114,
+    "city": "East Parsonfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4029,
+    "latitude": 43.867223,
+    "longitude": -70.547159,
+    "city": "Sebago",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4030,
+    "latitude": 43.596921,
+    "longitude": -70.689681,
+    "city": "East Waterboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4032,
+    "latitude": 43.864477,
+    "longitude": -70.097543,
+    "city": "Freeport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4033,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Freeport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4034,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Freeport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4037,
+    "latitude": 44.044292,
+    "longitude": -70.964418,
+    "city": "Fryeburg",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4038,
+    "latitude": 43.803689,
+    "longitude": -70.355188,
+    "city": "Gorham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4039,
+    "latitude": 43.878567,
+    "longitude": -70.328889,
+    "city": "Gray",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4040,
+    "latitude": 43.992681,
+    "longitude": -70.357119,
+    "city": "Harrison",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4041,
+    "latitude": 43.879628,
+    "longitude": -70.826188,
+    "city": "Hiram",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4042,
+    "latitude": 43.584232,
+    "longitude": -70.624391,
+    "city": "Hollis Center",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4043,
+    "latitude": 43.494679,
+    "longitude": -70.54921,
+    "city": "Kennebunk",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4046,
+    "latitude": 43.534125,
+    "longitude": -70.607475,
+    "city": "Kennebunkport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4047,
+    "latitude": 43.744987,
+    "longitude": -70.909196,
+    "city": "Parsonsfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4048,
+    "latitude": 43.661222,
+    "longitude": -70.83448,
+    "city": "Limerick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4049,
+    "latitude": 43.703854,
+    "longitude": -70.748668,
+    "city": "Limington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4050,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Long Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4051,
+    "latitude": 44.139839,
+    "longitude": -70.886741,
+    "city": "Lovell",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4053,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Merepoint",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4054,
+    "latitude": 43.276341,
+    "longitude": -70.597752,
+    "city": "Moody",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4055,
+    "latitude": 43.957208,
+    "longitude": -70.639546,
+    "city": "Naples",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4056,
+    "latitude": 43.658378,
+    "longitude": -70.868871,
+    "city": "Newfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4057,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "North Bridgton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4061,
+    "latitude": 43.54209,
+    "longitude": -70.710773,
+    "city": "North Waterboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4062,
+    "latitude": 43.911381,
+    "longitude": -70.396652,
+    "city": "Windham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4063,
+    "latitude": 43.504889,
+    "longitude": -70.385703,
+    "city": "Ocean Park",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4064,
+    "latitude": 43.411837,
+    "longitude": -70.469526,
+    "city": "Old Orchard Beach",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4066,
+    "latitude": 43.779982,
+    "longitude": -69.975477,
+    "city": "Orrs Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4068,
+    "latitude": 43.848322,
+    "longitude": -70.935379,
+    "city": "Porter",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4069,
+    "latitude": 43.894983,
+    "longitude": -70.189159,
+    "city": "Pownal",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4070,
+    "latitude": 43.576983,
+    "longitude": -70.273642,
+    "city": "Scarborough",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4071,
+    "latitude": 43.906227,
+    "longitude": -70.465928,
+    "city": "Raymond",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4072,
+    "latitude": 43.541241,
+    "longitude": -70.666387,
+    "city": "Saco",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4073,
+    "latitude": 43.576196,
+    "longitude": -70.630569,
+    "city": "Sanford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4074,
+    "latitude": 43.724562,
+    "longitude": -70.375162,
+    "city": "Scarborough",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4075,
+    "latitude": 43.796053,
+    "longitude": -70.552183,
+    "city": "Sebago Lake",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4076,
+    "latitude": 43.510275,
+    "longitude": -70.77159,
+    "city": "Shapleigh",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4077,
+    "latitude": 43.910029,
+    "longitude": -70.524524,
+    "city": "South Casco",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4078,
+    "latitude": 43.820774,
+    "longitude": -70.120781,
+    "city": "South Freeport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4079,
+    "latitude": 43.78105,
+    "longitude": -69.995537,
+    "city": "Harpswell",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4081,
+    "latitude": 44.566156,
+    "longitude": -70.661557,
+    "city": "South Waterford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4082,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "South Windham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4083,
+    "latitude": 43.465941,
+    "longitude": -70.748295,
+    "city": "Springvale",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4084,
+    "latitude": 43.804454,
+    "longitude": -70.554905,
+    "city": "Standish",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4085,
+    "latitude": 43.771934,
+    "longitude": -70.639561,
+    "city": "Steep Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4086,
+    "latitude": 43.981404,
+    "longitude": -69.937793,
+    "city": "Topsham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4087,
+    "latitude": 43.573684,
+    "longitude": -70.749181,
+    "city": "Waterboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4088,
+    "latitude": 44.566156,
+    "longitude": -70.661557,
+    "city": "Waterford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4090,
+    "latitude": 43.429659,
+    "longitude": -70.671274,
+    "city": "Wells",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4091,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "West Baldwin",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4092,
+    "latitude": 43.855116,
+    "longitude": -70.568534,
+    "city": "Westbrook",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4093,
+    "latitude": 43.653805,
+    "longitude": -70.622959,
+    "city": "Buxton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4094,
+    "latitude": 43.406101,
+    "longitude": -70.573255,
+    "city": "West Kennebunk",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4095,
+    "latitude": 43.601018,
+    "longitude": -70.902676,
+    "city": "West Newfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "York"
+  },
+  {
+    "zip_code": 4096,
+    "latitude": 43.798227,
+    "longitude": -70.171979,
+    "city": "Yarmouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4097,
+    "latitude": 43.837951,
+    "longitude": -70.200114,
+    "city": "North Yarmouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4098,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Westbrook",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4101,
+    "latitude": 43.658784,
+    "longitude": -70.262393,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4102,
+    "latitude": 43.74275,
+    "longitude": -70.44338,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4103,
+    "latitude": 43.68826,
+    "longitude": -70.289844,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4104,
+    "latitude": 43.84649,
+    "longitude": -70.464839,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4105,
+    "latitude": 43.73928,
+    "longitude": -70.270696,
+    "city": "Falmouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4106,
+    "latitude": 43.627364,
+    "longitude": -70.289248,
+    "city": "South Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4107,
+    "latitude": 43.595512,
+    "longitude": -70.239559,
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4108,
+    "latitude": 43.662809,
+    "longitude": -70.188442,
+    "city": "Peaks Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4109,
+    "latitude": 43.678339,
+    "longitude": -70.198742,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4110,
+    "latitude": 43.759021,
+    "longitude": -70.199307,
+    "city": "Cumberland Foreside",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4112,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4116,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "South Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4122,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4123,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4124,
+    "latitude": 44.408078,
+    "longitude": -70.470703,
+    "city": "Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4210,
+    "latitude": 44.087422,
+    "longitude": -70.243848,
+    "city": "Auburn",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4211,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "Auburn",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4212,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "Auburn",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4216,
+    "latitude": 44.56816,
+    "longitude": -70.704051,
+    "city": "Andover",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4217,
+    "latitude": 44.428414,
+    "longitude": -70.770035,
+    "city": "Bethel",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4219,
+    "latitude": 44.265009,
+    "longitude": -70.587095,
+    "city": "Bryant Pond",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4220,
+    "latitude": 44.326165,
+    "longitude": -70.381112,
+    "city": "Buckfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4221,
+    "latitude": 44.38575,
+    "longitude": -70.311314,
+    "city": "Canton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4222,
+    "latitude": 43.968378,
+    "longitude": -70.184618,
+    "city": "Durham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4223,
+    "latitude": 44.023873,
+    "longitude": -70.285748,
+    "city": "Danville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4224,
+    "latitude": 44.553968,
+    "longitude": -70.422541,
+    "city": "Dixfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4225,
+    "latitude": 44.602705,
+    "longitude": -70.22651,
+    "city": "Dryden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4226,
+    "latitude": 44.555618,
+    "longitude": -70.691857,
+    "city": "East Andover",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4227,
+    "latitude": 44.579135,
+    "longitude": -70.326337,
+    "city": "East Dixfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4228,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "East Livermore",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4230,
+    "latitude": 44.062672,
+    "longitude": -70.327049,
+    "city": "East Poland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4231,
+    "latitude": 44.313283,
+    "longitude": -70.861797,
+    "city": "Stoneham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4234,
+    "latitude": 44.617509,
+    "longitude": -70.182012,
+    "city": "East Wilton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4236,
+    "latitude": 44.189655,
+    "longitude": -70.136683,
+    "city": "Greene",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4237,
+    "latitude": 44.494347,
+    "longitude": -70.735691,
+    "city": "Hanover",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4238,
+    "latitude": 44.22564,
+    "longitude": -70.372831,
+    "city": "Hebron",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4239,
+    "latitude": 44.541508,
+    "longitude": -70.208556,
+    "city": "Jay",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4240,
+    "latitude": 44.086323,
+    "longitude": -70.169297,
+    "city": "Lewiston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4241,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "Lewiston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4243,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "Lewiston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4250,
+    "latitude": 44.033026,
+    "longitude": -70.101247,
+    "city": "Lisbon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4252,
+    "latitude": 44.032476,
+    "longitude": -70.068046,
+    "city": "Lisbon Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4253,
+    "latitude": 44.297416,
+    "longitude": -70.189139,
+    "city": "Livermore",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4254,
+    "latitude": 44.242189,
+    "longitude": -70.188508,
+    "city": "Livermore Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4255,
+    "latitude": 44.401595,
+    "longitude": -70.708774,
+    "city": "Greenwood",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4256,
+    "latitude": 44.079644,
+    "longitude": -70.272624,
+    "city": "Mechanic Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4257,
+    "latitude": 44.570265,
+    "longitude": -70.516131,
+    "city": "Mexico",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4258,
+    "latitude": 44.146121,
+    "longitude": -70.339859,
+    "city": "Minot",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4259,
+    "latitude": 44.349166,
+    "longitude": -69.870181,
+    "city": "Monmouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4260,
+    "latitude": 43.967474,
+    "longitude": -70.299687,
+    "city": "New Gloucester",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 4261,
+    "latitude": 44.689526,
+    "longitude": -71.011246,
+    "city": "Newry",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4262,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "North Jay",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4263,
+    "latitude": 44.292089,
+    "longitude": -70.135366,
+    "city": "Leeds",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4265,
+    "latitude": 44.303359,
+    "longitude": -70.037848,
+    "city": "North Monmouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4266,
+    "latitude": 44.357987,
+    "longitude": -70.255783,
+    "city": "North Turner",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4267,
+    "latitude": 44.566156,
+    "longitude": -70.661557,
+    "city": "North Waterford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4268,
+    "latitude": 44.280503,
+    "longitude": -70.691576,
+    "city": "Norway",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4270,
+    "latitude": 44.284385,
+    "longitude": -70.507791,
+    "city": "Oxford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4271,
+    "latitude": 44.264111,
+    "longitude": -70.498513,
+    "city": "Paris",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4274,
+    "latitude": 44.047435,
+    "longitude": -70.389923,
+    "city": "Poland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4275,
+    "latitude": 44.566156,
+    "longitude": -70.661557,
+    "city": "Roxbury",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4276,
+    "latitude": 44.523556,
+    "longitude": -70.638174,
+    "city": "Rumford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4278,
+    "latitude": 44.377031,
+    "longitude": -70.568041,
+    "city": "Rumford Center",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4280,
+    "latitude": 44.126723,
+    "longitude": -70.126922,
+    "city": "Sabattus",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4281,
+    "latitude": 44.353052,
+    "longitude": -70.607841,
+    "city": "South Paris",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4282,
+    "latitude": 44.265473,
+    "longitude": -70.254155,
+    "city": "Turner",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4283,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "Turner Center",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4284,
+    "latitude": 44.359835,
+    "longitude": -70.074555,
+    "city": "Wayne",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4285,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Weld",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4286,
+    "latitude": 44.40205,
+    "longitude": -70.860094,
+    "city": "West Bethel",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4287,
+    "latitude": 44.057514,
+    "longitude": -69.965553,
+    "city": "Bowdoin",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4288,
+    "latitude": 44.197009,
+    "longitude": -70.239485,
+    "city": "West Minot",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4289,
+    "latitude": 44.340438,
+    "longitude": -70.543265,
+    "city": "West Paris",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4290,
+    "latitude": 44.477183,
+    "longitude": -70.436722,
+    "city": "Peru",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4291,
+    "latitude": 44.040857,
+    "longitude": -70.453006,
+    "city": "West Poland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Androscoggin"
+  },
+  {
+    "zip_code": 4292,
+    "latitude": 44.3189,
+    "longitude": -70.477506,
+    "city": "Sumner",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Oxford"
+  },
+  {
+    "zip_code": 4294,
+    "latitude": 44.618873,
+    "longitude": -70.245935,
+    "city": "Wilton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4330,
+    "latitude": 44.351642,
+    "longitude": -69.803773,
+    "city": "Augusta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4332,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Augusta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4333,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Augusta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4336,
+    "latitude": 44.315693,
+    "longitude": -69.818009,
+    "city": "Augusta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4338,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Augusta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4341,
+    "latitude": 44.258771,
+    "longitude": -69.551024,
+    "city": "Coopers Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4342,
+    "latitude": 44.077448,
+    "longitude": -69.738418,
+    "city": "Dresden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4343,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "East Winthrop",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4344,
+    "latitude": 44.256614,
+    "longitude": -69.797105,
+    "city": "Farmingdale",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4345,
+    "latitude": 44.296652,
+    "longitude": -69.796909,
+    "city": "Gardiner",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4346,
+    "latitude": 44.269959,
+    "longitude": -69.724135,
+    "city": "Randolph",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4347,
+    "latitude": 44.24913,
+    "longitude": -69.795037,
+    "city": "Hallowell",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4348,
+    "latitude": 44.220432,
+    "longitude": -69.513293,
+    "city": "Jefferson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4349,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Kents Hill",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4350,
+    "latitude": 44.158104,
+    "longitude": -69.95404,
+    "city": "Litchfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4351,
+    "latitude": 44.358014,
+    "longitude": -69.867001,
+    "city": "Manchester",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4352,
+    "latitude": 44.461522,
+    "longitude": -69.986762,
+    "city": "Mount Vernon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4353,
+    "latitude": 44.188406,
+    "longitude": -69.575119,
+    "city": "Whitefield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4354,
+    "latitude": 44.39559,
+    "longitude": -69.4168,
+    "city": "Palermo",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4355,
+    "latitude": 44.38484,
+    "longitude": -69.953716,
+    "city": "Readfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4357,
+    "latitude": 44.108059,
+    "longitude": -69.827489,
+    "city": "Richmond",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4358,
+    "latitude": 44.375578,
+    "longitude": -69.586327,
+    "city": "South China",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4359,
+    "latitude": 44.183266,
+    "longitude": -69.777196,
+    "city": "South Gardiner",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4360,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Vienna",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4363,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Windsor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4364,
+    "latitude": 44.322865,
+    "longitude": -69.957627,
+    "city": "Winthrop",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4401,
+    "latitude": 45.061744,
+    "longitude": -68.878893,
+    "city": "Bangor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4402,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Bangor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4406,
+    "latitude": 45.184103,
+    "longitude": -69.233382,
+    "city": "Abbot",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4408,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Aurora",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4410,
+    "latitude": 45.058864,
+    "longitude": -68.95432,
+    "city": "Bradford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4411,
+    "latitude": 44.914946,
+    "longitude": -68.625688,
+    "city": "Bradley",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4412,
+    "latitude": 44.83561,
+    "longitude": -68.783742,
+    "city": "Brewer",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4413,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Brookton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4414,
+    "latitude": 45.310095,
+    "longitude": -69.029462,
+    "city": "Brownville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4415,
+    "latitude": 45.351184,
+    "longitude": -69.058062,
+    "city": "Brownville Junction",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4416,
+    "latitude": 44.600448,
+    "longitude": -68.773241,
+    "city": "Bucksport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4417,
+    "latitude": 44.81782,
+    "longitude": -68.817481,
+    "city": "Burlington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4418,
+    "latitude": 45.049429,
+    "longitude": -68.581212,
+    "city": "Greenbush",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4419,
+    "latitude": 44.808062,
+    "longitude": -68.940624,
+    "city": "Carmel",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4420,
+    "latitude": 44.412968,
+    "longitude": -68.798047,
+    "city": "Castine",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4421,
+    "latitude": 44.415639,
+    "longitude": -68.792883,
+    "city": "Castine",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4422,
+    "latitude": 45.066999,
+    "longitude": -69.040695,
+    "city": "Charleston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4423,
+    "latitude": 45.039478,
+    "longitude": -68.529182,
+    "city": "Costigan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4424,
+    "latitude": 45.658831,
+    "longitude": -67.866054,
+    "city": "Danforth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4426,
+    "latitude": 45.171605,
+    "longitude": -69.207725,
+    "city": "Dover Foxcroft",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4427,
+    "latitude": 44.989376,
+    "longitude": -68.865187,
+    "city": "Corinth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4428,
+    "latitude": 44.79169,
+    "longitude": -68.577728,
+    "city": "Eddington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4429,
+    "latitude": 44.894294,
+    "longitude": -68.818345,
+    "city": "Holden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4430,
+    "latitude": 45.233408,
+    "longitude": -68.689174,
+    "city": "East Millinocket",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4431,
+    "latitude": 44.561174,
+    "longitude": -68.664735,
+    "city": "East Orland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4434,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Etna",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4435,
+    "latitude": 44.966032,
+    "longitude": -69.13308,
+    "city": "Exeter",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4438,
+    "latitude": 44.632657,
+    "longitude": -68.849975,
+    "city": "Frankfort",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4441,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Greenville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4442,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Greenville Junction",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4443,
+    "latitude": 45.315976,
+    "longitude": -69.457444,
+    "city": "Guilford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4444,
+    "latitude": 44.835984,
+    "longitude": -68.829046,
+    "city": "Hampden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4448,
+    "latitude": 45.245635,
+    "longitude": -68.666632,
+    "city": "Howland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4449,
+    "latitude": 45.006054,
+    "longitude": -68.884621,
+    "city": "Hudson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4450,
+    "latitude": 44.918877,
+    "longitude": -68.965803,
+    "city": "Kenduskeag",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4451,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Kingman",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4453,
+    "latitude": 44.787229,
+    "longitude": -69.21821,
+    "city": "Lagrange",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4454,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Lambert Lake",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4455,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Lee",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4456,
+    "latitude": 44.871231,
+    "longitude": -69.011636,
+    "city": "Levant",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4457,
+    "latitude": 45.366794,
+    "longitude": -68.49299,
+    "city": "Lincoln",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4459,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Mattawamkeag",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4460,
+    "latitude": 45.618608,
+    "longitude": -68.543602,
+    "city": "Medway",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4461,
+    "latitude": 45.0542,
+    "longitude": -68.595946,
+    "city": "Milford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4462,
+    "latitude": 45.226479,
+    "longitude": -68.752091,
+    "city": "Millinocket",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4463,
+    "latitude": 45.244612,
+    "longitude": -68.975988,
+    "city": "Milo",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4464,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Monson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4467,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Olamon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4468,
+    "latitude": 45.040655,
+    "longitude": -68.722962,
+    "city": "Old Town",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4469,
+    "latitude": 45.002798,
+    "longitude": -68.63343,
+    "city": "Orono",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4471,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Orient",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4472,
+    "latitude": 44.409375,
+    "longitude": -68.625903,
+    "city": "Orland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4473,
+    "latitude": 45.068848,
+    "longitude": -68.744361,
+    "city": "Orono",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4474,
+    "latitude": 44.842939,
+    "longitude": -68.782487,
+    "city": "Orrington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4475,
+    "latitude": 45.040668,
+    "longitude": -68.618775,
+    "city": "Passadumkeag",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4476,
+    "latitude": 44.433911,
+    "longitude": -68.721716,
+    "city": "Penobscot",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4478,
+    "latitude": 45.28657,
+    "longitude": -70.054629,
+    "city": "Rockwood",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4479,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Sangerville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4481,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Sebec",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4485,
+    "latitude": 45.792364,
+    "longitude": -69.30463,
+    "city": "Shirley Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Piscataquis"
+  },
+  {
+    "zip_code": 4487,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Springfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4488,
+    "latitude": 44.894697,
+    "longitude": -69.142341,
+    "city": "Stetson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4489,
+    "latitude": 44.922368,
+    "longitude": -68.686796,
+    "city": "Stillwater",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4490,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Topsfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4491,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Vanceboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4492,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Waite",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4493,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "West Enfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4495,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Winn",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4496,
+    "latitude": 44.65337,
+    "longitude": -68.917487,
+    "city": "Winterport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4497,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Wytopitlock",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4530,
+    "latitude": 43.867892,
+    "longitude": -69.826495,
+    "city": "Bath",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4535,
+    "latitude": 44.008962,
+    "longitude": -69.566684,
+    "city": "Alna",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4536,
+    "latitude": 44.021333,
+    "longitude": -69.523263,
+    "city": "Bayville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4537,
+    "latitude": 43.894903,
+    "longitude": -69.627163,
+    "city": "Boothbay",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4538,
+    "latitude": 43.956167,
+    "longitude": -69.517161,
+    "city": "Boothbay Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4539,
+    "latitude": 43.928967,
+    "longitude": -69.598725,
+    "city": "Bristol",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4541,
+    "latitude": 43.884294,
+    "longitude": -69.479184,
+    "city": "Chamberlain",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4543,
+    "latitude": 43.986485,
+    "longitude": -69.424228,
+    "city": "Damariscotta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4544,
+    "latitude": 43.82677,
+    "longitude": -69.597446,
+    "city": "East Boothbay",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4547,
+    "latitude": 44.010424,
+    "longitude": -69.231179,
+    "city": "Friendship",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4548,
+    "latitude": 43.805389,
+    "longitude": -69.745295,
+    "city": "Georgetown",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4549,
+    "latitude": 44.021333,
+    "longitude": -69.523263,
+    "city": "Isle Of Springs",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4551,
+    "latitude": 44.010411,
+    "longitude": -69.440192,
+    "city": "Bremen",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4552,
+    "latitude": 44.021333,
+    "longitude": -69.523263,
+    "city": "Newagen",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4553,
+    "latitude": 43.991336,
+    "longitude": -69.503427,
+    "city": "Newcastle",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4554,
+    "latitude": 43.870936,
+    "longitude": -69.566313,
+    "city": "New Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4555,
+    "latitude": 44.074877,
+    "longitude": -69.536374,
+    "city": "Nobleboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4556,
+    "latitude": 43.931748,
+    "longitude": -69.587334,
+    "city": "Edgecomb",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4558,
+    "latitude": 43.896727,
+    "longitude": -69.509282,
+    "city": "Pemaquid",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4562,
+    "latitude": 43.789616,
+    "longitude": -69.810821,
+    "city": "Phippsburg",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4563,
+    "latitude": 44.02301,
+    "longitude": -69.255572,
+    "city": "Cushing",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4564,
+    "latitude": 43.932449,
+    "longitude": -69.468052,
+    "city": "Round Pond",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4565,
+    "latitude": 43.773312,
+    "longitude": -69.863461,
+    "city": "Sebasco Estates",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4567,
+    "latitude": 43.900856,
+    "longitude": -69.859541,
+    "city": "Small Point",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4568,
+    "latitude": 43.877877,
+    "longitude": -69.612725,
+    "city": "South Bristol",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4570,
+    "latitude": 44.021333,
+    "longitude": -69.523263,
+    "city": "Squirrel Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4571,
+    "latitude": 43.88261,
+    "longitude": -69.680144,
+    "city": "Trevett",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4572,
+    "latitude": 44.038581,
+    "longitude": -69.415708,
+    "city": "Waldoboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4573,
+    "latitude": 43.929821,
+    "longitude": -69.592127,
+    "city": "Walpole",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4574,
+    "latitude": 44.162384,
+    "longitude": -69.387795,
+    "city": "Washington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4575,
+    "latitude": 43.854534,
+    "longitude": -69.660795,
+    "city": "West Boothbay Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4576,
+    "latitude": 43.935605,
+    "longitude": -69.529648,
+    "city": "Southport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4578,
+    "latitude": 43.964901,
+    "longitude": -69.597134,
+    "city": "Wiscasset",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4579,
+    "latitude": 43.938696,
+    "longitude": -69.764378,
+    "city": "Woolwich",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Sagadahoc"
+  },
+  {
+    "zip_code": 4605,
+    "latitude": 44.477935,
+    "longitude": -68.356311,
+    "city": "Ellsworth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4606,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Addison",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4607,
+    "latitude": 44.483471,
+    "longitude": -68.090339,
+    "city": "Gouldsboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4609,
+    "latitude": 44.362323,
+    "longitude": -68.305513,
+    "city": "Bar Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4611,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Beals",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4612,
+    "latitude": 44.239876,
+    "longitude": -68.354598,
+    "city": "Bernard",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4613,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Birch Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4614,
+    "latitude": 44.29691,
+    "longitude": -68.623927,
+    "city": "Blue Hill",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4615,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Blue Hill Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4616,
+    "latitude": 44.258121,
+    "longitude": -68.567404,
+    "city": "Brooklin",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4617,
+    "latitude": 44.337581,
+    "longitude": -68.765568,
+    "city": "Brooksville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4619,
+    "latitude": 45.188254,
+    "longitude": -67.389101,
+    "city": "Calais",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4622,
+    "latitude": 44.603258,
+    "longitude": -67.923248,
+    "city": "Cherryfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4623,
+    "latitude": 44.698608,
+    "longitude": -67.779881,
+    "city": "Columbia Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4624,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Corea",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4625,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Cranberry Isles",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4626,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Cutler",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4627,
+    "latitude": 44.213503,
+    "longitude": -68.711691,
+    "city": "Deer Isle",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4628,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Dennysville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4629,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "East Blue Hill",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4630,
+    "latitude": 44.70746,
+    "longitude": -67.46247,
+    "city": "East Machias",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4631,
+    "latitude": 45.036287,
+    "longitude": -67.136853,
+    "city": "Eastport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4634,
+    "latitude": 44.595131,
+    "longitude": -68.233576,
+    "city": "Franklin",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4635,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Frenchboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4637,
+    "latitude": 45.185635,
+    "longitude": -67.601026,
+    "city": "Grand Lake Stream",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4640,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Hancock",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4642,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Harborside",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4643,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Harrington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4644,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Hulls Cove",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4645,
+    "latitude": 44.032196,
+    "longitude": -69.148017,
+    "city": "Isle Au Haut",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4646,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Islesford",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4648,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Jonesboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4649,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Jonesport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4650,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Little Deer Isle",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4652,
+    "latitude": 44.904288,
+    "longitude": -67.040767,
+    "city": "Lubec",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4653,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Bass Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4654,
+    "latitude": 44.660627,
+    "longitude": -67.469196,
+    "city": "Machias",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4655,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Machiasport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4656,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Manset",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4657,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Meddybemps",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4658,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Milbridge",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4660,
+    "latitude": 44.334692,
+    "longitude": -68.308737,
+    "city": "Mount Desert",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4662,
+    "latitude": 44.294073,
+    "longitude": -68.284865,
+    "city": "Northeast Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4664,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Sullivan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4665,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Otter Creek",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4666,
+    "latitude": 44.930092,
+    "longitude": -67.156533,
+    "city": "Pembroke",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4667,
+    "latitude": 45.013348,
+    "longitude": -67.097043,
+    "city": "Perry",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4668,
+    "latitude": 45.209229,
+    "longitude": -67.575432,
+    "city": "Princeton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4669,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Prospect Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4671,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Robbinston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4672,
+    "latitude": 44.413523,
+    "longitude": -68.251778,
+    "city": "Salsbury Cove",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4673,
+    "latitude": 44.313629,
+    "longitude": -68.686305,
+    "city": "Sargentville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4674,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Seal Cove",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4675,
+    "latitude": 44.299037,
+    "longitude": -68.246314,
+    "city": "Seal Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4676,
+    "latitude": 44.399111,
+    "longitude": -68.701228,
+    "city": "Sedgwick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4677,
+    "latitude": 44.491175,
+    "longitude": -68.19137,
+    "city": "Sorrento",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4679,
+    "latitude": 44.390897,
+    "longitude": -68.261568,
+    "city": "Southwest Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4680,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Steuben",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4681,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Stonington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4683,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Sunset",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4684,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "Surry",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4685,
+    "latitude": 44.213118,
+    "longitude": -68.396479,
+    "city": "Swans Island",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4686,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Wesley",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4690,
+    "latitude": 44.641873,
+    "longitude": -68.391481,
+    "city": "West Tremont",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4691,
+    "latitude": 45.002969,
+    "longitude": -67.495548,
+    "city": "Whiting",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4693,
+    "latitude": 44.387188,
+    "longitude": -68.074964,
+    "city": "Winter Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 4694,
+    "latitude": 45.152637,
+    "longitude": -67.37741,
+    "city": "Baileyville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 4730,
+    "latitude": 46.121345,
+    "longitude": -67.833009,
+    "city": "Houlton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4732,
+    "latitude": 46.975725,
+    "longitude": -68.39816,
+    "city": "Ashland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4733,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Benedicta",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4734,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Blaine",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4735,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Bridgewater",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4736,
+    "latitude": 46.871355,
+    "longitude": -68.025442,
+    "city": "Caribou",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4737,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Clayton Lake",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4738,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Crouseville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4739,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Eagle Lake",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4740,
+    "latitude": 46.611101,
+    "longitude": -67.85582,
+    "city": "Easton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4741,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Estcourt Station",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4742,
+    "latitude": 46.746453,
+    "longitude": -67.841507,
+    "city": "Fort Fairfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4743,
+    "latitude": 47.056484,
+    "longitude": -68.255868,
+    "city": "Fort Kent",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4744,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Fort Kent Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4745,
+    "latitude": 47.295289,
+    "longitude": -68.39192,
+    "city": "Frenchville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4746,
+    "latitude": 47.00434,
+    "longitude": -67.998581,
+    "city": "Grand Isle",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4747,
+    "latitude": 46.011345,
+    "longitude": -68.273154,
+    "city": "Island Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4750,
+    "latitude": 46.906749,
+    "longitude": -67.851979,
+    "city": "Limestone",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4751,
+    "latitude": 46.892918,
+    "longitude": -67.9643,
+    "city": "Limestone",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4756,
+    "latitude": 46.934538,
+    "longitude": -68.109616,
+    "city": "Madawaska",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4757,
+    "latitude": 47.007842,
+    "longitude": -68.182061,
+    "city": "Mapleton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4758,
+    "latitude": 46.551571,
+    "longitude": -67.84817,
+    "city": "Mars Hill",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4759,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Masardis",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4760,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Monticello",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4761,
+    "latitude": 46.100442,
+    "longitude": -68.003376,
+    "city": "New Limerick",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4762,
+    "latitude": 46.976619,
+    "longitude": -68.205546,
+    "city": "New Sweden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4763,
+    "latitude": 46.09998,
+    "longitude": -68.14487,
+    "city": "Oakfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4764,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Oxbow",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4765,
+    "latitude": 45.999084,
+    "longitude": -68.443112,
+    "city": "Patten",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4766,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Perham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4768,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Portage",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4769,
+    "latitude": 46.715072,
+    "longitude": -68.012557,
+    "city": "Presque Isle",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4770,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Quimby",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4772,
+    "latitude": 47.263956,
+    "longitude": -68.335025,
+    "city": "Saint Agatha",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4773,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Saint David",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4774,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Saint Francis",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4775,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Sheridan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4776,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Sherman Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4777,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Sherman Station",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4779,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Sinclair",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4780,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Smyrna Mills",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4781,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Wallagrass",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4782,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "Stacyville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4783,
+    "latitude": 46.787807,
+    "longitude": -68.155212,
+    "city": "Stockholm",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4785,
+    "latitude": 46.986075,
+    "longitude": -68.042433,
+    "city": "Van Buren",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4786,
+    "latitude": 46.793032,
+    "longitude": -68.105233,
+    "city": "Washburn",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4787,
+    "latitude": 46.594523,
+    "longitude": -67.930172,
+    "city": "Westfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4788,
+    "latitude": 46.516166,
+    "longitude": -68.886826,
+    "city": "Winterville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Aroostook"
+  },
+  {
+    "zip_code": 4841,
+    "latitude": 44.128607,
+    "longitude": -69.068648,
+    "city": "Rockland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4843,
+    "latitude": 44.12613,
+    "longitude": -69.029238,
+    "city": "Camden",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4846,
+    "latitude": 44.131005,
+    "longitude": -69.091111,
+    "city": "Glen Cove",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4847,
+    "latitude": 44.241072,
+    "longitude": -69.203015,
+    "city": "Hope",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4848,
+    "latitude": 44.309021,
+    "longitude": -68.900772,
+    "city": "Islesboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4849,
+    "latitude": 44.324832,
+    "longitude": -68.998255,
+    "city": "Lincolnville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4850,
+    "latitude": 44.478694,
+    "longitude": -69.149559,
+    "city": "Lincolnville Center",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4851,
+    "latitude": 44.032196,
+    "longitude": -69.148017,
+    "city": "Matinicus",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4852,
+    "latitude": 44.021333,
+    "longitude": -69.523263,
+    "city": "Monhegan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 4853,
+    "latitude": 44.113472,
+    "longitude": -68.855722,
+    "city": "North Haven",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4854,
+    "latitude": 44.07951,
+    "longitude": -69.085574,
+    "city": "Owls Head",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4855,
+    "latitude": 44.032196,
+    "longitude": -69.148017,
+    "city": "Port Clyde",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4856,
+    "latitude": 44.132144,
+    "longitude": -69.03416,
+    "city": "Rockport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4857,
+    "latitude": 43.995024,
+    "longitude": -69.198524,
+    "city": "Saint George",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4858,
+    "latitude": 44.115186,
+    "longitude": -69.132883,
+    "city": "South Thomaston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4859,
+    "latitude": 44.002248,
+    "longitude": -69.11955,
+    "city": "Spruce Head",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4860,
+    "latitude": 43.963129,
+    "longitude": -69.213329,
+    "city": "Tenants Harbor",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4861,
+    "latitude": 44.108131,
+    "longitude": -69.042704,
+    "city": "Thomaston",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4862,
+    "latitude": 44.231517,
+    "longitude": -69.219722,
+    "city": "Union",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4863,
+    "latitude": 44.08511,
+    "longitude": -68.841965,
+    "city": "Vinalhaven",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4864,
+    "latitude": 44.086333,
+    "longitude": -69.188163,
+    "city": "Warren",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4865,
+    "latitude": 44.192369,
+    "longitude": -69.121139,
+    "city": "West Rockport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 4901,
+    "latitude": 44.554321,
+    "longitude": -69.617809,
+    "city": "Waterville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4903,
+    "latitude": 44.549225,
+    "longitude": -69.713178,
+    "city": "Waterville",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4910,
+    "latitude": 44.530366,
+    "longitude": -69.639976,
+    "city": "Albion",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4911,
+    "latitude": 44.81062,
+    "longitude": -69.912885,
+    "city": "Anson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4912,
+    "latitude": 44.9227,
+    "longitude": -69.67668,
+    "city": "Athens",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4915,
+    "latitude": 44.404619,
+    "longitude": -69.040297,
+    "city": "Belfast",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4917,
+    "latitude": 44.480594,
+    "longitude": -69.83253,
+    "city": "Belgrade",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4918,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "Belgrade Lakes",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4920,
+    "latitude": 45.575731,
+    "longitude": -69.909773,
+    "city": "Bingham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4921,
+    "latitude": 44.579387,
+    "longitude": -69.175448,
+    "city": "Brooks",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4922,
+    "latitude": 44.677388,
+    "longitude": -69.378829,
+    "city": "Burnham",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4923,
+    "latitude": 45.036055,
+    "longitude": -69.438697,
+    "city": "Cambridge",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4924,
+    "latitude": 44.743659,
+    "longitude": -69.585151,
+    "city": "Canaan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4925,
+    "latitude": 45.575731,
+    "longitude": -69.909773,
+    "city": "Caratunk",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4926,
+    "latitude": 44.391167,
+    "longitude": -69.538257,
+    "city": "China Village",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4927,
+    "latitude": 44.621084,
+    "longitude": -69.512609,
+    "city": "Clinton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4928,
+    "latitude": 44.944157,
+    "longitude": -69.228736,
+    "city": "Corinna",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4929,
+    "latitude": 44.761527,
+    "longitude": -69.322662,
+    "city": "Detroit",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4930,
+    "latitude": 44.964532,
+    "longitude": -69.203773,
+    "city": "Dexter",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4932,
+    "latitude": 44.6819,
+    "longitude": -69.121648,
+    "city": "Dixmont",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4933,
+    "latitude": 45.519867,
+    "longitude": -68.647416,
+    "city": "East Newport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4935,
+    "latitude": 44.414056,
+    "longitude": -69.751913,
+    "city": "East Vassalboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4936,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Eustis",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4937,
+    "latitude": 44.646261,
+    "longitude": -69.680158,
+    "city": "Fairfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4938,
+    "latitude": 44.650311,
+    "longitude": -70.129267,
+    "city": "Farmington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4939,
+    "latitude": 45.014913,
+    "longitude": -69.156965,
+    "city": "Garland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4940,
+    "latitude": 44.622563,
+    "longitude": -70.075178,
+    "city": "Farmington Falls",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4941,
+    "latitude": 44.488583,
+    "longitude": -69.339221,
+    "city": "Freedom",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4942,
+    "latitude": 44.973047,
+    "longitude": -69.548148,
+    "city": "Harmony",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4943,
+    "latitude": 44.896404,
+    "longitude": -69.464092,
+    "city": "Hartland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4944,
+    "latitude": 44.684737,
+    "longitude": -69.6425,
+    "city": "Hinckley",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4945,
+    "latitude": 44.883675,
+    "longitude": -69.452187,
+    "city": "Jackman",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4947,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Kingfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4949,
+    "latitude": 44.371549,
+    "longitude": -69.15555,
+    "city": "Liberty",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4950,
+    "latitude": 44.786404,
+    "longitude": -69.805662,
+    "city": "Madison",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4951,
+    "latitude": 44.478694,
+    "longitude": -69.149559,
+    "city": "Monroe",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4952,
+    "latitude": 44.39785,
+    "longitude": -69.142182,
+    "city": "Morrill",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4953,
+    "latitude": 44.863406,
+    "longitude": -69.266827,
+    "city": "Newport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4954,
+    "latitude": 45.575731,
+    "longitude": -69.909773,
+    "city": "New Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4955,
+    "latitude": 44.60363,
+    "longitude": -70.010292,
+    "city": "New Sharon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4956,
+    "latitude": 44.952578,
+    "longitude": -70.183554,
+    "city": "New Vineyard",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4957,
+    "latitude": 44.707468,
+    "longitude": -69.818804,
+    "city": "Norridgewock",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4958,
+    "latitude": 44.8019,
+    "longitude": -69.946593,
+    "city": "North Anson",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4961,
+    "latitude": 45.575731,
+    "longitude": -69.909773,
+    "city": "North New Portland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4962,
+    "latitude": 44.479288,
+    "longitude": -69.622006,
+    "city": "North Vassalboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4963,
+    "latitude": 44.557111,
+    "longitude": -69.826495,
+    "city": "Oakland",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4964,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Oquossoc",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4965,
+    "latitude": 44.802655,
+    "longitude": -69.537715,
+    "city": "Palmyra",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4966,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Phillips",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4967,
+    "latitude": 44.760948,
+    "longitude": -69.387705,
+    "city": "Pittsfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4969,
+    "latitude": 44.772503,
+    "longitude": -69.247539,
+    "city": "Plymouth",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Penobscot"
+  },
+  {
+    "zip_code": 4970,
+    "latitude": 44.985998,
+    "longitude": -70.660181,
+    "city": "Rangeley",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4971,
+    "latitude": 44.93183,
+    "longitude": -69.403011,
+    "city": "Saint Albans",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4972,
+    "latitude": 44.478694,
+    "longitude": -69.149559,
+    "city": "Sandy Point",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4973,
+    "latitude": 44.357201,
+    "longitude": -69.215906,
+    "city": "Searsmont",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4974,
+    "latitude": 44.489412,
+    "longitude": -68.933051,
+    "city": "Searsport",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4975,
+    "latitude": 44.624515,
+    "longitude": -69.586852,
+    "city": "Shawmut",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4976,
+    "latitude": 44.769303,
+    "longitude": -69.593975,
+    "city": "Skowhegan",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4978,
+    "latitude": 44.62111,
+    "longitude": -69.770923,
+    "city": "Smithfield",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4979,
+    "latitude": 44.931415,
+    "longitude": -69.834764,
+    "city": "Solon",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4981,
+    "latitude": 44.501114,
+    "longitude": -68.891743,
+    "city": "Stockton Springs",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4982,
+    "latitude": 45.063384,
+    "longitude": -70.381639,
+    "city": "Stratton",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4983,
+    "latitude": 44.814175,
+    "longitude": -70.187221,
+    "city": "Strong",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4984,
+    "latitude": 44.670079,
+    "longitude": -70.196855,
+    "city": "Temple",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 4985,
+    "latitude": 45.575731,
+    "longitude": -69.909773,
+    "city": "West Forks",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 4986,
+    "latitude": 44.513048,
+    "longitude": -69.183929,
+    "city": "Thorndike",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4987,
+    "latitude": 44.478694,
+    "longitude": -69.149559,
+    "city": "Troy",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4988,
+    "latitude": 44.601175,
+    "longitude": -69.357191,
+    "city": "Unity",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Waldo"
+  },
+  {
+    "zip_code": 4989,
+    "latitude": 44.427757,
+    "longitude": -69.635908,
+    "city": "Vassalboro",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Kennebec"
+  },
+  {
+    "zip_code": 4992,
+    "latitude": 44.662822,
+    "longitude": -70.153049,
+    "city": "West Farmington",
+    "state": "ME",
+    "full_state": "Maine",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5001,
+    "latitude": 43.591821,
+    "longitude": -72.463589,
+    "city": "White River Junction",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5009,
+    "latitude": 43.592039,
+    "longitude": -72.588407,
+    "city": "White River Junction",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5030,
+    "latitude": 43.410672,
+    "longitude": -72.429777,
+    "city": "Ascutney",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5031,
+    "latitude": 43.657625,
+    "longitude": -72.54586,
+    "city": "Barnard",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5032,
+    "latitude": 43.758758,
+    "longitude": -72.688169,
+    "city": "Bethel",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5033,
+    "latitude": 44.004691,
+    "longitude": -72.15845,
+    "city": "Bradford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5034,
+    "latitude": 43.592527,
+    "longitude": -72.621578,
+    "city": "Bridgewater",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5035,
+    "latitude": 43.599795,
+    "longitude": -72.675164,
+    "city": "Bridgewater Corners",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5036,
+    "latitude": 44.017782,
+    "longitude": -72.577365,
+    "city": "Brookfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5037,
+    "latitude": 43.467179,
+    "longitude": -72.488285,
+    "city": "Brownsville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5038,
+    "latitude": 43.994212,
+    "longitude": -72.457153,
+    "city": "Chelsea",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5039,
+    "latitude": 44.033236,
+    "longitude": -72.293631,
+    "city": "Corinth",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5040,
+    "latitude": 44.077918,
+    "longitude": -72.210962,
+    "city": "East Corinth",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5041,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "East Randolph",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5042,
+    "latitude": 44.359629,
+    "longitude": -72.086586,
+    "city": "East Ryegate",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Caledonia"
+  },
+  {
+    "zip_code": 5043,
+    "latitude": 43.807282,
+    "longitude": -72.214693,
+    "city": "East Thetford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5045,
+    "latitude": 43.928681,
+    "longitude": -72.196635,
+    "city": "Fairlee",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5046,
+    "latitude": 44.281506,
+    "longitude": -72.207573,
+    "city": "Groton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Caledonia"
+  },
+  {
+    "zip_code": 5047,
+    "latitude": 43.672103,
+    "longitude": -72.355539,
+    "city": "Hartford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5048,
+    "latitude": 43.573379,
+    "longitude": -72.402698,
+    "city": "Hartland",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5049,
+    "latitude": 43.592039,
+    "longitude": -72.588407,
+    "city": "Hartland Four Corners",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5050,
+    "latitude": 44.46239,
+    "longitude": -72.135804,
+    "city": "Mc Indoe Falls",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Caledonia"
+  },
+  {
+    "zip_code": 5051,
+    "latitude": 44.068284,
+    "longitude": -72.118739,
+    "city": "Newbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5052,
+    "latitude": 43.591324,
+    "longitude": -72.34903,
+    "city": "North Hartland",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5053,
+    "latitude": 43.709919,
+    "longitude": -72.511882,
+    "city": "North Pomfret",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5054,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "North Thetford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5055,
+    "latitude": 43.717918,
+    "longitude": -72.3612,
+    "city": "Norwich",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5056,
+    "latitude": 43.526289,
+    "longitude": -72.724848,
+    "city": "Plymouth",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5058,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "Post Mills",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5059,
+    "latitude": 43.664059,
+    "longitude": -72.433116,
+    "city": "Quechee",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5060,
+    "latitude": 43.985803,
+    "longitude": -72.694098,
+    "city": "Randolph",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5061,
+    "latitude": 43.928552,
+    "longitude": -72.569113,
+    "city": "Randolph Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5062,
+    "latitude": 43.47559,
+    "longitude": -72.572818,
+    "city": "Reading",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5065,
+    "latitude": 43.777365,
+    "longitude": -72.407132,
+    "city": "Sharon",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5067,
+    "latitude": 43.697055,
+    "longitude": -72.508042,
+    "city": "South Pomfret",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5068,
+    "latitude": 43.777096,
+    "longitude": -72.528249,
+    "city": "South Royalton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5069,
+    "latitude": 44.19779,
+    "longitude": -72.110362,
+    "city": "South Ryegate",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Caledonia"
+  },
+  {
+    "zip_code": 5070,
+    "latitude": 43.844018,
+    "longitude": -72.378546,
+    "city": "South Strafford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5071,
+    "latitude": 43.565888,
+    "longitude": -72.534106,
+    "city": "South Woodstock",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5072,
+    "latitude": 43.892586,
+    "longitude": -72.369563,
+    "city": "Strafford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5073,
+    "latitude": 43.630897,
+    "longitude": -72.48908,
+    "city": "Taftsville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5074,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "Thetford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5075,
+    "latitude": 43.854018,
+    "longitude": -72.254614,
+    "city": "Thetford Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5076,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "East Corinth",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5077,
+    "latitude": 43.895465,
+    "longitude": -72.473372,
+    "city": "Tunbridge",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5079,
+    "latitude": 43.952586,
+    "longitude": -72.311252,
+    "city": "Vershire",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5081,
+    "latitude": 44.119395,
+    "longitude": -72.088869,
+    "city": "Wells River",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5083,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "West Fairlee",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5084,
+    "latitude": 43.718535,
+    "longitude": -72.443862,
+    "city": "West Hartford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5085,
+    "latitude": 43.995961,
+    "longitude": -72.411393,
+    "city": "West Newbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5086,
+    "latitude": 44.115326,
+    "longitude": -72.317918,
+    "city": "West Topsham",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5088,
+    "latitude": 43.673484,
+    "longitude": -72.31196,
+    "city": "Wilder",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5089,
+    "latitude": 43.5181,
+    "longitude": -72.418059,
+    "city": "Windsor",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5091,
+    "latitude": 43.631348,
+    "longitude": -72.512835,
+    "city": "Woodstock",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5101,
+    "latitude": 43.171185,
+    "longitude": -72.623106,
+    "city": "Bellows Falls",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5141,
+    "latitude": 42.99467,
+    "longitude": -72.720362,
+    "city": "Cambridgeport",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5142,
+    "latitude": 43.402135,
+    "longitude": -72.583854,
+    "city": "Cavendish",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5143,
+    "latitude": 43.298315,
+    "longitude": -72.667167,
+    "city": "Chester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5144,
+    "latitude": 43.592039,
+    "longitude": -72.588407,
+    "city": "Chester Depot",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5146,
+    "latitude": 43.179936,
+    "longitude": -72.605636,
+    "city": "Grafton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5148,
+    "latitude": 43.228101,
+    "longitude": -72.787995,
+    "city": "Londonderry",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5149,
+    "latitude": 43.376744,
+    "longitude": -72.706913,
+    "city": "Ludlow",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5150,
+    "latitude": 43.33803,
+    "longitude": -72.527652,
+    "city": "North Springfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5151,
+    "latitude": 43.409654,
+    "longitude": -72.495851,
+    "city": "Perkinsville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5152,
+    "latitude": 43.09893,
+    "longitude": -73.034944,
+    "city": "Peru",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5153,
+    "latitude": 43.439854,
+    "longitude": -72.620659,
+    "city": "Proctorsville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5154,
+    "latitude": 43.164738,
+    "longitude": -72.53194,
+    "city": "Saxtons River",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5155,
+    "latitude": 43.169854,
+    "longitude": -72.851525,
+    "city": "South Londonderry",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5156,
+    "latitude": 43.40971,
+    "longitude": -72.586064,
+    "city": "Springfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5158,
+    "latitude": 43.082635,
+    "longitude": -72.474882,
+    "city": "Westminster",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5159,
+    "latitude": 43.093972,
+    "longitude": -72.456492,
+    "city": "Westminster Station",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5161,
+    "latitude": 43.316142,
+    "longitude": -72.739715,
+    "city": "Weston",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windsor"
+  },
+  {
+    "zip_code": 5201,
+    "latitude": 42.934076,
+    "longitude": -73.105382,
+    "city": "Bennington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5250,
+    "latitude": 43.065719,
+    "longitude": -73.134727,
+    "city": "Arlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5251,
+    "latitude": 43.261817,
+    "longitude": -73.139173,
+    "city": "Dorset",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5252,
+    "latitude": 43.069409,
+    "longitude": -73.165898,
+    "city": "East Arlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5253,
+    "latitude": 43.182502,
+    "longitude": -73.065443,
+    "city": "East Dorset",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5254,
+    "latitude": 43.177204,
+    "longitude": -73.045787,
+    "city": "Manchester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5255,
+    "latitude": 43.169289,
+    "longitude": -73.047358,
+    "city": "Manchester Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5257,
+    "latitude": 42.966471,
+    "longitude": -73.250529,
+    "city": "North Bennington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5260,
+    "latitude": 42.829469,
+    "longitude": -73.262496,
+    "city": "North Pownal",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5261,
+    "latitude": 42.790682,
+    "longitude": -73.201254,
+    "city": "Pownal",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5262,
+    "latitude": 42.979702,
+    "longitude": -73.192929,
+    "city": "Shaftsbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5301,
+    "latitude": 42.884281,
+    "longitude": -72.760753,
+    "city": "Brattleboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5302,
+    "latitude": 42.99467,
+    "longitude": -72.720362,
+    "city": "Brattleboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5303,
+    "latitude": 42.99467,
+    "longitude": -72.720362,
+    "city": "Brattleboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5304,
+    "latitude": 42.99467,
+    "longitude": -72.720362,
+    "city": "Brattleboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5340,
+    "latitude": 43.16409,
+    "longitude": -72.91514,
+    "city": "Bondville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5341,
+    "latitude": 42.968046,
+    "longitude": -72.812012,
+    "city": "East Dover",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5342,
+    "latitude": 42.795363,
+    "longitude": -72.817838,
+    "city": "Jacksonville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5343,
+    "latitude": 43.012776,
+    "longitude": -72.767275,
+    "city": "Jamaica",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5344,
+    "latitude": 42.99467,
+    "longitude": -72.720362,
+    "city": "Marlboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5345,
+    "latitude": 43.013138,
+    "longitude": -72.678725,
+    "city": "Newfane",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5346,
+    "latitude": 43.016096,
+    "longitude": -72.534025,
+    "city": "Putney",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5350,
+    "latitude": 42.785591,
+    "longitude": -72.971932,
+    "city": "Readsboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5351,
+    "latitude": 42.939071,
+    "longitude": -72.72923,
+    "city": "South Newfane",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5352,
+    "latitude": 42.782616,
+    "longitude": -73.067501,
+    "city": "Stamford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Bennington"
+  },
+  {
+    "zip_code": 5353,
+    "latitude": 43.070341,
+    "longitude": -72.672991,
+    "city": "Townshend",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5354,
+    "latitude": 42.773711,
+    "longitude": -72.520166,
+    "city": "Vernon",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5355,
+    "latitude": 43.00476,
+    "longitude": -72.792004,
+    "city": "Wardsboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5356,
+    "latitude": 43.013041,
+    "longitude": -72.793787,
+    "city": "West Dover",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5357,
+    "latitude": 42.957233,
+    "longitude": -72.62408,
+    "city": "West Dummerston",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5358,
+    "latitude": 42.766519,
+    "longitude": -72.745723,
+    "city": "West Halifax",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5359,
+    "latitude": 43.133864,
+    "longitude": -72.714573,
+    "city": "West Townshend",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5360,
+    "latitude": 43.050937,
+    "longitude": -72.825636,
+    "city": "West Wardsboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5361,
+    "latitude": 42.78318,
+    "longitude": -72.867891,
+    "city": "Whitingham",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5362,
+    "latitude": 42.975027,
+    "longitude": -72.673566,
+    "city": "Williamsville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5363,
+    "latitude": 42.944039,
+    "longitude": -72.727518,
+    "city": "Wilmington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Windham"
+  },
+  {
+    "zip_code": 5401,
+    "latitude": 44.507404,
+    "longitude": -73.151384,
+    "city": "Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5402,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5403,
+    "latitude": 44.448119,
+    "longitude": -73.098238,
+    "city": "South Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5404,
+    "latitude": 44.498032,
+    "longitude": -73.182158,
+    "city": "Winooski",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5405,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5406,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5407,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "South Burlington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5439,
+    "latitude": 44.49518,
+    "longitude": -73.165092,
+    "city": "Colchester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5440,
+    "latitude": 44.93606,
+    "longitude": -73.289065,
+    "city": "Alburg",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Grand Isle"
+  },
+  {
+    "zip_code": 5441,
+    "latitude": 44.836967,
+    "longitude": -72.92169,
+    "city": "Bakersfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5442,
+    "latitude": 44.724842,
+    "longitude": -72.701554,
+    "city": "Belvidere Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5443,
+    "latitude": 44.157814,
+    "longitude": -73.071813,
+    "city": "Bristol",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5444,
+    "latitude": 44.62218,
+    "longitude": -72.881162,
+    "city": "Cambridge",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5445,
+    "latitude": 44.31658,
+    "longitude": -73.226034,
+    "city": "Charlotte",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5446,
+    "latitude": 44.535557,
+    "longitude": -73.103897,
+    "city": "Colchester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5447,
+    "latitude": 44.824855,
+    "longitude": -72.895849,
+    "city": "East Berkshire",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5448,
+    "latitude": 44.741186,
+    "longitude": -72.882683,
+    "city": "East Fairfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5449,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "Colchester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5450,
+    "latitude": 44.902044,
+    "longitude": -72.782425,
+    "city": "Enosburg Falls",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5451,
+    "latitude": 44.50835,
+    "longitude": -73.050271,
+    "city": "Essex",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5452,
+    "latitude": 44.485558,
+    "longitude": -73.025271,
+    "city": "Essex Junction",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5453,
+    "latitude": 44.442117,
+    "longitude": -73.082525,
+    "city": "Essex Junction",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5454,
+    "latitude": 44.733486,
+    "longitude": -72.953478,
+    "city": "Fairfax",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5455,
+    "latitude": 44.816159,
+    "longitude": -72.969743,
+    "city": "Fairfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5456,
+    "latitude": 44.210886,
+    "longitude": -73.256629,
+    "city": "Ferrisburg",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5457,
+    "latitude": 44.96038,
+    "longitude": -72.913261,
+    "city": "Franklin",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5458,
+    "latitude": 44.723391,
+    "longitude": -73.303193,
+    "city": "Grand Isle",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Grand Isle"
+  },
+  {
+    "zip_code": 5459,
+    "latitude": 44.962395,
+    "longitude": -73.033062,
+    "city": "Highgate Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5460,
+    "latitude": 44.974765,
+    "longitude": -73.105205,
+    "city": "Highgate Springs",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5461,
+    "latitude": 44.4553,
+    "longitude": -73.067858,
+    "city": "Hinesburg",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5462,
+    "latitude": 44.318091,
+    "longitude": -73.006184,
+    "city": "Huntington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5463,
+    "latitude": 44.878094,
+    "longitude": -73.338597,
+    "city": "Isle La Motte",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Grand Isle"
+  },
+  {
+    "zip_code": 5464,
+    "latitude": 44.638789,
+    "longitude": -72.82199,
+    "city": "Jeffersonville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5465,
+    "latitude": 44.458996,
+    "longitude": -72.955175,
+    "city": "Jericho",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5466,
+    "latitude": 44.362504,
+    "longitude": -73.019801,
+    "city": "Jonesville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5468,
+    "latitude": 44.643418,
+    "longitude": -73.121685,
+    "city": "Milton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5469,
+    "latitude": 44.240375,
+    "longitude": -73.134702,
+    "city": "Monkton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5470,
+    "latitude": 44.824855,
+    "longitude": -72.895849,
+    "city": "Montgomery",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5471,
+    "latitude": 44.848241,
+    "longitude": -72.619812,
+    "city": "Montgomery Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5472,
+    "latitude": 44.149509,
+    "longitude": -73.197156,
+    "city": "New Haven",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5473,
+    "latitude": 44.239233,
+    "longitude": -73.205939,
+    "city": "North Ferrisburg",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5474,
+    "latitude": 44.835274,
+    "longitude": -73.277846,
+    "city": "North Hero",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Grand Isle"
+  },
+  {
+    "zip_code": 5476,
+    "latitude": 44.952669,
+    "longitude": -72.65435,
+    "city": "Richford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5477,
+    "latitude": 44.387289,
+    "longitude": -72.953283,
+    "city": "Richmond",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5478,
+    "latitude": 44.779982,
+    "longitude": -72.908985,
+    "city": "Saint Albans",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5479,
+    "latitude": 44.824855,
+    "longitude": -72.895849,
+    "city": "Saint Albans",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5481,
+    "latitude": 44.824855,
+    "longitude": -72.895849,
+    "city": "Saint Albans Bay",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5482,
+    "latitude": 44.42493,
+    "longitude": -73.114047,
+    "city": "Shelburne",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5483,
+    "latitude": 44.897751,
+    "longitude": -72.961075,
+    "city": "Sheldon",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5485,
+    "latitude": 44.905573,
+    "longitude": -72.963154,
+    "city": "Sheldon Springs",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5486,
+    "latitude": 44.738156,
+    "longitude": -73.306352,
+    "city": "South Hero",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Grand Isle"
+  },
+  {
+    "zip_code": 5487,
+    "latitude": 44.235203,
+    "longitude": -73.02086,
+    "city": "Starksboro",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5488,
+    "latitude": 44.902128,
+    "longitude": -72.948391,
+    "city": "Swanton",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 5489,
+    "latitude": 44.565148,
+    "longitude": -72.907209,
+    "city": "Underhill",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5490,
+    "latitude": 44.504656,
+    "longitude": -72.885253,
+    "city": "Underhill Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5491,
+    "latitude": 44.145691,
+    "longitude": -73.260487,
+    "city": "Vergennes",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5492,
+    "latitude": 44.736083,
+    "longitude": -72.703199,
+    "city": "Waterville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5494,
+    "latitude": 44.56959,
+    "longitude": -73.025541,
+    "city": "Westford",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5495,
+    "latitude": 44.430096,
+    "longitude": -73.026735,
+    "city": "Williston",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Chittenden"
+  },
+  {
+    "zip_code": 5501,
+    "latitude": 42.647191,
+    "longitude": -71.184202,
+    "city": "Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 5544,
+    "latitude": 42.647191,
+    "longitude": -71.184202,
+    "city": "Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 5601,
+    "latitude": 44.19906,
+    "longitude": -72.559638,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5602,
+    "latitude": 44.26829,
+    "longitude": -72.623619,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5603,
+    "latitude": 44.156554,
+    "longitude": -72.655892,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5604,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5609,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5620,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5633,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5640,
+    "latitude": 44.174872,
+    "longitude": -72.502235,
+    "city": "Adamant",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5641,
+    "latitude": 44.20896,
+    "longitude": -72.607693,
+    "city": "Barre",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5647,
+    "latitude": 44.266228,
+    "longitude": -72.530473,
+    "city": "Cabot",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5648,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Calais",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5649,
+    "latitude": 44.157636,
+    "longitude": -72.453261,
+    "city": "East Barre",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5650,
+    "latitude": 44.407044,
+    "longitude": -72.498572,
+    "city": "East Calais",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5651,
+    "latitude": 44.279376,
+    "longitude": -72.49657,
+    "city": "East Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5652,
+    "latitude": 44.718619,
+    "longitude": -72.57821,
+    "city": "Eden",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5653,
+    "latitude": 44.701158,
+    "longitude": -72.479642,
+    "city": "Eden Mills",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5654,
+    "latitude": 44.155438,
+    "longitude": -72.484706,
+    "city": "Graniteville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5655,
+    "latitude": 44.560808,
+    "longitude": -72.590031,
+    "city": "Hyde Park",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5656,
+    "latitude": 44.642603,
+    "longitude": -72.735911,
+    "city": "Johnson",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5657,
+    "latitude": 44.599905,
+    "longitude": -72.647519,
+    "city": "Lake Elmore",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5658,
+    "latitude": 44.374874,
+    "longitude": -72.329902,
+    "city": "Marshfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5660,
+    "latitude": 44.270817,
+    "longitude": -72.786431,
+    "city": "Moretown",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5661,
+    "latitude": 44.560179,
+    "longitude": -72.615346,
+    "city": "Morrisville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5662,
+    "latitude": 44.442001,
+    "longitude": -72.718759,
+    "city": "Moscow",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5663,
+    "latitude": 44.180906,
+    "longitude": -72.678854,
+    "city": "Northfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5664,
+    "latitude": 44.183536,
+    "longitude": -72.646591,
+    "city": "Northfield Falls",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5665,
+    "latitude": 44.67307,
+    "longitude": -72.597057,
+    "city": "North Hyde Park",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5666,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "North Montpelier",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5667,
+    "latitude": 44.283708,
+    "longitude": -72.552243,
+    "city": "Plainfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5669,
+    "latitude": 44.028005,
+    "longitude": -73.089655,
+    "city": "Roxbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Addison"
+  },
+  {
+    "zip_code": 5670,
+    "latitude": 44.175744,
+    "longitude": -72.50247,
+    "city": "South Barre",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5671,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Waterbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5672,
+    "latitude": 44.535179,
+    "longitude": -72.660043,
+    "city": "Stowe",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5673,
+    "latitude": 44.192186,
+    "longitude": -72.843868,
+    "city": "Waitsfield",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5674,
+    "latitude": 44.217175,
+    "longitude": -72.820401,
+    "city": "Warren",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5675,
+    "latitude": 44.078238,
+    "longitude": -72.426322,
+    "city": "Washington",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5676,
+    "latitude": 44.259608,
+    "longitude": -72.781143,
+    "city": "Waterbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5677,
+    "latitude": 44.389313,
+    "longitude": -72.708616,
+    "city": "Waterbury Center",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5678,
+    "latitude": 44.155782,
+    "longitude": -72.46581,
+    "city": "Websterville",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5679,
+    "latitude": 44.103841,
+    "longitude": -72.526916,
+    "city": "Williamstown",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 5680,
+    "latitude": 44.539539,
+    "longitude": -72.487589,
+    "city": "Wolcott",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Lamoille"
+  },
+  {
+    "zip_code": 5681,
+    "latitude": 44.259518,
+    "longitude": -72.585018,
+    "city": "Woodbury",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5682,
+    "latitude": 44.343536,
+    "longitude": -72.575645,
+    "city": "Worcester",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 5701,
+    "latitude": 43.630346,
+    "longitude": -72.93586,
+    "city": "Rutland",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Rutland"
+  },
+  {
+    "zip_code": 5702,
+    "latitude": 43.412792,
+    "longitude": -72.990632,
+    "city": "Rutland",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Rutland"
+  },
+  {
+    "zip_code": 5730,
+    "latitude": 43.420978,
+    "longitude": -72.828524,
+    "city": "Belmont",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Rutland"
+  },
+  {
+    "zip_code": 5731,
+    "latitude": 43.687677,
+    "longitude": -73.291868,
+    "city": "Benson",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Rutland"
+  },
+  {
+    "zip_code": 5732,
+    "latitude": 43.643723,
+    "longitude": -73.209356,
+    "city": "Bomoseen",
+    "state": "VT",
+    "full_state": "Vermont",
+    "county": "Rutland"
+  }
+]

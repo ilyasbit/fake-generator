@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 24105,
+    "latitude": 36.90035,
+    "longitude": -80.585888,
+    "city": "Indian Valley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 24111,
+    "latitude": 37.174227,
+    "longitude": -80.395698,
+    "city": "Mc Coy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24112,
+    "latitude": 36.681298,
+    "longitude": -79.86626,
+    "city": "Martinsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Martinsville City"
+  },
+  {
+    "zip_code": 24113,
+    "latitude": 36.679571,
+    "longitude": -79.865168,
+    "city": "Martinsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Martinsville City"
+  },
+  {
+    "zip_code": 24114,
+    "latitude": 36.679571,
+    "longitude": -79.865168,
+    "city": "Martinsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Martinsville City"
+  },
+  {
+    "zip_code": 24115,
+    "latitude": 36.679571,
+    "longitude": -79.865168,
+    "city": "Martinsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Martinsville City"
+  },
+  {
+    "zip_code": 24120,
+    "latitude": 36.700218,
+    "longitude": -80.353031,
+    "city": "Meadows Of Dan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24121,
+    "latitude": 37.185024,
+    "longitude": -79.563579,
+    "city": "Moneta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24122,
+    "latitude": 37.419582,
+    "longitude": -79.710746,
+    "city": "Montvale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24124,
+    "latitude": 37.342026,
+    "longitude": -80.762866,
+    "city": "Narrows",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24126,
+    "latitude": 37.069206,
+    "longitude": -80.689067,
+    "city": "Newbern",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24127,
+    "latitude": 37.498957,
+    "longitude": -80.138591,
+    "city": "New Castle",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Craig"
+  },
+  {
+    "zip_code": 24128,
+    "latitude": 37.331516,
+    "longitude": -80.523039,
+    "city": "Newport",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24129,
+    "latitude": 37.096403,
+    "longitude": -80.608056,
+    "city": "New River",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24130,
+    "latitude": 37.555083,
+    "longitude": -79.786151,
+    "city": "Oriskany",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24131,
+    "latitude": 37.488235,
+    "longitude": -80.222319,
+    "city": "Paint Bank",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Craig"
+  },
+  {
+    "zip_code": 24132,
+    "latitude": 37.204788,
+    "longitude": -80.620517,
+    "city": "Parrott",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24133,
+    "latitude": 36.682193,
+    "longitude": -80.136393,
+    "city": "Patrick Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24134,
+    "latitude": 37.261147,
+    "longitude": -80.74373,
+    "city": "Pearisburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24136,
+    "latitude": 37.35623,
+    "longitude": -80.690234,
+    "city": "Pembroke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24137,
+    "latitude": 36.934169,
+    "longitude": -79.682503,
+    "city": "Penhook",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24138,
+    "latitude": 37.06488,
+    "longitude": -80.32637,
+    "city": "Pilot",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24139,
+    "latitude": 36.995808,
+    "longitude": -79.470112,
+    "city": "Pittsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24141,
+    "latitude": 37.119732,
+    "longitude": -80.556541,
+    "city": "Radford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Radford"
+  },
+  {
+    "zip_code": 24142,
+    "latitude": 37.138733,
+    "longitude": -80.54802,
+    "city": "Radford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Radford"
+  },
+  {
+    "zip_code": 24143,
+    "latitude": 37.122583,
+    "longitude": -80.562913,
+    "city": "Radford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Radford"
+  },
+  {
+    "zip_code": 24146,
+    "latitude": 37.006912,
+    "longitude": -79.913875,
+    "city": "Redwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24147,
+    "latitude": 37.363616,
+    "longitude": -80.749864,
+    "city": "Rich Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24148,
+    "latitude": 36.650725,
+    "longitude": -79.854972,
+    "city": "Ridgeway",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24149,
+    "latitude": 37.057894,
+    "longitude": -80.436385,
+    "city": "Riner",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24150,
+    "latitude": 37.37067,
+    "longitude": -80.662674,
+    "city": "Ripplemead",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24151,
+    "latitude": 36.995127,
+    "longitude": -79.852489,
+    "city": "Rocky Mount",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24153,
+    "latitude": 37.28814,
+    "longitude": -80.067762,
+    "city": "Salem",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 24155,
+    "latitude": 37.288384,
+    "longitude": -80.067062,
+    "city": "Salem",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 24156,
+    "latitude": 37.288384,
+    "longitude": -80.067062,
+    "city": "Salem",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 24157,
+    "latitude": 37.288384,
+    "longitude": -80.067062,
+    "city": "Salem",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 24161,
+    "latitude": 36.982776,
+    "longitude": -79.548523,
+    "city": "Sandy Level",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24162,
+    "latitude": 37.152878,
+    "longitude": -80.263621,
+    "city": "Shawsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24165,
+    "latitude": 36.593912,
+    "longitude": -80.005233,
+    "city": "Spencer",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24167,
+    "latitude": 37.314577,
+    "longitude": -80.722619,
+    "city": "Staffordsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24168,
+    "latitude": 36.688926,
+    "longitude": -79.944745,
+    "city": "Stanleytown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24171,
+    "latitude": 36.689183,
+    "longitude": -80.251601,
+    "city": "Stuart",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24174,
+    "latitude": 37.350092,
+    "longitude": -79.69189,
+    "city": "Thaxton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24175,
+    "latitude": 37.416128,
+    "longitude": -79.924765,
+    "city": "Troutville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24176,
+    "latitude": 37.014893,
+    "longitude": -79.757636,
+    "city": "Union Hall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24177,
+    "latitude": 36.724064,
+    "longitude": -80.35806,
+    "city": "Vesta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24178,
+    "latitude": 37.310494,
+    "longitude": -79.789799,
+    "city": "Villamont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24179,
+    "latitude": 37.275674,
+    "longitude": -79.877505,
+    "city": "Vinton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24184,
+    "latitude": 37.104127,
+    "longitude": -79.799315,
+    "city": "Wirtz",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24185,
+    "latitude": 36.741838,
+    "longitude": -80.267112,
+    "city": "Woolwine",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24201,
+    "latitude": 36.613815,
+    "longitude": -82.176238,
+    "city": "Bristol",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 24202,
+    "latitude": 36.621571,
+    "longitude": -82.167633,
+    "city": "Bristol",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 24203,
+    "latitude": 36.761613,
+    "longitude": -81.968712,
+    "city": "Bristol",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 24209,
+    "latitude": 36.761613,
+    "longitude": -81.968712,
+    "city": "Bristol",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 24210,
+    "latitude": 36.740217,
+    "longitude": -82.026738,
+    "city": "Abingdon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24211,
+    "latitude": 36.66726,
+    "longitude": -81.964801,
+    "city": "Abingdon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24212,
+    "latitude": 36.690942,
+    "longitude": -81.970764,
+    "city": "Abingdon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24215,
+    "latitude": 36.923445,
+    "longitude": -82.796445,
+    "city": "Andover",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24216,
+    "latitude": 36.940452,
+    "longitude": -82.665879,
+    "city": "Appalachia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24217,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Bee",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24218,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Ben Hur",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24219,
+    "latitude": 36.894806,
+    "longitude": -82.654215,
+    "city": "Big Stone Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24220,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Birchleaf",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24221,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Blackwater",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24224,
+    "latitude": 37.043978,
+    "longitude": -81.855318,
+    "city": "Castlewood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24225,
+    "latitude": 36.925928,
+    "longitude": -82.093586,
+    "city": "Cleveland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24226,
+    "latitude": 37.159677,
+    "longitude": -82.358274,
+    "city": "Clinchco",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24228,
+    "latitude": 37.149797,
+    "longitude": -82.463069,
+    "city": "Clintwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24230,
+    "latitude": 36.971586,
+    "longitude": -82.475496,
+    "city": "Coeburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24236,
+    "latitude": 36.645463,
+    "longitude": -81.742678,
+    "city": "Damascus",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24237,
+    "latitude": 36.925928,
+    "longitude": -82.093586,
+    "city": "Dante",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24239,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Davenport",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24243,
+    "latitude": 36.771579,
+    "longitude": -82.927728,
+    "city": "Dryden",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24244,
+    "latitude": 36.711382,
+    "longitude": -82.833676,
+    "city": "Duffield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24245,
+    "latitude": 36.828738,
+    "longitude": -82.471457,
+    "city": "Dungannon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24246,
+    "latitude": 36.864429,
+    "longitude": -82.737469,
+    "city": "East Stone Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24248,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Ewing",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24250,
+    "latitude": 36.739474,
+    "longitude": -82.639637,
+    "city": "Fort Blackmore",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24251,
+    "latitude": 36.621664,
+    "longitude": -82.542414,
+    "city": "Gate City",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24256,
+    "latitude": 37.18399,
+    "longitude": -82.323976,
+    "city": "Haysi",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24258,
+    "latitude": 36.739474,
+    "longitude": -82.639637,
+    "city": "Hiltons",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24260,
+    "latitude": 36.963056,
+    "longitude": -82.01331,
+    "city": "Honaker",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24263,
+    "latitude": 36.6885,
+    "longitude": -83.114212,
+    "city": "Jonesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24265,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Keokee",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24266,
+    "latitude": 36.908553,
+    "longitude": -82.053655,
+    "city": "Lebanon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24269,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Mc Clure",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24270,
+    "latitude": 36.721945,
+    "longitude": -82.256139,
+    "city": "Mendota",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24271,
+    "latitude": 36.762954,
+    "longitude": -82.399015,
+    "city": "Nickelsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24272,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Nora",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24273,
+    "latitude": 36.93767,
+    "longitude": -82.622624,
+    "city": "Norton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norton City"
+  },
+  {
+    "zip_code": 24277,
+    "latitude": 36.75823,
+    "longitude": -83.032536,
+    "city": "Pennington Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24279,
+    "latitude": 37.088727,
+    "longitude": -82.623231,
+    "city": "Pound",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24280,
+    "latitude": 36.95095,
+    "longitude": -81.964938,
+    "city": "Rosedale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24281,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Rose Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24282,
+    "latitude": 36.743491,
+    "longitude": -83.22336,
+    "city": "Saint Charles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 24283,
+    "latitude": 36.936767,
+    "longitude": -82.364288,
+    "city": "Saint Paul",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24285,
+    "latitude": 36.950943,
+    "longitude": -82.786715,
+    "city": "Stonega",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24289,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Trammel",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24290,
+    "latitude": 36.613714,
+    "longitude": -82.561825,
+    "city": "Weber City",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 24292,
+    "latitude": 36.608229,
+    "longitude": -81.584934,
+    "city": "Whitetop",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24293,
+    "latitude": 37.002843,
+    "longitude": -82.570697,
+    "city": "Wise",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wise"
+  },
+  {
+    "zip_code": 24301,
+    "latitude": 37.064714,
+    "longitude": -80.771241,
+    "city": "Pulaski",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24311,
+    "latitude": 36.869374,
+    "longitude": -81.399235,
+    "city": "Atkins",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24312,
+    "latitude": 36.854655,
+    "longitude": -80.922512,
+    "city": "Austinville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24313,
+    "latitude": 36.897395,
+    "longitude": -80.789443,
+    "city": "Barren Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24314,
+    "latitude": 37.127348,
+    "longitude": -81.15842,
+    "city": "Bastian",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bland"
+  },
+  {
+    "zip_code": 24315,
+    "latitude": 37.127348,
+    "longitude": -81.15842,
+    "city": "Bland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bland"
+  },
+  {
+    "zip_code": 24316,
+    "latitude": 36.941611,
+    "longitude": -81.620331,
+    "city": "Broadford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24317,
+    "latitude": 36.664788,
+    "longitude": -80.729669,
+    "city": "Cana",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24318,
+    "latitude": 37.127348,
+    "longitude": -81.15842,
+    "city": "Ceres",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bland"
+  },
+  {
+    "zip_code": 24319,
+    "latitude": 36.798213,
+    "longitude": -81.617482,
+    "city": "Chilhowie",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24322,
+    "latitude": 36.81781,
+    "longitude": -81.111146,
+    "city": "Cripple Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24323,
+    "latitude": 36.871709,
+    "longitude": -81.198867,
+    "city": "Crockett",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24324,
+    "latitude": 36.981684,
+    "longitude": -80.774844,
+    "city": "Draper",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24325,
+    "latitude": 36.812134,
+    "longitude": -80.58895,
+    "city": "Dugspur",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24326,
+    "latitude": 36.718676,
+    "longitude": -81.187968,
+    "city": "Elk Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24327,
+    "latitude": 36.779961,
+    "longitude": -81.817064,
+    "city": "Emory",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24328,
+    "latitude": 36.667972,
+    "longitude": -80.675229,
+    "city": "Fancy Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24330,
+    "latitude": 36.712696,
+    "longitude": -81.042703,
+    "city": "Fries",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24333,
+    "latitude": 36.660281,
+    "longitude": -80.913605,
+    "city": "Galax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Galax City"
+  },
+  {
+    "zip_code": 24340,
+    "latitude": 36.74578,
+    "longitude": -81.773242,
+    "city": "Glade Spring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24343,
+    "latitude": 36.730347,
+    "longitude": -80.67507,
+    "city": "Hillsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24347,
+    "latitude": 36.975578,
+    "longitude": -80.669513,
+    "city": "Hiwassee",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24348,
+    "latitude": 36.638835,
+    "longitude": -81.194296,
+    "city": "Independence",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24350,
+    "latitude": 36.915513,
+    "longitude": -81.059955,
+    "city": "Ivanhoe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24351,
+    "latitude": 36.58637,
+    "longitude": -80.759966,
+    "city": "Lambsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24352,
+    "latitude": 36.711129,
+    "longitude": -80.535146,
+    "city": "Laurel Fork",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24354,
+    "latitude": 36.832324,
+    "longitude": -81.597841,
+    "city": "Marion",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24360,
+    "latitude": 36.905629,
+    "longitude": -80.924423,
+    "city": "Max Meadows",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24361,
+    "latitude": 36.752637,
+    "longitude": -81.848288,
+    "city": "Meadowview",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 24363,
+    "latitude": 36.657529,
+    "longitude": -81.367509,
+    "city": "Mouth Of Wilson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24366,
+    "latitude": 37.127348,
+    "longitude": -81.15842,
+    "city": "Rocky Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bland"
+  },
+  {
+    "zip_code": 24368,
+    "latitude": 36.880988,
+    "longitude": -81.25526,
+    "city": "Rural Retreat",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24370,
+    "latitude": 36.906696,
+    "longitude": -81.645388,
+    "city": "Saltville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24373,
+    "latitude": 36.826371,
+    "longitude": -81.549231,
+    "city": "Seven Mile Ford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24374,
+    "latitude": 36.802255,
+    "longitude": -81.206262,
+    "city": "Speedwell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24375,
+    "latitude": 36.787066,
+    "longitude": -81.388192,
+    "city": "Sugar Grove",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Smyth"
+  },
+  {
+    "zip_code": 24377,
+    "latitude": 37.006018,
+    "longitude": -81.570038,
+    "city": "Tannersville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24378,
+    "latitude": 36.688587,
+    "longitude": -81.361748,
+    "city": "Trout Dale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24379,
+    "latitude": 36.682782,
+    "longitude": -81.257795,
+    "city": "Volney",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 24380,
+    "latitude": 36.881393,
+    "longitude": -80.504784,
+    "city": "Willis",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 24381,
+    "latitude": 36.694308,
+    "longitude": -80.776569,
+    "city": "Woodlawn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 24382,
+    "latitude": 36.92855,
+    "longitude": -81.146559,
+    "city": "Wytheville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Wythe"
+  },
+  {
+    "zip_code": 24401,
+    "latitude": 38.157368,
+    "longitude": -79.065116,
+    "city": "Staunton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Staunton City"
+  },
+  {
+    "zip_code": 24402,
+    "latitude": 38.159275,
+    "longitude": -79.062858,
+    "city": "Staunton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Staunton City"
+  },
+  {
+    "zip_code": 24407,
+    "latitude": 38.179715,
+    "longitude": -79.141332,
+    "city": "Staunton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24411,
+    "latitude": 38.091705,
+    "longitude": -79.322363,
+    "city": "Augusta Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24412,
+    "latitude": 38.055311,
+    "longitude": -79.746367,
+    "city": "Bacova",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 24413,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Blue Grass",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24415,
+    "latitude": 37.926477,
+    "longitude": -79.329162,
+    "city": "Brownsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24416,
+    "latitude": 37.730001,
+    "longitude": -79.355121,
+    "city": "Buena Vista",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buena Vista City"
+  },
+  {
+    "zip_code": 24421,
+    "latitude": 38.243395,
+    "longitude": -79.173229,
+    "city": "Churchville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24422,
+    "latitude": 37.824232,
+    "longitude": -79.823119,
+    "city": "Clifton Forge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Clifton Forge City"
+  },
+  {
+    "zip_code": 24426,
+    "latitude": 37.780216,
+    "longitude": -79.986963,
+    "city": "Covington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Covington City"
+  },
+  {
+    "zip_code": 24430,
+    "latitude": 38.073868,
+    "longitude": -79.359123,
+    "city": "Craigsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24431,
+    "latitude": 38.153856,
+    "longitude": -78.860085,
+    "city": "Crimora",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24432,
+    "latitude": 38.139476,
+    "longitude": -79.373366,
+    "city": "Deerfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24433,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Doe Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24435,
+    "latitude": 37.875396,
+    "longitude": -79.298708,
+    "city": "Fairfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24437,
+    "latitude": 38.2064,
+    "longitude": -78.941138,
+    "city": "Fort Defiance",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24438,
+    "latitude": 37.555083,
+    "longitude": -79.786151,
+    "city": "Glen Wilton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24439,
+    "latitude": 37.978313,
+    "longitude": -79.503429,
+    "city": "Goshen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24440,
+    "latitude": 37.983435,
+    "longitude": -79.175646,
+    "city": "Greenville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24441,
+    "latitude": 38.272465,
+    "longitude": -78.805841,
+    "city": "Grottoes",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 24442,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Head Waters",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24445,
+    "latitude": 37.994443,
+    "longitude": -79.831593,
+    "city": "Hot Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 24448,
+    "latitude": 37.796454,
+    "longitude": -79.785987,
+    "city": "Iron Gate",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alleghany"
+  },
+  {
+    "zip_code": 24450,
+    "latitude": 37.779976,
+    "longitude": -79.443495,
+    "city": "Lexington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lexington City"
+  },
+  {
+    "zip_code": 24457,
+    "latitude": 37.780396,
+    "longitude": -79.88283,
+    "city": "Low Moor",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alleghany"
+  },
+  {
+    "zip_code": 24458,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Mc Dowell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24459,
+    "latitude": 38.042838,
+    "longitude": -79.242427,
+    "city": "Middlebrook",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24460,
+    "latitude": 38.055311,
+    "longitude": -79.746367,
+    "city": "Millboro",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 24463,
+    "latitude": 38.179715,
+    "longitude": -79.141332,
+    "city": "Mint Spring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24464,
+    "latitude": 37.865358,
+    "longitude": -79.0804,
+    "city": "Montebello",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 24465,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Monterey",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24467,
+    "latitude": 38.242038,
+    "longitude": -78.96826,
+    "city": "Mount Sidney",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24468,
+    "latitude": 38.385967,
+    "longitude": -79.559157,
+    "city": "Mustoe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 24469,
+    "latitude": 38.179715,
+    "longitude": -79.141332,
+    "city": "New Hope",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24471,
+    "latitude": 38.322592,
+    "longitude": -78.788649,
+    "city": "Port Republic",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 24472,
+    "latitude": 37.941296,
+    "longitude": -79.276332,
+    "city": "Raphine",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24473,
+    "latitude": 37.883036,
+    "longitude": -79.448586,
+    "city": "Rockbridge Baths",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24474,
+    "latitude": 37.806241,
+    "longitude": -79.840421,
+    "city": "Selma",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alleghany"
+  },
+  {
+    "zip_code": 24476,
+    "latitude": 38.179715,
+    "longitude": -79.141332,
+    "city": "Steeles Tavern",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24477,
+    "latitude": 37.973609,
+    "longitude": -79.065951,
+    "city": "Stuarts Draft",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24479,
+    "latitude": 38.188328,
+    "longitude": -79.211901,
+    "city": "Swoope",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24482,
+    "latitude": 38.210585,
+    "longitude": -78.989369,
+    "city": "Verona",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24483,
+    "latitude": 37.859217,
+    "longitude": -79.230686,
+    "city": "Vesuvius",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24484,
+    "latitude": 38.055311,
+    "longitude": -79.746367,
+    "city": "Warm Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 24485,
+    "latitude": 38.174227,
+    "longitude": -79.209622,
+    "city": "West Augusta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24486,
+    "latitude": 38.282326,
+    "longitude": -78.946136,
+    "city": "Weyers Cave",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 24487,
+    "latitude": 38.055311,
+    "longitude": -79.746367,
+    "city": "Williamsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bath"
+  },
+  {
+    "zip_code": 24501,
+    "latitude": 37.383112,
+    "longitude": -79.178326,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24502,
+    "latitude": 37.382542,
+    "longitude": -79.218121,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24503,
+    "latitude": 37.408091,
+    "longitude": -79.209247,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24504,
+    "latitude": 37.405242,
+    "longitude": -79.125261,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24505,
+    "latitude": 37.400944,
+    "longitude": -79.178506,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24506,
+    "latitude": 37.381692,
+    "longitude": -79.161046,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24512,
+    "latitude": 37.242503,
+    "longitude": -79.109789,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24513,
+    "latitude": 37.245798,
+    "longitude": -79.133546,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24514,
+    "latitude": 37.400944,
+    "longitude": -79.178506,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24515,
+    "latitude": 37.400944,
+    "longitude": -79.178506,
+    "city": "Lynchburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lynchburg City"
+  },
+  {
+    "zip_code": 24517,
+    "latitude": 37.225543,
+    "longitude": -79.24118,
+    "city": "Altavista",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24520,
+    "latitude": 36.596827,
+    "longitude": -79.043054,
+    "city": "Alton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24521,
+    "latitude": 37.59162,
+    "longitude": -79.108441,
+    "city": "Amherst",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amherst"
+  },
+  {
+    "zip_code": 24522,
+    "latitude": 37.356134,
+    "longitude": -78.848202,
+    "city": "Appomattox",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Appomattox"
+  },
+  {
+    "zip_code": 24523,
+    "latitude": 37.336027,
+    "longitude": -79.522585,
+    "city": "Bedford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford City"
+  },
+  {
+    "zip_code": 24526,
+    "latitude": 37.516659,
+    "longitude": -79.38752,
+    "city": "Big Island",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24527,
+    "latitude": 36.710176,
+    "longitude": -79.3381,
+    "city": "Blairs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24528,
+    "latitude": 37.117502,
+    "longitude": -79.074279,
+    "city": "Brookneal",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24529,
+    "latitude": 36.61405,
+    "longitude": -78.641645,
+    "city": "Buffalo Junction",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 24530,
+    "latitude": 36.785155,
+    "longitude": -79.60708,
+    "city": "Callands",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24531,
+    "latitude": 36.830785,
+    "longitude": -79.412735,
+    "city": "Chatham",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24533,
+    "latitude": 37.537969,
+    "longitude": -78.946324,
+    "city": "Clifford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amherst"
+  },
+  {
+    "zip_code": 24534,
+    "latitude": 36.875823,
+    "longitude": -78.748218,
+    "city": "Clover",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24535,
+    "latitude": 36.611317,
+    "longitude": -78.945519,
+    "city": "Cluster Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24536,
+    "latitude": 37.496433,
+    "longitude": -79.305838,
+    "city": "Coleman Falls",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24538,
+    "latitude": 37.296071,
+    "longitude": -78.949355,
+    "city": "Concord",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24539,
+    "latitude": 36.866093,
+    "longitude": -78.831701,
+    "city": "Crystal Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24540,
+    "latitude": 36.603501,
+    "longitude": -79.376228,
+    "city": "Danville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Danville City"
+  },
+  {
+    "zip_code": 24541,
+    "latitude": 36.577505,
+    "longitude": -79.441637,
+    "city": "Danville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Danville City"
+  },
+  {
+    "zip_code": 24543,
+    "latitude": 36.592679,
+    "longitude": -79.410983,
+    "city": "Danville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Danville City"
+  },
+  {
+    "zip_code": 24544,
+    "latitude": 36.592679,
+    "longitude": -79.410983,
+    "city": "Danville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Danville City"
+  },
+  {
+    "zip_code": 24549,
+    "latitude": 36.704919,
+    "longitude": -79.502331,
+    "city": "Dry Fork",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24550,
+    "latitude": 37.243659,
+    "longitude": -79.270958,
+    "city": "Evington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24551,
+    "latitude": 37.372437,
+    "longitude": -79.318718,
+    "city": "Forest",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24553,
+    "latitude": 37.58939,
+    "longitude": -78.860834,
+    "city": "Gladstone",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 24554,
+    "latitude": 37.148585,
+    "longitude": -79.111743,
+    "city": "Gladys",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24555,
+    "latitude": 37.732638,
+    "longitude": -79.525212,
+    "city": "Glasgow",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24556,
+    "latitude": 37.375464,
+    "longitude": -79.403888,
+    "city": "Goode",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24557,
+    "latitude": 36.983015,
+    "longitude": -79.321101,
+    "city": "Gretna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24558,
+    "latitude": 36.783814,
+    "longitude": -78.964257,
+    "city": "Halifax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24562,
+    "latitude": 37.751112,
+    "longitude": -78.631326,
+    "city": "Howardsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 24563,
+    "latitude": 37.038301,
+    "longitude": -79.36393,
+    "city": "Hurt",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24565,
+    "latitude": 36.846278,
+    "longitude": -79.207927,
+    "city": "Java",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24566,
+    "latitude": 36.721431,
+    "longitude": -79.255522,
+    "city": "Keeling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24569,
+    "latitude": 37.093523,
+    "longitude": -79.081614,
+    "city": "Long Island",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24570,
+    "latitude": 37.333936,
+    "longitude": -79.406303,
+    "city": "Lowry",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24571,
+    "latitude": 37.141308,
+    "longitude": -79.359182,
+    "city": "Lynch Station",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24572,
+    "latitude": 37.475715,
+    "longitude": -79.140618,
+    "city": "Madison Heights",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amherst"
+  },
+  {
+    "zip_code": 24574,
+    "latitude": 37.544326,
+    "longitude": -79.244826,
+    "city": "Monroe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amherst"
+  },
+  {
+    "zip_code": 24576,
+    "latitude": 37.245798,
+    "longitude": -79.133546,
+    "city": "Naruna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24577,
+    "latitude": 36.811672,
+    "longitude": -78.962546,
+    "city": "Nathalie",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24578,
+    "latitude": 37.677211,
+    "longitude": -79.550792,
+    "city": "Natural Bridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24579,
+    "latitude": 37.59797,
+    "longitude": -79.525047,
+    "city": "Natural Bridge Station",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockbridge"
+  },
+  {
+    "zip_code": 24580,
+    "latitude": 36.589478,
+    "longitude": -78.67745,
+    "city": "Nelson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 24581,
+    "latitude": 37.640813,
+    "longitude": -78.803767,
+    "city": "Norwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 24585,
+    "latitude": 36.801515,
+    "longitude": -78.883933,
+    "city": "Republican Grove",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24586,
+    "latitude": 36.6136,
+    "longitude": -79.276568,
+    "city": "Ringgold",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24588,
+    "latitude": 37.283924,
+    "longitude": -79.090832,
+    "city": "Rustburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Campbell"
+  },
+  {
+    "zip_code": 24589,
+    "latitude": 36.777629,
+    "longitude": -78.778726,
+    "city": "Scottsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24590,
+    "latitude": 37.846277,
+    "longitude": -78.529827,
+    "city": "Scottsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 24592,
+    "latitude": 36.679767,
+    "longitude": -78.952947,
+    "city": "South Boston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24593,
+    "latitude": 37.344169,
+    "longitude": -78.918241,
+    "city": "Spout Spring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Appomattox"
+  },
+  {
+    "zip_code": 24594,
+    "latitude": 36.668449,
+    "longitude": -79.355493,
+    "city": "Sutherlin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24595,
+    "latitude": 37.567427,
+    "longitude": -79.075617,
+    "city": "Sweet Briar",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amherst"
+  },
+  {
+    "zip_code": 24597,
+    "latitude": 36.838178,
+    "longitude": -79.067906,
+    "city": "Vernon Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24598,
+    "latitude": 36.616452,
+    "longitude": -78.798686,
+    "city": "Virgilina",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Halifax"
+  },
+  {
+    "zip_code": 24599,
+    "latitude": 37.682224,
+    "longitude": -78.731156,
+    "city": "Wingina",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 24601,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Amonate",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24602,
+    "latitude": 36.999484,
+    "longitude": -81.79514,
+    "city": "Bandy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24603,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Big Rock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24604,
+    "latitude": 37.203317,
+    "longitude": -81.557499,
+    "city": "Bishop",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24605,
+    "latitude": 37.172408,
+    "longitude": -81.507054,
+    "city": "Bluefield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24606,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Boissevain",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24607,
+    "latitude": 37.130943,
+    "longitude": -82.344881,
+    "city": "Breaks",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dickenson"
+  },
+  {
+    "zip_code": 24608,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Burkes Garden",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24609,
+    "latitude": 37.123379,
+    "longitude": -81.54705,
+    "city": "Cedar Bluff",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24612,
+    "latitude": 37.094523,
+    "longitude": -81.818037,
+    "city": "Doran",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24613,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Falls Mills",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24614,
+    "latitude": 37.257171,
+    "longitude": -82.100073,
+    "city": "Grundy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24618,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Harman",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24619,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Horsepen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24620,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Hurley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24622,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Jewell Ridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24624,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Keen Mountain",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24627,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Mavisdale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24628,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Maxie",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24630,
+    "latitude": 37.175577,
+    "longitude": -81.539856,
+    "city": "North Tazewell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24631,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Oakwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24634,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Pilgrims Knob",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24635,
+    "latitude": 37.305417,
+    "longitude": -81.34246,
+    "city": "Pocahontas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24637,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Pounding Mill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24639,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Raven",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24640,
+    "latitude": 37.13549,
+    "longitude": -81.563406,
+    "city": "Red Ash",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24641,
+    "latitude": 37.186196,
+    "longitude": -81.554668,
+    "city": "Richlands",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24646,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Rowe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24647,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Shortt Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24649,
+    "latitude": 37.045445,
+    "longitude": -81.9271,
+    "city": "Swords Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 24651,
+    "latitude": 37.174459,
+    "longitude": -81.416087,
+    "city": "Tazewell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Tazewell"
+  },
+  {
+    "zip_code": 24656,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Vansant",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24657,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Whitewood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24658,
+    "latitude": 37.287992,
+    "longitude": -82.027408,
+    "city": "Wolford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 24701,
+    "latitude": 37.332725,
+    "longitude": -81.160066,
+    "city": "Bluefield",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24712,
+    "latitude": 37.452346,
+    "longitude": -81.00916,
+    "city": "Athens",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24714,
+    "latitude": 37.460069,
+    "longitude": -81.160053,
+    "city": "Beeson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24715,
+    "latitude": 37.343532,
+    "longitude": -81.325281,
+    "city": "Bramwell",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24716,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Bud",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24719,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Covel",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24724,
+    "latitude": 37.333273,
+    "longitude": -81.311849,
+    "city": "Freeman",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24726,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Herndon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24729,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Hiawatha",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24731,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Kegley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24732,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Kellysville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24733,
+    "latitude": 37.440745,
+    "longitude": -81.190841,
+    "city": "Lashmeet",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24736,
+    "latitude": 37.416393,
+    "longitude": -81.202217,
+    "city": "Matoaka",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24737,
+    "latitude": 37.35391,
+    "longitude": -81.251807,
+    "city": "Montcalm",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24738,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Nemours",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24739,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Oakvale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24740,
+    "latitude": 37.379876,
+    "longitude": -81.117475,
+    "city": "Princeton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24747,
+    "latitude": 37.414224,
+    "longitude": -81.178417,
+    "city": "Rock",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24751,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Wolfe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 24801,
+    "latitude": 37.411086,
+    "longitude": -81.539352,
+    "city": "Welch",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24808,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Anawalt",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24811,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Avondale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24813,
+    "latitude": 37.343847,
+    "longitude": -81.683131,
+    "city": "Bartley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24815,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Berwind",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24816,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Big Sandy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24817,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Bradshaw",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24818,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Brenton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24820,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Capels",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24821,
+    "latitude": 37.38297,
+    "longitude": -81.634292,
+    "city": "Caretta",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24822,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Clear Fork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24823,
+    "latitude": 37.626772,
+    "longitude": -81.702061,
+    "city": "Coal Mountain",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24824,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Coalwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24825,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Crumpler",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24826,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Cucumber",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24827,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Cyclone",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24828,
+    "latitude": 37.467849,
+    "longitude": -81.681104,
+    "city": "Davy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24829,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Eckman",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24830,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Elbert",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24831,
+    "latitude": 37.432867,
+    "longitude": -81.570983,
+    "city": "Elkhorn",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24832,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "English",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24834,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Fanrock",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24836,
+    "latitude": 37.36584,
+    "longitude": -81.554444,
+    "city": "Gary",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24839,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Hanover",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24841,
+    "latitude": 37.405828,
+    "longitude": -81.576548,
+    "city": "Havaco",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24842,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Hemphill",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24843,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Hensley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24844,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Iaeger",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24845,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Ikes Fork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24846,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Isaban",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24847,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Itmann",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24848,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Jenkinjones",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24849,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Jesse",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24850,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Jolo",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24851,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Justice",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 24852,
+    "latitude": 37.414357,
+    "longitude": -81.431783,
+    "city": "Keystone",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24853,
+    "latitude": 37.442086,
+    "longitude": -81.511965,
+    "city": "Kimball",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24854,
+    "latitude": 37.743967,
+    "longitude": -81.574986,
+    "city": "Kopperston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24855,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Kyle",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24856,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Leckie",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24857,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Lynco",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24859,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Marianna",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24860,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Matheny",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24861,
+    "latitude": 37.417549,
+    "longitude": -81.423979,
+    "city": "Maybeury",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24862,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Mohawk",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24866,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Newhall",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24867,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "New Richmond",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24868,
+    "latitude": 37.389939,
+    "longitude": -81.419578,
+    "city": "Northfork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24869,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "North Spring",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24870,
+    "latitude": 37.74071,
+    "longitude": -81.583069,
+    "city": "Oceana",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24871,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Pageton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24872,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Panther",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24873,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Paynesville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24874,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Pineville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24877,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Powhatan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24878,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Premier",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24879,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Raysal",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24880,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Rock View",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24881,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Roderfield",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24882,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Simon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24883,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Skygusty",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24884,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Squire",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24887,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Switchback",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24888,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Thorpe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24889,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Twin Branch",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24892,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "War",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24894,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Warriormine",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24895,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Wilcoe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24896,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Wolf Pen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24897,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Worth",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24898,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Wyoming",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 24899,
+    "latitude": 37.375246,
+    "longitude": -81.653889,
+    "city": "Yukon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mcdowell"
+  },
+  {
+    "zip_code": 24901,
+    "latitude": 37.844155,
+    "longitude": -80.538781,
+    "city": "Lewisburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24902,
+    "latitude": 37.774666,
+    "longitude": -80.461492,
+    "city": "Fairlea",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24910,
+    "latitude": 37.84394,
+    "longitude": -80.572401,
+    "city": "Alderson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24915,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Arbovale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24916,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Asbury",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24917,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Auto",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24918,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Ballard",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24919,
+    "latitude": 37.674782,
+    "longitude": -80.890043,
+    "city": "Ballengee",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 24920,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Bartow",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24924,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Buckeye",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24925,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Caldwell",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24927,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Cass",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24931,
+    "latitude": 37.918876,
+    "longitude": -80.611705,
+    "city": "Crawley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24934,
+    "latitude": 38.326214,
+    "longitude": -79.898674,
+    "city": "Dunmore",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24935,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Forest Hill",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 24936,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Fort Spring",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24938,
+    "latitude": 37.915363,
+    "longitude": -80.335257,
+    "city": "Frankford",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24941,
+    "latitude": 37.58902,
+    "longitude": -80.340084,
+    "city": "Gap Mills",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24942,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Glace",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24943,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Grassy Meadows",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24944,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Green Bank",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24945,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Greenville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24946,
+    "latitude": 38.110904,
+    "longitude": -80.264059,
+    "city": "Hillsboro",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24950,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Kieffer",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24951,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Lindside",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24954,
+    "latitude": 38.258638,
+    "longitude": -80.104625,
+    "city": "Marlinton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 24957,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Maxwelton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24958,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Meadow Bluff",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24961,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Neola",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24962,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Pence Springs",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 24963,
+    "latitude": 37.399956,
+    "longitude": -80.797806,
+    "city": "Peterstown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24966,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Renick",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24970,
+    "latitude": 37.744709,
+    "longitude": -80.454189,
+    "city": "Ronceverte",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24974,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Secondcreek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24976,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Sinks Grove",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24977,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Smoot",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24981,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Talcott",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 24983,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Union",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24984,
+    "latitude": 37.489872,
+    "longitude": -80.420487,
+    "city": "Waiteville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24985,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Wayside",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 24986,
+    "latitude": 37.782726,
+    "longitude": -80.312877,
+    "city": "White Sulphur Springs",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24991,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Williamsburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 24993,
+    "latitude": 37.552029,
+    "longitude": -80.539672,
+    "city": "Wolfcreek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 25002,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Alloy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25003,
+    "latitude": 38.243675,
+    "longitude": -81.771226,
+    "city": "Alum Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25004,
+    "latitude": 37.784459,
+    "longitude": -81.118491,
+    "city": "Ameagle",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25005,
+    "latitude": 38.591037,
+    "longitude": -81.273681,
+    "city": "Amma",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25007,
+    "latitude": 37.82156,
+    "longitude": -81.409586,
+    "city": "Arnett",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25008,
+    "latitude": 37.940013,
+    "longitude": -81.354496,
+    "city": "Artie",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25009,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Ashford",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25010,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Bald Knob",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25011,
+    "latitude": 38.508559,
+    "longitude": -81.841002,
+    "city": "Bancroft",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25015,
+    "latitude": 38.232406,
+    "longitude": -81.502399,
+    "city": "Belle",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25018,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Bentree",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25019,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Bickmore",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25021,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Bim",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25022,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Blair",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25024,
+    "latitude": 38.154021,
+    "longitude": -81.630599,
+    "city": "Bloomingrose",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25025,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Blount",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25026,
+    "latitude": 38.490789,
+    "longitude": -81.392845,
+    "city": "Blue Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25028,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Bob White",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25030,
+    "latitude": 38.387998,
+    "longitude": -81.254838,
+    "city": "Bomont",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25031,
+    "latitude": 38.163248,
+    "longitude": -81.307528,
+    "city": "Boomer",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25033,
+    "latitude": 38.610603,
+    "longitude": -81.924758,
+    "city": "Buffalo",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25035,
+    "latitude": 38.193014,
+    "longitude": -81.498415,
+    "city": "Cabin Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25036,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Cannelton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25039,
+    "latitude": 38.279199,
+    "longitude": -81.59823,
+    "city": "Cedar Grove",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25040,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Charlton Heights",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25043,
+    "latitude": 38.467298,
+    "longitude": -81.080031,
+    "city": "Clay",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25044,
+    "latitude": 37.880406,
+    "longitude": -81.408766,
+    "city": "Clear Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25045,
+    "latitude": 38.453862,
+    "longitude": -81.357213,
+    "city": "Clendenin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25046,
+    "latitude": 38.731737,
+    "longitude": -81.314633,
+    "city": "Clio",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25047,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Clothier",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25048,
+    "latitude": 37.942986,
+    "longitude": -81.402075,
+    "city": "Colcord",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25049,
+    "latitude": 38.126494,
+    "longitude": -81.607191,
+    "city": "Comfort",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25051,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Costa",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25053,
+    "latitude": 38.01946,
+    "longitude": -81.885268,
+    "city": "Danville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25054,
+    "latitude": 38.073666,
+    "longitude": -81.451066,
+    "city": "Dawes",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25057,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Deep Water",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25059,
+    "latitude": 38.254945,
+    "longitude": -81.217588,
+    "city": "Dixie",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 25060,
+    "latitude": 37.949132,
+    "longitude": -81.444561,
+    "city": "Dorothy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25061,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Drybranch",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25062,
+    "latitude": 37.854572,
+    "longitude": -81.453786,
+    "city": "Dry Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25063,
+    "latitude": 38.582138,
+    "longitude": -80.936783,
+    "city": "Duck",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25064,
+    "latitude": 38.348822,
+    "longitude": -81.570048,
+    "city": "Dunbar",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25067,
+    "latitude": 38.209887,
+    "longitude": -81.438053,
+    "city": "East Bank",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25070,
+    "latitude": 38.543573,
+    "longitude": -81.941425,
+    "city": "Eleanor",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25071,
+    "latitude": 38.386942,
+    "longitude": -81.450424,
+    "city": "Elkview",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25075,
+    "latitude": 38.178047,
+    "longitude": -81.615909,
+    "city": "Eskdale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25076,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Ethel",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25079,
+    "latitude": 38.495072,
+    "longitude": -81.398422,
+    "city": "Falling Rock",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25081,
+    "latitude": 38.072562,
+    "longitude": -81.825259,
+    "city": "Foster",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25082,
+    "latitude": 38.560972,
+    "longitude": -82.022361,
+    "city": "Fraziers Bottom",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25083,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Gallagher",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25085,
+    "latitude": 38.156166,
+    "longitude": -81.174906,
+    "city": "Gauley Bridge",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25086,
+    "latitude": 38.215547,
+    "longitude": -81.406705,
+    "city": "Glasgow",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25088,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Glen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25090,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Glen Ferris",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25093,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Gordon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25095,
+    "latitude": 38.752312,
+    "longitude": -81.997278,
+    "city": "Grimms Landing",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25102,
+    "latitude": 38.187888,
+    "longitude": -81.3657,
+    "city": "Handley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25103,
+    "latitude": 38.207048,
+    "longitude": -81.39286,
+    "city": "Hansford",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25106,
+    "latitude": 38.833117,
+    "longitude": -82.138543,
+    "city": "Henderson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25107,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Hernshaw",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25108,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Hewett",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25109,
+    "latitude": 38.475369,
+    "longitude": -81.880455,
+    "city": "Hometown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25110,
+    "latitude": 38.21097,
+    "longitude": -81.388446,
+    "city": "Hugheston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25111,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Indore",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25112,
+    "latitude": 38.282497,
+    "longitude": -81.56514,
+    "city": "Institute",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25113,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Ivydale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25114,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Jeffrey",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25115,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Kanawha Falls",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25118,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Kimberly",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25119,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Kincaid",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25121,
+    "latitude": 37.920381,
+    "longitude": -81.903389,
+    "city": "Lake",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25122,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Leewood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25123,
+    "latitude": 38.704805,
+    "longitude": -81.914474,
+    "city": "Leon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25124,
+    "latitude": 38.475369,
+    "longitude": -81.880455,
+    "city": "Liberty",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25125,
+    "latitude": 38.334726,
+    "longitude": -81.198102,
+    "city": "Lizemores",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25126,
+    "latitude": 38.195983,
+    "longitude": -81.371367,
+    "city": "London",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25130,
+    "latitude": 38.063165,
+    "longitude": -81.818718,
+    "city": "Madison",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25132,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Mammoth",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25133,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Maysel",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25134,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Miami",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25136,
+    "latitude": 38.172523,
+    "longitude": -81.322175,
+    "city": "Montgomery",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25139,
+    "latitude": 38.139916,
+    "longitude": -81.29309,
+    "city": "Mount Carbon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25140,
+    "latitude": 37.877222,
+    "longitude": -81.481192,
+    "city": "Naoma",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25141,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Nebo",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25142,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Nellis",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25143,
+    "latitude": 38.323042,
+    "longitude": -81.616124,
+    "city": "Nitro",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25147,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Ohley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25148,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Orgas",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25149,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Ottawa",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25150,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Ovapa",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25152,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Page",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25154,
+    "latitude": 38.136924,
+    "longitude": -81.679052,
+    "city": "Peytona",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25156,
+    "latitude": 38.401962,
+    "longitude": -81.461063,
+    "city": "Pinch",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25159,
+    "latitude": 38.479147,
+    "longitude": -81.783795,
+    "city": "Poca",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25160,
+    "latitude": 38.290746,
+    "longitude": -81.277293,
+    "city": "Pond Gap",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25161,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Powellton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25162,
+    "latitude": 38.210104,
+    "longitude": -81.385107,
+    "city": "Pratt",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25164,
+    "latitude": 38.491236,
+    "longitude": -81.198904,
+    "city": "Procious",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25165,
+    "latitude": 38.140996,
+    "longitude": -81.658829,
+    "city": "Racine",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25168,
+    "latitude": 38.555097,
+    "longitude": -81.901394,
+    "city": "Red House",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25169,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Ridgeview",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25173,
+    "latitude": 38.076677,
+    "longitude": -81.237015,
+    "city": "Robson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25174,
+    "latitude": 37.854721,
+    "longitude": -81.418351,
+    "city": "Rock Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25177,
+    "latitude": 38.31461,
+    "longitude": -81.636926,
+    "city": "Saint Albans",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25180,
+    "latitude": 37.793057,
+    "longitude": -81.384755,
+    "city": "Saxon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25181,
+    "latitude": 38.085024,
+    "longitude": -81.622894,
+    "city": "Seth",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25182,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Sharon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25183,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Sharples",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25185,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Mount Olive",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25186,
+    "latitude": 38.154338,
+    "longitude": -81.278012,
+    "city": "Smithers",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25187,
+    "latitude": 38.725035,
+    "longitude": -82.027474,
+    "city": "Southside",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25193,
+    "latitude": 38.010386,
+    "longitude": -81.558467,
+    "city": "Sylvester",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25201,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Tad",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25202,
+    "latitude": 38.332069,
+    "longitude": -81.8563,
+    "city": "Tornado",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25203,
+    "latitude": 37.986266,
+    "longitude": -81.942704,
+    "city": "Turtle Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25204,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Twilight",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25205,
+    "latitude": 38.042839,
+    "longitude": -81.805265,
+    "city": "Uneeda",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25206,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Van",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25208,
+    "latitude": 37.997105,
+    "longitude": -81.71704,
+    "city": "Wharton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25209,
+    "latitude": 37.991591,
+    "longitude": -81.542234,
+    "city": "Whitesville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25211,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Widen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25213,
+    "latitude": 38.50099,
+    "longitude": -81.914048,
+    "city": "Winfield",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25214,
+    "latitude": 38.18983,
+    "longitude": -81.565648,
+    "city": "Winifrede",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25231,
+    "latitude": 38.824924,
+    "longitude": -81.70665,
+    "city": "Advent",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25234,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Arnoldsburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 25235,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Chloe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 25239,
+    "latitude": 38.848369,
+    "longitude": -81.847298,
+    "city": "Cottageville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25241,
+    "latitude": 38.796245,
+    "longitude": -81.807118,
+    "city": "Evans",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25243,
+    "latitude": 38.683119,
+    "longitude": -81.453016,
+    "city": "Gandeeville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25244,
+    "latitude": 38.824924,
+    "longitude": -81.70665,
+    "city": "Gay",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25245,
+    "latitude": 38.70697,
+    "longitude": -81.722296,
+    "city": "Given",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25247,
+    "latitude": 38.752312,
+    "longitude": -81.997278,
+    "city": "Hartford",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25248,
+    "latitude": 38.623155,
+    "longitude": -81.621667,
+    "city": "Kenna",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25250,
+    "latitude": 38.752312,
+    "longitude": -81.997278,
+    "city": "Lakin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25251,
+    "latitude": 38.731737,
+    "longitude": -81.314633,
+    "city": "Left Hand",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25252,
+    "latitude": 38.824924,
+    "longitude": -81.70665,
+    "city": "Le Roy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25253,
+    "latitude": 38.989085,
+    "longitude": -81.951871,
+    "city": "Letart",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25256,
+    "latitude": 38.731737,
+    "longitude": -81.314633,
+    "city": "Linden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25258,
+    "latitude": 38.913649,
+    "longitude": -80.831256,
+    "city": "Lockney",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Gilmer"
+  },
+  {
+    "zip_code": 25259,
+    "latitude": 38.696744,
+    "longitude": -81.233061,
+    "city": "Looneyville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25260,
+    "latitude": 39.011467,
+    "longitude": -82.016935,
+    "city": "Mason",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25261,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Millstone",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 25262,
+    "latitude": 38.905595,
+    "longitude": -81.835048,
+    "city": "Millwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25264,
+    "latitude": 38.824924,
+    "longitude": -81.70665,
+    "city": "Mount Alto",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25265,
+    "latitude": 38.986319,
+    "longitude": -81.965175,
+    "city": "New Haven",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25266,
+    "latitude": 38.731737,
+    "longitude": -81.314633,
+    "city": "Newton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25267,
+    "latitude": 38.913649,
+    "longitude": -80.831256,
+    "city": "Normantown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Gilmer"
+  },
+  {
+    "zip_code": 25268,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Orma",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 25270,
+    "latitude": 38.888886,
+    "longitude": -81.439879,
+    "city": "Reedy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25271,
+    "latitude": 38.791845,
+    "longitude": -81.728065,
+    "city": "Ripley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25275,
+    "latitude": 38.889106,
+    "longitude": -81.682596,
+    "city": "Sandyville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25276,
+    "latitude": 38.777675,
+    "longitude": -81.364262,
+    "city": "Spencer",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25279,
+    "latitude": 38.824924,
+    "longitude": -81.70665,
+    "city": "Statts Mills",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 25281,
+    "latitude": 38.731737,
+    "longitude": -81.314633,
+    "city": "Tariff",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25283,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Valley Fork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25285,
+    "latitude": 38.465777,
+    "longitude": -81.050662,
+    "city": "Wallback",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 25286,
+    "latitude": 38.608737,
+    "longitude": -81.419262,
+    "city": "Walton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Roane"
+  },
+  {
+    "zip_code": 25287,
+    "latitude": 38.752312,
+    "longitude": -81.997278,
+    "city": "West Columbia",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25301,
+    "latitude": 38.328948,
+    "longitude": -81.605094,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25302,
+    "latitude": 38.401498,
+    "longitude": -81.584087,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25303,
+    "latitude": 38.352946,
+    "longitude": -81.658246,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25304,
+    "latitude": 38.305728,
+    "longitude": -81.595903,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25305,
+    "latitude": 38.335798,
+    "longitude": -81.612344,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25306,
+    "latitude": 38.317499,
+    "longitude": -81.527433,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25309,
+    "latitude": 38.310767,
+    "longitude": -81.756808,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25311,
+    "latitude": 38.371957,
+    "longitude": -81.632845,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25312,
+    "latitude": 38.455865,
+    "longitude": -81.637823,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25313,
+    "latitude": 38.414156,
+    "longitude": -81.758172,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25314,
+    "latitude": 38.32925,
+    "longitude": -81.665927,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25315,
+    "latitude": 38.235149,
+    "longitude": -81.553608,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25317,
+    "latitude": 38.335647,
+    "longitude": -81.613794,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25320,
+    "latitude": 38.542798,
+    "longitude": -81.633378,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25321,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25322,
+    "latitude": 38.534661,
+    "longitude": -81.56035,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25323,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25324,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25325,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25326,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25327,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25328,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25329,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25330,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25331,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25332,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25333,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25334,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25335,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25336,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25337,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25338,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25339,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25350,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25356,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25357,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25358,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25360,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25361,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25362,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25364,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25365,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25375,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25387,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25389,
+    "latitude": 38.354041,
+    "longitude": -81.639389,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25392,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25396,
+    "latitude": 38.296818,
+    "longitude": -81.554655,
+    "city": "Charleston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Kanawha"
+  },
+  {
+    "zip_code": 25401,
+    "latitude": 39.444061,
+    "longitude": -77.951924,
+    "city": "Martinsburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25402,
+    "latitude": 39.461663,
+    "longitude": -78.011472,
+    "city": "Martinsburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25410,
+    "latitude": 39.315914,
+    "longitude": -77.877223,
+    "city": "Bakerton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25411,
+    "latitude": 39.552557,
+    "longitude": -78.18773,
+    "city": "Berkeley Springs",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 25413,
+    "latitude": 39.377876,
+    "longitude": -78.064925,
+    "city": "Bunker Hill",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25414,
+    "latitude": 39.313538,
+    "longitude": -77.860278,
+    "city": "Charles Town",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25419,
+    "latitude": 39.572966,
+    "longitude": -77.882155,
+    "city": "Falling Waters",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25420,
+    "latitude": 39.384529,
+    "longitude": -78.102777,
+    "city": "Gerrardstown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25421,
+    "latitude": 39.381345,
+    "longitude": -78.143466,
+    "city": "Glengary",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25422,
+    "latitude": 39.612559,
+    "longitude": -78.391552,
+    "city": "Great Cacapon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 25423,
+    "latitude": 39.315914,
+    "longitude": -77.877223,
+    "city": "Halltown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25425,
+    "latitude": 39.314617,
+    "longitude": -77.789387,
+    "city": "Harpers Ferry",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25427,
+    "latitude": 39.485043,
+    "longitude": -78.034659,
+    "city": "Hedgesville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25428,
+    "latitude": 39.362373,
+    "longitude": -78.033065,
+    "city": "Inwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25429,
+    "latitude": 39.349586,
+    "longitude": -77.878957,
+    "city": "Kearneysville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25430,
+    "latitude": 39.344424,
+    "longitude": -77.941833,
+    "city": "Kearneysville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25431,
+    "latitude": 39.314071,
+    "longitude": -78.659428,
+    "city": "Levels",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 25432,
+    "latitude": 39.315914,
+    "longitude": -77.877223,
+    "city": "Millville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25434,
+    "latitude": 39.530566,
+    "longitude": -78.45729,
+    "city": "Paw Paw",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 25437,
+    "latitude": 39.314071,
+    "longitude": -78.659428,
+    "city": "Points",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 25438,
+    "latitude": 39.26006,
+    "longitude": -77.831031,
+    "city": "Ranson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25440,
+    "latitude": 39.442661,
+    "longitude": -78.02628,
+    "city": "Ridgeway",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Berkeley"
+  },
+  {
+    "zip_code": 25441,
+    "latitude": 39.315914,
+    "longitude": -77.877223,
+    "city": "Rippon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25442,
+    "latitude": 39.371605,
+    "longitude": -77.822878,
+    "city": "Shenandoah Junction",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25443,
+    "latitude": 39.389587,
+    "longitude": -77.838337,
+    "city": "Shepherdstown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25444,
+    "latitude": 39.34125,
+    "longitude": -78.754473,
+    "city": "Slanesville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 25446,
+    "latitude": 39.224095,
+    "longitude": -77.878788,
+    "city": "Summit Point",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 25501,
+    "latitude": 38.167112,
+    "longitude": -81.968862,
+    "city": "Alkol",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25502,
+    "latitude": 38.657528,
+    "longitude": -82.10679,
+    "city": "Apple Grove",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25503,
+    "latitude": 38.60323,
+    "longitude": -82.112281,
+    "city": "Ashton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25504,
+    "latitude": 38.379347,
+    "longitude": -82.264954,
+    "city": "Barboursville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25505,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Big Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25506,
+    "latitude": 38.219908,
+    "longitude": -82.145897,
+    "city": "Branchland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25507,
+    "latitude": 38.384557,
+    "longitude": -82.557785,
+    "city": "Ceredo",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25508,
+    "latitude": 37.96087,
+    "longitude": -82.01076,
+    "city": "Chapmanville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25510,
+    "latitude": 38.426471,
+    "longitude": -82.110405,
+    "city": "Culloden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25511,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Dunlow",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25512,
+    "latitude": 38.271293,
+    "longitude": -82.376703,
+    "city": "East Lynn",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25514,
+    "latitude": 38.072978,
+    "longitude": -82.539781,
+    "city": "Fort Gay",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25515,
+    "latitude": 38.738211,
+    "longitude": -82.155965,
+    "city": "Gallipolis Ferry",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25517,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Genoa",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25519,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Glenhayes",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25520,
+    "latitude": 38.590868,
+    "longitude": -82.177263,
+    "city": "Glenwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25521,
+    "latitude": 38.246211,
+    "longitude": -81.960658,
+    "city": "Griffithsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25523,
+    "latitude": 38.280522,
+    "longitude": -82.083145,
+    "city": "Hamlin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25524,
+    "latitude": 38.034057,
+    "longitude": -82.100836,
+    "city": "Harts",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25526,
+    "latitude": 38.397097,
+    "longitude": -81.961657,
+    "city": "Hurricane",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25529,
+    "latitude": 38.146531,
+    "longitude": -81.86073,
+    "city": "Julian",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 25530,
+    "latitude": 38.356931,
+    "longitude": -82.525529,
+    "city": "Kenova",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25534,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Kiahsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25535,
+    "latitude": 38.299465,
+    "longitude": -82.457353,
+    "city": "Lavalette",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25537,
+    "latitude": 38.523488,
+    "longitude": -82.255114,
+    "city": "Lesage",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25540,
+    "latitude": 38.16021,
+    "longitude": -82.054088,
+    "city": "Midkiff",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25541,
+    "latitude": 38.434487,
+    "longitude": -82.134925,
+    "city": "Milton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25544,
+    "latitude": 38.222163,
+    "longitude": -82.113554,
+    "city": "Myra",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25545,
+    "latitude": 38.456541,
+    "longitude": -82.234177,
+    "city": "Ona",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25547,
+    "latitude": 37.955852,
+    "longitude": -82.005372,
+    "city": "Pecks Mill",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25550,
+    "latitude": 38.871527,
+    "longitude": -82.098592,
+    "city": "Point Pleasant",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 25555,
+    "latitude": 38.240005,
+    "longitude": -82.565378,
+    "city": "Prichard",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25557,
+    "latitude": 38.082564,
+    "longitude": -82.072502,
+    "city": "Ranger",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25559,
+    "latitude": 38.317827,
+    "longitude": -82.22918,
+    "city": "Salt Rock",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25560,
+    "latitude": 38.450355,
+    "longitude": -81.896554,
+    "city": "Scott Depot",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25562,
+    "latitude": 38.343176,
+    "longitude": -82.490494,
+    "city": "Shoals",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25564,
+    "latitude": 38.255874,
+    "longitude": -81.890954,
+    "city": "Sod",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25565,
+    "latitude": 38.105713,
+    "longitude": -82.027154,
+    "city": "Spurlockville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25567,
+    "latitude": 38.228049,
+    "longitude": -81.870544,
+    "city": "Sumerco",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25569,
+    "latitude": 38.475369,
+    "longitude": -81.880455,
+    "city": "Teays",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 25570,
+    "latitude": 38.222206,
+    "longitude": -82.418862,
+    "city": "Wayne",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25571,
+    "latitude": 38.299231,
+    "longitude": -82.153237,
+    "city": "West Hamlin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25572,
+    "latitude": 38.187456,
+    "longitude": -81.901236,
+    "city": "Woodville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25573,
+    "latitude": 38.231798,
+    "longitude": -81.942329,
+    "city": "Yawkey",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 25601,
+    "latitude": 37.865036,
+    "longitude": -82.025158,
+    "city": "Logan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25606,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Accoville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25607,
+    "latitude": 37.795916,
+    "longitude": -81.783341,
+    "city": "Amherstdale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25608,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Baisden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25611,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Bruno",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25612,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Chauncey",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25614,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Cora",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25617,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Davin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25621,
+    "latitude": 37.636568,
+    "longitude": -81.950082,
+    "city": "Gilbert",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25623,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Hampden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25624,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Henlawson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25625,
+    "latitude": 37.829956,
+    "longitude": -82.058464,
+    "city": "Holden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25628,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Kistler",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25630,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Lorado",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25632,
+    "latitude": 37.765557,
+    "longitude": -81.921698,
+    "city": "Lyburn",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25634,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Mallory",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25635,
+    "latitude": 37.735653,
+    "longitude": -81.875358,
+    "city": "Man",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25636,
+    "latitude": 37.821927,
+    "longitude": -82.006203,
+    "city": "Monaville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25637,
+    "latitude": 37.84639,
+    "longitude": -82.048494,
+    "city": "Mount Gay",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25638,
+    "latitude": 37.741593,
+    "longitude": -82.003139,
+    "city": "Omar",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25639,
+    "latitude": 37.875177,
+    "longitude": -81.982637,
+    "city": "Peach Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25644,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Sarah Ann",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25645,
+    "latitude": 37.833204,
+    "longitude": -81.902401,
+    "city": "Stirrat",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25646,
+    "latitude": 37.830256,
+    "longitude": -81.963853,
+    "city": "Stollings",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25647,
+    "latitude": 37.784635,
+    "longitude": -81.990849,
+    "city": "Switzer",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25649,
+    "latitude": 37.88911,
+    "longitude": -82.048823,
+    "city": "Verdunville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25650,
+    "latitude": 37.637348,
+    "longitude": -81.875714,
+    "city": "Verner",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25651,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Wharncliffe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25652,
+    "latitude": 37.803545,
+    "longitude": -82.046594,
+    "city": "Whitman",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25653,
+    "latitude": 37.808204,
+    "longitude": -82.053011,
+    "city": "Wilkinson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25654,
+    "latitude": 37.781792,
+    "longitude": -81.891965,
+    "city": "Yolyn",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 25661,
+    "latitude": 37.702526,
+    "longitude": -82.26002,
+    "city": "Williamson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25665,
+    "latitude": 37.721351,
+    "longitude": -82.30835,
+    "city": "Borderland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25666,
+    "latitude": 37.926178,
+    "longitude": -82.270292,
+    "city": "Breeden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25667,
+    "latitude": 37.704739,
+    "longitude": -82.273892,
+    "city": "Chattaroy",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25669,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Crum",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25670,
+    "latitude": 37.718871,
+    "longitude": -82.193059,
+    "city": "Delbarton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25671,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Dingess",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25672,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Edgarton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25674,
+    "latitude": 37.827155,
+    "longitude": -82.404906,
+    "city": "Kermit",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25676,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Lenore",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25678,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Matewan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25682,
+    "latitude": 37.6224,
+    "longitude": -82.008561,
+    "city": "Meador",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25685,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Naugatuck",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25686,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Newtown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25687,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Nolan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25688,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "North Matewan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25690,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Ragland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25691,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Rawl",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25692,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Red Jacket",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25694,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Thacker",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25696,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Varney",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25697,
+    "latitude": 37.743063,
+    "longitude": -82.10801,
+    "city": "Vulcan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mingo"
+  },
+  {
+    "zip_code": 25699,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Wilsondale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25701,
+    "latitude": 38.371727,
+    "longitude": -82.412866,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25702,
+    "latitude": 38.444067,
+    "longitude": -82.34872,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25703,
+    "latitude": 38.422801,
+    "longitude": -82.413818,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25704,
+    "latitude": 38.397571,
+    "longitude": -82.477733,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25705,
+    "latitude": 38.406124,
+    "longitude": -82.359088,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25706,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25707,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25708,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25709,
+    "latitude": 38.132114,
+    "longitude": -82.418277,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 25710,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25711,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25712,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25713,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25714,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25715,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25716,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25717,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25718,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25719,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25720,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25721,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25722,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25723,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25724,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25725,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25726,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25727,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25728,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25729,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25755,
+    "latitude": 38.422115,
+    "longitude": -82.431667,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25770,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25771,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25772,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25773,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25774,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25775,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25776,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25777,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25778,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25779,
+    "latitude": 38.413384,
+    "longitude": -82.277401,
+    "city": "Huntington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Cabell"
+  },
+  {
+    "zip_code": 25801,
+    "latitude": 37.767248,
+    "longitude": -81.216446,
+    "city": "Beckley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25802,
+    "latitude": 37.748935,
+    "longitude": -81.224458,
+    "city": "Beckley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25810,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Allen Junction",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25811,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Amigo",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25812,
+    "latitude": 38.135025,
+    "longitude": -81.087871,
+    "city": "Ansted",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25813,
+    "latitude": 37.753437,
+    "longitude": -81.1973,
+    "city": "Beaver",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25816,
+    "latitude": 37.735161,
+    "longitude": -81.136328,
+    "city": "Blue Jay",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25817,
+    "latitude": 37.774581,
+    "longitude": -81.388107,
+    "city": "Bolt",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25818,
+    "latitude": 37.862613,
+    "longitude": -81.200997,
+    "city": "Bradley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25820,
+    "latitude": 37.509522,
+    "longitude": -81.099605,
+    "city": "Camp Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 25823,
+    "latitude": 37.670797,
+    "longitude": -81.174872,
+    "city": "Coal City",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25825,
+    "latitude": 37.665456,
+    "longitude": -81.093339,
+    "city": "Cool Ridge",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25826,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Corinne",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25827,
+    "latitude": 37.700567,
+    "longitude": -81.201446,
+    "city": "Crab Orchard",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25831,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Danese",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25832,
+    "latitude": 37.693341,
+    "longitude": -81.216077,
+    "city": "Daniels",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25833,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Dothan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25836,
+    "latitude": 37.779232,
+    "longitude": -81.263538,
+    "city": "Eccles",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25837,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Edmond",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25839,
+    "latitude": 37.768902,
+    "longitude": -81.371602,
+    "city": "Fairdale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25840,
+    "latitude": 38.063982,
+    "longitude": -81.094259,
+    "city": "Fayetteville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25841,
+    "latitude": 37.554091,
+    "longitude": -81.100627,
+    "city": "Flat Top",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 25843,
+    "latitude": 37.679167,
+    "longitude": -81.151526,
+    "city": "Ghent",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25844,
+    "latitude": 37.825085,
+    "longitude": -81.38583,
+    "city": "Glen Daniel",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25845,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Glen Fork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25846,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Glen Jean",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25847,
+    "latitude": 37.713406,
+    "longitude": -81.178779,
+    "city": "Glen Morgan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25848,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Glen Rogers",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25849,
+    "latitude": 37.730624,
+    "longitude": -81.279864,
+    "city": "Glen White",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25851,
+    "latitude": 37.802469,
+    "longitude": -81.282759,
+    "city": "Harper",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25853,
+    "latitude": 37.748935,
+    "longitude": -81.224458,
+    "city": "Helen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25854,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Hico",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25855,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Hilltop",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25856,
+    "latitude": 37.647885,
+    "longitude": -81.190628,
+    "city": "Jonben",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25857,
+    "latitude": 37.631543,
+    "longitude": -81.227631,
+    "city": "Josephine",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25859,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Kilsyth",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25860,
+    "latitude": 37.748935,
+    "longitude": -81.224458,
+    "city": "Lanark",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25862,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Lansing",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25864,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Layland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25865,
+    "latitude": 37.73121,
+    "longitude": -81.317326,
+    "city": "Lester",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25866,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Lochgelly",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25868,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Lookout",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25870,
+    "latitude": 37.610803,
+    "longitude": -81.505936,
+    "city": "Maben",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25871,
+    "latitude": 37.770012,
+    "longitude": -81.210253,
+    "city": "Mabscott",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25873,
+    "latitude": 37.7517,
+    "longitude": -81.214825,
+    "city": "Mac Arthur",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25875,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Mc Graws",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25876,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Saulsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25878,
+    "latitude": 37.717052,
+    "longitude": -81.240023,
+    "city": "Midway",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25879,
+    "latitude": 37.975773,
+    "longitude": -81.114993,
+    "city": "Minden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25880,
+    "latitude": 38.00309,
+    "longitude": -81.19331,
+    "city": "Mount Hope",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25882,
+    "latitude": 37.582143,
+    "longitude": -81.413815,
+    "city": "Mullens",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25901,
+    "latitude": 37.959435,
+    "longitude": -81.15848,
+    "city": "Oak Hill",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25902,
+    "latitude": 37.596319,
+    "longitude": -81.190678,
+    "city": "Odd",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25904,
+    "latitude": 37.91101,
+    "longitude": -81.264824,
+    "city": "Pax",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25906,
+    "latitude": 37.837573,
+    "longitude": -81.128631,
+    "city": "Piney View",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25907,
+    "latitude": 37.853198,
+    "longitude": -81.081717,
+    "city": "Prince",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25908,
+    "latitude": 37.715831,
+    "longitude": -81.246754,
+    "city": "Princewick",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25909,
+    "latitude": 37.838147,
+    "longitude": -81.200383,
+    "city": "Prosperity",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25911,
+    "latitude": 37.758469,
+    "longitude": -81.167549,
+    "city": "Raleigh",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25912,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Ramsey",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25913,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Ravencliff",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25914,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Redstar",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25915,
+    "latitude": 37.625414,
+    "longitude": -81.27493,
+    "city": "Rhodell",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25916,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Sabine",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25917,
+    "latitude": 37.948765,
+    "longitude": -81.15307,
+    "city": "Scarbro",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25918,
+    "latitude": 37.741625,
+    "longitude": -81.014915,
+    "city": "Shady Spring",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25919,
+    "latitude": 37.800481,
+    "longitude": -81.180561,
+    "city": "Skelton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25920,
+    "latitude": 37.717933,
+    "longitude": -81.37157,
+    "city": "Slab Fork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25921,
+    "latitude": 37.777244,
+    "longitude": -81.345004,
+    "city": "Sophia",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25922,
+    "latitude": 37.460452,
+    "longitude": -81.112799,
+    "city": "Spanishburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 25926,
+    "latitude": 37.787252,
+    "longitude": -81.195122,
+    "city": "Sprague",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25927,
+    "latitude": 37.748935,
+    "longitude": -81.224458,
+    "city": "Stanaford",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25928,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Stephenson",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25931,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Summerlee",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25932,
+    "latitude": 37.764228,
+    "longitude": -81.221724,
+    "city": "Surveyor",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25934,
+    "latitude": 37.848955,
+    "longitude": -81.093678,
+    "city": "Terry",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 25936,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Thurmond",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25938,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Victor",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25942,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Winona",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25943,
+    "latitude": 37.603344,
+    "longitude": -81.53998,
+    "city": "Wyco",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wyoming"
+  },
+  {
+    "zip_code": 25951,
+    "latitude": 37.645544,
+    "longitude": -80.864634,
+    "city": "Hinton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25958,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Charmco",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25961,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Crichton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25962,
+    "latitude": 37.973212,
+    "longitude": -80.74519,
+    "city": "Rainelle",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25965,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Elton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25966,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Green Sulphur Springs",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25967,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Hines",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25969,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Jumping Branch",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25971,
+    "latitude": 37.416395,
+    "longitude": -81.105803,
+    "city": "Lerona",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 25972,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Leslie",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25976,
+    "latitude": 37.865186,
+    "longitude": -80.874366,
+    "city": "Meadow Bridge",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25977,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Meadow Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25978,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Nimitz",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25979,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Pipestem",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25981,
+    "latitude": 37.975595,
+    "longitude": -80.426874,
+    "city": "Quinwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25984,
+    "latitude": 37.968468,
+    "longitude": -80.669597,
+    "city": "Rupert",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Greenbrier"
+  },
+  {
+    "zip_code": 25985,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "Sandstone",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25986,
+    "latitude": 38.041293,
+    "longitude": -81.064784,
+    "city": "Spring Dale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 25988,
+    "latitude": 37.648541,
+    "longitude": -80.877395,
+    "city": "True",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Summers"
+  },
+  {
+    "zip_code": 25989,
+    "latitude": 37.684255,
+    "longitude": -81.048923,
+    "city": "White Oak",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Raleigh"
+  },
+  {
+    "zip_code": 26003,
+    "latitude": 40.102703,
+    "longitude": -80.647599,
+    "city": "Wheeling",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 26030,
+    "latitude": 40.225862,
+    "longitude": -80.65135,
+    "city": "Beech Bottom",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26031,
+    "latitude": 39.955349,
+    "longitude": -80.710507,
+    "city": "Benwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26032,
+    "latitude": 40.210727,
+    "longitude": -80.550337,
+    "city": "Bethany",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26033,
+    "latitude": 39.872322,
+    "longitude": -80.555275,
+    "city": "Cameron",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26034,
+    "latitude": 40.556137,
+    "longitude": -80.565784,
+    "city": "Chester",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 26035,
+    "latitude": 40.373181,
+    "longitude": -80.566155,
+    "city": "Colliers",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26036,
+    "latitude": 40.015394,
+    "longitude": -80.550114,
+    "city": "Dallas",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26037,
+    "latitude": 40.335218,
+    "longitude": -80.570953,
+    "city": "Follansbee",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26038,
+    "latitude": 39.962545,
+    "longitude": -80.719815,
+    "city": "Glen Dale",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26039,
+    "latitude": 39.868737,
+    "longitude": -80.600655,
+    "city": "Glen Easton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26040,
+    "latitude": 39.985905,
+    "longitude": -80.719565,
+    "city": "Mc Mechen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26041,
+    "latitude": 39.916748,
+    "longitude": -80.737134,
+    "city": "Moundsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26047,
+    "latitude": 40.522005,
+    "longitude": -80.571689,
+    "city": "New Cumberland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 26050,
+    "latitude": 40.608776,
+    "longitude": -80.613199,
+    "city": "Newell",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 26055,
+    "latitude": 39.877162,
+    "longitude": -80.694606,
+    "city": "Proctor",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 26056,
+    "latitude": 40.516234,
+    "longitude": -80.592823,
+    "city": "New Manchester",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 26058,
+    "latitude": 40.27932,
+    "longitude": -80.599949,
+    "city": "Short Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26059,
+    "latitude": 40.081064,
+    "longitude": -80.59733,
+    "city": "Triadelphia",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 26060,
+    "latitude": 40.078249,
+    "longitude": -80.589611,
+    "city": "Valley Grove",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 26062,
+    "latitude": 40.507729,
+    "longitude": -80.565292,
+    "city": "Weirton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 26070,
+    "latitude": 40.293469,
+    "longitude": -80.594036,
+    "city": "Wellsburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26074,
+    "latitude": 40.169839,
+    "longitude": -80.595763,
+    "city": "West Liberty",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 26075,
+    "latitude": 40.192679,
+    "longitude": -80.665879,
+    "city": "Windsor Heights",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Brooke"
+  },
+  {
+    "zip_code": 26101,
+    "latitude": 39.286315,
+    "longitude": -81.55477,
+    "city": "Parkersburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26102,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Parkersburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26103,
+    "latitude": 39.236427,
+    "longitude": -81.540501,
+    "city": "Parkersburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26104,
+    "latitude": 39.28037,
+    "longitude": -81.493574,
+    "city": "Parkersburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26105,
+    "latitude": 39.324924,
+    "longitude": -81.538034,
+    "city": "Vienna",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26106,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Parkersburg",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26120,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Mineral Wells",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26121,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Mineral Wells",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26133,
+    "latitude": 39.155706,
+    "longitude": -81.736307,
+    "city": "Belleville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26134,
+    "latitude": 39.375025,
+    "longitude": -81.263875,
+    "city": "Belmont",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pleasants"
+  },
+  {
+    "zip_code": 26135,
+    "latitude": 39.450612,
+    "longitude": -80.870081,
+    "city": "Bens Run",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tyler"
+  },
+  {
+    "zip_code": 26136,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Big Bend",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 26137,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Big Springs",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 26138,
+    "latitude": 39.040511,
+    "longitude": -81.371951,
+    "city": "Brohard",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wirt"
+  },
+  {
+    "zip_code": 26141,
+    "latitude": 39.040511,
+    "longitude": -81.371951,
+    "city": "Creston",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wirt"
+  },
+  {
+    "zip_code": 26142,
+    "latitude": 39.216011,
+    "longitude": -81.48079,
+    "city": "Davisville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26143,
+    "latitude": 39.032058,
+    "longitude": -81.380692,
+    "city": "Elizabeth",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wirt"
+  },
+  {
+    "zip_code": 26146,
+    "latitude": 39.496137,
+    "longitude": -81.057241,
+    "city": "Friendly",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tyler"
+  },
+  {
+    "zip_code": 26147,
+    "latitude": 38.921782,
+    "longitude": -81.093773,
+    "city": "Grantsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 26148,
+    "latitude": 39.198501,
+    "longitude": -81.068913,
+    "city": "Macfarlan",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ritchie"
+  },
+  {
+    "zip_code": 26149,
+    "latitude": 39.494178,
+    "longitude": -80.907644,
+    "city": "Middlebourne",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tyler"
+  },
+  {
+    "zip_code": 26150,
+    "latitude": 39.189677,
+    "longitude": -81.513911,
+    "city": "Mineral Wells",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26151,
+    "latitude": 38.828582,
+    "longitude": -81.132151,
+    "city": "Mount Zion",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 26152,
+    "latitude": 39.040511,
+    "longitude": -81.371951,
+    "city": "Munday",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wirt"
+  },
+  {
+    "zip_code": 26155,
+    "latitude": 39.611459,
+    "longitude": -80.817928,
+    "city": "New Martinsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wetzel"
+  },
+  {
+    "zip_code": 26159,
+    "latitude": 39.606691,
+    "longitude": -80.929167,
+    "city": "Paden City",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wetzel"
+  },
+  {
+    "zip_code": 26160,
+    "latitude": 39.040511,
+    "longitude": -81.371951,
+    "city": "Palestine",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wirt"
+  },
+  {
+    "zip_code": 26161,
+    "latitude": 39.198501,
+    "longitude": -81.068913,
+    "city": "Petroleum",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ritchie"
+  },
+  {
+    "zip_code": 26162,
+    "latitude": 39.575518,
+    "longitude": -80.666712,
+    "city": "Porters Falls",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wetzel"
+  },
+  {
+    "zip_code": 26164,
+    "latitude": 38.98882,
+    "longitude": -81.713983,
+    "city": "Ravenswood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 26167,
+    "latitude": 39.575518,
+    "longitude": -80.666712,
+    "city": "Reader",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wetzel"
+  },
+  {
+    "zip_code": 26169,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Rockport",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26170,
+    "latitude": 39.408888,
+    "longitude": -81.20786,
+    "city": "Saint Marys",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pleasants"
+  },
+  {
+    "zip_code": 26173,
+    "latitude": 38.95192,
+    "longitude": -81.709496,
+    "city": "Sherman",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 26175,
+    "latitude": 39.541445,
+    "longitude": -80.975638,
+    "city": "Sistersville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tyler"
+  },
+  {
+    "zip_code": 26178,
+    "latitude": 39.198501,
+    "longitude": -81.068913,
+    "city": "Smithville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Ritchie"
+  },
+  {
+    "zip_code": 26180,
+    "latitude": 39.218276,
+    "longitude": -81.497865,
+    "city": "Walker",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26181,
+    "latitude": 39.206816,
+    "longitude": -81.65769,
+    "city": "Washington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26184,
+    "latitude": 39.322871,
+    "longitude": -81.401137,
+    "city": "Waverly",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26186,
+    "latitude": 39.575518,
+    "longitude": -80.666712,
+    "city": "Wileyville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wetzel"
+  },
+  {
+    "zip_code": 26187,
+    "latitude": 39.367796,
+    "longitude": -81.455899,
+    "city": "Williamstown",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 26201,
+    "latitude": 38.975479,
+    "longitude": -80.240664,
+    "city": "Buckhannon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26202,
+    "latitude": 38.318389,
+    "longitude": -80.834152,
+    "city": "Fenwick",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 26203,
+    "latitude": 38.522709,
+    "longitude": -80.607651,
+    "city": "Erbacon",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26205,
+    "latitude": 38.329918,
+    "longitude": -80.645376,
+    "city": "Craigsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 26206,
+    "latitude": 38.423224,
+    "longitude": -80.564685,
+    "city": "Cowen",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26208,
+    "latitude": 38.387147,
+    "longitude": -80.590651,
+    "city": "Camden On Gauley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26209,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Snowshoe",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 26210,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Adrian",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26215,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Cleveland",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26217,
+    "latitude": 38.601167,
+    "longitude": -80.465431,
+    "city": "Diana",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26218,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "French Creek",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26219,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Frenchton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26222,
+    "latitude": 38.645017,
+    "longitude": -80.432189,
+    "city": "Hacker Valley",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26224,
+    "latitude": 38.89487,
+    "longitude": -79.850148,
+    "city": "Helvetia",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26228,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Kanawha Head",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26229,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Lorentz",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26230,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Pickens",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26234,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Rock Cave",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26236,
+    "latitude": 38.899314,
+    "longitude": -80.226855,
+    "city": "Selbyville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26237,
+    "latitude": 38.864632,
+    "longitude": -80.21241,
+    "city": "Tallmansville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Upshur"
+  },
+  {
+    "zip_code": 26238,
+    "latitude": 39.125078,
+    "longitude": -80.017982,
+    "city": "Volga",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 26241,
+    "latitude": 38.846815,
+    "longitude": -79.892841,
+    "city": "Elkins",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26250,
+    "latitude": 39.022982,
+    "longitude": -79.932,
+    "city": "Belington",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 26253,
+    "latitude": 38.836615,
+    "longitude": -79.872553,
+    "city": "Beverly",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26254,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Bowden",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26257,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Coalton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26259,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Dailey",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26260,
+    "latitude": 39.130056,
+    "longitude": -79.468329,
+    "city": "Davis",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tucker"
+  },
+  {
+    "zip_code": 26261,
+    "latitude": 38.230265,
+    "longitude": -80.578921,
+    "city": "Richwood",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Nicholas"
+  },
+  {
+    "zip_code": 26263,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Dryfork",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26264,
+    "latitude": 38.387966,
+    "longitude": -79.990585,
+    "city": "Durbin",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Pocahontas"
+  },
+  {
+    "zip_code": 26266,
+    "latitude": 38.482539,
+    "longitude": -80.431111,
+    "city": "Upperglade",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 26267,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Ellamore",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26268,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Glady",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26269,
+    "latitude": 39.117906,
+    "longitude": -79.563678,
+    "city": "Hambleton",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tucker"
+  },
+  {
+    "zip_code": 26270,
+    "latitude": 38.75338,
+    "longitude": -79.814713,
+    "city": "Harman",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 26271,
+    "latitude": 39.117906,
+    "longitude": -79.563678,
+    "city": "Hendricks",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Tucker"
+  },
+  {
+    "zip_code": 26273,
+    "latitude": 38.696059,
+    "longitude": -79.974846,
+    "city": "Huttonsville",
+    "state": "WV",
+    "full_state": "West Virginia",
+    "county": "Randolph"
+  }
+]

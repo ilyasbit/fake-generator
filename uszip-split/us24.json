@@ -1,0 +1,8685 @@
+[
+  {
+    "zip_code": 8101,
+    "latitude": 39.80237,
+    "longitude": -74.938259,
+    "city": "Camden",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8102,
+    "latitude": 39.950912,
+    "longitude": -75.118869,
+    "city": "Camden",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8103,
+    "latitude": 39.933174,
+    "longitude": -75.108519,
+    "city": "Camden",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8104,
+    "latitude": 39.916612,
+    "longitude": -75.109169,
+    "city": "Camden",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8105,
+    "latitude": 39.920162,
+    "longitude": -75.084667,
+    "city": "Camden",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8106,
+    "latitude": 39.828349,
+    "longitude": -74.994647,
+    "city": "Audubon",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8107,
+    "latitude": 39.872001,
+    "longitude": -75.053114,
+    "city": "Oaklyn",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8108,
+    "latitude": 39.834003,
+    "longitude": -74.991268,
+    "city": "Collingswood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8109,
+    "latitude": 39.950312,
+    "longitude": -75.059916,
+    "city": "Merchantville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8110,
+    "latitude": 39.839405,
+    "longitude": -74.945624,
+    "city": "Pennsauken",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 8201,
+    "latitude": 39.48909,
+    "longitude": -74.680323,
+    "city": "Absecon",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8202,
+    "latitude": 39.112027,
+    "longitude": -74.731427,
+    "city": "Avalon",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8203,
+    "latitude": 39.370172,
+    "longitude": -74.49401,
+    "city": "Brigantine",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8204,
+    "latitude": 39.110337,
+    "longitude": -74.767939,
+    "city": "Cape May",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8205,
+    "latitude": 39.482,
+    "longitude": -74.452637,
+    "city": "Absecon",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8210,
+    "latitude": 39.137841,
+    "longitude": -74.78056,
+    "city": "Cape May Court House",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8212,
+    "latitude": 38.937168,
+    "longitude": -74.965385,
+    "city": "Cape May Point",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8213,
+    "latitude": 39.509208,
+    "longitude": -74.608557,
+    "city": "Cologne",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8214,
+    "latitude": 39.056521,
+    "longitude": -74.816619,
+    "city": "Dennisville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8215,
+    "latitude": 39.530539,
+    "longitude": -74.638341,
+    "city": "Egg Harbor City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8217,
+    "latitude": 39.573741,
+    "longitude": -74.719989,
+    "city": "Elwood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8218,
+    "latitude": 39.056521,
+    "longitude": -74.816619,
+    "city": "Goshen",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8219,
+    "latitude": 39.056521,
+    "longitude": -74.816619,
+    "city": "Green Creek",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8220,
+    "latitude": 39.509208,
+    "longitude": -74.608557,
+    "city": "Leeds Point",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8221,
+    "latitude": 39.427786,
+    "longitude": -74.622112,
+    "city": "Linwood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8223,
+    "latitude": 39.13952,
+    "longitude": -74.73038,
+    "city": "Marmora",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8224,
+    "latitude": 39.595197,
+    "longitude": -74.435683,
+    "city": "New Gretna",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8225,
+    "latitude": 39.421922,
+    "longitude": -74.572227,
+    "city": "Northfield",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8226,
+    "latitude": 39.24853,
+    "longitude": -74.604409,
+    "city": "Ocean City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8230,
+    "latitude": 39.205183,
+    "longitude": -74.778293,
+    "city": "Ocean View",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8231,
+    "latitude": 39.509208,
+    "longitude": -74.608557,
+    "city": "Oceanville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8232,
+    "latitude": 39.470869,
+    "longitude": -74.686004,
+    "city": "Pleasantville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8234,
+    "latitude": 39.374067,
+    "longitude": -74.611764,
+    "city": "Egg Harbor Township",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8240,
+    "latitude": 39.487717,
+    "longitude": -74.554334,
+    "city": "Pomona",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8241,
+    "latitude": 39.521785,
+    "longitude": -74.694414,
+    "city": "Port Republic",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8242,
+    "latitude": 39.017283,
+    "longitude": -74.883671,
+    "city": "Rio Grande",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8243,
+    "latitude": 39.154028,
+    "longitude": -74.700502,
+    "city": "Sea Isle City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8244,
+    "latitude": 39.425655,
+    "longitude": -74.664422,
+    "city": "Somers Point",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8245,
+    "latitude": 39.09998,
+    "longitude": -74.848733,
+    "city": "South Dennis",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8246,
+    "latitude": 39.056521,
+    "longitude": -74.816619,
+    "city": "South Seaville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8247,
+    "latitude": 39.047882,
+    "longitude": -74.77505,
+    "city": "Stone Harbor",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8248,
+    "latitude": 39.192018,
+    "longitude": -74.661977,
+    "city": "Strathmere",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8250,
+    "latitude": 39.056521,
+    "longitude": -74.816619,
+    "city": "Tuckahoe",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8251,
+    "latitude": 39.140921,
+    "longitude": -74.851181,
+    "city": "Villas",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8252,
+    "latitude": 39.042124,
+    "longitude": -74.861792,
+    "city": "Whitesboro",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8260,
+    "latitude": 39.067777,
+    "longitude": -74.77674,
+    "city": "Wildwood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8270,
+    "latitude": 39.158165,
+    "longitude": -74.786886,
+    "city": "Woodbine",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cape May"
+  },
+  {
+    "zip_code": 8302,
+    "latitude": 39.3762,
+    "longitude": -75.1617,
+    "city": "Bridgeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8310,
+    "latitude": 39.523712,
+    "longitude": -74.899762,
+    "city": "Buena",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8311,
+    "latitude": 39.330611,
+    "longitude": -75.117761,
+    "city": "Cedarville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8312,
+    "latitude": 39.653531,
+    "longitude": -75.078625,
+    "city": "Clayton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 8313,
+    "latitude": 39.529261,
+    "longitude": -75.224865,
+    "city": "Deerfield Street",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8314,
+    "latitude": 39.358151,
+    "longitude": -74.977352,
+    "city": "Delmont",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8315,
+    "latitude": 39.273214,
+    "longitude": -75.095025,
+    "city": "Dividing Creek",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8316,
+    "latitude": 39.267898,
+    "longitude": -74.979118,
+    "city": "Dorchester",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8317,
+    "latitude": 39.425858,
+    "longitude": -74.826057,
+    "city": "Dorothy",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8318,
+    "latitude": 39.548074,
+    "longitude": -75.198368,
+    "city": "Elmer",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 8319,
+    "latitude": 39.376144,
+    "longitude": -74.805412,
+    "city": "Estell Manor",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8320,
+    "latitude": 39.379906,
+    "longitude": -75.221681,
+    "city": "Fairton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8321,
+    "latitude": 39.273034,
+    "longitude": -75.19137,
+    "city": "Fortescue",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8322,
+    "latitude": 39.59823,
+    "longitude": -75.035749,
+    "city": "Franklinville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 8323,
+    "latitude": 39.405498,
+    "longitude": -75.320881,
+    "city": "Greenwich",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8324,
+    "latitude": 39.224047,
+    "longitude": -74.994184,
+    "city": "Heislerville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8326,
+    "latitude": 39.533843,
+    "longitude": -74.934493,
+    "city": "Landisville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8327,
+    "latitude": 39.387948,
+    "longitude": -75.007418,
+    "city": "Leesburg",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8328,
+    "latitude": 39.58101,
+    "longitude": -75.055482,
+    "city": "Malaga",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 8329,
+    "latitude": 39.285278,
+    "longitude": -74.998319,
+    "city": "Mauricetown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8330,
+    "latitude": 39.47204,
+    "longitude": -74.71588,
+    "city": "Mays Landing",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8332,
+    "latitude": 39.370401,
+    "longitude": -75.04282,
+    "city": "Millville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8340,
+    "latitude": 39.447855,
+    "longitude": -74.869885,
+    "city": "Milmay",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8341,
+    "latitude": 39.530779,
+    "longitude": -74.940036,
+    "city": "Minotola",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8342,
+    "latitude": 39.50208,
+    "longitude": -74.833469,
+    "city": "Mizpah",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8343,
+    "latitude": 39.641089,
+    "longitude": -75.144475,
+    "city": "Monroeville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 8344,
+    "latitude": 39.565465,
+    "longitude": -75.014084,
+    "city": "Newfield",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 8345,
+    "latitude": 39.304244,
+    "longitude": -75.109132,
+    "city": "Newport",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8346,
+    "latitude": 39.557607,
+    "longitude": -74.870807,
+    "city": "Newtonville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8347,
+    "latitude": 39.499765,
+    "longitude": -75.082022,
+    "city": "Norma",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Salem"
+  },
+  {
+    "zip_code": 8348,
+    "latitude": 39.313114,
+    "longitude": -74.980668,
+    "city": "Port Elizabeth",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8349,
+    "latitude": 39.283259,
+    "longitude": -75.098448,
+    "city": "Port Norris",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8350,
+    "latitude": 39.491351,
+    "longitude": -74.875543,
+    "city": "Richland",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8352,
+    "latitude": 39.469515,
+    "longitude": -75.146176,
+    "city": "Rosenhayn",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8353,
+    "latitude": 39.42165,
+    "longitude": -75.207667,
+    "city": "Shiloh",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8360,
+    "latitude": 39.392671,
+    "longitude": -75.025676,
+    "city": "Vineland",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8361,
+    "latitude": 39.465465,
+    "longitude": -74.965279,
+    "city": "Vineland",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8362,
+    "latitude": 39.271264,
+    "longitude": -75.027671,
+    "city": "Vineland",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 8401,
+    "latitude": 39.486848,
+    "longitude": -74.643014,
+    "city": "Atlantic City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8402,
+    "latitude": 39.442068,
+    "longitude": -74.666123,
+    "city": "Margate City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8403,
+    "latitude": 39.324265,
+    "longitude": -74.513497,
+    "city": "Longport",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8404,
+    "latitude": 39.509208,
+    "longitude": -74.608557,
+    "city": "Atlantic City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8405,
+    "latitude": 39.509208,
+    "longitude": -74.608557,
+    "city": "Atlantic City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8406,
+    "latitude": 39.414646,
+    "longitude": -74.66415,
+    "city": "Ventnor City",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Atlantic"
+  },
+  {
+    "zip_code": 8501,
+    "latitude": 40.149712,
+    "longitude": -74.539598,
+    "city": "Allentown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8502,
+    "latitude": 40.461504,
+    "longitude": -74.648302,
+    "city": "Belle Mead",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8504,
+    "latitude": 40.425369,
+    "longitude": -74.668753,
+    "city": "Blawenburg",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8505,
+    "latitude": 40.101535,
+    "longitude": -74.724711,
+    "city": "Bordentown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8510,
+    "latitude": 40.193311,
+    "longitude": -74.442803,
+    "city": "Clarksburg",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8511,
+    "latitude": 40.049551,
+    "longitude": -74.557215,
+    "city": "Cookstown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8512,
+    "latitude": 40.323116,
+    "longitude": -74.516597,
+    "city": "Cranbury",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8514,
+    "latitude": 40.139913,
+    "longitude": -74.465018,
+    "city": "Cream Ridge",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8515,
+    "latitude": 40.147555,
+    "longitude": -74.661474,
+    "city": "Crosswicks",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8518,
+    "latitude": 40.12486,
+    "longitude": -74.738863,
+    "city": "Florence",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8520,
+    "latitude": 40.281558,
+    "longitude": -74.572449,
+    "city": "Hightstown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8525,
+    "latitude": 40.389675,
+    "longitude": -74.783956,
+    "city": "Hopewell",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8526,
+    "latitude": 40.162275,
+    "longitude": -74.475936,
+    "city": "Imlaystown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8527,
+    "latitude": 40.105164,
+    "longitude": -74.352814,
+    "city": "Jackson",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8528,
+    "latitude": 40.382756,
+    "longitude": -74.609551,
+    "city": "Kingston",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8530,
+    "latitude": 40.37936,
+    "longitude": -74.901535,
+    "city": "Lambertville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8533,
+    "latitude": 40.08294,
+    "longitude": -74.498741,
+    "city": "New Egypt",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8534,
+    "latitude": 40.32863,
+    "longitude": -74.813557,
+    "city": "Pennington",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8535,
+    "latitude": 40.22586,
+    "longitude": -74.452293,
+    "city": "Perrineville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8536,
+    "latitude": 40.342197,
+    "longitude": -74.582062,
+    "city": "Plainsboro",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8540,
+    "latitude": 40.343625,
+    "longitude": -74.693953,
+    "city": "Princeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8541,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Princeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8542,
+    "latitude": 40.350456,
+    "longitude": -74.658852,
+    "city": "Princeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8543,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Princeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8544,
+    "latitude": 40.349206,
+    "longitude": -74.652811,
+    "city": "Princeton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8550,
+    "latitude": 40.266858,
+    "longitude": -74.651101,
+    "city": "Princeton Junction",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8551,
+    "latitude": 40.445602,
+    "longitude": -74.840322,
+    "city": "Ringoes",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8553,
+    "latitude": 40.412705,
+    "longitude": -74.632256,
+    "city": "Rocky Hill",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8554,
+    "latitude": 40.071829,
+    "longitude": -74.711814,
+    "city": "Roebling",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8555,
+    "latitude": 40.22136,
+    "longitude": -74.474745,
+    "city": "Roosevelt",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8556,
+    "latitude": 40.419965,
+    "longitude": -74.988619,
+    "city": "Rosemont",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8557,
+    "latitude": 40.563654,
+    "longitude": -74.949409,
+    "city": "Sergeantsville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8558,
+    "latitude": 40.434255,
+    "longitude": -74.708525,
+    "city": "Skillman",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8559,
+    "latitude": 40.436413,
+    "longitude": -74.970597,
+    "city": "Stockton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8560,
+    "latitude": 40.311826,
+    "longitude": -74.863858,
+    "city": "Titusville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8561,
+    "latitude": 40.242313,
+    "longitude": -74.578709,
+    "city": "Windsor",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8562,
+    "latitude": 40.0751,
+    "longitude": -74.608402,
+    "city": "Wrightstown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8570,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "Cranbury",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8601,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8602,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8603,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8604,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8605,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8606,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8607,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8608,
+    "latitude": 40.220108,
+    "longitude": -74.764055,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8609,
+    "latitude": 40.224808,
+    "longitude": -74.741004,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8610,
+    "latitude": 40.201609,
+    "longitude": -74.704953,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8611,
+    "latitude": 40.196658,
+    "longitude": -74.741554,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8618,
+    "latitude": 40.223608,
+    "longitude": -74.732504,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8619,
+    "latitude": 40.241808,
+    "longitude": -74.696151,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8620,
+    "latitude": 40.194664,
+    "longitude": -74.639852,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8625,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8628,
+    "latitude": 40.265457,
+    "longitude": -74.816757,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8629,
+    "latitude": 40.219558,
+    "longitude": -74.733404,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8638,
+    "latitude": 40.232908,
+    "longitude": -74.716954,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8640,
+    "latitude": 40.009789,
+    "longitude": -74.605198,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8641,
+    "latitude": 39.968787,
+    "longitude": -74.62405,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Burlington"
+  },
+  {
+    "zip_code": 8645,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8646,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8647,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8648,
+    "latitude": 40.279457,
+    "longitude": -74.69118,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8650,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8666,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8677,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8690,
+    "latitude": 40.233577,
+    "longitude": -74.657602,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8691,
+    "latitude": 40.219738,
+    "longitude": -74.593949,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8695,
+    "latitude": 40.280531,
+    "longitude": -74.712018,
+    "city": "Trenton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 8701,
+    "latitude": 39.94517,
+    "longitude": -74.149784,
+    "city": "Lakewood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8720,
+    "latitude": 40.138878,
+    "longitude": -74.11221,
+    "city": "Allenwood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8721,
+    "latitude": 39.966604,
+    "longitude": -74.300023,
+    "city": "Bayville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8722,
+    "latitude": 39.927521,
+    "longitude": -74.198585,
+    "city": "Beachwood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8723,
+    "latitude": 39.940021,
+    "longitude": -74.122989,
+    "city": "Brick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8724,
+    "latitude": 39.938047,
+    "longitude": -74.17109,
+    "city": "Brick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8730,
+    "latitude": 40.107614,
+    "longitude": -74.065081,
+    "city": "Brielle",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8731,
+    "latitude": 39.876031,
+    "longitude": -74.230522,
+    "city": "Forked River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8732,
+    "latitude": 39.983267,
+    "longitude": -74.128482,
+    "city": "Island Heights",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8733,
+    "latitude": 39.992317,
+    "longitude": -74.28224,
+    "city": "Lakehurst",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8734,
+    "latitude": 39.863489,
+    "longitude": -74.168217,
+    "city": "Lanoka Harbor",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8735,
+    "latitude": 39.980917,
+    "longitude": -74.07203,
+    "city": "Lavallette",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8736,
+    "latitude": 40.121514,
+    "longitude": -74.069963,
+    "city": "Manasquan",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8738,
+    "latitude": 40.029916,
+    "longitude": -74.05688,
+    "city": "Mantoloking",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8739,
+    "latitude": 40.000759,
+    "longitude": -74.24928,
+    "city": "Normandy Beach",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8740,
+    "latitude": 39.926628,
+    "longitude": -74.133332,
+    "city": "Ocean Gate",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8741,
+    "latitude": 40.003246,
+    "longitude": -74.109626,
+    "city": "Pine Beach",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8742,
+    "latitude": 39.954807,
+    "longitude": -74.157056,
+    "city": "Point Pleasant Beach",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8750,
+    "latitude": 40.161392,
+    "longitude": -74.043772,
+    "city": "Sea Girt",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Monmouth"
+  },
+  {
+    "zip_code": 8751,
+    "latitude": 39.945991,
+    "longitude": -74.181649,
+    "city": "Seaside Heights",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8752,
+    "latitude": 39.805832,
+    "longitude": -74.145694,
+    "city": "Seaside Park",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8753,
+    "latitude": 39.958851,
+    "longitude": -74.215336,
+    "city": "Toms River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8754,
+    "latitude": 40.000759,
+    "longitude": -74.24928,
+    "city": "Toms River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8755,
+    "latitude": 40.000696,
+    "longitude": -74.256821,
+    "city": "Toms River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8756,
+    "latitude": 39.787966,
+    "longitude": -74.191058,
+    "city": "Toms River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8757,
+    "latitude": 39.943064,
+    "longitude": -74.264068,
+    "city": "Toms River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8758,
+    "latitude": 39.787943,
+    "longitude": -74.246662,
+    "city": "Waretown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8759,
+    "latitude": 39.945798,
+    "longitude": -74.29782,
+    "city": "Manchester Township",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Ocean"
+  },
+  {
+    "zip_code": 8801,
+    "latitude": 40.631008,
+    "longitude": -74.890685,
+    "city": "Annandale",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8802,
+    "latitude": 40.695034,
+    "longitude": -75.028089,
+    "city": "Asbury",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 8803,
+    "latitude": 40.563654,
+    "longitude": -74.949409,
+    "city": "Baptistown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8804,
+    "latitude": 40.646294,
+    "longitude": -75.092934,
+    "city": "Bloomsbury",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8805,
+    "latitude": 40.575402,
+    "longitude": -74.538249,
+    "city": "Bound Brook",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8807,
+    "latitude": 40.598702,
+    "longitude": -74.607518,
+    "city": "Bridgewater",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8808,
+    "latitude": 40.737213,
+    "longitude": -75.046926,
+    "city": "Broadway",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 8809,
+    "latitude": 40.5305,
+    "longitude": -74.845574,
+    "city": "Clinton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8810,
+    "latitude": 40.372306,
+    "longitude": -74.494889,
+    "city": "Dayton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8812,
+    "latitude": 40.589702,
+    "longitude": -74.463947,
+    "city": "Dunellen",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8816,
+    "latitude": 40.427697,
+    "longitude": -74.421695,
+    "city": "East Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8817,
+    "latitude": 40.519753,
+    "longitude": -74.393444,
+    "city": "Edison",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8818,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "Edison",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8820,
+    "latitude": 40.576611,
+    "longitude": -74.362616,
+    "city": "Edison",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8821,
+    "latitude": 40.566553,
+    "longitude": -74.599801,
+    "city": "Flagtown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8822,
+    "latitude": 40.50786,
+    "longitude": -74.863283,
+    "city": "Flemington",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8823,
+    "latitude": 40.440604,
+    "longitude": -74.560249,
+    "city": "Franklin Park",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8824,
+    "latitude": 40.422955,
+    "longitude": -74.549761,
+    "city": "Kendall Park",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8825,
+    "latitude": 40.58119,
+    "longitude": -75.012655,
+    "city": "Frenchtown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8826,
+    "latitude": 40.578191,
+    "longitude": -74.904575,
+    "city": "Glen Gardner",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8827,
+    "latitude": 40.6667,
+    "longitude": -74.964692,
+    "city": "Hampton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8828,
+    "latitude": 40.37554,
+    "longitude": -74.421644,
+    "city": "Helmetta",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8829,
+    "latitude": 40.668163,
+    "longitude": -74.889823,
+    "city": "High Bridge",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8830,
+    "latitude": 40.569211,
+    "longitude": -74.315042,
+    "city": "Iselin",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8831,
+    "latitude": 40.343757,
+    "longitude": -74.42887,
+    "city": "Monroe Township",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8832,
+    "latitude": 40.517559,
+    "longitude": -74.306961,
+    "city": "Keasbey",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8833,
+    "latitude": 40.635369,
+    "longitude": -74.829976,
+    "city": "Lebanon",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8834,
+    "latitude": 40.563654,
+    "longitude": -74.949409,
+    "city": "Little York",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8835,
+    "latitude": 40.541053,
+    "longitude": -74.589225,
+    "city": "Manville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8836,
+    "latitude": 40.604352,
+    "longitude": -74.5538,
+    "city": "Martinsville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8837,
+    "latitude": 40.527054,
+    "longitude": -74.350393,
+    "city": "Edison",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8840,
+    "latitude": 40.472224,
+    "longitude": -74.45194,
+    "city": "Metuchen",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8844,
+    "latitude": 40.497692,
+    "longitude": -74.670505,
+    "city": "Hillsborough",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8846,
+    "latitude": 40.575202,
+    "longitude": -74.499398,
+    "city": "Middlesex",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8848,
+    "latitude": 40.664749,
+    "longitude": -74.970542,
+    "city": "Milford",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8850,
+    "latitude": 40.448255,
+    "longitude": -74.444395,
+    "city": "Milltown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8852,
+    "latitude": 40.386942,
+    "longitude": -74.555799,
+    "city": "Monmouth Junction",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8853,
+    "latitude": 40.492604,
+    "longitude": -74.726555,
+    "city": "Neshanic Station",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8854,
+    "latitude": 40.552925,
+    "longitude": -74.457746,
+    "city": "Piscataway",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8855,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "Piscataway",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8857,
+    "latitude": 40.407319,
+    "longitude": -74.314319,
+    "city": "Old Bridge",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8858,
+    "latitude": 40.691798,
+    "longitude": -74.752537,
+    "city": "Oldwick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8859,
+    "latitude": 40.459205,
+    "longitude": -74.306956,
+    "city": "Parlin",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8861,
+    "latitude": 40.520654,
+    "longitude": -74.279144,
+    "city": "Perth Amboy",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8862,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "Perth Amboy",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8863,
+    "latitude": 40.53139,
+    "longitude": -74.31525,
+    "city": "Fords",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8865,
+    "latitude": 40.765309,
+    "longitude": -74.98743,
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 8867,
+    "latitude": 40.585926,
+    "longitude": -74.976982,
+    "city": "Pittstown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8868,
+    "latitude": 40.565493,
+    "longitude": -74.938931,
+    "city": "Quakertown",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8869,
+    "latitude": 40.573802,
+    "longitude": -74.642649,
+    "city": "Raritan",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8870,
+    "latitude": 40.563654,
+    "longitude": -74.949409,
+    "city": "Readington",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8871,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "Sayreville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8872,
+    "latitude": 40.453358,
+    "longitude": -74.334192,
+    "city": "Sayreville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8873,
+    "latitude": 40.491002,
+    "longitude": -74.523648,
+    "city": "Somerset",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8875,
+    "latitude": 40.580918,
+    "longitude": -74.711731,
+    "city": "Somerset",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8876,
+    "latitude": 40.560314,
+    "longitude": -74.66165,
+    "city": "Somerville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8877,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "South River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8878,
+    "latitude": 40.436865,
+    "longitude": -74.250942,
+    "city": "South Amboy",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8879,
+    "latitude": 40.46397,
+    "longitude": -74.274168,
+    "city": "South Amboy",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8880,
+    "latitude": 40.552253,
+    "longitude": -74.531149,
+    "city": "South Bound Brook",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8882,
+    "latitude": 40.445905,
+    "longitude": -74.381768,
+    "city": "South River",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8884,
+    "latitude": 40.385707,
+    "longitude": -74.393249,
+    "city": "Spotswood",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8885,
+    "latitude": 40.576372,
+    "longitude": -74.831105,
+    "city": "Stanton",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8886,
+    "latitude": 40.717349,
+    "longitude": -75.072957,
+    "city": "Stewartsville",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 8887,
+    "latitude": 40.52057,
+    "longitude": -74.794632,
+    "city": "Three Bridges",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8888,
+    "latitude": 40.619412,
+    "longitude": -74.740597,
+    "city": "Whitehouse",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8889,
+    "latitude": 40.615577,
+    "longitude": -74.772376,
+    "city": "Whitehouse Station",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Hunterdon"
+  },
+  {
+    "zip_code": 8890,
+    "latitude": 40.536069,
+    "longitude": -74.578872,
+    "city": "Zarephath",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8896,
+    "latitude": 40.566553,
+    "longitude": -74.599801,
+    "city": "Raritan",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 8899,
+    "latitude": 40.520254,
+    "longitude": -74.420545,
+    "city": "Edison",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8901,
+    "latitude": 40.486754,
+    "longitude": -74.444395,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8902,
+    "latitude": 40.437705,
+    "longitude": -74.488547,
+    "city": "North Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8903,
+    "latitude": 40.513854,
+    "longitude": -74.445098,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8904,
+    "latitude": 40.499866,
+    "longitude": -74.428095,
+    "city": "Highland Park",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8905,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8906,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8922,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8933,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8988,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 8989,
+    "latitude": 40.430006,
+    "longitude": -74.417344,
+    "city": "New Brunswick",
+    "state": "NJ",
+    "full_state": "New Jersey",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 9007,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9009,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9012,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9013,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9014,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9021,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9028,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9029,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9031,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9033,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9034,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9036,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9037,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9042,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9045,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9046,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9050,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9053,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9054,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9056,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9058,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9059,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9060,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9063,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9067,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9069,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9072,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9074,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9076,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9080,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9081,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9086,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9089,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9090,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9094,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9095,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9096,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9098,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9099,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9100,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9102,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9103,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9104,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9106,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9107,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9110,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9111,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9112,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9114,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9123,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9126,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9128,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9131,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9136,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9137,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9138,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9139,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9140,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9142,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9143,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9154,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9157,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9164,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9165,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9166,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9169,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9172,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9173,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9175,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9177,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9178,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9180,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9182,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9183,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9185,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9186,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9189,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9211,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9212,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9213,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9214,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9220,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9222,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9225,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9226,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9227,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9229,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9234,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9237,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9239,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9244,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9245,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9250,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9252,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9262,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9263,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9264,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9265,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9266,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9267,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9269,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9275,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9302,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9303,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9304,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9305,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9340,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9391,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9396,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9397,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9398,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9409,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9419,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9420,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9421,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9447,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9448,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9449,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9454,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9456,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9459,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9461,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9463,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9464,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9468,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9469,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9470,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9494,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9496,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9498,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9499,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9501,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9502,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9503,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9504,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9505,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9506,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9507,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9508,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9509,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9510,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9511,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9517,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9521,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9524,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9532,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9534,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9536,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9543,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9544,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9545,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9549,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9550,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9551,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9554,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9556,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9557,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9558,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9563,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9564,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9565,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9566,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9567,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9568,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9569,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9570,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9573,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9574,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9575,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9576,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9577,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9578,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9579,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9581,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9582,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9586,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9587,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9588,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9589,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9590,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9591,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9593,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9594,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9595,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9596,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9599,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9601,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9603,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9604,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9609,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9610,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9612,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9613,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9617,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9618,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9619,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9620,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9621,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9622,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9623,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9624,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9625,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9626,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9627,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9628,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9630,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9631,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9636,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9638,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9642,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9643,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9644,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9645,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9647,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9649,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9703,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9704,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9705,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9706,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9707,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9708,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9709,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9710,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9711,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9713,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9714,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9715,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9716,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9717,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9718,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9720,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9721,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9722,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9723,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9724,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9725,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9726,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9727,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9728,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9729,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9730,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9731,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9732,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9733,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9734,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9735,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9777,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9779,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9780,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9782,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9783,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9784,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9789,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9790,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9791,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9792,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9793,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9795,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9796,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9797,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9802,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9803,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9804,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9805,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9808,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9809,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9810,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9811,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9812,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9813,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9814,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9815,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9816,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9819,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9821,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9822,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9823,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9824,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9825,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9826,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9827,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9828,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9829,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9830,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9831,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9832,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9833,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9834,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9835,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9836,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9837,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9838,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9839,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9841,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9842,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9843,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9844,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9852,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9853,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9854,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9855,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9858,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9865,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9866,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9867,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9868,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9871,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9876,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9880,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9882,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9888,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9889,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9890,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9892,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9894,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9898,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 9899,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AE",
+    "county": ""
+  },
+  {
+    "zip_code": 10001,
+    "latitude": 40.750422,
+    "longitude": -73.996328,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10002,
+    "latitude": 40.718758,
+    "longitude": -73.986427,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10003,
+    "latitude": 40.730223,
+    "longitude": -73.988564,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10004,
+    "latitude": 40.696355,
+    "longitude": -74.025276,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10005,
+    "latitude": 40.706903,
+    "longitude": -74.008654,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10006,
+    "latitude": 40.708834,
+    "longitude": -74.013168,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10007,
+    "latitude": 40.713941,
+    "longitude": -74.007401,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10008,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10009,
+    "latitude": 40.72775,
+    "longitude": -73.980396,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10010,
+    "latitude": 40.739024,
+    "longitude": -73.983542,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10011,
+    "latitude": 40.740916,
+    "longitude": -73.999769,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10012,
+    "latitude": 40.729124,
+    "longitude": -73.991582,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10013,
+    "latitude": 40.722105,
+    "longitude": -74.003497,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10014,
+    "latitude": 40.738088,
+    "longitude": -74.005095,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10015,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10016,
+    "latitude": 40.745527,
+    "longitude": -73.978449,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10017,
+    "latitude": 40.752955,
+    "longitude": -73.973196,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10018,
+    "latitude": 40.755332,
+    "longitude": -73.993172,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10019,
+    "latitude": 40.765926,
+    "longitude": -73.985443,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10020,
+    "latitude": 40.735449,
+    "longitude": -73.996788,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10021,
+    "latitude": 40.768823,
+    "longitude": -73.960257,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10022,
+    "latitude": 40.758775,
+    "longitude": -73.967842,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10023,
+    "latitude": 40.776765,
+    "longitude": -73.982213,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10024,
+    "latitude": 40.80813,
+    "longitude": -73.965653,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10025,
+    "latitude": 40.798664,
+    "longitude": -73.967778,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10026,
+    "latitude": 40.802918,
+    "longitude": -73.953107,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10027,
+    "latitude": 40.812242,
+    "longitude": -73.9532,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10028,
+    "latitude": 40.776629,
+    "longitude": -73.953914,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10029,
+    "latitude": 40.791884,
+    "longitude": -73.943517,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10030,
+    "latitude": 40.818474,
+    "longitude": -73.94329,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10031,
+    "latitude": 40.823438,
+    "longitude": -73.949039,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10032,
+    "latitude": 40.839137,
+    "longitude": -73.942181,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10033,
+    "latitude": 40.851293,
+    "longitude": -73.934764,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10034,
+    "latitude": 40.863194,
+    "longitude": -73.926959,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10035,
+    "latitude": 40.801913,
+    "longitude": -73.9347,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10036,
+    "latitude": 40.75953,
+    "longitude": -73.989847,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10037,
+    "latitude": 40.813884,
+    "longitude": -73.938498,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10038,
+    "latitude": 40.710223,
+    "longitude": -74.003368,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10039,
+    "latitude": 40.826736,
+    "longitude": -73.939398,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10040,
+    "latitude": 40.858692,
+    "longitude": -73.930999,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10041,
+    "latitude": 40.703801,
+    "longitude": -74.009814,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10043,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10044,
+    "latitude": 40.761812,
+    "longitude": -73.950521,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10045,
+    "latitude": 40.70859,
+    "longitude": -74.008687,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10046,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10047,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10048,
+    "latitude": 40.71254,
+    "longitude": -74.013289,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10055,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10060,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10069,
+    "latitude": 40.777952,
+    "longitude": -73.988381,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10072,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10079,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10080,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10081,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10082,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10087,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10090,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10094,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10095,
+    "latitude": 40.748181,
+    "longitude": -73.988421,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10096,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10098,
+    "latitude": 40.748181,
+    "longitude": -73.988421,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10099,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10101,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10102,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10103,
+    "latitude": 40.760264,
+    "longitude": -73.97624,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10104,
+    "latitude": 40.760943,
+    "longitude": -73.979908,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10105,
+    "latitude": 40.762808,
+    "longitude": -73.978534,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10106,
+    "latitude": 40.765243,
+    "longitude": -73.980438,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10107,
+    "latitude": 40.766429,
+    "longitude": -73.982728,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10108,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10109,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10110,
+    "latitude": 40.753987,
+    "longitude": -73.980811,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10111,
+    "latitude": 40.759224,
+    "longitude": -73.977762,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10112,
+    "latitude": 40.759287,
+    "longitude": -73.979808,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10113,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10114,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10115,
+    "latitude": 40.811115,
+    "longitude": -73.96423,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10116,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10117,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10118,
+    "latitude": 40.748998,
+    "longitude": -73.986467,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10119,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10120,
+    "latitude": 40.750629,
+    "longitude": -73.989426,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10121,
+    "latitude": 40.74964,
+    "longitude": -73.991889,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10122,
+    "latitude": 40.751757,
+    "longitude": -73.992171,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10123,
+    "latitude": 40.751489,
+    "longitude": -73.990537,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10124,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10125,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10126,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10128,
+    "latitude": 40.780989,
+    "longitude": -73.95158,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10129,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10130,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10131,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10132,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10133,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10138,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10149,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10150,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10151,
+    "latitude": 40.763419,
+    "longitude": -73.973971,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10152,
+    "latitude": 40.758937,
+    "longitude": -73.97302,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10153,
+    "latitude": 40.764068,
+    "longitude": -73.97348,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10154,
+    "latitude": 40.758304,
+    "longitude": -73.973468,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10155,
+    "latitude": 40.761104,
+    "longitude": -73.968036,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10156,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10157,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10158,
+    "latitude": 40.749435,
+    "longitude": -73.9758,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10159,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10160,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10161,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10162,
+    "latitude": 40.769945,
+    "longitude": -73.951117,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10163,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10164,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10165,
+    "latitude": 40.752351,
+    "longitude": -73.979132,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10166,
+    "latitude": 40.754591,
+    "longitude": -73.976238,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10167,
+    "latitude": 40.754858,
+    "longitude": -73.97497,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10168,
+    "latitude": 40.751933,
+    "longitude": -73.976794,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10169,
+    "latitude": 40.75474,
+    "longitude": -73.976595,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10170,
+    "latitude": 40.752621,
+    "longitude": -73.97548,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10171,
+    "latitude": 40.756447,
+    "longitude": -73.974821,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10172,
+    "latitude": 40.755839,
+    "longitude": -73.975279,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10173,
+    "latitude": 40.754305,
+    "longitude": -73.979564,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10174,
+    "latitude": 40.751656,
+    "longitude": -73.97516,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10175,
+    "latitude": 40.754305,
+    "longitude": -73.979782,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10176,
+    "latitude": 40.75557,
+    "longitude": -73.978877,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10177,
+    "latitude": 40.755332,
+    "longitude": -73.976082,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10178,
+    "latitude": 40.751378,
+    "longitude": -73.978507,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10179,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10184,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10185,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10196,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10197,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10199,
+    "latitude": 40.750308,
+    "longitude": -74.00058,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10203,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10211,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10212,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10213,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10242,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10249,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10256,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10257,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10258,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10259,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10260,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10261,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10265,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10268,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10269,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10270,
+    "latitude": 40.706925,
+    "longitude": -74.008154,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10271,
+    "latitude": 40.708918,
+    "longitude": -74.011066,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10272,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10273,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10274,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10275,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10276,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10277,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10278,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10279,
+    "latitude": 40.712697,
+    "longitude": -74.007812,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10280,
+    "latitude": 40.708857,
+    "longitude": -74.016217,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10281,
+    "latitude": 40.714643,
+    "longitude": -74.014958,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10282,
+    "latitude": 40.716597,
+    "longitude": -74.01459,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10285,
+    "latitude": 40.71533,
+    "longitude": -74.016306,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10286,
+    "latitude": 40.714231,
+    "longitude": -74.011895,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10292,
+    "latitude": 40.780751,
+    "longitude": -73.977182,
+    "city": "New York",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "New York"
+  },
+  {
+    "zip_code": 10301,
+    "latitude": 40.623632,
+    "longitude": -74.093323,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10302,
+    "latitude": 40.628923,
+    "longitude": -74.137947,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10303,
+    "latitude": 40.631697,
+    "longitude": -74.165016,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10304,
+    "latitude": 40.608389,
+    "longitude": -74.093684,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10305,
+    "latitude": 40.596828,
+    "longitude": -74.077837,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10306,
+    "latitude": 40.559668,
+    "longitude": -74.12241,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10307,
+    "latitude": 40.510723,
+    "longitude": -74.24194,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10308,
+    "latitude": 40.551191,
+    "longitude": -74.148893,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10309,
+    "latitude": 40.531767,
+    "longitude": -74.218779,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10310,
+    "latitude": 40.632943,
+    "longitude": -74.118669,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10311,
+    "latitude": 40.605245,
+    "longitude": -74.179485,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10312,
+    "latitude": 40.545163,
+    "longitude": -74.174692,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10313,
+    "latitude": 40.564393,
+    "longitude": -74.146836,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10314,
+    "latitude": 40.591006,
+    "longitude": -74.150741,
+    "city": "Staten Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 10451,
+    "latitude": 40.819329,
+    "longitude": -73.920355,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10452,
+    "latitude": 40.838729,
+    "longitude": -73.921605,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10453,
+    "latitude": 40.852728,
+    "longitude": -73.912455,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10454,
+    "latitude": 40.807129,
+    "longitude": -73.918405,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10455,
+    "latitude": 40.815029,
+    "longitude": -73.908355,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10456,
+    "latitude": 40.830529,
+    "longitude": -73.908655,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10457,
+    "latitude": 40.846129,
+    "longitude": -73.898255,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10458,
+    "latitude": 40.864728,
+    "longitude": -73.889855,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10459,
+    "latitude": 40.825629,
+    "longitude": -73.893605,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10460,
+    "latitude": 40.841829,
+    "longitude": -73.879004,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10461,
+    "latitude": 40.845279,
+    "longitude": -73.843103,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10462,
+    "latitude": 40.842729,
+    "longitude": -73.854703,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10463,
+    "latitude": 40.879528,
+    "longitude": -73.904355,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10464,
+    "latitude": 40.863028,
+    "longitude": -73.799802,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10465,
+    "latitude": 40.826879,
+    "longitude": -73.825153,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10466,
+    "latitude": 40.859878,
+    "longitude": -73.841003,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10467,
+    "latitude": 40.876328,
+    "longitude": -73.870404,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10468,
+    "latitude": 40.870978,
+    "longitude": -73.900505,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10469,
+    "latitude": 40.869978,
+    "longitude": -73.844903,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10470,
+    "latitude": 40.87143,
+    "longitude": -73.862303,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10471,
+    "latitude": 40.899178,
+    "longitude": -73.898677,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10472,
+    "latitude": 40.829529,
+    "longitude": -73.865704,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10473,
+    "latitude": 40.816229,
+    "longitude": -73.860304,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10474,
+    "latitude": 40.813929,
+    "longitude": -73.884104,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10475,
+    "latitude": 40.874878,
+    "longitude": -73.827653,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10499,
+    "latitude": 40.851549,
+    "longitude": -73.840908,
+    "city": "Bronx",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Bronx"
+  },
+  {
+    "zip_code": 10501,
+    "latitude": 41.293169,
+    "longitude": -73.759033,
+    "city": "Amawalk",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10502,
+    "latitude": 41.015096,
+    "longitude": -73.841478,
+    "city": "Ardsley",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10503,
+    "latitude": 41.025947,
+    "longitude": -73.87185,
+    "city": "Ardsley On Hudson",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10504,
+    "latitude": 41.075185,
+    "longitude": -73.761247,
+    "city": "Armonk",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10505,
+    "latitude": 41.33431,
+    "longitude": -73.749244,
+    "city": "Baldwin Place",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10506,
+    "latitude": 41.123741,
+    "longitude": -73.718481,
+    "city": "Bedford",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10507,
+    "latitude": 41.229037,
+    "longitude": -73.697998,
+    "city": "Bedford Hills",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10509,
+    "latitude": 41.415979,
+    "longitude": -73.725197,
+    "city": "Brewster",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10510,
+    "latitude": 41.05978,
+    "longitude": -73.829802,
+    "city": "Briarcliff Manor",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10511,
+    "latitude": 41.259961,
+    "longitude": -73.943495,
+    "city": "Buchanan",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10512,
+    "latitude": 41.429571,
+    "longitude": -73.777626,
+    "city": "Carmel",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10514,
+    "latitude": 41.078957,
+    "longitude": -73.775547,
+    "city": "Chappaqua",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10516,
+    "latitude": 41.455213,
+    "longitude": -73.812479,
+    "city": "Cold Spring",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10517,
+    "latitude": 41.300561,
+    "longitude": -73.861217,
+    "city": "Crompond",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10518,
+    "latitude": 41.269896,
+    "longitude": -73.612074,
+    "city": "Cross River",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10519,
+    "latitude": 41.347727,
+    "longitude": -73.661014,
+    "city": "Croton Falls",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10520,
+    "latitude": 41.122622,
+    "longitude": -73.867258,
+    "city": "Croton On Hudson",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10521,
+    "latitude": 41.234256,
+    "longitude": -73.926165,
+    "city": "Croton On Hudson",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10522,
+    "latitude": 41.011147,
+    "longitude": -73.865178,
+    "city": "Dobbs Ferry",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10523,
+    "latitude": 41.058732,
+    "longitude": -73.836784,
+    "city": "Elmsford",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10524,
+    "latitude": 41.375016,
+    "longitude": -73.931844,
+    "city": "Garrison",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10526,
+    "latitude": 41.300361,
+    "longitude": -73.647891,
+    "city": "Goldens Bridge",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10527,
+    "latitude": 41.323246,
+    "longitude": -73.757911,
+    "city": "Granite Springs",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10528,
+    "latitude": 40.979118,
+    "longitude": -73.723036,
+    "city": "Harrison",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10530,
+    "latitude": 41.019105,
+    "longitude": -73.812077,
+    "city": "Hartsdale",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10532,
+    "latitude": 41.013742,
+    "longitude": -73.835421,
+    "city": "Hawthorne",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10533,
+    "latitude": 41.079553,
+    "longitude": -73.856051,
+    "city": "Irvington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10535,
+    "latitude": 41.338568,
+    "longitude": -73.735548,
+    "city": "Jefferson Valley",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10536,
+    "latitude": 41.271614,
+    "longitude": -73.687334,
+    "city": "Katonah",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10537,
+    "latitude": 41.394819,
+    "longitude": -73.718016,
+    "city": "Lake Peekskill",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10538,
+    "latitude": 41.090197,
+    "longitude": -73.755284,
+    "city": "Larchmont",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10540,
+    "latitude": 41.333398,
+    "longitude": -73.724257,
+    "city": "Lincolndale",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10541,
+    "latitude": 41.412395,
+    "longitude": -73.752059,
+    "city": "Mahopac",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10542,
+    "latitude": 41.372581,
+    "longitude": -73.760132,
+    "city": "Mahopac Falls",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10543,
+    "latitude": 40.949199,
+    "longitude": -73.738779,
+    "city": "Mamaroneck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10545,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Maryknoll",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10546,
+    "latitude": 41.201373,
+    "longitude": -73.796456,
+    "city": "Millwood",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10547,
+    "latitude": 41.281975,
+    "longitude": -73.797555,
+    "city": "Mohegan Lake",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10548,
+    "latitude": 41.25126,
+    "longitude": -73.942877,
+    "city": "Montrose",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10549,
+    "latitude": 41.197329,
+    "longitude": -73.72286,
+    "city": "Mount Kisco",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10550,
+    "latitude": 40.909838,
+    "longitude": -73.83389,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10551,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10552,
+    "latitude": 41.011586,
+    "longitude": -73.798391,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10553,
+    "latitude": 40.909449,
+    "longitude": -73.822109,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10557,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10558,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10559,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Mount Vernon",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10560,
+    "latitude": 41.331814,
+    "longitude": -73.608451,
+    "city": "North Salem",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10562,
+    "latitude": 41.109701,
+    "longitude": -73.827995,
+    "city": "Ossining",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10566,
+    "latitude": 41.28383,
+    "longitude": -73.893116,
+    "city": "Peekskill",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10567,
+    "latitude": 41.284044,
+    "longitude": -73.893116,
+    "city": "Cortlandt Manor",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10570,
+    "latitude": 41.131069,
+    "longitude": -73.792214,
+    "city": "Pleasantville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10571,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Pleasantville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10572,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Pleasantville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10573,
+    "latitude": 41.022193,
+    "longitude": -73.679799,
+    "city": "Port Chester",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10576,
+    "latitude": 41.208519,
+    "longitude": -73.568126,
+    "city": "Pound Ridge",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10577,
+    "latitude": 41.002757,
+    "longitude": -73.751025,
+    "city": "Purchase",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10578,
+    "latitude": 41.315779,
+    "longitude": -73.645145,
+    "city": "Purdys",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10579,
+    "latitude": 41.399262,
+    "longitude": -73.776871,
+    "city": "Putnam Valley",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 10580,
+    "latitude": 40.955237,
+    "longitude": -73.744725,
+    "city": "Rye",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10581,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Rye",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10583,
+    "latitude": 40.992686,
+    "longitude": -73.799476,
+    "city": "Scarsdale",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10587,
+    "latitude": 41.328737,
+    "longitude": -73.742268,
+    "city": "Shenorock",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10588,
+    "latitude": 41.330892,
+    "longitude": -73.823549,
+    "city": "Shrub Oak",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10589,
+    "latitude": 41.326544,
+    "longitude": -73.693685,
+    "city": "Somers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10590,
+    "latitude": 41.254331,
+    "longitude": -73.542714,
+    "city": "South Salem",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10591,
+    "latitude": 41.089703,
+    "longitude": -73.844034,
+    "city": "Tarrytown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10592,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Tarrytown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10594,
+    "latitude": 41.117214,
+    "longitude": -73.771469,
+    "city": "Thornwood",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10595,
+    "latitude": 41.090218,
+    "longitude": -73.784768,
+    "city": "Valhalla",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10596,
+    "latitude": 41.254823,
+    "longitude": -73.958727,
+    "city": "Verplanck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10597,
+    "latitude": 41.297198,
+    "longitude": -73.597979,
+    "city": "Waccabuc",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10598,
+    "latitude": 41.287329,
+    "longitude": -73.790284,
+    "city": "Yorktown Heights",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10601,
+    "latitude": 41.031397,
+    "longitude": -73.769626,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10602,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10603,
+    "latitude": 41.048958,
+    "longitude": -73.783036,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10604,
+    "latitude": 41.156215,
+    "longitude": -73.805176,
+    "city": "West Harrison",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10605,
+    "latitude": 41.007597,
+    "longitude": -73.748575,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10606,
+    "latitude": 41.021686,
+    "longitude": -73.766044,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10607,
+    "latitude": 41.039235,
+    "longitude": -73.807293,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10610,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10625,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10629,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10633,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10650,
+    "latitude": 41.013696,
+    "longitude": -73.705975,
+    "city": "White Plains",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10701,
+    "latitude": 40.946107,
+    "longitude": -73.866926,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10702,
+    "latitude": 41.119008,
+    "longitude": -73.732996,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10703,
+    "latitude": 40.959347,
+    "longitude": -73.881329,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10704,
+    "latitude": 40.922938,
+    "longitude": -73.861941,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10705,
+    "latitude": 40.926538,
+    "longitude": -73.872529,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10706,
+    "latitude": 40.987797,
+    "longitude": -73.862969,
+    "city": "Hastings On Hudson",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10707,
+    "latitude": 40.960498,
+    "longitude": -73.816127,
+    "city": "Tuckahoe",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10708,
+    "latitude": 40.938448,
+    "longitude": -73.829978,
+    "city": "Bronxville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10709,
+    "latitude": 40.956098,
+    "longitude": -73.812177,
+    "city": "Eastchester",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10710,
+    "latitude": 40.967946,
+    "longitude": -73.84736,
+    "city": "Yonkers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10801,
+    "latitude": 41.035123,
+    "longitude": -73.801401,
+    "city": "New Rochelle",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10802,
+    "latitude": 40.948274,
+    "longitude": -73.795361,
+    "city": "New Rochelle",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10803,
+    "latitude": 40.904538,
+    "longitude": -73.806277,
+    "city": "Pelham",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10804,
+    "latitude": 40.951498,
+    "longitude": -73.786526,
+    "city": "New Rochelle",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10805,
+    "latitude": 40.899599,
+    "longitude": -73.780976,
+    "city": "New Rochelle",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Westchester"
+  },
+  {
+    "zip_code": 10901,
+    "latitude": 41.137295,
+    "longitude": -74.105737,
+    "city": "Suffern",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10910,
+    "latitude": 41.386195,
+    "longitude": -74.125718,
+    "city": "Arden",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10911,
+    "latitude": 41.160945,
+    "longitude": -74.060826,
+    "city": "Bear Mountain",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10912,
+    "latitude": 41.387822,
+    "longitude": -74.354699,
+    "city": "Bellvale",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10913,
+    "latitude": 41.068782,
+    "longitude": -73.957282,
+    "city": "Blauvelt",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10914,
+    "latitude": 41.464867,
+    "longitude": -74.255646,
+    "city": "Blooming Grove",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10915,
+    "latitude": 41.555634,
+    "longitude": -74.328805,
+    "city": "Bullville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10916,
+    "latitude": 41.443168,
+    "longitude": -74.258172,
+    "city": "Campbell Hall",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10917,
+    "latitude": 41.329224,
+    "longitude": -74.121764,
+    "city": "Central Valley",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10918,
+    "latitude": 41.414188,
+    "longitude": -74.348151,
+    "city": "Chester",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10919,
+    "latitude": 41.53156,
+    "longitude": -74.370569,
+    "city": "Circleville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10920,
+    "latitude": 41.152545,
+    "longitude": -73.936305,
+    "city": "Congers",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10921,
+    "latitude": 41.319956,
+    "longitude": -74.36699,
+    "city": "Florida",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10922,
+    "latitude": 41.334557,
+    "longitude": -73.99175,
+    "city": "Fort Montgomery",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10923,
+    "latitude": 41.203984,
+    "longitude": -74.003167,
+    "city": "Garnerville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10924,
+    "latitude": 41.357428,
+    "longitude": -74.210608,
+    "city": "Goshen",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10925,
+    "latitude": 41.297325,
+    "longitude": -74.26484,
+    "city": "Greenwood Lake",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10926,
+    "latitude": 41.300486,
+    "longitude": -74.124934,
+    "city": "Harriman",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10927,
+    "latitude": 41.191694,
+    "longitude": -73.964933,
+    "city": "Haverstraw",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10928,
+    "latitude": 41.398883,
+    "longitude": -74.255846,
+    "city": "Highland Falls",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10930,
+    "latitude": 41.372924,
+    "longitude": -74.245108,
+    "city": "Highland Mills",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10931,
+    "latitude": 41.120195,
+    "longitude": -74.170639,
+    "city": "Hillburn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10932,
+    "latitude": 41.485227,
+    "longitude": -74.484249,
+    "city": "Howells",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10933,
+    "latitude": 41.365286,
+    "longitude": -74.510918,
+    "city": "Johnson",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10940,
+    "latitude": 41.390109,
+    "longitude": -74.340401,
+    "city": "Middletown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10941,
+    "latitude": 41.370586,
+    "longitude": -74.354017,
+    "city": "Middletown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10943,
+    "latitude": 41.387822,
+    "longitude": -74.354699,
+    "city": "Middletown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10950,
+    "latitude": 41.343092,
+    "longitude": -74.316824,
+    "city": "Monroe",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10952,
+    "latitude": 41.118595,
+    "longitude": -74.084536,
+    "city": "Monsey",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10953,
+    "latitude": 41.409284,
+    "longitude": -74.083045,
+    "city": "Mountainville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10954,
+    "latitude": 41.097716,
+    "longitude": -74.010934,
+    "city": "Nanuet",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10956,
+    "latitude": 41.149494,
+    "longitude": -73.98827,
+    "city": "New City",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10958,
+    "latitude": 41.375634,
+    "longitude": -74.43375,
+    "city": "New Hampton",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10959,
+    "latitude": 41.387822,
+    "longitude": -74.354699,
+    "city": "New Milford",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10960,
+    "latitude": 41.080474,
+    "longitude": -73.930179,
+    "city": "Nyack",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10962,
+    "latitude": 41.057496,
+    "longitude": -73.953181,
+    "city": "Orangeburg",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10963,
+    "latitude": 41.401702,
+    "longitude": -74.536702,
+    "city": "Otisville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10964,
+    "latitude": 41.008947,
+    "longitude": -73.92093,
+    "city": "Palisades",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10965,
+    "latitude": 41.061476,
+    "longitude": -74.018283,
+    "city": "Pearl River",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10968,
+    "latitude": 41.040946,
+    "longitude": -73.918205,
+    "city": "Piermont",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10969,
+    "latitude": 41.325856,
+    "longitude": -74.488954,
+    "city": "Pine Island",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10970,
+    "latitude": 41.18416,
+    "longitude": -74.045358,
+    "city": "Pomona",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10973,
+    "latitude": 41.386099,
+    "longitude": -74.480395,
+    "city": "Slate Hill",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10974,
+    "latitude": 41.157473,
+    "longitude": -74.200784,
+    "city": "Sloatsburg",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10975,
+    "latitude": 41.332379,
+    "longitude": -74.113857,
+    "city": "Southfields",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10976,
+    "latitude": 41.083784,
+    "longitude": -74.061335,
+    "city": "Sparkill",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10977,
+    "latitude": 41.115833,
+    "longitude": -74.047384,
+    "city": "Spring Valley",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10979,
+    "latitude": 41.182344,
+    "longitude": -74.318354,
+    "city": "Sterling Forest",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10980,
+    "latitude": 41.235675,
+    "longitude": -74.028095,
+    "city": "Stony Point",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10981,
+    "latitude": 41.323172,
+    "longitude": -74.288565,
+    "city": "Sugar Loaf",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10982,
+    "latitude": 41.160945,
+    "longitude": -74.060826,
+    "city": "Tallman",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10983,
+    "latitude": 41.027646,
+    "longitude": -73.948404,
+    "city": "Tappan",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10984,
+    "latitude": 41.206898,
+    "longitude": -74.015411,
+    "city": "Thiells",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10985,
+    "latitude": 41.574986,
+    "longitude": -74.322534,
+    "city": "Thompson Ridge",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10986,
+    "latitude": 41.265953,
+    "longitude": -73.982912,
+    "city": "Tomkins Cove",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10987,
+    "latitude": 41.28142,
+    "longitude": -74.204924,
+    "city": "Tuxedo Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10988,
+    "latitude": 41.314931,
+    "longitude": -74.550346,
+    "city": "Unionville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10989,
+    "latitude": 41.122868,
+    "longitude": -73.934844,
+    "city": "Valley Cottage",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10990,
+    "latitude": 41.350681,
+    "longitude": -74.32116,
+    "city": "Warwick",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10992,
+    "latitude": 41.407974,
+    "longitude": -74.345433,
+    "city": "Washingtonville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10993,
+    "latitude": 41.208044,
+    "longitude": -73.975833,
+    "city": "West Haverstraw",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10994,
+    "latitude": 41.100622,
+    "longitude": -73.970482,
+    "city": "West Nyack",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10995,
+    "latitude": 41.160945,
+    "longitude": -74.060826,
+    "city": "West Nyack",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Rockland"
+  },
+  {
+    "zip_code": 10996,
+    "latitude": 41.36471,
+    "longitude": -73.998375,
+    "city": "West Point",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10997,
+    "latitude": 41.387822,
+    "longitude": -74.354699,
+    "city": "West Point",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 10998,
+    "latitude": 41.331044,
+    "longitude": -74.456673,
+    "city": "Westtown",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 11001,
+    "latitude": 40.720051,
+    "longitude": -73.706783,
+    "city": "Floral Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11002,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Floral Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11003,
+    "latitude": 40.697558,
+    "longitude": -73.704946,
+    "city": "Elmont",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11004,
+    "latitude": 40.745263,
+    "longitude": -73.711159,
+    "city": "Glen Oaks",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11005,
+    "latitude": 40.757057,
+    "longitude": -73.7182,
+    "city": "Floral Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11010,
+    "latitude": 40.700101,
+    "longitude": -73.674074,
+    "city": "Franklin Square",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11020,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11021,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11022,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11023,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11024,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11025,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11026,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11027,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Great Neck",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11030,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Manhasset",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11040,
+    "latitude": 40.729351,
+    "longitude": -73.682824,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11041,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11042,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11043,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11044,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11050,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11051,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11052,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11053,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11054,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11055,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "Port Washington",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11096,
+    "latitude": 40.620492,
+    "longitude": -73.747376,
+    "city": "Inwood",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11099,
+    "latitude": 40.754757,
+    "longitude": -73.601772,
+    "city": "New Hyde Park",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 11101,
+    "latitude": 40.744622,
+    "longitude": -73.934502,
+    "city": "Long Island City",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11102,
+    "latitude": 40.770808,
+    "longitude": -73.92516,
+    "city": "Astoria",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11103,
+    "latitude": 40.761884,
+    "longitude": -73.911642,
+    "city": "Astoria",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11104,
+    "latitude": 40.742794,
+    "longitude": -73.918216,
+    "city": "Sunnyside",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11105,
+    "latitude": 40.776468,
+    "longitude": -73.908761,
+    "city": "Astoria",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11106,
+    "latitude": 40.760601,
+    "longitude": -73.930984,
+    "city": "Astoria",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11109,
+    "latitude": 40.651378,
+    "longitude": -73.870779,
+    "city": "Long Island City",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11120,
+    "latitude": 40.651378,
+    "longitude": -73.870779,
+    "city": "Long Island City",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Queens"
+  },
+  {
+    "zip_code": 11201,
+    "latitude": 40.694481,
+    "longitude": -73.989319,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11202,
+    "latitude": 40.645099,
+    "longitude": -73.945032,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11203,
+    "latitude": 40.663551,
+    "longitude": -73.949389,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11204,
+    "latitude": 40.603838,
+    "longitude": -73.987635,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11205,
+    "latitude": 40.682507,
+    "longitude": -73.936274,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11206,
+    "latitude": 40.700453,
+    "longitude": -73.949255,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11207,
+    "latitude": 40.670925,
+    "longitude": -73.895216,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11208,
+    "latitude": 40.662195,
+    "longitude": -73.912945,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11209,
+    "latitude": 40.622459,
+    "longitude": -74.028749,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11210,
+    "latitude": 40.625468,
+    "longitude": -73.945521,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11211,
+    "latitude": 40.707789,
+    "longitude": -73.945344,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  },
+  {
+    "zip_code": 11212,
+    "latitude": 40.663845,
+    "longitude": -73.916406,
+    "city": "Brooklyn",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Kings"
+  }
+]

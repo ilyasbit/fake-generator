@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 58802,
+    "latitude": 48.168836,
+    "longitude": -103.614824,
+    "city": "Williston",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58830,
+    "latitude": 48.538749,
+    "longitude": -103.47341,
+    "city": "Alamo",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58831,
+    "latitude": 47.737435,
+    "longitude": -103.298383,
+    "city": "Alexander",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58833,
+    "latitude": 48.816502,
+    "longitude": -103.467251,
+    "city": "Ambrose",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Divide"
+  },
+  {
+    "zip_code": 58835,
+    "latitude": 47.807748,
+    "longitude": -103.438887,
+    "city": "Arnegard",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58838,
+    "latitude": 47.737435,
+    "longitude": -103.298383,
+    "city": "Cartwright",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58843,
+    "latitude": 48.276356,
+    "longitude": -103.376284,
+    "city": "Epping",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58844,
+    "latitude": 48.816502,
+    "longitude": -103.467251,
+    "city": "Fortuna",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Divide"
+  },
+  {
+    "zip_code": 58845,
+    "latitude": 48.5252,
+    "longitude": -103.917588,
+    "city": "Grenora",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58847,
+    "latitude": 47.737435,
+    "longitude": -103.298383,
+    "city": "Keene",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58849,
+    "latitude": 48.321696,
+    "longitude": -103.165391,
+    "city": "Ray",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58852,
+    "latitude": 48.364623,
+    "longitude": -102.957597,
+    "city": "Tioga",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58853,
+    "latitude": 48.295057,
+    "longitude": -103.438083,
+    "city": "Trenton",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 58854,
+    "latitude": 47.802905,
+    "longitude": -103.2667,
+    "city": "Watford City",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Mckenzie"
+  },
+  {
+    "zip_code": 58856,
+    "latitude": 48.532242,
+    "longitude": -103.772098,
+    "city": "Zahl",
+    "state": "ND",
+    "full_state": "North Dakota",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 59001,
+    "latitude": 45.515571,
+    "longitude": -109.455156,
+    "city": "Absarokee",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59002,
+    "latitude": 45.929056,
+    "longitude": -108.688831,
+    "city": "Acton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59003,
+    "latitude": 45.605673,
+    "longitude": -106.278272,
+    "city": "Ashland",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59004,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Ashland",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59006,
+    "latitude": 45.892314,
+    "longitude": -108.098389,
+    "city": "Ballantine",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59007,
+    "latitude": 45.161913,
+    "longitude": -109.158349,
+    "city": "Bearcreek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59008,
+    "latitude": 45.091835,
+    "longitude": -109.034212,
+    "city": "Belfry",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59010,
+    "latitude": 46.176296,
+    "longitude": -107.33875,
+    "city": "Bighorn",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Treasure"
+  },
+  {
+    "zip_code": 59011,
+    "latitude": 45.834206,
+    "longitude": -109.950025,
+    "city": "Big Timber",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sweet Grass"
+  },
+  {
+    "zip_code": 59012,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Birney",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59013,
+    "latitude": 45.410149,
+    "longitude": -109.136458,
+    "city": "Boyd",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59014,
+    "latitude": 45.335953,
+    "longitude": -108.920853,
+    "city": "Bridger",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59015,
+    "latitude": 46.041717,
+    "longitude": -108.759561,
+    "city": "Broadview",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59016,
+    "latitude": 45.536218,
+    "longitude": -106.961213,
+    "city": "Busby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59018,
+    "latitude": 45.834082,
+    "longitude": -110.622234,
+    "city": "Clyde Park",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59019,
+    "latitude": 45.657453,
+    "longitude": -109.206617,
+    "city": "Columbus",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59020,
+    "latitude": 45.023373,
+    "longitude": -109.90697,
+    "city": "Cooke City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59022,
+    "latitude": 45.608203,
+    "longitude": -107.469868,
+    "city": "Crow Agency",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59024,
+    "latitude": 46.212579,
+    "longitude": -107.693279,
+    "city": "Custer",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59025,
+    "latitude": 45.518708,
+    "longitude": -107.481697,
+    "city": "Decker",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59026,
+    "latitude": 45.444257,
+    "longitude": -108.848692,
+    "city": "Edgar",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59027,
+    "latitude": 45.270789,
+    "longitude": -110.792071,
+    "city": "Emigrant",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59028,
+    "latitude": 45.410217,
+    "longitude": -109.771658,
+    "city": "Fishtail",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59029,
+    "latitude": 45.398686,
+    "longitude": -108.817298,
+    "city": "Fromberg",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59030,
+    "latitude": 45.114735,
+    "longitude": -110.809991,
+    "city": "Gardiner",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59031,
+    "latitude": 45.518708,
+    "longitude": -107.481697,
+    "city": "Garryowen",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59032,
+    "latitude": 47.286641,
+    "longitude": -108.763415,
+    "city": "Grass Range",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59033,
+    "latitude": 45.696301,
+    "longitude": -109.855062,
+    "city": "Greycliff",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sweet Grass"
+  },
+  {
+    "zip_code": 59034,
+    "latitude": 45.52731,
+    "longitude": -107.6963,
+    "city": "Hardin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59035,
+    "latitude": 45.308898,
+    "longitude": -107.925665,
+    "city": "Yellowtail",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59036,
+    "latitude": 46.447745,
+    "longitude": -109.843492,
+    "city": "Harlowton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Wheatland"
+  },
+  {
+    "zip_code": 59037,
+    "latitude": 45.876735,
+    "longitude": -108.211535,
+    "city": "Huntley",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59038,
+    "latitude": 46.290753,
+    "longitude": -107.228948,
+    "city": "Hysham",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Treasure"
+  },
+  {
+    "zip_code": 59039,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Ingomar",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59041,
+    "latitude": 45.494126,
+    "longitude": -108.992234,
+    "city": "Joliet",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59043,
+    "latitude": 45.620185,
+    "longitude": -106.678901,
+    "city": "Lame Deer",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59044,
+    "latitude": 45.80418,
+    "longitude": -108.227571,
+    "city": "Laurel",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59046,
+    "latitude": 46.383858,
+    "longitude": -109.003382,
+    "city": "Lavina",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Golden Valley"
+  },
+  {
+    "zip_code": 59047,
+    "latitude": 45.530664,
+    "longitude": -110.369054,
+    "city": "Livingston",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59050,
+    "latitude": 45.316565,
+    "longitude": -107.367494,
+    "city": "Lodge Grass",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59052,
+    "latitude": 45.832835,
+    "longitude": -109.955671,
+    "city": "Mc Leod",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sweet Grass"
+  },
+  {
+    "zip_code": 59053,
+    "latitude": 46.619039,
+    "longitude": -110.845396,
+    "city": "Martinsdale",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Meagher"
+  },
+  {
+    "zip_code": 59054,
+    "latitude": 46.598623,
+    "longitude": -107.869188,
+    "city": "Melstone",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Musselshell"
+  },
+  {
+    "zip_code": 59055,
+    "latitude": 45.696301,
+    "longitude": -109.855062,
+    "city": "Melville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sweet Grass"
+  },
+  {
+    "zip_code": 59057,
+    "latitude": 45.944684,
+    "longitude": -108.911917,
+    "city": "Molt",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59058,
+    "latitude": 47.414133,
+    "longitude": -107.027417,
+    "city": "Mosby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 59059,
+    "latitude": 46.515315,
+    "longitude": -108.089742,
+    "city": "Musselshell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Musselshell"
+  },
+  {
+    "zip_code": 59061,
+    "latitude": 45.475459,
+    "longitude": -109.595984,
+    "city": "Nye",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59062,
+    "latitude": 45.391078,
+    "longitude": -105.630461,
+    "city": "Otter",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59063,
+    "latitude": 45.657911,
+    "longitude": -109.047266,
+    "city": "Park City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59064,
+    "latitude": 45.964417,
+    "longitude": -107.938592,
+    "city": "Pompeys Pillar",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59065,
+    "latitude": 45.333104,
+    "longitude": -110.713691,
+    "city": "Pray",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59066,
+    "latitude": 45.518708,
+    "longitude": -107.481697,
+    "city": "Pryor",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59067,
+    "latitude": 45.948864,
+    "longitude": -109.230246,
+    "city": "Rapelje",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59068,
+    "latitude": 45.241262,
+    "longitude": -109.323626,
+    "city": "Red Lodge",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59069,
+    "latitude": 45.743871,
+    "longitude": -109.522372,
+    "city": "Reed Point",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Stillwater"
+  },
+  {
+    "zip_code": 59070,
+    "latitude": 45.354073,
+    "longitude": -109.207199,
+    "city": "Roberts",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59071,
+    "latitude": 45.319054,
+    "longitude": -108.948445,
+    "city": "Roscoe",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carbon"
+  },
+  {
+    "zip_code": 59072,
+    "latitude": 46.440929,
+    "longitude": -108.427325,
+    "city": "Roundup",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Musselshell"
+  },
+  {
+    "zip_code": 59073,
+    "latitude": 46.444224,
+    "longitude": -108.395473,
+    "city": "Roundup",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Musselshell"
+  },
+  {
+    "zip_code": 59074,
+    "latitude": 46.378527,
+    "longitude": -109.257354,
+    "city": "Ryegate",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Golden Valley"
+  },
+  {
+    "zip_code": 59075,
+    "latitude": 45.518708,
+    "longitude": -107.481697,
+    "city": "Saint Xavier",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59076,
+    "latitude": 46.176296,
+    "longitude": -107.33875,
+    "city": "Sanders",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Treasure"
+  },
+  {
+    "zip_code": 59077,
+    "latitude": 47.414133,
+    "longitude": -107.027417,
+    "city": "Sand Springs",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 59078,
+    "latitude": 46.485721,
+    "longitude": -109.834856,
+    "city": "Shawmut",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Wheatland"
+  },
+  {
+    "zip_code": 59079,
+    "latitude": 46.082782,
+    "longitude": -108.435851,
+    "city": "Shepherd",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59081,
+    "latitude": 45.004618,
+    "longitude": -109.98539,
+    "city": "Silver Gate",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59082,
+    "latitude": 45.33333,
+    "longitude": -110.477384,
+    "city": "Springdale",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59083,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Sumatra",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59084,
+    "latitude": 47.173641,
+    "longitude": -108.281168,
+    "city": "Teigen",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Petroleum"
+  },
+  {
+    "zip_code": 59085,
+    "latitude": 46.424187,
+    "longitude": -110.071194,
+    "city": "Two Dot",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Wheatland"
+  },
+  {
+    "zip_code": 59086,
+    "latitude": 46.016146,
+    "longitude": -110.599503,
+    "city": "Wilsall",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Park"
+  },
+  {
+    "zip_code": 59087,
+    "latitude": 47.002053,
+    "longitude": -108.122735,
+    "city": "Winnett",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Petroleum"
+  },
+  {
+    "zip_code": 59088,
+    "latitude": 46.091269,
+    "longitude": -108.011128,
+    "city": "Worden",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59089,
+    "latitude": 45.518708,
+    "longitude": -107.481697,
+    "city": "Wyola",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Big Horn"
+  },
+  {
+    "zip_code": 59101,
+    "latitude": 45.686966,
+    "longitude": -108.387392,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59102,
+    "latitude": 45.790379,
+    "longitude": -108.588144,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59103,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59104,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59105,
+    "latitude": 45.949726,
+    "longitude": -108.599037,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59106,
+    "latitude": 45.799217,
+    "longitude": -108.568842,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59107,
+    "latitude": 45.825204,
+    "longitude": -108.393388,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59108,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59111,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59112,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59114,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59115,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59116,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59117,
+    "latitude": 45.978288,
+    "longitude": -108.194508,
+    "city": "Billings",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Yellowstone"
+  },
+  {
+    "zip_code": 59201,
+    "latitude": 48.2088,
+    "longitude": -105.072426,
+    "city": "Wolf Point",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59211,
+    "latitude": 48.700718,
+    "longitude": -104.360729,
+    "city": "Antelope",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59212,
+    "latitude": 48.139784,
+    "longitude": -104.219188,
+    "city": "Bainville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59213,
+    "latitude": 48.280119,
+    "longitude": -104.94413,
+    "city": "Brockton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59214,
+    "latitude": 47.24993,
+    "longitude": -105.906002,
+    "city": "Brockway",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mccone"
+  },
+  {
+    "zip_code": 59215,
+    "latitude": 47.484243,
+    "longitude": -105.758852,
+    "city": "Circle",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mccone"
+  },
+  {
+    "zip_code": 59217,
+    "latitude": 47.711026,
+    "longitude": -104.183625,
+    "city": "Crane",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 59218,
+    "latitude": 48.150238,
+    "longitude": -104.517106,
+    "city": "Culbertson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59219,
+    "latitude": 48.558851,
+    "longitude": -104.294475,
+    "city": "Dagmar",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59221,
+    "latitude": 47.853542,
+    "longitude": -104.061953,
+    "city": "Fairview",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 59222,
+    "latitude": 48.781396,
+    "longitude": -105.562544,
+    "city": "Flaxville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Daniels"
+  },
+  {
+    "zip_code": 59223,
+    "latitude": 48.019588,
+    "longitude": -106.446962,
+    "city": "Fort Peck",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59225,
+    "latitude": 48.295916,
+    "longitude": -106.032354,
+    "city": "Frazer",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59226,
+    "latitude": 48.335745,
+    "longitude": -104.492637,
+    "city": "Froid",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59230,
+    "latitude": 48.43923,
+    "longitude": -106.474987,
+    "city": "Glasgow",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59231,
+    "latitude": 48.403894,
+    "longitude": -106.542815,
+    "city": "Saint Marie",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59240,
+    "latitude": 48.330241,
+    "longitude": -106.609665,
+    "city": "Glentana",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59241,
+    "latitude": 48.342617,
+    "longitude": -106.854457,
+    "city": "Hinsdale",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59242,
+    "latitude": 48.292043,
+    "longitude": -104.813996,
+    "city": "Homestead",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59243,
+    "latitude": 47.752074,
+    "longitude": -104.638367,
+    "city": "Lambert",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 59244,
+    "latitude": 48.678589,
+    "longitude": -106.357152,
+    "city": "Larslan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59245,
+    "latitude": 48.280119,
+    "longitude": -104.94413,
+    "city": "Mc Cabe",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59247,
+    "latitude": 48.544896,
+    "longitude": -104.418145,
+    "city": "Medicine Lake",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59248,
+    "latitude": 48.216068,
+    "longitude": -106.320808,
+    "city": "Nashua",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59250,
+    "latitude": 48.912477,
+    "longitude": -106.272664,
+    "city": "Opheim",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59252,
+    "latitude": 48.899627,
+    "longitude": -104.793406,
+    "city": "Outlook",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59253,
+    "latitude": 48.72942,
+    "longitude": -105.885542,
+    "city": "Peerless",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Daniels"
+  },
+  {
+    "zip_code": 59254,
+    "latitude": 48.747919,
+    "longitude": -104.468029,
+    "city": "Plentywood",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59255,
+    "latitude": 48.115522,
+    "longitude": -105.189701,
+    "city": "Poplar",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Roosevelt"
+  },
+  {
+    "zip_code": 59256,
+    "latitude": 48.694565,
+    "longitude": -104.552352,
+    "city": "Raymond",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59257,
+    "latitude": 48.728018,
+    "longitude": -104.940164,
+    "city": "Redstone",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59258,
+    "latitude": 48.569892,
+    "longitude": -104.570289,
+    "city": "Reserve",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59259,
+    "latitude": 47.463408,
+    "longitude": -104.988111,
+    "city": "Richey",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 59260,
+    "latitude": 48.650714,
+    "longitude": -106.119229,
+    "city": "Richland",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59261,
+    "latitude": 48.457237,
+    "longitude": -107.342553,
+    "city": "Saco",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59262,
+    "latitude": 47.452578,
+    "longitude": -104.342955,
+    "city": "Savage",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 59263,
+    "latitude": 48.712594,
+    "longitude": -105.535656,
+    "city": "Scobey",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Daniels"
+  },
+  {
+    "zip_code": 59270,
+    "latitude": 47.655825,
+    "longitude": -104.195206,
+    "city": "Sidney",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 59273,
+    "latitude": 48.330241,
+    "longitude": -106.609665,
+    "city": "Vandalia",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Valley"
+  },
+  {
+    "zip_code": 59274,
+    "latitude": 47.874088,
+    "longitude": -105.535752,
+    "city": "Vida",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mccone"
+  },
+  {
+    "zip_code": 59275,
+    "latitude": 48.868265,
+    "longitude": -104.314372,
+    "city": "Westby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 59276,
+    "latitude": 48.8956,
+    "longitude": -105.161657,
+    "city": "Whitetail",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Daniels"
+  },
+  {
+    "zip_code": 59301,
+    "latitude": 46.447808,
+    "longitude": -105.795343,
+    "city": "Miles City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 59311,
+    "latitude": 45.567085,
+    "longitude": -104.539066,
+    "city": "Alzada",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 59312,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Angela",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59313,
+    "latitude": 46.351496,
+    "longitude": -104.273377,
+    "city": "Baker",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fallon"
+  },
+  {
+    "zip_code": 59314,
+    "latitude": 45.391078,
+    "longitude": -105.630461,
+    "city": "Biddle",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59315,
+    "latitude": 47.409962,
+    "longitude": -104.959584,
+    "city": "Bloomfield",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 59316,
+    "latitude": 45.567085,
+    "longitude": -104.539066,
+    "city": "Boyes",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 59317,
+    "latitude": 45.25719,
+    "longitude": -105.256813,
+    "city": "Broadus",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59318,
+    "latitude": 47.414133,
+    "longitude": -107.027417,
+    "city": "Brusett",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 59319,
+    "latitude": 45.567085,
+    "longitude": -104.539066,
+    "city": "Capitol",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 59322,
+    "latitude": 47.414133,
+    "longitude": -107.027417,
+    "city": "Cohagen",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 59323,
+    "latitude": 45.934423,
+    "longitude": -106.636783,
+    "city": "Colstrip",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59324,
+    "latitude": 45.897576,
+    "longitude": -104.640001,
+    "city": "Ekalaka",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 59326,
+    "latitude": 46.860997,
+    "longitude": -105.345182,
+    "city": "Fallon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 59327,
+    "latitude": 46.174223,
+    "longitude": -106.6303,
+    "city": "Forsyth",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59330,
+    "latitude": 47.180623,
+    "longitude": -104.774873,
+    "city": "Glendive",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 59332,
+    "latitude": 45.567085,
+    "longitude": -104.539066,
+    "city": "Hammond",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 59333,
+    "latitude": 46.017965,
+    "longitude": -106.99199,
+    "city": "Hathaway",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59336,
+    "latitude": 46.323967,
+    "longitude": -105.462341,
+    "city": "Ismay",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 59337,
+    "latitude": 47.325641,
+    "longitude": -106.943963,
+    "city": "Jordan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 59338,
+    "latitude": 46.323967,
+    "longitude": -105.462341,
+    "city": "Kinsey",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 59339,
+    "latitude": 47.254164,
+    "longitude": -105.172545,
+    "city": "Lindsay",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 59341,
+    "latitude": 46.860997,
+    "longitude": -105.345182,
+    "city": "Mildred",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 59343,
+    "latitude": 45.391078,
+    "longitude": -105.630461,
+    "city": "Olive",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59344,
+    "latitude": 46.283486,
+    "longitude": -104.475079,
+    "city": "Plevna",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fallon"
+  },
+  {
+    "zip_code": 59345,
+    "latitude": 45.391078,
+    "longitude": -105.630461,
+    "city": "Powderville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59347,
+    "latitude": 46.267953,
+    "longitude": -106.666959,
+    "city": "Rosebud",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Rosebud"
+  },
+  {
+    "zip_code": 59348,
+    "latitude": 45.391078,
+    "longitude": -105.630461,
+    "city": "Sonnette",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powder River"
+  },
+  {
+    "zip_code": 59349,
+    "latitude": 46.789256,
+    "longitude": -105.312757,
+    "city": "Terry",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 59351,
+    "latitude": 46.323967,
+    "longitude": -105.462341,
+    "city": "Volborg",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Custer"
+  },
+  {
+    "zip_code": 59353,
+    "latitude": 46.824454,
+    "longitude": -104.122311,
+    "city": "Wibaux",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Wibaux"
+  },
+  {
+    "zip_code": 59354,
+    "latitude": 46.283486,
+    "longitude": -104.475079,
+    "city": "Willard",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fallon"
+  },
+  {
+    "zip_code": 59401,
+    "latitude": 47.402024,
+    "longitude": -111.422948,
+    "city": "Great Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59402,
+    "latitude": 47.510209,
+    "longitude": -111.195906,
+    "city": "Malmstrom A F B",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59403,
+    "latitude": 47.258392,
+    "longitude": -111.341975,
+    "city": "Great Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59404,
+    "latitude": 47.554109,
+    "longitude": -111.391407,
+    "city": "Great Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59405,
+    "latitude": 47.277623,
+    "longitude": -111.290803,
+    "city": "Great Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59406,
+    "latitude": 47.619998,
+    "longitude": -111.239305,
+    "city": "Great Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59410,
+    "latitude": 47.444053,
+    "longitude": -112.513362,
+    "city": "Augusta",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59411,
+    "latitude": 48.904169,
+    "longitude": -113.298384,
+    "city": "Babb",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Glacier"
+  },
+  {
+    "zip_code": 59412,
+    "latitude": 47.319621,
+    "longitude": -110.884712,
+    "city": "Belt",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59414,
+    "latitude": 47.533156,
+    "longitude": -111.234986,
+    "city": "Black Eagle",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59416,
+    "latitude": 48.065733,
+    "longitude": -111.715365,
+    "city": "Brady",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59417,
+    "latitude": 48.649105,
+    "longitude": -112.793626,
+    "city": "Browning",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Glacier"
+  },
+  {
+    "zip_code": 59418,
+    "latitude": 47.248497,
+    "longitude": -109.26308,
+    "city": "Buffalo",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59419,
+    "latitude": 48.052324,
+    "longitude": -112.457343,
+    "city": "Bynum",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59420,
+    "latitude": 47.861021,
+    "longitude": -110.471075,
+    "city": "Carter",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59421,
+    "latitude": 47.276562,
+    "longitude": -111.730457,
+    "city": "Cascade",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59422,
+    "latitude": 47.824102,
+    "longitude": -112.266872,
+    "city": "Choteau",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59424,
+    "latitude": 47.248497,
+    "longitude": -109.26308,
+    "city": "Coffee Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59425,
+    "latitude": 48.182782,
+    "longitude": -111.845931,
+    "city": "Conrad",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59427,
+    "latitude": 48.654298,
+    "longitude": -112.93062,
+    "city": "Cut Bank",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Glacier"
+  },
+  {
+    "zip_code": 59430,
+    "latitude": 47.432933,
+    "longitude": -109.973645,
+    "city": "Denton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59432,
+    "latitude": 48.181533,
+    "longitude": -112.594329,
+    "city": "Dupuyer",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59433,
+    "latitude": 47.842372,
+    "longitude": -111.795709,
+    "city": "Dutton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59434,
+    "latitude": 48.445686,
+    "longitude": -113.218976,
+    "city": "East Glacier Park",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Glacier"
+  },
+  {
+    "zip_code": 59435,
+    "latitude": 48.609072,
+    "longitude": -111.731852,
+    "city": "Ethridge",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59436,
+    "latitude": 47.61386,
+    "longitude": -112.207191,
+    "city": "Fairfield",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59440,
+    "latitude": 47.861021,
+    "longitude": -110.471075,
+    "city": "Floweree",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59441,
+    "latitude": 47.248497,
+    "longitude": -109.26308,
+    "city": "Forestgrove",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59442,
+    "latitude": 47.67977,
+    "longitude": -110.44038,
+    "city": "Fort Benton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59443,
+    "latitude": 47.545978,
+    "longitude": -111.875624,
+    "city": "Fort Shaw",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59444,
+    "latitude": 48.811061,
+    "longitude": -111.470386,
+    "city": "Galata",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59445,
+    "latitude": 47.055715,
+    "longitude": -109.468299,
+    "city": "Garneill",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59446,
+    "latitude": 47.600099,
+    "longitude": -110.26891,
+    "city": "Geraldine",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59447,
+    "latitude": 47.258941,
+    "longitude": -110.494703,
+    "city": "Geyser",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Judith Basin"
+  },
+  {
+    "zip_code": 59448,
+    "latitude": 48.297291,
+    "longitude": -112.845587,
+    "city": "Heart Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59450,
+    "latitude": 47.861021,
+    "longitude": -110.471075,
+    "city": "Highwood",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59451,
+    "latitude": 47.415174,
+    "longitude": -109.395158,
+    "city": "Hilger",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59452,
+    "latitude": 46.996773,
+    "longitude": -109.875615,
+    "city": "Hobson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Judith Basin"
+  },
+  {
+    "zip_code": 59453,
+    "latitude": 46.485721,
+    "longitude": -109.834856,
+    "city": "Judith Gap",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Wheatland"
+  },
+  {
+    "zip_code": 59454,
+    "latitude": 48.750313,
+    "longitude": -111.579092,
+    "city": "Kevin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59456,
+    "latitude": 48.27717,
+    "longitude": -111.828592,
+    "city": "Ledger",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59457,
+    "latitude": 47.250047,
+    "longitude": -109.381996,
+    "city": "Lewistown",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59460,
+    "latitude": 47.936513,
+    "longitude": -110.502597,
+    "city": "Loma",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59461,
+    "latitude": 48.609072,
+    "longitude": -111.731852,
+    "city": "Lothair",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 59462,
+    "latitude": 47.051079,
+    "longitude": -109.910548,
+    "city": "Moccasin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Judith Basin"
+  },
+  {
+    "zip_code": 59463,
+    "latitude": 47.05149,
+    "longitude": -110.883026,
+    "city": "Monarch",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59464,
+    "latitude": 46.974485,
+    "longitude": -109.693316,
+    "city": "Moore",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59465,
+    "latitude": 47.293879,
+    "longitude": -111.153717,
+    "city": "Neihart",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59466,
+    "latitude": 48.825895,
+    "longitude": -111.691145,
+    "city": "Oilmont",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59467,
+    "latitude": 48.042871,
+    "longitude": -112.316655,
+    "city": "Pendroy",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59468,
+    "latitude": 47.726972,
+    "longitude": -111.6938,
+    "city": "Power",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Teton"
+  },
+  {
+    "zip_code": 59469,
+    "latitude": 47.044583,
+    "longitude": -110.267003,
+    "city": "Raynesford",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Judith Basin"
+  },
+  {
+    "zip_code": 59471,
+    "latitude": 47.308278,
+    "longitude": -109.085342,
+    "city": "Roy",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59472,
+    "latitude": 47.408651,
+    "longitude": -111.136243,
+    "city": "Sand Coulee",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59473,
+    "latitude": 48.65417,
+    "longitude": -113.126262,
+    "city": "Santa Rita",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Glacier"
+  },
+  {
+    "zip_code": 59474,
+    "latitude": 48.610551,
+    "longitude": -111.73233,
+    "city": "Shelby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59477,
+    "latitude": 47.495784,
+    "longitude": -111.886092,
+    "city": "Simms",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59479,
+    "latitude": 47.151357,
+    "longitude": -110.222384,
+    "city": "Stanford",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Judith Basin"
+  },
+  {
+    "zip_code": 59480,
+    "latitude": 47.25466,
+    "longitude": -111.083851,
+    "city": "Stockett",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59482,
+    "latitude": 48.879199,
+    "longitude": -111.735136,
+    "city": "Sunburst",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59483,
+    "latitude": 47.4808,
+    "longitude": -111.753303,
+    "city": "Sun River",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59484,
+    "latitude": 48.940067,
+    "longitude": -111.849008,
+    "city": "Sweet Grass",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Toole"
+  },
+  {
+    "zip_code": 59485,
+    "latitude": 47.353925,
+    "longitude": -111.595425,
+    "city": "Ulm",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59486,
+    "latitude": 48.270833,
+    "longitude": -112.311973,
+    "city": "Valier",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Pondera"
+  },
+  {
+    "zip_code": 59487,
+    "latitude": 47.580761,
+    "longitude": -111.637014,
+    "city": "Vaughn",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Cascade"
+  },
+  {
+    "zip_code": 59489,
+    "latitude": 47.065531,
+    "longitude": -109.430106,
+    "city": "Winifred",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Fergus"
+  },
+  {
+    "zip_code": 59501,
+    "latitude": 48.663002,
+    "longitude": -110.09437,
+    "city": "Havre",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59520,
+    "latitude": 48.17641,
+    "longitude": -110.311201,
+    "city": "Big Sandy",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Chouteau"
+  },
+  {
+    "zip_code": 59521,
+    "latitude": 48.320405,
+    "longitude": -110.215299,
+    "city": "Box Elder",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59522,
+    "latitude": 48.510659,
+    "longitude": -110.967372,
+    "city": "Chester",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 59523,
+    "latitude": 48.487741,
+    "longitude": -109.261678,
+    "city": "Chinook",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59524,
+    "latitude": 48.394962,
+    "longitude": -108.246539,
+    "city": "Dodson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59525,
+    "latitude": 48.571498,
+    "longitude": -110.301301,
+    "city": "Gildford",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59526,
+    "latitude": 48.655123,
+    "longitude": -108.818157,
+    "city": "Harlem",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59527,
+    "latitude": 48.360516,
+    "longitude": -108.89392,
+    "city": "Hays",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59528,
+    "latitude": 48.571498,
+    "longitude": -110.301301,
+    "city": "Hingham",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59529,
+    "latitude": 48.360516,
+    "longitude": -108.89392,
+    "city": "Hogeland",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59530,
+    "latitude": 48.566602,
+    "longitude": -110.110287,
+    "city": "Inverness",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59531,
+    "latitude": 48.565402,
+    "longitude": -111.075884,
+    "city": "Joplin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 59532,
+    "latitude": 48.449359,
+    "longitude": -110.106003,
+    "city": "Kremlin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59535,
+    "latitude": 48.360516,
+    "longitude": -108.89392,
+    "city": "Lloyd",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59537,
+    "latitude": 48.224749,
+    "longitude": -108.035444,
+    "city": "Loring",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59538,
+    "latitude": 48.124479,
+    "longitude": -107.783145,
+    "city": "Malta",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59540,
+    "latitude": 48.566602,
+    "longitude": -110.110287,
+    "city": "Rudyard",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Hill"
+  },
+  {
+    "zip_code": 59542,
+    "latitude": 48.360516,
+    "longitude": -108.89392,
+    "city": "Turner",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59544,
+    "latitude": 48.224749,
+    "longitude": -108.035444,
+    "city": "Whitewater",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59545,
+    "latitude": 48.50968,
+    "longitude": -110.966631,
+    "city": "Whitlash",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 59546,
+    "latitude": 48.224749,
+    "longitude": -108.035444,
+    "city": "Zortman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 59547,
+    "latitude": 48.360516,
+    "longitude": -108.89392,
+    "city": "Zurich",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Blaine"
+  },
+  {
+    "zip_code": 59601,
+    "latitude": 46.70934,
+    "longitude": -112.197616,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59602,
+    "latitude": 46.707449,
+    "longitude": -111.957961,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59604,
+    "latitude": 46.6672,
+    "longitude": -111.968877,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59620,
+    "latitude": 47.184233,
+    "longitude": -112.330214,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59623,
+    "latitude": 46.590083,
+    "longitude": -112.040173,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59624,
+    "latitude": 46.610002,
+    "longitude": -112.062393,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59625,
+    "latitude": 46.601832,
+    "longitude": -112.041346,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59626,
+    "latitude": 47.184233,
+    "longitude": -112.330214,
+    "city": "Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59631,
+    "latitude": 46.329577,
+    "longitude": -112.196662,
+    "city": "Basin",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59632,
+    "latitude": 46.141948,
+    "longitude": -111.942989,
+    "city": "Boulder",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59633,
+    "latitude": 47.184233,
+    "longitude": -112.330214,
+    "city": "Canyon Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59634,
+    "latitude": 46.388739,
+    "longitude": -112.07162,
+    "city": "Clancy",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59635,
+    "latitude": 46.633769,
+    "longitude": -111.852594,
+    "city": "East Helena",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59636,
+    "latitude": 46.609677,
+    "longitude": -112.121494,
+    "city": "Fort Harrison",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59638,
+    "latitude": 46.367883,
+    "longitude": -112.023155,
+    "city": "Jefferson City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59639,
+    "latitude": 46.958253,
+    "longitude": -112.623833,
+    "city": "Lincoln",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59640,
+    "latitude": 46.749945,
+    "longitude": -112.299402,
+    "city": "Marysville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59641,
+    "latitude": 46.206922,
+    "longitude": -111.634364,
+    "city": "Radersburg",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Broadwater"
+  },
+  {
+    "zip_code": 59642,
+    "latitude": 46.636196,
+    "longitude": -110.965623,
+    "city": "Ringling",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Meagher"
+  },
+  {
+    "zip_code": 59643,
+    "latitude": 46.285118,
+    "longitude": -111.526373,
+    "city": "Toston",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Broadwater"
+  },
+  {
+    "zip_code": 59644,
+    "latitude": 46.406137,
+    "longitude": -111.399649,
+    "city": "Townsend",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Broadwater"
+  },
+  {
+    "zip_code": 59645,
+    "latitude": 46.63316,
+    "longitude": -111.050627,
+    "city": "White Sulphur Springs",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Meagher"
+  },
+  {
+    "zip_code": 59647,
+    "latitude": 46.45447,
+    "longitude": -111.650954,
+    "city": "Winston",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Broadwater"
+  },
+  {
+    "zip_code": 59648,
+    "latitude": 47.085616,
+    "longitude": -112.147602,
+    "city": "Wolf Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lewis And Clark"
+  },
+  {
+    "zip_code": 59701,
+    "latitude": 45.997895,
+    "longitude": -112.598765,
+    "city": "Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59702,
+    "latitude": 45.905345,
+    "longitude": -112.637705,
+    "city": "Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59703,
+    "latitude": 45.905345,
+    "longitude": -112.637705,
+    "city": "Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59707,
+    "latitude": 45.905345,
+    "longitude": -112.637705,
+    "city": "Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59710,
+    "latitude": 45.193898,
+    "longitude": -112.056807,
+    "city": "Alder",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59711,
+    "latitude": 46.15821,
+    "longitude": -113.009421,
+    "city": "Anaconda",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Deer Lodge"
+  },
+  {
+    "zip_code": 59713,
+    "latitude": 46.565725,
+    "longitude": -112.649859,
+    "city": "Avon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59714,
+    "latitude": 45.426786,
+    "longitude": -111.099517,
+    "city": "Belgrade",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59715,
+    "latitude": 45.809998,
+    "longitude": -111.168212,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59716,
+    "latitude": 45.27826,
+    "longitude": -111.270773,
+    "city": "Big Sky",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59717,
+    "latitude": 45.627982,
+    "longitude": -110.90128,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59718,
+    "latitude": 45.66812,
+    "longitude": -111.240393,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59719,
+    "latitude": 45.627982,
+    "longitude": -110.90128,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59720,
+    "latitude": 44.992962,
+    "longitude": -111.528472,
+    "city": "Cameron",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59721,
+    "latitude": 45.870517,
+    "longitude": -111.889682,
+    "city": "Cardwell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59722,
+    "latitude": 46.401859,
+    "longitude": -112.642136,
+    "city": "Deer Lodge",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59724,
+    "latitude": 45.149805,
+    "longitude": -112.70073,
+    "city": "Dell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59725,
+    "latitude": 45.244373,
+    "longitude": -112.99687,
+    "city": "Dillon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59727,
+    "latitude": 45.905345,
+    "longitude": -112.637705,
+    "city": "Divide",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59728,
+    "latitude": 46.503396,
+    "longitude": -112.400742,
+    "city": "Elliston",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59729,
+    "latitude": 45.289586,
+    "longitude": -111.665136,
+    "city": "Ennis",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59730,
+    "latitude": 45.338987,
+    "longitude": -111.24848,
+    "city": "Gallatin Gateway",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59731,
+    "latitude": 46.594845,
+    "longitude": -112.775572,
+    "city": "Garrison",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59732,
+    "latitude": 45.149805,
+    "longitude": -112.70073,
+    "city": "Glen",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59733,
+    "latitude": 46.58791,
+    "longitude": -112.936757,
+    "city": "Gold Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59735,
+    "latitude": 45.283594,
+    "longitude": -112.027561,
+    "city": "Harrison",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59736,
+    "latitude": 45.368653,
+    "longitude": -113.359826,
+    "city": "Jackson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59739,
+    "latitude": 44.699033,
+    "longitude": -112.663633,
+    "city": "Lima",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59740,
+    "latitude": 45.408045,
+    "longitude": -111.776123,
+    "city": "Mc Allister",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59741,
+    "latitude": 45.771228,
+    "longitude": -111.374118,
+    "city": "Manhattan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59743,
+    "latitude": 45.905345,
+    "longitude": -112.637705,
+    "city": "Melrose",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59745,
+    "latitude": 45.566095,
+    "longitude": -111.721631,
+    "city": "Norris",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59746,
+    "latitude": 45.56265,
+    "longitude": -113.018805,
+    "city": "Polaris",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59747,
+    "latitude": 45.283594,
+    "longitude": -112.027561,
+    "city": "Pony",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59748,
+    "latitude": 46.028844,
+    "longitude": -112.758914,
+    "city": "Ramsay",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59749,
+    "latitude": 45.309586,
+    "longitude": -111.932378,
+    "city": "Sheridan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59750,
+    "latitude": 45.939758,
+    "longitude": -112.736528,
+    "city": "Butte",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Silver Bow"
+  },
+  {
+    "zip_code": 59751,
+    "latitude": 45.700002,
+    "longitude": -112.253501,
+    "city": "Silver Star",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59752,
+    "latitude": 45.375515,
+    "longitude": -111.45624,
+    "city": "Three Forks",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59754,
+    "latitude": 45.492611,
+    "longitude": -112.416508,
+    "city": "Twin Bridges",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59755,
+    "latitude": 45.325565,
+    "longitude": -111.868085,
+    "city": "Virginia City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 59756,
+    "latitude": 46.218279,
+    "longitude": -112.811742,
+    "city": "Warm Springs",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Deer Lodge"
+  },
+  {
+    "zip_code": 59758,
+    "latitude": 44.763016,
+    "longitude": -111.237705,
+    "city": "West Yellowstone",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59759,
+    "latitude": 45.996345,
+    "longitude": -112.088845,
+    "city": "Whitehall",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 59760,
+    "latitude": 45.782744,
+    "longitude": -111.634532,
+    "city": "Willow Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59761,
+    "latitude": 45.542434,
+    "longitude": -113.473541,
+    "city": "Wisdom",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59762,
+    "latitude": 45.720048,
+    "longitude": -113.250784,
+    "city": "Wise River",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Beaverhead"
+  },
+  {
+    "zip_code": 59771,
+    "latitude": 45.72465,
+    "longitude": -111.123775,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59772,
+    "latitude": 45.636149,
+    "longitude": -111.064676,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59773,
+    "latitude": 45.627982,
+    "longitude": -110.90128,
+    "city": "Bozeman",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 59801,
+    "latitude": 46.853606,
+    "longitude": -113.909123,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59802,
+    "latitude": 46.989689,
+    "longitude": -113.954788,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59803,
+    "latitude": 46.811758,
+    "longitude": -113.987645,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59804,
+    "latitude": 46.846708,
+    "longitude": -114.169784,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59806,
+    "latitude": 47.116034,
+    "longitude": -114.049824,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59807,
+    "latitude": 46.910342,
+    "longitude": -113.958686,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59808,
+    "latitude": 46.977603,
+    "longitude": -114.061856,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59812,
+    "latitude": 47.116034,
+    "longitude": -114.049824,
+    "city": "Missoula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59820,
+    "latitude": 46.989275,
+    "longitude": -114.558456,
+    "city": "Alberton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59821,
+    "latitude": 47.220055,
+    "longitude": -114.024625,
+    "city": "Arlee",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59823,
+    "latitude": 46.870183,
+    "longitude": -113.727871,
+    "city": "Bonner",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59824,
+    "latitude": 47.312398,
+    "longitude": -114.176098,
+    "city": "Charlo",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59825,
+    "latitude": 46.778468,
+    "longitude": -113.683052,
+    "city": "Clinton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59826,
+    "latitude": 47.479334,
+    "longitude": -113.677639,
+    "city": "Condon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59827,
+    "latitude": 45.918972,
+    "longitude": -114.05904,
+    "city": "Conner",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59828,
+    "latitude": 46.446801,
+    "longitude": -114.117918,
+    "city": "Corvallis",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59829,
+    "latitude": 46.086434,
+    "longitude": -114.176841,
+    "city": "Darby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59830,
+    "latitude": 47.388827,
+    "longitude": -115.347934,
+    "city": "De Borgia",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59831,
+    "latitude": 47.306957,
+    "longitude": -114.328588,
+    "city": "Dixon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59832,
+    "latitude": 46.687633,
+    "longitude": -113.215445,
+    "city": "Drummond",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Granite"
+  },
+  {
+    "zip_code": 59833,
+    "latitude": 46.617296,
+    "longitude": -114.04192,
+    "city": "Florence",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59834,
+    "latitude": 47.065558,
+    "longitude": -114.251384,
+    "city": "Frenchtown",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59835,
+    "latitude": 46.060169,
+    "longitude": -114.040777,
+    "city": "Grantsdale",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59836,
+    "latitude": 47.013278,
+    "longitude": -113.444116,
+    "city": "Greenough",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59837,
+    "latitude": 46.466704,
+    "longitude": -113.23873,
+    "city": "Hall",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Granite"
+  },
+  {
+    "zip_code": 59840,
+    "latitude": 46.234189,
+    "longitude": -114.165774,
+    "city": "Hamilton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59841,
+    "latitude": 46.332893,
+    "longitude": -114.223493,
+    "city": "Pinesdale",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59842,
+    "latitude": 47.402824,
+    "longitude": -115.516347,
+    "city": "Haugan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59843,
+    "latitude": 46.863363,
+    "longitude": -112.931166,
+    "city": "Helmville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59844,
+    "latitude": 48.047863,
+    "longitude": -115.969619,
+    "city": "Heron",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59845,
+    "latitude": 47.633565,
+    "longitude": -114.553693,
+    "city": "Hot Springs",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59846,
+    "latitude": 47.067886,
+    "longitude": -114.398643,
+    "city": "Huson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59847,
+    "latitude": 46.7454,
+    "longitude": -114.299241,
+    "city": "Lolo",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59848,
+    "latitude": 47.725065,
+    "longitude": -114.657042,
+    "city": "Lonepine",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59851,
+    "latitude": 46.873695,
+    "longitude": -113.878294,
+    "city": "Milltown",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59853,
+    "latitude": 48.076781,
+    "longitude": -115.858153,
+    "city": "Noxon",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59854,
+    "latitude": 47.035882,
+    "longitude": -113.097461,
+    "city": "Ovando",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Powell"
+  },
+  {
+    "zip_code": 59855,
+    "latitude": 47.651275,
+    "longitude": -114.212413,
+    "city": "Pablo",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59856,
+    "latitude": 47.387824,
+    "longitude": -114.799,
+    "city": "Paradise",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59858,
+    "latitude": 46.272241,
+    "longitude": -113.435709,
+    "city": "Philipsburg",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Granite"
+  },
+  {
+    "zip_code": 59859,
+    "latitude": 47.603143,
+    "longitude": -115.083253,
+    "city": "Plains",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59860,
+    "latitude": 47.737279,
+    "longitude": -114.230256,
+    "city": "Polson",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59863,
+    "latitude": 47.594957,
+    "longitude": -114.101443,
+    "city": "Ravalli",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59864,
+    "latitude": 47.507347,
+    "longitude": -114.178287,
+    "city": "Ronan",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59865,
+    "latitude": 47.37245,
+    "longitude": -114.064086,
+    "city": "Saint Ignatius",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59866,
+    "latitude": 47.311106,
+    "longitude": -115.140511,
+    "city": "Saint Regis",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59867,
+    "latitude": 47.399653,
+    "longitude": -115.422358,
+    "city": "Saltese",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59868,
+    "latitude": 47.300776,
+    "longitude": -113.548481,
+    "city": "Seeley Lake",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Missoula"
+  },
+  {
+    "zip_code": 59870,
+    "latitude": 46.320508,
+    "longitude": -114.047154,
+    "city": "Stevensville",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59871,
+    "latitude": 45.843266,
+    "longitude": -113.874776,
+    "city": "Sula",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59872,
+    "latitude": 47.137198,
+    "longitude": -114.747599,
+    "city": "Superior",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 59873,
+    "latitude": 47.744885,
+    "longitude": -115.407291,
+    "city": "Thompson Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59874,
+    "latitude": 47.794472,
+    "longitude": -115.538422,
+    "city": "Trout Creek",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Sanders"
+  },
+  {
+    "zip_code": 59875,
+    "latitude": 46.395224,
+    "longitude": -114.160159,
+    "city": "Victor",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Ravalli"
+  },
+  {
+    "zip_code": 59901,
+    "latitude": 48.202765,
+    "longitude": -114.303919,
+    "city": "Kalispell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59902,
+    "latitude": 48.189424,
+    "longitude": -114.143531,
+    "city": "Kalispell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59903,
+    "latitude": 48.22372,
+    "longitude": -114.429648,
+    "city": "Kalispell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59904,
+    "latitude": 48.240382,
+    "longitude": -114.256123,
+    "city": "Kalispell",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59910,
+    "latitude": 47.76942,
+    "longitude": -114.281296,
+    "city": "Big Arm",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59911,
+    "latitude": 48.145854,
+    "longitude": -113.921121,
+    "city": "Bigfork",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59912,
+    "latitude": 48.358322,
+    "longitude": -114.345902,
+    "city": "Columbia Falls",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59913,
+    "latitude": 48.434243,
+    "longitude": -114.058384,
+    "city": "Coram",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59914,
+    "latitude": 47.854921,
+    "longitude": -114.281873,
+    "city": "Dayton",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59915,
+    "latitude": 47.696598,
+    "longitude": -114.214962,
+    "city": "Elmo",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59916,
+    "latitude": 48.324238,
+    "longitude": -113.893384,
+    "city": "Essex",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59917,
+    "latitude": 48.729135,
+    "longitude": -115.345992,
+    "city": "Eureka",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59918,
+    "latitude": 48.758601,
+    "longitude": -114.880925,
+    "city": "Fortine",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59919,
+    "latitude": 48.279332,
+    "longitude": -113.910545,
+    "city": "Hungry Horse",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59920,
+    "latitude": 48.047758,
+    "longitude": -114.513752,
+    "city": "Kila",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59921,
+    "latitude": 48.298875,
+    "longitude": -113.949739,
+    "city": "Lake Mc Donald",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59922,
+    "latitude": 48.17669,
+    "longitude": -114.234902,
+    "city": "Lakeside",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59923,
+    "latitude": 48.380992,
+    "longitude": -115.394062,
+    "city": "Libby",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59925,
+    "latitude": 48.09368,
+    "longitude": -114.727422,
+    "city": "Marion",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59926,
+    "latitude": 48.400447,
+    "longitude": -114.087311,
+    "city": "Martin City",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59927,
+    "latitude": 48.545453,
+    "longitude": -114.591981,
+    "city": "Olney",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59928,
+    "latitude": 48.77808,
+    "longitude": -114.338774,
+    "city": "Polebridge",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59929,
+    "latitude": 47.907058,
+    "longitude": -114.341333,
+    "city": "Proctor",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59930,
+    "latitude": 48.867183,
+    "longitude": -115.118207,
+    "city": "Rexford",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59931,
+    "latitude": 47.899392,
+    "longitude": -114.206827,
+    "city": "Rollins",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 59932,
+    "latitude": 48.06771,
+    "longitude": -114.2017,
+    "city": "Somers",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59933,
+    "latitude": 48.44572,
+    "longitude": -115.330964,
+    "city": "Stryker",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59934,
+    "latitude": 48.44572,
+    "longitude": -115.330964,
+    "city": "Trego",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59935,
+    "latitude": 48.580494,
+    "longitude": -115.816915,
+    "city": "Troy",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 59936,
+    "latitude": 48.432962,
+    "longitude": -114.062198,
+    "city": "West Glacier",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 59937,
+    "latitude": 48.274564,
+    "longitude": -114.365126,
+    "city": "Whitefish",
+    "state": "MT",
+    "full_state": "Montana",
+    "county": "Flathead"
+  },
+  {
+    "zip_code": 60001,
+    "latitude": 42.324761,
+    "longitude": -88.452481,
+    "city": "Alden",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60002,
+    "latitude": 42.451419,
+    "longitude": -88.075733,
+    "city": "Antioch",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60004,
+    "latitude": 42.085626,
+    "longitude": -87.99822,
+    "city": "Arlington Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60005,
+    "latitude": 42.060928,
+    "longitude": -87.883073,
+    "city": "Arlington Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60006,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Arlington Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60007,
+    "latitude": 42.020278,
+    "longitude": -87.905866,
+    "city": "Elk Grove Village",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60008,
+    "latitude": 42.074226,
+    "longitude": -88.026871,
+    "city": "Rolling Meadows",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60009,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Elk Grove Village",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60010,
+    "latitude": 42.2735,
+    "longitude": -88.072583,
+    "city": "Barrington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60011,
+    "latitude": 42.322814,
+    "longitude": -87.610053,
+    "city": "Barrington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60012,
+    "latitude": 42.232096,
+    "longitude": -88.305292,
+    "city": "Crystal Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60013,
+    "latitude": 42.204626,
+    "longitude": -88.250783,
+    "city": "Cary",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60014,
+    "latitude": 42.243772,
+    "longitude": -88.323986,
+    "city": "Crystal Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60015,
+    "latitude": 42.178175,
+    "longitude": -87.866818,
+    "city": "Deerfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60016,
+    "latitude": 42.048278,
+    "longitude": -87.890466,
+    "city": "Des Plaines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60017,
+    "latitude": 42.028779,
+    "longitude": -87.894366,
+    "city": "Des Plaines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60018,
+    "latitude": 42.015479,
+    "longitude": -87.868714,
+    "city": "Des Plaines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60019,
+    "latitude": 42.024278,
+    "longitude": -87.907066,
+    "city": "Des Plaines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60020,
+    "latitude": 42.40247,
+    "longitude": -88.170234,
+    "city": "Fox Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60021,
+    "latitude": 42.213058,
+    "longitude": -88.250406,
+    "city": "Fox River Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60022,
+    "latitude": 42.102927,
+    "longitude": -87.815914,
+    "city": "Glencoe",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60025,
+    "latitude": 42.082715,
+    "longitude": -87.819714,
+    "city": "Glenview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60026,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Glenview Nas",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60029,
+    "latitude": 42.058029,
+    "longitude": -87.791636,
+    "city": "Golf",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60030,
+    "latitude": 42.352423,
+    "longitude": -88.054502,
+    "city": "Grayslake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60031,
+    "latitude": 42.375121,
+    "longitude": -87.939683,
+    "city": "Gurnee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60033,
+    "latitude": 42.362962,
+    "longitude": -88.495375,
+    "city": "Harvard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60034,
+    "latitude": 42.455151,
+    "longitude": -88.430802,
+    "city": "Hebron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60035,
+    "latitude": 42.187424,
+    "longitude": -87.811865,
+    "city": "Highland Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60037,
+    "latitude": 42.255073,
+    "longitude": -87.818268,
+    "city": "Fort Sheridan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60038,
+    "latitude": 42.097976,
+    "longitude": -88.014072,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60039,
+    "latitude": 42.324761,
+    "longitude": -88.452481,
+    "city": "Crystal Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60040,
+    "latitude": 42.207374,
+    "longitude": -87.814666,
+    "city": "Highwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60041,
+    "latitude": 42.366521,
+    "longitude": -88.145683,
+    "city": "Ingleside",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60042,
+    "latitude": 42.27179,
+    "longitude": -88.188464,
+    "city": "Island Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60043,
+    "latitude": 42.088428,
+    "longitude": -87.71456,
+    "city": "Kenilworth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60044,
+    "latitude": 42.294172,
+    "longitude": -87.86767,
+    "city": "Lake Bluff",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60045,
+    "latitude": 42.240027,
+    "longitude": -87.877569,
+    "city": "Lake Forest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60046,
+    "latitude": 42.381271,
+    "longitude": -87.999077,
+    "city": "Lake Villa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60047,
+    "latitude": 42.216543,
+    "longitude": -88.076942,
+    "city": "Lake Zurich",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60048,
+    "latitude": 42.28947,
+    "longitude": -87.957724,
+    "city": "Libertyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60049,
+    "latitude": 42.198674,
+    "longitude": -88.041875,
+    "city": "Long Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60050,
+    "latitude": 42.296671,
+    "longitude": -88.320886,
+    "city": "Mchenry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60051,
+    "latitude": 42.324761,
+    "longitude": -88.452481,
+    "city": "Mchenry",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60053,
+    "latitude": 42.039329,
+    "longitude": -87.793815,
+    "city": "Morton Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60055,
+    "latitude": 42.097976,
+    "longitude": -88.014072,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60056,
+    "latitude": 42.062377,
+    "longitude": -87.931797,
+    "city": "Mount Prospect",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60060,
+    "latitude": 42.252523,
+    "longitude": -88.027327,
+    "city": "Mundelein",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60061,
+    "latitude": 42.231183,
+    "longitude": -87.962973,
+    "city": "Vernon Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60062,
+    "latitude": 42.120176,
+    "longitude": -87.838815,
+    "city": "Northbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60064,
+    "latitude": 42.347324,
+    "longitude": -87.962976,
+    "city": "North Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60065,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Northbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60067,
+    "latitude": 42.101977,
+    "longitude": -88.055804,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60068,
+    "latitude": 42.037228,
+    "longitude": -87.843714,
+    "city": "Park Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60069,
+    "latitude": 42.309143,
+    "longitude": -87.987213,
+    "city": "Lincolnshire",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60070,
+    "latitude": 42.105805,
+    "longitude": -87.939519,
+    "city": "Prospect Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60071,
+    "latitude": 42.328463,
+    "longitude": -88.429864,
+    "city": "Richmond",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60072,
+    "latitude": 42.404829,
+    "longitude": -88.305439,
+    "city": "Ringwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60073,
+    "latitude": 42.279215,
+    "longitude": -88.050226,
+    "city": "Round Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60074,
+    "latitude": 42.129875,
+    "longitude": -88.049424,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60075,
+    "latitude": 42.322814,
+    "longitude": -87.610053,
+    "city": "Russell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60076,
+    "latitude": 42.057878,
+    "longitude": -87.883566,
+    "city": "Skokie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60077,
+    "latitude": 42.03468,
+    "longitude": -87.76266,
+    "city": "Skokie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60078,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60079,
+    "latitude": 42.322814,
+    "longitude": -87.610053,
+    "city": "Waukegan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60080,
+    "latitude": 42.442519,
+    "longitude": -88.276047,
+    "city": "Solon Mills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60081,
+    "latitude": 42.367273,
+    "longitude": -88.252639,
+    "city": "Spring Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60082,
+    "latitude": 42.116377,
+    "longitude": -87.812064,
+    "city": "Techny",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60083,
+    "latitude": 42.440139,
+    "longitude": -87.940027,
+    "city": "Wadsworth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60084,
+    "latitude": 42.249873,
+    "longitude": -88.073127,
+    "city": "Wauconda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60085,
+    "latitude": 42.327366,
+    "longitude": -87.982025,
+    "city": "Waukegan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60086,
+    "latitude": 42.43335,
+    "longitude": -87.776595,
+    "city": "North Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60087,
+    "latitude": 42.372921,
+    "longitude": -87.868471,
+    "city": "Waukegan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60088,
+    "latitude": 42.309272,
+    "longitude": -87.85427,
+    "city": "Great Lakes",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60089,
+    "latitude": 42.180411,
+    "longitude": -87.960771,
+    "city": "Buffalo Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60090,
+    "latitude": 42.124176,
+    "longitude": -87.933819,
+    "city": "Wheeling",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60091,
+    "latitude": 42.079228,
+    "longitude": -87.72836,
+    "city": "Wilmette",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60092,
+    "latitude": 42.322814,
+    "longitude": -87.610053,
+    "city": "Libertyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60093,
+    "latitude": 42.112176,
+    "longitude": -87.940168,
+    "city": "Winnetka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60094,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60095,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palatine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60096,
+    "latitude": 42.47832,
+    "longitude": -87.834222,
+    "city": "Winthrop Harbor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60097,
+    "latitude": 42.355165,
+    "longitude": -88.332794,
+    "city": "Wonder Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60098,
+    "latitude": 42.320271,
+    "longitude": -88.462832,
+    "city": "Woodstock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60099,
+    "latitude": 42.45577,
+    "longitude": -87.884975,
+    "city": "Zion",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 60101,
+    "latitude": 41.887579,
+    "longitude": -88.022516,
+    "city": "Addison",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60102,
+    "latitude": 42.280715,
+    "longitude": -88.461937,
+    "city": "Algonquin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60103,
+    "latitude": 42.033376,
+    "longitude": -88.157756,
+    "city": "Bartlett",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60104,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Bellwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60105,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Bensenville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60106,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Bensenville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60107,
+    "latitude": 42.019093,
+    "longitude": -88.178475,
+    "city": "Streamwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60108,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Bloomingdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60109,
+    "latitude": 42.045792,
+    "longitude": -88.539027,
+    "city": "Burlington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60110,
+    "latitude": 42.125008,
+    "longitude": -88.297238,
+    "city": "Carpentersville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60111,
+    "latitude": 42.008626,
+    "longitude": -88.83055,
+    "city": "Clare",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60112,
+    "latitude": 41.926177,
+    "longitude": -88.684007,
+    "city": "Cortland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60113,
+    "latitude": 41.931158,
+    "longitude": -88.956564,
+    "city": "Creston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 60115,
+    "latitude": 41.816826,
+    "longitude": -88.79101,
+    "city": "Dekalb",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60116,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60117,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Bloomingdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60118,
+    "latitude": 42.022867,
+    "longitude": -88.417789,
+    "city": "Dundee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60119,
+    "latitude": 41.834928,
+    "longitude": -88.469931,
+    "city": "Elburn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60120,
+    "latitude": 41.990689,
+    "longitude": -88.429777,
+    "city": "Elgin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60121,
+    "latitude": 42.04133,
+    "longitude": -88.3126,
+    "city": "Elgin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60122,
+    "latitude": 42.067101,
+    "longitude": -88.304994,
+    "city": "Elgin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60123,
+    "latitude": 42.036325,
+    "longitude": -88.371044,
+    "city": "Elgin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60125,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60126,
+    "latitude": 41.88353,
+    "longitude": -87.946413,
+    "city": "Elmhurst",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60128,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60129,
+    "latitude": 42.042932,
+    "longitude": -88.919791,
+    "city": "Esmond",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60130,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Forest Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60131,
+    "latitude": 41.93598,
+    "longitude": -87.884962,
+    "city": "Franklin Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60132,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60133,
+    "latitude": 41.977842,
+    "longitude": -88.143199,
+    "city": "Hanover Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60134,
+    "latitude": 41.97974,
+    "longitude": -88.406165,
+    "city": "Geneva",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60135,
+    "latitude": 42.10153,
+    "longitude": -88.718101,
+    "city": "Genoa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60136,
+    "latitude": 42.102524,
+    "longitude": -88.379932,
+    "city": "Gilberts",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60137,
+    "latitude": 41.872034,
+    "longitude": -88.029385,
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60138,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60139,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Glendale Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60140,
+    "latitude": 42.027886,
+    "longitude": -88.454812,
+    "city": "Hampshire",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60141,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Hines",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60142,
+    "latitude": 42.197379,
+    "longitude": -88.450815,
+    "city": "Huntley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60143,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Itasca",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60144,
+    "latitude": 41.936977,
+    "longitude": -88.420178,
+    "city": "Kaneville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60145,
+    "latitude": 42.090787,
+    "longitude": -88.762765,
+    "city": "Kingston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60146,
+    "latitude": 42.087039,
+    "longitude": -88.871153,
+    "city": "Kirkland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60147,
+    "latitude": 41.936977,
+    "longitude": -88.420178,
+    "city": "Lafox",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60148,
+    "latitude": 41.869829,
+    "longitude": -88.003864,
+    "city": "Lombard",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60150,
+    "latitude": 41.931731,
+    "longitude": -88.88516,
+    "city": "Malta",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60151,
+    "latitude": 41.922915,
+    "longitude": -88.507929,
+    "city": "Maple Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60152,
+    "latitude": 42.255176,
+    "longitude": -88.607897,
+    "city": "Marengo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60153,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Maywood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60154,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Westchester",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60155,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Broadview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60156,
+    "latitude": 42.203063,
+    "longitude": -88.320474,
+    "city": "Lake In The Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60157,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Medinah",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60159,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60160,
+    "latitude": 41.91488,
+    "longitude": -87.858707,
+    "city": "Melrose Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60161,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Melrose Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60162,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Hillside",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60163,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Berkeley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60164,
+    "latitude": 41.92138,
+    "longitude": -87.892412,
+    "city": "Melrose Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60165,
+    "latitude": 41.90743,
+    "longitude": -87.878011,
+    "city": "Stone Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60168,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60170,
+    "latitude": 42.025776,
+    "longitude": -88.425931,
+    "city": "Plato Center",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60171,
+    "latitude": 41.923168,
+    "longitude": -87.83931,
+    "city": "River Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60172,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Roselle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60173,
+    "latitude": 42.079837,
+    "longitude": -88.046403,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60174,
+    "latitude": 41.937151,
+    "longitude": -88.430167,
+    "city": "Saint Charles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60175,
+    "latitude": 41.943171,
+    "longitude": -88.386905,
+    "city": "Saint Charles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60176,
+    "latitude": 41.95918,
+    "longitude": -87.873412,
+    "city": "Schiller Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60177,
+    "latitude": 42.007476,
+    "longitude": -88.405895,
+    "city": "South Elgin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60178,
+    "latitude": 41.893687,
+    "longitude": -88.68562,
+    "city": "Sycamore",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60179,
+    "latitude": 42.079336,
+    "longitude": -88.223655,
+    "city": "Hoffman Estates",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60180,
+    "latitude": 42.222569,
+    "longitude": -88.525091,
+    "city": "Union",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mchenry"
+  },
+  {
+    "zip_code": 60181,
+    "latitude": 41.875379,
+    "longitude": -87.97643,
+    "city": "Villa Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60182,
+    "latitude": 41.908736,
+    "longitude": -88.59915,
+    "city": "Virgil",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60183,
+    "latitude": 41.936977,
+    "longitude": -88.420178,
+    "city": "Wasco",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60184,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Wayne",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60185,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "West Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60186,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "West Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60187,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Wheaton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60188,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60189,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Wheaton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60190,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Winfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60191,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Wood Dale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60192,
+    "latitude": 42.092487,
+    "longitude": -88.116129,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60193,
+    "latitude": 42.016827,
+    "longitude": -88.117844,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60194,
+    "latitude": 42.028926,
+    "longitude": -88.116655,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60195,
+    "latitude": 42.076376,
+    "longitude": -88.109263,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60196,
+    "latitude": 42.056376,
+    "longitude": -88.072522,
+    "city": "Schaumburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60197,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60199,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Carol Stream",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60201,
+    "latitude": 42.049148,
+    "longitude": -87.702155,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60202,
+    "latitude": 42.044529,
+    "longitude": -87.687969,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60203,
+    "latitude": 42.047928,
+    "longitude": -87.718159,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60204,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60208,
+    "latitude": 42.058629,
+    "longitude": -87.684506,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60209,
+    "latitude": 42.04973,
+    "longitude": -87.679408,
+    "city": "Evanston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60301,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60302,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60303,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60304,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60305,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "River Forest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60399,
+    "latitude": 41.987574,
+    "longitude": -87.979792,
+    "city": "Bensenville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60401,
+    "latitude": 41.356872,
+    "longitude": -87.626723,
+    "city": "Beecher",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60402,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Berwyn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60406,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Blue Island",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60407,
+    "latitude": 41.238676,
+    "longitude": -88.278834,
+    "city": "Braceville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60408,
+    "latitude": 41.285878,
+    "longitude": -88.017171,
+    "city": "Braidwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60409,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Calumet City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60410,
+    "latitude": 41.43313,
+    "longitude": -88.199325,
+    "city": "Channahon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60411,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60412,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60415,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60416,
+    "latitude": 41.284033,
+    "longitude": -88.374819,
+    "city": "Coal City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60417,
+    "latitude": 41.426684,
+    "longitude": -87.621223,
+    "city": "Crete",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60419,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Dolton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60420,
+    "latitude": 41.059551,
+    "longitude": -88.417086,
+    "city": "Dwight",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60421,
+    "latitude": 41.44288,
+    "longitude": -88.090588,
+    "city": "Elwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60422,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Flossmoor",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60423,
+    "latitude": 41.451744,
+    "longitude": -87.896109,
+    "city": "Frankfort",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60424,
+    "latitude": 41.1775,
+    "longitude": -88.338018,
+    "city": "Gardner",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60425,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Glenwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60426,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Harvey",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60429,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Hazel Crest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60430,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Homewood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60431,
+    "latitude": 41.471206,
+    "longitude": -87.93909,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60432,
+    "latitude": 41.54273,
+    "longitude": -88.045146,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60433,
+    "latitude": 41.476265,
+    "longitude": -87.882249,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60434,
+    "latitude": 41.52543,
+    "longitude": -88.084208,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60435,
+    "latitude": 41.468729,
+    "longitude": -87.938034,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60436,
+    "latitude": 41.48843,
+    "longitude": -88.15716,
+    "city": "Joliet",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60437,
+    "latitude": 41.188078,
+    "longitude": -88.472407,
+    "city": "Kinsman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60438,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Lansing",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60439,
+    "latitude": 41.707431,
+    "longitude": -87.975568,
+    "city": "Lemont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60440,
+    "latitude": 41.623336,
+    "longitude": -88.022464,
+    "city": "Bolingbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60441,
+    "latitude": 41.552615,
+    "longitude": -88.031268,
+    "city": "Lockport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60442,
+    "latitude": 41.491903,
+    "longitude": -87.979113,
+    "city": "Manhattan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60443,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Matteson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60444,
+    "latitude": 41.226425,
+    "longitude": -88.421748,
+    "city": "Mazon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60445,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Midlothian",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60446,
+    "latitude": 41.64038,
+    "longitude": -88.069621,
+    "city": "Romeoville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60447,
+    "latitude": 41.429869,
+    "longitude": -88.422884,
+    "city": "Minooka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60448,
+    "latitude": 41.426002,
+    "longitude": -88.006767,
+    "city": "Mokena",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60449,
+    "latitude": 41.412269,
+    "longitude": -87.786645,
+    "city": "Monee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60450,
+    "latitude": 41.337433,
+    "longitude": -88.430183,
+    "city": "Morris",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60451,
+    "latitude": 41.510802,
+    "longitude": -87.961808,
+    "city": "New Lenox",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60452,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Forest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60453,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Lawn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60454,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Oak Lawn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60455,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Bridgeview",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60456,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Hometown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60457,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Hickory Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60458,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Justice",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60459,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Burbank",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60460,
+    "latitude": 40.998811,
+    "longitude": -88.538538,
+    "city": "Odell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60461,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Olympia Fields",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60462,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Orland Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60463,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palos Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60464,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palos Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60465,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Palos Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60466,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Park Forest",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60467,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Orland Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60468,
+    "latitude": 41.346316,
+    "longitude": -87.772133,
+    "city": "Peotone",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60469,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Posen",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60470,
+    "latitude": 41.172532,
+    "longitude": -88.663755,
+    "city": "Ransom",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60471,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Richton Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60472,
+    "latitude": 41.95273,
+    "longitude": -87.878888,
+    "city": "Robbins",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60473,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "South Holland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60474,
+    "latitude": 41.171883,
+    "longitude": -88.267338,
+    "city": "South Wilmington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60475,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Steger",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60476,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Thornton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60477,
+    "latitude": 42.143475,
+    "longitude": -88.026517,
+    "city": "Tinley Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60478,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Country Club Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60479,
+    "latitude": 41.247346,
+    "longitude": -88.505582,
+    "city": "Verona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 60480,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Willow Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60481,
+    "latitude": 41.35934,
+    "longitude": -88.084716,
+    "city": "Wilmington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60482,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Worth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60490,
+    "latitude": 41.679041,
+    "longitude": -88.140332,
+    "city": "Bolingbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60499,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Bedford Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60501,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Summit Argo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60504,
+    "latitude": 41.768399,
+    "longitude": -88.136616,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60505,
+    "latitude": 41.765478,
+    "longitude": -88.405446,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60506,
+    "latitude": 41.79083,
+    "longitude": -88.416837,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60507,
+    "latitude": 41.936977,
+    "longitude": -88.420178,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60510,
+    "latitude": 41.828292,
+    "longitude": -88.407334,
+    "city": "Batavia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60511,
+    "latitude": 41.764324,
+    "longitude": -88.54574,
+    "city": "Big Rock",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60512,
+    "latitude": 41.698414,
+    "longitude": -88.427873,
+    "city": "Bristol",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60513,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Brookfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60514,
+    "latitude": 41.774295,
+    "longitude": -87.966094,
+    "city": "Clarendon Hills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60515,
+    "latitude": 41.796279,
+    "longitude": -88.012267,
+    "city": "Downers Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60516,
+    "latitude": 41.75231,
+    "longitude": -88.021797,
+    "city": "Downers Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60517,
+    "latitude": 41.736788,
+    "longitude": -88.041731,
+    "city": "Woodridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60518,
+    "latitude": 41.549922,
+    "longitude": -88.935981,
+    "city": "Earlville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60519,
+    "latitude": 41.777235,
+    "longitude": -88.246193,
+    "city": "Eola",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60520,
+    "latitude": 41.740713,
+    "longitude": -88.686052,
+    "city": "Hinckley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60521,
+    "latitude": 41.78213,
+    "longitude": -87.966845,
+    "city": "Hinsdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60522,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Hinsdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60523,
+    "latitude": 41.83713,
+    "longitude": -87.963759,
+    "city": "Oak Brook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60525,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "La Grange",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60526,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "La Grange Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60527,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Willowbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60530,
+    "latitude": 41.784398,
+    "longitude": -88.97506,
+    "city": "Lee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 60531,
+    "latitude": 41.47805,
+    "longitude": -88.7265,
+    "city": "Leland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60532,
+    "latitude": 41.79818,
+    "longitude": -88.037714,
+    "city": "Lisle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60534,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Lyons",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60536,
+    "latitude": 41.590315,
+    "longitude": -88.562023,
+    "city": "Millbrook",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60537,
+    "latitude": 41.561386,
+    "longitude": -88.59747,
+    "city": "Millington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60538,
+    "latitude": 41.643752,
+    "longitude": -88.457951,
+    "city": "Montgomery",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60539,
+    "latitude": 41.823928,
+    "longitude": -88.334023,
+    "city": "Mooseheart",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60540,
+    "latitude": 41.759029,
+    "longitude": -88.152381,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60541,
+    "latitude": 41.540661,
+    "longitude": -88.492909,
+    "city": "Newark",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60542,
+    "latitude": 41.807369,
+    "longitude": -88.335182,
+    "city": "North Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60543,
+    "latitude": 41.631012,
+    "longitude": -88.420476,
+    "city": "Oswego",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60544,
+    "latitude": 41.632457,
+    "longitude": -88.169698,
+    "city": "Plainfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60545,
+    "latitude": 41.628567,
+    "longitude": -88.513814,
+    "city": "Plano",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60546,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Riverside",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60548,
+    "latitude": 41.702091,
+    "longitude": -88.688906,
+    "city": "Sandwich",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60549,
+    "latitude": 41.48974,
+    "longitude": -88.752495,
+    "city": "Serena",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60550,
+    "latitude": 41.746774,
+    "longitude": -88.836821,
+    "city": "Shabbona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60551,
+    "latitude": 41.521219,
+    "longitude": -88.710974,
+    "city": "Sheridan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60552,
+    "latitude": 41.860645,
+    "longitude": -88.783041,
+    "city": "Somonauk",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60553,
+    "latitude": 41.796742,
+    "longitude": -89.086129,
+    "city": "Steward",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 60554,
+    "latitude": 41.776787,
+    "longitude": -88.451655,
+    "city": "Sugar Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60555,
+    "latitude": 41.805422,
+    "longitude": -88.171551,
+    "city": "Warrenville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60556,
+    "latitude": 41.755215,
+    "longitude": -88.778554,
+    "city": "Waterman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 60557,
+    "latitude": 41.44088,
+    "longitude": -88.770327,
+    "city": "Wedron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 60558,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Western Springs",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60559,
+    "latitude": 41.799876,
+    "longitude": -87.970713,
+    "city": "Westmont",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60560,
+    "latitude": 41.601679,
+    "longitude": -88.437533,
+    "city": "Yorkville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kendall"
+  },
+  {
+    "zip_code": 60561,
+    "latitude": 41.743437,
+    "longitude": -87.98046,
+    "city": "Darien",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60563,
+    "latitude": 41.782455,
+    "longitude": -88.149884,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60564,
+    "latitude": 41.681479,
+    "longitude": -88.201424,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Will"
+  },
+  {
+    "zip_code": 60565,
+    "latitude": 41.737929,
+    "longitude": -88.112714,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60566,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60567,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Naperville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60568,
+    "latitude": 41.935616,
+    "longitude": -88.43238,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kane"
+  },
+  {
+    "zip_code": 60570,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Hinsdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60572,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60597,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Fox Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60598,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Aurora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60599,
+    "latitude": 41.839679,
+    "longitude": -88.088716,
+    "city": "Fox Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Du Page"
+  },
+  {
+    "zip_code": 60601,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60602,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60603,
+    "latitude": 42.055179,
+    "longitude": -87.72596,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60604,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60605,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60606,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60607,
+    "latitude": 41.928881,
+    "longitude": -87.81381,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60608,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60609,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60610,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60611,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60612,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60613,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60614,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60615,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60616,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60617,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60618,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60619,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60620,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60621,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60622,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60623,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60624,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60625,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60626,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60628,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60629,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60630,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60631,
+    "latitude": 42.00583,
+    "longitude": -87.808611,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60632,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60633,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60634,
+    "latitude": 41.933355,
+    "longitude": -87.816309,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60636,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60637,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60638,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60639,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60640,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60641,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60643,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60644,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60645,
+    "latitude": 42.00808,
+    "longitude": -87.721458,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60646,
+    "latitude": 42.00663,
+    "longitude": -87.75901,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60647,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60649,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60651,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60652,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60653,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60654,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60655,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60656,
+    "latitude": 41.97353,
+    "longitude": -87.865763,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60657,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60659,
+    "latitude": 41.997247,
+    "longitude": -87.716621,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60660,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60661,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60663,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60664,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60665,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60666,
+    "latitude": 41.968029,
+    "longitude": -87.891214,
+    "city": "Amf Ohare",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60667,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60668,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60669,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60670,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60671,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60672,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60673,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60674,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60675,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60677,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60678,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60679,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60680,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60681,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60683,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60684,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60685,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60687,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60688,
+    "latitude": 41.952307,
+    "longitude": -87.90975,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60690,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60691,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60693,
+    "latitude": 42.096428,
+    "longitude": -87.71791,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60694,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60696,
+    "latitude": 41.879106,
+    "longitude": -87.630772,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60697,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60699,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60701,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Chicago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60706,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Harwood Heights",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60707,
+    "latitude": 41.923181,
+    "longitude": -87.818509,
+    "city": "Elmwood Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60712,
+    "latitude": 42.00798,
+    "longitude": -87.736135,
+    "city": "Lincolnwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60714,
+    "latitude": 42.031179,
+    "longitude": -87.811163,
+    "city": "Niles",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60803,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Alsip",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60804,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Cicero",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60805,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Evergreen Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60827,
+    "latitude": 41.811929,
+    "longitude": -87.68732,
+    "city": "Riverdale",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 60901,
+    "latitude": 41.111151,
+    "longitude": -87.874618,
+    "city": "Kankakee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60902,
+    "latitude": 41.146464,
+    "longitude": -87.888971,
+    "city": "Kankakee",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60910,
+    "latitude": 41.091582,
+    "longitude": -87.684284,
+    "city": "Aroma Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60911,
+    "latitude": 40.876259,
+    "longitude": -87.973929,
+    "city": "Ashkum",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60912,
+    "latitude": 40.963099,
+    "longitude": -87.625942,
+    "city": "Beaverville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60913,
+    "latitude": 41.1388,
+    "longitude": -88.053534,
+    "city": "Bonfield",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60914,
+    "latitude": 41.180968,
+    "longitude": -87.847038,
+    "city": "Bourbonnais",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60915,
+    "latitude": 41.207762,
+    "longitude": -87.842583,
+    "city": "Bradley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60917,
+    "latitude": 41.056333,
+    "longitude": -88.073844,
+    "city": "Buckingham",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60918,
+    "latitude": 40.600817,
+    "longitude": -88.023748,
+    "city": "Buckley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60919,
+    "latitude": 40.967141,
+    "longitude": -88.188841,
+    "city": "Cabery",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60920,
+    "latitude": 41.024755,
+    "longitude": -88.307221,
+    "city": "Campus",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60921,
+    "latitude": 40.736954,
+    "longitude": -88.294923,
+    "city": "Chatsworth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60922,
+    "latitude": 40.968795,
+    "longitude": -87.951233,
+    "city": "Chebanse",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60924,
+    "latitude": 40.738175,
+    "longitude": -87.907874,
+    "city": "Cissna Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60926,
+    "latitude": 40.567574,
+    "longitude": -87.804046,
+    "city": "Claytonville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60927,
+    "latitude": 40.929595,
+    "longitude": -87.945327,
+    "city": "Clifton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60928,
+    "latitude": 40.66202,
+    "longitude": -87.95062,
+    "city": "Crescent City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60929,
+    "latitude": 40.882509,
+    "longitude": -88.30019,
+    "city": "Cullom",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60930,
+    "latitude": 40.811396,
+    "longitude": -87.967134,
+    "city": "Danforth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60931,
+    "latitude": 40.880529,
+    "longitude": -87.598831,
+    "city": "Donovan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60932,
+    "latitude": 40.344417,
+    "longitude": -87.701583,
+    "city": "East Lynn",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 60933,
+    "latitude": 40.46483,
+    "longitude": -88.271245,
+    "city": "Elliott",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60934,
+    "latitude": 40.969209,
+    "longitude": -88.358928,
+    "city": "Emington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 60935,
+    "latitude": 41.155397,
+    "longitude": -88.157189,
+    "city": "Essex",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60936,
+    "latitude": 40.696479,
+    "longitude": -88.318387,
+    "city": "Gibson City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60938,
+    "latitude": 40.765951,
+    "longitude": -87.834645,
+    "city": "Gilman",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60939,
+    "latitude": 40.748087,
+    "longitude": -87.82876,
+    "city": "Goodwine",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60940,
+    "latitude": 41.204947,
+    "longitude": -87.644151,
+    "city": "Grant Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60941,
+    "latitude": 41.12077,
+    "longitude": -87.899733,
+    "city": "Herscher",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60942,
+    "latitude": 40.442138,
+    "longitude": -87.672943,
+    "city": "Hoopeston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 60944,
+    "latitude": 41.146464,
+    "longitude": -87.888971,
+    "city": "Hopkins Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60945,
+    "latitude": 40.826919,
+    "longitude": -87.584668,
+    "city": "Iroquois",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60946,
+    "latitude": 40.897321,
+    "longitude": -88.186897,
+    "city": "Kempton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60948,
+    "latitude": 40.537227,
+    "longitude": -87.9663,
+    "city": "Loda",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60949,
+    "latitude": 40.370897,
+    "longitude": -88.152546,
+    "city": "Ludlow",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 60950,
+    "latitude": 41.173292,
+    "longitude": -87.87675,
+    "city": "Manteno",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60951,
+    "latitude": 40.931202,
+    "longitude": -87.747179,
+    "city": "Martinton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60952,
+    "latitude": 40.537915,
+    "longitude": -88.299338,
+    "city": "Melvin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60953,
+    "latitude": 40.75071,
+    "longitude": -87.695039,
+    "city": "Milford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60954,
+    "latitude": 41.116572,
+    "longitude": -87.868519,
+    "city": "Momence",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60955,
+    "latitude": 40.758445,
+    "longitude": -87.852046,
+    "city": "Onarga",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60956,
+    "latitude": 40.966993,
+    "longitude": -87.716074,
+    "city": "Papineau",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60957,
+    "latitude": 40.660905,
+    "longitude": -88.197834,
+    "city": "Paxton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60959,
+    "latitude": 40.720981,
+    "longitude": -88.186732,
+    "city": "Piper City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60960,
+    "latitude": 40.422456,
+    "longitude": -87.858213,
+    "city": "Rankin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 60961,
+    "latitude": 41.099001,
+    "longitude": -88.198405,
+    "city": "Reddick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60962,
+    "latitude": 40.57087,
+    "longitude": -88.234682,
+    "city": "Roberts",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 60963,
+    "latitude": 40.363126,
+    "longitude": -87.682897,
+    "city": "Rossville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Vermilion"
+  },
+  {
+    "zip_code": 60964,
+    "latitude": 41.068206,
+    "longitude": -87.687329,
+    "city": "Saint Anne",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60966,
+    "latitude": 40.75308,
+    "longitude": -87.58941,
+    "city": "Sheldon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60967,
+    "latitude": 40.748087,
+    "longitude": -87.82876,
+    "city": "Stockland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60968,
+    "latitude": 40.673257,
+    "longitude": -88.099724,
+    "city": "Thawville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60969,
+    "latitude": 41.108802,
+    "longitude": -88.146523,
+    "city": "Union Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Kankakee"
+  },
+  {
+    "zip_code": 60970,
+    "latitude": 40.749938,
+    "longitude": -87.798478,
+    "city": "Watseka",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60973,
+    "latitude": 40.633196,
+    "longitude": -87.658329,
+    "city": "Wellington",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 60974,
+    "latitude": 40.715072,
+    "longitude": -87.730743,
+    "city": "Woodland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Iroquois"
+  },
+  {
+    "zip_code": 61001,
+    "latitude": 42.454161,
+    "longitude": -90.118471,
+    "city": "Apple River",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61006,
+    "latitude": 41.838351,
+    "longitude": -89.193176,
+    "city": "Ashton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61007,
+    "latitude": 42.178584,
+    "longitude": -89.595377,
+    "city": "Baileyville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61008,
+    "latitude": 42.276381,
+    "longitude": -88.823215,
+    "city": "Belvidere",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 61010,
+    "latitude": 42.091976,
+    "longitude": -89.322625,
+    "city": "Byron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61011,
+    "latitude": 42.397024,
+    "longitude": -88.843027,
+    "city": "Caledonia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 61012,
+    "latitude": 42.41042,
+    "longitude": -88.759953,
+    "city": "Capron",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 61013,
+    "latitude": 42.376127,
+    "longitude": -89.636483,
+    "city": "Cedarville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61014,
+    "latitude": 41.994827,
+    "longitude": -89.877636,
+    "city": "Chadwick",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61015,
+    "latitude": 41.99742,
+    "longitude": -89.19964,
+    "city": "Chana",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61016,
+    "latitude": 42.240704,
+    "longitude": -88.983748,
+    "city": "Cherry Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61018,
+    "latitude": 42.410796,
+    "longitude": -89.583179,
+    "city": "Dakota",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61019,
+    "latitude": 42.398148,
+    "longitude": -89.611026,
+    "city": "Davis",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61020,
+    "latitude": 42.106337,
+    "longitude": -89.099201,
+    "city": "Davis Junction",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61021,
+    "latitude": 41.809229,
+    "longitude": -89.417156,
+    "city": "Dixon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61024,
+    "latitude": 42.434686,
+    "longitude": -89.213377,
+    "city": "Durand",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61025,
+    "latitude": 42.46626,
+    "longitude": -90.540556,
+    "city": "East Dubuque",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61027,
+    "latitude": 42.332038,
+    "longitude": -89.761171,
+    "city": "Eleroy",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61028,
+    "latitude": 42.309263,
+    "longitude": -90.181064,
+    "city": "Elizabeth",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61030,
+    "latitude": 42.120046,
+    "longitude": -89.312592,
+    "city": "Forreston",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61031,
+    "latitude": 41.816006,
+    "longitude": -89.311037,
+    "city": "Franklin Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61032,
+    "latitude": 42.323529,
+    "longitude": -89.591606,
+    "city": "Freeport",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61036,
+    "latitude": 42.382277,
+    "longitude": -90.312588,
+    "city": "Galena",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61037,
+    "latitude": 41.786534,
+    "longitude": -89.761042,
+    "city": "Galt",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61038,
+    "latitude": 42.261184,
+    "longitude": -88.761434,
+    "city": "Garden Prairie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 61039,
+    "latitude": 42.238319,
+    "longitude": -89.459521,
+    "city": "German Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61041,
+    "latitude": 42.274653,
+    "longitude": -90.295132,
+    "city": "Hanover",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61042,
+    "latitude": 41.689533,
+    "longitude": -89.545604,
+    "city": "Harmon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61043,
+    "latitude": 42.045123,
+    "longitude": -89.313593,
+    "city": "Holcomb",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61044,
+    "latitude": 42.282256,
+    "longitude": -89.891281,
+    "city": "Kent",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61046,
+    "latitude": 42.078942,
+    "longitude": -89.814738,
+    "city": "Lanark",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61047,
+    "latitude": 42.147816,
+    "longitude": -89.278387,
+    "city": "Leaf River",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61048,
+    "latitude": 42.386301,
+    "longitude": -89.816756,
+    "city": "Lena",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61049,
+    "latitude": 42.024619,
+    "longitude": -89.004111,
+    "city": "Lindenwood",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61050,
+    "latitude": 42.428135,
+    "longitude": -89.7643,
+    "city": "Mc Connell",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61051,
+    "latitude": 41.991827,
+    "longitude": -89.764016,
+    "city": "Milledgeville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61052,
+    "latitude": 42.108224,
+    "longitude": -88.998128,
+    "city": "Monroe Center",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61053,
+    "latitude": 42.093181,
+    "longitude": -89.968127,
+    "city": "Mount Carroll",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61054,
+    "latitude": 42.058183,
+    "longitude": -89.352968,
+    "city": "Mount Morris",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61057,
+    "latitude": 41.831577,
+    "longitude": -89.38957,
+    "city": "Nachusa",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61058,
+    "latitude": 41.797256,
+    "longitude": -89.599529,
+    "city": "Nelson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 61059,
+    "latitude": 42.463658,
+    "longitude": -89.941363,
+    "city": "Nora",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61060,
+    "latitude": 42.473576,
+    "longitude": -89.60519,
+    "city": "Orangeville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61061,
+    "latitude": 42.011025,
+    "longitude": -89.253887,
+    "city": "Oregon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61062,
+    "latitude": 42.332702,
+    "longitude": -89.782606,
+    "city": "Pearl City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61063,
+    "latitude": 42.3104,
+    "longitude": -89.311162,
+    "city": "Pecatonica",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61064,
+    "latitude": 41.989578,
+    "longitude": -89.323812,
+    "city": "Polo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61065,
+    "latitude": 42.392537,
+    "longitude": -88.811894,
+    "city": "Poplar Grove",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 61067,
+    "latitude": 42.334675,
+    "longitude": -89.559845,
+    "city": "Ridott",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61068,
+    "latitude": 42.007405,
+    "longitude": -89.100359,
+    "city": "Rochelle",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61070,
+    "latitude": 42.418515,
+    "longitude": -89.470711,
+    "city": "Rock City",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61071,
+    "latitude": 41.687083,
+    "longitude": -89.728269,
+    "city": "Rock Falls",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61072,
+    "latitude": 42.381926,
+    "longitude": -89.142856,
+    "city": "Rockton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61073,
+    "latitude": 42.416908,
+    "longitude": -89.000227,
+    "city": "Roscoe",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61074,
+    "latitude": 42.077282,
+    "longitude": -90.005039,
+    "city": "Savanna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61075,
+    "latitude": 42.452479,
+    "longitude": -90.26684,
+    "city": "Scales Mound",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61076,
+    "latitude": 42.355422,
+    "longitude": -89.667939,
+    "city": "Scioto Mills",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61077,
+    "latitude": 42.236834,
+    "longitude": -89.357998,
+    "city": "Seward",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61078,
+    "latitude": 42.154795,
+    "longitude": -89.764627,
+    "city": "Shannon",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 61079,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Shirland",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61080,
+    "latitude": 42.38648,
+    "longitude": -89.090975,
+    "city": "South Beloit",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61081,
+    "latitude": 41.835669,
+    "longitude": -89.745941,
+    "city": "Sterling",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61084,
+    "latitude": 42.1133,
+    "longitude": -89.186271,
+    "city": "Stillman Valley",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61085,
+    "latitude": 42.349517,
+    "longitude": -90.085356,
+    "city": "Stockton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61087,
+    "latitude": 42.470405,
+    "longitude": -90.087359,
+    "city": "Warren",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jo Daviess"
+  },
+  {
+    "zip_code": 61088,
+    "latitude": 42.347321,
+    "longitude": -89.194327,
+    "city": "Winnebago",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61089,
+    "latitude": 42.460658,
+    "longitude": -89.814639,
+    "city": "Winslow",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Stephenson"
+  },
+  {
+    "zip_code": 61091,
+    "latitude": 41.903068,
+    "longitude": -89.540365,
+    "city": "Woosung",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Ogle"
+  },
+  {
+    "zip_code": 61101,
+    "latitude": 42.33342,
+    "longitude": -89.157198,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61102,
+    "latitude": 42.22974,
+    "longitude": -89.155825,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61103,
+    "latitude": 42.341983,
+    "longitude": -89.078829,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61104,
+    "latitude": 42.25012,
+    "longitude": -89.080254,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61105,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61106,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61107,
+    "latitude": 42.284055,
+    "longitude": -89.01621,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61108,
+    "latitude": 42.247643,
+    "longitude": -88.999892,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61109,
+    "latitude": 42.196681,
+    "longitude": -89.065539,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61110,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61111,
+    "latitude": 42.341767,
+    "longitude": -89.004716,
+    "city": "Loves Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61112,
+    "latitude": 42.246231,
+    "longitude": -88.97517,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61114,
+    "latitude": 42.318492,
+    "longitude": -88.997248,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61115,
+    "latitude": 42.354546,
+    "longitude": -89.039675,
+    "city": "Machesney Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61125,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61126,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Rockford",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61130,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Loves Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61131,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Loves Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61132,
+    "latitude": 42.325364,
+    "longitude": -89.170527,
+    "city": "Loves Park",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 61201,
+    "latitude": 41.495083,
+    "longitude": -90.604899,
+    "city": "Rock Island",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61204,
+    "latitude": 41.554901,
+    "longitude": -90.615975,
+    "city": "Rock Island",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61230,
+    "latitude": 41.729562,
+    "longitude": -90.159676,
+    "city": "Albany",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Whiteside"
+  },
+  {
+    "zip_code": 61231,
+    "latitude": 41.197762,
+    "longitude": -90.730944,
+    "city": "Aledo",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 61232,
+    "latitude": 41.440131,
+    "longitude": -90.742806,
+    "city": "Andalusia",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61233,
+    "latitude": 41.295367,
+    "longitude": -90.290476,
+    "city": "Andover",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61234,
+    "latitude": 41.425519,
+    "longitude": -89.924636,
+    "city": "Annawan",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61235,
+    "latitude": 41.405502,
+    "longitude": -89.998274,
+    "city": "Atkinson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 61236,
+    "latitude": 41.51469,
+    "longitude": -90.357727,
+    "city": "Barstow",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61237,
+    "latitude": 41.336752,
+    "longitude": -90.852226,
+    "city": "Buffalo Prairie",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Rock Island"
+  },
+  {
+    "zip_code": 61238,
+    "latitude": 41.285666,
+    "longitude": -90.104144,
+    "city": "Cambridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Henry"
+  }
+]

@@ -1,0 +1,6671 @@
+[
+  {
+    "zip_code": 98359,
+    "latitude": 47.435986,
+    "longitude": -122.580554,
+    "city": "Olalla",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98360,
+    "latitude": 47.006578,
+    "longitude": -122.118676,
+    "city": "Orting",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98361,
+    "latitude": 46.621697,
+    "longitude": -121.652807,
+    "city": "Packwood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98362,
+    "latitude": 48.051108,
+    "longitude": -123.360411,
+    "city": "Port Angeles",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clallam"
+  },
+  {
+    "zip_code": 98363,
+    "latitude": 48.055733,
+    "longitude": -123.91784,
+    "city": "Port Angeles",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clallam"
+  },
+  {
+    "zip_code": 98364,
+    "latitude": 47.834431,
+    "longitude": -122.592763,
+    "city": "Port Gamble",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98365,
+    "latitude": 47.911892,
+    "longitude": -122.709606,
+    "city": "Port Ludlow",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 98366,
+    "latitude": 47.542664,
+    "longitude": -122.587102,
+    "city": "Port Orchard",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98367,
+    "latitude": 47.470651,
+    "longitude": -122.650972,
+    "city": "Port Orchard",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98368,
+    "latitude": 48.018572,
+    "longitude": -122.849683,
+    "city": "Port Townsend",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 98370,
+    "latitude": 47.751046,
+    "longitude": -122.614094,
+    "city": "Poulsbo",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98371,
+    "latitude": 47.212822,
+    "longitude": -122.317148,
+    "city": "Puyallup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98372,
+    "latitude": 47.197581,
+    "longitude": -122.162076,
+    "city": "Puyallup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98373,
+    "latitude": 47.145817,
+    "longitude": -122.309704,
+    "city": "Puyallup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98374,
+    "latitude": 47.139095,
+    "longitude": -122.258646,
+    "city": "Puyallup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98375,
+    "latitude": 47.098845,
+    "longitude": -122.36393,
+    "city": "Puyallup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98376,
+    "latitude": 47.828495,
+    "longitude": -122.838769,
+    "city": "Quilcene",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 98377,
+    "latitude": 46.516754,
+    "longitude": -121.894411,
+    "city": "Randle",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98378,
+    "latitude": 47.687971,
+    "longitude": -122.729304,
+    "city": "Retsil",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98380,
+    "latitude": 47.591261,
+    "longitude": -122.868581,
+    "city": "Seabeck",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98381,
+    "latitude": 48.288633,
+    "longitude": -124.397803,
+    "city": "Sekiu",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clallam"
+  },
+  {
+    "zip_code": 98382,
+    "latitude": 48.06773,
+    "longitude": -123.080362,
+    "city": "Sequim",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clallam"
+  },
+  {
+    "zip_code": 98383,
+    "latitude": 47.672498,
+    "longitude": -122.707982,
+    "city": "Silverdale",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98384,
+    "latitude": 47.521803,
+    "longitude": -122.539637,
+    "city": "South Colby",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98385,
+    "latitude": 47.138271,
+    "longitude": -122.096799,
+    "city": "South Prairie",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98386,
+    "latitude": 47.51037,
+    "longitude": -122.499139,
+    "city": "Southworth",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98387,
+    "latitude": 47.058452,
+    "longitude": -122.41648,
+    "city": "Spanaway",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98388,
+    "latitude": 47.132671,
+    "longitude": -122.331781,
+    "city": "Steilacoom",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98390,
+    "latitude": 47.176966,
+    "longitude": -122.15982,
+    "city": "Sumner",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98392,
+    "latitude": 47.732624,
+    "longitude": -122.564557,
+    "city": "Suquamish",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98393,
+    "latitude": 47.626717,
+    "longitude": -122.649953,
+    "city": "Tracyton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kitsap"
+  },
+  {
+    "zip_code": 98394,
+    "latitude": 47.311117,
+    "longitude": -122.772503,
+    "city": "Vaughn",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98395,
+    "latitude": 47.266017,
+    "longitude": -122.832799,
+    "city": "Wauna",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98396,
+    "latitude": 47.109524,
+    "longitude": -122.037015,
+    "city": "Wilkeson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98397,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Longmire",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98398,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Paradise Inn",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98401,
+    "latitude": 47.253671,
+    "longitude": -122.444335,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98402,
+    "latitude": 47.261502,
+    "longitude": -122.463308,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98403,
+    "latitude": 47.265371,
+    "longitude": -122.457087,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98404,
+    "latitude": 47.209131,
+    "longitude": -122.397929,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98405,
+    "latitude": 47.247871,
+    "longitude": -122.472793,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98406,
+    "latitude": 47.259216,
+    "longitude": -122.509235,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98407,
+    "latitude": 47.287606,
+    "longitude": -122.500486,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98408,
+    "latitude": 47.206871,
+    "longitude": -122.448534,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98409,
+    "latitude": 47.205777,
+    "longitude": -122.321095,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98411,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98412,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98413,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98415,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98416,
+    "latitude": 47.264577,
+    "longitude": -122.482076,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98418,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98421,
+    "latitude": 47.254021,
+    "longitude": -122.400133,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98422,
+    "latitude": 47.283379,
+    "longitude": -122.388781,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98424,
+    "latitude": 47.232513,
+    "longitude": -122.359432,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98430,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Camp Murray",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98431,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98433,
+    "latitude": 47.126735,
+    "longitude": -122.491749,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98438,
+    "latitude": 47.151297,
+    "longitude": -122.567631,
+    "city": "Mcchord Afb",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98439,
+    "latitude": 47.128671,
+    "longitude": -122.510316,
+    "city": "Lakewood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98442,
+    "latitude": 47.308061,
+    "longitude": -122.418495,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98443,
+    "latitude": 47.207371,
+    "longitude": -122.373466,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98444,
+    "latitude": 47.146371,
+    "longitude": -122.457172,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98445,
+    "latitude": 47.129145,
+    "longitude": -122.409355,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98446,
+    "latitude": 47.128485,
+    "longitude": -122.373631,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98447,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98450,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98455,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98460,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98464,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98465,
+    "latitude": 47.254749,
+    "longitude": -122.530336,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98466,
+    "latitude": 47.243075,
+    "longitude": -122.53936,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98467,
+    "latitude": 47.18717,
+    "longitude": -122.532335,
+    "city": "University Place",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98471,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98477,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98481,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98492,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Lakewood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98493,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Tacoma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98497,
+    "latitude": 47.066193,
+    "longitude": -122.113223,
+    "city": "Lakewood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98498,
+    "latitude": 47.159149,
+    "longitude": -122.548486,
+    "city": "Lakewood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98499,
+    "latitude": 47.16772,
+    "longitude": -122.50236,
+    "city": "Lakewood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98501,
+    "latitude": 46.984767,
+    "longitude": -122.869079,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98502,
+    "latitude": 47.104269,
+    "longitude": -123.055153,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98503,
+    "latitude": 47.026418,
+    "longitude": -122.796695,
+    "city": "Lacey",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98504,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98505,
+    "latitude": 47.065404,
+    "longitude": -122.976187,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98506,
+    "latitude": 47.104227,
+    "longitude": -122.870043,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98507,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98508,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98509,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "Lacey",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98511,
+    "latitude": 46.986422,
+    "longitude": -122.904723,
+    "city": "Tumwater",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98512,
+    "latitude": 46.949776,
+    "longitude": -123.021207,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98513,
+    "latitude": 46.993897,
+    "longitude": -122.743016,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98516,
+    "latitude": 47.112575,
+    "longitude": -122.779419,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98520,
+    "latitude": 47.002735,
+    "longitude": -123.67129,
+    "city": "Aberdeen",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98522,
+    "latitude": 46.571323,
+    "longitude": -123.298384,
+    "city": "Adna",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98524,
+    "latitude": 47.322429,
+    "longitude": -122.984003,
+    "city": "Allyn",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98526,
+    "latitude": 47.485913,
+    "longitude": -123.920555,
+    "city": "Amanda Park",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98527,
+    "latitude": 46.637057,
+    "longitude": -123.884996,
+    "city": "Bay Center",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98528,
+    "latitude": 47.432465,
+    "longitude": -122.928877,
+    "city": "Belfair",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98530,
+    "latitude": 46.798216,
+    "longitude": -122.871798,
+    "city": "Bucoda",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98531,
+    "latitude": 46.713822,
+    "longitude": -123.01046,
+    "city": "Centralia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98532,
+    "latitude": 46.615653,
+    "longitude": -123.024845,
+    "city": "Chehalis",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98533,
+    "latitude": 46.579292,
+    "longitude": -122.568709,
+    "city": "Cinebar",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98535,
+    "latitude": 47.149086,
+    "longitude": -124.139665,
+    "city": "Copalis Beach",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98536,
+    "latitude": 47.159136,
+    "longitude": -124.135203,
+    "city": "Copalis Crossing",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98537,
+    "latitude": 46.878164,
+    "longitude": -123.64539,
+    "city": "Cosmopolis",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98538,
+    "latitude": 46.495639,
+    "longitude": -123.146764,
+    "city": "Curtis",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98539,
+    "latitude": 46.637834,
+    "longitude": -123.280421,
+    "city": "Doty",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98540,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "East Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98541,
+    "latitude": 47.16,
+    "longitude": -123.736287,
+    "city": "Elma",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98542,
+    "latitude": 46.530022,
+    "longitude": -122.724004,
+    "city": "Ethel",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98544,
+    "latitude": 46.734909,
+    "longitude": -123.02536,
+    "city": "Galvin",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98546,
+    "latitude": 47.327254,
+    "longitude": -122.916256,
+    "city": "Grapeview",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98547,
+    "latitude": 46.826407,
+    "longitude": -124.094009,
+    "city": "Grayland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98548,
+    "latitude": 47.446972,
+    "longitude": -123.198634,
+    "city": "Hoodsport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98550,
+    "latitude": 47.101202,
+    "longitude": -123.731611,
+    "city": "Hoquiam",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98552,
+    "latitude": 47.342898,
+    "longitude": -123.929112,
+    "city": "Humptulips",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98554,
+    "latitude": 46.561375,
+    "longitude": -123.54788,
+    "city": "Lebam",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98555,
+    "latitude": 47.532281,
+    "longitude": -123.049632,
+    "city": "Lilliwaup",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98556,
+    "latitude": 46.902376,
+    "longitude": -123.017043,
+    "city": "Littlerock",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98557,
+    "latitude": 47.029716,
+    "longitude": -123.272999,
+    "city": "Mccleary",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98558,
+    "latitude": 46.955863,
+    "longitude": -122.55585,
+    "city": "Mckenna",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98559,
+    "latitude": 46.958918,
+    "longitude": -123.326762,
+    "city": "Malone",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98560,
+    "latitude": 47.263601,
+    "longitude": -123.441178,
+    "city": "Matlock",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98561,
+    "latitude": 46.514625,
+    "longitude": -123.76903,
+    "city": "Menlo",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98562,
+    "latitude": 47.162482,
+    "longitude": -123.794069,
+    "city": "Moclips",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98563,
+    "latitude": 47.015536,
+    "longitude": -123.719565,
+    "city": "Montesano",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98564,
+    "latitude": 46.50281,
+    "longitude": -122.468293,
+    "city": "Mossyrock",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98565,
+    "latitude": 46.579281,
+    "longitude": -122.909666,
+    "city": "Napavine",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98566,
+    "latitude": 47.387674,
+    "longitude": -123.890317,
+    "city": "Neilton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98568,
+    "latitude": 46.866084,
+    "longitude": -123.283859,
+    "city": "Oakville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98569,
+    "latitude": 47.071971,
+    "longitude": -124.152461,
+    "city": "Ocean Shores",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98570,
+    "latitude": 46.563491,
+    "longitude": -122.690491,
+    "city": "Onalaska",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98571,
+    "latitude": 47.219468,
+    "longitude": -124.191502,
+    "city": "Pacific Beach",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98572,
+    "latitude": 46.582897,
+    "longitude": -123.314715,
+    "city": "Pe Ell",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98575,
+    "latitude": 47.46028,
+    "longitude": -123.830676,
+    "city": "Quinault",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98576,
+    "latitude": 46.873509,
+    "longitude": -122.661394,
+    "city": "Rainier",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98577,
+    "latitude": 46.653496,
+    "longitude": -123.657572,
+    "city": "Raymond",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98579,
+    "latitude": 46.832816,
+    "longitude": -123.05927,
+    "city": "Rochester",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98580,
+    "latitude": 46.93823,
+    "longitude": -122.468087,
+    "city": "Roy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 98581,
+    "latitude": 46.379714,
+    "longitude": -123.056039,
+    "city": "Ryderwood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98582,
+    "latitude": 46.514633,
+    "longitude": -122.648072,
+    "city": "Salkum",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98583,
+    "latitude": 47.002178,
+    "longitude": -123.483596,
+    "city": "Satsop",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98584,
+    "latitude": 47.263255,
+    "longitude": -123.159683,
+    "city": "Shelton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98585,
+    "latitude": 46.546091,
+    "longitude": -122.487578,
+    "city": "Silver Creek",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98586,
+    "latitude": 46.588006,
+    "longitude": -123.834262,
+    "city": "South Bend",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98587,
+    "latitude": 47.230148,
+    "longitude": -124.232056,
+    "city": "Taholah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98588,
+    "latitude": 47.434953,
+    "longitude": -123.096769,
+    "city": "Tahuya",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98589,
+    "latitude": 46.84275,
+    "longitude": -122.849451,
+    "city": "Tenino",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98590,
+    "latitude": 46.730891,
+    "longitude": -124.027885,
+    "city": "Tokeland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98591,
+    "latitude": 46.456038,
+    "longitude": -122.79498,
+    "city": "Toledo",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98592,
+    "latitude": 47.336838,
+    "longitude": -123.074952,
+    "city": "Union",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 98593,
+    "latitude": 46.423038,
+    "longitude": -122.973972,
+    "city": "Vader",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98595,
+    "latitude": 46.894327,
+    "longitude": -123.965158,
+    "city": "Westport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grays Harbor"
+  },
+  {
+    "zip_code": 98596,
+    "latitude": 46.490874,
+    "longitude": -122.879917,
+    "city": "Winlock",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 98597,
+    "latitude": 46.882364,
+    "longitude": -122.562689,
+    "city": "Yelm",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98599,
+    "latitude": 46.978118,
+    "longitude": -122.702393,
+    "city": "Olympia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Thurston"
+  },
+  {
+    "zip_code": 98601,
+    "latitude": 45.923556,
+    "longitude": -122.450194,
+    "city": "Amboy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98602,
+    "latitude": 45.850437,
+    "longitude": -121.312852,
+    "city": "Appleton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98603,
+    "latitude": 45.999338,
+    "longitude": -122.442472,
+    "city": "Ariel",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98604,
+    "latitude": 45.803592,
+    "longitude": -122.531645,
+    "city": "Battle Ground",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98605,
+    "latitude": 45.721519,
+    "longitude": -121.447323,
+    "city": "Bingen",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98606,
+    "latitude": 45.731631,
+    "longitude": -122.477093,
+    "city": "Brush Prairie",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98607,
+    "latitude": 45.656489,
+    "longitude": -122.399341,
+    "city": "Camas",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98609,
+    "latitude": 46.071482,
+    "longitude": -122.864838,
+    "city": "Carrolls",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98610,
+    "latitude": 45.784205,
+    "longitude": -121.841736,
+    "city": "Carson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Skamania"
+  },
+  {
+    "zip_code": 98611,
+    "latitude": 46.220778,
+    "longitude": -122.673021,
+    "city": "Castle Rock",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98612,
+    "latitude": 46.214628,
+    "longitude": -123.334899,
+    "city": "Cathlamet",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Wahkiakum"
+  },
+  {
+    "zip_code": 98613,
+    "latitude": 45.738205,
+    "longitude": -120.993902,
+    "city": "Centerville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98614,
+    "latitude": 46.263023,
+    "longitude": -123.933161,
+    "city": "Chinook",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98616,
+    "latitude": 46.025434,
+    "longitude": -122.359589,
+    "city": "Cougar",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98617,
+    "latitude": 45.632681,
+    "longitude": -121.17169,
+    "city": "Dallesport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98619,
+    "latitude": 45.989951,
+    "longitude": -121.282054,
+    "city": "Glenwood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98620,
+    "latitude": 45.840666,
+    "longitude": -120.768762,
+    "city": "Goldendale",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98621,
+    "latitude": 46.355461,
+    "longitude": -123.597874,
+    "city": "Grays River",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Wahkiakum"
+  },
+  {
+    "zip_code": 98622,
+    "latitude": 45.801586,
+    "longitude": -122.520347,
+    "city": "Heisson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98623,
+    "latitude": 45.807631,
+    "longitude": -121.487682,
+    "city": "Husum",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98624,
+    "latitude": 46.317185,
+    "longitude": -123.999449,
+    "city": "Ilwaco",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98625,
+    "latitude": 46.002114,
+    "longitude": -122.72175,
+    "city": "Kalama",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98626,
+    "latitude": 46.147274,
+    "longitude": -122.825047,
+    "city": "Kelso",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98628,
+    "latitude": 45.856217,
+    "longitude": -121.044345,
+    "city": "Klickitat",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98629,
+    "latitude": 45.881459,
+    "longitude": -122.615416,
+    "city": "La Center",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98631,
+    "latitude": 46.376798,
+    "longitude": -123.995591,
+    "city": "Long Beach",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98632,
+    "latitude": 46.181872,
+    "longitude": -123.057597,
+    "city": "Longview",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98635,
+    "latitude": 45.822789,
+    "longitude": -121.213705,
+    "city": "Lyle",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98637,
+    "latitude": 46.514625,
+    "longitude": -123.76903,
+    "city": "Nahcotta",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98638,
+    "latitude": 46.342219,
+    "longitude": -123.802552,
+    "city": "Naselle",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98639,
+    "latitude": 45.641704,
+    "longitude": -122.005783,
+    "city": "North Bonneville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Skamania"
+  },
+  {
+    "zip_code": 98640,
+    "latitude": 46.495565,
+    "longitude": -124.040389,
+    "city": "Ocean Park",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98641,
+    "latitude": 46.544789,
+    "longitude": -124.042671,
+    "city": "Oysterville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98642,
+    "latitude": 45.756797,
+    "longitude": -122.620162,
+    "city": "Ridgefield",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98643,
+    "latitude": 46.310011,
+    "longitude": -123.614319,
+    "city": "Rosburg",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Wahkiakum"
+  },
+  {
+    "zip_code": 98644,
+    "latitude": 46.330755,
+    "longitude": -124.04553,
+    "city": "Seaview",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pacific"
+  },
+  {
+    "zip_code": 98645,
+    "latitude": 46.314662,
+    "longitude": -122.728835,
+    "city": "Silverlake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98647,
+    "latitude": 46.300349,
+    "longitude": -123.456145,
+    "city": "Skamokawa",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Wahkiakum"
+  },
+  {
+    "zip_code": 98648,
+    "latitude": 45.673707,
+    "longitude": -121.912581,
+    "city": "Stevenson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Skamania"
+  },
+  {
+    "zip_code": 98649,
+    "latitude": 46.334539,
+    "longitude": -122.647324,
+    "city": "Toutle",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98650,
+    "latitude": 45.958949,
+    "longitude": -121.53564,
+    "city": "Trout Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98651,
+    "latitude": 45.75826,
+    "longitude": -121.576567,
+    "city": "Underwood",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Skamania"
+  },
+  {
+    "zip_code": 98660,
+    "latitude": 45.74327,
+    "longitude": -122.713366,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98661,
+    "latitude": 45.769989,
+    "longitude": -122.643658,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98662,
+    "latitude": 45.691419,
+    "longitude": -122.580457,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98663,
+    "latitude": 45.650488,
+    "longitude": -122.663608,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98664,
+    "latitude": 45.620669,
+    "longitude": -122.576413,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98665,
+    "latitude": 45.689187,
+    "longitude": -122.661608,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98666,
+    "latitude": 45.801586,
+    "longitude": -122.520347,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98667,
+    "latitude": 45.801586,
+    "longitude": -122.520347,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98668,
+    "latitude": 45.801586,
+    "longitude": -122.520347,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98670,
+    "latitude": 45.810317,
+    "longitude": -121.302305,
+    "city": "Wahkiacus",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98671,
+    "latitude": 45.611697,
+    "longitude": -122.315559,
+    "city": "Washougal",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98672,
+    "latitude": 45.828588,
+    "longitude": -121.405863,
+    "city": "White Salmon",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98673,
+    "latitude": 45.641548,
+    "longitude": -121.07317,
+    "city": "Wishram",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 98674,
+    "latitude": 45.937521,
+    "longitude": -122.686548,
+    "city": "Woodland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Cowlitz"
+  },
+  {
+    "zip_code": 98675,
+    "latitude": 45.824611,
+    "longitude": -122.498993,
+    "city": "Yacolt",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98682,
+    "latitude": 45.678782,
+    "longitude": -122.478845,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98683,
+    "latitude": 45.603216,
+    "longitude": -122.513318,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98684,
+    "latitude": 45.6359,
+    "longitude": -122.515538,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98685,
+    "latitude": 45.754637,
+    "longitude": -122.696001,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98686,
+    "latitude": 45.705566,
+    "longitude": -122.572193,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98687,
+    "latitude": 45.801586,
+    "longitude": -122.520347,
+    "city": "Vancouver",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 98801,
+    "latitude": 47.573816,
+    "longitude": -120.351884,
+    "city": "Wenatchee",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98802,
+    "latitude": 47.497831,
+    "longitude": -120.214402,
+    "city": "East Wenatchee",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98807,
+    "latitude": 47.905787,
+    "longitude": -120.520211,
+    "city": "Wenatchee",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98811,
+    "latitude": 47.708473,
+    "longitude": -120.329107,
+    "city": "Ardenvoir",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98812,
+    "latitude": 48.365236,
+    "longitude": -119.829391,
+    "city": "Brewster",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98813,
+    "latitude": 47.735893,
+    "longitude": -119.891998,
+    "city": "Bridgeport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98814,
+    "latitude": 48.551984,
+    "longitude": -119.812938,
+    "city": "Carlton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98815,
+    "latitude": 47.6329,
+    "longitude": -120.348064,
+    "city": "Cashmere",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98816,
+    "latitude": 47.876985,
+    "longitude": -120.07775,
+    "city": "Chelan",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98817,
+    "latitude": 47.841829,
+    "longitude": -119.957918,
+    "city": "Chelan Falls",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98819,
+    "latitude": 48.546905,
+    "longitude": -119.75262,
+    "city": "Conconully",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98821,
+    "latitude": 47.582186,
+    "longitude": -120.595955,
+    "city": "Dryden",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98822,
+    "latitude": 47.774872,
+    "longitude": -120.356279,
+    "city": "Entiat",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98823,
+    "latitude": 47.177565,
+    "longitude": -119.401958,
+    "city": "Ephrata",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98824,
+    "latitude": 47.079243,
+    "longitude": -119.860117,
+    "city": "George",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98826,
+    "latitude": 47.695101,
+    "longitude": -120.799413,
+    "city": "Leavenworth",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98827,
+    "latitude": 48.892514,
+    "longitude": -119.721016,
+    "city": "Loomis",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98828,
+    "latitude": 47.319535,
+    "longitude": -120.173347,
+    "city": "Malaga",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98829,
+    "latitude": 48.248002,
+    "longitude": -119.75246,
+    "city": "Malott",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98830,
+    "latitude": 47.847735,
+    "longitude": -119.525987,
+    "city": "Mansfield",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98831,
+    "latitude": 47.817133,
+    "longitude": -120.080148,
+    "city": "Manson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98832,
+    "latitude": 47.301392,
+    "longitude": -119.063956,
+    "city": "Marlin",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98833,
+    "latitude": 48.619527,
+    "longitude": -120.457954,
+    "city": "Mazama",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98834,
+    "latitude": 48.139518,
+    "longitude": -120.046348,
+    "city": "Methow",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98836,
+    "latitude": 47.485197,
+    "longitude": -120.415773,
+    "city": "Monitor",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98837,
+    "latitude": 47.180684,
+    "longitude": -119.298979,
+    "city": "Moses Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98840,
+    "latitude": 48.577378,
+    "longitude": -119.956787,
+    "city": "Okanogan",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98841,
+    "latitude": 48.426942,
+    "longitude": -119.560672,
+    "city": "Omak",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98843,
+    "latitude": 47.73051,
+    "longitude": -120.045781,
+    "city": "Orondo",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98844,
+    "latitude": 48.681342,
+    "longitude": -119.579107,
+    "city": "Oroville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98845,
+    "latitude": 47.393566,
+    "longitude": -119.90361,
+    "city": "Palisades",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98846,
+    "latitude": 48.411234,
+    "longitude": -119.742154,
+    "city": "Pateros",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98847,
+    "latitude": 47.545758,
+    "longitude": -120.596146,
+    "city": "Peshastin",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98848,
+    "latitude": 47.182173,
+    "longitude": -119.754143,
+    "city": "Quincy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98849,
+    "latitude": 48.518361,
+    "longitude": -119.434674,
+    "city": "Riverside",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98850,
+    "latitude": 47.312058,
+    "longitude": -120.103205,
+    "city": "Rock Island",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98851,
+    "latitude": 47.404594,
+    "longitude": -119.442377,
+    "city": "Soap Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98852,
+    "latitude": 47.905787,
+    "longitude": -120.520211,
+    "city": "Stehekin",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Chelan"
+  },
+  {
+    "zip_code": 98853,
+    "latitude": 47.404308,
+    "longitude": -119.312977,
+    "city": "Stratford",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98855,
+    "latitude": 48.502603,
+    "longitude": -119.542935,
+    "city": "Tonasket",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98856,
+    "latitude": 48.446836,
+    "longitude": -119.811252,
+    "city": "Twisp",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98857,
+    "latitude": 47.013759,
+    "longitude": -119.087915,
+    "city": "Warden",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98858,
+    "latitude": 47.701979,
+    "longitude": -119.86123,
+    "city": "Waterville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 98859,
+    "latitude": 48.798456,
+    "longitude": -119.025578,
+    "city": "Wauconda",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98860,
+    "latitude": 47.473874,
+    "longitude": -119.18473,
+    "city": "Wilson Creek",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 98862,
+    "latitude": 48.500635,
+    "longitude": -120.372447,
+    "city": "Winthrop",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 98901,
+    "latitude": 46.644476,
+    "longitude": -120.725557,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98902,
+    "latitude": 46.420138,
+    "longitude": -120.29712,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98903,
+    "latitude": 46.544506,
+    "longitude": -120.744393,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98904,
+    "latitude": 46.56451,
+    "longitude": -120.694658,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98907,
+    "latitude": 46.628757,
+    "longitude": -120.573967,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98908,
+    "latitude": 46.527811,
+    "longitude": -120.687412,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98909,
+    "latitude": 46.637538,
+    "longitude": -120.794978,
+    "city": "Yakima",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98920,
+    "latitude": 46.56451,
+    "longitude": -120.694658,
+    "city": "Brownstown",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98921,
+    "latitude": 46.421218,
+    "longitude": -120.315141,
+    "city": "Buena",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98922,
+    "latitude": 47.156558,
+    "longitude": -120.806926,
+    "city": "Cle Elum",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98923,
+    "latitude": 46.678192,
+    "longitude": -120.753007,
+    "city": "Cowiche",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98925,
+    "latitude": 47.232953,
+    "longitude": -121.177187,
+    "city": "Easton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98926,
+    "latitude": 47.028084,
+    "longitude": -120.48998,
+    "city": "Ellensburg",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98929,
+    "latitude": 46.915735,
+    "longitude": -121.241591,
+    "city": "Goose Prairie",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98930,
+    "latitude": 46.45594,
+    "longitude": -120.312088,
+    "city": "Grandview",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98932,
+    "latitude": 46.340157,
+    "longitude": -120.15493,
+    "city": "Granger",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98933,
+    "latitude": 46.323528,
+    "longitude": -120.375459,
+    "city": "Harrah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98934,
+    "latitude": 46.980645,
+    "longitude": -120.416259,
+    "city": "Kittitas",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98935,
+    "latitude": 46.165237,
+    "longitude": -120.050377,
+    "city": "Mabton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98936,
+    "latitude": 46.410236,
+    "longitude": -120.233518,
+    "city": "Moxee",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98937,
+    "latitude": 46.805796,
+    "longitude": -120.992096,
+    "city": "Naches",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98938,
+    "latitude": 46.366004,
+    "longitude": -120.119917,
+    "city": "Outlook",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98939,
+    "latitude": 46.56451,
+    "longitude": -120.694658,
+    "city": "Parker",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98940,
+    "latitude": 47.250307,
+    "longitude": -121.045575,
+    "city": "Ronald",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98941,
+    "latitude": 47.223287,
+    "longitude": -121.002513,
+    "city": "Roslyn",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98942,
+    "latitude": 46.544316,
+    "longitude": -120.396038,
+    "city": "Selah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98943,
+    "latitude": 47.188645,
+    "longitude": -120.95368,
+    "city": "South Cle Elum",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98944,
+    "latitude": 46.373611,
+    "longitude": -120.01059,
+    "city": "Sunnyside",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98946,
+    "latitude": 47.073905,
+    "longitude": -120.758301,
+    "city": "Thorp",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98947,
+    "latitude": 46.740371,
+    "longitude": -120.693103,
+    "city": "Tieton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98948,
+    "latitude": 46.328522,
+    "longitude": -120.370257,
+    "city": "Toppenish",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98950,
+    "latitude": 46.871354,
+    "longitude": -119.985869,
+    "city": "Vantage",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Kittitas"
+  },
+  {
+    "zip_code": 98951,
+    "latitude": 46.522398,
+    "longitude": -120.508444,
+    "city": "Wapato",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98952,
+    "latitude": 46.449869,
+    "longitude": -120.667145,
+    "city": "White Swan",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 98953,
+    "latitude": 46.419838,
+    "longitude": -120.231713,
+    "city": "Zillah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Yakima"
+  },
+  {
+    "zip_code": 99001,
+    "latitude": 47.643803,
+    "longitude": -117.59205,
+    "city": "Airway Heights",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99003,
+    "latitude": 47.92167,
+    "longitude": -117.262989,
+    "city": "Chattaroy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99004,
+    "latitude": 47.6067,
+    "longitude": -117.500285,
+    "city": "Cheney",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99005,
+    "latitude": 47.852847,
+    "longitude": -117.337529,
+    "city": "Colbert",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99006,
+    "latitude": 47.73874,
+    "longitude": -117.442395,
+    "city": "Deer Park",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99008,
+    "latitude": 47.60894,
+    "longitude": -118.399551,
+    "city": "Edwall",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99009,
+    "latitude": 47.992362,
+    "longitude": -117.26615,
+    "city": "Elk",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99011,
+    "latitude": 47.633161,
+    "longitude": -117.654603,
+    "city": "Fairchild Air Force Base",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99012,
+    "latitude": 47.405253,
+    "longitude": -117.17253,
+    "city": "Fairfield",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99013,
+    "latitude": 47.913372,
+    "longitude": -117.797447,
+    "city": "Ford",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99014,
+    "latitude": 47.55988,
+    "longitude": -117.595751,
+    "city": "Four Lakes",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99015,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Freeman",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99016,
+    "latitude": 47.622784,
+    "longitude": -117.138178,
+    "city": "Greenacres",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99017,
+    "latitude": 46.96178,
+    "longitude": -117.687163,
+    "city": "Lamont",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99018,
+    "latitude": 47.299889,
+    "longitude": -117.139491,
+    "city": "Latah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99019,
+    "latitude": 47.651635,
+    "longitude": -117.085845,
+    "city": "Liberty Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99020,
+    "latitude": 47.617665,
+    "longitude": -117.592591,
+    "city": "Marshall",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99021,
+    "latitude": 47.834074,
+    "longitude": -117.240392,
+    "city": "Mead",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99022,
+    "latitude": 47.615007,
+    "longitude": -117.703977,
+    "city": "Medical Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99023,
+    "latitude": 47.557733,
+    "longitude": -117.183637,
+    "city": "Mica",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99025,
+    "latitude": 47.76727,
+    "longitude": -117.090112,
+    "city": "Newman Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99026,
+    "latitude": 47.799507,
+    "longitude": -117.619375,
+    "city": "Nine Mile Falls",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99027,
+    "latitude": 47.734728,
+    "longitude": -117.107735,
+    "city": "Otis Orchards",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99029,
+    "latitude": 47.701645,
+    "longitude": -117.755268,
+    "city": "Reardan",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99030,
+    "latitude": 47.672177,
+    "longitude": -117.255465,
+    "city": "Rockford",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99031,
+    "latitude": 47.438748,
+    "longitude": -117.370017,
+    "city": "Spangle",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99032,
+    "latitude": 47.299844,
+    "longitude": -117.977732,
+    "city": "Sprague",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99033,
+    "latitude": 47.226641,
+    "longitude": -117.096157,
+    "city": "Tekoa",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99034,
+    "latitude": 47.894108,
+    "longitude": -117.753629,
+    "city": "Tumtum",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99036,
+    "latitude": 47.520107,
+    "longitude": -117.270216,
+    "city": "Valleyford",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99037,
+    "latitude": 47.636834,
+    "longitude": -117.199587,
+    "city": "Veradale",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99039,
+    "latitude": 47.329704,
+    "longitude": -117.244981,
+    "city": "Waverly",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99040,
+    "latitude": 47.881367,
+    "longitude": -117.933742,
+    "city": "Wellpinit",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99101,
+    "latitude": 48.336378,
+    "longitude": -117.957926,
+    "city": "Addy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99102,
+    "latitude": 46.934379,
+    "longitude": -117.412136,
+    "city": "Albion",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99103,
+    "latitude": 47.529705,
+    "longitude": -118.599193,
+    "city": "Almira",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99104,
+    "latitude": 47.079345,
+    "longitude": -117.176954,
+    "city": "Belmont",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99105,
+    "latitude": 46.859127,
+    "longitude": -118.161058,
+    "city": "Benge",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99107,
+    "latitude": 48.84269,
+    "longitude": -118.182764,
+    "city": "Boyds",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99109,
+    "latitude": 48.293181,
+    "longitude": -117.739245,
+    "city": "Chewelah",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99110,
+    "latitude": 48.007138,
+    "longitude": -117.557907,
+    "city": "Clayton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99111,
+    "latitude": 46.959127,
+    "longitude": -117.505163,
+    "city": "Colfax",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99113,
+    "latitude": 46.575075,
+    "longitude": -117.206588,
+    "city": "Colton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99114,
+    "latitude": 48.676916,
+    "longitude": -117.809315,
+    "city": "Colville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99115,
+    "latitude": 47.737206,
+    "longitude": -119.227032,
+    "city": "Coulee City",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99116,
+    "latitude": 48.037889,
+    "longitude": -118.941876,
+    "city": "Coulee Dam",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 99117,
+    "latitude": 47.644181,
+    "longitude": -118.450679,
+    "city": "Creston",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99118,
+    "latitude": 48.894734,
+    "longitude": -118.669864,
+    "city": "Curlew",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99119,
+    "latitude": 48.510409,
+    "longitude": -117.348383,
+    "city": "Cusick",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99121,
+    "latitude": 48.954016,
+    "longitude": -118.505768,
+    "city": "Danville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99122,
+    "latitude": 47.712295,
+    "longitude": -118.122173,
+    "city": "Davenport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99123,
+    "latitude": 47.913065,
+    "longitude": -119.042562,
+    "city": "Electric City",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99124,
+    "latitude": 48.015361,
+    "longitude": -118.954893,
+    "city": "Elmer City",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 99125,
+    "latitude": 46.911972,
+    "longitude": -117.702655,
+    "city": "Endicott",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99126,
+    "latitude": 48.740671,
+    "longitude": -117.972888,
+    "city": "Evans",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99127,
+    "latitude": 46.838747,
+    "longitude": -117.644337,
+    "city": "Saint John",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99128,
+    "latitude": 47.066613,
+    "longitude": -117.361435,
+    "city": "Farmington",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99129,
+    "latitude": 48.005075,
+    "longitude": -118.228564,
+    "city": "Fruitland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99130,
+    "latitude": 46.929426,
+    "longitude": -117.170603,
+    "city": "Garfield",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99131,
+    "latitude": 48.268511,
+    "longitude": -118.113552,
+    "city": "Gifford",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99133,
+    "latitude": 47.822463,
+    "longitude": -119.042714,
+    "city": "Grand Coulee",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99134,
+    "latitude": 47.478233,
+    "longitude": -118.254439,
+    "city": "Harrington",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99135,
+    "latitude": 47.611505,
+    "longitude": -119.084131,
+    "city": "Hartline",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99136,
+    "latitude": 46.697296,
+    "longitude": -117.941665,
+    "city": "Hay",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99137,
+    "latitude": 48.150398,
+    "longitude": -118.077422,
+    "city": "Hunters",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99138,
+    "latitude": 48.268566,
+    "longitude": -118.305461,
+    "city": "Inchelium",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99139,
+    "latitude": 48.737714,
+    "longitude": -117.36469,
+    "city": "Ione",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99140,
+    "latitude": 48.889691,
+    "longitude": -118.217849,
+    "city": "Keller",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99141,
+    "latitude": 48.695338,
+    "longitude": -117.966943,
+    "city": "Kettle Falls",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99143,
+    "latitude": 46.759878,
+    "longitude": -117.728679,
+    "city": "Lacrosse",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99144,
+    "latitude": 47.60894,
+    "longitude": -118.399551,
+    "city": "Lamona",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99146,
+    "latitude": 48.975272,
+    "longitude": -118.220816,
+    "city": "Laurier",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99147,
+    "latitude": 47.60894,
+    "longitude": -118.399551,
+    "city": "Lincoln",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99148,
+    "latitude": 48.107165,
+    "longitude": -117.627815,
+    "city": "Loon Lake",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99149,
+    "latitude": 47.0101,
+    "longitude": -117.476605,
+    "city": "Malden",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99150,
+    "latitude": 48.810999,
+    "longitude": -118.604355,
+    "city": "Malo",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99151,
+    "latitude": 48.786802,
+    "longitude": -117.924021,
+    "city": "Marcus",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99152,
+    "latitude": 48.484729,
+    "longitude": -117.22144,
+    "city": "Metaline",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99153,
+    "latitude": 48.731121,
+    "longitude": -117.339995,
+    "city": "Metaline Falls",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99154,
+    "latitude": 47.60894,
+    "longitude": -118.399551,
+    "city": "Mohler",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99155,
+    "latitude": 48.143441,
+    "longitude": -119.00938,
+    "city": "Nespelem",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Okanogan"
+  },
+  {
+    "zip_code": 99156,
+    "latitude": 48.448981,
+    "longitude": -117.228067,
+    "city": "Newport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99157,
+    "latitude": 48.905142,
+    "longitude": -117.851127,
+    "city": "Northport",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99158,
+    "latitude": 47.079658,
+    "longitude": -117.41146,
+    "city": "Oakesdale",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99159,
+    "latitude": 47.344402,
+    "longitude": -118.658816,
+    "city": "Odessa",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99160,
+    "latitude": 48.887781,
+    "longitude": -118.210467,
+    "city": "Orient",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99161,
+    "latitude": 46.770141,
+    "longitude": -117.157476,
+    "city": "Palouse",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99163,
+    "latitude": 46.82748,
+    "longitude": -117.317741,
+    "city": "Pullman",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99164,
+    "latitude": 46.838747,
+    "longitude": -117.644337,
+    "city": "Pullman",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99165,
+    "latitude": 46.838747,
+    "longitude": -117.644337,
+    "city": "Pullman",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99166,
+    "latitude": 48.667659,
+    "longitude": -118.680631,
+    "city": "Republic",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Ferry"
+  },
+  {
+    "zip_code": 99167,
+    "latitude": 48.42424,
+    "longitude": -118.100693,
+    "city": "Rice",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99169,
+    "latitude": 47.087055,
+    "longitude": -118.4813,
+    "city": "Ritzville",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99170,
+    "latitude": 47.034713,
+    "longitude": -117.4646,
+    "city": "Rosalia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99171,
+    "latitude": 47.123718,
+    "longitude": -117.676432,
+    "city": "Saint John",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99173,
+    "latitude": 48.002188,
+    "longitude": -117.828964,
+    "city": "Springdale",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99174,
+    "latitude": 46.838747,
+    "longitude": -117.644337,
+    "city": "Steptoe",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99176,
+    "latitude": 47.12196,
+    "longitude": -117.433708,
+    "city": "Thornton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99179,
+    "latitude": 46.545655,
+    "longitude": -117.10797,
+    "city": "Uniontown",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99180,
+    "latitude": 48.25013,
+    "longitude": -117.353111,
+    "city": "Usk",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Pend Oreille"
+  },
+  {
+    "zip_code": 99181,
+    "latitude": 48.124594,
+    "longitude": -117.762554,
+    "city": "Valley",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 99185,
+    "latitude": 47.761025,
+    "longitude": -118.729143,
+    "city": "Wilbur",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 99201,
+    "latitude": 47.66264,
+    "longitude": -117.435997,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99202,
+    "latitude": 47.613475,
+    "longitude": -117.515897,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99203,
+    "latitude": 47.629341,
+    "longitude": -117.406269,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99204,
+    "latitude": 47.650091,
+    "longitude": -117.429846,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99205,
+    "latitude": 47.693501,
+    "longitude": -117.44995,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99206,
+    "latitude": 47.665198,
+    "longitude": -117.373399,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99207,
+    "latitude": 47.693766,
+    "longitude": -117.379096,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99208,
+    "latitude": 47.780541,
+    "longitude": -117.455375,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99209,
+    "latitude": 47.646148,
+    "longitude": -117.793734,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99210,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99211,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99212,
+    "latitude": 47.670693,
+    "longitude": -117.310991,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99213,
+    "latitude": 47.656726,
+    "longitude": -117.282483,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99214,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99215,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99216,
+    "latitude": 47.671164,
+    "longitude": -117.19926,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99217,
+    "latitude": 47.737957,
+    "longitude": -117.25569,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99218,
+    "latitude": 47.75754,
+    "longitude": -117.407552,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99219,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99220,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99223,
+    "latitude": 47.592452,
+    "longitude": -117.34212,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99224,
+    "latitude": 47.628858,
+    "longitude": -117.551291,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99228,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99251,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99252,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99256,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99258,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99260,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99299,
+    "latitude": 47.653568,
+    "longitude": -117.431742,
+    "city": "Spokane",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Spokane"
+  },
+  {
+    "zip_code": 99301,
+    "latitude": 46.42066,
+    "longitude": -118.899447,
+    "city": "Pasco",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99302,
+    "latitude": 46.234957,
+    "longitude": -119.094271,
+    "city": "Pasco",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99320,
+    "latitude": 46.24204,
+    "longitude": -119.483517,
+    "city": "Benton City",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99321,
+    "latitude": 46.844992,
+    "longitude": -119.935689,
+    "city": "Beverly",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99322,
+    "latitude": 45.887647,
+    "longitude": -120.281675,
+    "city": "Bickleton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 99323,
+    "latitude": 46.196597,
+    "longitude": -118.901678,
+    "city": "Burbank",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99324,
+    "latitude": 46.047069,
+    "longitude": -118.409275,
+    "city": "College Place",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99326,
+    "latitude": 46.590118,
+    "longitude": -118.897786,
+    "city": "Connell",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99327,
+    "latitude": 46.828931,
+    "longitude": -118.829153,
+    "city": "Cunningham",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99328,
+    "latitude": 46.392683,
+    "longitude": -117.94953,
+    "city": "Dayton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 99329,
+    "latitude": 46.140821,
+    "longitude": -118.153064,
+    "city": "Dixie",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99330,
+    "latitude": 46.508917,
+    "longitude": -118.992619,
+    "city": "Eltopia",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99332,
+    "latitude": 46.77062,
+    "longitude": -118.800049,
+    "city": "Hatton",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99333,
+    "latitude": 46.838747,
+    "longitude": -117.644337,
+    "city": "Hooper",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Whitman"
+  },
+  {
+    "zip_code": 99335,
+    "latitude": 46.677852,
+    "longitude": -118.53374,
+    "city": "Kahlotus",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99336,
+    "latitude": 46.212306,
+    "longitude": -119.155671,
+    "city": "Kennewick",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99337,
+    "latitude": 46.117122,
+    "longitude": -119.090676,
+    "city": "Kennewick",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99338,
+    "latitude": 46.155994,
+    "longitude": -119.263991,
+    "city": "Kennewick",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99341,
+    "latitude": 46.904229,
+    "longitude": -118.690546,
+    "city": "Lind",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99343,
+    "latitude": 46.577941,
+    "longitude": -119.162115,
+    "city": "Mesa",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 99344,
+    "latitude": 46.852708,
+    "longitude": -118.993182,
+    "city": "Othello",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99345,
+    "latitude": 45.859058,
+    "longitude": -119.857639,
+    "city": "Paterson",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99346,
+    "latitude": 45.930067,
+    "longitude": -119.402276,
+    "city": "Plymouth",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99347,
+    "latitude": 46.475341,
+    "longitude": -117.537763,
+    "city": "Pomeroy",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Garfield"
+  },
+  {
+    "zip_code": 99348,
+    "latitude": 46.354972,
+    "longitude": -118.455541,
+    "city": "Prescott",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99349,
+    "latitude": 46.730957,
+    "longitude": -119.778257,
+    "city": "Mattawa",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99350,
+    "latitude": 46.148328,
+    "longitude": -119.559674,
+    "city": "Prosser",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99352,
+    "latitude": 46.282031,
+    "longitude": -119.491659,
+    "city": "Richland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99353,
+    "latitude": 46.315267,
+    "longitude": -119.371393,
+    "city": "West Richland",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 99356,
+    "latitude": 45.851428,
+    "longitude": -120.354257,
+    "city": "Roosevelt",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Klickitat"
+  },
+  {
+    "zip_code": 99357,
+    "latitude": 46.897589,
+    "longitude": -119.686316,
+    "city": "Royal City",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 99359,
+    "latitude": 46.512828,
+    "longitude": -118.10237,
+    "city": "Starbuck",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 99360,
+    "latitude": 46.134445,
+    "longitude": -118.461436,
+    "city": "Touchet",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99361,
+    "latitude": 46.159844,
+    "longitude": -118.139822,
+    "city": "Waitsburg",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99362,
+    "latitude": 46.1341,
+    "longitude": -118.291407,
+    "city": "Walla Walla",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99363,
+    "latitude": 46.084584,
+    "longitude": -118.906079,
+    "city": "Wallula",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Walla Walla"
+  },
+  {
+    "zip_code": 99371,
+    "latitude": 46.815306,
+    "longitude": -118.338081,
+    "city": "Washtucna",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 99401,
+    "latitude": 46.121593,
+    "longitude": -117.17858,
+    "city": "Anatone",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Asotin"
+  },
+  {
+    "zip_code": 99402,
+    "latitude": 46.174099,
+    "longitude": -117.118489,
+    "city": "Asotin",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Asotin"
+  },
+  {
+    "zip_code": 99403,
+    "latitude": 46.369711,
+    "longitude": -117.225934,
+    "city": "Clarkston",
+    "state": "WA",
+    "full_state": "Washington",
+    "county": "Asotin"
+  },
+  {
+    "zip_code": 99501,
+    "latitude": 61.287624,
+    "longitude": -149.486981,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99502,
+    "latitude": 61.166069,
+    "longitude": -149.960008,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99503,
+    "latitude": 61.188411,
+    "longitude": -149.893867,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99504,
+    "latitude": 61.205284,
+    "longitude": -149.771928,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99505,
+    "latitude": 61.259092,
+    "longitude": -149.690318,
+    "city": "Fort Richardson",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99506,
+    "latitude": 61.257409,
+    "longitude": -149.804165,
+    "city": "Elmendorf Afb",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99507,
+    "latitude": 61.151903,
+    "longitude": -149.776157,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99508,
+    "latitude": 61.205076,
+    "longitude": -149.823203,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99509,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99510,
+    "latitude": 61.144568,
+    "longitude": -149.878418,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99511,
+    "latitude": 61.068324,
+    "longitude": -149.800476,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99512,
+    "latitude": 61.203954,
+    "longitude": -149.808426,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99513,
+    "latitude": 61.214877,
+    "longitude": -149.886174,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99514,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99515,
+    "latitude": 61.115754,
+    "longitude": -149.912019,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99516,
+    "latitude": 61.091201,
+    "longitude": -149.762371,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99517,
+    "latitude": 61.189494,
+    "longitude": -149.93809,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99518,
+    "latitude": 61.157813,
+    "longitude": -149.894338,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99519,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99520,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99521,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99522,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99523,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99524,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99540,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Indian",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99546,
+    "latitude": 54.24018,
+    "longitude": -176.787412,
+    "city": "Adak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99547,
+    "latitude": 54.24018,
+    "longitude": -176.787412,
+    "city": "Atka",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99548,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Chignik Lake",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99549,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Port Heiden",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99550,
+    "latitude": 57.701171,
+    "longitude": -153.505567,
+    "city": "Port Lions",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99551,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Akiachak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99552,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Akiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99553,
+    "latitude": 55.430594,
+    "longitude": -162.55813,
+    "city": "Akutan",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians East"
+  },
+  {
+    "zip_code": 99554,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Alakanuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99555,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "Aleknagik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99556,
+    "latitude": 59.837116,
+    "longitude": -151.70781,
+    "city": "Anchor Point",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99557,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Aniak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99558,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Anvik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99559,
+    "latitude": 60.129979,
+    "longitude": -162.173906,
+    "city": "Bethel",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99561,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Chefornak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99563,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Chevak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99564,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Chignik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99565,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Chignik Lagoon",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99566,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Chitina",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99567,
+    "latitude": 61.393834,
+    "longitude": -149.424631,
+    "city": "Chugiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99568,
+    "latitude": 60.187496,
+    "longitude": -151.442983,
+    "city": "Clam Gulch",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99569,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "Clarks Point",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99571,
+    "latitude": 55.650875,
+    "longitude": -160.654522,
+    "city": "Cold Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians East"
+  },
+  {
+    "zip_code": 99572,
+    "latitude": 60.491478,
+    "longitude": -149.770159,
+    "city": "Cooper Landing",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99573,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Copper Center",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99574,
+    "latitude": 60.536166,
+    "longitude": -145.75335,
+    "city": "Cordova",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99575,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Crooked Creek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99576,
+    "latitude": 59.040181,
+    "longitude": -158.523138,
+    "city": "Dillingham",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99577,
+    "latitude": 61.303131,
+    "longitude": -149.424518,
+    "city": "Eagle River",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99578,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Eek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99579,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Egegik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99580,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "Ekwok",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99581,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Emmonak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99583,
+    "latitude": 55.430594,
+    "longitude": -162.55813,
+    "city": "False Pass",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians East"
+  },
+  {
+    "zip_code": 99584,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Flat",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99585,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Marshall",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99586,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Gakona",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99587,
+    "latitude": 60.957674,
+    "longitude": -149.140623,
+    "city": "Girdwood",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99588,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Glennallen",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99589,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Goodnews Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99590,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Grayling",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99591,
+    "latitude": 54.24018,
+    "longitude": -176.787412,
+    "city": "Saint George Island",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99599,
+    "latitude": 61.187188,
+    "longitude": -149.880393,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99602,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Holy Cross",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99603,
+    "latitude": 60.056453,
+    "longitude": -151.362422,
+    "city": "Homer",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99604,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Hooper Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99605,
+    "latitude": 60.036583,
+    "longitude": -151.655567,
+    "city": "Hope",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99606,
+    "latitude": 59.752463,
+    "longitude": -154.823629,
+    "city": "Iliamna",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99607,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Kalskag",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99608,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Karluk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99609,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Kasigluk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99610,
+    "latitude": 60.352575,
+    "longitude": -151.116301,
+    "city": "Kasilof",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99611,
+    "latitude": 60.422041,
+    "longitude": -150.407958,
+    "city": "Kenai",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99612,
+    "latitude": 55.430594,
+    "longitude": -162.55813,
+    "city": "King Cove",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians East"
+  },
+  {
+    "zip_code": 99613,
+    "latitude": 58.745599,
+    "longitude": -157.159459,
+    "city": "King Salmon",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99614,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Kipnuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99615,
+    "latitude": 57.762816,
+    "longitude": -152.472876,
+    "city": "Kodiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99619,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Kodiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99620,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Kotlik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99621,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Kwethluk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99622,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Kwigillingok",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99624,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Larsen Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99625,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Levelock",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99626,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Lower Kalskag",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99627,
+    "latitude": 62.945716,
+    "longitude": -155.5712,
+    "city": "Mc Grath",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99628,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "Manokotak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99630,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Mekoryuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99631,
+    "latitude": 60.036583,
+    "longitude": -151.655567,
+    "city": "Moose Pass",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99632,
+    "latitude": 62.332461,
+    "longitude": -164.287228,
+    "city": "Mountain Village",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99633,
+    "latitude": 58.655425,
+    "longitude": -156.788199,
+    "city": "Naknek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bristol Bay"
+  },
+  {
+    "zip_code": 99634,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Napakiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99635,
+    "latitude": 60.700696,
+    "longitude": -151.276633,
+    "city": "Nikiski",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99636,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "New Stuyahok",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99637,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Toksook Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99638,
+    "latitude": 54.24018,
+    "longitude": -176.787412,
+    "city": "Nikolski",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99639,
+    "latitude": 60.04914,
+    "longitude": -151.517286,
+    "city": "Ninilchik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99640,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Nondalton",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99641,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Nunapitchuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99643,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Old Harbor",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99644,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Ouzinkie",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99645,
+    "latitude": 62.257284,
+    "longitude": -149.633916,
+    "city": "Palmer",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99647,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Pedro Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99648,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Perryville",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99649,
+    "latitude": 57.528787,
+    "longitude": -157.485781,
+    "city": "Pilot Point",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99650,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Pilot Station",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99651,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Platinum",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99652,
+    "latitude": 61.523043,
+    "longitude": -149.728806,
+    "city": "Big Lake",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99653,
+    "latitude": 58.268704,
+    "longitude": -156.648418,
+    "city": "Port Alsworth",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Lake And Peninsula"
+  },
+  {
+    "zip_code": 99654,
+    "latitude": 61.581305,
+    "longitude": -149.374335,
+    "city": "Wasilla",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99655,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Quinhagak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99656,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Red Devil",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99657,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Russian Mission",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99658,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Saint Marys",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99659,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Saint Michael",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99660,
+    "latitude": 54.24018,
+    "longitude": -176.787412,
+    "city": "Saint Paul Island",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99661,
+    "latitude": 55.350356,
+    "longitude": -160.485506,
+    "city": "Sand Point",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians East"
+  },
+  {
+    "zip_code": 99662,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Scammon Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99663,
+    "latitude": 59.449486,
+    "longitude": -151.700915,
+    "city": "Seldovia",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99664,
+    "latitude": 60.25281,
+    "longitude": -149.402123,
+    "city": "Seward",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99665,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Shageluk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99666,
+    "latitude": 62.117231,
+    "longitude": -163.237636,
+    "city": "Nunam Iqua",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wade Hampton"
+  },
+  {
+    "zip_code": 99667,
+    "latitude": 62.280436,
+    "longitude": -149.715167,
+    "city": "Skwentna",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99668,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Sleetmute",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99669,
+    "latitude": 60.110034,
+    "longitude": -151.247935,
+    "city": "Soldotna",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99670,
+    "latitude": 58.745599,
+    "longitude": -157.159459,
+    "city": "South Naknek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bristol Bay"
+  },
+  {
+    "zip_code": 99671,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Stebbins",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99672,
+    "latitude": 60.513614,
+    "longitude": -150.853238,
+    "city": "Sterling",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99674,
+    "latitude": 61.732741,
+    "longitude": -148.783687,
+    "city": "Sutton",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99675,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Takotna",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99676,
+    "latitude": 62.280436,
+    "longitude": -149.715167,
+    "city": "Talkeetna",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99677,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Tatitlek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99678,
+    "latitude": 58.962101,
+    "longitude": -163.118947,
+    "city": "Togiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Dillingham"
+  },
+  {
+    "zip_code": 99679,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Tuluksak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99680,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Tuntutuliak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99681,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Tununak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99682,
+    "latitude": 60.036583,
+    "longitude": -151.655567,
+    "city": "Tyonek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kenai Peninsula"
+  },
+  {
+    "zip_code": 99683,
+    "latitude": 61.720499,
+    "longitude": -150.009239,
+    "city": "Trapper Creek",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99684,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Unalakleet",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99685,
+    "latitude": 53.85513,
+    "longitude": -166.518069,
+    "city": "Unalaska",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99686,
+    "latitude": 61.68557,
+    "longitude": -145.775152,
+    "city": "Valdez",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99687,
+    "latitude": 61.531298,
+    "longitude": -149.478398,
+    "city": "Wasilla",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99688,
+    "latitude": 61.896608,
+    "longitude": -150.003758,
+    "city": "Willow",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99689,
+    "latitude": 58.331798,
+    "longitude": -135.181256,
+    "city": "Yakutat",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yakutat"
+  },
+  {
+    "zip_code": 99690,
+    "latitude": 60.314735,
+    "longitude": -163.118947,
+    "city": "Nightmute",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Bethel"
+  },
+  {
+    "zip_code": 99691,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Nikolai",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99692,
+    "latitude": 53.865295,
+    "longitude": -166.525333,
+    "city": "Dutch Harbor",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Aleutians West"
+  },
+  {
+    "zip_code": 99693,
+    "latitude": 61.470966,
+    "longitude": -144.991027,
+    "city": "Whittier",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Valdez Cordova"
+  },
+  {
+    "zip_code": 99694,
+    "latitude": 62.280436,
+    "longitude": -149.715167,
+    "city": "Houston",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Matanuska Susitna"
+  },
+  {
+    "zip_code": 99695,
+    "latitude": 61.108864,
+    "longitude": -149.440311,
+    "city": "Anchorage",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Anchorage"
+  },
+  {
+    "zip_code": 99697,
+    "latitude": 58.268704,
+    "longitude": -155.797078,
+    "city": "Kodiak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Kodiak Island"
+  },
+  {
+    "zip_code": 99701,
+    "latitude": 64.644047,
+    "longitude": -147.522052,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99702,
+    "latitude": 64.790803,
+    "longitude": -147.463336,
+    "city": "Eielson Afb",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99703,
+    "latitude": 64.832821,
+    "longitude": -147.64418,
+    "city": "Fort Wainwright",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99704,
+    "latitude": 63.543571,
+    "longitude": -149.986676,
+    "city": "Clear",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Denali"
+  },
+  {
+    "zip_code": 99705,
+    "latitude": 64.780765,
+    "longitude": -147.207748,
+    "city": "North Pole",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99706,
+    "latitude": 64.852055,
+    "longitude": -147.937747,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99707,
+    "latitude": 64.699839,
+    "longitude": -147.405134,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99708,
+    "latitude": 64.947462,
+    "longitude": -147.856443,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99709,
+    "latitude": 64.860126,
+    "longitude": -147.999791,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99710,
+    "latitude": 64.948648,
+    "longitude": -147.535549,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99711,
+    "latitude": 64.826445,
+    "longitude": -147.38884,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99712,
+    "latitude": 65.036453,
+    "longitude": -147.156588,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99714,
+    "latitude": 64.489102,
+    "longitude": -146.924788,
+    "city": "Salcha",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99716,
+    "latitude": 64.874591,
+    "longitude": -146.898195,
+    "city": "Two Rivers",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99720,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Allakaket",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99721,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Anaktuvuk Pass",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99722,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Arctic Village",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99723,
+    "latitude": 70.220472,
+    "longitude": -150.238942,
+    "city": "Barrow",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99724,
+    "latitude": 66.929746,
+    "longitude": -149.19301,
+    "city": "Beaver",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99725,
+    "latitude": 64.870974,
+    "longitude": -148.09493,
+    "city": "Ester",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99726,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Bettles Field",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99727,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Buckland",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99729,
+    "latitude": 63.543571,
+    "longitude": -149.986676,
+    "city": "Cantwell",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Denali"
+  },
+  {
+    "zip_code": 99730,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Central",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99732,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Chicken",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99733,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Circle",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99734,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Prudhoe Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99736,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Deering",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99737,
+    "latitude": 63.107461,
+    "longitude": -143.422478,
+    "city": "Delta Junction",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99738,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Eagle",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99739,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Elim",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99740,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Fort Yukon",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99741,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Galena",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99742,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Gambell",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99743,
+    "latitude": 63.543571,
+    "longitude": -149.986676,
+    "city": "Healy",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Denali"
+  },
+  {
+    "zip_code": 99744,
+    "latitude": 63.543571,
+    "longitude": -149.986676,
+    "city": "Anderson",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Denali"
+  },
+  {
+    "zip_code": 99745,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Hughes",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99746,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Huslia",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99747,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Kaktovik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99748,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Kaltag",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99749,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Kiana",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99750,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Kivalina",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99751,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Kobuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99752,
+    "latitude": 66.865256,
+    "longitude": -161.780844,
+    "city": "Kotzebue",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99753,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Koyuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99754,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Koyukuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99755,
+    "latitude": 63.543571,
+    "longitude": -149.986676,
+    "city": "Denali National Park",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Denali"
+  },
+  {
+    "zip_code": 99756,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Manley Hot Springs",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99757,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Lake Minchumina",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99758,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Minto",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99759,
+    "latitude": 68.887048,
+    "longitude": -164.249713,
+    "city": "Point Lay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99760,
+    "latitude": 64.117464,
+    "longitude": -153.451125,
+    "city": "Nenana",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99761,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Noatak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99762,
+    "latitude": 63.888671,
+    "longitude": -163.80076,
+    "city": "Nome",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99763,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Noorvik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99764,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Northway",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99765,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Nulato",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99766,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Point Hope",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99767,
+    "latitude": 65.509038,
+    "longitude": -150.161868,
+    "city": "Rampart",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99768,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Ruby",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99769,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Savoonga",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99770,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Selawik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99771,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Shaktoolik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99772,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Shishmaref",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99773,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Shungnak",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99774,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Stevens Village",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99775,
+    "latitude": 64.859078,
+    "longitude": -147.826709,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99776,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Tanacross",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99777,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Tanana",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99778,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Teller",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99779,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Tetlin",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99780,
+    "latitude": 63.870552,
+    "longitude": -144.002648,
+    "city": "Tok",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Southeast Fairbanks"
+  },
+  {
+    "zip_code": 99781,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Venetie",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99782,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Wainwright",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99783,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Wales",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99784,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "White Mountain",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99785,
+    "latitude": 64.755604,
+    "longitude": -165.672344,
+    "city": "Brevig Mission",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Nome"
+  },
+  {
+    "zip_code": 99786,
+    "latitude": 66.868442,
+    "longitude": -159.843924,
+    "city": "Ambler",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Northwest Arctic"
+  },
+  {
+    "zip_code": 99788,
+    "latitude": 65.226375,
+    "longitude": -151.025085,
+    "city": "Chalkyitsik",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Yukon Koyukuk"
+  },
+  {
+    "zip_code": 99789,
+    "latitude": 66.693255,
+    "longitude": -153.993988,
+    "city": "Nuiqsut",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99790,
+    "latitude": 64.856055,
+    "longitude": -146.27598,
+    "city": "Fairbanks",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Fairbanks North Star"
+  },
+  {
+    "zip_code": 99791,
+    "latitude": 70.494693,
+    "longitude": -157.441073,
+    "city": "Atqasuk",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "North Slope"
+  },
+  {
+    "zip_code": 99801,
+    "latitude": 58.373561,
+    "longitude": -134.523946,
+    "city": "Juneau",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99802,
+    "latitude": 58.405657,
+    "longitude": -134.58969,
+    "city": "Juneau",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99803,
+    "latitude": 58.377074,
+    "longitude": -134.617383,
+    "city": "Juneau",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99811,
+    "latitude": 58.38348,
+    "longitude": -134.197786,
+    "city": "Juneau",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99820,
+    "latitude": 57.500525,
+    "longitude": -134.585954,
+    "city": "Angoon",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99821,
+    "latitude": 58.449413,
+    "longitude": -134.700348,
+    "city": "Auke Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99824,
+    "latitude": 58.276308,
+    "longitude": -134.397642,
+    "city": "Douglas",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99825,
+    "latitude": 58.331798,
+    "longitude": -135.181256,
+    "city": "Elfin Cove",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99826,
+    "latitude": 58.331798,
+    "longitude": -135.181256,
+    "city": "Gustavus",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99827,
+    "latitude": 59.312688,
+    "longitude": -135.681153,
+    "city": "Haines",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Haines"
+  },
+  {
+    "zip_code": 99829,
+    "latitude": 58.097655,
+    "longitude": -135.431561,
+    "city": "Hoonah",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99830,
+    "latitude": 56.973554,
+    "longitude": -133.935996,
+    "city": "Kake",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wrangell Petersburg"
+  },
+  {
+    "zip_code": 99832,
+    "latitude": 58.331798,
+    "longitude": -135.181256,
+    "city": "Pelican",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99833,
+    "latitude": 56.767056,
+    "longitude": -132.93195,
+    "city": "Petersburg",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wrangell Petersburg"
+  },
+  {
+    "zip_code": 99835,
+    "latitude": 57.080818,
+    "longitude": -135.318348,
+    "city": "Sitka",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Sitka"
+  },
+  {
+    "zip_code": 99836,
+    "latitude": 56.53595,
+    "longitude": -132.827948,
+    "city": "Port Alexander",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wrangell Petersburg"
+  },
+  {
+    "zip_code": 99840,
+    "latitude": 59.456753,
+    "longitude": -135.314852,
+    "city": "Skagway",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99841,
+    "latitude": 57.798249,
+    "longitude": -135.285061,
+    "city": "Tenakee Springs",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Skagway Hoonah Angoon"
+  },
+  {
+    "zip_code": 99850,
+    "latitude": 58.38348,
+    "longitude": -134.197786,
+    "city": "Juneau",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 99901,
+    "latitude": 55.400674,
+    "longitude": -131.67409,
+    "city": "Ketchikan",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Ketchikan Gateway"
+  },
+  {
+    "zip_code": 99903,
+    "latitude": 55.517921,
+    "longitude": -132.003244,
+    "city": "Meyers Chuck",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99918,
+    "latitude": 55.517921,
+    "longitude": -132.003244,
+    "city": "Coffman Cove",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99919,
+    "latitude": 55.126774,
+    "longitude": -131.580407,
+    "city": "Thorne Bay",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99921,
+    "latitude": 55.513301,
+    "longitude": -133.117022,
+    "city": "Craig",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99922,
+    "latitude": 55.208706,
+    "longitude": -132.825903,
+    "city": "Hydaburg",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99923,
+    "latitude": 55.517921,
+    "longitude": -132.003244,
+    "city": "Hyder",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99925,
+    "latitude": 55.554393,
+    "longitude": -133.09068,
+    "city": "Klawock",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99926,
+    "latitude": 55.094325,
+    "longitude": -131.566827,
+    "city": "Metlakatla",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99927,
+    "latitude": 55.517921,
+    "longitude": -132.003244,
+    "city": "Point Baker",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Prince Wales Ketchikan"
+  },
+  {
+    "zip_code": 99928,
+    "latitude": 55.395359,
+    "longitude": -131.67537,
+    "city": "Ward Cove",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Ketchikan Gateway"
+  },
+  {
+    "zip_code": 99929,
+    "latitude": 56.449893,
+    "longitude": -132.364407,
+    "city": "Wrangell",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Wrangell Petersburg"
+  },
+  {
+    "zip_code": 99950,
+    "latitude": 55.542007,
+    "longitude": -131.432682,
+    "city": "Ketchikan",
+    "state": "AK",
+    "full_state": "Alaska",
+    "county": "Ketchikan Gateway"
+  }
+]

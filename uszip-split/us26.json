@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 70770,
+    "latitude": 30.646585,
+    "longitude": -90.974252,
+    "city": "Pride",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70772,
+    "latitude": 30.435586,
+    "longitude": -91.466482,
+    "city": "Rosedale",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70773,
+    "latitude": 30.602606,
+    "longitude": -91.415059,
+    "city": "Rougon",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70774,
+    "latitude": 30.236364,
+    "longitude": -90.827056,
+    "city": "Saint Amant",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70775,
+    "latitude": 30.869398,
+    "longitude": -91.418642,
+    "city": "Saint Francisville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Feliciana"
+  },
+  {
+    "zip_code": 70776,
+    "latitude": 30.25279,
+    "longitude": -91.085716,
+    "city": "Saint Gabriel",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70777,
+    "latitude": 30.75711,
+    "longitude": -91.07376,
+    "city": "Slaughter",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70778,
+    "latitude": 30.186506,
+    "longitude": -90.880484,
+    "city": "Sorrento",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ascension"
+  },
+  {
+    "zip_code": 70780,
+    "latitude": 30.295921,
+    "longitude": -91.166024,
+    "city": "Sunshine",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70781,
+    "latitude": 30.561711,
+    "longitude": -91.487668,
+    "city": "Torbert",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70782,
+    "latitude": 30.969401,
+    "longitude": -91.518541,
+    "city": "Tunica",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Feliciana"
+  },
+  {
+    "zip_code": 70783,
+    "latitude": 30.689213,
+    "longitude": -91.476768,
+    "city": "Ventress",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Pointe Coupee"
+  },
+  {
+    "zip_code": 70784,
+    "latitude": 30.917453,
+    "longitude": -91.358149,
+    "city": "Wakefield",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Feliciana"
+  },
+  {
+    "zip_code": 70785,
+    "latitude": 30.549316,
+    "longitude": -90.836232,
+    "city": "Walker",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70786,
+    "latitude": 30.550219,
+    "longitude": -90.958219,
+    "city": "Watson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 70787,
+    "latitude": 30.936227,
+    "longitude": -91.456167,
+    "city": "Weyanoke",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Feliciana"
+  },
+  {
+    "zip_code": 70788,
+    "latitude": 30.15929,
+    "longitude": -91.146472,
+    "city": "White Castle",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Iberville"
+  },
+  {
+    "zip_code": 70789,
+    "latitude": 30.914247,
+    "longitude": -91.098267,
+    "city": "Wilson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Feliciana"
+  },
+  {
+    "zip_code": 70791,
+    "latitude": 30.641035,
+    "longitude": -91.129053,
+    "city": "Zachary",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70792,
+    "latitude": 30.027914,
+    "longitude": -90.802759,
+    "city": "Uncle Sam",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint James"
+  },
+  {
+    "zip_code": 70801,
+    "latitude": 30.44924,
+    "longitude": -91.185607,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70802,
+    "latitude": 30.44304,
+    "longitude": -91.155956,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70803,
+    "latitude": 30.405002,
+    "longitude": -91.186834,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70804,
+    "latitude": 30.386267,
+    "longitude": -91.133905,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70805,
+    "latitude": 30.473889,
+    "longitude": -91.104954,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70806,
+    "latitude": 30.45104,
+    "longitude": -91.138455,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70807,
+    "latitude": 30.50791,
+    "longitude": -91.183243,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70808,
+    "latitude": 30.408291,
+    "longitude": -91.143906,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70809,
+    "latitude": 30.429365,
+    "longitude": -91.077942,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70810,
+    "latitude": 30.355342,
+    "longitude": -91.072118,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70811,
+    "latitude": 30.555687,
+    "longitude": -91.152456,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70812,
+    "latitude": 30.499538,
+    "longitude": -91.110905,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70813,
+    "latitude": 30.520111,
+    "longitude": -91.194863,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70814,
+    "latitude": 30.488289,
+    "longitude": -91.072704,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70815,
+    "latitude": 30.45304,
+    "longitude": -91.068254,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70816,
+    "latitude": 30.42949,
+    "longitude": -91.023502,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70817,
+    "latitude": 30.384123,
+    "longitude": -90.972423,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70818,
+    "latitude": 30.4731,
+    "longitude": -91.037528,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70819,
+    "latitude": 30.467539,
+    "longitude": -91.012194,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70820,
+    "latitude": 30.373042,
+    "longitude": -91.176156,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70821,
+    "latitude": 30.461252,
+    "longitude": -91.044723,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70822,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70823,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70825,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70826,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70827,
+    "latitude": 30.433837,
+    "longitude": -91.082468,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70831,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70833,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70835,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70836,
+    "latitude": 30.391991,
+    "longitude": -91.089154,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70837,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70874,
+    "latitude": 30.590238,
+    "longitude": -91.2054,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70879,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70883,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70884,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70892,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70893,
+    "latitude": 30.412991,
+    "longitude": -91.171456,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70894,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70895,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70896,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 70898,
+    "latitude": 30.51589,
+    "longitude": -91.080373,
+    "city": "Baton Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Baton Rouge"
+  },
+  {
+    "zip_code": 71001,
+    "latitude": 32.376273,
+    "longitude": -92.970592,
+    "city": "Arcadia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71002,
+    "latitude": 32.137843,
+    "longitude": -93.090606,
+    "city": "Ashland",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71003,
+    "latitude": 32.68552,
+    "longitude": -93.033603,
+    "city": "Athens",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 71004,
+    "latitude": 32.774283,
+    "longitude": -93.883624,
+    "city": "Belcher",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71006,
+    "latitude": 32.725032,
+    "longitude": -93.63759,
+    "city": "Benton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71007,
+    "latitude": 32.339309,
+    "longitude": -94.004646,
+    "city": "Bethany",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71008,
+    "latitude": 32.355774,
+    "longitude": -92.996065,
+    "city": "Bienville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71009,
+    "latitude": 32.632741,
+    "longitude": -93.896895,
+    "city": "Blanchard",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71016,
+    "latitude": 32.240987,
+    "longitude": -93.104385,
+    "city": "Castor",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71018,
+    "latitude": 32.801138,
+    "longitude": -93.407704,
+    "city": "Cotton Valley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71019,
+    "latitude": 32.023096,
+    "longitude": -93.264819,
+    "city": "Coushatta",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Red River"
+  },
+  {
+    "zip_code": 71021,
+    "latitude": 32.934771,
+    "longitude": -93.448474,
+    "city": "Cullen",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71023,
+    "latitude": 32.688512,
+    "longitude": -93.392015,
+    "city": "Doyline",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71024,
+    "latitude": 32.687275,
+    "longitude": -93.308919,
+    "city": "Dubberly",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71025,
+    "latitude": 32.062391,
+    "longitude": -93.367949,
+    "city": "East Point",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Red River"
+  },
+  {
+    "zip_code": 71027,
+    "latitude": 32.172214,
+    "longitude": -93.790471,
+    "city": "Frierson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71028,
+    "latitude": 32.475847,
+    "longitude": -93.047718,
+    "city": "Gibsland",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71029,
+    "latitude": 32.835482,
+    "longitude": -93.830134,
+    "city": "Gilliam",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71030,
+    "latitude": 32.111056,
+    "longitude": -93.842634,
+    "city": "Gloster",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71031,
+    "latitude": 31.953139,
+    "longitude": -92.945356,
+    "city": "Goldonna",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71032,
+    "latitude": 32.09591,
+    "longitude": -93.820738,
+    "city": "Grand Cane",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71033,
+    "latitude": 32.429968,
+    "longitude": -93.989086,
+    "city": "Greenwood",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71034,
+    "latitude": 32.062391,
+    "longitude": -93.367949,
+    "city": "Hall Summit",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Red River"
+  },
+  {
+    "zip_code": 71036,
+    "latitude": 32.062391,
+    "longitude": -93.367949,
+    "city": "Harmon",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Red River"
+  },
+  {
+    "zip_code": 71037,
+    "latitude": 32.585005,
+    "longitude": -93.533104,
+    "city": "Haughton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71038,
+    "latitude": 32.833762,
+    "longitude": -93.033657,
+    "city": "Haynesville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 71039,
+    "latitude": 32.474113,
+    "longitude": -93.288906,
+    "city": "Heflin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71040,
+    "latitude": 32.775361,
+    "longitude": -93.000406,
+    "city": "Homer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 71043,
+    "latitude": 32.896272,
+    "longitude": -93.877571,
+    "city": "Hosston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71044,
+    "latitude": 32.924377,
+    "longitude": -93.900321,
+    "city": "Ida",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71045,
+    "latitude": 32.415006,
+    "longitude": -93.078363,
+    "city": "Jamestown",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71046,
+    "latitude": 32.107786,
+    "longitude": -93.839512,
+    "city": "Keatchie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71047,
+    "latitude": 32.388579,
+    "longitude": -93.90393,
+    "city": "Keithville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71048,
+    "latitude": 32.818938,
+    "longitude": -92.866469,
+    "city": "Lisbon",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 71049,
+    "latitude": 32.046684,
+    "longitude": -93.865925,
+    "city": "Logansport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71050,
+    "latitude": 32.117539,
+    "longitude": -93.913834,
+    "city": "Longstreet",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71051,
+    "latitude": 32.361547,
+    "longitude": -93.523207,
+    "city": "Elm Grove",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71052,
+    "latitude": 32.039947,
+    "longitude": -93.709777,
+    "city": "Mansfield",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71055,
+    "latitude": 32.725217,
+    "longitude": -93.312837,
+    "city": "Minden",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71058,
+    "latitude": 32.576948,
+    "longitude": -93.250705,
+    "city": "Minden",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71060,
+    "latitude": 32.594798,
+    "longitude": -93.976775,
+    "city": "Mooringsport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71061,
+    "latitude": 32.755816,
+    "longitude": -93.966734,
+    "city": "Oil City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71063,
+    "latitude": 31.911977,
+    "longitude": -93.563309,
+    "city": "Pelican",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71064,
+    "latitude": 32.768412,
+    "longitude": -93.647824,
+    "city": "Plain Dealing",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71065,
+    "latitude": 31.794655,
+    "longitude": -93.534539,
+    "city": "Pleasant Hill",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71066,
+    "latitude": 31.874059,
+    "longitude": -93.196609,
+    "city": "Powhatan",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71067,
+    "latitude": 32.597435,
+    "longitude": -93.50865,
+    "city": "Princeton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71068,
+    "latitude": 32.382223,
+    "longitude": -93.238047,
+    "city": "Ringgold",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71069,
+    "latitude": 32.96331,
+    "longitude": -93.968905,
+    "city": "Rodessa",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71070,
+    "latitude": 32.19698,
+    "longitude": -92.91702,
+    "city": "Saline",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71071,
+    "latitude": 32.758417,
+    "longitude": -93.391177,
+    "city": "Sarepta",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71072,
+    "latitude": 32.74333,
+    "longitude": -93.327139,
+    "city": "Shongaloo",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71073,
+    "latitude": 32.652472,
+    "longitude": -93.342675,
+    "city": "Sibley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71075,
+    "latitude": 32.771459,
+    "longitude": -93.406102,
+    "city": "Springhill",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 71078,
+    "latitude": 32.173318,
+    "longitude": -93.867325,
+    "city": "Stonewall",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 71079,
+    "latitude": 32.945404,
+    "longitude": -92.811145,
+    "city": "Summerfield",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Claiborne"
+  },
+  {
+    "zip_code": 71080,
+    "latitude": 32.366002,
+    "longitude": -93.101086,
+    "city": "Taylor",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bienville"
+  },
+  {
+    "zip_code": 71082,
+    "latitude": 32.84233,
+    "longitude": -93.950401,
+    "city": "Vivian",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71101,
+    "latitude": 32.498202,
+    "longitude": -93.750228,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71102,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71103,
+    "latitude": 32.492552,
+    "longitude": -93.775978,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71104,
+    "latitude": 32.483313,
+    "longitude": -93.730764,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71105,
+    "latitude": 32.450453,
+    "longitude": -93.712906,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71106,
+    "latitude": 32.39117,
+    "longitude": -93.711612,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71107,
+    "latitude": 32.601593,
+    "longitude": -93.87377,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71108,
+    "latitude": 32.602557,
+    "longitude": -93.816458,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71109,
+    "latitude": 32.464053,
+    "longitude": -93.814327,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71110,
+    "latitude": 32.513749,
+    "longitude": -93.640362,
+    "city": "Barksdale Afb",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71111,
+    "latitude": 32.516708,
+    "longitude": -93.586698,
+    "city": "Bossier City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71112,
+    "latitude": 32.460209,
+    "longitude": -93.64562,
+    "city": "Bossier City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71113,
+    "latitude": 32.62762,
+    "longitude": -93.608968,
+    "city": "Bossier City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71115,
+    "latitude": 32.340125,
+    "longitude": -93.609198,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71118,
+    "latitude": 32.535809,
+    "longitude": -93.805255,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71119,
+    "latitude": 32.478881,
+    "longitude": -93.925724,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71120,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71129,
+    "latitude": 32.346853,
+    "longitude": -93.924607,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71130,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71133,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71134,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71135,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71136,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71137,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71138,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71148,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71149,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71151,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71152,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71153,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71154,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71156,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71161,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71162,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71163,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71164,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71165,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71166,
+    "latitude": 32.607556,
+    "longitude": -93.75256,
+    "city": "Shreveport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caddo"
+  },
+  {
+    "zip_code": 71171,
+    "latitude": 32.62762,
+    "longitude": -93.608968,
+    "city": "Bossier City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71172,
+    "latitude": 32.62762,
+    "longitude": -93.608968,
+    "city": "Bossier City",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Bossier"
+  },
+  {
+    "zip_code": 71201,
+    "latitude": 32.502833,
+    "longitude": -92.094583,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71202,
+    "latitude": 32.386844,
+    "longitude": -92.072206,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71203,
+    "latitude": 32.600213,
+    "longitude": -92.027228,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71207,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71208,
+    "latitude": 32.496764,
+    "longitude": -92.075615,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71209,
+    "latitude": 32.527693,
+    "longitude": -92.075583,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71210,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71211,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71212,
+    "latitude": 32.528593,
+    "longitude": -92.072683,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71213,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71218,
+    "latitude": 32.409446,
+    "longitude": -91.732788,
+    "city": "Archibald",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 71219,
+    "latitude": 32.311261,
+    "longitude": -91.68543,
+    "city": "Baskin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71220,
+    "latitude": 32.795041,
+    "longitude": -91.873723,
+    "city": "Bastrop",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71221,
+    "latitude": 32.823863,
+    "longitude": -91.843528,
+    "city": "Bastrop",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71222,
+    "latitude": 32.837199,
+    "longitude": -92.471522,
+    "city": "Bernice",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71223,
+    "latitude": 32.906387,
+    "longitude": -91.653002,
+    "city": "Bonita",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71225,
+    "latitude": 32.496897,
+    "longitude": -92.337078,
+    "city": "Calhoun",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71226,
+    "latitude": 32.29969,
+    "longitude": -92.44118,
+    "city": "Chatham",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 71227,
+    "latitude": 32.585408,
+    "longitude": -92.611834,
+    "city": "Choudrant",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71229,
+    "latitude": 32.663142,
+    "longitude": -91.812865,
+    "city": "Collinston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71230,
+    "latitude": 32.138935,
+    "longitude": -91.691899,
+    "city": "Crowville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71232,
+    "latitude": 32.445598,
+    "longitude": -91.631433,
+    "city": "Delhi",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 71233,
+    "latitude": 32.341594,
+    "longitude": -91.216458,
+    "city": "Delta",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 71234,
+    "latitude": 32.664242,
+    "longitude": -92.36232,
+    "city": "Downsville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71235,
+    "latitude": 32.644564,
+    "longitude": -92.699642,
+    "city": "Dubach",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71237,
+    "latitude": 32.718098,
+    "longitude": -91.499713,
+    "city": "Epps",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Carroll"
+  },
+  {
+    "zip_code": 71238,
+    "latitude": 32.353757,
+    "longitude": -92.459917,
+    "city": "Eros",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 71240,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Fairbanks",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71241,
+    "latitude": 32.777031,
+    "longitude": -92.39525,
+    "city": "Farmerville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71242,
+    "latitude": 32.82388,
+    "longitude": -91.398944,
+    "city": "Forest",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Carroll"
+  },
+  {
+    "zip_code": 71243,
+    "latitude": 31.981305,
+    "longitude": -91.766549,
+    "city": "Fort Necessity",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71245,
+    "latitude": 32.515626,
+    "longitude": -92.73593,
+    "city": "Grambling",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71247,
+    "latitude": 32.280774,
+    "longitude": -92.71463,
+    "city": "Hodge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 71249,
+    "latitude": 32.138935,
+    "longitude": -91.691899,
+    "city": "Jigger",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71250,
+    "latitude": 32.94656,
+    "longitude": -91.580528,
+    "city": "Jones",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71251,
+    "latitude": 32.228472,
+    "longitude": -92.575528,
+    "city": "Jonesboro",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 71253,
+    "latitude": 32.794027,
+    "longitude": -91.450183,
+    "city": "Kilbourne",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Carroll"
+  },
+  {
+    "zip_code": 71254,
+    "latitude": 32.796407,
+    "longitude": -91.252622,
+    "city": "Lake Providence",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Carroll"
+  },
+  {
+    "zip_code": 71256,
+    "latitude": 32.956279,
+    "longitude": -92.687277,
+    "city": "Lillie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71259,
+    "latitude": 32.343608,
+    "longitude": -91.741639,
+    "city": "Mangham",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 71260,
+    "latitude": 32.871556,
+    "longitude": -92.28619,
+    "city": "Marion",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71261,
+    "latitude": 32.793556,
+    "longitude": -91.727614,
+    "city": "Mer Rouge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71263,
+    "latitude": 32.873125,
+    "longitude": -91.430209,
+    "city": "Oak Grove",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Carroll"
+  },
+  {
+    "zip_code": 71264,
+    "latitude": 32.606213,
+    "longitude": -91.759778,
+    "city": "Oak Ridge",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Morehouse"
+  },
+  {
+    "zip_code": 71266,
+    "latitude": 32.736836,
+    "longitude": -91.510077,
+    "city": "Pioneer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "West Carroll"
+  },
+  {
+    "zip_code": 71268,
+    "latitude": 32.337632,
+    "longitude": -92.672165,
+    "city": "Quitman",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 71269,
+    "latitude": 32.445645,
+    "longitude": -91.743314,
+    "city": "Rayville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 71270,
+    "latitude": 32.580553,
+    "longitude": -92.639756,
+    "city": "Ruston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71272,
+    "latitude": 32.525825,
+    "longitude": -92.649298,
+    "city": "Ruston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71273,
+    "latitude": 32.606535,
+    "longitude": -92.648384,
+    "city": "Ruston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71275,
+    "latitude": 32.597482,
+    "longitude": -92.708389,
+    "city": "Simsboro",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71276,
+    "latitude": 32.771315,
+    "longitude": -91.230175,
+    "city": "Sondheimer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Carroll"
+  },
+  {
+    "zip_code": 71277,
+    "latitude": 32.916505,
+    "longitude": -92.574611,
+    "city": "Spearsville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71279,
+    "latitude": 32.49191,
+    "longitude": -91.856326,
+    "city": "Start",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 71280,
+    "latitude": 32.617816,
+    "longitude": -92.060082,
+    "city": "Sterlington",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71281,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "Swartz",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71282,
+    "latitude": 32.4326,
+    "longitude": -91.064535,
+    "city": "Tallulah",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 71284,
+    "latitude": 32.341594,
+    "longitude": -91.216458,
+    "city": "Tallulah",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 71286,
+    "latitude": 32.771315,
+    "longitude": -91.230175,
+    "city": "Transylvania",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "East Carroll"
+  },
+  {
+    "zip_code": 71291,
+    "latitude": 32.497932,
+    "longitude": -92.16588,
+    "city": "West Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71292,
+    "latitude": 32.402367,
+    "longitude": -92.203654,
+    "city": "West Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71294,
+    "latitude": 32.490777,
+    "longitude": -92.159354,
+    "city": "West Monroe",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71295,
+    "latitude": 32.118121,
+    "longitude": -91.705926,
+    "city": "Winnsboro",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71301,
+    "latitude": 31.175885,
+    "longitude": -92.431184,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71302,
+    "latitude": 31.164904,
+    "longitude": -92.367497,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71303,
+    "latitude": 31.259983,
+    "longitude": -92.53434,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71306,
+    "latitude": 31.075638,
+    "longitude": -92.446135,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71307,
+    "latitude": 31.203393,
+    "longitude": -92.526927,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71309,
+    "latitude": 31.30473,
+    "longitude": -92.619593,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71315,
+    "latitude": 31.139651,
+    "longitude": -92.398384,
+    "city": "Alexandria",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71316,
+    "latitude": 31.308416,
+    "longitude": -91.823219,
+    "city": "Acme",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71320,
+    "latitude": 31.091942,
+    "longitude": -91.906093,
+    "city": "Bordelonville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71322,
+    "latitude": 30.939962,
+    "longitude": -92.110503,
+    "city": "Bunkie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71323,
+    "latitude": 31.235297,
+    "longitude": -92.194478,
+    "city": "Center Point",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71324,
+    "latitude": 32.138935,
+    "longitude": -91.691899,
+    "city": "Chase",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71325,
+    "latitude": 31.047041,
+    "longitude": -92.383486,
+    "city": "Cheneyville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71326,
+    "latitude": 31.715764,
+    "longitude": -91.516323,
+    "city": "Clayton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71327,
+    "latitude": 30.973616,
+    "longitude": -91.995281,
+    "city": "Cottonport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71328,
+    "latitude": 31.358696,
+    "longitude": -92.2233,
+    "city": "Deville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71329,
+    "latitude": 31.095889,
+    "longitude": -91.97899,
+    "city": "Dupont",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71330,
+    "latitude": 31.119858,
+    "longitude": -92.25888,
+    "city": "Echo",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71331,
+    "latitude": 31.222424,
+    "longitude": -92.113774,
+    "city": "Effie",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71333,
+    "latitude": 30.91614,
+    "longitude": -92.067027,
+    "city": "Evergreen",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71334,
+    "latitude": 31.660219,
+    "longitude": -91.550218,
+    "city": "Ferriday",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71336,
+    "latitude": 31.999512,
+    "longitude": -91.619049,
+    "city": "Gilbert",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71339,
+    "latitude": 31.037572,
+    "longitude": -91.904161,
+    "city": "Hamburg",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71340,
+    "latitude": 31.746835,
+    "longitude": -91.890463,
+    "city": "Harrisonburg",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71341,
+    "latitude": 31.112517,
+    "longitude": -92.041225,
+    "city": "Hessmer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71342,
+    "latitude": 31.60603,
+    "longitude": -92.140733,
+    "city": "Jena",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 71343,
+    "latitude": 31.686225,
+    "longitude": -91.86778,
+    "city": "Jonesville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71345,
+    "latitude": 30.770459,
+    "longitude": -92.01484,
+    "city": "Lebeau",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 71346,
+    "latitude": 31.092797,
+    "longitude": -92.439933,
+    "city": "Lecompte",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71348,
+    "latitude": 31.203393,
+    "longitude": -92.526927,
+    "city": "Libuse",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71350,
+    "latitude": 31.064478,
+    "longitude": -92.049086,
+    "city": "Mansura",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71351,
+    "latitude": 31.114424,
+    "longitude": -92.019522,
+    "city": "Marksville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71353,
+    "latitude": 30.716462,
+    "longitude": -91.793232,
+    "city": "Melville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 71354,
+    "latitude": 31.347431,
+    "longitude": -91.724573,
+    "city": "Monterey",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71355,
+    "latitude": 31.09884,
+    "longitude": -91.874829,
+    "city": "Moreauville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71356,
+    "latitude": 30.791878,
+    "longitude": -92.031647,
+    "city": "Morrow",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 71357,
+    "latitude": 32.038254,
+    "longitude": -91.242511,
+    "city": "Newellton",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tensas"
+  },
+  {
+    "zip_code": 71358,
+    "latitude": 30.72662,
+    "longitude": -91.895195,
+    "city": "Palmetto",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Saint Landry"
+  },
+  {
+    "zip_code": 71359,
+    "latitude": 31.203393,
+    "longitude": -92.526927,
+    "city": "Pineville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71360,
+    "latitude": 31.223184,
+    "longitude": -92.320275,
+    "city": "Pineville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71361,
+    "latitude": 31.36923,
+    "longitude": -92.419836,
+    "city": "Pineville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71362,
+    "latitude": 30.992478,
+    "longitude": -92.001767,
+    "city": "Plaucheville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71363,
+    "latitude": 31.596272,
+    "longitude": -91.77941,
+    "city": "Rhinehart",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71365,
+    "latitude": 31.203393,
+    "longitude": -92.526927,
+    "city": "Ruby",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71366,
+    "latitude": 31.919051,
+    "longitude": -91.239631,
+    "city": "Saint Joseph",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tensas"
+  },
+  {
+    "zip_code": 71367,
+    "latitude": 30.899787,
+    "longitude": -92.296364,
+    "city": "Saint Landry",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Evangeline"
+  },
+  {
+    "zip_code": 71368,
+    "latitude": 31.848184,
+    "longitude": -91.661308,
+    "city": "Sicily Island",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71369,
+    "latitude": 30.946808,
+    "longitude": -91.894355,
+    "city": "Simmesport",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Avoyelles"
+  },
+  {
+    "zip_code": 71371,
+    "latitude": 31.697711,
+    "longitude": -92.177637,
+    "city": "Trout",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 71373,
+    "latitude": 31.408218,
+    "longitude": -91.546425,
+    "city": "Vidalia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71375,
+    "latitude": 31.805761,
+    "longitude": -91.38711,
+    "city": "Waterproof",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Tensas"
+  },
+  {
+    "zip_code": 71377,
+    "latitude": 31.590328,
+    "longitude": -91.752932,
+    "city": "Wildsville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Concordia"
+  },
+  {
+    "zip_code": 71378,
+    "latitude": 31.961337,
+    "longitude": -91.660042,
+    "city": "Wisner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 71401,
+    "latitude": 31.596272,
+    "longitude": -91.77941,
+    "city": "Aimwell",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71403,
+    "latitude": 31.142302,
+    "longitude": -93.268452,
+    "city": "Anacoco",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71404,
+    "latitude": 31.775958,
+    "longitude": -92.795773,
+    "city": "Atlanta",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71405,
+    "latitude": 31.415125,
+    "longitude": -92.394536,
+    "city": "Ball",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71406,
+    "latitude": 31.730633,
+    "longitude": -93.493958,
+    "city": "Belmont",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71407,
+    "latitude": 31.518701,
+    "longitude": -92.480731,
+    "city": "Bentley",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71409,
+    "latitude": 31.251382,
+    "longitude": -92.655743,
+    "city": "Boyce",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71410,
+    "latitude": 31.961279,
+    "longitude": -92.792418,
+    "city": "Calvin",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71411,
+    "latitude": 31.83009,
+    "longitude": -93.148989,
+    "city": "Campti",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71414,
+    "latitude": 31.818209,
+    "longitude": -93.021608,
+    "city": "Clarence",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71415,
+    "latitude": 32.055505,
+    "longitude": -92.164903,
+    "city": "Clarks",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 71416,
+    "latitude": 31.517836,
+    "longitude": -92.85577,
+    "city": "Cloutierville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71417,
+    "latitude": 31.527636,
+    "longitude": -92.653269,
+    "city": "Colfax",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71418,
+    "latitude": 32.102189,
+    "longitude": -92.11767,
+    "city": "Columbia",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 71419,
+    "latitude": 31.733858,
+    "longitude": -93.690163,
+    "city": "Converse",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71422,
+    "latitude": 32.072883,
+    "longitude": -92.565469,
+    "city": "Dodson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71423,
+    "latitude": 31.552466,
+    "longitude": -92.673718,
+    "city": "Dry Prong",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71424,
+    "latitude": 31.178183,
+    "longitude": -92.700294,
+    "city": "Elmer",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71425,
+    "latitude": 31.920835,
+    "longitude": -91.922802,
+    "city": "Enterprise",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Catahoula"
+  },
+  {
+    "zip_code": 71426,
+    "latitude": 31.493332,
+    "longitude": -93.464539,
+    "city": "Fisher",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71427,
+    "latitude": 31.375488,
+    "longitude": -92.893591,
+    "city": "Flatwoods",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71428,
+    "latitude": 31.612444,
+    "longitude": -93.097958,
+    "city": "Flora",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71429,
+    "latitude": 31.343315,
+    "longitude": -93.430975,
+    "city": "Florien",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71430,
+    "latitude": 31.157736,
+    "longitude": -92.448853,
+    "city": "Forest Hill",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71431,
+    "latitude": 31.258681,
+    "longitude": -92.677545,
+    "city": "Gardner",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71432,
+    "latitude": 31.648593,
+    "longitude": -92.470407,
+    "city": "Georgetown",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71433,
+    "latitude": 31.026188,
+    "longitude": -92.616008,
+    "city": "Glenmora",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71434,
+    "latitude": 31.503751,
+    "longitude": -92.998576,
+    "city": "Gorum",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71435,
+    "latitude": 32.066996,
+    "longitude": -92.169835,
+    "city": "Grayson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 71438,
+    "latitude": 31.166914,
+    "longitude": -92.737515,
+    "city": "Hineston",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71439,
+    "latitude": 31.316133,
+    "longitude": -93.221228,
+    "city": "Hornbeck",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71440,
+    "latitude": 31.951166,
+    "longitude": -92.565884,
+    "city": "Joyce",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71441,
+    "latitude": 31.964848,
+    "longitude": -92.18248,
+    "city": "Kelly",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 71443,
+    "latitude": 31.1019,
+    "longitude": -93.361238,
+    "city": "Kurthwood",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71444,
+    "latitude": 31.120174,
+    "longitude": -93.104943,
+    "city": "Lacamp",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71446,
+    "latitude": 31.125636,
+    "longitude": -93.173622,
+    "city": "Leesville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71447,
+    "latitude": 31.361027,
+    "longitude": -92.792811,
+    "city": "Lena",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71448,
+    "latitude": 31.203393,
+    "longitude": -92.526927,
+    "city": "Longleaf",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71449,
+    "latitude": 31.530019,
+    "longitude": -93.51155,
+    "city": "Many",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71450,
+    "latitude": 31.78699,
+    "longitude": -93.361235,
+    "city": "Marthaville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71452,
+    "latitude": 31.679336,
+    "longitude": -93.171095,
+    "city": "Melrose",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71454,
+    "latitude": 31.671495,
+    "longitude": -92.660865,
+    "city": "Montgomery",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71455,
+    "latitude": 31.423432,
+    "longitude": -92.953251,
+    "city": "Mora",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71456,
+    "latitude": 31.690431,
+    "longitude": -93.072487,
+    "city": "Natchez",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71457,
+    "latitude": 31.70988,
+    "longitude": -93.109141,
+    "city": "Natchitoches",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71458,
+    "latitude": 31.747563,
+    "longitude": -93.079055,
+    "city": "Natchitoches",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71459,
+    "latitude": 31.029825,
+    "longitude": -93.23479,
+    "city": "Leesville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71460,
+    "latitude": 31.448907,
+    "longitude": -93.621234,
+    "city": "Negreet",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71461,
+    "latitude": 31.096279,
+    "longitude": -93.311433,
+    "city": "Newllano",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71462,
+    "latitude": 31.699522,
+    "longitude": -93.709535,
+    "city": "Noble",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71463,
+    "latitude": 30.769826,
+    "longitude": -92.771752,
+    "city": "Oakdale",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 71465,
+    "latitude": 31.805736,
+    "longitude": -92.208993,
+    "city": "Olla",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 71466,
+    "latitude": 31.200683,
+    "longitude": -92.637241,
+    "city": "Otis",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71467,
+    "latitude": 31.56668,
+    "longitude": -92.396314,
+    "city": "Pollock",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71468,
+    "latitude": 31.583252,
+    "longitude": -93.118485,
+    "city": "Provencal",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71469,
+    "latitude": 31.633931,
+    "longitude": -93.186289,
+    "city": "Robeline",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71471,
+    "latitude": 31.749699,
+    "longitude": -92.927989,
+    "city": "Saint Maurice",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71472,
+    "latitude": 31.197632,
+    "longitude": -92.785799,
+    "city": "Sieper",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71473,
+    "latitude": 32.042737,
+    "longitude": -92.449469,
+    "city": "Sikes",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71474,
+    "latitude": 31.257037,
+    "longitude": -93.016983,
+    "city": "Simpson",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71475,
+    "latitude": 31.111979,
+    "longitude": -93.200936,
+    "city": "Slagle",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71477,
+    "latitude": 31.399855,
+    "longitude": -92.604193,
+    "city": "Tioga",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71479,
+    "latitude": 31.861954,
+    "longitude": -92.291333,
+    "city": "Tullos",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 71480,
+    "latitude": 31.864998,
+    "longitude": -92.291463,
+    "city": "Urania",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "La Salle"
+  },
+  {
+    "zip_code": 71481,
+    "latitude": 31.592547,
+    "longitude": -92.58483,
+    "city": "Verda",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 71483,
+    "latitude": 31.914948,
+    "longitude": -92.669269,
+    "city": "Winnfield",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Winn"
+  },
+  {
+    "zip_code": 71485,
+    "latitude": 31.163485,
+    "longitude": -92.532189,
+    "city": "Woodworth",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Rapides"
+  },
+  {
+    "zip_code": 71486,
+    "latitude": 31.64176,
+    "longitude": -93.637939,
+    "city": "Zwolle",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Sabine"
+  },
+  {
+    "zip_code": 71496,
+    "latitude": 31.110298,
+    "longitude": -93.289988,
+    "city": "Leesville",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 71497,
+    "latitude": 31.747563,
+    "longitude": -93.079055,
+    "city": "Natchitoches",
+    "state": "LA",
+    "full_state": "Louisiana",
+    "county": "Natchitoches"
+  },
+  {
+    "zip_code": 71601,
+    "latitude": 34.208962,
+    "longitude": -91.985946,
+    "city": "Pine Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71602,
+    "latitude": 34.257661,
+    "longitude": -92.012103,
+    "city": "White Hall",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71603,
+    "latitude": 34.148699,
+    "longitude": -92.083653,
+    "city": "Pine Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71611,
+    "latitude": 34.261465,
+    "longitude": -91.955115,
+    "city": "Pine Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71612,
+    "latitude": 34.277534,
+    "longitude": -91.832539,
+    "city": "White Hall",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71613,
+    "latitude": 34.157876,
+    "longitude": -92.071284,
+    "city": "Pine Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71630,
+    "latitude": 33.608922,
+    "longitude": -91.207356,
+    "city": "Arkansas City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71631,
+    "latitude": 33.566349,
+    "longitude": -92.240352,
+    "city": "Banks",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Bradley"
+  },
+  {
+    "zip_code": 71635,
+    "latitude": 33.180855,
+    "longitude": -91.806256,
+    "city": "Crossett",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71638,
+    "latitude": 33.470414,
+    "longitude": -91.394712,
+    "city": "Dermott",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Chicot"
+  },
+  {
+    "zip_code": 71639,
+    "latitude": 33.875244,
+    "longitude": -91.488393,
+    "city": "Dumas",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71640,
+    "latitude": 33.148807,
+    "longitude": -91.310103,
+    "city": "Eudora",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Chicot"
+  },
+  {
+    "zip_code": 71642,
+    "latitude": 33.363143,
+    "longitude": -91.908776,
+    "city": "Fountain Hill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71643,
+    "latitude": 34.024648,
+    "longitude": -91.626178,
+    "city": "Gould",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71644,
+    "latitude": 34.103233,
+    "longitude": -91.705699,
+    "city": "Grady",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71646,
+    "latitude": 33.215895,
+    "longitude": -91.804371,
+    "city": "Hamburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71647,
+    "latitude": 33.390044,
+    "longitude": -92.155958,
+    "city": "Hermitage",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Bradley"
+  },
+  {
+    "zip_code": 71649,
+    "latitude": 33.283901,
+    "longitude": -91.25206,
+    "city": "Jennie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Chicot"
+  },
+  {
+    "zip_code": 71650,
+    "latitude": 33.590601,
+    "longitude": -91.732829,
+    "city": "Jerome",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71651,
+    "latitude": 33.368404,
+    "longitude": -92.290223,
+    "city": "Jersey",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Bradley"
+  },
+  {
+    "zip_code": 71652,
+    "latitude": 33.866338,
+    "longitude": -92.276397,
+    "city": "Kingsland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleveland"
+  },
+  {
+    "zip_code": 71653,
+    "latitude": 33.331905,
+    "longitude": -91.297702,
+    "city": "Lake Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Chicot"
+  },
+  {
+    "zip_code": 71654,
+    "latitude": 33.644573,
+    "longitude": -91.401113,
+    "city": "Mc Gehee",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71655,
+    "latitude": 33.604967,
+    "longitude": -91.755955,
+    "city": "Monticello",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71656,
+    "latitude": 33.590601,
+    "longitude": -91.732829,
+    "city": "Monticello",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71657,
+    "latitude": 33.590601,
+    "longitude": -91.732829,
+    "city": "Monticello",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71658,
+    "latitude": 33.261721,
+    "longitude": -91.649931,
+    "city": "Montrose",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71659,
+    "latitude": 34.134089,
+    "longitude": -91.79456,
+    "city": "Moscow",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 71660,
+    "latitude": 33.884167,
+    "longitude": -92.214399,
+    "city": "New Edinburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleveland"
+  },
+  {
+    "zip_code": 71661,
+    "latitude": 33.139243,
+    "longitude": -91.576612,
+    "city": "Parkdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71662,
+    "latitude": 33.818318,
+    "longitude": -91.214054,
+    "city": "Pickens",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71663,
+    "latitude": 33.212137,
+    "longitude": -91.512163,
+    "city": "Portland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71665,
+    "latitude": 33.900651,
+    "longitude": -92.131777,
+    "city": "Rison",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleveland"
+  },
+  {
+    "zip_code": 71666,
+    "latitude": 33.818318,
+    "longitude": -91.214054,
+    "city": "Mc Gehee",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71667,
+    "latitude": 33.999462,
+    "longitude": -91.709308,
+    "city": "Star City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71670,
+    "latitude": 33.698144,
+    "longitude": -91.443347,
+    "city": "Tillar",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71671,
+    "latitude": 33.573602,
+    "longitude": -92.097852,
+    "city": "Warren",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Bradley"
+  },
+  {
+    "zip_code": 71674,
+    "latitude": 33.905202,
+    "longitude": -91.279828,
+    "city": "Watson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 71675,
+    "latitude": 33.614151,
+    "longitude": -91.916698,
+    "city": "Wilmar",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71676,
+    "latitude": 33.151992,
+    "longitude": -91.559968,
+    "city": "Wilmot",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ashley"
+  },
+  {
+    "zip_code": 71677,
+    "latitude": 33.747125,
+    "longitude": -91.490123,
+    "city": "Winchester",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Drew"
+  },
+  {
+    "zip_code": 71678,
+    "latitude": 33.978738,
+    "longitude": -91.699077,
+    "city": "Yorktown",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 71701,
+    "latitude": 33.594817,
+    "longitude": -92.851335,
+    "city": "Camden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71711,
+    "latitude": 33.589009,
+    "longitude": -92.842649,
+    "city": "Camden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71720,
+    "latitude": 33.715918,
+    "longitude": -92.844808,
+    "city": "Bearden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71721,
+    "latitude": 34.055486,
+    "longitude": -93.189406,
+    "city": "Beirne",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71722,
+    "latitude": 33.70082,
+    "longitude": -93.294126,
+    "city": "Bluff City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71724,
+    "latitude": 33.266043,
+    "longitude": -92.597514,
+    "city": "Calion",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71725,
+    "latitude": 34.101037,
+    "longitude": -92.516827,
+    "city": "Carthage",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 71726,
+    "latitude": 33.665157,
+    "longitude": -92.996873,
+    "city": "Chidester",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71728,
+    "latitude": 34.010316,
+    "longitude": -93.097627,
+    "city": "Curtis",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71730,
+    "latitude": 33.187446,
+    "longitude": -92.630038,
+    "city": "El Dorado",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71731,
+    "latitude": 33.198024,
+    "longitude": -92.52891,
+    "city": "El Dorado",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71740,
+    "latitude": 33.112106,
+    "longitude": -93.203998,
+    "city": "Emerson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71742,
+    "latitude": 33.935138,
+    "longitude": -92.610536,
+    "city": "Fordyce",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 71743,
+    "latitude": 33.930011,
+    "longitude": -93.129994,
+    "city": "Gurdon",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71744,
+    "latitude": 33.516751,
+    "longitude": -92.582269,
+    "city": "Hampton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 71745,
+    "latitude": 33.535994,
+    "longitude": -92.543915,
+    "city": "Harrell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 71747,
+    "latitude": 33.164568,
+    "longitude": -92.393701,
+    "city": "Huttig",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71748,
+    "latitude": 33.97547,
+    "longitude": -92.647817,
+    "city": "Ivan",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 71749,
+    "latitude": 33.16579,
+    "longitude": -92.768091,
+    "city": "Junction City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71750,
+    "latitude": 33.198024,
+    "longitude": -92.52891,
+    "city": "Lawson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71751,
+    "latitude": 33.416913,
+    "longitude": -92.777026,
+    "city": "Louann",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71752,
+    "latitude": 33.373136,
+    "longitude": -93.18731,
+    "city": "Mc Neil",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71753,
+    "latitude": 33.206807,
+    "longitude": -93.224021,
+    "city": "Magnolia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71754,
+    "latitude": 33.242571,
+    "longitude": -93.22996,
+    "city": "Magnolia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71758,
+    "latitude": 33.302589,
+    "longitude": -92.817651,
+    "city": "Mount Holly",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71759,
+    "latitude": 33.321864,
+    "longitude": -92.646905,
+    "city": "Norphlet",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71762,
+    "latitude": 33.194725,
+    "longitude": -92.523809,
+    "city": "Smackover",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71763,
+    "latitude": 33.914288,
+    "longitude": -92.853193,
+    "city": "Sparkman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 71764,
+    "latitude": 33.46053,
+    "longitude": -93.011863,
+    "city": "Stephens",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Ouachita"
+  },
+  {
+    "zip_code": 71765,
+    "latitude": 33.169586,
+    "longitude": -92.331829,
+    "city": "Strong",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71766,
+    "latitude": 33.776795,
+    "longitude": -92.48616,
+    "city": "Thornton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 71767,
+    "latitude": 33.535994,
+    "longitude": -92.543915,
+    "city": "Hampton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 71768,
+    "latitude": 33.198024,
+    "longitude": -92.52891,
+    "city": "Urbana",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Union"
+  },
+  {
+    "zip_code": 71769,
+    "latitude": 33.236156,
+    "longitude": -93.234494,
+    "city": "Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71770,
+    "latitude": 33.350437,
+    "longitude": -93.302374,
+    "city": "Waldo",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71772,
+    "latitude": 33.832537,
+    "longitude": -93.1238,
+    "city": "Whelen Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71801,
+    "latitude": 33.673559,
+    "longitude": -93.606807,
+    "city": "Hope",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71802,
+    "latitude": 33.765584,
+    "longitude": -93.559162,
+    "city": "Hope",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71820,
+    "latitude": 33.778125,
+    "longitude": -94.270165,
+    "city": "Alleene",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71822,
+    "latitude": 33.704625,
+    "longitude": -94.130221,
+    "city": "Ashdown",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71823,
+    "latitude": 33.837053,
+    "longitude": -94.120289,
+    "city": "Ben Lomond",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 71825,
+    "latitude": 33.882525,
+    "longitude": -93.621434,
+    "city": "Blevins",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71826,
+    "latitude": 33.202695,
+    "longitude": -93.556966,
+    "city": "Bradley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 71827,
+    "latitude": 33.397484,
+    "longitude": -93.434895,
+    "city": "Buckner",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 71828,
+    "latitude": 33.70082,
+    "longitude": -93.294126,
+    "city": "Cale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71831,
+    "latitude": 33.793524,
+    "longitude": -93.807007,
+    "city": "Columbus",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71832,
+    "latitude": 34.050929,
+    "longitude": -94.28072,
+    "city": "De Queen",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 71833,
+    "latitude": 34.136218,
+    "longitude": -94.044286,
+    "city": "Dierks",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 71834,
+    "latitude": 33.441724,
+    "longitude": -94.023737,
+    "city": "Doddridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 71835,
+    "latitude": 33.761471,
+    "longitude": -93.42928,
+    "city": "Emmet",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71836,
+    "latitude": 33.734105,
+    "longitude": -94.37246,
+    "city": "Foreman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71837,
+    "latitude": 33.261629,
+    "longitude": -93.886621,
+    "city": "Fouke",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 71838,
+    "latitude": 33.669917,
+    "longitude": -93.79752,
+    "city": "Fulton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71839,
+    "latitude": 33.25024,
+    "longitude": -93.612966,
+    "city": "Garland City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 71840,
+    "latitude": 33.316578,
+    "longitude": -93.854484,
+    "city": "Genoa",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 71841,
+    "latitude": 34.065882,
+    "longitude": -94.358778,
+    "city": "Gillham",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 71842,
+    "latitude": 34.004404,
+    "longitude": -94.255693,
+    "city": "Horatio",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 71844,
+    "latitude": 33.70082,
+    "longitude": -93.294126,
+    "city": "Laneburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71845,
+    "latitude": 33.292401,
+    "longitude": -93.597793,
+    "city": "Lewisville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 71846,
+    "latitude": 33.967541,
+    "longitude": -94.194636,
+    "city": "Lockesburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sevier"
+  },
+  {
+    "zip_code": 71847,
+    "latitude": 33.915909,
+    "longitude": -93.61992,
+    "city": "Mc Caskill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71851,
+    "latitude": 33.895583,
+    "longitude": -93.925108,
+    "city": "Mineral Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 71852,
+    "latitude": 34.024903,
+    "longitude": -93.942206,
+    "city": "Nashville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 71853,
+    "latitude": 33.596108,
+    "longitude": -93.960638,
+    "city": "Ogden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71854,
+    "latitude": 33.431043,
+    "longitude": -93.876485,
+    "city": "Texarkana",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 71855,
+    "latitude": 33.83663,
+    "longitude": -93.732727,
+    "city": "Ozan",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71857,
+    "latitude": 33.776791,
+    "longitude": -93.289132,
+    "city": "Prescott",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71858,
+    "latitude": 33.70082,
+    "longitude": -93.294126,
+    "city": "Rosston",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71859,
+    "latitude": 33.78127,
+    "longitude": -93.884355,
+    "city": "Saratoga",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 71860,
+    "latitude": 33.343809,
+    "longitude": -93.50573,
+    "city": "Stamps",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 71861,
+    "latitude": 33.112208,
+    "longitude": -93.322254,
+    "city": "Taylor",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 71862,
+    "latitude": 33.776095,
+    "longitude": -93.713625,
+    "city": "Washington",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hempstead"
+  },
+  {
+    "zip_code": 71864,
+    "latitude": 33.70082,
+    "longitude": -93.294126,
+    "city": "Willisville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Nevada"
+  },
+  {
+    "zip_code": 71865,
+    "latitude": 33.733218,
+    "longitude": -94.147399,
+    "city": "Wilton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71866,
+    "latitude": 33.857142,
+    "longitude": -94.3748,
+    "city": "Winthrop",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Little River"
+  },
+  {
+    "zip_code": 71901,
+    "latitude": 34.526841,
+    "longitude": -92.958697,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71902,
+    "latitude": 34.581374,
+    "longitude": -93.099403,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71903,
+    "latitude": 34.581374,
+    "longitude": -93.099403,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71909,
+    "latitude": 34.576246,
+    "longitude": -92.989435,
+    "city": "Hot Springs Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71910,
+    "latitude": 34.581374,
+    "longitude": -93.099403,
+    "city": "Hot Springs Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71913,
+    "latitude": 34.482214,
+    "longitude": -93.043902,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71914,
+    "latitude": 34.513682,
+    "longitude": -92.968531,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71920,
+    "latitude": 34.055486,
+    "longitude": -93.189406,
+    "city": "Alpine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71921,
+    "latitude": 34.232509,
+    "longitude": -93.313673,
+    "city": "Amity",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71922,
+    "latitude": 34.146678,
+    "longitude": -93.653733,
+    "city": "Antoine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71923,
+    "latitude": 34.031343,
+    "longitude": -93.111452,
+    "city": "Arkadelphia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71929,
+    "latitude": 34.276538,
+    "longitude": -93.11742,
+    "city": "Bismarck",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 71932,
+    "latitude": 34.537164,
+    "longitude": -94.0972,
+    "city": "Board Camp",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71933,
+    "latitude": 34.356772,
+    "longitude": -93.350643,
+    "city": "Bonnerdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 71935,
+    "latitude": 34.392489,
+    "longitude": -93.683883,
+    "city": "Caddo Gap",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71937,
+    "latitude": 34.354193,
+    "longitude": -94.383483,
+    "city": "Cove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71940,
+    "latitude": 34.146678,
+    "longitude": -93.653733,
+    "city": "Delight",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71941,
+    "latitude": 34.229869,
+    "longitude": -92.963796,
+    "city": "Donaldson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 71942,
+    "latitude": 34.223546,
+    "longitude": -93.002367,
+    "city": "Friendship",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 71943,
+    "latitude": 34.206025,
+    "longitude": -93.589297,
+    "city": "Glenwood",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71944,
+    "latitude": 34.338462,
+    "longitude": -94.356273,
+    "city": "Grannis",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71945,
+    "latitude": 34.5019,
+    "longitude": -94.362242,
+    "city": "Hatfield",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71946,
+    "latitude": 34.459413,
+    "longitude": -94.200221,
+    "city": "Hatton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71949,
+    "latitude": 34.709408,
+    "longitude": -93.038231,
+    "city": "Jessieville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71950,
+    "latitude": 34.146678,
+    "longitude": -93.653733,
+    "city": "Kirby",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71951,
+    "latitude": 34.581374,
+    "longitude": -93.099403,
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71952,
+    "latitude": 34.146678,
+    "longitude": -93.653733,
+    "city": "Langley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71953,
+    "latitude": 34.503699,
+    "longitude": -94.194756,
+    "city": "Mena",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71956,
+    "latitude": 34.637603,
+    "longitude": -93.233142,
+    "city": "Mountain Pine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71957,
+    "latitude": 34.550661,
+    "longitude": -93.585206,
+    "city": "Mount Ida",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71958,
+    "latitude": 34.050402,
+    "longitude": -93.75435,
+    "city": "Murfreesboro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71959,
+    "latitude": 34.146678,
+    "longitude": -93.653733,
+    "city": "Newhope",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 71960,
+    "latitude": 34.474709,
+    "longitude": -93.669613,
+    "city": "Norman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71961,
+    "latitude": 34.597982,
+    "longitude": -93.803388,
+    "city": "Oden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71962,
+    "latitude": 34.041476,
+    "longitude": -93.267115,
+    "city": "Okolona",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71964,
+    "latitude": 34.431902,
+    "longitude": -93.249203,
+    "city": "Pearcy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71965,
+    "latitude": 34.651272,
+    "longitude": -93.740852,
+    "city": "Pencil Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71966,
+    "latitude": 34.542995,
+    "longitude": -93.66463,
+    "city": "Oden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71968,
+    "latitude": 34.514125,
+    "longitude": -93.282723,
+    "city": "Royal",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 71969,
+    "latitude": 34.653145,
+    "longitude": -93.614286,
+    "city": "Sims",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71970,
+    "latitude": 34.673248,
+    "longitude": -93.53027,
+    "city": "Story",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 71971,
+    "latitude": 34.294469,
+    "longitude": -94.095969,
+    "city": "Umpire",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 71972,
+    "latitude": 34.394091,
+    "longitude": -94.253511,
+    "city": "Vandervoort",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71973,
+    "latitude": 34.307662,
+    "longitude": -94.36157,
+    "city": "Wickes",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 71998,
+    "latitude": 34.055486,
+    "longitude": -93.189406,
+    "city": "Arkadelphia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 71999,
+    "latitude": 34.055486,
+    "longitude": -93.189406,
+    "city": "Arkadelphia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 72001,
+    "latitude": 34.943809,
+    "longitude": -92.923191,
+    "city": "Adona",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72002,
+    "latitude": 34.694468,
+    "longitude": -92.425087,
+    "city": "Alexander",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72003,
+    "latitude": 34.38443,
+    "longitude": -91.392364,
+    "city": "Almyra",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72004,
+    "latitude": 34.284273,
+    "longitude": -91.698007,
+    "city": "Altheimer",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72005,
+    "latitude": 35.502463,
+    "longitude": -91.081687,
+    "city": "Amagon",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72006,
+    "latitude": 35.207566,
+    "longitude": -91.372792,
+    "city": "Augusta",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72007,
+    "latitude": 34.980269,
+    "longitude": -91.979545,
+    "city": "Austin",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72010,
+    "latitude": 35.331399,
+    "longitude": -91.520754,
+    "city": "Bald Knob",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72011,
+    "latitude": 34.509071,
+    "longitude": -92.482828,
+    "city": "Bauxite",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72012,
+    "latitude": 35.173395,
+    "longitude": -91.808393,
+    "city": "Beebe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72013,
+    "latitude": 35.404671,
+    "longitude": -92.4808,
+    "city": "Bee Branch",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72014,
+    "latitude": 35.418352,
+    "longitude": -91.116292,
+    "city": "Beedeville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72015,
+    "latitude": 34.614356,
+    "longitude": -92.668034,
+    "city": "Benton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72016,
+    "latitude": 34.968975,
+    "longitude": -92.626882,
+    "city": "Bigelow",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72017,
+    "latitude": 34.785525,
+    "longitude": -91.573785,
+    "city": "Biscoe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72018,
+    "latitude": 34.597345,
+    "longitude": -92.622857,
+    "city": "Benton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72020,
+    "latitude": 35.380014,
+    "longitude": -91.525309,
+    "city": "Bradford",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72021,
+    "latitude": 34.883421,
+    "longitude": -91.194574,
+    "city": "Brinkley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 72022,
+    "latitude": 34.612417,
+    "longitude": -92.493519,
+    "city": "Bryant",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72023,
+    "latitude": 34.826103,
+    "longitude": -91.931526,
+    "city": "Cabot",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72024,
+    "latitude": 34.7309,
+    "longitude": -91.75149,
+    "city": "Carlisle",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72025,
+    "latitude": 34.943809,
+    "longitude": -92.923191,
+    "city": "Casa",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72026,
+    "latitude": 34.509537,
+    "longitude": -91.299038,
+    "city": "Casscoe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72027,
+    "latitude": 35.311464,
+    "longitude": -92.572763,
+    "city": "Center Ridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72028,
+    "latitude": 35.57727,
+    "longitude": -92.545572,
+    "city": "Choctaw",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72029,
+    "latitude": 34.745361,
+    "longitude": -91.247509,
+    "city": "Clarendon",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 72030,
+    "latitude": 35.395535,
+    "longitude": -92.701955,
+    "city": "Cleveland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72031,
+    "latitude": 35.568709,
+    "longitude": -92.41875,
+    "city": "Clinton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72032,
+    "latitude": 35.146446,
+    "longitude": -92.376466,
+    "city": "Conway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72033,
+    "latitude": 35.105306,
+    "longitude": -92.354915,
+    "city": "Conway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72034,
+    "latitude": 35.053787,
+    "longitude": -92.47871,
+    "city": "Conway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72035,
+    "latitude": 35.105306,
+    "longitude": -92.354915,
+    "city": "Conway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72036,
+    "latitude": 35.004397,
+    "longitude": -91.252284,
+    "city": "Cotton Plant",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72037,
+    "latitude": 34.541185,
+    "longitude": -91.875767,
+    "city": "Coy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72038,
+    "latitude": 34.459355,
+    "longitude": -91.317774,
+    "city": "Crocketts Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72039,
+    "latitude": 35.302414,
+    "longitude": -92.401428,
+    "city": "Damascus",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72040,
+    "latitude": 34.831514,
+    "longitude": -91.53744,
+    "city": "Des Arc",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72041,
+    "latitude": 34.787106,
+    "longitude": -91.465859,
+    "city": "De Valls Bluff",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72042,
+    "latitude": 34.2746,
+    "longitude": -91.414442,
+    "city": "De Witt",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72043,
+    "latitude": 35.632918,
+    "longitude": -91.262651,
+    "city": "Diaz",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72044,
+    "latitude": 35.632128,
+    "longitude": -92.157022,
+    "city": "Edgemont",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72045,
+    "latitude": 35.128619,
+    "longitude": -92.043231,
+    "city": "El Paso",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72046,
+    "latitude": 34.759526,
+    "longitude": -91.846164,
+    "city": "England",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72047,
+    "latitude": 35.230211,
+    "longitude": -92.202242,
+    "city": "Enola",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72048,
+    "latitude": 34.298173,
+    "longitude": -91.1484,
+    "city": "Ethel",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72051,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Fox",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72052,
+    "latitude": 35.144271,
+    "longitude": -91.77722,
+    "city": "Garner",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72053,
+    "latitude": 34.709342,
+    "longitude": -92.228271,
+    "city": "College Station",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72055,
+    "latitude": 34.126257,
+    "longitude": -91.347993,
+    "city": "Gillett",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72057,
+    "latitude": 34.152591,
+    "longitude": -92.304314,
+    "city": "Grapevine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 72058,
+    "latitude": 35.211744,
+    "longitude": -92.376242,
+    "city": "Greenbrier",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72059,
+    "latitude": 35.179148,
+    "longitude": -91.259428,
+    "city": "Gregory",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72060,
+    "latitude": 35.113187,
+    "longitude": -91.606092,
+    "city": "Griffithville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72061,
+    "latitude": 35.322662,
+    "longitude": -92.334843,
+    "city": "Guy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72063,
+    "latitude": 35.318809,
+    "longitude": -92.67533,
+    "city": "Hattieville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72064,
+    "latitude": 34.782306,
+    "longitude": -91.569612,
+    "city": "Hazen",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72065,
+    "latitude": 34.520167,
+    "longitude": -92.205503,
+    "city": "Hensley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72066,
+    "latitude": 34.785525,
+    "longitude": -91.573785,
+    "city": "Hickory Plains",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72067,
+    "latitude": 35.568521,
+    "longitude": -92.134082,
+    "city": "Higden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72068,
+    "latitude": 35.152032,
+    "longitude": -91.710779,
+    "city": "Higginson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72069,
+    "latitude": 34.598059,
+    "longitude": -91.183945,
+    "city": "Holly Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 72070,
+    "latitude": 35.055779,
+    "longitude": -92.692323,
+    "city": "Houston",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72071,
+    "latitude": 35.179148,
+    "longitude": -91.259428,
+    "city": "Howell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72072,
+    "latitude": 34.757194,
+    "longitude": -91.833442,
+    "city": "Humnoke",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72073,
+    "latitude": 34.374078,
+    "longitude": -91.638613,
+    "city": "Humphrey",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72074,
+    "latitude": 35.179148,
+    "longitude": -91.259428,
+    "city": "Hunter",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72075,
+    "latitude": 35.641406,
+    "longitude": -91.307189,
+    "city": "Jacksonport",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72076,
+    "latitude": 34.918774,
+    "longitude": -92.15149,
+    "city": "Jacksonville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72078,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Jacksonville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72079,
+    "latitude": 34.402504,
+    "longitude": -92.150644,
+    "city": "Jefferson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72080,
+    "latitude": 35.427817,
+    "longitude": -92.819567,
+    "city": "Jerusalem",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72081,
+    "latitude": 35.39438,
+    "longitude": -91.758198,
+    "city": "Judsonia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72082,
+    "latitude": 35.14574,
+    "longitude": -91.847466,
+    "city": "Kensett",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72083,
+    "latitude": 34.60737,
+    "longitude": -92.014365,
+    "city": "Keo",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72084,
+    "latitude": 34.218652,
+    "longitude": -92.613185,
+    "city": "Leola",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 72085,
+    "latitude": 35.359669,
+    "longitude": -91.820426,
+    "city": "Letona",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72086,
+    "latitude": 34.81247,
+    "longitude": -91.905399,
+    "city": "Lonoke",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72087,
+    "latitude": 34.574419,
+    "longitude": -92.85784,
+    "city": "Lonsdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Garland"
+  },
+  {
+    "zip_code": 72088,
+    "latitude": 35.602704,
+    "longitude": -92.274195,
+    "city": "Fairfield Bay",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72089,
+    "latitude": 34.635041,
+    "longitude": -92.65974,
+    "city": "Bryant",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72099,
+    "latitude": 34.788014,
+    "longitude": -92.217343,
+    "city": "Little Rock Air Force Base",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72101,
+    "latitude": 35.259987,
+    "longitude": -91.219846,
+    "city": "Mc Crory",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72102,
+    "latitude": 35.246445,
+    "longitude": -91.848847,
+    "city": "Mc Rae",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72103,
+    "latitude": 34.647826,
+    "longitude": -92.384905,
+    "city": "Mabelvale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72104,
+    "latitude": 34.36975,
+    "longitude": -92.839331,
+    "city": "Malvern",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 72105,
+    "latitude": 34.39588,
+    "longitude": -92.851558,
+    "city": "Jones Mill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Hot Spring"
+  },
+  {
+    "zip_code": 72106,
+    "latitude": 34.963658,
+    "longitude": -92.423585,
+    "city": "Mayflower",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72107,
+    "latitude": 35.153852,
+    "longitude": -92.552168,
+    "city": "Menifee",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72108,
+    "latitude": 34.670187,
+    "longitude": -91.224126,
+    "city": "Monroe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 72110,
+    "latitude": 35.169237,
+    "longitude": -92.817379,
+    "city": "Morrilton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72111,
+    "latitude": 35.23159,
+    "longitude": -92.168875,
+    "city": "Mount Vernon",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72112,
+    "latitude": 35.569278,
+    "longitude": -91.203951,
+    "city": "Newport",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72113,
+    "latitude": 34.857241,
+    "longitude": -92.390298,
+    "city": "Maumelle",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72114,
+    "latitude": 34.766561,
+    "longitude": -92.262899,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72115,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72116,
+    "latitude": 34.805945,
+    "longitude": -92.230488,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72117,
+    "latitude": 34.765751,
+    "longitude": -92.152405,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72118,
+    "latitude": 34.833714,
+    "longitude": -92.3289,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72119,
+    "latitude": 34.80165,
+    "longitude": -92.259781,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72120,
+    "latitude": 34.880689,
+    "longitude": -92.230285,
+    "city": "Sherwood",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72121,
+    "latitude": 35.329969,
+    "longitude": -91.652684,
+    "city": "Pangburn",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72122,
+    "latitude": 34.738557,
+    "longitude": -92.785514,
+    "city": "Paron",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72123,
+    "latitude": 35.25881,
+    "longitude": -91.236983,
+    "city": "Patterson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72124,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72125,
+    "latitude": 35.044346,
+    "longitude": -92.795821,
+    "city": "Perry",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72126,
+    "latitude": 35.025904,
+    "longitude": -92.786535,
+    "city": "Perryville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 72127,
+    "latitude": 35.15351,
+    "longitude": -92.662307,
+    "city": "Plumerville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72128,
+    "latitude": 34.3023,
+    "longitude": -92.609528,
+    "city": "Poyen",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 72129,
+    "latitude": 34.31491,
+    "longitude": -92.539414,
+    "city": "Prattsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 72130,
+    "latitude": 35.667434,
+    "longitude": -92.093319,
+    "city": "Prim",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72131,
+    "latitude": 35.449492,
+    "longitude": -92.151804,
+    "city": "Quitman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72132,
+    "latitude": 34.436424,
+    "longitude": -92.150356,
+    "city": "Redfield",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72133,
+    "latitude": 34.210031,
+    "longitude": -91.673115,
+    "city": "Reydell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72134,
+    "latitude": 34.670187,
+    "longitude": -91.224126,
+    "city": "Roe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 72135,
+    "latitude": 34.87923,
+    "longitude": -92.572248,
+    "city": "Roland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72136,
+    "latitude": 35.235771,
+    "longitude": -92.014311,
+    "city": "Romance",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72137,
+    "latitude": 35.281826,
+    "longitude": -91.855634,
+    "city": "Rose Bud",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72139,
+    "latitude": 35.356592,
+    "longitude": -91.495392,
+    "city": "Russell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72140,
+    "latitude": 34.337186,
+    "longitude": -91.139284,
+    "city": "Saint Charles",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72141,
+    "latitude": 35.57727,
+    "longitude": -92.545572,
+    "city": "Scotland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72142,
+    "latitude": 34.670904,
+    "longitude": -92.152336,
+    "city": "Scott",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72143,
+    "latitude": 35.243622,
+    "longitude": -91.731729,
+    "city": "Searcy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72145,
+    "latitude": 35.277393,
+    "longitude": -91.732556,
+    "city": "Searcy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72149,
+    "latitude": 35.247376,
+    "longitude": -91.73139,
+    "city": "Searcy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72150,
+    "latitude": 34.306936,
+    "longitude": -92.398709,
+    "city": "Sheridan",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 72152,
+    "latitude": 34.363527,
+    "longitude": -91.927642,
+    "city": "Sherrill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72153,
+    "latitude": 35.61711,
+    "longitude": -92.262595,
+    "city": "Shirley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72156,
+    "latitude": 35.267859,
+    "longitude": -92.673551,
+    "city": "Solgohachia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72157,
+    "latitude": 35.244463,
+    "longitude": -92.614982,
+    "city": "Springfield",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Conway"
+  },
+  {
+    "zip_code": 72158,
+    "latitude": 34.635041,
+    "longitude": -92.65974,
+    "city": "Benton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72160,
+    "latitude": 34.387577,
+    "longitude": -91.419955,
+    "city": "Stuttgart",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72164,
+    "latitude": 34.687292,
+    "longitude": -92.2399,
+    "city": "Sweet Home",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72165,
+    "latitude": 35.576231,
+    "longitude": -91.453861,
+    "city": "Thida",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72166,
+    "latitude": 34.079836,
+    "longitude": -91.227608,
+    "city": "Tichnor",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Arkansas"
+  },
+  {
+    "zip_code": 72167,
+    "latitude": 34.469233,
+    "longitude": -92.658212,
+    "city": "Traskwood",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 72168,
+    "latitude": 34.431352,
+    "longitude": -91.96546,
+    "city": "Tucker",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72169,
+    "latitude": 35.384449,
+    "longitude": -91.223248,
+    "city": "Tupelo",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72170,
+    "latitude": 34.577224,
+    "longitude": -91.463319,
+    "city": "Ulm",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Prairie"
+  },
+  {
+    "zip_code": 72173,
+    "latitude": 35.104753,
+    "longitude": -92.228182,
+    "city": "Vilonia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72175,
+    "latitude": 34.348461,
+    "longitude": -91.862772,
+    "city": "Wabbaseka",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72176,
+    "latitude": 34.988267,
+    "longitude": -91.905266,
+    "city": "Ward",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lonoke"
+  },
+  {
+    "zip_code": 72178,
+    "latitude": 35.203213,
+    "longitude": -91.606367,
+    "city": "West Point",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "White"
+  },
+  {
+    "zip_code": 72179,
+    "latitude": 35.510638,
+    "longitude": -91.864757,
+    "city": "Wilburn",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72180,
+    "latitude": 34.533557,
+    "longitude": -92.221807,
+    "city": "Woodson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72181,
+    "latitude": 35.187728,
+    "longitude": -92.449953,
+    "city": "Wooster",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Faulkner"
+  },
+  {
+    "zip_code": 72182,
+    "latitude": 34.429059,
+    "longitude": -92.059863,
+    "city": "Wright",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 72183,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Wrightsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72189,
+    "latitude": 35.179148,
+    "longitude": -91.259428,
+    "city": "Mc Crory",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Woodruff"
+  },
+  {
+    "zip_code": 72190,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72199,
+    "latitude": 34.827174,
+    "longitude": -92.284718,
+    "city": "North Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72201,
+    "latitude": 34.755998,
+    "longitude": -92.284832,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72202,
+    "latitude": 34.752299,
+    "longitude": -92.290419,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72203,
+    "latitude": 34.883484,
+    "longitude": -92.390766,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72204,
+    "latitude": 34.711026,
+    "longitude": -92.297304,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72205,
+    "latitude": 34.742911,
+    "longitude": -92.346652,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72206,
+    "latitude": 34.624693,
+    "longitude": -92.29525,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72207,
+    "latitude": 34.772646,
+    "longitude": -92.340152,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72209,
+    "latitude": 34.674055,
+    "longitude": -92.368649,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72210,
+    "latitude": 34.723533,
+    "longitude": -92.478032,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72211,
+    "latitude": 34.783664,
+    "longitude": -92.430851,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72212,
+    "latitude": 34.800793,
+    "longitude": -92.441752,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72214,
+    "latitude": 34.762141,
+    "longitude": -92.228248,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72215,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72216,
+    "latitude": 34.817834,
+    "longitude": -92.235668,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72217,
+    "latitude": 34.830158,
+    "longitude": -92.170174,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72219,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72221,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72222,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72223,
+    "latitude": 34.790155,
+    "longitude": -92.504359,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72225,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72227,
+    "latitude": 34.775747,
+    "longitude": -92.372386,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72231,
+    "latitude": 34.80189,
+    "longitude": -92.189397,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72260,
+    "latitude": 34.658344,
+    "longitude": -92.427982,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72295,
+    "latitude": 34.751918,
+    "longitude": -92.392487,
+    "city": "Little Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 72301,
+    "latitude": 35.210811,
+    "longitude": -90.203849,
+    "city": "West Memphis",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72303,
+    "latitude": 35.137366,
+    "longitude": -90.285543,
+    "city": "West Memphis",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72310,
+    "latitude": 35.852046,
+    "longitude": -89.972762,
+    "city": "Armorel",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72311,
+    "latitude": 34.719477,
+    "longitude": -90.89691,
+    "city": "Aubrey",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72312,
+    "latitude": 34.546696,
+    "longitude": -90.767879,
+    "city": "Barton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72313,
+    "latitude": 35.712249,
+    "longitude": -90.028429,
+    "city": "Bassett",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72314,
+    "latitude": 35.357184,
+    "longitude": -90.677331,
+    "city": "Birdeye",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72315,
+    "latitude": 35.754685,
+    "longitude": -89.926797,
+    "city": "Blytheville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72316,
+    "latitude": 35.694942,
+    "longitude": -89.966819,
+    "city": "Blytheville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72319,
+    "latitude": 35.694942,
+    "longitude": -89.966819,
+    "city": "Gosnell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72320,
+    "latitude": 34.839836,
+    "longitude": -90.73371,
+    "city": "Brickeys",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72321,
+    "latitude": 35.816872,
+    "longitude": -89.944221,
+    "city": "Burdette",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72322,
+    "latitude": 35.08844,
+    "longitude": -90.81081,
+    "city": "Caldwell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72324,
+    "latitude": 35.340002,
+    "longitude": -90.788851,
+    "city": "Cherry Valley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72325,
+    "latitude": 35.286354,
+    "longitude": -90.253781,
+    "city": "Clarkedale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72326,
+    "latitude": 35.088055,
+    "longitude": -90.889489,
+    "city": "Colt",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72327,
+    "latitude": 35.232042,
+    "longitude": -90.35832,
+    "city": "Crawfordsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72328,
+    "latitude": 34.382204,
+    "longitude": -90.82932,
+    "city": "Crumrod",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72329,
+    "latitude": 35.635225,
+    "longitude": -89.978877,
+    "city": "Driver",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72330,
+    "latitude": 35.593098,
+    "longitude": -90.21404,
+    "city": "Dyess",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72331,
+    "latitude": 35.270213,
+    "longitude": -90.355335,
+    "city": "Earle",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72332,
+    "latitude": 35.119869,
+    "longitude": -90.304367,
+    "city": "Edmondson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72333,
+    "latitude": 34.311793,
+    "longitude": -90.893927,
+    "city": "Elaine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72335,
+    "latitude": 35.026272,
+    "longitude": -90.859555,
+    "city": "Forrest City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72336,
+    "latitude": 35.100867,
+    "longitude": -90.726069,
+    "city": "Forrest City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72338,
+    "latitude": 35.459134,
+    "longitude": -90.188375,
+    "city": "Frenchmans Bayou",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72339,
+    "latitude": 35.405678,
+    "longitude": -90.27136,
+    "city": "Gilmore",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72340,
+    "latitude": 34.935798,
+    "longitude": -91.029194,
+    "city": "Goodwin",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72341,
+    "latitude": 34.894534,
+    "longitude": -90.750779,
+    "city": "Haynes",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72342,
+    "latitude": 34.45192,
+    "longitude": -90.751249,
+    "city": "Helena",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72346,
+    "latitude": 35.055842,
+    "longitude": -90.508034,
+    "city": "Heth",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72347,
+    "latitude": 35.358936,
+    "longitude": -90.958977,
+    "city": "Hickory Ridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72348,
+    "latitude": 34.959855,
+    "longitude": -90.564357,
+    "city": "Hughes",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72350,
+    "latitude": 35.501635,
+    "longitude": -90.145752,
+    "city": "Joiner",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72351,
+    "latitude": 35.695435,
+    "longitude": -90.08845,
+    "city": "Keiser",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72352,
+    "latitude": 34.769714,
+    "longitude": -90.755195,
+    "city": "La Grange",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72353,
+    "latitude": 34.328604,
+    "longitude": -90.965177,
+    "city": "Lambrook",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72354,
+    "latitude": 35.596339,
+    "longitude": -90.340023,
+    "city": "Lepanto",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72355,
+    "latitude": 34.522109,
+    "longitude": -90.746809,
+    "city": "Lexa",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72358,
+    "latitude": 35.773408,
+    "longitude": -89.887854,
+    "city": "Luxora",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72359,
+    "latitude": 35.025243,
+    "longitude": -90.708551,
+    "city": "Madison",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72360,
+    "latitude": 34.768479,
+    "longitude": -90.783138,
+    "city": "Marianna",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72364,
+    "latitude": 35.174997,
+    "longitude": -90.294424,
+    "city": "Marion",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72365,
+    "latitude": 35.531267,
+    "longitude": -90.43642,
+    "city": "Marked Tree",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72366,
+    "latitude": 34.5334,
+    "longitude": -90.954242,
+    "city": "Marvell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72367,
+    "latitude": 34.25968,
+    "longitude": -90.936604,
+    "city": "Mellwood",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72368,
+    "latitude": 34.791849,
+    "longitude": -90.935139,
+    "city": "Moro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 72369,
+    "latitude": 34.443028,
+    "longitude": -90.785809,
+    "city": "Oneida",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72370,
+    "latitude": 35.646832,
+    "longitude": -90.094653,
+    "city": "Osceola",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72372,
+    "latitude": 35.027132,
+    "longitude": -90.901168,
+    "city": "Palestine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72373,
+    "latitude": 35.293247,
+    "longitude": -90.635505,
+    "city": "Parkin",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72374,
+    "latitude": 34.571702,
+    "longitude": -90.819627,
+    "city": "Poplar Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72376,
+    "latitude": 35.116116,
+    "longitude": -90.238064,
+    "city": "Proctor",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72377,
+    "latitude": 35.674952,
+    "longitude": -90.346901,
+    "city": "Rivervale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72379,
+    "latitude": 33.818318,
+    "longitude": -91.214054,
+    "city": "Snow Lake",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Desha"
+  },
+  {
+    "zip_code": 72381,
+    "latitude": 35.694942,
+    "longitude": -89.966819,
+    "city": "Tomato",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72383,
+    "latitude": 34.498511,
+    "longitude": -91.027962,
+    "city": "Turner",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72384,
+    "latitude": 35.343902,
+    "longitude": -90.297822,
+    "city": "Turrell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 72385,
+    "latitude": 35.296539,
+    "longitude": -90.772419,
+    "city": "Twist",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72386,
+    "latitude": 35.49813,
+    "longitude": -90.397619,
+    "city": "Tyronza",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72387,
+    "latitude": 35.3182,
+    "longitude": -90.771505,
+    "city": "Vanndale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72389,
+    "latitude": 34.346621,
+    "longitude": -90.886949,
+    "city": "Wabash",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72390,
+    "latitude": 34.530216,
+    "longitude": -90.681442,
+    "city": "West Helena",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 72391,
+    "latitude": 35.694942,
+    "longitude": -89.966819,
+    "city": "West Ridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72392,
+    "latitude": 34.950619,
+    "longitude": -91.091003,
+    "city": "Wheatley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72394,
+    "latitude": 35.030375,
+    "longitude": -90.800681,
+    "city": "Widener",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Saint Francis"
+  },
+  {
+    "zip_code": 72395,
+    "latitude": 35.63816,
+    "longitude": -90.043135,
+    "city": "Wilson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72396,
+    "latitude": 35.274844,
+    "longitude": -90.798946,
+    "city": "Wynne",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cross"
+  },
+  {
+    "zip_code": 72401,
+    "latitude": 35.835847,
+    "longitude": -90.623071,
+    "city": "Jonesboro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72402,
+    "latitude": 35.80881,
+    "longitude": -90.652887,
+    "city": "Jonesboro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72403,
+    "latitude": 35.830541,
+    "longitude": -90.703915,
+    "city": "Jonesboro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72404,
+    "latitude": 35.779183,
+    "longitude": -90.766012,
+    "city": "Jonesboro",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72410,
+    "latitude": 35.952057,
+    "longitude": -91.030074,
+    "city": "Alicia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72411,
+    "latitude": 35.810496,
+    "longitude": -90.641731,
+    "city": "Bay",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72412,
+    "latitude": 36.128069,
+    "longitude": -90.691421,
+    "city": "Beech Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72413,
+    "latitude": 36.284433,
+    "longitude": -90.853751,
+    "city": "Biggers",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72414,
+    "latitude": 35.836846,
+    "longitude": -90.400484,
+    "city": "Black Oak",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72415,
+    "latitude": 36.132344,
+    "longitude": -91.187361,
+    "city": "Black Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72416,
+    "latitude": 35.85642,
+    "longitude": -90.627804,
+    "city": "Bono",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72417,
+    "latitude": 35.891366,
+    "longitude": -90.489547,
+    "city": "Brookland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72419,
+    "latitude": 35.767307,
+    "longitude": -90.338001,
+    "city": "Caraway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72421,
+    "latitude": 35.795933,
+    "longitude": -90.963448,
+    "city": "Cash",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72422,
+    "latitude": 36.379467,
+    "longitude": -90.538667,
+    "city": "Corning",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72424,
+    "latitude": 36.384747,
+    "longitude": -90.730808,
+    "city": "Datto",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72425,
+    "latitude": 36.208255,
+    "longitude": -90.721173,
+    "city": "Delaplaine",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72426,
+    "latitude": 35.881256,
+    "longitude": -90.054689,
+    "city": "Dell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72427,
+    "latitude": 35.863996,
+    "longitude": -90.94278,
+    "city": "Egypt",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72428,
+    "latitude": 35.733677,
+    "longitude": -90.183815,
+    "city": "Etowah",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72429,
+    "latitude": 35.503918,
+    "longitude": -90.944428,
+    "city": "Fisher",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72430,
+    "latitude": 36.327813,
+    "longitude": -90.182485,
+    "city": "Greenway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72431,
+    "latitude": 35.654913,
+    "longitude": -91.079185,
+    "city": "Grubbs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72432,
+    "latitude": 35.575374,
+    "longitude": -90.791023,
+    "city": "Harrisburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72433,
+    "latitude": 36.050395,
+    "longitude": -91.021301,
+    "city": "Hoxie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72434,
+    "latitude": 36.183681,
+    "longitude": -91.215672,
+    "city": "Imboden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72435,
+    "latitude": 36.360817,
+    "longitude": -90.472819,
+    "city": "Knobel",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72436,
+    "latitude": 36.202584,
+    "longitude": -90.469652,
+    "city": "Lafe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72437,
+    "latitude": 35.824808,
+    "longitude": -90.510018,
+    "city": "Lake City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72438,
+    "latitude": 35.884302,
+    "longitude": -90.210167,
+    "city": "Leachville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72439,
+    "latitude": 36.06805,
+    "longitude": -90.748876,
+    "city": "Light",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72440,
+    "latitude": 36.015239,
+    "longitude": -91.229356,
+    "city": "Lynn",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72441,
+    "latitude": 36.429953,
+    "longitude": -90.386431,
+    "city": "Mc Dougal",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72442,
+    "latitude": 35.843919,
+    "longitude": -90.1806,
+    "city": "Manila",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 72443,
+    "latitude": 36.156146,
+    "longitude": -90.39974,
+    "city": "Marmaduke",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72444,
+    "latitude": 36.396694,
+    "longitude": -90.936899,
+    "city": "Maynard",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72445,
+    "latitude": 35.974287,
+    "longitude": -91.031799,
+    "city": "Minturn",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72447,
+    "latitude": 35.909972,
+    "longitude": -90.347446,
+    "city": "Monette",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72449,
+    "latitude": 36.306745,
+    "longitude": -91.07791,
+    "city": "O Kean",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72450,
+    "latitude": 36.113222,
+    "longitude": -90.551092,
+    "city": "Paragould",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72451,
+    "latitude": 36.11635,
+    "longitude": -90.525077,
+    "city": "Paragould",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72453,
+    "latitude": 36.277564,
+    "longitude": -90.687882,
+    "city": "Peach Orchard",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72454,
+    "latitude": 36.378787,
+    "longitude": -90.313223,
+    "city": "Piggott",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72455,
+    "latitude": 36.324042,
+    "longitude": -91.084748,
+    "city": "Pocahontas",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72456,
+    "latitude": 36.38157,
+    "longitude": -90.375252,
+    "city": "Pollard",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72457,
+    "latitude": 36.082104,
+    "longitude": -91.047594,
+    "city": "Portia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72458,
+    "latitude": 36.053597,
+    "longitude": -91.218089,
+    "city": "Powhatan",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72459,
+    "latitude": 36.18246,
+    "longitude": -91.223314,
+    "city": "Ravenden",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72460,
+    "latitude": 36.337228,
+    "longitude": -91.009405,
+    "city": "Ravenden Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72461,
+    "latitude": 36.310788,
+    "longitude": -90.329565,
+    "city": "Rector",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72462,
+    "latitude": 36.351441,
+    "longitude": -90.780125,
+    "city": "Reyno",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72464,
+    "latitude": 36.454544,
+    "longitude": -90.142521,
+    "city": "Saint Francis",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72465,
+    "latitude": 35.964317,
+    "longitude": -90.895421,
+    "city": "Sedgwick",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72466,
+    "latitude": 36.057939,
+    "longitude": -91.240065,
+    "city": "Smithville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72467,
+    "latitude": 35.842196,
+    "longitude": -90.673464,
+    "city": "State University",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Craighead"
+  },
+  {
+    "zip_code": 72469,
+    "latitude": 35.967306,
+    "longitude": -91.293503,
+    "city": "Strawberry",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72470,
+    "latitude": 36.429663,
+    "longitude": -90.692099,
+    "city": "Success",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 72471,
+    "latitude": 35.817646,
+    "longitude": -91.092685,
+    "city": "Swifton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72472,
+    "latitude": 35.588215,
+    "longitude": -90.561977,
+    "city": "Trumann",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72473,
+    "latitude": 35.71528,
+    "longitude": -91.173296,
+    "city": "Tuckerman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 72474,
+    "latitude": 36.041332,
+    "longitude": -90.671802,
+    "city": "Walcott",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 72475,
+    "latitude": 35.546575,
+    "longitude": -90.965815,
+    "city": "Waldenburg",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72476,
+    "latitude": 36.042979,
+    "longitude": -90.998707,
+    "city": "Walnut Ridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72478,
+    "latitude": 36.44533,
+    "longitude": -91.054035,
+    "city": "Warm Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 72479,
+    "latitude": 35.611992,
+    "longitude": -90.873808,
+    "city": "Weiner",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Poinsett"
+  },
+  {
+    "zip_code": 72482,
+    "latitude": 36.285559,
+    "longitude": -91.355691,
+    "city": "Williford",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72501,
+    "latitude": 35.768738,
+    "longitude": -91.652338,
+    "city": "Batesville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72503,
+    "latitude": 35.734617,
+    "longitude": -91.534303,
+    "city": "Batesville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72512,
+    "latitude": 36.185457,
+    "longitude": -91.915187,
+    "city": "Horseshoe Bend",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72513,
+    "latitude": 36.234637,
+    "longitude": -91.568849,
+    "city": "Ash Flat",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72515,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Bexar",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72516,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Boswell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72517,
+    "latitude": 36.121391,
+    "longitude": -92.134903,
+    "city": "Brockwell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72519,
+    "latitude": 36.178897,
+    "longitude": -92.129961,
+    "city": "Calico Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72520,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Camp",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72521,
+    "latitude": 35.948292,
+    "longitude": -91.5317,
+    "city": "Cave City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72522,
+    "latitude": 35.803978,
+    "longitude": -91.456609,
+    "city": "Charlotte",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72523,
+    "latitude": 35.642663,
+    "longitude": -91.857781,
+    "city": "Concord",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72524,
+    "latitude": 35.843546,
+    "longitude": -91.36155,
+    "city": "Cord",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72525,
+    "latitude": 36.295879,
+    "longitude": -91.488845,
+    "city": "Cherokee Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72526,
+    "latitude": 35.872871,
+    "longitude": -91.758171,
+    "city": "Cushman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72527,
+    "latitude": 35.726232,
+    "longitude": -91.603429,
+    "city": "Desha",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72528,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Dolph",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72529,
+    "latitude": 36.298192,
+    "longitude": -91.534657,
+    "city": "Cherokee Village",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72530,
+    "latitude": 35.607847,
+    "longitude": -92.022867,
+    "city": "Drasco",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72531,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Elizabeth",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72532,
+    "latitude": 36.061757,
+    "longitude": -91.607603,
+    "city": "Evening Shade",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72533,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Fifty Six",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72534,
+    "latitude": 35.663046,
+    "longitude": -91.712976,
+    "city": "Floral",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72536,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Franklin",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72537,
+    "latitude": 36.42957,
+    "longitude": -92.325688,
+    "city": "Gamaliel",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72538,
+    "latitude": 36.370988,
+    "longitude": -91.823914,
+    "city": "Gepp",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72539,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Glencoe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72540,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Guion",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72542,
+    "latitude": 36.178441,
+    "longitude": -91.481669,
+    "city": "Hardy",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72543,
+    "latitude": 35.453106,
+    "longitude": -91.98883,
+    "city": "Heber Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72544,
+    "latitude": 36.410457,
+    "longitude": -92.195113,
+    "city": "Henderson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72545,
+    "latitude": 35.535238,
+    "longitude": -92.021291,
+    "city": "Heber Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72546,
+    "latitude": 35.581607,
+    "longitude": -91.930535,
+    "city": "Ida",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72550,
+    "latitude": 35.712421,
+    "longitude": -91.778953,
+    "city": "Locust Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72553,
+    "latitude": 35.707658,
+    "longitude": -91.474841,
+    "city": "Magness",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72554,
+    "latitude": 36.492437,
+    "longitude": -91.546818,
+    "city": "Mammoth Spring",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72555,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Marcella",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72556,
+    "latitude": 36.063529,
+    "longitude": -91.907947,
+    "city": "Melbourne",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72557,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Moko",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72560,
+    "latitude": 35.820825,
+    "longitude": -92.038894,
+    "city": "Mountain View",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72561,
+    "latitude": 35.961824,
+    "longitude": -91.819741,
+    "city": "Mount Pleasant",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72562,
+    "latitude": 35.732409,
+    "longitude": -91.42517,
+    "city": "Newark",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72564,
+    "latitude": 35.59985,
+    "longitude": -91.475445,
+    "city": "Oil Trough",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72565,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Oxford",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72566,
+    "latitude": 36.157991,
+    "longitude": -92.112983,
+    "city": "Pineville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72567,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Pleasant Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72568,
+    "latitude": 35.654477,
+    "longitude": -91.619627,
+    "city": "Pleasant Plains",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72569,
+    "latitude": 36.046345,
+    "longitude": -91.455012,
+    "city": "Poughkeepsie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72571,
+    "latitude": 35.645494,
+    "longitude": -91.536246,
+    "city": "Rosie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72572,
+    "latitude": 35.953043,
+    "longitude": -91.283897,
+    "city": "Saffell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 72573,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Sage",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72575,
+    "latitude": 35.691868,
+    "longitude": -91.598917,
+    "city": "Salado",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72576,
+    "latitude": 36.425836,
+    "longitude": -91.699502,
+    "city": "Salem",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72577,
+    "latitude": 36.066371,
+    "longitude": -91.64203,
+    "city": "Sidney",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Sharp"
+  },
+  {
+    "zip_code": 72578,
+    "latitude": 36.374704,
+    "longitude": -91.804608,
+    "city": "Sturkie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72579,
+    "latitude": 35.762212,
+    "longitude": -91.531986,
+    "city": "Sulphur Rock",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Independence"
+  },
+  {
+    "zip_code": 72581,
+    "latitude": 35.570591,
+    "longitude": -91.929979,
+    "city": "Tumbling Shoals",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 72583,
+    "latitude": 36.392508,
+    "longitude": -91.93942,
+    "city": "Viola",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 72584,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Violet Hill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72585,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Wideman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72587,
+    "latitude": 36.064329,
+    "longitude": -91.944673,
+    "city": "Wiseman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Izard"
+  },
+  {
+    "zip_code": 72601,
+    "latitude": 36.295086,
+    "longitude": -93.092861,
+    "city": "Harrison",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72602,
+    "latitude": 36.355213,
+    "longitude": -93.122554,
+    "city": "Harrison",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72610,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Alco",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72611,
+    "latitude": 36.310814,
+    "longitude": -93.252276,
+    "city": "Alpena",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72613,
+    "latitude": 36.431111,
+    "longitude": -93.699392,
+    "city": "Beaver",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72615,
+    "latitude": 36.308349,
+    "longitude": -93.032099,
+    "city": "Bergman",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72616,
+    "latitude": 36.316779,
+    "longitude": -93.5616,
+    "city": "Berryville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72617,
+    "latitude": 36.23638,
+    "longitude": -92.372635,
+    "city": "Big Flat",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72619,
+    "latitude": 36.318875,
+    "longitude": -92.629141,
+    "city": "Bull Shoals",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72623,
+    "latitude": 36.472426,
+    "longitude": -92.329645,
+    "city": "Clarkridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72624,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Compton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72626,
+    "latitude": 36.308162,
+    "longitude": -92.542469,
+    "city": "Cotter",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72628,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Deer",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72629,
+    "latitude": 35.57727,
+    "longitude": -92.545572,
+    "city": "Dennard",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 72630,
+    "latitude": 36.458431,
+    "longitude": -92.913268,
+    "city": "Diamond City",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72631,
+    "latitude": 36.435013,
+    "longitude": -93.767298,
+    "city": "Eureka Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72632,
+    "latitude": 36.399338,
+    "longitude": -93.755084,
+    "city": "Eureka Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72633,
+    "latitude": 36.164402,
+    "longitude": -92.953069,
+    "city": "Everton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72634,
+    "latitude": 36.317483,
+    "longitude": -92.595011,
+    "city": "Flippin",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72635,
+    "latitude": 36.318799,
+    "longitude": -92.487866,
+    "city": "Gassville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72636,
+    "latitude": 35.916744,
+    "longitude": -92.681408,
+    "city": "Gilbert",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72638,
+    "latitude": 36.310046,
+    "longitude": -93.57875,
+    "city": "Green Forest",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72639,
+    "latitude": 35.916744,
+    "longitude": -92.681408,
+    "city": "Harriet",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72640,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Hasty",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72641,
+    "latitude": 36.005808,
+    "longitude": -93.187651,
+    "city": "Jasper",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72642,
+    "latitude": 36.372572,
+    "longitude": -92.494857,
+    "city": "Lakeview",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72644,
+    "latitude": 36.384844,
+    "longitude": -93.003892,
+    "city": "Lead Hill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72645,
+    "latitude": 35.835751,
+    "longitude": -92.554222,
+    "city": "Leslie",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72648,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Marble Falls",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72650,
+    "latitude": 35.908133,
+    "longitude": -92.63861,
+    "city": "Marshall",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72651,
+    "latitude": 36.37792,
+    "longitude": -92.474246,
+    "city": "Midway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72653,
+    "latitude": 36.318679,
+    "longitude": -92.372153,
+    "city": "Mountain Home",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72654,
+    "latitude": 36.23638,
+    "longitude": -92.372635,
+    "city": "Mountain Home",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72655,
+    "latitude": 35.940667,
+    "longitude": -93.065393,
+    "city": "Mount Judea",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72657,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Timbo",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72658,
+    "latitude": 36.250583,
+    "longitude": -92.310805,
+    "city": "Norfork",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72659,
+    "latitude": 36.23638,
+    "longitude": -92.372635,
+    "city": "Norfork",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Baxter"
+  },
+  {
+    "zip_code": 72660,
+    "latitude": 36.466366,
+    "longitude": -93.370349,
+    "city": "Oak Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 72661,
+    "latitude": 36.457556,
+    "longitude": -92.581535,
+    "city": "Oakland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72662,
+    "latitude": 36.421611,
+    "longitude": -93.166451,
+    "city": "Omaha",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72663,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Onia",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72666,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Parthenon",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72668,
+    "latitude": 36.280677,
+    "longitude": -92.648858,
+    "city": "Peel",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72669,
+    "latitude": 35.916744,
+    "longitude": -92.681408,
+    "city": "Pindall",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72670,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Ponca",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72672,
+    "latitude": 36.248623,
+    "longitude": -92.841645,
+    "city": "Pyatt",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72675,
+    "latitude": 35.908381,
+    "longitude": -92.699416,
+    "city": "Saint Joe",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72677,
+    "latitude": 36.267239,
+    "longitude": -92.685913,
+    "city": "Summit",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72679,
+    "latitude": 35.706942,
+    "longitude": -92.843116,
+    "city": "Tilly",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72680,
+    "latitude": 35.91896,
+    "longitude": -92.127207,
+    "city": "Timbo",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 72682,
+    "latitude": 36.148259,
+    "longitude": -92.989569,
+    "city": "Valley Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 72683,
+    "latitude": 35.924868,
+    "longitude": -93.232298,
+    "city": "Vendor",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72685,
+    "latitude": 36.098936,
+    "longitude": -92.961082,
+    "city": "Western Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 72686,
+    "latitude": 35.916744,
+    "longitude": -92.681408,
+    "city": "Witts Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Searcy"
+  },
+  {
+    "zip_code": 72687,
+    "latitude": 36.254905,
+    "longitude": -92.688068,
+    "city": "Yellville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 72701,
+    "latitude": 35.974602,
+    "longitude": -94.190997,
+    "city": "Fayetteville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72702,
+    "latitude": 35.99403,
+    "longitude": -94.219977,
+    "city": "Fayetteville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72703,
+    "latitude": 36.126249,
+    "longitude": -94.074168,
+    "city": "Fayetteville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72704,
+    "latitude": 36.087732,
+    "longitude": -94.309322,
+    "city": "Fayetteville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72711,
+    "latitude": 36.397805,
+    "longitude": -94.043837,
+    "city": "Avoca",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72712,
+    "latitude": 36.347107,
+    "longitude": -94.223419,
+    "city": "Bentonville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72714,
+    "latitude": 36.426659,
+    "longitude": -94.330765,
+    "city": "Bella Vista",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72715,
+    "latitude": 36.442323,
+    "longitude": -94.427298,
+    "city": "Bella Vista",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72716,
+    "latitude": 36.299507,
+    "longitude": -93.956801,
+    "city": "Bentonville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72717,
+    "latitude": 35.847701,
+    "longitude": -94.444142,
+    "city": "Canehill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72718,
+    "latitude": 36.266213,
+    "longitude": -94.245722,
+    "city": "Cave Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72719,
+    "latitude": 36.328519,
+    "longitude": -94.366608,
+    "city": "Centerton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72721,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Combs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72722,
+    "latitude": 36.321366,
+    "longitude": -94.462415,
+    "city": "Decatur",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72727,
+    "latitude": 35.972331,
+    "longitude": -93.997572,
+    "city": "Elkins",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72728,
+    "latitude": 36.210013,
+    "longitude": -94.254573,
+    "city": "Elm Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72729,
+    "latitude": 35.80515,
+    "longitude": -94.460202,
+    "city": "Evansville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72730,
+    "latitude": 36.081641,
+    "longitude": -94.209785,
+    "city": "Farmington",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72732,
+    "latitude": 36.365048,
+    "longitude": -94.184187,
+    "city": "Garfield",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72733,
+    "latitude": 36.486424,
+    "longitude": -93.927748,
+    "city": "Gateway",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72734,
+    "latitude": 36.288541,
+    "longitude": -94.435512,
+    "city": "Gentry",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72735,
+    "latitude": 36.087551,
+    "longitude": -93.966645,
+    "city": "Goshen",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72736,
+    "latitude": 36.381245,
+    "longitude": -94.471388,
+    "city": "Gravette",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72737,
+    "latitude": 35.928186,
+    "longitude": -94.152899,
+    "city": "Greenland",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72738,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Hindsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72739,
+    "latitude": 36.447008,
+    "longitude": -94.339813,
+    "city": "Hiwasse",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72740,
+    "latitude": 36.028046,
+    "longitude": -93.778748,
+    "city": "Huntsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72741,
+    "latitude": 35.99403,
+    "longitude": -94.219977,
+    "city": "Johnson",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72742,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Kingston",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72744,
+    "latitude": 35.935038,
+    "longitude": -94.362211,
+    "city": "Lincoln",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72745,
+    "latitude": 36.29589,
+    "longitude": -94.12368,
+    "city": "Lowell",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72747,
+    "latitude": 36.391882,
+    "longitude": -94.583717,
+    "city": "Maysville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72749,
+    "latitude": 35.861658,
+    "longitude": -94.467398,
+    "city": "Morrow",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72751,
+    "latitude": 36.461444,
+    "longitude": -94.129727,
+    "city": "Pea Ridge",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72752,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Pettigrew",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72753,
+    "latitude": 35.927985,
+    "longitude": -94.317796,
+    "city": "Prairie Grove",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72756,
+    "latitude": 36.355417,
+    "longitude": -94.181568,
+    "city": "Rogers",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72757,
+    "latitude": 36.371981,
+    "longitude": -94.115649,
+    "city": "Rogers",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72758,
+    "latitude": 36.316945,
+    "longitude": -94.154459,
+    "city": "Rogers",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72760,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Saint Paul",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72761,
+    "latitude": 36.21791,
+    "longitude": -94.383778,
+    "city": "Siloam Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72762,
+    "latitude": 36.16722,
+    "longitude": -94.240112,
+    "city": "Springdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72764,
+    "latitude": 36.171598,
+    "longitude": -94.042788,
+    "city": "Springdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72765,
+    "latitude": 36.172541,
+    "longitude": -94.153512,
+    "city": "Springdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72766,
+    "latitude": 35.99403,
+    "longitude": -94.219977,
+    "city": "Springdale",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72768,
+    "latitude": 36.384794,
+    "longitude": -94.449942,
+    "city": "Sulphur Springs",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 72769,
+    "latitude": 36.027589,
+    "longitude": -94.49393,
+    "city": "Summers",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72770,
+    "latitude": 36.14998,
+    "longitude": -94.242884,
+    "city": "Tontitown",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72773,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Wesley",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72774,
+    "latitude": 35.98025,
+    "longitude": -94.198446,
+    "city": "West Fork",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 72776,
+    "latitude": 36.033601,
+    "longitude": -93.704255,
+    "city": "Witter",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 72801,
+    "latitude": 35.29465,
+    "longitude": -93.072885,
+    "city": "Russellville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72802,
+    "latitude": 35.306683,
+    "longitude": -93.071219,
+    "city": "Russellville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72811,
+    "latitude": 35.314678,
+    "longitude": -93.113308,
+    "city": "Russellville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72812,
+    "latitude": 35.423102,
+    "longitude": -93.054388,
+    "city": "Russellville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72820,
+    "latitude": 35.43356,
+    "longitude": -93.752642,
+    "city": "Alix",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 72821,
+    "latitude": 35.434638,
+    "longitude": -93.759811,
+    "city": "Altus",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 72823,
+    "latitude": 35.325504,
+    "longitude": -92.992285,
+    "city": "Atkins",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 72824,
+    "latitude": 35.030397,
+    "longitude": -93.303203,
+    "city": "Belleville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72826,
+    "latitude": 35.130561,
+    "longitude": -93.749342,
+    "city": "Blue Mountain",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 72827,
+    "latitude": 35.030397,
+    "longitude": -93.303203,
+    "city": "Bluffton",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72828,
+    "latitude": 35.030397,
+    "longitude": -93.303203,
+    "city": "Briggsville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72829,
+    "latitude": 35.030397,
+    "longitude": -93.303203,
+    "city": "Centerville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72830,
+    "latitude": 35.473886,
+    "longitude": -93.516564,
+    "city": "Clarksville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 72832,
+    "latitude": 35.430098,
+    "longitude": -93.672986,
+    "city": "Coal Hill",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 72833,
+    "latitude": 35.052818,
+    "longitude": -93.381315,
+    "city": "Danville",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72834,
+    "latitude": 35.235025,
+    "longitude": -93.184774,
+    "city": "Dardanelle",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Yell"
+  },
+  {
+    "zip_code": 72835,
+    "latitude": 35.283987,
+    "longitude": -93.3532,
+    "city": "Delaware",
+    "state": "AR",
+    "full_state": "Arkansas",
+    "county": "Logan"
+  }
+]

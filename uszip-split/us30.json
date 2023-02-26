@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 79005,
+    "latitude": 36.448291,
+    "longitude": -100.330411,
+    "city": "Booker",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lipscomb"
+  },
+  {
+    "zip_code": 79007,
+    "latitude": 35.728104,
+    "longitude": -101.487464,
+    "city": "Borger",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 79008,
+    "latitude": 35.631621,
+    "longitude": -101.599447,
+    "city": "Borger",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 79009,
+    "latitude": 34.519042,
+    "longitude": -102.784639,
+    "city": "Bovina",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Parmer"
+  },
+  {
+    "zip_code": 79010,
+    "latitude": 35.40527,
+    "longitude": -102.602749,
+    "city": "Boys Ranch",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 79011,
+    "latitude": 35.532082,
+    "longitude": -100.209628,
+    "city": "Briscoe",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 79012,
+    "latitude": 35.225625,
+    "longitude": -102.029919,
+    "city": "Bushland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79013,
+    "latitude": 36.041191,
+    "longitude": -102.00075,
+    "city": "Cactus",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Moore"
+  },
+  {
+    "zip_code": 79014,
+    "latitude": 35.904503,
+    "longitude": -100.384093,
+    "city": "Canadian",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hemphill"
+  },
+  {
+    "zip_code": 79015,
+    "latitude": 35.004998,
+    "longitude": -101.91008,
+    "city": "Canyon",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79016,
+    "latitude": 34.96539,
+    "longitude": -101.895894,
+    "city": "Canyon",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79018,
+    "latitude": 35.685842,
+    "longitude": -102.330294,
+    "city": "Channing",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hartley"
+  },
+  {
+    "zip_code": 79019,
+    "latitude": 35.133039,
+    "longitude": -101.460835,
+    "city": "Claude",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 79021,
+    "latitude": 34.068903,
+    "longitude": -101.826997,
+    "city": "Cotton Center",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79022,
+    "latitude": 36.277826,
+    "longitude": -102.602022,
+    "city": "Dalhart",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dallam"
+  },
+  {
+    "zip_code": 79024,
+    "latitude": 36.445302,
+    "longitude": -100.325415,
+    "city": "Darrouzett",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lipscomb"
+  },
+  {
+    "zip_code": 79025,
+    "latitude": 34.910608,
+    "longitude": -102.200173,
+    "city": "Dawn",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Deaf Smith"
+  },
+  {
+    "zip_code": 79027,
+    "latitude": 34.530453,
+    "longitude": -102.262133,
+    "city": "Dimmitt",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Castro"
+  },
+  {
+    "zip_code": 79029,
+    "latitude": 35.9216,
+    "longitude": -101.92026,
+    "city": "Dumas",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Moore"
+  },
+  {
+    "zip_code": 79031,
+    "latitude": 34.237177,
+    "longitude": -102.36276,
+    "city": "Earth",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79032,
+    "latitude": 34.278925,
+    "longitude": -101.894088,
+    "city": "Edmonson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79033,
+    "latitude": 36.391123,
+    "longitude": -100.761225,
+    "city": "Farnsworth",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ochiltree"
+  },
+  {
+    "zip_code": 79034,
+    "latitude": 36.433821,
+    "longitude": -100.139117,
+    "city": "Follett",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lipscomb"
+  },
+  {
+    "zip_code": 79035,
+    "latitude": 34.627408,
+    "longitude": -102.784361,
+    "city": "Friona",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Parmer"
+  },
+  {
+    "zip_code": 79036,
+    "latitude": 35.663213,
+    "longitude": -101.575988,
+    "city": "Fritch",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 79039,
+    "latitude": 35.276741,
+    "longitude": -101.232275,
+    "city": "Groom",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Carson"
+  },
+  {
+    "zip_code": 79040,
+    "latitude": 36.230799,
+    "longitude": -101.310055,
+    "city": "Gruver",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hansford"
+  },
+  {
+    "zip_code": 79041,
+    "latitude": 34.064607,
+    "longitude": -101.845753,
+    "city": "Hale Center",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79042,
+    "latitude": 34.741789,
+    "longitude": -101.857175,
+    "city": "Happy",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Swisher"
+  },
+  {
+    "zip_code": 79043,
+    "latitude": 34.385133,
+    "longitude": -102.117552,
+    "city": "Hart",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Castro"
+  },
+  {
+    "zip_code": 79044,
+    "latitude": 35.891634,
+    "longitude": -102.392664,
+    "city": "Hartley",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hartley"
+  },
+  {
+    "zip_code": 79045,
+    "latitude": 34.966095,
+    "longitude": -102.31309,
+    "city": "Hereford",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Deaf Smith"
+  },
+  {
+    "zip_code": 79046,
+    "latitude": 36.118997,
+    "longitude": -100.027623,
+    "city": "Higgins",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lipscomb"
+  },
+  {
+    "zip_code": 79051,
+    "latitude": 36.277839,
+    "longitude": -102.602174,
+    "city": "Kerrick",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dallam"
+  },
+  {
+    "zip_code": 79052,
+    "latitude": 34.361722,
+    "longitude": -101.749905,
+    "city": "Kress",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Swisher"
+  },
+  {
+    "zip_code": 79053,
+    "latitude": 34.52997,
+    "longitude": -102.784583,
+    "city": "Lazbuddie",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Parmer"
+  },
+  {
+    "zip_code": 79054,
+    "latitude": 35.439056,
+    "longitude": -100.805869,
+    "city": "Lefors",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 79056,
+    "latitude": 36.277602,
+    "longitude": -100.273561,
+    "city": "Lipscomb",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lipscomb"
+  },
+  {
+    "zip_code": 79057,
+    "latitude": 35.231235,
+    "longitude": -100.60084,
+    "city": "Mclean",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 79058,
+    "latitude": 35.837775,
+    "longitude": -101.892846,
+    "city": "Masterson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Moore"
+  },
+  {
+    "zip_code": 79059,
+    "latitude": 35.71814,
+    "longitude": -100.676817,
+    "city": "Miami",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Roberts"
+  },
+  {
+    "zip_code": 79061,
+    "latitude": 35.515434,
+    "longitude": -100.414781,
+    "city": "Mobeetie",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 79062,
+    "latitude": 36.277322,
+    "longitude": -101.354354,
+    "city": "Morse",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hansford"
+  },
+  {
+    "zip_code": 79063,
+    "latitude": 34.542943,
+    "longitude": -102.09605,
+    "city": "Nazareth",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Castro"
+  },
+  {
+    "zip_code": 79064,
+    "latitude": 34.181129,
+    "longitude": -102.145562,
+    "city": "Olton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79065,
+    "latitude": 35.515114,
+    "longitude": -100.836363,
+    "city": "Pampa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 79066,
+    "latitude": 35.533384,
+    "longitude": -100.956013,
+    "city": "Pampa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 79068,
+    "latitude": 35.296115,
+    "longitude": -101.345689,
+    "city": "Panhandle",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Carson"
+  },
+  {
+    "zip_code": 79070,
+    "latitude": 36.408493,
+    "longitude": -100.687227,
+    "city": "Perryton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ochiltree"
+  },
+  {
+    "zip_code": 79072,
+    "latitude": 34.068999,
+    "longitude": -101.82702,
+    "city": "Plainview",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79073,
+    "latitude": 34.068903,
+    "longitude": -101.826997,
+    "city": "Plainview",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79077,
+    "latitude": 34.840485,
+    "longitude": -100.204928,
+    "city": "Samnorwood",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Collingsworth"
+  },
+  {
+    "zip_code": 79078,
+    "latitude": 35.672009,
+    "longitude": -101.574959,
+    "city": "Sanford",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 79079,
+    "latitude": 35.315345,
+    "longitude": -100.272153,
+    "city": "Shamrock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 79080,
+    "latitude": 35.569232,
+    "longitude": -101.172931,
+    "city": "Skellytown",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Carson"
+  },
+  {
+    "zip_code": 79081,
+    "latitude": 36.226446,
+    "longitude": -101.294059,
+    "city": "Spearman",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hansford"
+  },
+  {
+    "zip_code": 79082,
+    "latitude": 34.23322,
+    "longitude": -102.307243,
+    "city": "Springlake",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79083,
+    "latitude": 35.823913,
+    "longitude": -101.445209,
+    "city": "Stinnett",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hutchinson"
+  },
+  {
+    "zip_code": 79084,
+    "latitude": 36.340796,
+    "longitude": -102.073587,
+    "city": "Stratford",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 79085,
+    "latitude": 34.743735,
+    "longitude": -102.506442,
+    "city": "Summerfield",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Castro"
+  },
+  {
+    "zip_code": 79086,
+    "latitude": 36.019612,
+    "longitude": -101.820002,
+    "city": "Sunray",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Moore"
+  },
+  {
+    "zip_code": 79087,
+    "latitude": 36.337083,
+    "longitude": -102.916844,
+    "city": "Texline",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dallam"
+  },
+  {
+    "zip_code": 79088,
+    "latitude": 34.558293,
+    "longitude": -101.803862,
+    "city": "Tulia",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Swisher"
+  },
+  {
+    "zip_code": 79091,
+    "latitude": 34.96539,
+    "longitude": -101.895894,
+    "city": "Umbarger",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79092,
+    "latitude": 35.224143,
+    "longitude": -102.421407,
+    "city": "Vega",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 79093,
+    "latitude": 36.278199,
+    "longitude": -100.815862,
+    "city": "Waka",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ochiltree"
+  },
+  {
+    "zip_code": 79094,
+    "latitude": 34.965329,
+    "longitude": -101.357838,
+    "city": "Wayside",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 79095,
+    "latitude": 34.852623,
+    "longitude": -100.21447,
+    "city": "Wellington",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Collingsworth"
+  },
+  {
+    "zip_code": 79096,
+    "latitude": 35.394891,
+    "longitude": -100.224203,
+    "city": "Wheeler",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 79097,
+    "latitude": 35.414902,
+    "longitude": -101.176661,
+    "city": "White Deer",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Carson"
+  },
+  {
+    "zip_code": 79098,
+    "latitude": 35.211942,
+    "longitude": -102.200425,
+    "city": "Wildorado",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Oldham"
+  },
+  {
+    "zip_code": 79101,
+    "latitude": 35.205452,
+    "longitude": -101.795512,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79102,
+    "latitude": 35.200852,
+    "longitude": -101.851514,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79103,
+    "latitude": 35.195302,
+    "longitude": -101.744272,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79104,
+    "latitude": 35.205702,
+    "longitude": -101.777911,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79105,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79106,
+    "latitude": 35.248669,
+    "longitude": -101.942719,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79107,
+    "latitude": 35.273627,
+    "longitude": -101.744686,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79108,
+    "latitude": 35.293191,
+    "longitude": -101.772258,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79109,
+    "latitude": 35.11389,
+    "longitude": -101.847324,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79110,
+    "latitude": 35.131403,
+    "longitude": -101.856612,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79111,
+    "latitude": 35.258656,
+    "longitude": -101.698058,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79114,
+    "latitude": 35.050003,
+    "longitude": -101.817485,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79116,
+    "latitude": 35.245398,
+    "longitude": -101.999047,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79117,
+    "latitude": 35.308889,
+    "longitude": -101.843033,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79118,
+    "latitude": 35.098729,
+    "longitude": -101.806557,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79119,
+    "latitude": 35.060389,
+    "longitude": -102.017795,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79120,
+    "latitude": 35.196352,
+    "longitude": -101.803412,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79121,
+    "latitude": 35.142756,
+    "longitude": -101.992003,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Randall"
+  },
+  {
+    "zip_code": 79123,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79124,
+    "latitude": 35.252532,
+    "longitude": -101.939874,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79159,
+    "latitude": 35.216029,
+    "longitude": -102.071415,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79163,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79164,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79165,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79166,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79167,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79168,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79170,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79171,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79172,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79174,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79175,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79178,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79180,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79181,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79182,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79184,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79185,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79186,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79187,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79189,
+    "latitude": 35.401475,
+    "longitude": -101.895089,
+    "city": "Amarillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 79201,
+    "latitude": 34.4104,
+    "longitude": -100.236376,
+    "city": "Childress",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Childress"
+  },
+  {
+    "zip_code": 79220,
+    "latitude": 33.616428,
+    "longitude": -100.779303,
+    "city": "Afton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dickens"
+  },
+  {
+    "zip_code": 79221,
+    "latitude": 34.071514,
+    "longitude": -101.30313,
+    "city": "Aiken",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 79222,
+    "latitude": 34.529678,
+    "longitude": -100.207642,
+    "city": "Carey",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Childress"
+  },
+  {
+    "zip_code": 79223,
+    "latitude": 34.074854,
+    "longitude": -100.258156,
+    "city": "Cee Vee",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cottle"
+  },
+  {
+    "zip_code": 79224,
+    "latitude": 34.074854,
+    "longitude": -100.258156,
+    "city": "Chalk",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cottle"
+  },
+  {
+    "zip_code": 79225,
+    "latitude": 34.195699,
+    "longitude": -99.547098,
+    "city": "Chillicothe",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hardeman"
+  },
+  {
+    "zip_code": 79226,
+    "latitude": 34.968107,
+    "longitude": -100.891655,
+    "city": "Clarendon",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Donley"
+  },
+  {
+    "zip_code": 79227,
+    "latitude": 33.968163,
+    "longitude": -99.641288,
+    "city": "Crowell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Foard"
+  },
+  {
+    "zip_code": 79229,
+    "latitude": 33.62196,
+    "longitude": -100.841745,
+    "city": "Dickens",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dickens"
+  },
+  {
+    "zip_code": 79230,
+    "latitude": 34.765663,
+    "longitude": -100.021258,
+    "city": "Dodson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Collingsworth"
+  },
+  {
+    "zip_code": 79231,
+    "latitude": 34.071514,
+    "longitude": -101.30313,
+    "city": "Dougherty",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 79232,
+    "latitude": 33.616572,
+    "longitude": -100.254835,
+    "city": "Dumont",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "King"
+  },
+  {
+    "zip_code": 79233,
+    "latitude": 34.530559,
+    "longitude": -100.681047,
+    "city": "Estelline",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 79234,
+    "latitude": 34.073908,
+    "longitude": -100.779551,
+    "city": "Flomot",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Motley"
+  },
+  {
+    "zip_code": 79235,
+    "latitude": 34.015814,
+    "longitude": -101.381126,
+    "city": "Floydada",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 79236,
+    "latitude": 33.616723,
+    "longitude": -100.254782,
+    "city": "Guthrie",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "King"
+  },
+  {
+    "zip_code": 79237,
+    "latitude": 34.869376,
+    "longitude": -100.658936,
+    "city": "Hedley",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Donley"
+  },
+  {
+    "zip_code": 79238,
+    "latitude": 34.529678,
+    "longitude": -100.207642,
+    "city": "Kirkland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Childress"
+  },
+  {
+    "zip_code": 79239,
+    "latitude": 34.672342,
+    "longitude": -100.696501,
+    "city": "Lakeview",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 79240,
+    "latitude": 34.965525,
+    "longitude": -100.814865,
+    "city": "Lelia Lake",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Donley"
+  },
+  {
+    "zip_code": 79241,
+    "latitude": 34.123072,
+    "longitude": -101.443848,
+    "city": "Lockney",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 79243,
+    "latitude": 33.616428,
+    "longitude": -100.779303,
+    "city": "Mcadoo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dickens"
+  },
+  {
+    "zip_code": 79244,
+    "latitude": 34.01165,
+    "longitude": -100.820926,
+    "city": "Matador",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Motley"
+  },
+  {
+    "zip_code": 79245,
+    "latitude": 34.730964,
+    "longitude": -100.539782,
+    "city": "Memphis",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 79247,
+    "latitude": 34.341985,
+    "longitude": -99.365767,
+    "city": "Odell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Wilbarger"
+  },
+  {
+    "zip_code": 79248,
+    "latitude": 34.02174,
+    "longitude": -100.298633,
+    "city": "Paducah",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cottle"
+  },
+  {
+    "zip_code": 79250,
+    "latitude": 33.86948,
+    "longitude": -101.596234,
+    "city": "Petersburg",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79251,
+    "latitude": 34.964812,
+    "longitude": -100.270689,
+    "city": "Quail",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Collingsworth"
+  },
+  {
+    "zip_code": 79252,
+    "latitude": 34.39086,
+    "longitude": -99.857216,
+    "city": "Quanah",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hardeman"
+  },
+  {
+    "zip_code": 79255,
+    "latitude": 34.380648,
+    "longitude": -101.087775,
+    "city": "Quitaque",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Briscoe"
+  },
+  {
+    "zip_code": 79256,
+    "latitude": 33.901277,
+    "longitude": -100.857208,
+    "city": "Roaring Springs",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Motley"
+  },
+  {
+    "zip_code": 79257,
+    "latitude": 34.471337,
+    "longitude": -101.30419,
+    "city": "Silverton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Briscoe"
+  },
+  {
+    "zip_code": 79258,
+    "latitude": 34.071514,
+    "longitude": -101.30313,
+    "city": "South Plains",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 79259,
+    "latitude": 34.529678,
+    "longitude": -100.207642,
+    "city": "Tell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Childress"
+  },
+  {
+    "zip_code": 79261,
+    "latitude": 34.394837,
+    "longitude": -100.892561,
+    "city": "Turkey",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 79311,
+    "latitude": 33.949361,
+    "longitude": -101.81782,
+    "city": "Abernathy",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 79312,
+    "latitude": 34.02831,
+    "longitude": -102.425378,
+    "city": "Amherst",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79313,
+    "latitude": 33.770506,
+    "longitude": -102.192713,
+    "city": "Anton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79314,
+    "latitude": 33.606603,
+    "longitude": -102.825745,
+    "city": "Bledsoe",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cochran"
+  },
+  {
+    "zip_code": 79316,
+    "latitude": 33.172013,
+    "longitude": -102.335299,
+    "city": "Brownfield",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Terry"
+  },
+  {
+    "zip_code": 79320,
+    "latitude": 33.929317,
+    "longitude": -102.688297,
+    "city": "Bula",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Bailey"
+  },
+  {
+    "zip_code": 79322,
+    "latitude": 33.616133,
+    "longitude": -101.306058,
+    "city": "Crosbyton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Crosby"
+  },
+  {
+    "zip_code": 79323,
+    "latitude": 33.005196,
+    "longitude": -102.851592,
+    "city": "Denver City",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Yoakum"
+  },
+  {
+    "zip_code": 79324,
+    "latitude": 33.868293,
+    "longitude": -102.764582,
+    "city": "Enochs",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Bailey"
+  },
+  {
+    "zip_code": 79325,
+    "latitude": 34.524376,
+    "longitude": -102.784569,
+    "city": "Farwell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Parmer"
+  },
+  {
+    "zip_code": 79326,
+    "latitude": 34.068938,
+    "longitude": -102.350649,
+    "city": "Fieldton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79329,
+    "latitude": 33.593715,
+    "longitude": -101.814803,
+    "city": "Idalou",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79330,
+    "latitude": 33.179123,
+    "longitude": -101.298004,
+    "city": "Justiceburg",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Garza"
+  },
+  {
+    "zip_code": 79331,
+    "latitude": 32.715593,
+    "longitude": -101.937544,
+    "city": "Lamesa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 79336,
+    "latitude": 33.606901,
+    "longitude": -102.345939,
+    "city": "Levelland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79338,
+    "latitude": 33.593213,
+    "longitude": -102.362709,
+    "city": "Levelland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79339,
+    "latitude": 34.063781,
+    "longitude": -102.413251,
+    "city": "Littlefield",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79342,
+    "latitude": 32.671468,
+    "longitude": -102.644589,
+    "city": "Loop",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gaines"
+  },
+  {
+    "zip_code": 79343,
+    "latitude": 33.621158,
+    "longitude": -101.300936,
+    "city": "Lorenzo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Crosby"
+  },
+  {
+    "zip_code": 79344,
+    "latitude": 33.863254,
+    "longitude": -102.955355,
+    "city": "Maple",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Bailey"
+  },
+  {
+    "zip_code": 79345,
+    "latitude": 33.340812,
+    "longitude": -102.208876,
+    "city": "Meadow",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Terry"
+  },
+  {
+    "zip_code": 79346,
+    "latitude": 33.667497,
+    "longitude": -102.690997,
+    "city": "Morton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cochran"
+  },
+  {
+    "zip_code": 79347,
+    "latitude": 34.092391,
+    "longitude": -102.829924,
+    "city": "Muleshoe",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Bailey"
+  },
+  {
+    "zip_code": 79350,
+    "latitude": 33.729589,
+    "longitude": -101.83551,
+    "city": "New Deal",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79351,
+    "latitude": 32.977027,
+    "longitude": -101.937148,
+    "city": "Odonnell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lynn"
+  },
+  {
+    "zip_code": 79353,
+    "latitude": 33.778988,
+    "longitude": -102.466624,
+    "city": "Pep",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79355,
+    "latitude": 33.149263,
+    "longitude": -102.834676,
+    "city": "Plains",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Yoakum"
+  },
+  {
+    "zip_code": 79356,
+    "latitude": 33.180889,
+    "longitude": -101.298072,
+    "city": "Post",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Garza"
+  },
+  {
+    "zip_code": 79357,
+    "latitude": 33.68513,
+    "longitude": -101.383596,
+    "city": "Ralls",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Crosby"
+  },
+  {
+    "zip_code": 79358,
+    "latitude": 33.451993,
+    "longitude": -102.285032,
+    "city": "Ropesville",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79359,
+    "latitude": 32.94248,
+    "longitude": -102.588484,
+    "city": "Seagraves",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gaines"
+  },
+  {
+    "zip_code": 79360,
+    "latitude": 32.671912,
+    "longitude": -102.805355,
+    "city": "Seminole",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Gaines"
+  },
+  {
+    "zip_code": 79363,
+    "latitude": 33.714072,
+    "longitude": -102.00946,
+    "city": "Shallowater",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79364,
+    "latitude": 33.553496,
+    "longitude": -101.809124,
+    "city": "Slaton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79366,
+    "latitude": 33.531329,
+    "longitude": -101.700776,
+    "city": "Ransom Canyon",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79367,
+    "latitude": 33.566955,
+    "longitude": -102.210086,
+    "city": "Smyer",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79369,
+    "latitude": 34.068938,
+    "longitude": -102.350649,
+    "city": "Spade",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79370,
+    "latitude": 33.471532,
+    "longitude": -100.802023,
+    "city": "Spur",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dickens"
+  },
+  {
+    "zip_code": 79371,
+    "latitude": 34.047934,
+    "longitude": -102.526312,
+    "city": "Sudan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lamb"
+  },
+  {
+    "zip_code": 79372,
+    "latitude": 33.494472,
+    "longitude": -102.438638,
+    "city": "Sundown",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79373,
+    "latitude": 33.178077,
+    "longitude": -101.816443,
+    "city": "Tahoka",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lynn"
+  },
+  {
+    "zip_code": 79376,
+    "latitude": 33.173518,
+    "longitude": -102.829456,
+    "city": "Tokio",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Yoakum"
+  },
+  {
+    "zip_code": 79377,
+    "latitude": 32.929753,
+    "longitude": -102.127798,
+    "city": "Welch",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 79378,
+    "latitude": 33.047275,
+    "longitude": -102.428171,
+    "city": "Wellman",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Terry"
+  },
+  {
+    "zip_code": 79379,
+    "latitude": 33.598837,
+    "longitude": -102.619882,
+    "city": "Whiteface",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Cochran"
+  },
+  {
+    "zip_code": 79380,
+    "latitude": 33.74566,
+    "longitude": -102.320586,
+    "city": "Whitharral",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hockley"
+  },
+  {
+    "zip_code": 79381,
+    "latitude": 33.318712,
+    "longitude": -101.725673,
+    "city": "Wilson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lynn"
+  },
+  {
+    "zip_code": 79382,
+    "latitude": 33.563121,
+    "longitude": -102.026405,
+    "city": "Wolfforth",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79383,
+    "latitude": 33.177231,
+    "longitude": -101.816432,
+    "city": "New Home",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lynn"
+  },
+  {
+    "zip_code": 79401,
+    "latitude": 33.607701,
+    "longitude": -101.842056,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79402,
+    "latitude": 33.592235,
+    "longitude": -101.851144,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79403,
+    "latitude": 33.582684,
+    "longitude": -101.835604,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79404,
+    "latitude": 33.562452,
+    "longitude": -101.821415,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79405,
+    "latitude": 33.578735,
+    "longitude": -101.850044,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79406,
+    "latitude": 33.604197,
+    "longitude": -101.894137,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79407,
+    "latitude": 33.555775,
+    "longitude": -101.989408,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79408,
+    "latitude": 33.565926,
+    "longitude": -101.92669,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79409,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79410,
+    "latitude": 33.572085,
+    "longitude": -101.896394,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79411,
+    "latitude": 33.570485,
+    "longitude": -101.862944,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79412,
+    "latitude": 33.528692,
+    "longitude": -101.931,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79413,
+    "latitude": 33.546285,
+    "longitude": -101.888794,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79414,
+    "latitude": 33.576284,
+    "longitude": -101.923415,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79415,
+    "latitude": 33.675714,
+    "longitude": -101.906553,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79416,
+    "latitude": 33.587073,
+    "longitude": -101.957394,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79423,
+    "latitude": 33.472975,
+    "longitude": -101.896714,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79424,
+    "latitude": 33.492483,
+    "longitude": -101.983125,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79430,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79452,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79453,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79457,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79464,
+    "latitude": 33.489623,
+    "longitude": -102.010895,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79490,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79491,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79493,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79499,
+    "latitude": 33.610018,
+    "longitude": -101.821292,
+    "city": "Lubbock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Lubbock"
+  },
+  {
+    "zip_code": 79501,
+    "latitude": 32.765623,
+    "longitude": -99.854766,
+    "city": "Anson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79502,
+    "latitude": 33.139647,
+    "longitude": -100.224966,
+    "city": "Aspermont",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Stonewall"
+  },
+  {
+    "zip_code": 79503,
+    "latitude": 32.749919,
+    "longitude": -99.783771,
+    "city": "Avoca",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79504,
+    "latitude": 32.322053,
+    "longitude": -99.335495,
+    "city": "Baird",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Callahan"
+  },
+  {
+    "zip_code": 79505,
+    "latitude": 33.599303,
+    "longitude": -99.884689,
+    "city": "Benjamin",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 79506,
+    "latitude": 32.175814,
+    "longitude": -100.289569,
+    "city": "Blackwell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Nolan"
+  },
+  {
+    "zip_code": 79508,
+    "latitude": 32.289413,
+    "longitude": -99.810319,
+    "city": "Buffalo Gap",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79510,
+    "latitude": 32.297559,
+    "longitude": -99.412891,
+    "city": "Clyde",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Callahan"
+  },
+  {
+    "zip_code": 79511,
+    "latitude": 32.299597,
+    "longitude": -101.343248,
+    "city": "Coahoma",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 79512,
+    "latitude": 32.340912,
+    "longitude": -100.900564,
+    "city": "Colorado City",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 79516,
+    "latitude": 32.747707,
+    "longitude": -100.9153,
+    "city": "Dunn",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79517,
+    "latitude": 32.853009,
+    "longitude": -101.103033,
+    "city": "Fluvanna",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79518,
+    "latitude": 33.336305,
+    "longitude": -100.774317,
+    "city": "Girard",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 79519,
+    "latitude": 32.058222,
+    "longitude": -99.686094,
+    "city": "Goldsboro",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Coleman"
+  },
+  {
+    "zip_code": 79520,
+    "latitude": 32.817535,
+    "longitude": -99.967329,
+    "city": "Hamlin",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79521,
+    "latitude": 33.207016,
+    "longitude": -99.717417,
+    "city": "Haskell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 79525,
+    "latitude": 32.642251,
+    "longitude": -99.923862,
+    "city": "Hawley",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79526,
+    "latitude": 32.666914,
+    "longitude": -100.789448,
+    "city": "Hermleigh",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79527,
+    "latitude": 32.646004,
+    "longitude": -101.030102,
+    "city": "Ira",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79528,
+    "latitude": 33.185031,
+    "longitude": -100.646103,
+    "city": "Jayton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 79529,
+    "latitude": 33.493579,
+    "longitude": -99.812671,
+    "city": "Knox City",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 79530,
+    "latitude": 32.128322,
+    "longitude": -99.823884,
+    "city": "Lawn",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79532,
+    "latitude": 32.378102,
+    "longitude": -100.759165,
+    "city": "Loraine",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 79533,
+    "latitude": 32.815151,
+    "longitude": -99.745175,
+    "city": "Lueders",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79534,
+    "latitude": 32.753257,
+    "longitude": -100.232805,
+    "city": "Mc Caulley",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Fisher"
+  },
+  {
+    "zip_code": 79535,
+    "latitude": 32.180499,
+    "longitude": -100.424987,
+    "city": "Maryneal",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Nolan"
+  },
+  {
+    "zip_code": 79536,
+    "latitude": 32.329643,
+    "longitude": -99.939593,
+    "city": "Merkel",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79537,
+    "latitude": 32.272581,
+    "longitude": -100.218794,
+    "city": "Nolan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Nolan"
+  },
+  {
+    "zip_code": 79538,
+    "latitude": 31.953707,
+    "longitude": -99.605724,
+    "city": "Novice",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Coleman"
+  },
+  {
+    "zip_code": 79539,
+    "latitude": 33.286038,
+    "longitude": -99.847301,
+    "city": "O Brien",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 79540,
+    "latitude": 33.178927,
+    "longitude": -100.254017,
+    "city": "Old Glory",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Stonewall"
+  },
+  {
+    "zip_code": 79541,
+    "latitude": 32.155364,
+    "longitude": -99.873296,
+    "city": "Ovalo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79543,
+    "latitude": 32.749277,
+    "longitude": -100.338798,
+    "city": "Roby",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Fisher"
+  },
+  {
+    "zip_code": 79544,
+    "latitude": 33.331926,
+    "longitude": -99.781154,
+    "city": "Rochester",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 79545,
+    "latitude": 32.384442,
+    "longitude": -100.572217,
+    "city": "Roscoe",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Nolan"
+  },
+  {
+    "zip_code": 79546,
+    "latitude": 32.837949,
+    "longitude": -100.489193,
+    "city": "Rotan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Fisher"
+  },
+  {
+    "zip_code": 79547,
+    "latitude": 33.181,
+    "longitude": -99.854024,
+    "city": "Rule",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 79548,
+    "latitude": 33.077086,
+    "longitude": -99.958978,
+    "city": "Rule",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 79549,
+    "latitude": 32.745073,
+    "longitude": -100.917479,
+    "city": "Snyder",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79550,
+    "latitude": 32.747707,
+    "longitude": -100.9153,
+    "city": "Snyder",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Scurry"
+  },
+  {
+    "zip_code": 79553,
+    "latitude": 32.869561,
+    "longitude": -99.808377,
+    "city": "Stamford",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 79556,
+    "latitude": 32.308289,
+    "longitude": -100.404514,
+    "city": "Sweetwater",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Nolan"
+  },
+  {
+    "zip_code": 79560,
+    "latitude": 32.708935,
+    "longitude": -100.234051,
+    "city": "Sylvester",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Fisher"
+  },
+  {
+    "zip_code": 79561,
+    "latitude": 32.472234,
+    "longitude": -100.065421,
+    "city": "Trent",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79562,
+    "latitude": 32.300287,
+    "longitude": -99.909752,
+    "city": "Tuscola",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79563,
+    "latitude": 32.432954,
+    "longitude": -99.924042,
+    "city": "Tye",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79565,
+    "latitude": 32.362705,
+    "longitude": -101.043022,
+    "city": "Westbrook",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 79566,
+    "latitude": 32.031119,
+    "longitude": -100.131927,
+    "city": "Wingate",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Runnels"
+  },
+  {
+    "zip_code": 79567,
+    "latitude": 31.951207,
+    "longitude": -99.955406,
+    "city": "Winters",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Runnels"
+  },
+  {
+    "zip_code": 79601,
+    "latitude": 32.344457,
+    "longitude": -99.80213,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79602,
+    "latitude": 32.342605,
+    "longitude": -99.694283,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79603,
+    "latitude": 32.418824,
+    "longitude": -99.880368,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79604,
+    "latitude": 32.428796,
+    "longitude": -99.795167,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79605,
+    "latitude": 32.370484,
+    "longitude": -99.814693,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79606,
+    "latitude": 32.303126,
+    "longitude": -99.908645,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79607,
+    "latitude": 32.427052,
+    "longitude": -99.745385,
+    "city": "Dyess Afb",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79608,
+    "latitude": 32.302132,
+    "longitude": -99.890737,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79697,
+    "latitude": 32.302132,
+    "longitude": -99.890737,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79698,
+    "latitude": 32.475074,
+    "longitude": -99.73484,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79699,
+    "latitude": 32.466474,
+    "longitude": -99.711665,
+    "city": "Abilene",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 79701,
+    "latitude": 31.861876,
+    "longitude": -102.091276,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79702,
+    "latitude": 31.963698,
+    "longitude": -102.080064,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79703,
+    "latitude": 31.973312,
+    "longitude": -102.134352,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79704,
+    "latitude": 31.869259,
+    "longitude": -102.031726,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79705,
+    "latitude": 32.046146,
+    "longitude": -102.073493,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79706,
+    "latitude": 31.881592,
+    "longitude": -102.01343,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79707,
+    "latitude": 32.008395,
+    "longitude": -102.185691,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79708,
+    "latitude": 31.869259,
+    "longitude": -102.031726,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79710,
+    "latitude": 31.869259,
+    "longitude": -102.031726,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79711,
+    "latitude": 31.869259,
+    "longitude": -102.031726,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79712,
+    "latitude": 31.869259,
+    "longitude": -102.031726,
+    "city": "Midland",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 79713,
+    "latitude": 32.527337,
+    "longitude": -101.715971,
+    "city": "Ackerly",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 79714,
+    "latitude": 32.370377,
+    "longitude": -102.523255,
+    "city": "Andrews",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Andrews"
+  },
+  {
+    "zip_code": 79718,
+    "latitude": 31.383297,
+    "longitude": -103.556598,
+    "city": "Balmorhea",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79719,
+    "latitude": 31.453665,
+    "longitude": -103.420615,
+    "city": "Barstow",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79720,
+    "latitude": 32.278703,
+    "longitude": -101.457761,
+    "city": "Big Spring",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 79721,
+    "latitude": 32.27328,
+    "longitude": -101.373968,
+    "city": "Big Spring",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 79730,
+    "latitude": 30.711984,
+    "longitude": -102.676783,
+    "city": "Coyanosa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79731,
+    "latitude": 31.500553,
+    "longitude": -102.347243,
+    "city": "Crane",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Crane"
+  },
+  {
+    "zip_code": 79733,
+    "latitude": 32.110537,
+    "longitude": -101.366949,
+    "city": "Forsan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 79734,
+    "latitude": 30.758682,
+    "longitude": -104.209994,
+    "city": "Fort Davis",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jeff Davis"
+  },
+  {
+    "zip_code": 79735,
+    "latitude": 30.886367,
+    "longitude": -102.890491,
+    "city": "Fort Stockton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79738,
+    "latitude": 32.743795,
+    "longitude": -101.432354,
+    "city": "Gail",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Borden"
+  },
+  {
+    "zip_code": 79739,
+    "latitude": 31.864331,
+    "longitude": -101.49375,
+    "city": "Garden City",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Glasscock"
+  },
+  {
+    "zip_code": 79740,
+    "latitude": 30.711984,
+    "longitude": -102.676783,
+    "city": "Girvin",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79741,
+    "latitude": 31.981472,
+    "longitude": -102.615727,
+    "city": "Goldsmith",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79742,
+    "latitude": 31.340332,
+    "longitude": -102.854027,
+    "city": "Grandfalls",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79743,
+    "latitude": 30.711984,
+    "longitude": -102.676783,
+    "city": "Imperial",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79744,
+    "latitude": 30.914993,
+    "longitude": -101.899569,
+    "city": "Iraan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79745,
+    "latitude": 31.808357,
+    "longitude": -103.1135,
+    "city": "Kermit",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Winkler"
+  },
+  {
+    "zip_code": 79748,
+    "latitude": 32.378209,
+    "longitude": -101.61263,
+    "city": "Knott",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 79749,
+    "latitude": 32.258885,
+    "longitude": -101.844195,
+    "city": "Lenorah",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 79752,
+    "latitude": 31.16157,
+    "longitude": -102.107279,
+    "city": "Mc Camey",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Upton"
+  },
+  {
+    "zip_code": 79754,
+    "latitude": 31.825466,
+    "longitude": -103.65528,
+    "city": "Mentone",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Loving"
+  },
+  {
+    "zip_code": 79755,
+    "latitude": 31.365814,
+    "longitude": -102.04652,
+    "city": "Midkiff",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Upton"
+  },
+  {
+    "zip_code": 79756,
+    "latitude": 31.548092,
+    "longitude": -102.943277,
+    "city": "Monahans",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79758,
+    "latitude": 32.028014,
+    "longitude": -102.340552,
+    "city": "Gardendale",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79759,
+    "latitude": 31.869142,
+    "longitude": -102.542944,
+    "city": "Notrees",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79760,
+    "latitude": 31.765163,
+    "longitude": -102.354346,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79761,
+    "latitude": 31.854178,
+    "longitude": -102.35022,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79762,
+    "latitude": 31.893906,
+    "longitude": -102.353839,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79763,
+    "latitude": 31.796965,
+    "longitude": -102.440113,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79764,
+    "latitude": 31.88967,
+    "longitude": -102.482783,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79765,
+    "latitude": 31.880682,
+    "longitude": -102.347889,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79766,
+    "latitude": 31.769701,
+    "longitude": -102.345518,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79768,
+    "latitude": 31.869142,
+    "longitude": -102.542944,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79769,
+    "latitude": 31.746572,
+    "longitude": -102.566993,
+    "city": "Odessa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79770,
+    "latitude": 31.383297,
+    "longitude": -103.556598,
+    "city": "Orla",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79772,
+    "latitude": 31.446678,
+    "longitude": -103.57906,
+    "city": "Pecos",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79776,
+    "latitude": 31.733396,
+    "longitude": -102.587906,
+    "city": "Penwell",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ector"
+  },
+  {
+    "zip_code": 79777,
+    "latitude": 31.538694,
+    "longitude": -103.126666,
+    "city": "Pyote",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79778,
+    "latitude": 31.226573,
+    "longitude": -101.944129,
+    "city": "Rankin",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Upton"
+  },
+  {
+    "zip_code": 79779,
+    "latitude": 31.459448,
+    "longitude": -103.188993,
+    "city": "Royalty",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79780,
+    "latitude": 31.383297,
+    "longitude": -103.556598,
+    "city": "Saragosa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79781,
+    "latitude": 30.711984,
+    "longitude": -102.676783,
+    "city": "Sheffield",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Pecos"
+  },
+  {
+    "zip_code": 79782,
+    "latitude": 32.200014,
+    "longitude": -101.823066,
+    "city": "Stanton",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 79783,
+    "latitude": 32.306026,
+    "longitude": -101.949963,
+    "city": "Tarzan",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 79785,
+    "latitude": 31.383297,
+    "longitude": -103.556598,
+    "city": "Toyah",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79786,
+    "latitude": 31.383297,
+    "longitude": -103.556598,
+    "city": "Toyahvale",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Reeves"
+  },
+  {
+    "zip_code": 79788,
+    "latitude": 31.569243,
+    "longitude": -103.006747,
+    "city": "Wickett",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Ward"
+  },
+  {
+    "zip_code": 79789,
+    "latitude": 31.755315,
+    "longitude": -103.155748,
+    "city": "Wink",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Winkler"
+  },
+  {
+    "zip_code": 79821,
+    "latitude": 31.725097,
+    "longitude": -106.359795,
+    "city": "Anthony",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79830,
+    "latitude": 30.357926,
+    "longitude": -103.66029,
+    "city": "Alpine",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79831,
+    "latitude": 30.436562,
+    "longitude": -103.70439,
+    "city": "Alpine",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79832,
+    "latitude": 30.363139,
+    "longitude": -103.653904,
+    "city": "Alpine",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79834,
+    "latitude": 29.818742,
+    "longitude": -103.060715,
+    "city": "Big Bend National Park",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79835,
+    "latitude": 31.907296,
+    "longitude": -106.596493,
+    "city": "Canutillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79836,
+    "latitude": 31.510446,
+    "longitude": -106.145329,
+    "city": "Clint",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79837,
+    "latitude": 31.958194,
+    "longitude": -105.201061,
+    "city": "Dell City",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hudspeth"
+  },
+  {
+    "zip_code": 79838,
+    "latitude": 31.519675,
+    "longitude": -106.20338,
+    "city": "Fabens",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79839,
+    "latitude": 31.315723,
+    "longitude": -105.452562,
+    "city": "Fort Hancock",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hudspeth"
+  },
+  {
+    "zip_code": 79842,
+    "latitude": 29.818742,
+    "longitude": -103.060715,
+    "city": "Marathon",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79843,
+    "latitude": 30.351902,
+    "longitude": -104.018475,
+    "city": "Marfa",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Presidio"
+  },
+  {
+    "zip_code": 79845,
+    "latitude": 29.572128,
+    "longitude": -104.372626,
+    "city": "Presidio",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Presidio"
+  },
+  {
+    "zip_code": 79846,
+    "latitude": 29.943719,
+    "longitude": -104.386683,
+    "city": "Redford",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Presidio"
+  },
+  {
+    "zip_code": 79847,
+    "latitude": 31.315723,
+    "longitude": -105.452562,
+    "city": "Salt Flat",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hudspeth"
+  },
+  {
+    "zip_code": 79848,
+    "latitude": 30.252946,
+    "longitude": -102.162882,
+    "city": "Sanderson",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Terrell"
+  },
+  {
+    "zip_code": 79849,
+    "latitude": 31.550844,
+    "longitude": -106.250732,
+    "city": "San Elizario",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79850,
+    "latitude": 29.943719,
+    "longitude": -104.386683,
+    "city": "Shafter",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Presidio"
+  },
+  {
+    "zip_code": 79851,
+    "latitude": 31.315723,
+    "longitude": -105.452562,
+    "city": "Sierra Blanca",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Hudspeth"
+  },
+  {
+    "zip_code": 79852,
+    "latitude": 29.818742,
+    "longitude": -103.060715,
+    "city": "Terlingua",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Brewster"
+  },
+  {
+    "zip_code": 79853,
+    "latitude": 31.440685,
+    "longitude": -106.076524,
+    "city": "Tornillo",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79854,
+    "latitude": 30.758682,
+    "longitude": -104.209994,
+    "city": "Valentine",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Jeff Davis"
+  },
+  {
+    "zip_code": 79855,
+    "latitude": 31.03912,
+    "longitude": -104.824473,
+    "city": "Van Horn",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "Culberson"
+  },
+  {
+    "zip_code": 79901,
+    "latitude": 31.763608,
+    "longitude": -106.484592,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79902,
+    "latitude": 31.879779,
+    "longitude": -106.544218,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79903,
+    "latitude": 31.786857,
+    "longitude": -106.445291,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79904,
+    "latitude": 31.868055,
+    "longitude": -106.44904,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79905,
+    "latitude": 31.767758,
+    "longitude": -106.438791,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79906,
+    "latitude": 31.809164,
+    "longitude": -106.424711,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79907,
+    "latitude": 31.71251,
+    "longitude": -106.328464,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79908,
+    "latitude": 31.826457,
+    "longitude": -106.385684,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79910,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79911,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79912,
+    "latitude": 31.897242,
+    "longitude": -106.564782,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79913,
+    "latitude": 31.93728,
+    "longitude": -106.572393,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79914,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79915,
+    "latitude": 31.746559,
+    "longitude": -106.372089,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79916,
+    "latitude": 31.744353,
+    "longitude": -106.287923,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79917,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79918,
+    "latitude": 31.831782,
+    "longitude": -106.390656,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79920,
+    "latitude": 31.821439,
+    "longitude": -106.461405,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79922,
+    "latitude": 31.802756,
+    "longitude": -106.545393,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79923,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79924,
+    "latitude": 31.87224,
+    "longitude": -106.502841,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79925,
+    "latitude": 31.773452,
+    "longitude": -106.37709,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79926,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79927,
+    "latitude": 31.660671,
+    "longitude": -106.176474,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79928,
+    "latitude": 31.678635,
+    "longitude": -106.115148,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79929,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79930,
+    "latitude": 31.809457,
+    "longitude": -106.464242,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79931,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79932,
+    "latitude": 31.877386,
+    "longitude": -106.607588,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79934,
+    "latitude": 31.963221,
+    "longitude": -106.39227,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79935,
+    "latitude": 31.770111,
+    "longitude": -106.331988,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79936,
+    "latitude": 31.711209,
+    "longitude": -106.243004,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79937,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79938,
+    "latitude": 31.849828,
+    "longitude": -106.3044,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79940,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79941,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79942,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79943,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79944,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79945,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79946,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79947,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79948,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79949,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79950,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79951,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79952,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79953,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79954,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79955,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79958,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79960,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79961,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79966,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79968,
+    "latitude": 31.770458,
+    "longitude": -106.504843,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79973,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79974,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79975,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79976,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79977,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79978,
+    "latitude": 31.799275,
+    "longitude": -106.382757,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79980,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79982,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79983,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79984,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79985,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79986,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79987,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79988,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79989,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79990,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79991,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79992,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79993,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79994,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79995,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79996,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79997,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79998,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 79999,
+    "latitude": 31.694842,
+    "longitude": -106.299987,
+    "city": "El Paso",
+    "state": "TX",
+    "full_state": "Texas",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80001,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80002,
+    "latitude": 39.827818,
+    "longitude": -105.109236,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80003,
+    "latitude": 39.835086,
+    "longitude": -105.105775,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80004,
+    "latitude": 39.814481,
+    "longitude": -105.128173,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80005,
+    "latitude": 39.857259,
+    "longitude": -105.12344,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80006,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80007,
+    "latitude": 39.863369,
+    "longitude": -105.172429,
+    "city": "Arvada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80010,
+    "latitude": 39.715287,
+    "longitude": -104.84748,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80011,
+    "latitude": 39.788286,
+    "longitude": -104.822765,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80012,
+    "latitude": 39.681201,
+    "longitude": -104.80973,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80013,
+    "latitude": 39.660654,
+    "longitude": -104.76275,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80014,
+    "latitude": 39.660437,
+    "longitude": -104.82933,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80015,
+    "latitude": 39.667429,
+    "longitude": -104.775265,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80016,
+    "latitude": 39.601172,
+    "longitude": -104.739428,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80017,
+    "latitude": 39.702142,
+    "longitude": -104.80667,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80018,
+    "latitude": 39.689487,
+    "longitude": -104.67982,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80019,
+    "latitude": 39.781442,
+    "longitude": -104.685374,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80020,
+    "latitude": 40.046064,
+    "longitude": -105.097151,
+    "city": "Broomfield",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80021,
+    "latitude": 39.885388,
+    "longitude": -105.11389,
+    "city": "Broomfield",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80022,
+    "latitude": 39.869835,
+    "longitude": -104.771527,
+    "city": "Commerce City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80024,
+    "latitude": 39.844501,
+    "longitude": -104.918783,
+    "city": "Dupont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80025,
+    "latitude": 39.93242,
+    "longitude": -105.287967,
+    "city": "Eldorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80026,
+    "latitude": 40.026334,
+    "longitude": -105.104899,
+    "city": "Lafayette",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80027,
+    "latitude": 39.980835,
+    "longitude": -105.269915,
+    "city": "Louisville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80028,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Louisville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80030,
+    "latitude": 39.872535,
+    "longitude": -105.034487,
+    "city": "Westminster",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80031,
+    "latitude": 39.87529,
+    "longitude": -105.034487,
+    "city": "Westminster",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80033,
+    "latitude": 39.776986,
+    "longitude": -105.108182,
+    "city": "Wheat Ridge",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80034,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Wheat Ridge",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80035,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Westminster",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80036,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Westminster",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80037,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Commerce City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80038,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Broomfield",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80040,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80041,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80042,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80044,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80045,
+    "latitude": 39.746736,
+    "longitude": -104.838361,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80046,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80047,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Aurora",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80101,
+    "latitude": 39.382335,
+    "longitude": -104.084781,
+    "city": "Agate",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80102,
+    "latitude": 39.869384,
+    "longitude": -104.458336,
+    "city": "Bennett",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80103,
+    "latitude": 39.652632,
+    "longitude": -104.162633,
+    "city": "Byers",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80104,
+    "latitude": 39.374779,
+    "longitude": -104.849988,
+    "city": "Castle Rock",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80105,
+    "latitude": 39.659461,
+    "longitude": -103.948538,
+    "city": "Deer Trail",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80106,
+    "latitude": 39.208967,
+    "longitude": -104.505121,
+    "city": "Elbert",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80107,
+    "latitude": 39.382844,
+    "longitude": -104.495911,
+    "city": "Elizabeth",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80110,
+    "latitude": 39.648958,
+    "longitude": -104.973852,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80111,
+    "latitude": 39.666811,
+    "longitude": -104.864703,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80112,
+    "latitude": 39.581238,
+    "longitude": -104.862194,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80116,
+    "latitude": 39.30403,
+    "longitude": -104.756722,
+    "city": "Franktown",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80117,
+    "latitude": 39.370254,
+    "longitude": -104.421214,
+    "city": "Kiowa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80118,
+    "latitude": 39.213354,
+    "longitude": -104.950189,
+    "city": "Larkspur",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80120,
+    "latitude": 39.597937,
+    "longitude": -105.010182,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80121,
+    "latitude": 39.612789,
+    "longitude": -104.88773,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80122,
+    "latitude": 39.582222,
+    "longitude": -104.955576,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80123,
+    "latitude": 39.620596,
+    "longitude": -105.090085,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80124,
+    "latitude": 39.529639,
+    "longitude": -104.906562,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80125,
+    "latitude": 39.495327,
+    "longitude": -105.05897,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80126,
+    "latitude": 39.54372,
+    "longitude": -104.969143,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80127,
+    "latitude": 39.544307,
+    "longitude": -105.153074,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80128,
+    "latitude": 39.591827,
+    "longitude": -105.083196,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80129,
+    "latitude": 39.546879,
+    "longitude": -105.011599,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80130,
+    "latitude": 39.528342,
+    "longitude": -104.923869,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80131,
+    "latitude": 39.347863,
+    "longitude": -104.994708,
+    "city": "Louviers",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80132,
+    "latitude": 39.086393,
+    "longitude": -104.807666,
+    "city": "Monument",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80133,
+    "latitude": 39.112138,
+    "longitude": -104.900328,
+    "city": "Palmer Lake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80134,
+    "latitude": 39.489472,
+    "longitude": -104.844731,
+    "city": "Parker",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80135,
+    "latitude": 39.311334,
+    "longitude": -105.067554,
+    "city": "Sedalia",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80136,
+    "latitude": 39.865547,
+    "longitude": -104.291682,
+    "city": "Strasburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80137,
+    "latitude": 39.796784,
+    "longitude": -104.630327,
+    "city": "Watkins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80138,
+    "latitude": 39.510214,
+    "longitude": -104.721607,
+    "city": "Parker",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80150,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80151,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80154,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80155,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Englewood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80160,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80161,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80162,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80163,
+    "latitude": 39.347863,
+    "longitude": -104.994708,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 80165,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80166,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Littleton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Arapahoe"
+  },
+  {
+    "zip_code": 80201,
+    "latitude": 39.726303,
+    "longitude": -104.856808,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80202,
+    "latitude": 39.760189,
+    "longitude": -104.996553,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80203,
+    "latitude": 39.729205,
+    "longitude": -104.970331,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80204,
+    "latitude": 39.720136,
+    "longitude": -105.021502,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80205,
+    "latitude": 39.760137,
+    "longitude": -104.967585,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80206,
+    "latitude": 39.730787,
+    "longitude": -104.953335,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80207,
+    "latitude": 39.713186,
+    "longitude": -104.903532,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80208,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80209,
+    "latitude": 39.707332,
+    "longitude": -104.964236,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80210,
+    "latitude": 39.701677,
+    "longitude": -104.964186,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80211,
+    "latitude": 39.765291,
+    "longitude": -105.018387,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80212,
+    "latitude": 39.768286,
+    "longitude": -105.049338,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80214,
+    "latitude": 39.743636,
+    "longitude": -105.064336,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80215,
+    "latitude": 39.743486,
+    "longitude": -105.100854,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80216,
+    "latitude": 39.777036,
+    "longitude": -104.942034,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80217,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80218,
+    "latitude": 39.720236,
+    "longitude": -104.968759,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80219,
+    "latitude": 39.695014,
+    "longitude": -105.034339,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80220,
+    "latitude": 39.732436,
+    "longitude": -104.910843,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80221,
+    "latitude": 39.838028,
+    "longitude": -104.998788,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80222,
+    "latitude": 39.709343,
+    "longitude": -104.924134,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80223,
+    "latitude": 39.707186,
+    "longitude": -105.008762,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80224,
+    "latitude": 39.702037,
+    "longitude": -104.911434,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80225,
+    "latitude": 39.69709,
+    "longitude": -105.12044,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80226,
+    "latitude": 39.712337,
+    "longitude": -105.091784,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80227,
+    "latitude": 39.667479,
+    "longitude": -105.067136,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80228,
+    "latitude": 39.688776,
+    "longitude": -105.156,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80229,
+    "latitude": 39.867098,
+    "longitude": -104.922688,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80230,
+    "latitude": 39.721848,
+    "longitude": -104.895093,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80231,
+    "latitude": 39.68493,
+    "longitude": -104.886785,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80232,
+    "latitude": 39.689487,
+    "longitude": -105.090779,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80233,
+    "latitude": 39.901534,
+    "longitude": -104.940683,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80234,
+    "latitude": 39.910774,
+    "longitude": -105.010886,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80235,
+    "latitude": 39.645837,
+    "longitude": -105.065003,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80236,
+    "latitude": 39.649837,
+    "longitude": -105.034988,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80237,
+    "latitude": 39.638537,
+    "longitude": -104.903984,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80238,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80239,
+    "latitude": 39.804398,
+    "longitude": -104.813919,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80241,
+    "latitude": 39.927421,
+    "longitude": -104.954833,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80243,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80244,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80246,
+    "latitude": 39.708637,
+    "longitude": -104.931234,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80248,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80249,
+    "latitude": 39.83776,
+    "longitude": -104.697674,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80250,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80251,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80252,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80254,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80255,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80256,
+    "latitude": 39.74739,
+    "longitude": -104.992842,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80257,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80259,
+    "latitude": 39.746239,
+    "longitude": -104.991334,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80260,
+    "latitude": 39.867235,
+    "longitude": -105.004125,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80261,
+    "latitude": 39.737929,
+    "longitude": -104.985036,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80262,
+    "latitude": 39.731038,
+    "longitude": -104.938391,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80263,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80264,
+    "latitude": 39.74259,
+    "longitude": -104.986292,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80265,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80266,
+    "latitude": 39.747179,
+    "longitude": -104.991511,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80270,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80271,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80273,
+    "latitude": 39.727293,
+    "longitude": -104.987535,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80274,
+    "latitude": 39.743934,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80275,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80279,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80280,
+    "latitude": 39.716675,
+    "longitude": -104.906942,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80281,
+    "latitude": 39.74394,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80285,
+    "latitude": "",
+    "longitude": "",
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80290,
+    "latitude": 39.743608,
+    "longitude": -104.987556,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80291,
+    "latitude": 39.74394,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80292,
+    "latitude": 39.74739,
+    "longitude": -104.992842,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80293,
+    "latitude": 39.745786,
+    "longitude": -104.990686,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80294,
+    "latitude": 39.749086,
+    "longitude": -104.989036,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80295,
+    "latitude": 39.745486,
+    "longitude": -104.986336,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80299,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80301,
+    "latitude": 40.094787,
+    "longitude": -105.278083,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80302,
+    "latitude": 40.063935,
+    "longitude": -105.390027,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80303,
+    "latitude": 40.067772,
+    "longitude": -105.27484,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80304,
+    "latitude": 40.114114,
+    "longitude": -105.369797,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80305,
+    "latitude": 39.976873,
+    "longitude": -105.248683,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80306,
+    "latitude": 40.102219,
+    "longitude": -105.384694,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80307,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80308,
+    "latitude": 40.027672,
+    "longitude": -105.3868,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80309,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80310,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80314,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80321,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80322,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80323,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80328,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80329,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Boulder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80401,
+    "latitude": 39.718539,
+    "longitude": -105.245659,
+    "city": "Golden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80402,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Golden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80403,
+    "latitude": 39.829821,
+    "longitude": -105.270395,
+    "city": "Golden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80419,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Golden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80420,
+    "latitude": 39.297972,
+    "longitude": -106.063548,
+    "city": "Alma",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80421,
+    "latitude": 39.203721,
+    "longitude": -105.747242,
+    "city": "Bailey",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80422,
+    "latitude": 39.81599,
+    "longitude": -105.475322,
+    "city": "Black Hawk",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gilpin"
+  },
+  {
+    "zip_code": 80423,
+    "latitude": 39.860356,
+    "longitude": -106.631246,
+    "city": "Bond",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 80424,
+    "latitude": 39.475323,
+    "longitude": -106.022472,
+    "city": "Breckenridge",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 80425,
+    "latitude": 39.332179,
+    "longitude": -105.254998,
+    "city": "Buffalo Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80426,
+    "latitude": 39.78361,
+    "longitude": -106.896452,
+    "city": "Burns",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 80427,
+    "latitude": 39.821626,
+    "longitude": -105.545631,
+    "city": "Central City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gilpin"
+  },
+  {
+    "zip_code": 80428,
+    "latitude": 40.730717,
+    "longitude": -106.913996,
+    "city": "Clark",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80429,
+    "latitude": 39.225758,
+    "longitude": -106.311697,
+    "city": "Climax",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 80430,
+    "latitude": 40.480364,
+    "longitude": -106.448221,
+    "city": "Coalmont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 80432,
+    "latitude": 39.158746,
+    "longitude": -105.816986,
+    "city": "Como",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80433,
+    "latitude": 39.473542,
+    "longitude": -105.284448,
+    "city": "Conifer",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80434,
+    "latitude": 40.663052,
+    "longitude": -106.362488,
+    "city": "Cowdrey",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 80435,
+    "latitude": 39.595212,
+    "longitude": -105.974117,
+    "city": "Dillon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 80436,
+    "latitude": 39.75315,
+    "longitude": -105.635592,
+    "city": "Dumont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Clear Creek"
+  },
+  {
+    "zip_code": 80437,
+    "latitude": 39.522014,
+    "longitude": -105.223945,
+    "city": "Evergreen",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80438,
+    "latitude": 39.76193,
+    "longitude": -105.665451,
+    "city": "Empire",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Clear Creek"
+  },
+  {
+    "zip_code": 80439,
+    "latitude": 39.629598,
+    "longitude": -105.326248,
+    "city": "Evergreen",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80440,
+    "latitude": 39.149,
+    "longitude": -105.885893,
+    "city": "Fairplay",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80442,
+    "latitude": 39.958523,
+    "longitude": -105.792637,
+    "city": "Fraser",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80443,
+    "latitude": 39.558929,
+    "longitude": -106.133183,
+    "city": "Frisco",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 80444,
+    "latitude": 39.725703,
+    "longitude": -105.760626,
+    "city": "Georgetown",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Clear Creek"
+  },
+  {
+    "zip_code": 80446,
+    "latitude": 40.073869,
+    "longitude": -105.928533,
+    "city": "Granby",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80447,
+    "latitude": 40.153982,
+    "longitude": -105.852209,
+    "city": "Grand Lake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80448,
+    "latitude": 39.461223,
+    "longitude": -105.658305,
+    "city": "Grant",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80449,
+    "latitude": 38.967262,
+    "longitude": -105.878811,
+    "city": "Hartsel",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80451,
+    "latitude": 40.071207,
+    "longitude": -106.069256,
+    "city": "Hot Sulphur Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80452,
+    "latitude": 39.706574,
+    "longitude": -105.541583,
+    "city": "Idaho Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Clear Creek"
+  },
+  {
+    "zip_code": 80453,
+    "latitude": 39.668426,
+    "longitude": -105.244245,
+    "city": "Idledale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80454,
+    "latitude": 39.654637,
+    "longitude": -105.248119,
+    "city": "Indian Hills",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80455,
+    "latitude": 40.101985,
+    "longitude": -105.423992,
+    "city": "Jamestown",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80456,
+    "latitude": 39.27593,
+    "longitude": -105.686535,
+    "city": "Jefferson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80457,
+    "latitude": 39.648137,
+    "longitude": -105.278194,
+    "city": "Kittredge",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80459,
+    "latitude": 40.147681,
+    "longitude": -106.378296,
+    "city": "Kremmling",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80461,
+    "latitude": 39.21753,
+    "longitude": -106.35833,
+    "city": "Leadville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 80463,
+    "latitude": 39.82712,
+    "longitude": -106.772151,
+    "city": "Mc Coy",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Eagle"
+  },
+  {
+    "zip_code": 80465,
+    "latitude": 39.610289,
+    "longitude": -105.201967,
+    "city": "Morrison",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80466,
+    "latitude": 40.000686,
+    "longitude": -105.495998,
+    "city": "Nederland",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80467,
+    "latitude": 40.323272,
+    "longitude": -106.944274,
+    "city": "Oak Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80468,
+    "latitude": 39.953932,
+    "longitude": -106.093005,
+    "city": "Parshall",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80469,
+    "latitude": 40.190711,
+    "longitude": -106.973513,
+    "city": "Phippsburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80470,
+    "latitude": 39.356599,
+    "longitude": -105.3136,
+    "city": "Pine",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 80471,
+    "latitude": 39.947386,
+    "longitude": -105.459269,
+    "city": "Pinecliffe",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80473,
+    "latitude": 40.466701,
+    "longitude": -106.185703,
+    "city": "Rand",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 80474,
+    "latitude": 39.883804,
+    "longitude": -105.5482,
+    "city": "Rollinsville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gilpin"
+  },
+  {
+    "zip_code": 80475,
+    "latitude": 39.439493,
+    "longitude": -105.602959,
+    "city": "Shawnee",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80476,
+    "latitude": 39.699631,
+    "longitude": -105.75074,
+    "city": "Silver Plume",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Clear Creek"
+  },
+  {
+    "zip_code": 80477,
+    "latitude": 40.348242,
+    "longitude": -106.92691,
+    "city": "Steamboat Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80478,
+    "latitude": 39.979743,
+    "longitude": -105.86148,
+    "city": "Tabernash",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80479,
+    "latitude": 40.067609,
+    "longitude": -106.851718,
+    "city": "Toponas",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80480,
+    "latitude": 40.678825,
+    "longitude": -106.249045,
+    "city": "Walden",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 80481,
+    "latitude": 40.055785,
+    "longitude": -105.472634,
+    "city": "Ward",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80482,
+    "latitude": 39.949118,
+    "longitude": -105.816439,
+    "city": "Winter Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Grand"
+  },
+  {
+    "zip_code": 80483,
+    "latitude": 40.130445,
+    "longitude": -106.911567,
+    "city": "Yampa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80487,
+    "latitude": 40.632683,
+    "longitude": -106.931827,
+    "city": "Steamboat Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80488,
+    "latitude": 40.619661,
+    "longitude": -106.860746,
+    "city": "Steamboat Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Routt"
+  },
+  {
+    "zip_code": 80497,
+    "latitude": 39.641146,
+    "longitude": -106.108002,
+    "city": "Silverthorne",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 80498,
+    "latitude": 39.764692,
+    "longitude": -106.221139,
+    "city": "Silverthorne",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 80501,
+    "latitude": 40.165634,
+    "longitude": -105.1633,
+    "city": "Longmont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80502,
+    "latitude": 40.087835,
+    "longitude": -105.373507,
+    "city": "Longmont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80503,
+    "latitude": 40.159043,
+    "longitude": -105.212558,
+    "city": "Longmont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80504,
+    "latitude": 40.129416,
+    "longitude": -104.970816,
+    "city": "Longmont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80510,
+    "latitude": 40.210184,
+    "longitude": -105.50795,
+    "city": "Allenspark",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80511,
+    "latitude": 40.628112,
+    "longitude": -105.569245,
+    "city": "Estes Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80512,
+    "latitude": 40.610729,
+    "longitude": -105.525784,
+    "city": "Bellvue",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80513,
+    "latitude": 40.530475,
+    "longitude": -105.321046,
+    "city": "Berthoud",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80514,
+    "latitude": 40.204344,
+    "longitude": -104.911938,
+    "city": "Dacono",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80515,
+    "latitude": 40.427541,
+    "longitude": -105.383062,
+    "city": "Drake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80516,
+    "latitude": 40.062204,
+    "longitude": -104.923481,
+    "city": "Erie",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80517,
+    "latitude": 40.370748,
+    "longitude": -105.323971,
+    "city": "Estes Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80520,
+    "latitude": 40.122477,
+    "longitude": -104.935838,
+    "city": "Firestone",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80521,
+    "latitude": 40.59227,
+    "longitude": -105.298344,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80522,
+    "latitude": 40.642907,
+    "longitude": -105.057005,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80523,
+    "latitude": 40.45553,
+    "longitude": -105.464832,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80524,
+    "latitude": 40.59889,
+    "longitude": -105.252751,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80525,
+    "latitude": 40.532277,
+    "longitude": -105.207073,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80526,
+    "latitude": 40.587553,
+    "longitude": -105.324268,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80527,
+    "latitude": 40.540565,
+    "longitude": -105.280009,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80528,
+    "latitude": 40.533726,
+    "longitude": -105.034077,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80530,
+    "latitude": 40.123557,
+    "longitude": -104.938057,
+    "city": "Frederick",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80532,
+    "latitude": 40.457758,
+    "longitude": -105.447005,
+    "city": "Glen Haven",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80533,
+    "latitude": 40.181515,
+    "longitude": -105.232695,
+    "city": "Hygiene",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80534,
+    "latitude": 40.320091,
+    "longitude": -104.867196,
+    "city": "Johnstown",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80535,
+    "latitude": 40.589014,
+    "longitude": -105.262822,
+    "city": "Laporte",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80536,
+    "latitude": 40.693564,
+    "longitude": -105.441688,
+    "city": "Livermore",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80537,
+    "latitude": 40.553704,
+    "longitude": -105.266415,
+    "city": "Loveland",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80538,
+    "latitude": 40.551116,
+    "longitude": -105.183385,
+    "city": "Loveland",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80539,
+    "latitude": 40.38636,
+    "longitude": -105.163377,
+    "city": "Loveland",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80540,
+    "latitude": 40.189788,
+    "longitude": -105.35528,
+    "city": "Lyons",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80541,
+    "latitude": 40.529278,
+    "longitude": -105.372014,
+    "city": "Masonville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80542,
+    "latitude": 40.327051,
+    "longitude": -104.893796,
+    "city": "Mead",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80543,
+    "latitude": 40.387381,
+    "longitude": -104.841349,
+    "city": "Milliken",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80544,
+    "latitude": 40.177043,
+    "longitude": -105.275045,
+    "city": "Niwot",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Boulder"
+  },
+  {
+    "zip_code": 80545,
+    "latitude": 40.610176,
+    "longitude": -105.638852,
+    "city": "Red Feather Lakes",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80546,
+    "latitude": 40.524987,
+    "longitude": -104.850544,
+    "city": "Severance",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80547,
+    "latitude": 40.708692,
+    "longitude": -105.017539,
+    "city": "Timnath",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80549,
+    "latitude": 40.795455,
+    "longitude": -105.085627,
+    "city": "Wellington",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80550,
+    "latitude": 40.307972,
+    "longitude": -104.942467,
+    "city": "Windsor",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80551,
+    "latitude": 40.464092,
+    "longitude": -104.885116,
+    "city": "Windsor",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80553,
+    "latitude": 40.628112,
+    "longitude": -105.569245,
+    "city": "Fort Collins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Larimer"
+  },
+  {
+    "zip_code": 80601,
+    "latitude": 39.942984,
+    "longitude": -104.786597,
+    "city": "Brighton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80602,
+    "latitude": 39.966162,
+    "longitude": -104.908888,
+    "city": "Brighton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80603,
+    "latitude": 39.951146,
+    "longitude": -104.660237,
+    "city": "Brighton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80610,
+    "latitude": 40.675794,
+    "longitude": -104.607073,
+    "city": "Ault",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80611,
+    "latitude": 40.443596,
+    "longitude": -104.240542,
+    "city": "Briggsdale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80612,
+    "latitude": 40.597204,
+    "longitude": -104.869798,
+    "city": "Carr",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80614,
+    "latitude": 39.80797,
+    "longitude": -104.407918,
+    "city": "Eastlake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80615,
+    "latitude": 40.350055,
+    "longitude": -104.660412,
+    "city": "Eaton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80620,
+    "latitude": 40.263453,
+    "longitude": -104.791285,
+    "city": "Evans",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80621,
+    "latitude": 40.363977,
+    "longitude": -104.650827,
+    "city": "Fort Lupton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80622,
+    "latitude": 40.536158,
+    "longitude": -104.500735,
+    "city": "Galeton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80623,
+    "latitude": 40.24938,
+    "longitude": -104.796889,
+    "city": "Gilcrest",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80624,
+    "latitude": 40.475572,
+    "longitude": -104.590607,
+    "city": "Gill",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80631,
+    "latitude": 40.384991,
+    "longitude": -104.680631,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80632,
+    "latitude": 40.376626,
+    "longitude": -104.762899,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80633,
+    "latitude": 40.500919,
+    "longitude": -104.31497,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80634,
+    "latitude": 40.281195,
+    "longitude": -104.796453,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80638,
+    "latitude": 40.500919,
+    "longitude": -104.31497,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80639,
+    "latitude": 40.399281,
+    "longitude": -104.70172,
+    "city": "Greeley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80640,
+    "latitude": 39.879235,
+    "longitude": -104.883581,
+    "city": "Henderson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 80642,
+    "latitude": 40.109353,
+    "longitude": -104.672306,
+    "city": "Hudson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80643,
+    "latitude": 40.085322,
+    "longitude": -104.506123,
+    "city": "Keenesburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80644,
+    "latitude": 40.47404,
+    "longitude": -104.472779,
+    "city": "Kersey",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80645,
+    "latitude": 40.328185,
+    "longitude": -104.665639,
+    "city": "La Salle",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80646,
+    "latitude": 40.48243,
+    "longitude": -104.70542,
+    "city": "Lucerne",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80648,
+    "latitude": 40.492804,
+    "longitude": -104.627586,
+    "city": "Nunn",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80649,
+    "latitude": 40.414728,
+    "longitude": -104.081667,
+    "city": "Orchard",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80650,
+    "latitude": 40.646551,
+    "longitude": -104.744575,
+    "city": "Pierce",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80651,
+    "latitude": 40.217382,
+    "longitude": -104.712141,
+    "city": "Platteville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80652,
+    "latitude": 40.087777,
+    "longitude": -104.281976,
+    "city": "Roggen",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80653,
+    "latitude": 40.382218,
+    "longitude": -103.974159,
+    "city": "Weldona",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80654,
+    "latitude": 40.159839,
+    "longitude": -104.046791,
+    "city": "Wiggins",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80701,
+    "latitude": 40.262591,
+    "longitude": -103.847648,
+    "city": "Fort Morgan",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80705,
+    "latitude": 40.270654,
+    "longitude": -103.833813,
+    "city": "Log Lane Village",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80720,
+    "latitude": 40.073328,
+    "longitude": -103.202379,
+    "city": "Akron",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80721,
+    "latitude": 40.608363,
+    "longitude": -102.3582,
+    "city": "Amherst",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 80722,
+    "latitude": 40.525066,
+    "longitude": -103.197305,
+    "city": "Atwood",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80723,
+    "latitude": 40.218547,
+    "longitude": -103.613248,
+    "city": "Brush",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80726,
+    "latitude": 40.8523,
+    "longitude": -103.074727,
+    "city": "Crook",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80727,
+    "latitude": 40.061126,
+    "longitude": -102.4803,
+    "city": "Eckley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80728,
+    "latitude": 40.598608,
+    "longitude": -102.874735,
+    "city": "Fleming",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80729,
+    "latitude": 40.820129,
+    "longitude": -104.168529,
+    "city": "Grover",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80731,
+    "latitude": 40.601383,
+    "longitude": -102.523842,
+    "city": "Haxtun",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 80732,
+    "latitude": 40.975104,
+    "longitude": -104.305265,
+    "city": "Hereford",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80733,
+    "latitude": 40.345863,
+    "longitude": -103.505721,
+    "city": "Hillrose",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80734,
+    "latitude": 40.587166,
+    "longitude": -102.272326,
+    "city": "Holyoke",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 80735,
+    "latitude": 39.816703,
+    "longitude": -102.426235,
+    "city": "Idalia",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80736,
+    "latitude": 40.784483,
+    "longitude": -102.960098,
+    "city": "Iliff",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80737,
+    "latitude": 40.875606,
+    "longitude": -102.351994,
+    "city": "Julesburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 80740,
+    "latitude": 39.790894,
+    "longitude": -103.414172,
+    "city": "Lindon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80741,
+    "latitude": 40.632075,
+    "longitude": -103.413883,
+    "city": "Merino",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80742,
+    "latitude": 40.736271,
+    "longitude": -103.878656,
+    "city": "New Raymer",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80743,
+    "latitude": 40.163025,
+    "longitude": -103.042516,
+    "city": "Otis",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80744,
+    "latitude": 40.875571,
+    "longitude": -102.358241,
+    "city": "Ovid",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 80745,
+    "latitude": 40.884156,
+    "longitude": -103.372814,
+    "city": "Padroni",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80746,
+    "latitude": 40.610554,
+    "longitude": -102.472203,
+    "city": "Paoli",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 80747,
+    "latitude": 40.825442,
+    "longitude": -103.16182,
+    "city": "Peetz",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80749,
+    "latitude": 40.875703,
+    "longitude": -102.44023,
+    "city": "Sedgwick",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 80750,
+    "latitude": 40.415193,
+    "longitude": -103.610575,
+    "city": "Snyder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 80751,
+    "latitude": 40.715081,
+    "longitude": -103.211191,
+    "city": "Sterling",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 80754,
+    "latitude": 40.735758,
+    "longitude": -103.997391,
+    "city": "Stoneham",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Weld"
+  },
+  {
+    "zip_code": 80755,
+    "latitude": 39.812149,
+    "longitude": -102.434252,
+    "city": "Vernon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80757,
+    "latitude": 39.804985,
+    "longitude": -103.57521,
+    "city": "Woodrow",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80758,
+    "latitude": 40.068525,
+    "longitude": -102.392973,
+    "city": "Wray",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80759,
+    "latitude": 40.061817,
+    "longitude": -102.618522,
+    "city": "Yuma",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80801,
+    "latitude": 39.690908,
+    "longitude": -103.137281,
+    "city": "Anton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80802,
+    "latitude": 38.847485,
+    "longitude": -102.524932,
+    "city": "Arapahoe",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 80804,
+    "latitude": 39.316461,
+    "longitude": -103.323143,
+    "city": "Arriba",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80805,
+    "latitude": 39.293345,
+    "longitude": -102.433217,
+    "city": "Bethune",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80807,
+    "latitude": 39.308966,
+    "longitude": -102.461287,
+    "city": "Burlington",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80808,
+    "latitude": 38.94043,
+    "longitude": -104.282512,
+    "city": "Calhan",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80809,
+    "latitude": 38.945534,
+    "longitude": -104.994972,
+    "city": "Cascade",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80810,
+    "latitude": 38.827259,
+    "longitude": -102.411537,
+    "city": "Cheyenne Wells",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 80812,
+    "latitude": 39.684772,
+    "longitude": -102.99038,
+    "city": "Cope",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 80813,
+    "latitude": 38.826084,
+    "longitude": -105.149874,
+    "city": "Cripple Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80814,
+    "latitude": 38.923901,
+    "longitude": -105.185653,
+    "city": "Divide",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80815,
+    "latitude": 39.32513,
+    "longitude": -102.783284,
+    "city": "Flagler",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80816,
+    "latitude": 38.855231,
+    "longitude": -105.190895,
+    "city": "Florissant",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80817,
+    "latitude": 38.663856,
+    "longitude": -104.652221,
+    "city": "Fountain",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80818,
+    "latitude": 39.348432,
+    "longitude": -103.49065,
+    "city": "Genoa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80819,
+    "latitude": 38.93893,
+    "longitude": -105.009444,
+    "city": "Green Mountain Falls",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80820,
+    "latitude": 38.835374,
+    "longitude": -105.562124,
+    "city": "Guffey",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80821,
+    "latitude": 39.022942,
+    "longitude": -103.457864,
+    "city": "Hugo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80822,
+    "latitude": 39.959546,
+    "longitude": -102.500066,
+    "city": "Joes",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80823,
+    "latitude": 38.806509,
+    "longitude": -103.474701,
+    "city": "Karval",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80824,
+    "latitude": 39.664421,
+    "longitude": -102.546469,
+    "city": "Kirk",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Yuma"
+  },
+  {
+    "zip_code": 80825,
+    "latitude": 38.827174,
+    "longitude": -102.598136,
+    "city": "Kit Carson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 80826,
+    "latitude": 39.041435,
+    "longitude": -103.604851,
+    "city": "Limon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80827,
+    "latitude": 38.980056,
+    "longitude": -105.514472,
+    "city": "Lake George",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Park"
+  },
+  {
+    "zip_code": 80828,
+    "latitude": 39.31654,
+    "longitude": -103.588908,
+    "city": "Limon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 80829,
+    "latitude": 38.853366,
+    "longitude": -104.927452,
+    "city": "Manitou Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80830,
+    "latitude": 39.114381,
+    "longitude": -103.900144,
+    "city": "Matheson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80831,
+    "latitude": 38.984206,
+    "longitude": -104.526328,
+    "city": "Peyton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80832,
+    "latitude": 39.035064,
+    "longitude": -104.163326,
+    "city": "Ramah",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80833,
+    "latitude": 38.818756,
+    "longitude": -104.117904,
+    "city": "Rush",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80834,
+    "latitude": 39.322355,
+    "longitude": -102.881192,
+    "city": "Seibert",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80835,
+    "latitude": 39.208696,
+    "longitude": -104.070186,
+    "city": "Simla",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 80836,
+    "latitude": 39.304913,
+    "longitude": -102.67301,
+    "city": "Stratton",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80840,
+    "latitude": 38.979235,
+    "longitude": -104.860561,
+    "city": "U S A F Academy",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80841,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "U S A F Academy",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80860,
+    "latitude": 38.731005,
+    "longitude": -105.132073,
+    "city": "Victor",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80861,
+    "latitude": 39.311151,
+    "longitude": -102.74229,
+    "city": "Vona",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kit Carson"
+  },
+  {
+    "zip_code": 80862,
+    "latitude": 38.804111,
+    "longitude": -103.079761,
+    "city": "Wild Horse",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 80863,
+    "latitude": 38.918437,
+    "longitude": -105.166398,
+    "city": "Woodland Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80864,
+    "latitude": 38.738943,
+    "longitude": -104.193088,
+    "city": "Yoder",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80866,
+    "latitude": 39.03635,
+    "longitude": -105.15597,
+    "city": "Woodland Park",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Teller"
+  },
+  {
+    "zip_code": 80901,
+    "latitude": 38.861469,
+    "longitude": -104.857828,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80903,
+    "latitude": 38.828893,
+    "longitude": -104.809929,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80904,
+    "latitude": 38.861981,
+    "longitude": -104.874531,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80905,
+    "latitude": 38.844319,
+    "longitude": -104.801472,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80906,
+    "latitude": 38.796074,
+    "longitude": -104.841763,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80907,
+    "latitude": 38.943076,
+    "longitude": -104.81444,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80908,
+    "latitude": 39.020647,
+    "longitude": -104.705498,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80909,
+    "latitude": 38.838268,
+    "longitude": -104.85023,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80910,
+    "latitude": 38.804094,
+    "longitude": -104.772059,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80911,
+    "latitude": 38.922849,
+    "longitude": -104.789157,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80912,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80913,
+    "latitude": 38.729969,
+    "longitude": -104.753607,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80914,
+    "latitude": 38.819195,
+    "longitude": -104.701177,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80915,
+    "latitude": 38.874436,
+    "longitude": -104.751515,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80916,
+    "latitude": 38.81033,
+    "longitude": -104.718555,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80917,
+    "latitude": 38.82513,
+    "longitude": -104.746689,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80918,
+    "latitude": 38.90319,
+    "longitude": -104.807998,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80919,
+    "latitude": 38.938149,
+    "longitude": -104.917436,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80920,
+    "latitude": 38.965298,
+    "longitude": -104.755956,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80921,
+    "latitude": 39.055054,
+    "longitude": -104.89122,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80922,
+    "latitude": 38.904817,
+    "longitude": -104.70124,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80925,
+    "latitude": 38.737774,
+    "longitude": -104.645854,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80926,
+    "latitude": 38.644087,
+    "longitude": -104.880825,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80928,
+    "latitude": 38.645078,
+    "longitude": -104.395746,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80929,
+    "latitude": 38.846355,
+    "longitude": -104.624727,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80930,
+    "latitude": 38.824202,
+    "longitude": -104.493259,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80931,
+    "latitude": 38.953003,
+    "longitude": -104.60923,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80932,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80933,
+    "latitude": 38.939371,
+    "longitude": -105.011786,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80934,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80935,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80936,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80937,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80940,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80941,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80942,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80943,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80944,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80945,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80946,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80947,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80949,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80950,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80960,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80962,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80970,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80977,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80995,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 80997,
+    "latitude": 38.82469,
+    "longitude": -104.562027,
+    "city": "Colorado Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "El Paso"
+  },
+  {
+    "zip_code": 81001,
+    "latitude": 38.344117,
+    "longitude": -104.427776,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81002,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81003,
+    "latitude": 38.121031,
+    "longitude": -104.763851,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81004,
+    "latitude": 38.087325,
+    "longitude": -104.822451,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81005,
+    "latitude": 38.152191,
+    "longitude": -104.841328,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81006,
+    "latitude": 38.113259,
+    "longitude": -104.52127,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81007,
+    "latitude": 38.387004,
+    "longitude": -104.779156,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81008,
+    "latitude": 38.402934,
+    "longitude": -104.644423,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81009,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81010,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81011,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81012,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81013,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81014,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81015,
+    "latitude": 38.128626,
+    "longitude": -104.552299,
+    "city": "Pueblo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81019,
+    "latitude": 37.887346,
+    "longitude": -104.613617,
+    "city": "Colorado City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81020,
+    "latitude": 37.381577,
+    "longitude": -104.653809,
+    "city": "Aguilar",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81021,
+    "latitude": 38.430393,
+    "longitude": -103.366655,
+    "city": "Arlington",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 81022,
+    "latitude": 38.102502,
+    "longitude": -104.529794,
+    "city": "Avondale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81023,
+    "latitude": 38.127363,
+    "longitude": -104.63577,
+    "city": "Beulah",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81024,
+    "latitude": 37.208109,
+    "longitude": -104.719787,
+    "city": "Boncarbo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81025,
+    "latitude": 38.319575,
+    "longitude": -104.209119,
+    "city": "Boone",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81027,
+    "latitude": 37.232444,
+    "longitude": -103.722865,
+    "city": "Branson",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81029,
+    "latitude": 37.184434,
+    "longitude": -102.473938,
+    "city": "Campo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81030,
+    "latitude": 38.102941,
+    "longitude": -103.5367,
+    "city": "Cheraw",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81033,
+    "latitude": 38.229447,
+    "longitude": -103.804241,
+    "city": "Crowley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Crowley"
+  },
+  {
+    "zip_code": 81034,
+    "latitude": 38.317851,
+    "longitude": -103.779959,
+    "city": "Crowley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Crowley"
+  },
+  {
+    "zip_code": 81036,
+    "latitude": 38.440752,
+    "longitude": -102.554901,
+    "city": "Eads",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 81038,
+    "latitude": 37.955547,
+    "longitude": -103.072469,
+    "city": "Fort Lyon",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Bent"
+  },
+  {
+    "zip_code": 81039,
+    "latitude": 37.98146,
+    "longitude": -103.967799,
+    "city": "Fowler",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81040,
+    "latitude": 37.787772,
+    "longitude": -105.18487,
+    "city": "Gardner",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Huerfano"
+  },
+  {
+    "zip_code": 81041,
+    "latitude": 37.870309,
+    "longitude": -102.367626,
+    "city": "Granada",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Prowers"
+  },
+  {
+    "zip_code": 81042,
+    "latitude": 37.315263,
+    "longitude": -104.73461,
+    "city": "Gulnare",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81043,
+    "latitude": 38.119522,
+    "longitude": -102.216833,
+    "city": "Hartman",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Prowers"
+  },
+  {
+    "zip_code": 81044,
+    "latitude": 37.959036,
+    "longitude": -103.015041,
+    "city": "Hasty",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Bent"
+  },
+  {
+    "zip_code": 81045,
+    "latitude": 38.440077,
+    "longitude": -103.130677,
+    "city": "Haswell",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 81046,
+    "latitude": 37.279584,
+    "longitude": -104.358375,
+    "city": "Hoehne",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81047,
+    "latitude": 37.956511,
+    "longitude": -102.335202,
+    "city": "Holly",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Prowers"
+  },
+  {
+    "zip_code": 81049,
+    "latitude": 37.33276,
+    "longitude": -103.373586,
+    "city": "Kim",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81050,
+    "latitude": 37.954619,
+    "longitude": -103.664437,
+    "city": "La Junta",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81052,
+    "latitude": 37.955488,
+    "longitude": -102.436416,
+    "city": "Lamar",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Prowers"
+  },
+  {
+    "zip_code": 81054,
+    "latitude": 37.923031,
+    "longitude": -103.088444,
+    "city": "Las Animas",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Bent"
+  },
+  {
+    "zip_code": 81055,
+    "latitude": 37.511672,
+    "longitude": -105.057545,
+    "city": "La Veta",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Huerfano"
+  },
+  {
+    "zip_code": 81057,
+    "latitude": 38.085032,
+    "longitude": -102.88691,
+    "city": "Mc Clave",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Bent"
+  },
+  {
+    "zip_code": 81058,
+    "latitude": 38.082793,
+    "longitude": -103.885189,
+    "city": "Manzanola",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81059,
+    "latitude": 37.519198,
+    "longitude": -104.223007,
+    "city": "Model",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81062,
+    "latitude": 38.327723,
+    "longitude": -103.953208,
+    "city": "Olney Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Crowley"
+  },
+  {
+    "zip_code": 81063,
+    "latitude": 38.317486,
+    "longitude": -103.780036,
+    "city": "Ordway",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Crowley"
+  },
+  {
+    "zip_code": 81064,
+    "latitude": 37.272262,
+    "longitude": -102.914489,
+    "city": "Pritchett",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81066,
+    "latitude": 37.712093,
+    "longitude": -105.344931,
+    "city": "Walsenburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Huerfano"
+  },
+  {
+    "zip_code": 81067,
+    "latitude": 37.995867,
+    "longitude": -103.708332,
+    "city": "Rocky Ford",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81069,
+    "latitude": 37.936061,
+    "longitude": -104.874843,
+    "city": "Rye",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Pueblo"
+  },
+  {
+    "zip_code": 81071,
+    "latitude": 38.441431,
+    "longitude": -102.604797,
+    "city": "Sheridan Lake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 81073,
+    "latitude": 37.371522,
+    "longitude": -102.677359,
+    "city": "Springfield",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81074,
+    "latitude": 37.121029,
+    "longitude": -104.523155,
+    "city": "Starkville",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81076,
+    "latitude": 38.315371,
+    "longitude": -103.599555,
+    "city": "Sugar City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Crowley"
+  },
+  {
+    "zip_code": 81077,
+    "latitude": 38.054962,
+    "longitude": -103.619493,
+    "city": "Swink",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Otero"
+  },
+  {
+    "zip_code": 81081,
+    "latitude": 37.0999,
+    "longitude": -104.132767,
+    "city": "Trinchera",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81082,
+    "latitude": 37.269059,
+    "longitude": -104.5038,
+    "city": "Trinidad",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81084,
+    "latitude": 37.521432,
+    "longitude": -102.433241,
+    "city": "Two Buttes",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81087,
+    "latitude": 37.33995,
+    "longitude": -102.491522,
+    "city": "Vilas",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81089,
+    "latitude": 37.646467,
+    "longitude": -104.779815,
+    "city": "Walsenburg",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Huerfano"
+  },
+  {
+    "zip_code": 81090,
+    "latitude": 37.368042,
+    "longitude": -102.265146,
+    "city": "Walsh",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Baca"
+  },
+  {
+    "zip_code": 81091,
+    "latitude": 37.190046,
+    "longitude": -104.795074,
+    "city": "Weston",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Las Animas"
+  },
+  {
+    "zip_code": 81092,
+    "latitude": 38.189902,
+    "longitude": -102.705397,
+    "city": "Wiley",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Prowers"
+  },
+  {
+    "zip_code": 81101,
+    "latitude": 37.479933,
+    "longitude": -105.790967,
+    "city": "Alamosa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Alamosa"
+  },
+  {
+    "zip_code": 81102,
+    "latitude": 37.476026,
+    "longitude": -105.881779,
+    "city": "Alamosa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Alamosa"
+  },
+  {
+    "zip_code": 81120,
+    "latitude": 37.135059,
+    "longitude": -106.190367,
+    "city": "Antonito",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81121,
+    "latitude": 37.109225,
+    "longitude": -107.31183,
+    "city": "Arboles",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Archuleta"
+  },
+  {
+    "zip_code": 81122,
+    "latitude": 37.292065,
+    "longitude": -107.736318,
+    "city": "Bayfield",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81123,
+    "latitude": 37.435812,
+    "longitude": -105.57348,
+    "city": "Blanca",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81124,
+    "latitude": 37.304205,
+    "longitude": -106.127935,
+    "city": "Capulin",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81125,
+    "latitude": 37.869875,
+    "longitude": -106.046711,
+    "city": "Center",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81126,
+    "latitude": 37.326735,
+    "longitude": -105.450502,
+    "city": "Chama",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81127,
+    "latitude": 37.250704,
+    "longitude": -107.321138,
+    "city": "Chimney Rock",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Archuleta"
+  },
+  {
+    "zip_code": 81128,
+    "latitude": 37.130148,
+    "longitude": -106.821686,
+    "city": "Chromo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Archuleta"
+  },
+  {
+    "zip_code": 81129,
+    "latitude": 37.101134,
+    "longitude": -106.02648,
+    "city": "Conejos",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81130,
+    "latitude": 37.761293,
+    "longitude": -106.981852,
+    "city": "Creede",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Mineral"
+  },
+  {
+    "zip_code": 81131,
+    "latitude": 37.953038,
+    "longitude": -105.68788,
+    "city": "Crestone",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81132,
+    "latitude": 37.644684,
+    "longitude": -106.407311,
+    "city": "Del Norte",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 81133,
+    "latitude": 37.403455,
+    "longitude": -105.415437,
+    "city": "Fort Garland",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81134,
+    "latitude": 37.092195,
+    "longitude": -105.530023,
+    "city": "Garcia",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81135,
+    "latitude": 37.615741,
+    "longitude": -106.375292,
+    "city": "Homelake",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 81136,
+    "latitude": 37.699184,
+    "longitude": -105.873616,
+    "city": "Hooper",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Alamosa"
+  },
+  {
+    "zip_code": 81137,
+    "latitude": 37.114844,
+    "longitude": -107.659745,
+    "city": "Ignacio",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "La Plata"
+  },
+  {
+    "zip_code": 81138,
+    "latitude": 37.197731,
+    "longitude": -105.429395,
+    "city": "Jaroso",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81140,
+    "latitude": 37.276566,
+    "longitude": -106.007989,
+    "city": "La Jara",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81141,
+    "latitude": 37.175463,
+    "longitude": -105.927841,
+    "city": "Manassa",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81143,
+    "latitude": 38.065284,
+    "longitude": -105.817955,
+    "city": "Moffat",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81144,
+    "latitude": 37.570515,
+    "longitude": -106.345624,
+    "city": "Monte Vista",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 81146,
+    "latitude": 37.631025,
+    "longitude": -105.773133,
+    "city": "Mosca",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Alamosa"
+  },
+  {
+    "zip_code": 81147,
+    "latitude": 37.202251,
+    "longitude": -107.12619,
+    "city": "Pagosa Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Archuleta"
+  },
+  {
+    "zip_code": 81148,
+    "latitude": 37.172101,
+    "longitude": -105.985811,
+    "city": "Romeo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81149,
+    "latitude": 38.181206,
+    "longitude": -106.351826,
+    "city": "Saguache",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81151,
+    "latitude": 37.255221,
+    "longitude": -105.848097,
+    "city": "Sanford",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Conejos"
+  },
+  {
+    "zip_code": 81152,
+    "latitude": 37.106599,
+    "longitude": -105.47813,
+    "city": "San Luis",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81153,
+    "latitude": 37.202995,
+    "longitude": -105.418718,
+    "city": "San Pablo",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Costilla"
+  },
+  {
+    "zip_code": 81154,
+    "latitude": 37.638307,
+    "longitude": -106.597775,
+    "city": "South Fork",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 81155,
+    "latitude": 38.306022,
+    "longitude": -106.046577,
+    "city": "Villa Grove",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Saguache"
+  },
+  {
+    "zip_code": 81157,
+    "latitude": 37.270438,
+    "longitude": -107.093153,
+    "city": "Pagosa Springs",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Archuleta"
+  },
+  {
+    "zip_code": 81201,
+    "latitude": 38.629119,
+    "longitude": -106.120582,
+    "city": "Salida",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81210,
+    "latitude": 38.820006,
+    "longitude": -106.660278,
+    "city": "Almont",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81211,
+    "latitude": 38.885032,
+    "longitude": -106.179938,
+    "city": "Buena Vista",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81212,
+    "latitude": 38.477727,
+    "longitude": -105.507603,
+    "city": "Canon City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81215,
+    "latitude": 38.477563,
+    "longitude": -105.476577,
+    "city": "Canon City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81220,
+    "latitude": 38.416326,
+    "longitude": -107.529303,
+    "city": "Cimarron",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Montrose"
+  },
+  {
+    "zip_code": 81221,
+    "latitude": 38.338919,
+    "longitude": -105.159722,
+    "city": "Coal Creek",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81222,
+    "latitude": 38.382377,
+    "longitude": -105.784315,
+    "city": "Coaldale",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81223,
+    "latitude": 38.439983,
+    "longitude": -105.49649,
+    "city": "Cotopaxi",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81224,
+    "latitude": 38.880713,
+    "longitude": -106.94868,
+    "city": "Crested Butte",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81225,
+    "latitude": 38.90056,
+    "longitude": -106.963148,
+    "city": "Crested Butte",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81226,
+    "latitude": 38.355202,
+    "longitude": -105.254782,
+    "city": "Florence",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81227,
+    "latitude": 38.545757,
+    "longitude": -106.243422,
+    "city": "Monarch",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81228,
+    "latitude": 39.030747,
+    "longitude": -106.256615,
+    "city": "Granite",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Chaffee"
+  },
+  {
+    "zip_code": 81230,
+    "latitude": 38.528323,
+    "longitude": -107.037294,
+    "city": "Gunnison",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81231,
+    "latitude": 38.702309,
+    "longitude": -106.940201,
+    "city": "Gunnison",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Gunnison"
+  },
+  {
+    "zip_code": 81232,
+    "latitude": 38.285533,
+    "longitude": -105.642451,
+    "city": "Hillside",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81233,
+    "latitude": 38.410012,
+    "longitude": -105.769848,
+    "city": "Howard",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Fremont"
+  },
+  {
+    "zip_code": 81235,
+    "latitude": 38.026256,
+    "longitude": -107.276581,
+    "city": "Lake City",
+    "state": "CO",
+    "full_state": "Colorado",
+    "county": "Hinsdale"
+  }
+]

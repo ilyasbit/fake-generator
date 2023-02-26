@@ -1,0 +1,8961 @@
+[
+  {
+    "zip_code": 33946,
+    "latitude": 26.879424,
+    "longitude": -82.266405,
+    "city": "Placida",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33947,
+    "latitude": 26.884228,
+    "longitude": -82.269126,
+    "city": "Rotonda West",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33948,
+    "latitude": 26.94099,
+    "longitude": -82.20688,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33949,
+    "latitude": 26.993904,
+    "longitude": -82.098418,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33950,
+    "latitude": 26.860103,
+    "longitude": -82.013411,
+    "city": "Punta Gorda",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33951,
+    "latitude": 26.970756,
+    "longitude": -81.984504,
+    "city": "Punta Gorda",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33952,
+    "latitude": 26.994048,
+    "longitude": -82.156128,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33953,
+    "latitude": 26.997956,
+    "longitude": -82.200524,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33954,
+    "latitude": 27.019741,
+    "longitude": -82.123194,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33955,
+    "latitude": 26.828631,
+    "longitude": -81.909078,
+    "city": "Punta Gorda",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33956,
+    "latitude": 26.575762,
+    "longitude": -82.107459,
+    "city": "Saint James City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33957,
+    "latitude": 26.458308,
+    "longitude": -82.100065,
+    "city": "Sanibel",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33960,
+    "latitude": 27.120281,
+    "longitude": -81.390945,
+    "city": "Venus",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Highlands"
+  },
+  {
+    "zip_code": 33965,
+    "latitude": 26.552895,
+    "longitude": -81.94861,
+    "city": "Fort Myers",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33970,
+    "latitude": 26.564718,
+    "longitude": -81.620778,
+    "city": "Lehigh Acres",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33971,
+    "latitude": 26.589408,
+    "longitude": -81.670757,
+    "city": "Lehigh Acres",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33972,
+    "latitude": 26.641661,
+    "longitude": -81.913575,
+    "city": "Lehigh Acres",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33975,
+    "latitude": 26.763312,
+    "longitude": -81.438833,
+    "city": "Labelle",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hendry"
+  },
+  {
+    "zip_code": 33980,
+    "latitude": 26.986122,
+    "longitude": -82.055747,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33981,
+    "latitude": 26.93457,
+    "longitude": -82.232398,
+    "city": "Port Charlotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33982,
+    "latitude": 26.959685,
+    "longitude": -81.819036,
+    "city": "Punta Gorda",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33983,
+    "latitude": 27.001845,
+    "longitude": -82.018382,
+    "city": "Punta Gorda",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 33990,
+    "latitude": 26.6265,
+    "longitude": -81.967657,
+    "city": "Cape Coral",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33991,
+    "latitude": 26.628091,
+    "longitude": -82.018158,
+    "city": "Cape Coral",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33993,
+    "latitude": 26.678619,
+    "longitude": -82.025384,
+    "city": "Cape Coral",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 33994,
+    "latitude": 26.552895,
+    "longitude": -81.94861,
+    "city": "Fort Myers",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 34002,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34003,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34009,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34020,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34021,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34022,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34023,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34024,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34025,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34030,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34031,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34032,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34033,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34034,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34035,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34036,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34037,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34038,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34039,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34040,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34041,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34042,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34050,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34051,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34053,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34054,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34055,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34058,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34060,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34071,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34077,
+    "latitude": "",
+    "longitude": "",
+    "city": "Apo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34078,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34079,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34086,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34090,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34091,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34092,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34093,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34095,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34098,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34099,
+    "latitude": "",
+    "longitude": "",
+    "city": "Fpo",
+    "state": "AA",
+    "county": ""
+  },
+  {
+    "zip_code": 34101,
+    "latitude": 25.855534,
+    "longitude": -81.38719,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34102,
+    "latitude": 26.133968,
+    "longitude": -81.795309,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34103,
+    "latitude": 26.191666,
+    "longitude": -81.803944,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34104,
+    "latitude": 26.178752,
+    "longitude": -81.745447,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34105,
+    "latitude": 26.193769,
+    "longitude": -81.763609,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34106,
+    "latitude": 26.14326,
+    "longitude": -81.389124,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34107,
+    "latitude": 26.14326,
+    "longitude": -81.389124,
+    "city": "Vanderbilt Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34108,
+    "latitude": 26.241595,
+    "longitude": -81.807056,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34109,
+    "latitude": 26.253416,
+    "longitude": -81.764364,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34110,
+    "latitude": 26.282328,
+    "longitude": -81.757284,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34112,
+    "latitude": 26.118429,
+    "longitude": -81.736052,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34113,
+    "latitude": 26.042638,
+    "longitude": -81.718172,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34114,
+    "latitude": 26.014314,
+    "longitude": -81.585552,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34116,
+    "latitude": 26.187256,
+    "longitude": -81.711048,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34117,
+    "latitude": 26.115558,
+    "longitude": -81.523853,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34119,
+    "latitude": 26.239288,
+    "longitude": -81.66871,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34120,
+    "latitude": 26.330438,
+    "longitude": -81.587104,
+    "city": "Naples",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34133,
+    "latitude": 26.552895,
+    "longitude": -81.94861,
+    "city": "Bonita Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 34134,
+    "latitude": 26.362566,
+    "longitude": -81.818279,
+    "city": "Bonita Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 34135,
+    "latitude": 26.377129,
+    "longitude": -81.733377,
+    "city": "Bonita Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 34136,
+    "latitude": 26.552895,
+    "longitude": -81.94861,
+    "city": "Bonita Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 34137,
+    "latitude": 26.14326,
+    "longitude": -81.389124,
+    "city": "Copeland",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34138,
+    "latitude": 25.836746,
+    "longitude": -81.121963,
+    "city": "Chokoloskee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34139,
+    "latitude": 25.856971,
+    "longitude": -81.377791,
+    "city": "Everglades City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34140,
+    "latitude": 26.14326,
+    "longitude": -81.389124,
+    "city": "Goodland",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34141,
+    "latitude": 25.873412,
+    "longitude": -81.159938,
+    "city": "Ochopee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34142,
+    "latitude": 26.18437,
+    "longitude": -81.415175,
+    "city": "Immokalee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34143,
+    "latitude": 26.464183,
+    "longitude": -81.504661,
+    "city": "Immokalee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34145,
+    "latitude": 25.938768,
+    "longitude": -81.696751,
+    "city": "Marco Island",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34146,
+    "latitude": 26.14326,
+    "longitude": -81.389124,
+    "city": "Marco Island",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Collier"
+  },
+  {
+    "zip_code": 34201,
+    "latitude": 27.404731,
+    "longitude": -82.470456,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34202,
+    "latitude": 27.471379,
+    "longitude": -82.37934,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34203,
+    "latitude": 27.454723,
+    "longitude": -82.535883,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34204,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34205,
+    "latitude": 27.466869,
+    "longitude": -82.456033,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34206,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34207,
+    "latitude": 27.439419,
+    "longitude": -82.577779,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34208,
+    "latitude": 27.467817,
+    "longitude": -82.512018,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34209,
+    "latitude": 27.475853,
+    "longitude": -82.616719,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34210,
+    "latitude": 27.473598,
+    "longitude": -82.660725,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34211,
+    "latitude": 27.454365,
+    "longitude": -82.383383,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34212,
+    "latitude": 27.493816,
+    "longitude": -82.406103,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34215,
+    "latitude": 27.471256,
+    "longitude": -82.682262,
+    "city": "Cortez",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34216,
+    "latitude": 27.529113,
+    "longitude": -82.731722,
+    "city": "Anna Maria",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34217,
+    "latitude": 27.485915,
+    "longitude": -82.710221,
+    "city": "Bradenton Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34218,
+    "latitude": 27.499515,
+    "longitude": -82.709871,
+    "city": "Holmes Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34219,
+    "latitude": 27.566457,
+    "longitude": -82.269458,
+    "city": "Parrish",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34220,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Palmetto",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34221,
+    "latitude": 27.577315,
+    "longitude": -82.516004,
+    "city": "Palmetto",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34222,
+    "latitude": 27.546332,
+    "longitude": -82.496732,
+    "city": "Ellenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34223,
+    "latitude": 27.143931,
+    "longitude": -82.404959,
+    "city": "Englewood",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34224,
+    "latitude": 27.064882,
+    "longitude": -82.400124,
+    "city": "Englewood",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34228,
+    "latitude": 27.357231,
+    "longitude": -82.443071,
+    "city": "Longboat Key",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34229,
+    "latitude": 27.213378,
+    "longitude": -82.488818,
+    "city": "Osprey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34230,
+    "latitude": 27.335023,
+    "longitude": -82.537169,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34231,
+    "latitude": 27.227589,
+    "longitude": -82.432111,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34232,
+    "latitude": 27.203872,
+    "longitude": -82.443249,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34233,
+    "latitude": 27.127372,
+    "longitude": -82.423776,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34234,
+    "latitude": 27.368769,
+    "longitude": -82.526768,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34235,
+    "latitude": 27.363072,
+    "longitude": -82.478376,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34236,
+    "latitude": 27.326863,
+    "longitude": -82.543319,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34237,
+    "latitude": 27.337173,
+    "longitude": -82.514176,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34238,
+    "latitude": 27.242689,
+    "longitude": -82.475145,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34239,
+    "latitude": 27.310774,
+    "longitude": -82.520868,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34240,
+    "latitude": 27.231941,
+    "longitude": -82.3504,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34241,
+    "latitude": 27.241077,
+    "longitude": -82.351349,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34242,
+    "latitude": 27.256626,
+    "longitude": -82.539819,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34243,
+    "latitude": 27.415606,
+    "longitude": -82.528065,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34250,
+    "latitude": 27.572236,
+    "longitude": -82.583168,
+    "city": "Terra Ceia",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34251,
+    "latitude": 27.372771,
+    "longitude": -82.225911,
+    "city": "Myakka City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34260,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Manasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34264,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Oneco",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34265,
+    "latitude": 27.186146,
+    "longitude": -81.809939,
+    "city": "Arcadia",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 34266,
+    "latitude": 27.186075,
+    "longitude": -81.866661,
+    "city": "Arcadia",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 34267,
+    "latitude": 27.186146,
+    "longitude": -81.809939,
+    "city": "Fort Ogden",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 34268,
+    "latitude": 27.203827,
+    "longitude": -81.864443,
+    "city": "Nocatee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 34269,
+    "latitude": 27.089943,
+    "longitude": -81.96148,
+    "city": "Arcadia",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "De Soto"
+  },
+  {
+    "zip_code": 34270,
+    "latitude": 27.405429,
+    "longitude": -82.543519,
+    "city": "Tallevast",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34272,
+    "latitude": 27.146963,
+    "longitude": -82.425512,
+    "city": "Laurel",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34274,
+    "latitude": 27.144031,
+    "longitude": -82.464468,
+    "city": "Nokomis",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34275,
+    "latitude": 27.229227,
+    "longitude": -82.459848,
+    "city": "Nokomis",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34276,
+    "latitude": 27.167521,
+    "longitude": -82.380967,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34277,
+    "latitude": 27.167521,
+    "longitude": -82.380967,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34278,
+    "latitude": 27.331628,
+    "longitude": -82.528488,
+    "city": "Sarasota",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34280,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34281,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34282,
+    "latitude": 27.427213,
+    "longitude": -82.438689,
+    "city": "Bradenton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Manatee"
+  },
+  {
+    "zip_code": 34284,
+    "latitude": 27.167521,
+    "longitude": -82.380967,
+    "city": "Venice",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34285,
+    "latitude": 27.09639,
+    "longitude": -82.433818,
+    "city": "Venice",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34286,
+    "latitude": 27.074755,
+    "longitude": -82.175602,
+    "city": "North Port",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34287,
+    "latitude": 27.189487,
+    "longitude": -82.334882,
+    "city": "North Port",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34288,
+    "latitude": 27.0536,
+    "longitude": -82.113335,
+    "city": "North Port",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34289,
+    "latitude": 27.088812,
+    "longitude": -82.139203,
+    "city": "North Port",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34292,
+    "latitude": 27.090034,
+    "longitude": -82.370028,
+    "city": "Venice",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34293,
+    "latitude": 27.060576,
+    "longitude": -82.352038,
+    "city": "Venice",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34295,
+    "latitude": 27.085985,
+    "longitude": -82.438918,
+    "city": "Englewood",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sarasota"
+  },
+  {
+    "zip_code": 34420,
+    "latitude": 29.101476,
+    "longitude": -82.044371,
+    "city": "Belleview",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34421,
+    "latitude": 29.240728,
+    "longitude": -82.087458,
+    "city": "Belleview",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34423,
+    "latitude": 28.867027,
+    "longitude": -82.572703,
+    "city": "Crystal River",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34428,
+    "latitude": 28.958393,
+    "longitude": -82.599279,
+    "city": "Crystal River",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34429,
+    "latitude": 28.904358,
+    "longitude": -82.596051,
+    "city": "Crystal River",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34430,
+    "latitude": 29.240728,
+    "longitude": -82.087458,
+    "city": "Dunnellon",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34431,
+    "latitude": 29.09481,
+    "longitude": -82.249223,
+    "city": "Dunnellon",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34432,
+    "latitude": 29.101529,
+    "longitude": -82.34129,
+    "city": "Dunnellon",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34433,
+    "latitude": 28.994902,
+    "longitude": -82.519629,
+    "city": "Dunnellon",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34434,
+    "latitude": 28.993778,
+    "longitude": -82.424132,
+    "city": "Dunnellon",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34436,
+    "latitude": 28.73035,
+    "longitude": -82.307734,
+    "city": "Floral City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34442,
+    "latitude": 28.922317,
+    "longitude": -82.390044,
+    "city": "Hernando",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34445,
+    "latitude": 28.948753,
+    "longitude": -82.406476,
+    "city": "Holder",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34446,
+    "latitude": 28.7508,
+    "longitude": -82.513889,
+    "city": "Homosassa",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34447,
+    "latitude": 28.804911,
+    "longitude": -82.574264,
+    "city": "Homosassa Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34448,
+    "latitude": 28.787963,
+    "longitude": -82.567981,
+    "city": "Homosassa",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34449,
+    "latitude": 29.095501,
+    "longitude": -82.656099,
+    "city": "Inglis",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Levy"
+  },
+  {
+    "zip_code": 34450,
+    "latitude": 28.834011,
+    "longitude": -82.282224,
+    "city": "Inverness",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34451,
+    "latitude": 28.803207,
+    "longitude": -82.32167,
+    "city": "Inverness",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34452,
+    "latitude": 28.777849,
+    "longitude": -82.360295,
+    "city": "Inverness",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34453,
+    "latitude": 28.872256,
+    "longitude": -82.345411,
+    "city": "Inverness",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34460,
+    "latitude": 28.859286,
+    "longitude": -82.508694,
+    "city": "Lecanto",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34461,
+    "latitude": 28.819711,
+    "longitude": -82.464061,
+    "city": "Lecanto",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34464,
+    "latitude": 28.859286,
+    "longitude": -82.508694,
+    "city": "Beverly Hills",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34465,
+    "latitude": 28.817853,
+    "longitude": -82.446209,
+    "city": "Beverly Hills",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34470,
+    "latitude": 29.238672,
+    "longitude": -82.169401,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34471,
+    "latitude": 29.160525,
+    "longitude": -81.942516,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34472,
+    "latitude": 29.125344,
+    "longitude": -82.008571,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34473,
+    "latitude": 29.113464,
+    "longitude": -82.195635,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34474,
+    "latitude": 29.150148,
+    "longitude": -82.137774,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34475,
+    "latitude": 29.154639,
+    "longitude": -82.304525,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34476,
+    "latitude": 29.115896,
+    "longitude": -82.242211,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34477,
+    "latitude": 29.240728,
+    "longitude": -82.087458,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34478,
+    "latitude": 29.187178,
+    "longitude": -82.112278,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34479,
+    "latitude": 29.178235,
+    "longitude": -82.02819,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34480,
+    "latitude": 29.180072,
+    "longitude": -82.03227,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34481,
+    "latitude": 29.128062,
+    "longitude": -82.297544,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34482,
+    "latitude": 29.261079,
+    "longitude": -82.219513,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34483,
+    "latitude": 29.240728,
+    "longitude": -82.087458,
+    "city": "Ocala",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34484,
+    "latitude": 28.905906,
+    "longitude": -82.061193,
+    "city": "Oxford",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 34487,
+    "latitude": 28.859286,
+    "longitude": -82.508694,
+    "city": "Homosassa",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Citrus"
+  },
+  {
+    "zip_code": 34488,
+    "latitude": 29.263549,
+    "longitude": -81.95316,
+    "city": "Silver Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34489,
+    "latitude": 29.215153,
+    "longitude": -82.097163,
+    "city": "Silver Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34491,
+    "latitude": 29.01123,
+    "longitude": -82.032463,
+    "city": "Summerfield",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34492,
+    "latitude": 28.99796,
+    "longitude": -82.016139,
+    "city": "Summerfield",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 34498,
+    "latitude": 29.030531,
+    "longitude": -82.719003,
+    "city": "Yankeetown",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Levy"
+  },
+  {
+    "zip_code": 34601,
+    "latitude": 28.586197,
+    "longitude": -82.395858,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34602,
+    "latitude": 28.509319,
+    "longitude": -82.295675,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34603,
+    "latitude": 28.564167,
+    "longitude": -82.416515,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34604,
+    "latitude": 28.477875,
+    "longitude": -82.432707,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34605,
+    "latitude": 28.505896,
+    "longitude": -82.422554,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34606,
+    "latitude": 28.496411,
+    "longitude": -82.40101,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34607,
+    "latitude": 28.504888,
+    "longitude": -82.625672,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34608,
+    "latitude": 28.483643,
+    "longitude": -82.542698,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34609,
+    "latitude": 28.494344,
+    "longitude": -82.450658,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34610,
+    "latitude": 28.377455,
+    "longitude": -82.524063,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34611,
+    "latitude": 28.564167,
+    "longitude": -82.416515,
+    "city": "Spring Hill",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34613,
+    "latitude": 28.604951,
+    "longitude": -82.531987,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34614,
+    "latitude": 28.627958,
+    "longitude": -82.536465,
+    "city": "Brooksville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34636,
+    "latitude": 28.65503,
+    "longitude": -82.267706,
+    "city": "Istachatta",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34639,
+    "latitude": 28.250774,
+    "longitude": -82.46263,
+    "city": "Land O Lakes",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34652,
+    "latitude": 28.239369,
+    "longitude": -82.736882,
+    "city": "New Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34653,
+    "latitude": 28.242508,
+    "longitude": -82.695536,
+    "city": "New Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34654,
+    "latitude": 28.296388,
+    "longitude": -82.617095,
+    "city": "New Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34655,
+    "latitude": 28.216016,
+    "longitude": -82.67162,
+    "city": "New Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34656,
+    "latitude": 28.324796,
+    "longitude": -82.481766,
+    "city": "New Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34660,
+    "latitude": 28.067043,
+    "longitude": -82.778424,
+    "city": "Ozona",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34661,
+    "latitude": 28.64364,
+    "longitude": -82.263836,
+    "city": "Nobleton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hernando"
+  },
+  {
+    "zip_code": 34667,
+    "latitude": 28.382489,
+    "longitude": -82.64803,
+    "city": "Hudson",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34668,
+    "latitude": 28.297976,
+    "longitude": -82.704101,
+    "city": "Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34669,
+    "latitude": 28.360086,
+    "longitude": -82.62074,
+    "city": "Hudson",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34673,
+    "latitude": 28.324796,
+    "longitude": -82.481766,
+    "city": "Port Richey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34674,
+    "latitude": 28.324796,
+    "longitude": -82.481766,
+    "city": "Hudson",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34677,
+    "latitude": 28.050324,
+    "longitude": -82.677379,
+    "city": "Oldsmar",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34679,
+    "latitude": 28.430213,
+    "longitude": -82.661555,
+    "city": "Aripeka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34680,
+    "latitude": 28.324796,
+    "longitude": -82.481766,
+    "city": "Elfers",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34681,
+    "latitude": 28.087401,
+    "longitude": -82.777683,
+    "city": "Crystal Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34682,
+    "latitude": 27.891809,
+    "longitude": -82.724763,
+    "city": "Palm Harbor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34683,
+    "latitude": 28.074144,
+    "longitude": -82.744889,
+    "city": "Palm Harbor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34684,
+    "latitude": 28.084797,
+    "longitude": -82.725257,
+    "city": "Palm Harbor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34685,
+    "latitude": 28.109717,
+    "longitude": -82.692882,
+    "city": "Palm Harbor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34688,
+    "latitude": 27.891809,
+    "longitude": -82.724763,
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34689,
+    "latitude": 28.092104,
+    "longitude": -82.732165,
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34690,
+    "latitude": 28.191434,
+    "longitude": -82.724448,
+    "city": "Holiday",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34691,
+    "latitude": 28.196394,
+    "longitude": -82.762191,
+    "city": "Holiday",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pasco"
+  },
+  {
+    "zip_code": 34695,
+    "latitude": 28.017645,
+    "longitude": -82.747692,
+    "city": "Safety Harbor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34697,
+    "latitude": 27.891809,
+    "longitude": -82.724763,
+    "city": "Dunedin",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34698,
+    "latitude": 28.010895,
+    "longitude": -82.773995,
+    "city": "Dunedin",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Pinellas"
+  },
+  {
+    "zip_code": 34705,
+    "latitude": 28.706723,
+    "longitude": -81.718455,
+    "city": "Astatula",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34711,
+    "latitude": 28.584025,
+    "longitude": -81.779423,
+    "city": "Clermont",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34712,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Clermont",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34713,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Clermont",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34729,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Ferndale",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34731,
+    "latitude": 28.863361,
+    "longitude": -81.905624,
+    "city": "Fruitland Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34734,
+    "latitude": 28.538407,
+    "longitude": -81.520774,
+    "city": "Gotha",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34736,
+    "latitude": 28.587996,
+    "longitude": -81.870269,
+    "city": "Groveland",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34737,
+    "latitude": 28.697081,
+    "longitude": -81.797564,
+    "city": "Howey In The Hills",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34739,
+    "latitude": 27.933215,
+    "longitude": -81.092447,
+    "city": "Kenansville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34740,
+    "latitude": 28.545385,
+    "longitude": -81.650667,
+    "city": "Killarney",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34741,
+    "latitude": 28.307138,
+    "longitude": -81.461385,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34742,
+    "latitude": 27.995287,
+    "longitude": -81.259332,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34743,
+    "latitude": 28.326039,
+    "longitude": -81.405894,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34744,
+    "latitude": 28.297638,
+    "longitude": -81.32402,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34745,
+    "latitude": 27.995287,
+    "longitude": -81.259332,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34746,
+    "latitude": 28.243011,
+    "longitude": -81.400997,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34747,
+    "latitude": 28.303738,
+    "longitude": -81.589782,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34748,
+    "latitude": 28.758895,
+    "longitude": -81.888695,
+    "city": "Leesburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34749,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Leesburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34753,
+    "latitude": 28.58299,
+    "longitude": -81.894119,
+    "city": "Mascotte",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34755,
+    "latitude": 28.578234,
+    "longitude": -81.831883,
+    "city": "Minneola",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34756,
+    "latitude": 28.581499,
+    "longitude": -81.685146,
+    "city": "Montverde",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34758,
+    "latitude": 28.203877,
+    "longitude": -81.487992,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34759,
+    "latitude": 28.094636,
+    "longitude": -81.498979,
+    "city": "Kissimmee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 34760,
+    "latitude": 28.550978,
+    "longitude": -81.621546,
+    "city": "Oakland",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34761,
+    "latitude": 28.569438,
+    "longitude": -81.530251,
+    "city": "Ocoee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34762,
+    "latitude": 28.74751,
+    "longitude": -81.895885,
+    "city": "Okahumpka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34769,
+    "latitude": 28.230351,
+    "longitude": -81.359092,
+    "city": "Saint Cloud",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34770,
+    "latitude": 27.995287,
+    "longitude": -81.259332,
+    "city": "Saint Cloud",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34771,
+    "latitude": 28.246439,
+    "longitude": -81.231589,
+    "city": "Saint Cloud",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34772,
+    "latitude": 28.172669,
+    "longitude": -81.26899,
+    "city": "Saint Cloud",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34773,
+    "latitude": 28.146663,
+    "longitude": -80.993806,
+    "city": "Saint Cloud",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 34777,
+    "latitude": 28.541579,
+    "longitude": -81.605846,
+    "city": "Winter Garden",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34778,
+    "latitude": 28.566338,
+    "longitude": -81.260818,
+    "city": "Winter Garden",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34785,
+    "latitude": 28.844473,
+    "longitude": -82.078342,
+    "city": "Wildwood",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 34786,
+    "latitude": 28.481031,
+    "longitude": -81.543979,
+    "city": "Windermere",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34787,
+    "latitude": 28.468581,
+    "longitude": -81.512343,
+    "city": "Winter Garden",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 34788,
+    "latitude": 28.888724,
+    "longitude": -81.782704,
+    "city": "Leesburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34789,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Leesburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34797,
+    "latitude": 28.712017,
+    "longitude": -81.808159,
+    "city": "Yalaha",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 34945,
+    "latitude": 27.412128,
+    "longitude": -80.534169,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34946,
+    "latitude": 27.511616,
+    "longitude": -80.364447,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34947,
+    "latitude": 27.445611,
+    "longitude": -80.387742,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34948,
+    "latitude": 27.382196,
+    "longitude": -80.409024,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34949,
+    "latitude": 27.456687,
+    "longitude": -80.285812,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34950,
+    "latitude": 27.448066,
+    "longitude": -80.333224,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34951,
+    "latitude": 27.513925,
+    "longitude": -80.457475,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34952,
+    "latitude": 27.312492,
+    "longitude": -80.313322,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34953,
+    "latitude": 27.257707,
+    "longitude": -80.380277,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34954,
+    "latitude": 27.382196,
+    "longitude": -80.409024,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34956,
+    "latitude": 27.106451,
+    "longitude": -80.45192,
+    "city": "Indiantown",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34957,
+    "latitude": 27.236473,
+    "longitude": -80.237943,
+    "city": "Jensen Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34958,
+    "latitude": 27.242402,
+    "longitude": -80.224613,
+    "city": "Jensen Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34972,
+    "latitude": 27.420316,
+    "longitude": -80.945361,
+    "city": "Okeechobee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Okeechobee"
+  },
+  {
+    "zip_code": 34973,
+    "latitude": 27.297631,
+    "longitude": -80.802656,
+    "city": "Okeechobee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Okeechobee"
+  },
+  {
+    "zip_code": 34974,
+    "latitude": 27.216626,
+    "longitude": -80.827757,
+    "city": "Okeechobee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Okeechobee"
+  },
+  {
+    "zip_code": 34979,
+    "latitude": 27.382196,
+    "longitude": -80.409024,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34981,
+    "latitude": 27.391213,
+    "longitude": -80.374042,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34982,
+    "latitude": 27.362859,
+    "longitude": -80.307717,
+    "city": "Fort Pierce",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34983,
+    "latitude": 27.347284,
+    "longitude": -80.347722,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34984,
+    "latitude": 27.251266,
+    "longitude": -80.345407,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34985,
+    "latitude": 27.382196,
+    "longitude": -80.409024,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34986,
+    "latitude": 27.333392,
+    "longitude": -80.397427,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34987,
+    "latitude": 27.29076,
+    "longitude": -80.484851,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34988,
+    "latitude": 27.386818,
+    "longitude": -80.503746,
+    "city": "Port Saint Lucie",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Lucie"
+  },
+  {
+    "zip_code": 34990,
+    "latitude": 27.111235,
+    "longitude": -80.419042,
+    "city": "Palm City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34991,
+    "latitude": 27.110182,
+    "longitude": -80.454196,
+    "city": "Palm City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34992,
+    "latitude": 27.110182,
+    "longitude": -80.454196,
+    "city": "Port Salerno",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34994,
+    "latitude": 27.189748,
+    "longitude": -80.254768,
+    "city": "Stuart",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34995,
+    "latitude": 27.17537,
+    "longitude": -80.241512,
+    "city": "Stuart",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34996,
+    "latitude": 27.205819,
+    "longitude": -80.195911,
+    "city": "Stuart",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 34997,
+    "latitude": 27.108081,
+    "longitude": -80.230818,
+    "city": "Stuart",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 35004,
+    "latitude": 33.603543,
+    "longitude": -86.466833,
+    "city": "Moody",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35005,
+    "latitude": 33.578097,
+    "longitude": -86.987228,
+    "city": "Adamsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35006,
+    "latitude": 33.437653,
+    "longitude": -87.207592,
+    "city": "Adger",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35007,
+    "latitude": 33.193415,
+    "longitude": -86.794377,
+    "city": "Alabaster",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35010,
+    "latitude": 32.930079,
+    "longitude": -85.805026,
+    "city": "Alexander City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tallapoosa"
+  },
+  {
+    "zip_code": 35011,
+    "latitude": 32.990191,
+    "longitude": -85.958001,
+    "city": "Alexander City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tallapoosa"
+  },
+  {
+    "zip_code": 35013,
+    "latitude": 33.922162,
+    "longitude": -86.449262,
+    "city": "Allgood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35014,
+    "latitude": 33.403969,
+    "longitude": -86.233878,
+    "city": "Alpine",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35015,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Alton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35016,
+    "latitude": 34.393855,
+    "longitude": -86.365403,
+    "city": "Arab",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35019,
+    "latitude": 34.265451,
+    "longitude": -86.712779,
+    "city": "Baileyton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35020,
+    "latitude": 33.441602,
+    "longitude": -86.88857,
+    "city": "Bessemer",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35021,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Bessemer",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35022,
+    "latitude": 33.352745,
+    "longitude": -86.968328,
+    "city": "Bessemer",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35023,
+    "latitude": 33.478989,
+    "longitude": -86.944763,
+    "city": "Bessemer",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35031,
+    "latitude": 34.091285,
+    "longitude": -86.559625,
+    "city": "Blountsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35032,
+    "latitude": 33.256886,
+    "longitude": -86.338572,
+    "city": "Bon Air",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35033,
+    "latitude": 33.957886,
+    "longitude": -87.003767,
+    "city": "Bremen",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35034,
+    "latitude": 32.989499,
+    "longitude": -87.220392,
+    "city": "Brent",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35035,
+    "latitude": 33.016616,
+    "longitude": -86.9598,
+    "city": "Brierfield",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35036,
+    "latitude": 33.63628,
+    "longitude": -86.916202,
+    "city": "Brookside",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35038,
+    "latitude": 33.804411,
+    "longitude": -87.202136,
+    "city": "Burnwell",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35040,
+    "latitude": 33.138832,
+    "longitude": -86.725315,
+    "city": "Calera",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35041,
+    "latitude": 33.64672,
+    "longitude": -86.931818,
+    "city": "Cardiff",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35042,
+    "latitude": 32.948233,
+    "longitude": -87.139316,
+    "city": "Centreville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35043,
+    "latitude": 33.298238,
+    "longitude": -86.656328,
+    "city": "Chelsea",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35044,
+    "latitude": 33.245885,
+    "longitude": -86.364148,
+    "city": "Childersburg",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35045,
+    "latitude": 32.856632,
+    "longitude": -86.652875,
+    "city": "Clanton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Chilton"
+  },
+  {
+    "zip_code": 35046,
+    "latitude": 32.886365,
+    "longitude": -86.648931,
+    "city": "Clanton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Chilton"
+  },
+  {
+    "zip_code": 35048,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Clay",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35049,
+    "latitude": 33.977816,
+    "longitude": -86.55985,
+    "city": "Cleveland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35051,
+    "latitude": 33.232849,
+    "longitude": -86.554849,
+    "city": "Columbiana",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35052,
+    "latitude": 33.589518,
+    "longitude": -86.392283,
+    "city": "Cook Springs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35053,
+    "latitude": 34.044614,
+    "longitude": -87.051404,
+    "city": "Crane Hill",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35054,
+    "latitude": 33.529643,
+    "longitude": -86.300691,
+    "city": "Cropwell",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35055,
+    "latitude": 34.111067,
+    "longitude": -86.853185,
+    "city": "Cullman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35056,
+    "latitude": 34.196448,
+    "longitude": -86.895226,
+    "city": "Cullman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35057,
+    "latitude": 34.087769,
+    "longitude": -86.944713,
+    "city": "Cullman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35058,
+    "latitude": 34.209766,
+    "longitude": -86.752029,
+    "city": "Cullman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35060,
+    "latitude": 33.558905,
+    "longitude": -86.929443,
+    "city": "Docena",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35061,
+    "latitude": 33.460807,
+    "longitude": -86.960864,
+    "city": "Dolomite",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35062,
+    "latitude": 33.735709,
+    "longitude": -87.054641,
+    "city": "Dora",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35063,
+    "latitude": 33.827269,
+    "longitude": -87.027469,
+    "city": "Empire",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35064,
+    "latitude": 33.475407,
+    "longitude": -86.925391,
+    "city": "Fairfield",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35068,
+    "latitude": 33.601739,
+    "longitude": -86.826491,
+    "city": "Fultondale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35070,
+    "latitude": 34.005773,
+    "longitude": -86.74995,
+    "city": "Garden City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35071,
+    "latitude": 33.70615,
+    "longitude": -86.848289,
+    "city": "Gardendale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35072,
+    "latitude": 33.058725,
+    "longitude": -86.079106,
+    "city": "Goodwater",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coosa"
+  },
+  {
+    "zip_code": 35073,
+    "latitude": 33.659545,
+    "longitude": -86.801693,
+    "city": "Graysville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35074,
+    "latitude": 33.202691,
+    "longitude": -87.118044,
+    "city": "Green Pond",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35077,
+    "latitude": 34.034276,
+    "longitude": -86.841753,
+    "city": "Hanceville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35078,
+    "latitude": 33.199274,
+    "longitude": -86.459291,
+    "city": "Harpersville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35079,
+    "latitude": 33.953352,
+    "longitude": -86.745469,
+    "city": "Hayden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35080,
+    "latitude": 33.266341,
+    "longitude": -86.901975,
+    "city": "Helena",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35082,
+    "latitude": 33.116229,
+    "longitude": -86.138624,
+    "city": "Hollins",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 35083,
+    "latitude": 34.152149,
+    "longitude": -86.791286,
+    "city": "Holly Pond",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35085,
+    "latitude": 32.970056,
+    "longitude": -86.734146,
+    "city": "Jemison",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Chilton"
+  },
+  {
+    "zip_code": 35087,
+    "latitude": 34.272537,
+    "longitude": -86.576125,
+    "city": "Joppa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35089,
+    "latitude": 32.934298,
+    "longitude": -86.095801,
+    "city": "Kellyton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coosa"
+  },
+  {
+    "zip_code": 35091,
+    "latitude": 33.769928,
+    "longitude": -86.800573,
+    "city": "Kimberly",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35094,
+    "latitude": 33.51828,
+    "longitude": -86.584472,
+    "city": "Leeds",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35096,
+    "latitude": 33.445821,
+    "longitude": -86.255605,
+    "city": "Lincoln",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35097,
+    "latitude": 33.904975,
+    "longitude": -86.626094,
+    "city": "Locust Fork",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35098,
+    "latitude": 34.137678,
+    "longitude": -87.026554,
+    "city": "Logan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35111,
+    "latitude": 33.299704,
+    "longitude": -87.048881,
+    "city": "Mc Calla",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35112,
+    "latitude": 33.695814,
+    "longitude": -86.46564,
+    "city": "Margaret",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35114,
+    "latitude": 33.337916,
+    "longitude": -86.733796,
+    "city": "Maylene",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35115,
+    "latitude": 33.136658,
+    "longitude": -86.883586,
+    "city": "Montevallo",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35116,
+    "latitude": 33.727106,
+    "longitude": -86.763967,
+    "city": "Morris",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35117,
+    "latitude": 33.637322,
+    "longitude": -86.875181,
+    "city": "Mount Olive",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35118,
+    "latitude": 33.536339,
+    "longitude": -87.051031,
+    "city": "Mulga",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35119,
+    "latitude": 33.650832,
+    "longitude": -86.769698,
+    "city": "New Castle",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35120,
+    "latitude": 33.657096,
+    "longitude": -86.38336,
+    "city": "Odenville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35121,
+    "latitude": 33.968171,
+    "longitude": -86.5535,
+    "city": "Oneonta",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35123,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Palmerdale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35124,
+    "latitude": 33.293157,
+    "longitude": -86.767961,
+    "city": "Pelham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35125,
+    "latitude": 33.592484,
+    "longitude": -86.325995,
+    "city": "Pell City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35126,
+    "latitude": 33.72988,
+    "longitude": -86.645081,
+    "city": "Pinson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35127,
+    "latitude": 33.549138,
+    "longitude": -86.884204,
+    "city": "Pleasant Grove",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35128,
+    "latitude": 33.587299,
+    "longitude": -86.336607,
+    "city": "Pell City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35130,
+    "latitude": 33.721814,
+    "longitude": -87.124359,
+    "city": "Quinton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35131,
+    "latitude": 33.715229,
+    "longitude": -86.24746,
+    "city": "Ragland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35133,
+    "latitude": 33.845846,
+    "longitude": -86.586724,
+    "city": "Remlap",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Blount"
+  },
+  {
+    "zip_code": 35135,
+    "latitude": 33.622079,
+    "longitude": -86.221589,
+    "city": "Riverside",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35136,
+    "latitude": 32.897085,
+    "longitude": -86.156068,
+    "city": "Rockford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coosa"
+  },
+  {
+    "zip_code": 35137,
+    "latitude": 33.206302,
+    "longitude": -86.781162,
+    "city": "Saginaw",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35139,
+    "latitude": 33.711096,
+    "longitude": -86.975856,
+    "city": "Sayre",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35142,
+    "latitude": 33.406869,
+    "longitude": -86.87347,
+    "city": "Shannon",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35143,
+    "latitude": 33.080188,
+    "longitude": -86.550392,
+    "city": "Shelby",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35144,
+    "latitude": 33.28241,
+    "longitude": -86.683891,
+    "city": "Siluria",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35146,
+    "latitude": 33.705871,
+    "longitude": -86.403202,
+    "city": "Springville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35147,
+    "latitude": 33.419068,
+    "longitude": -86.544426,
+    "city": "Sterrett",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35148,
+    "latitude": 33.757716,
+    "longitude": -87.0461,
+    "city": "Sumiton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35149,
+    "latitude": 33.272776,
+    "longitude": -86.204925,
+    "city": "Sycamore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35150,
+    "latitude": 33.316003,
+    "longitude": -86.228703,
+    "city": "Sylacauga",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35151,
+    "latitude": 33.175552,
+    "longitude": -86.357359,
+    "city": "Sylacauga",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35160,
+    "latitude": 33.387375,
+    "longitude": -86.144681,
+    "city": "Talladega",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35161,
+    "latitude": 33.420206,
+    "longitude": -86.102782,
+    "city": "Talladega",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 35171,
+    "latitude": 32.893156,
+    "longitude": -86.756368,
+    "city": "Thorsby",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Chilton"
+  },
+  {
+    "zip_code": 35172,
+    "latitude": 33.810179,
+    "longitude": -86.724855,
+    "city": "Trafford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35173,
+    "latitude": 33.646334,
+    "longitude": -86.58589,
+    "city": "Trussville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35175,
+    "latitude": 34.433986,
+    "longitude": -86.501338,
+    "city": "Union Grove",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35176,
+    "latitude": 33.464255,
+    "longitude": -86.509972,
+    "city": "Vandiver",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35178,
+    "latitude": 33.309634,
+    "longitude": -86.5613,
+    "city": "Vincent",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35179,
+    "latitude": 34.258747,
+    "longitude": -86.925471,
+    "city": "Vinemont",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cullman"
+  },
+  {
+    "zip_code": 35180,
+    "latitude": 33.790134,
+    "longitude": -86.829871,
+    "city": "Warrior",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35181,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Watson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35182,
+    "latitude": 33.706786,
+    "longitude": -86.256658,
+    "city": "Wattsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35183,
+    "latitude": 33.06767,
+    "longitude": -86.303403,
+    "city": "Weogufka",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coosa"
+  },
+  {
+    "zip_code": 35184,
+    "latitude": 33.102111,
+    "longitude": -87.141467,
+    "city": "West Blocton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35185,
+    "latitude": 33.335629,
+    "longitude": -86.543692,
+    "city": "Westover",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35186,
+    "latitude": 33.285635,
+    "longitude": -86.496647,
+    "city": "Wilsonville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35187,
+    "latitude": 33.08104,
+    "longitude": -86.879328,
+    "city": "Wilton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35188,
+    "latitude": 33.17994,
+    "longitude": -87.165935,
+    "city": "Woodstock",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 35201,
+    "latitude": 33.456412,
+    "longitude": -86.801904,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35202,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35203,
+    "latitude": 33.519204,
+    "longitude": -86.807889,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35204,
+    "latitude": 33.524455,
+    "longitude": -86.837898,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35205,
+    "latitude": 33.569398,
+    "longitude": -86.782584,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35206,
+    "latitude": 33.566137,
+    "longitude": -86.705192,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35207,
+    "latitude": 33.572576,
+    "longitude": -86.837341,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35208,
+    "latitude": 33.498055,
+    "longitude": -86.879941,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35209,
+    "latitude": 33.465336,
+    "longitude": -86.808213,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35210,
+    "latitude": 33.579661,
+    "longitude": -86.734969,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35211,
+    "latitude": 33.45717,
+    "longitude": -86.864909,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35212,
+    "latitude": 33.547803,
+    "longitude": -86.749538,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35213,
+    "latitude": 33.455408,
+    "longitude": -86.749588,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35214,
+    "latitude": 33.575142,
+    "longitude": -86.905859,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35215,
+    "latitude": 33.542055,
+    "longitude": -86.80604,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35216,
+    "latitude": 33.56014,
+    "longitude": -86.78134,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35217,
+    "latitude": 33.56076,
+    "longitude": -86.856553,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35218,
+    "latitude": 33.506305,
+    "longitude": -86.895191,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35219,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35220,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35221,
+    "latitude": 33.453807,
+    "longitude": -86.898341,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35222,
+    "latitude": 33.523204,
+    "longitude": -86.763788,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35223,
+    "latitude": 33.499513,
+    "longitude": -86.726838,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35224,
+    "latitude": 33.521455,
+    "longitude": -86.974735,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35225,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35226,
+    "latitude": 33.396723,
+    "longitude": -86.834563,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35228,
+    "latitude": 33.455807,
+    "longitude": -86.911841,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35229,
+    "latitude": 33.462856,
+    "longitude": -86.790389,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35230,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35231,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35232,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35233,
+    "latitude": 33.508205,
+    "longitude": -86.802339,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35234,
+    "latitude": 33.513505,
+    "longitude": -86.83244,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35235,
+    "latitude": 33.632816,
+    "longitude": -86.649293,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35236,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35237,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35238,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35240,
+    "latitude": 33.425892,
+    "longitude": -86.776926,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35242,
+    "latitude": 33.381339,
+    "longitude": -86.704571,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 35243,
+    "latitude": 33.445932,
+    "longitude": -86.750203,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35244,
+    "latitude": 33.351944,
+    "longitude": -86.949784,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35245,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35246,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35249,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35253,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35254,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35255,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35259,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35260,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35261,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35263,
+    "latitude": 33.522505,
+    "longitude": -86.80939,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35266,
+    "latitude": 33.372861,
+    "longitude": -86.853075,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35277,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35278,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35279,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35280,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35281,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35282,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35283,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35285,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35286,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35287,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35288,
+    "latitude": 33.445808,
+    "longitude": -86.928542,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35289,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35290,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35291,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35292,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35293,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35294,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35295,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35296,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35297,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35298,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35299,
+    "latitude": 33.544622,
+    "longitude": -86.929208,
+    "city": "Birmingham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 35401,
+    "latitude": 33.241899,
+    "longitude": -87.597599,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35402,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35403,
+    "latitude": 33.20445,
+    "longitude": -87.526953,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35404,
+    "latitude": 33.182563,
+    "longitude": -87.482744,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35405,
+    "latitude": 33.10407,
+    "longitude": -87.518144,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35406,
+    "latitude": 33.335596,
+    "longitude": -87.533495,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35407,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35440,
+    "latitude": 33.311014,
+    "longitude": -87.18975,
+    "city": "Abernant",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35441,
+    "latitude": 32.855347,
+    "longitude": -87.721868,
+    "city": "Akron",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 35442,
+    "latitude": 33.236962,
+    "longitude": -88.061517,
+    "city": "Aliceville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35443,
+    "latitude": 32.737366,
+    "longitude": -87.967724,
+    "city": "Boligee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 35444,
+    "latitude": 33.333139,
+    "longitude": -87.277818,
+    "city": "Brookwood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35446,
+    "latitude": 33.230568,
+    "longitude": -87.754733,
+    "city": "Buhl",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35447,
+    "latitude": 33.289682,
+    "longitude": -88.117113,
+    "city": "Carrollton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35448,
+    "latitude": 32.835692,
+    "longitude": -87.956884,
+    "city": "Clinton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 35449,
+    "latitude": 33.135876,
+    "longitude": -87.338369,
+    "city": "Coaling",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35452,
+    "latitude": 33.293358,
+    "longitude": -87.688789,
+    "city": "Coker",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35453,
+    "latitude": 33.18178,
+    "longitude": -87.383843,
+    "city": "Cottondale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35456,
+    "latitude": 33.072735,
+    "longitude": -87.432921,
+    "city": "Duncanville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35457,
+    "latitude": 33.294004,
+    "longitude": -87.776584,
+    "city": "Echola",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35458,
+    "latitude": 33.367757,
+    "longitude": -87.801689,
+    "city": "Elrod",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35459,
+    "latitude": 32.621168,
+    "longitude": -88.285932,
+    "city": "Emelle",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 35460,
+    "latitude": 32.672049,
+    "longitude": -88.120605,
+    "city": "Epes",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 35461,
+    "latitude": 33.413277,
+    "longitude": -88.209276,
+    "city": "Ethelsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35462,
+    "latitude": 32.836298,
+    "longitude": -87.893016,
+    "city": "Eutaw",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 35463,
+    "latitude": 33.084337,
+    "longitude": -87.697507,
+    "city": "Fosters",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35464,
+    "latitude": 32.778274,
+    "longitude": -88.145715,
+    "city": "Gainesville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 35466,
+    "latitude": 33.290717,
+    "longitude": -87.875835,
+    "city": "Gordo",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35468,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Kellerman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35469,
+    "latitude": 32.835692,
+    "longitude": -87.956884,
+    "city": "Knoxville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 35470,
+    "latitude": 32.571432,
+    "longitude": -88.133322,
+    "city": "Livingston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 35471,
+    "latitude": 33.262603,
+    "longitude": -88.088514,
+    "city": "Mc Shan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35473,
+    "latitude": 33.347539,
+    "longitude": -87.537152,
+    "city": "Northport",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35474,
+    "latitude": 32.910756,
+    "longitude": -87.593514,
+    "city": "Moundville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Hale"
+  },
+  {
+    "zip_code": 35475,
+    "latitude": 33.39924,
+    "longitude": -87.559894,
+    "city": "Northport",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35476,
+    "latitude": 33.356502,
+    "longitude": -87.538006,
+    "city": "Northport",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35477,
+    "latitude": 32.872597,
+    "longitude": -88.237388,
+    "city": "Panola",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 35478,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Peterson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35480,
+    "latitude": 33.127407,
+    "longitude": -87.762393,
+    "city": "Ralph",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35481,
+    "latitude": 33.314928,
+    "longitude": -88.042923,
+    "city": "Reform",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 35482,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Samantha",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35485,
+    "latitude": 33.306606,
+    "longitude": -87.453224,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35486,
+    "latitude": 33.272662,
+    "longitude": -87.793794,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35487,
+    "latitude": 33.307222,
+    "longitude": -87.585902,
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35490,
+    "latitude": 33.226133,
+    "longitude": -87.225842,
+    "city": "Vance",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tuscaloosa"
+  },
+  {
+    "zip_code": 35491,
+    "latitude": 32.835692,
+    "longitude": -87.956884,
+    "city": "West Greene",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 35501,
+    "latitude": 33.796234,
+    "longitude": -87.316923,
+    "city": "Jasper",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35502,
+    "latitude": 33.901993,
+    "longitude": -87.293888,
+    "city": "Jasper",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35503,
+    "latitude": 33.915182,
+    "longitude": -87.307386,
+    "city": "Jasper",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35504,
+    "latitude": 33.818309,
+    "longitude": -87.235474,
+    "city": "Jasper",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35540,
+    "latitude": 34.229897,
+    "longitude": -87.358538,
+    "city": "Addison",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35541,
+    "latitude": 34.095345,
+    "longitude": -87.188237,
+    "city": "Arley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35542,
+    "latitude": 33.712675,
+    "longitude": -87.774117,
+    "city": "Bankston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 35543,
+    "latitude": 34.16493,
+    "longitude": -87.739592,
+    "city": "Bear Creek",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35544,
+    "latitude": 33.950211,
+    "longitude": -88.018981,
+    "city": "Beaverton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35545,
+    "latitude": 33.645228,
+    "longitude": -87.923872,
+    "city": "Belk",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 35546,
+    "latitude": 33.634468,
+    "longitude": -87.676862,
+    "city": "Berry",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 35548,
+    "latitude": 34.038126,
+    "longitude": -87.75667,
+    "city": "Brilliant",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35549,
+    "latitude": 33.772696,
+    "longitude": -87.455456,
+    "city": "Carbon Hill",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35550,
+    "latitude": 33.740956,
+    "longitude": -87.225644,
+    "city": "Cordova",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35551,
+    "latitude": 34.145939,
+    "longitude": -87.373241,
+    "city": "Delmar",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35552,
+    "latitude": 34.025325,
+    "longitude": -88.153299,
+    "city": "Detroit",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35553,
+    "latitude": 34.121357,
+    "longitude": -87.360437,
+    "city": "Double Springs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35554,
+    "latitude": 33.92856,
+    "longitude": -87.613508,
+    "city": "Eldridge",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35555,
+    "latitude": 33.72005,
+    "longitude": -87.809908,
+    "city": "Fayette",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 35559,
+    "latitude": 33.889566,
+    "longitude": -87.696401,
+    "city": "Glen Allen",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 35560,
+    "latitude": 33.679503,
+    "longitude": -87.237372,
+    "city": "Goodsprings",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35563,
+    "latitude": 34.078901,
+    "longitude": -87.813808,
+    "city": "Guin",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35564,
+    "latitude": 34.122514,
+    "longitude": -87.828236,
+    "city": "Hackleburg",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35565,
+    "latitude": 34.179569,
+    "longitude": -87.505293,
+    "city": "Haleyville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35570,
+    "latitude": 34.167583,
+    "longitude": -87.994648,
+    "city": "Hamilton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35571,
+    "latitude": 34.373392,
+    "longitude": -87.946916,
+    "city": "Hodges",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35572,
+    "latitude": 34.188775,
+    "longitude": -87.2786,
+    "city": "Houston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35573,
+    "latitude": 33.92169,
+    "longitude": -87.524264,
+    "city": "Kansas",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35574,
+    "latitude": 33.615308,
+    "longitude": -87.99477,
+    "city": "Kennedy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35575,
+    "latitude": 34.049571,
+    "longitude": -87.552646,
+    "city": "Lynn",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35576,
+    "latitude": 33.606342,
+    "longitude": -88.131425,
+    "city": "Millport",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35577,
+    "latitude": 34.093409,
+    "longitude": -87.600815,
+    "city": "Natural Bridge",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Winston"
+  },
+  {
+    "zip_code": 35578,
+    "latitude": 33.885529,
+    "longitude": -87.469627,
+    "city": "Nauvoo",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35579,
+    "latitude": 33.664909,
+    "longitude": -87.376844,
+    "city": "Oakman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35580,
+    "latitude": 33.713348,
+    "longitude": -87.298601,
+    "city": "Parrish",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35581,
+    "latitude": 34.390917,
+    "longitude": -87.859392,
+    "city": "Phil Campbell",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35582,
+    "latitude": 34.453468,
+    "longitude": -88.067792,
+    "city": "Red Bay",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35584,
+    "latitude": 33.820144,
+    "longitude": -87.077898,
+    "city": "Sipsey",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35585,
+    "latitude": 34.424572,
+    "longitude": -87.81446,
+    "city": "Spruce Pine",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35586,
+    "latitude": 33.854224,
+    "longitude": -88.10667,
+    "city": "Sulligent",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35587,
+    "latitude": 33.793322,
+    "longitude": -87.440648,
+    "city": "Townley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 35592,
+    "latitude": 33.732286,
+    "longitude": -88.086009,
+    "city": "Vernon",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 35593,
+    "latitude": 34.404307,
+    "longitude": -87.954816,
+    "city": "Vina",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35594,
+    "latitude": 34.062,
+    "longitude": -87.814078,
+    "city": "Winfield",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 35601,
+    "latitude": 34.549833,
+    "longitude": -86.995551,
+    "city": "Decatur",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35602,
+    "latitude": 34.606216,
+    "longitude": -87.088142,
+    "city": "Decatur",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35603,
+    "latitude": 34.53832,
+    "longitude": -86.96556,
+    "city": "Decatur",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35609,
+    "latitude": 34.495365,
+    "longitude": -86.82993,
+    "city": "Decatur",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35610,
+    "latitude": 34.942388,
+    "longitude": -87.273375,
+    "city": "Anderson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35611,
+    "latitude": 34.764976,
+    "longitude": -87.103488,
+    "city": "Athens",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35612,
+    "latitude": 34.774907,
+    "longitude": -87.030479,
+    "city": "Athens",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35613,
+    "latitude": 34.831704,
+    "longitude": -86.886679,
+    "city": "Athens",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35614,
+    "latitude": 34.847364,
+    "longitude": -87.060696,
+    "city": "Athens",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35615,
+    "latitude": 34.774907,
+    "longitude": -87.030479,
+    "city": "Belle Mina",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35616,
+    "latitude": 34.733866,
+    "longitude": -87.90624,
+    "city": "Cherokee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35617,
+    "latitude": 34.869964,
+    "longitude": -87.706859,
+    "city": "Cloverdale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35618,
+    "latitude": 34.673954,
+    "longitude": -87.28962,
+    "city": "Courtland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 35619,
+    "latitude": 34.459389,
+    "longitude": -87.054151,
+    "city": "Danville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35620,
+    "latitude": 34.899993,
+    "longitude": -86.972554,
+    "city": "Elkmont",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35621,
+    "latitude": 34.367528,
+    "longitude": -86.73641,
+    "city": "Eva",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35622,
+    "latitude": 34.361909,
+    "longitude": -86.899143,
+    "city": "Falkville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35630,
+    "latitude": 34.869601,
+    "longitude": -87.686915,
+    "city": "Florence",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35631,
+    "latitude": 34.869964,
+    "longitude": -87.706859,
+    "city": "Florence",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35632,
+    "latitude": 34.869964,
+    "longitude": -87.706859,
+    "city": "Florence",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35633,
+    "latitude": 34.880706,
+    "longitude": -87.742362,
+    "city": "Florence",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35634,
+    "latitude": 34.900446,
+    "longitude": -87.794596,
+    "city": "Florence",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35640,
+    "latitude": 34.491606,
+    "longitude": -86.934715,
+    "city": "Hartselle",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35643,
+    "latitude": 34.635459,
+    "longitude": -87.267871,
+    "city": "Hillsboro",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 35645,
+    "latitude": 34.907715,
+    "longitude": -87.50135,
+    "city": "Killen",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35646,
+    "latitude": 34.677233,
+    "longitude": -87.53399,
+    "city": "Leighton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35647,
+    "latitude": 34.959647,
+    "longitude": -87.100579,
+    "city": "Lester",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35648,
+    "latitude": 34.944077,
+    "longitude": -87.365663,
+    "city": "Lexington",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35649,
+    "latitude": 34.625877,
+    "longitude": -86.874641,
+    "city": "Mooresville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35650,
+    "latitude": 34.492894,
+    "longitude": -87.299281,
+    "city": "Moulton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 35651,
+    "latitude": 34.47926,
+    "longitude": -87.476911,
+    "city": "Mount Hope",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 35652,
+    "latitude": 34.844868,
+    "longitude": -87.321426,
+    "city": "Rogersville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35653,
+    "latitude": 34.444903,
+    "longitude": -87.854726,
+    "city": "Russellville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35654,
+    "latitude": 34.46752,
+    "longitude": -87.647762,
+    "city": "Russellville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 35660,
+    "latitude": 34.691165,
+    "longitude": -87.710054,
+    "city": "Sheffield",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35661,
+    "latitude": 34.758537,
+    "longitude": -87.70004,
+    "city": "Muscle Shoals",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35662,
+    "latitude": 34.757152,
+    "longitude": -87.966575,
+    "city": "Muscle Shoals",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35670,
+    "latitude": 34.436256,
+    "longitude": -86.729737,
+    "city": "Somerville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35671,
+    "latitude": 34.679634,
+    "longitude": -86.962519,
+    "city": "Tanner",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35672,
+    "latitude": 34.633251,
+    "longitude": -87.418659,
+    "city": "Town Creek",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 35673,
+    "latitude": 34.591393,
+    "longitude": -87.078896,
+    "city": "Trinity",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35674,
+    "latitude": 34.66604,
+    "longitude": -87.749232,
+    "city": "Tuscumbia",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Colbert"
+  },
+  {
+    "zip_code": 35677,
+    "latitude": 34.925311,
+    "longitude": -87.991142,
+    "city": "Waterloo",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lauderdale"
+  },
+  {
+    "zip_code": 35699,
+    "latitude": 34.495365,
+    "longitude": -86.82993,
+    "city": "Decatur",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35739,
+    "latitude": 34.961697,
+    "longitude": -86.844257,
+    "city": "Ardmore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35740,
+    "latitude": 34.799983,
+    "longitude": -85.803464,
+    "city": "Bridgeport",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35741,
+    "latitude": 34.719303,
+    "longitude": -86.475425,
+    "city": "Brownsboro",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35742,
+    "latitude": 34.774907,
+    "longitude": -87.030479,
+    "city": "Capshaw",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Limestone"
+  },
+  {
+    "zip_code": 35744,
+    "latitude": 34.60335,
+    "longitude": -85.911106,
+    "city": "Dutton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35745,
+    "latitude": 34.925315,
+    "longitude": -86.190432,
+    "city": "Estillfork",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35746,
+    "latitude": 34.75343,
+    "longitude": -85.98022,
+    "city": "Fackler",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35747,
+    "latitude": 34.41847,
+    "longitude": -86.289976,
+    "city": "Grant",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35748,
+    "latitude": 34.722737,
+    "longitude": -86.40353,
+    "city": "Gurley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35749,
+    "latitude": 34.829768,
+    "longitude": -86.703349,
+    "city": "Harvest",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35750,
+    "latitude": 34.937132,
+    "longitude": -86.581015,
+    "city": "Hazel Green",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35751,
+    "latitude": 34.79549,
+    "longitude": -86.274287,
+    "city": "Hollytree",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35752,
+    "latitude": 34.807443,
+    "longitude": -85.887684,
+    "city": "Hollywood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35754,
+    "latitude": 34.50544,
+    "longitude": -86.62488,
+    "city": "Laceys Spring",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35755,
+    "latitude": 34.733585,
+    "longitude": -86.020239,
+    "city": "Langston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35756,
+    "latitude": 34.651409,
+    "longitude": -86.754233,
+    "city": "Madison",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35757,
+    "latitude": 34.778246,
+    "longitude": -86.744163,
+    "city": "Madison",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35758,
+    "latitude": 34.710815,
+    "longitude": -86.742478,
+    "city": "Madison",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35759,
+    "latitude": 34.88186,
+    "longitude": -86.555622,
+    "city": "Meridianville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35760,
+    "latitude": 34.56112,
+    "longitude": -86.385064,
+    "city": "New Hope",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35761,
+    "latitude": 34.893332,
+    "longitude": -86.452042,
+    "city": "New Market",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35762,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Normal",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35763,
+    "latitude": 34.724161,
+    "longitude": -86.464438,
+    "city": "Owens Cross Roads",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35764,
+    "latitude": 34.703063,
+    "longitude": -86.306794,
+    "city": "Paint Rock",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35765,
+    "latitude": 34.669329,
+    "longitude": -86.016699,
+    "city": "Pisgah",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35766,
+    "latitude": 34.871329,
+    "longitude": -86.251275,
+    "city": "Princeton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35767,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Ryland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35768,
+    "latitude": 34.750724,
+    "longitude": -86.142151,
+    "city": "Scottsboro",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35769,
+    "latitude": 34.617951,
+    "longitude": -86.056162,
+    "city": "Scottsboro",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35771,
+    "latitude": 34.671536,
+    "longitude": -85.958355,
+    "city": "Section",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35772,
+    "latitude": 34.856233,
+    "longitude": -85.871317,
+    "city": "Stevenson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35773,
+    "latitude": 34.904492,
+    "longitude": -86.681104,
+    "city": "Toney",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35774,
+    "latitude": 34.717551,
+    "longitude": -86.073788,
+    "city": "Trenton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35775,
+    "latitude": 34.541985,
+    "longitude": -86.687136,
+    "city": "Valhermoso Springs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 35776,
+    "latitude": 34.746425,
+    "longitude": -86.076117,
+    "city": "Woodville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35801,
+    "latitude": 34.718428,
+    "longitude": -86.556439,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35802,
+    "latitude": 34.660866,
+    "longitude": -86.560608,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35803,
+    "latitude": 34.58639,
+    "longitude": -86.536754,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35804,
+    "latitude": 34.728366,
+    "longitude": -86.585312,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35805,
+    "latitude": 34.702327,
+    "longitude": -86.628864,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35806,
+    "latitude": 34.76184,
+    "longitude": -86.686994,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35807,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35808,
+    "latitude": 34.677627,
+    "longitude": -86.612147,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35809,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35810,
+    "latitude": 34.797685,
+    "longitude": -86.593583,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35811,
+    "latitude": 34.791497,
+    "longitude": -86.513152,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35812,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35813,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35814,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35815,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35816,
+    "latitude": 34.753078,
+    "longitude": -86.628643,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35824,
+    "latitude": 34.645603,
+    "longitude": -86.752294,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35893,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35894,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35895,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35896,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35897,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35898,
+    "latitude": 34.733964,
+    "longitude": -86.522913,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35899,
+    "latitude": 34.733898,
+    "longitude": -86.645592,
+    "city": "Huntsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 35901,
+    "latitude": 34.024285,
+    "longitude": -86.074145,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35902,
+    "latitude": 33.984062,
+    "longitude": -85.803434,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35903,
+    "latitude": 33.984547,
+    "longitude": -85.907668,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35904,
+    "latitude": 34.05744,
+    "longitude": -86.107869,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35905,
+    "latitude": 33.93523,
+    "longitude": -85.957593,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35906,
+    "latitude": 34.033764,
+    "longitude": -86.085173,
+    "city": "Rainbow City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35907,
+    "latitude": 33.959647,
+    "longitude": -85.973173,
+    "city": "Gadsden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35950,
+    "latitude": 34.314291,
+    "longitude": -86.242033,
+    "city": "Albertville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35951,
+    "latitude": 34.322334,
+    "longitude": -86.193529,
+    "city": "Albertville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35952,
+    "latitude": 34.07097,
+    "longitude": -86.209599,
+    "city": "Altoona",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35953,
+    "latitude": 33.785173,
+    "longitude": -86.216884,
+    "city": "Ashville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35954,
+    "latitude": 34.051848,
+    "longitude": -86.061397,
+    "city": "Attalla",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35956,
+    "latitude": 34.267,
+    "longitude": -86.166021,
+    "city": "Boaz",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35957,
+    "latitude": 34.280737,
+    "longitude": -86.229092,
+    "city": "Boaz",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35958,
+    "latitude": 34.917606,
+    "longitude": -85.64924,
+    "city": "Bryant",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35959,
+    "latitude": 34.359072,
+    "longitude": -85.611793,
+    "city": "Cedar Bluff",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 35960,
+    "latitude": 34.110859,
+    "longitude": -85.590218,
+    "city": "Centre",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 35961,
+    "latitude": 34.337295,
+    "longitude": -85.85769,
+    "city": "Collinsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35962,
+    "latitude": 34.302028,
+    "longitude": -86.004164,
+    "city": "Crossville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35963,
+    "latitude": 34.359123,
+    "longitude": -85.923978,
+    "city": "Dawson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35964,
+    "latitude": 34.34962,
+    "longitude": -86.319824,
+    "city": "Douglas",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35966,
+    "latitude": 34.803085,
+    "longitude": -85.720245,
+    "city": "Flat Rock",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35967,
+    "latitude": 34.417112,
+    "longitude": -85.828068,
+    "city": "Fort Payne",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35968,
+    "latitude": 34.507242,
+    "longitude": -85.797851,
+    "city": "Fort Payne",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35971,
+    "latitude": 34.43038,
+    "longitude": -85.898669,
+    "city": "Fyffe",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35972,
+    "latitude": 34.00233,
+    "longitude": -86.224672,
+    "city": "Gallant",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 35973,
+    "latitude": 34.373726,
+    "longitude": -85.557307,
+    "city": "Gaylesville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 35974,
+    "latitude": 34.359204,
+    "longitude": -86.02397,
+    "city": "Geraldine",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35975,
+    "latitude": 34.435197,
+    "longitude": -86.038915,
+    "city": "Groveoak",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35976,
+    "latitude": 34.344851,
+    "longitude": -86.27518,
+    "city": "Guntersville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35978,
+    "latitude": 34.600393,
+    "longitude": -85.730615,
+    "city": "Henagar",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35979,
+    "latitude": 34.839084,
+    "longitude": -85.619582,
+    "city": "Higdon",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 35980,
+    "latitude": 34.209898,
+    "longitude": -86.343937,
+    "city": "Horton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 35981,
+    "latitude": 34.719358,
+    "longitude": -85.658943,
+    "city": "Ider",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35983,
+    "latitude": 34.144013,
+    "longitude": -85.748018,
+    "city": "Leesburg",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 35984,
+    "latitude": 34.556856,
+    "longitude": -85.578584,
+    "city": "Mentone",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35986,
+    "latitude": 34.419163,
+    "longitude": -85.761585,
+    "city": "Rainsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35987,
+    "latitude": 33.916778,
+    "longitude": -86.243593,
+    "city": "Steele",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 35988,
+    "latitude": 34.570198,
+    "longitude": -85.729289,
+    "city": "Sylvania",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35989,
+    "latitude": 34.4879,
+    "longitude": -85.689133,
+    "city": "Valley Head",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 35990,
+    "latitude": 34.056618,
+    "longitude": -86.275434,
+    "city": "Walnut Grove",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Etowah"
+  },
+  {
+    "zip_code": 36003,
+    "latitude": 32.450328,
+    "longitude": -86.721712,
+    "city": "Autaugaville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36005,
+    "latitude": 31.839131,
+    "longitude": -85.928538,
+    "city": "Banks",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36006,
+    "latitude": 32.576407,
+    "longitude": -86.711472,
+    "city": "Billingsley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36008,
+    "latitude": 32.501649,
+    "longitude": -86.572711,
+    "city": "Booth",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36009,
+    "latitude": 31.560143,
+    "longitude": -86.327501,
+    "city": "Brantley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36010,
+    "latitude": 31.713427,
+    "longitude": -85.816261,
+    "city": "Brundidge",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36013,
+    "latitude": 32.310624,
+    "longitude": -86.186132,
+    "city": "Cecil",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36015,
+    "latitude": 31.642713,
+    "longitude": -86.734317,
+    "city": "Chapman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 36016,
+    "latitude": 31.805322,
+    "longitude": -85.421299,
+    "city": "Clayton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 36017,
+    "latitude": 31.749142,
+    "longitude": -85.561944,
+    "city": "Clio",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 36020,
+    "latitude": 32.505625,
+    "longitude": -86.332245,
+    "city": "Coosada",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36022,
+    "latitude": 32.614355,
+    "longitude": -86.35842,
+    "city": "Deatsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36023,
+    "latitude": 32.800155,
+    "longitude": -85.803427,
+    "city": "East Tallassee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tallapoosa"
+  },
+  {
+    "zip_code": 36024,
+    "latitude": 32.645178,
+    "longitude": -86.036529,
+    "city": "Eclectic",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36025,
+    "latitude": 32.632954,
+    "longitude": -86.134553,
+    "city": "Elmore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36026,
+    "latitude": 32.77522,
+    "longitude": -86.1216,
+    "city": "Equality",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coosa"
+  },
+  {
+    "zip_code": 36027,
+    "latitude": 31.914745,
+    "longitude": -85.389969,
+    "city": "Eufaula",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 36028,
+    "latitude": 31.518541,
+    "longitude": -86.354365,
+    "city": "Dozier",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36029,
+    "latitude": 32.092808,
+    "longitude": -85.704649,
+    "city": "Fitzpatrick",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bullock"
+  },
+  {
+    "zip_code": 36030,
+    "latitude": 31.850138,
+    "longitude": -86.837211,
+    "city": "Forest Home",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 36031,
+    "latitude": 32.250651,
+    "longitude": -85.752417,
+    "city": "Fort Davis",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36032,
+    "latitude": 32.01285,
+    "longitude": -86.608238,
+    "city": "Fort Deposit",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 36033,
+    "latitude": 31.624666,
+    "longitude": -86.634844,
+    "city": "Georgiana",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 36034,
+    "latitude": 31.611203,
+    "longitude": -86.167727,
+    "city": "Glenwood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36035,
+    "latitude": 31.810302,
+    "longitude": -86.092603,
+    "city": "Goshen",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36036,
+    "latitude": 32.011697,
+    "longitude": -86.166847,
+    "city": "Grady",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36037,
+    "latitude": 31.796729,
+    "longitude": -86.596233,
+    "city": "Greenville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 36038,
+    "latitude": 31.260882,
+    "longitude": -86.444833,
+    "city": "Gantt",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36039,
+    "latitude": 32.293879,
+    "longitude": -85.813517,
+    "city": "Hardaway",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36040,
+    "latitude": 32.152198,
+    "longitude": -86.597157,
+    "city": "Hayneville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 36041,
+    "latitude": 31.945789,
+    "longitude": -86.306248,
+    "city": "Highland Home",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36042,
+    "latitude": 31.871334,
+    "longitude": -86.405406,
+    "city": "Honoraville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36043,
+    "latitude": 32.206441,
+    "longitude": -86.380464,
+    "city": "Hope Hull",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36045,
+    "latitude": 32.587631,
+    "longitude": -86.132981,
+    "city": "Kent",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36046,
+    "latitude": 32.081409,
+    "longitude": -86.356906,
+    "city": "Lapine",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36047,
+    "latitude": 32.072616,
+    "longitude": -86.510331,
+    "city": "Letohatchee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 36048,
+    "latitude": 31.785579,
+    "longitude": -85.551104,
+    "city": "Louisville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 36049,
+    "latitude": 31.754655,
+    "longitude": -86.291595,
+    "city": "Luverne",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36051,
+    "latitude": 32.601807,
+    "longitude": -86.516424,
+    "city": "Marbury",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36052,
+    "latitude": 32.239196,
+    "longitude": -86.036354,
+    "city": "Mathews",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36053,
+    "latitude": 32.092808,
+    "longitude": -85.704649,
+    "city": "Midway",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bullock"
+  },
+  {
+    "zip_code": 36054,
+    "latitude": 32.584717,
+    "longitude": -86.225602,
+    "city": "Millbrook",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36057,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Mount Meigs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36061,
+    "latitude": 32.092808,
+    "longitude": -85.704649,
+    "city": "Perote",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bullock"
+  },
+  {
+    "zip_code": 36062,
+    "latitude": 31.74589,
+    "longitude": -86.323949,
+    "city": "Petrey",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36064,
+    "latitude": 32.296092,
+    "longitude": -86.09259,
+    "city": "Pike Road",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36065,
+    "latitude": 32.072585,
+    "longitude": -86.060586,
+    "city": "Pine Level",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36066,
+    "latitude": 32.50919,
+    "longitude": -86.440879,
+    "city": "Prattville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36067,
+    "latitude": 32.540642,
+    "longitude": -86.658347,
+    "city": "Prattville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36068,
+    "latitude": 32.507893,
+    "longitude": -86.666272,
+    "city": "Prattville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Autauga"
+  },
+  {
+    "zip_code": 36069,
+    "latitude": 32.089321,
+    "longitude": -86.174619,
+    "city": "Ramer",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36071,
+    "latitude": 31.706155,
+    "longitude": -86.371489,
+    "city": "Rutledge",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Crenshaw"
+  },
+  {
+    "zip_code": 36072,
+    "latitude": 31.826055,
+    "longitude": -85.166028,
+    "city": "Eufaula",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Barbour"
+  },
+  {
+    "zip_code": 36075,
+    "latitude": 32.383939,
+    "longitude": -85.910123,
+    "city": "Shorter",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36078,
+    "latitude": 32.594995,
+    "longitude": -85.985078,
+    "city": "Tallassee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36079,
+    "latitude": 31.802786,
+    "longitude": -85.954983,
+    "city": "Troy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36080,
+    "latitude": 32.700393,
+    "longitude": -86.257604,
+    "city": "Titus",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36081,
+    "latitude": 31.869128,
+    "longitude": -85.966268,
+    "city": "Troy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36082,
+    "latitude": 31.816474,
+    "longitude": -85.964713,
+    "city": "Troy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 36083,
+    "latitude": 32.372144,
+    "longitude": -85.66671,
+    "city": "Tuskegee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36087,
+    "latitude": 32.40926,
+    "longitude": -85.738032,
+    "city": "Tuskegee Institute",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36088,
+    "latitude": 32.414501,
+    "longitude": -85.72525,
+    "city": "Tuskegee Institute",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 36089,
+    "latitude": 32.142191,
+    "longitude": -85.742406,
+    "city": "Union Springs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Bullock"
+  },
+  {
+    "zip_code": 36091,
+    "latitude": 32.776052,
+    "longitude": -86.644088,
+    "city": "Verbena",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Chilton"
+  },
+  {
+    "zip_code": 36092,
+    "latitude": 32.592659,
+    "longitude": -86.215304,
+    "city": "Wetumpka",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36093,
+    "latitude": 32.562179,
+    "longitude": -86.099371,
+    "city": "Wetumpka",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Elmore"
+  },
+  {
+    "zip_code": 36101,
+    "latitude": 32.356988,
+    "longitude": -86.257817,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36102,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36103,
+    "latitude": 32.346158,
+    "longitude": -86.287316,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36104,
+    "latitude": 32.373788,
+    "longitude": -86.289182,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36105,
+    "latitude": 32.22558,
+    "longitude": -86.290586,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36106,
+    "latitude": 32.353338,
+    "longitude": -86.257517,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36107,
+    "latitude": 32.380587,
+    "longitude": -86.280718,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36108,
+    "latitude": 32.340688,
+    "longitude": -86.37382,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36109,
+    "latitude": 32.390547,
+    "longitude": -86.239667,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36110,
+    "latitude": 32.441374,
+    "longitude": -86.253327,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36111,
+    "latitude": 32.342438,
+    "longitude": -86.267317,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36112,
+    "latitude": 32.374287,
+    "longitude": -86.345719,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36113,
+    "latitude": 32.384587,
+    "longitude": -86.303868,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36114,
+    "latitude": 32.403987,
+    "longitude": -86.253867,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36115,
+    "latitude": 32.407587,
+    "longitude": -86.247417,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36116,
+    "latitude": 32.285501,
+    "longitude": -86.228765,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36117,
+    "latitude": 32.370048,
+    "longitude": -86.116486,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36118,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36119,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36120,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36121,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36123,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36124,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36125,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36130,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36131,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36132,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36133,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36134,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36135,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36140,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36141,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36142,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36177,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36191,
+    "latitude": 32.233377,
+    "longitude": -86.208528,
+    "city": "Montgomery",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 36201,
+    "latitude": 33.759768,
+    "longitude": -85.792328,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36202,
+    "latitude": 33.762195,
+    "longitude": -85.837828,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36203,
+    "latitude": 33.725908,
+    "longitude": -85.899397,
+    "city": "Oxford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36204,
+    "latitude": 33.762195,
+    "longitude": -85.837828,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36205,
+    "latitude": 33.735842,
+    "longitude": -85.793257,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36206,
+    "latitude": 33.806783,
+    "longitude": -85.759952,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36207,
+    "latitude": 33.720373,
+    "longitude": -85.753344,
+    "city": "Anniston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36250,
+    "latitude": 33.780861,
+    "longitude": -85.904456,
+    "city": "Alexandria",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36251,
+    "latitude": 33.234539,
+    "longitude": -85.847477,
+    "city": "Ashland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 36253,
+    "latitude": 33.762195,
+    "longitude": -85.837828,
+    "city": "Bynum",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36254,
+    "latitude": 33.657349,
+    "longitude": -85.699116,
+    "city": "Choccolocco",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36255,
+    "latitude": 33.193639,
+    "longitude": -85.745014,
+    "city": "Cragford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 36256,
+    "latitude": 33.022741,
+    "longitude": -85.696391,
+    "city": "Daviston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Tallapoosa"
+  },
+  {
+    "zip_code": 36257,
+    "latitude": 33.762195,
+    "longitude": -85.837828,
+    "city": "De Armanville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36258,
+    "latitude": 33.418514,
+    "longitude": -85.711041,
+    "city": "Delta",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 36260,
+    "latitude": 33.640094,
+    "longitude": -85.991753,
+    "city": "Eastaboga",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36261,
+    "latitude": 33.706595,
+    "longitude": -85.509902,
+    "city": "Edwardsville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 36262,
+    "latitude": 33.779335,
+    "longitude": -85.463112,
+    "city": "Fruithurst",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 36263,
+    "latitude": 33.456308,
+    "longitude": -85.369167,
+    "city": "Graham",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36264,
+    "latitude": 33.627166,
+    "longitude": -85.502022,
+    "city": "Heflin",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 36265,
+    "latitude": 33.853627,
+    "longitude": -85.758295,
+    "city": "Jacksonville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36266,
+    "latitude": 33.340127,
+    "longitude": -85.789238,
+    "city": "Lineville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 36267,
+    "latitude": 33.18082,
+    "longitude": -85.941752,
+    "city": "Millerville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 36268,
+    "latitude": 33.486183,
+    "longitude": -85.920854,
+    "city": "Munford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Talladega"
+  },
+  {
+    "zip_code": 36269,
+    "latitude": 33.729152,
+    "longitude": -85.394198,
+    "city": "Muscadine",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 36270,
+    "latitude": 33.42978,
+    "longitude": -85.468493,
+    "city": "Newell",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36271,
+    "latitude": 33.807215,
+    "longitude": -85.905573,
+    "city": "Ohatchee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36272,
+    "latitude": 33.827328,
+    "longitude": -85.795257,
+    "city": "Piedmont",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36273,
+    "latitude": 33.565683,
+    "longitude": -85.38201,
+    "city": "Ranburne",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cleburne"
+  },
+  {
+    "zip_code": 36274,
+    "latitude": 33.216876,
+    "longitude": -85.405707,
+    "city": "Roanoke",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36275,
+    "latitude": 33.977829,
+    "longitude": -85.552143,
+    "city": "Spring Garden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 36276,
+    "latitude": 33.207578,
+    "longitude": -85.480892,
+    "city": "Wadley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36277,
+    "latitude": 33.81408,
+    "longitude": -85.835693,
+    "city": "Weaver",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36278,
+    "latitude": 33.318053,
+    "longitude": -85.498377,
+    "city": "Wedowee",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36279,
+    "latitude": 33.866182,
+    "longitude": -85.87097,
+    "city": "Wellington",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 36280,
+    "latitude": 33.351626,
+    "longitude": -85.372497,
+    "city": "Woodland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 36301,
+    "latitude": 31.148124,
+    "longitude": -85.371845,
+    "city": "Dothan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36302,
+    "latitude": 31.156018,
+    "longitude": -85.355931,
+    "city": "Dothan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36303,
+    "latitude": 31.160148,
+    "longitude": -85.322984,
+    "city": "Dothan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36304,
+    "latitude": 31.156018,
+    "longitude": -85.355931,
+    "city": "Dothan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36305,
+    "latitude": 31.219697,
+    "longitude": -85.4828,
+    "city": "Dothan",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36310,
+    "latitude": 31.559402,
+    "longitude": -85.222965,
+    "city": "Abbeville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 36311,
+    "latitude": 31.455485,
+    "longitude": -85.633907,
+    "city": "Ariton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36312,
+    "latitude": 31.189627,
+    "longitude": -85.262314,
+    "city": "Ashford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36313,
+    "latitude": 31.150094,
+    "longitude": -85.813687,
+    "city": "Bellwood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36314,
+    "latitude": 31.096354,
+    "longitude": -85.83934,
+    "city": "Black",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36316,
+    "latitude": 31.176749,
+    "longitude": -85.813483,
+    "city": "Chancellor",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36317,
+    "latitude": 31.407872,
+    "longitude": -85.603458,
+    "city": "Clopton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36318,
+    "latitude": 31.149764,
+    "longitude": -85.946093,
+    "city": "Coffee Springs",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36319,
+    "latitude": 31.22514,
+    "longitude": -85.171875,
+    "city": "Columbia",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36320,
+    "latitude": 31.099623,
+    "longitude": -85.314295,
+    "city": "Cottonwood",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36321,
+    "latitude": 31.202473,
+    "longitude": -85.301373,
+    "city": "Cowarts",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36322,
+    "latitude": 31.272415,
+    "longitude": -85.705129,
+    "city": "Daleville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36323,
+    "latitude": 31.407434,
+    "longitude": -86.083517,
+    "city": "Elba",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36330,
+    "latitude": 31.315846,
+    "longitude": -85.942956,
+    "city": "Enterprise",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36331,
+    "latitude": 31.297817,
+    "longitude": -85.90364,
+    "city": "Enterprise",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36340,
+    "latitude": 31.053473,
+    "longitude": -85.784393,
+    "city": "Geneva",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36343,
+    "latitude": 31.080374,
+    "longitude": -85.168005,
+    "city": "Gordon",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36344,
+    "latitude": 31.105822,
+    "longitude": -85.690252,
+    "city": "Hartford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36345,
+    "latitude": 31.357917,
+    "longitude": -85.30124,
+    "city": "Headland",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 36346,
+    "latitude": 31.565157,
+    "longitude": -85.970956,
+    "city": "Jack",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36349,
+    "latitude": 31.121244,
+    "longitude": -85.559235,
+    "city": "Malvern",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36350,
+    "latitude": 31.33494,
+    "longitude": -85.511331,
+    "city": "Midland City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36351,
+    "latitude": 31.398322,
+    "longitude": -85.927933,
+    "city": "New Brockton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36352,
+    "latitude": 31.352897,
+    "longitude": -85.659319,
+    "city": "Newton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36353,
+    "latitude": 31.411109,
+    "longitude": -85.366472,
+    "city": "Newville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 36360,
+    "latitude": 31.450171,
+    "longitude": -85.65182,
+    "city": "Ozark",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36361,
+    "latitude": 31.407872,
+    "longitude": -85.603458,
+    "city": "Ozark",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36362,
+    "latitude": 31.327347,
+    "longitude": -85.737811,
+    "city": "Fort Rucker",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36370,
+    "latitude": 31.14031,
+    "longitude": -85.157345,
+    "city": "Pansey",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36371,
+    "latitude": 31.307446,
+    "longitude": -85.52633,
+    "city": "Pinckard",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36373,
+    "latitude": 31.501042,
+    "longitude": -85.113506,
+    "city": "Shorterville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 36374,
+    "latitude": 31.574779,
+    "longitude": -85.536957,
+    "city": "Skipperville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Dale"
+  },
+  {
+    "zip_code": 36375,
+    "latitude": 31.137138,
+    "longitude": -85.564508,
+    "city": "Slocomb",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36376,
+    "latitude": 31.252306,
+    "longitude": -85.264387,
+    "city": "Webb",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 36401,
+    "latitude": 31.489241,
+    "longitude": -87.052004,
+    "city": "Evergreen",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36420,
+    "latitude": 31.304166,
+    "longitude": -86.386398,
+    "city": "Andalusia",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36425,
+    "latitude": 31.56779,
+    "longitude": -87.250028,
+    "city": "Beatrice",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36426,
+    "latitude": 31.129427,
+    "longitude": -87.096126,
+    "city": "Brewton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36427,
+    "latitude": 31.091784,
+    "longitude": -87.26404,
+    "city": "Brewton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36429,
+    "latitude": 31.466945,
+    "longitude": -87.044687,
+    "city": "Brooklyn",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36431,
+    "latitude": 31.529531,
+    "longitude": -87.345345,
+    "city": "Burnt Corn",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36432,
+    "latitude": 31.370941,
+    "longitude": -86.998104,
+    "city": "Castleberry",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36435,
+    "latitude": 31.871803,
+    "longitude": -87.412893,
+    "city": "Coy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 36436,
+    "latitude": 31.58842,
+    "longitude": -87.840875,
+    "city": "Dickinson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36439,
+    "latitude": 31.429472,
+    "longitude": -87.339329,
+    "city": "Excel",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36441,
+    "latitude": 31.060013,
+    "longitude": -87.199942,
+    "city": "Flomaton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36442,
+    "latitude": 31.019653,
+    "longitude": -86.329568,
+    "city": "Florala",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36444,
+    "latitude": 31.590428,
+    "longitude": -87.447935,
+    "city": "Franklin",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36445,
+    "latitude": 31.522005,
+    "longitude": -87.381527,
+    "city": "Frisco City",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36446,
+    "latitude": 31.782639,
+    "longitude": -87.741085,
+    "city": "Fulton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36449,
+    "latitude": 31.529531,
+    "longitude": -87.345345,
+    "city": "Goodway",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36451,
+    "latitude": 31.704953,
+    "longitude": -87.801307,
+    "city": "Grove Hill",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36453,
+    "latitude": 31.238943,
+    "longitude": -86.124023,
+    "city": "Kinston",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 36454,
+    "latitude": 31.466945,
+    "longitude": -87.044687,
+    "city": "Lenox",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36455,
+    "latitude": 31.260882,
+    "longitude": -86.444833,
+    "city": "Lockhart",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36456,
+    "latitude": 31.546733,
+    "longitude": -86.713793,
+    "city": "Mc Kenzie",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 36457,
+    "latitude": 31.361214,
+    "longitude": -87.435279,
+    "city": "Megargel",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36458,
+    "latitude": 31.514659,
+    "longitude": -87.408362,
+    "city": "Mexia",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36460,
+    "latitude": 31.56713,
+    "longitude": -87.314222,
+    "city": "Monroeville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36461,
+    "latitude": 31.522093,
+    "longitude": -87.341108,
+    "city": "Monroeville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36462,
+    "latitude": 31.529531,
+    "longitude": -87.345345,
+    "city": "Monroeville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36467,
+    "latitude": 31.260401,
+    "longitude": -86.356208,
+    "city": "Opp",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36470,
+    "latitude": 31.508073,
+    "longitude": -87.428429,
+    "city": "Perdue Hill",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36471,
+    "latitude": 31.606263,
+    "longitude": -87.21944,
+    "city": "Peterman",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36473,
+    "latitude": 31.466945,
+    "longitude": -87.044687,
+    "city": "Range",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36474,
+    "latitude": 31.260882,
+    "longitude": -86.444833,
+    "city": "Red Level",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36475,
+    "latitude": 31.371175,
+    "longitude": -87.298377,
+    "city": "Repton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Conecuh"
+  },
+  {
+    "zip_code": 36476,
+    "latitude": 31.260882,
+    "longitude": -86.444833,
+    "city": "River Falls",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36477,
+    "latitude": 31.07181,
+    "longitude": -86.113647,
+    "city": "Samson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Geneva"
+  },
+  {
+    "zip_code": 36480,
+    "latitude": 31.541789,
+    "longitude": -87.500236,
+    "city": "Uriah",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36481,
+    "latitude": 31.808458,
+    "longitude": -87.316372,
+    "city": "Vredenburgh",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 36482,
+    "latitude": 31.67448,
+    "longitude": -87.675884,
+    "city": "Whatley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36483,
+    "latitude": 31.022268,
+    "longitude": -86.629331,
+    "city": "Wing",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Covington"
+  },
+  {
+    "zip_code": 36501,
+    "latitude": 31.482494,
+    "longitude": -87.880106,
+    "city": "Alma",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36502,
+    "latitude": 31.119972,
+    "longitude": -87.470001,
+    "city": "Atmore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36503,
+    "latitude": 31.128242,
+    "longitude": -87.152068,
+    "city": "Atmore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36504,
+    "latitude": 31.015817,
+    "longitude": -87.497165,
+    "city": "Atmore",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36505,
+    "latitude": 30.939368,
+    "longitude": -88.015868,
+    "city": "Axis",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36507,
+    "latitude": 30.763492,
+    "longitude": -87.756371,
+    "city": "Bay Minette",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36509,
+    "latitude": 30.419006,
+    "longitude": -88.253643,
+    "city": "Bayou La Batre",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36511,
+    "latitude": 30.465497,
+    "longitude": -87.753507,
+    "city": "Bon Secour",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36512,
+    "latitude": 30.658865,
+    "longitude": -88.177975,
+    "city": "Bucks",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36513,
+    "latitude": 31.406683,
+    "longitude": -88.175846,
+    "city": "Calvert",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36515,
+    "latitude": 31.58842,
+    "longitude": -87.840875,
+    "city": "Carlton",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36518,
+    "latitude": 31.436682,
+    "longitude": -88.245363,
+    "city": "Chatom",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36521,
+    "latitude": 30.929148,
+    "longitude": -88.181921,
+    "city": "Chunchula",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36522,
+    "latitude": 30.798501,
+    "longitude": -88.273482,
+    "city": "Citronelle",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36523,
+    "latitude": 30.390301,
+    "longitude": -88.207586,
+    "city": "Coden",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36524,
+    "latitude": 31.816246,
+    "longitude": -88.061865,
+    "city": "Coffeeville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36525,
+    "latitude": 30.944616,
+    "longitude": -88.090905,
+    "city": "Creola",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36526,
+    "latitude": 30.540328,
+    "longitude": -87.6912,
+    "city": "Daphne",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36527,
+    "latitude": 30.737792,
+    "longitude": -87.900287,
+    "city": "Spanish Fort",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36528,
+    "latitude": 30.254867,
+    "longitude": -88.1349,
+    "city": "Dauphin Island",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36529,
+    "latitude": 31.406683,
+    "longitude": -88.175846,
+    "city": "Deer Park",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36530,
+    "latitude": 30.412773,
+    "longitude": -87.549041,
+    "city": "Elberta",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36532,
+    "latitude": 30.562883,
+    "longitude": -87.810464,
+    "city": "Fairhope",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36533,
+    "latitude": 30.484131,
+    "longitude": -87.860613,
+    "city": "Fairhope",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36535,
+    "latitude": 30.467608,
+    "longitude": -87.692401,
+    "city": "Foley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36536,
+    "latitude": 30.42216,
+    "longitude": -87.706371,
+    "city": "Foley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36538,
+    "latitude": 31.406683,
+    "longitude": -88.175846,
+    "city": "Frankville",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36539,
+    "latitude": 31.406683,
+    "longitude": -88.175846,
+    "city": "Fruitdale",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36540,
+    "latitude": 31.58842,
+    "longitude": -87.840875,
+    "city": "Gainestown",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36541,
+    "latitude": 30.498046,
+    "longitude": -88.332468,
+    "city": "Grand Bay",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36542,
+    "latitude": 30.284936,
+    "longitude": -87.794246,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36543,
+    "latitude": 31.216132,
+    "longitude": -87.461537,
+    "city": "Huxford",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Escambia"
+  },
+  {
+    "zip_code": 36544,
+    "latitude": 30.479141,
+    "longitude": -88.232843,
+    "city": "Irvington",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Mobile"
+  },
+  {
+    "zip_code": 36545,
+    "latitude": 31.592985,
+    "longitude": -87.898539,
+    "city": "Jackson",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 36547,
+    "latitude": 30.265325,
+    "longitude": -87.629926,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36548,
+    "latitude": 31.406683,
+    "longitude": -88.175846,
+    "city": "Leroy",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 36549,
+    "latitude": 30.39736,
+    "longitude": -87.458796,
+    "city": "Lillian",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36550,
+    "latitude": 31.22896,
+    "longitude": -87.713373,
+    "city": "Little River",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 36551,
+    "latitude": 30.513519,
+    "longitude": -87.667604,
+    "city": "Loxley",
+    "state": "AL",
+    "full_state": "Alabama",
+    "county": "Baldwin"
+  }
+]

@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 15301,
+    "latitude": 40.135391,
+    "longitude": -80.146709,
+    "city": "Washington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15310,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Aleppo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15311,
+    "latitude": 40.049765,
+    "longitude": -80.168133,
+    "city": "Amity",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15312,
+    "latitude": 40.200737,
+    "longitude": -80.267148,
+    "city": "Avella",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15313,
+    "latitude": 40.065496,
+    "longitude": -80.022102,
+    "city": "Beallsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15314,
+    "latitude": 40.153459,
+    "longitude": -80.083967,
+    "city": "Bentleyville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15315,
+    "latitude": 39.817048,
+    "longitude": -79.956728,
+    "city": "Bobtown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15316,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Brave",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15317,
+    "latitude": 40.155704,
+    "longitude": -80.12842,
+    "city": "Canonsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15320,
+    "latitude": 39.918913,
+    "longitude": -79.98532,
+    "city": "Carmichaels",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15321,
+    "latitude": 40.159268,
+    "longitude": -80.104193,
+    "city": "Cecil",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15322,
+    "latitude": 39.966702,
+    "longitude": -80.045233,
+    "city": "Clarksville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15323,
+    "latitude": 40.11016,
+    "longitude": -80.251693,
+    "city": "Claysville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15324,
+    "latitude": 40.050163,
+    "longitude": -79.98324,
+    "city": "Cokeburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15325,
+    "latitude": 39.95017,
+    "longitude": -79.967626,
+    "city": "Crucible",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15327,
+    "latitude": 39.764089,
+    "longitude": -79.937419,
+    "city": "Dilliner",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15329,
+    "latitude": 40.049949,
+    "longitude": -80.28121,
+    "city": "Prosperity",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15330,
+    "latitude": 40.17557,
+    "longitude": -80.099336,
+    "city": "Eighty Four",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15331,
+    "latitude": 40.106824,
+    "longitude": -80.021614,
+    "city": "Ellsworth",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15332,
+    "latitude": 40.19897,
+    "longitude": -80.059974,
+    "city": "Finleyville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15333,
+    "latitude": 40.025105,
+    "longitude": -80.011741,
+    "city": "Fredericktown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15334,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Garards Fort",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15336,
+    "latitude": 40.260141,
+    "longitude": -79.992678,
+    "city": "Gastonville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15337,
+    "latitude": 39.937962,
+    "longitude": -80.001496,
+    "city": "Graysville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15338,
+    "latitude": 39.820941,
+    "longitude": -79.974551,
+    "city": "Greensboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15339,
+    "latitude": 40.301838,
+    "longitude": -80.15431,
+    "city": "Hendersonville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15340,
+    "latitude": 40.226863,
+    "longitude": -80.169026,
+    "city": "Hickory",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15341,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Holbrook",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15342,
+    "latitude": 40.133091,
+    "longitude": -80.133451,
+    "city": "Houston",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15344,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Jefferson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15345,
+    "latitude": 40.028432,
+    "longitude": -80.104213,
+    "city": "Marianna",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15346,
+    "latitude": 39.934662,
+    "longitude": -80.070275,
+    "city": "Mather",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15347,
+    "latitude": 40.217358,
+    "longitude": -80.226885,
+    "city": "Meadow Lands",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15348,
+    "latitude": 39.987651,
+    "longitude": -80.003686,
+    "city": "Millsboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15349,
+    "latitude": 39.774031,
+    "longitude": -80.024576,
+    "city": "Mount Morris",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15350,
+    "latitude": 40.293731,
+    "longitude": -80.200484,
+    "city": "Muse",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15351,
+    "latitude": 39.877901,
+    "longitude": -79.925807,
+    "city": "Nemacolin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15352,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "New Freeport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15353,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Nineveh",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15354,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Pine Bank",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15357,
+    "latitude": 39.95437,
+    "longitude": -79.990431,
+    "city": "Rices Landing",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15358,
+    "latitude": 40.056347,
+    "longitude": -79.992554,
+    "city": "Richeyville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15359,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Rogersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15360,
+    "latitude": 40.092344,
+    "longitude": -80.099457,
+    "city": "Scenery Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15361,
+    "latitude": 40.32819,
+    "longitude": -80.256291,
+    "city": "Southview",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15362,
+    "latitude": 39.744657,
+    "longitude": -80.214471,
+    "city": "Spraggs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15363,
+    "latitude": 40.250454,
+    "longitude": -80.198354,
+    "city": "Strabane",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15364,
+    "latitude": 39.870635,
+    "longitude": -80.211335,
+    "city": "Sycamore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15365,
+    "latitude": 40.16113,
+    "longitude": -80.378093,
+    "city": "Taylorstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15366,
+    "latitude": 40.110068,
+    "longitude": -80.031787,
+    "city": "Van Voorhis",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15367,
+    "latitude": 40.244339,
+    "longitude": -80.247797,
+    "city": "Venetia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15368,
+    "latitude": 40.023775,
+    "longitude": -80.007731,
+    "city": "Vestaburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15370,
+    "latitude": 39.87477,
+    "longitude": -80.08057,
+    "city": "Waynesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15376,
+    "latitude": 40.128081,
+    "longitude": -80.270231,
+    "city": "West Alexander",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15377,
+    "latitude": 40.024677,
+    "longitude": -80.429726,
+    "city": "West Finley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15378,
+    "latitude": 40.277534,
+    "longitude": -80.27313,
+    "city": "Westland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15379,
+    "latitude": 40.241731,
+    "longitude": -80.424154,
+    "city": "West Middletown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15380,
+    "latitude": 39.909365,
+    "longitude": -80.43004,
+    "city": "Wind Ridge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 15401,
+    "latitude": 39.944884,
+    "longitude": -79.770063,
+    "city": "Uniontown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15410,
+    "latitude": 39.912105,
+    "longitude": -79.89636,
+    "city": "Adah",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15411,
+    "latitude": 39.752401,
+    "longitude": -79.330768,
+    "city": "Addison",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15412,
+    "latitude": 40.095888,
+    "longitude": -79.849887,
+    "city": "Allenport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15413,
+    "latitude": 39.986828,
+    "longitude": -79.863732,
+    "city": "Allison",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15415,
+    "latitude": 39.980787,
+    "longitude": -79.850366,
+    "city": "Brier Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15416,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "Brownfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15417,
+    "latitude": 39.921613,
+    "longitude": -79.690472,
+    "city": "Brownsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15419,
+    "latitude": 40.068921,
+    "longitude": -79.873163,
+    "city": "California",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15420,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "Cardale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15421,
+    "latitude": 39.845088,
+    "longitude": -79.599126,
+    "city": "Chalk Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15422,
+    "latitude": 39.992254,
+    "longitude": -79.817083,
+    "city": "Chestnut Ridge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15423,
+    "latitude": 40.082192,
+    "longitude": -79.930266,
+    "city": "Coal Center",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15424,
+    "latitude": 39.824325,
+    "longitude": -79.306409,
+    "city": "Confluence",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15425,
+    "latitude": 40.00743,
+    "longitude": -79.700949,
+    "city": "Connellsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15427,
+    "latitude": 40.065064,
+    "longitude": -79.973302,
+    "city": "Daisytown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15428,
+    "latitude": 39.983001,
+    "longitude": -79.725516,
+    "city": "Dawson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15429,
+    "latitude": 40.008082,
+    "longitude": -79.939234,
+    "city": "Denbo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15430,
+    "latitude": 40.041785,
+    "longitude": -79.659978,
+    "city": "Dickerson Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15431,
+    "latitude": 39.949088,
+    "longitude": -79.723151,
+    "city": "Dunbar",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15432,
+    "latitude": 40.099693,
+    "longitude": -79.85968,
+    "city": "Dunlevy",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15433,
+    "latitude": 39.973512,
+    "longitude": -79.704535,
+    "city": "East Millsboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15434,
+    "latitude": 40.080438,
+    "longitude": -79.875826,
+    "city": "Elco",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15435,
+    "latitude": 39.950123,
+    "longitude": -79.858471,
+    "city": "Fairbank",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15436,
+    "latitude": 39.954424,
+    "longitude": -79.808073,
+    "city": "Fairchance",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15437,
+    "latitude": 39.79741,
+    "longitude": -79.596769,
+    "city": "Farmington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15438,
+    "latitude": 40.066729,
+    "longitude": -79.844514,
+    "city": "Fayette City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15439,
+    "latitude": 39.771324,
+    "longitude": -79.635842,
+    "city": "Gans",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15440,
+    "latitude": 39.757751,
+    "longitude": -79.628365,
+    "city": "Gibbon Glade",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15442,
+    "latitude": 40.015516,
+    "longitude": -79.843978,
+    "city": "Grindstone",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15443,
+    "latitude": 39.926347,
+    "longitude": -79.901324,
+    "city": "Hibbs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15444,
+    "latitude": 40.05656,
+    "longitude": -79.902101,
+    "city": "Hiller",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15445,
+    "latitude": 39.876835,
+    "longitude": -79.671812,
+    "city": "Hopwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15446,
+    "latitude": 40.037453,
+    "longitude": -79.377806,
+    "city": "Indian Head",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15447,
+    "latitude": 39.945987,
+    "longitude": -79.939317,
+    "city": "Isabella",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15448,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Jacobs Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15449,
+    "latitude": 39.963622,
+    "longitude": -79.785349,
+    "city": "Keisterville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15450,
+    "latitude": 39.998279,
+    "longitude": -79.975391,
+    "city": "La Belle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15451,
+    "latitude": 39.742861,
+    "longitude": -79.854871,
+    "city": "Lake Lynn",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15454,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "Leckrone",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15455,
+    "latitude": 39.998536,
+    "longitude": -79.643451,
+    "city": "Leisenring",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15456,
+    "latitude": 39.877276,
+    "longitude": -79.805549,
+    "city": "Lemont Furnace",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15458,
+    "latitude": 39.888242,
+    "longitude": -79.869352,
+    "city": "Mc Clellandtown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15459,
+    "latitude": 39.822431,
+    "longitude": -79.529731,
+    "city": "Markleysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15460,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "Martin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15461,
+    "latitude": 39.94577,
+    "longitude": -79.681838,
+    "city": "Masontown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15462,
+    "latitude": 40.05974,
+    "longitude": -79.381435,
+    "city": "Melcroft",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15463,
+    "latitude": 39.882521,
+    "longitude": -79.833585,
+    "city": "Merrittstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15464,
+    "latitude": 39.933738,
+    "longitude": -79.432647,
+    "city": "Mill Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15465,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "Mount Braddock",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15466,
+    "latitude": 40.075064,
+    "longitude": -79.894347,
+    "city": "Newell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15467,
+    "latitude": 39.932084,
+    "longitude": -79.65217,
+    "city": "New Geneva",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15468,
+    "latitude": 39.941838,
+    "longitude": -79.841031,
+    "city": "New Salem",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15469,
+    "latitude": 40.00786,
+    "longitude": -79.438215,
+    "city": "Normalville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15470,
+    "latitude": 39.850675,
+    "longitude": -79.523004,
+    "city": "Ohiopyle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15472,
+    "latitude": 39.918319,
+    "longitude": -79.715837,
+    "city": "Oliver",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15473,
+    "latitude": 40.064564,
+    "longitude": -79.775594,
+    "city": "Perryopolis",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15474,
+    "latitude": 39.911834,
+    "longitude": -79.71174,
+    "city": "Point Marion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15475,
+    "latitude": 39.984667,
+    "longitude": -79.881421,
+    "city": "Republic",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15476,
+    "latitude": 39.879384,
+    "longitude": -79.916806,
+    "city": "Ronco",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15477,
+    "latitude": 40.080713,
+    "longitude": -79.862734,
+    "city": "Roscoe",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15478,
+    "latitude": 39.92959,
+    "longitude": -79.698875,
+    "city": "Smithfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15479,
+    "latitude": 40.155299,
+    "longitude": -79.738092,
+    "city": "Smithton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15480,
+    "latitude": 39.988339,
+    "longitude": -79.771265,
+    "city": "Smock",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15482,
+    "latitude": 40.065106,
+    "longitude": -79.769027,
+    "city": "Star Junction",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15483,
+    "latitude": 40.038498,
+    "longitude": -79.920937,
+    "city": "Stockdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 15484,
+    "latitude": 39.893625,
+    "longitude": -79.785642,
+    "city": "Uledi",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15485,
+    "latitude": 39.817346,
+    "longitude": -79.330642,
+    "city": "Ursina",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15486,
+    "latitude": 40.010683,
+    "longitude": -79.750787,
+    "city": "Vanderbilt",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15488,
+    "latitude": 39.976316,
+    "longitude": -79.768901,
+    "city": "Waltersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15489,
+    "latitude": 39.956056,
+    "longitude": -79.700745,
+    "city": "West Leisenring",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15490,
+    "latitude": 40.075857,
+    "longitude": -79.452796,
+    "city": "White",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15492,
+    "latitude": 40.117828,
+    "longitude": -79.771797,
+    "city": "Wickhaven",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15501,
+    "latitude": 39.990045,
+    "longitude": -79.08745,
+    "city": "Somerset",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15502,
+    "latitude": 40.046023,
+    "longitude": -79.258458,
+    "city": "Hidden Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15510,
+    "latitude": 39.963306,
+    "longitude": -79.04089,
+    "city": "Somerset",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15520,
+    "latitude": 40.113021,
+    "longitude": -79.070218,
+    "city": "Acosta",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15521,
+    "latitude": 40.198627,
+    "longitude": -78.622801,
+    "city": "Alum Bank",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15522,
+    "latitude": 39.95464,
+    "longitude": -78.574759,
+    "city": "Bedford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15530,
+    "latitude": 39.942768,
+    "longitude": -78.981234,
+    "city": "Berlin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15531,
+    "latitude": 40.006392,
+    "longitude": -78.989292,
+    "city": "Boswell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15532,
+    "latitude": 39.767296,
+    "longitude": -79.062012,
+    "city": "Boynton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15533,
+    "latitude": 39.98344,
+    "longitude": -78.251177,
+    "city": "Breezewood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15534,
+    "latitude": 39.864251,
+    "longitude": -78.674197,
+    "city": "Buffalo Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15535,
+    "latitude": 39.839294,
+    "longitude": -78.469881,
+    "city": "Clearville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15536,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Crystal Spring",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 15537,
+    "latitude": 39.966962,
+    "longitude": -78.458753,
+    "city": "Everett",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15538,
+    "latitude": 39.945164,
+    "longitude": -78.954581,
+    "city": "Fairhope",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15539,
+    "latitude": 40.130173,
+    "longitude": -78.591457,
+    "city": "Fishertown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15540,
+    "latitude": 39.796137,
+    "longitude": -79.247161,
+    "city": "Fort Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15541,
+    "latitude": 40.085382,
+    "longitude": -78.963508,
+    "city": "Friedens",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15542,
+    "latitude": 39.8659,
+    "longitude": -79.074705,
+    "city": "Garrett",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15544,
+    "latitude": 40.137749,
+    "longitude": -79.092551,
+    "city": "Gray",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15545,
+    "latitude": 39.886506,
+    "longitude": -78.712775,
+    "city": "Hyndman",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15546,
+    "latitude": 40.145938,
+    "longitude": -79.067583,
+    "city": "Jenners",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15547,
+    "latitude": 40.1595,
+    "longitude": -79.061629,
+    "city": "Jennerstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15548,
+    "latitude": 40.101106,
+    "longitude": -78.938653,
+    "city": "Kantner",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15549,
+    "latitude": 40.020764,
+    "longitude": -79.012306,
+    "city": "Listie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15550,
+    "latitude": 39.902488,
+    "longitude": -78.658195,
+    "city": "Manns Choice",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15551,
+    "latitude": 39.887287,
+    "longitude": -79.254694,
+    "city": "Markleton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15552,
+    "latitude": 39.875014,
+    "longitude": -79.038599,
+    "city": "Meyersdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15553,
+    "latitude": 39.982795,
+    "longitude": -78.771929,
+    "city": "New Baltimore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15554,
+    "latitude": 39.981413,
+    "longitude": -78.611595,
+    "city": "New Paris",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15555,
+    "latitude": 40.091429,
+    "longitude": -79.087198,
+    "city": "Quecreek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15557,
+    "latitude": 39.955145,
+    "longitude": -79.141476,
+    "city": "Rockwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15558,
+    "latitude": 39.941261,
+    "longitude": -79.083318,
+    "city": "Salisbury",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15559,
+    "latitude": 40.057047,
+    "longitude": -78.642513,
+    "city": "Schellsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 15560,
+    "latitude": 40.017059,
+    "longitude": -78.907682,
+    "city": "Shanksville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15561,
+    "latitude": 40.096406,
+    "longitude": -79.090158,
+    "city": "Sipesville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15562,
+    "latitude": 39.74802,
+    "longitude": -79.123732,
+    "city": "Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15563,
+    "latitude": 40.094802,
+    "longitude": -78.965817,
+    "city": "Stoystown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15564,
+    "latitude": 39.729896,
+    "longitude": -78.844105,
+    "city": "Wellersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15565,
+    "latitude": 40.003476,
+    "longitude": -79.037983,
+    "city": "West Salisbury",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15601,
+    "latitude": 40.347017,
+    "longitude": -79.500729,
+    "city": "Greensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15605,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Greensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15606,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Greensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15610,
+    "latitude": 40.120149,
+    "longitude": -79.405069,
+    "city": "Acme",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15611,
+    "latitude": 40.303771,
+    "longitude": -79.653058,
+    "city": "Adamsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15612,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Alverton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15613,
+    "latitude": 40.436827,
+    "longitude": -79.617178,
+    "city": "Apollo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15615,
+    "latitude": 40.360619,
+    "longitude": -79.743317,
+    "city": "Ardara",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15616,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Armbrust",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15617,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Arona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15618,
+    "latitude": 40.497049,
+    "longitude": -79.489055,
+    "city": "Avonmore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15619,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Bovard",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15620,
+    "latitude": 40.323845,
+    "longitude": -79.343421,
+    "city": "Bradenville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15621,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Calumet",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15622,
+    "latitude": 40.190193,
+    "longitude": -79.30196,
+    "city": "Champion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15623,
+    "latitude": 40.36921,
+    "longitude": -79.619012,
+    "city": "Claridge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15624,
+    "latitude": 40.357753,
+    "longitude": -79.484028,
+    "city": "Crabtree",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15625,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Darragh",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15626,
+    "latitude": 40.36131,
+    "longitude": -79.571423,
+    "city": "Delmont",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15627,
+    "latitude": 40.350227,
+    "longitude": -79.402056,
+    "city": "Derry",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15628,
+    "latitude": 40.102807,
+    "longitude": -79.377008,
+    "city": "Donegal",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15629,
+    "latitude": 40.598047,
+    "longitude": -79.562383,
+    "city": "East Vandergrift",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15630,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Edmon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15631,
+    "latitude": 40.084517,
+    "longitude": -79.590529,
+    "city": "Everson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 15632,
+    "latitude": 40.429723,
+    "longitude": -79.634789,
+    "city": "Export",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15633,
+    "latitude": 40.357548,
+    "longitude": -79.522546,
+    "city": "Forbes Road",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15634,
+    "latitude": 40.308892,
+    "longitude": -79.66542,
+    "city": "Grapeville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15635,
+    "latitude": 40.352037,
+    "longitude": -79.49789,
+    "city": "Hannastown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15636,
+    "latitude": 40.36602,
+    "longitude": -79.656525,
+    "city": "Harrison City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15637,
+    "latitude": 40.266168,
+    "longitude": -79.56779,
+    "city": "Herminie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15638,
+    "latitude": 40.26106,
+    "longitude": -79.14313,
+    "city": "Hostetter",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15639,
+    "latitude": 40.328617,
+    "longitude": -79.624473,
+    "city": "Hunker",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15640,
+    "latitude": 40.225086,
+    "longitude": -79.732805,
+    "city": "Hutchinson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15641,
+    "latitude": 40.628165,
+    "longitude": -79.595648,
+    "city": "Hyde Park",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15642,
+    "latitude": 40.36502,
+    "longitude": -79.58406,
+    "city": "Irwin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15644,
+    "latitude": 40.374572,
+    "longitude": -79.407913,
+    "city": "Jeannette",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15646,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Jones Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15647,
+    "latitude": 40.341519,
+    "longitude": -79.727216,
+    "city": "Larimer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15650,
+    "latitude": 40.35577,
+    "longitude": -79.421969,
+    "city": "Latrobe",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15655,
+    "latitude": 40.231409,
+    "longitude": -79.171459,
+    "city": "Laughlintown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15656,
+    "latitude": 40.63896,
+    "longitude": -79.610962,
+    "city": "Leechburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15658,
+    "latitude": 40.271322,
+    "longitude": -79.251145,
+    "city": "Ligonier",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15660,
+    "latitude": 40.248798,
+    "longitude": -79.764638,
+    "city": "Lowber",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15661,
+    "latitude": 40.286515,
+    "longitude": -79.513433,
+    "city": "Loyalhanna",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15662,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Luxor",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15663,
+    "latitude": 40.24397,
+    "longitude": -79.676516,
+    "city": "Madison",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15664,
+    "latitude": 40.310772,
+    "longitude": -79.617187,
+    "city": "Mammoth",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15665,
+    "latitude": 40.292194,
+    "longitude": -79.664868,
+    "city": "Manor",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15666,
+    "latitude": 40.202211,
+    "longitude": -79.609982,
+    "city": "Mount Pleasant",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15668,
+    "latitude": 40.423293,
+    "longitude": -79.663288,
+    "city": "Murrysville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15670,
+    "latitude": 40.396655,
+    "longitude": -79.444008,
+    "city": "New Alexandria",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15671,
+    "latitude": 40.349446,
+    "longitude": -79.322549,
+    "city": "New Derry",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15672,
+    "latitude": 40.24375,
+    "longitude": -79.658436,
+    "city": "New Stanton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15673,
+    "latitude": 40.593035,
+    "longitude": -79.558098,
+    "city": "North Apollo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15674,
+    "latitude": 40.216006,
+    "longitude": -79.487239,
+    "city": "Norvelt",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15675,
+    "latitude": 40.314908,
+    "longitude": -79.681435,
+    "city": "Penn",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15676,
+    "latitude": 40.242429,
+    "longitude": -79.454212,
+    "city": "Pleasant Unity",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15677,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Rector",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15678,
+    "latitude": 40.282843,
+    "longitude": -79.723278,
+    "city": "Rillton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15679,
+    "latitude": 40.226934,
+    "longitude": -79.673364,
+    "city": "Ruffs Dale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15680,
+    "latitude": 40.518905,
+    "longitude": -79.495871,
+    "city": "Salina",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15681,
+    "latitude": 40.542875,
+    "longitude": -79.397809,
+    "city": "Saltsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15682,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Schenley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15683,
+    "latitude": 40.35535,
+    "longitude": -79.520544,
+    "city": "Scottdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15684,
+    "latitude": 40.46037,
+    "longitude": -79.515628,
+    "city": "Slickville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15685,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Southwest",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15686,
+    "latitude": 40.616816,
+    "longitude": -79.479833,
+    "city": "Spring Church",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15687,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Stahlstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15688,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Tarrs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15689,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "United",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15690,
+    "latitude": 40.400412,
+    "longitude": -79.546855,
+    "city": "Vandergrift",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15691,
+    "latitude": 40.294021,
+    "longitude": -79.686626,
+    "city": "Wendel",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15692,
+    "latitude": 40.329386,
+    "longitude": -79.680567,
+    "city": "Westmoreland City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15693,
+    "latitude": 40.248274,
+    "longitude": -79.408579,
+    "city": "Whitney",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15695,
+    "latitude": 40.196199,
+    "longitude": -79.694244,
+    "city": "Wyano",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15696,
+    "latitude": 40.279337,
+    "longitude": -79.366066,
+    "city": "Youngstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15697,
+    "latitude": 40.240536,
+    "longitude": -79.505889,
+    "city": "Youngwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15698,
+    "latitude": 40.222685,
+    "longitude": -79.691067,
+    "city": "Yukon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15701,
+    "latitude": 40.621272,
+    "longitude": -79.080422,
+    "city": "Indiana",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15705,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Indiana",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15710,
+    "latitude": 40.633313,
+    "longitude": -78.872314,
+    "city": "Alverda",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15711,
+    "latitude": 41.171119,
+    "longitude": -78.913113,
+    "city": "Anita",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15712,
+    "latitude": 40.781719,
+    "longitude": -78.853612,
+    "city": "Arcadia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15713,
+    "latitude": 40.61927,
+    "longitude": -79.083982,
+    "city": "Aultman",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15714,
+    "latitude": 40.658721,
+    "longitude": -78.794582,
+    "city": "Northern Cambria",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15715,
+    "latitude": 40.970448,
+    "longitude": -78.875799,
+    "city": "Big Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15716,
+    "latitude": 40.483646,
+    "longitude": -79.206322,
+    "city": "Black Lick",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15717,
+    "latitude": 40.486445,
+    "longitude": -79.195766,
+    "city": "Blairsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15720,
+    "latitude": 40.529238,
+    "longitude": -79.0846,
+    "city": "Brush Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15721,
+    "latitude": 41.054375,
+    "longitude": -78.41095,
+    "city": "Burnside",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15722,
+    "latitude": 40.583025,
+    "longitude": -78.728455,
+    "city": "Carrolltown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15723,
+    "latitude": 40.705639,
+    "longitude": -79.16151,
+    "city": "Chambersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15724,
+    "latitude": 40.724976,
+    "longitude": -78.860324,
+    "city": "Cherry Tree",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15725,
+    "latitude": 40.632813,
+    "longitude": -79.132551,
+    "city": "Clarksburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15727,
+    "latitude": 40.55027,
+    "longitude": -79.323745,
+    "city": "Clune",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15728,
+    "latitude": 40.748901,
+    "longitude": -78.997726,
+    "city": "Clymer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15729,
+    "latitude": 40.706462,
+    "longitude": -78.924401,
+    "city": "Commodore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15730,
+    "latitude": 40.967066,
+    "longitude": -78.925563,
+    "city": "Coolspring",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15731,
+    "latitude": 40.498602,
+    "longitude": -79.173892,
+    "city": "Coral",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15732,
+    "latitude": 40.661336,
+    "longitude": -79.217127,
+    "city": "Creekside",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15733,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "De Lancey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15734,
+    "latitude": 40.718817,
+    "longitude": -78.979489,
+    "city": "Dixonville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15736,
+    "latitude": 40.692153,
+    "longitude": -79.34218,
+    "city": "Elderton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15737,
+    "latitude": 40.607635,
+    "longitude": -78.752415,
+    "city": "Elmora",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15738,
+    "latitude": 40.693633,
+    "longitude": -78.775076,
+    "city": "Emeigh",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15739,
+    "latitude": 40.677971,
+    "longitude": -79.165708,
+    "city": "Ernest",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15740,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Frostburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15741,
+    "latitude": 40.796017,
+    "longitude": -78.858614,
+    "city": "Gipsy",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15742,
+    "latitude": 40.804413,
+    "longitude": -78.889036,
+    "city": "Glen Campbell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15744,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Hamilton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15745,
+    "latitude": 40.620736,
+    "longitude": -78.918561,
+    "city": "Heilwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15746,
+    "latitude": 40.767854,
+    "longitude": -78.877331,
+    "city": "Hillsdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15747,
+    "latitude": 40.701519,
+    "longitude": -79.182743,
+    "city": "Home",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15748,
+    "latitude": 40.627752,
+    "longitude": -79.089616,
+    "city": "Homer City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15750,
+    "latitude": 40.482783,
+    "longitude": -79.185048,
+    "city": "Josephine",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15751,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Juneau",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15752,
+    "latitude": 40.5412,
+    "longitude": -79.282047,
+    "city": "Kent",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15753,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "La Jose",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15754,
+    "latitude": 40.500198,
+    "longitude": -79.176571,
+    "city": "Lucernemines",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15756,
+    "latitude": 40.568381,
+    "longitude": -79.299931,
+    "city": "Mc Intyre",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15757,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Mahaffey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15758,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Marchand",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15759,
+    "latitude": 40.685945,
+    "longitude": -79.051607,
+    "city": "Marion Center",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15760,
+    "latitude": 40.652187,
+    "longitude": -78.80542,
+    "city": "Marsteller",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15761,
+    "latitude": 40.620066,
+    "longitude": -78.887009,
+    "city": "Mentcle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15762,
+    "latitude": 40.600962,
+    "longitude": -78.82209,
+    "city": "Nicktown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15763,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Northpoint",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15764,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Oliveburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15765,
+    "latitude": 40.621281,
+    "longitude": -78.99431,
+    "city": "Penn Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15767,
+    "latitude": 40.944538,
+    "longitude": -78.979845,
+    "city": "Punxsutawney",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15770,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Ringgold",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15771,
+    "latitude": 40.72193,
+    "longitude": -79.006162,
+    "city": "Rochester Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15772,
+    "latitude": 40.869654,
+    "longitude": -78.900483,
+    "city": "Rossiter",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15773,
+    "latitude": 40.629818,
+    "longitude": -78.732947,
+    "city": "Saint Benedict",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15774,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Shelocta",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 15775,
+    "latitude": 40.63513,
+    "longitude": -78.769185,
+    "city": "Spangler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15776,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Sprankle Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15777,
+    "latitude": 40.702673,
+    "longitude": -78.958847,
+    "city": "Starford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15778,
+    "latitude": 40.967353,
+    "longitude": -79.199017,
+    "city": "Timblin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15779,
+    "latitude": 40.360223,
+    "longitude": -79.439801,
+    "city": "Torrance",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15780,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Valier",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15781,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Walston",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15783,
+    "latitude": 40.583778,
+    "longitude": -79.342331,
+    "city": "West Lebanon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15784,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Worthville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15801,
+    "latitude": 41.118045,
+    "longitude": -78.720302,
+    "city": "Du Bois",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15821,
+    "latitude": 41.415878,
+    "longitude": -78.665057,
+    "city": "Benezett",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15822,
+    "latitude": 41.415878,
+    "longitude": -78.665057,
+    "city": "Brandy Camp",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15823,
+    "latitude": 41.253932,
+    "longitude": -78.699711,
+    "city": "Brockport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15824,
+    "latitude": 41.247202,
+    "longitude": -78.7989,
+    "city": "Brockway",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15825,
+    "latitude": 41.162735,
+    "longitude": -79.081609,
+    "city": "Brookville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15827,
+    "latitude": 41.291008,
+    "longitude": -78.50435,
+    "city": "Byrnedale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15828,
+    "latitude": 41.475887,
+    "longitude": -79.239101,
+    "city": "Clarington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 15829,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Corsica",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15831,
+    "latitude": 41.304782,
+    "longitude": -78.621286,
+    "city": "Dagus Mines",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15832,
+    "latitude": 41.417566,
+    "longitude": -78.204927,
+    "city": "Driftwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 15834,
+    "latitude": 41.51031,
+    "longitude": -78.23157,
+    "city": "Emporium",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 15840,
+    "latitude": 41.149752,
+    "longitude": -78.820695,
+    "city": "Falls Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15841,
+    "latitude": 41.283709,
+    "longitude": -78.551668,
+    "city": "Force",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15845,
+    "latitude": 41.504669,
+    "longitude": -78.687183,
+    "city": "Johnsonburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15846,
+    "latitude": 41.336887,
+    "longitude": -78.605537,
+    "city": "Kersey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15847,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Knox Dale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15848,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Luthersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15849,
+    "latitude": 41.20156,
+    "longitude": -78.583502,
+    "city": "Penfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15851,
+    "latitude": 41.095556,
+    "longitude": -78.886154,
+    "city": "Reynoldsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15853,
+    "latitude": 41.362112,
+    "longitude": -78.726238,
+    "city": "Ridgway",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15856,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Rockton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15857,
+    "latitude": 41.452935,
+    "longitude": -78.529829,
+    "city": "Saint Marys",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15860,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Sigel",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15861,
+    "latitude": 41.417566,
+    "longitude": -78.204927,
+    "city": "Sinnamahoning",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cameron"
+  },
+  {
+    "zip_code": 15863,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Stump Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15864,
+    "latitude": 41.141079,
+    "longitude": -78.962877,
+    "city": "Summerville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15865,
+    "latitude": 41.047897,
+    "longitude": -78.819682,
+    "city": "Sykesville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 15866,
+    "latitude": 41.011686,
+    "longitude": -78.785731,
+    "city": "Troutville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 15868,
+    "latitude": 41.279081,
+    "longitude": -78.527949,
+    "city": "Weedville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15870,
+    "latitude": 41.572956,
+    "longitude": -78.665262,
+    "city": "Wilcox",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 15901,
+    "latitude": 40.412707,
+    "longitude": -78.854245,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15902,
+    "latitude": 40.417111,
+    "longitude": -78.80599,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15904,
+    "latitude": 40.319279,
+    "longitude": -78.828084,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15905,
+    "latitude": 40.314074,
+    "longitude": -78.870894,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15906,
+    "latitude": 40.494132,
+    "longitude": -78.838673,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15907,
+    "latitude": 40.325374,
+    "longitude": -78.915147,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15909,
+    "latitude": 40.440314,
+    "longitude": -78.85591,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15915,
+    "latitude": 40.484487,
+    "longitude": -78.702224,
+    "city": "Johnstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15920,
+    "latitude": 40.460262,
+    "longitude": -79.009721,
+    "city": "Armagh",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15921,
+    "latitude": 40.319561,
+    "longitude": -78.694043,
+    "city": "Beaverdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15922,
+    "latitude": 40.484487,
+    "longitude": -78.702224,
+    "city": "Belsano",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15923,
+    "latitude": 40.348279,
+    "longitude": -79.15321,
+    "city": "Bolivar",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15924,
+    "latitude": 40.11492,
+    "longitude": -78.7851,
+    "city": "Cairnbrook",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15925,
+    "latitude": 40.4128,
+    "longitude": -78.633698,
+    "city": "Cassandra",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15926,
+    "latitude": 40.074818,
+    "longitude": -78.83817,
+    "city": "Central City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15927,
+    "latitude": 40.538311,
+    "longitude": -78.786549,
+    "city": "Colver",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15928,
+    "latitude": 40.23523,
+    "longitude": -78.919007,
+    "city": "Davidsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15929,
+    "latitude": 40.462521,
+    "longitude": -79.012834,
+    "city": "Dilltown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15930,
+    "latitude": 40.293935,
+    "longitude": -78.719217,
+    "city": "Dunlo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15931,
+    "latitude": 40.459581,
+    "longitude": -78.771875,
+    "city": "Ebensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15934,
+    "latitude": 40.279925,
+    "longitude": -78.803247,
+    "city": "Elton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15935,
+    "latitude": 40.20137,
+    "longitude": -78.958371,
+    "city": "Hollsopple",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15936,
+    "latitude": 40.155129,
+    "longitude": -78.916785,
+    "city": "Hooversville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15937,
+    "latitude": 40.208435,
+    "longitude": -78.987265,
+    "city": "Jerome",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15938,
+    "latitude": 40.427588,
+    "longitude": -78.639257,
+    "city": "Lilly",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15940,
+    "latitude": 40.517191,
+    "longitude": -78.61487,
+    "city": "Loretto",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15942,
+    "latitude": 40.419784,
+    "longitude": -78.823794,
+    "city": "Mineral Point",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15943,
+    "latitude": 40.392443,
+    "longitude": -78.848566,
+    "city": "Nanty Glo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15944,
+    "latitude": 40.326182,
+    "longitude": -79.101925,
+    "city": "New Florence",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15945,
+    "latitude": 40.356723,
+    "longitude": -78.873296,
+    "city": "Parkhill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15946,
+    "latitude": 40.369239,
+    "longitude": -78.752509,
+    "city": "Portage",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15948,
+    "latitude": 40.464069,
+    "longitude": -78.685365,
+    "city": "Revloc",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15949,
+    "latitude": 40.403698,
+    "longitude": -79.12204,
+    "city": "Robinson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15951,
+    "latitude": 40.338615,
+    "longitude": -78.776137,
+    "city": "Saint Michael",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15952,
+    "latitude": 40.298574,
+    "longitude": -78.781592,
+    "city": "Salix",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15953,
+    "latitude": 40.206435,
+    "longitude": -78.900533,
+    "city": "Seanor",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15954,
+    "latitude": 40.401071,
+    "longitude": -79.029098,
+    "city": "Seward",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 15955,
+    "latitude": 40.334129,
+    "longitude": -78.715511,
+    "city": "Sidman",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15956,
+    "latitude": 40.41164,
+    "longitude": -78.778413,
+    "city": "South Fork",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15957,
+    "latitude": 40.572746,
+    "longitude": -78.900034,
+    "city": "Strongstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 15958,
+    "latitude": 40.39114,
+    "longitude": -78.735229,
+    "city": "Summerhill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15959,
+    "latitude": 40.267975,
+    "longitude": -78.915567,
+    "city": "Tire Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 15960,
+    "latitude": 40.49963,
+    "longitude": -78.861308,
+    "city": "Twin Rocks",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15961,
+    "latitude": 40.437721,
+    "longitude": -78.924998,
+    "city": "Vintondale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15962,
+    "latitude": 40.380188,
+    "longitude": -78.719019,
+    "city": "Wilmore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 15963,
+    "latitude": 40.180418,
+    "longitude": -78.829021,
+    "city": "Windber",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 16001,
+    "latitude": 40.885861,
+    "longitude": -79.934048,
+    "city": "Butler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16002,
+    "latitude": 40.8409,
+    "longitude": -79.859175,
+    "city": "Butler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16003,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Butler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16016,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Boyers",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16017,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Boyers",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16018,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Boyers",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16020,
+    "latitude": 41.106846,
+    "longitude": -79.900626,
+    "city": "Boyers",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16021,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Branchton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16022,
+    "latitude": 41.055515,
+    "longitude": -79.731308,
+    "city": "Bruin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16023,
+    "latitude": 40.792353,
+    "longitude": -79.760048,
+    "city": "Cabot",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16024,
+    "latitude": 40.921867,
+    "longitude": -79.994747,
+    "city": "Callery",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16025,
+    "latitude": 40.940484,
+    "longitude": -79.777107,
+    "city": "Chicora",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16027,
+    "latitude": 40.826436,
+    "longitude": -80.013785,
+    "city": "Connoquenessing",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16028,
+    "latitude": 40.98399,
+    "longitude": -79.615234,
+    "city": "East Brady",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16029,
+    "latitude": 40.780174,
+    "longitude": -79.780792,
+    "city": "East Butler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16030,
+    "latitude": 41.136538,
+    "longitude": -79.802384,
+    "city": "Eau Claire",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16033,
+    "latitude": 40.904798,
+    "longitude": -79.936488,
+    "city": "Evans City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16034,
+    "latitude": 40.864921,
+    "longitude": -79.735066,
+    "city": "Fenelton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16035,
+    "latitude": 41.106756,
+    "longitude": -80.007017,
+    "city": "Forestville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16036,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Foxburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16037,
+    "latitude": 40.8282,
+    "longitude": -80.09825,
+    "city": "Harmony",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16038,
+    "latitude": 40.935262,
+    "longitude": -80.00865,
+    "city": "Harrisville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16039,
+    "latitude": 40.921145,
+    "longitude": -79.92758,
+    "city": "Herman",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16040,
+    "latitude": 41.091444,
+    "longitude": -79.835723,
+    "city": "Hilliards",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16041,
+    "latitude": 41.005368,
+    "longitude": -79.766612,
+    "city": "Karns City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16045,
+    "latitude": 40.801238,
+    "longitude": -79.963774,
+    "city": "Lyndora",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16046,
+    "latitude": 40.866316,
+    "longitude": -79.936986,
+    "city": "Mars",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16048,
+    "latitude": 41.04719,
+    "longitude": -79.808899,
+    "city": "North Washington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16049,
+    "latitude": 41.093079,
+    "longitude": -79.682532,
+    "city": "Parker",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16050,
+    "latitude": 41.041059,
+    "longitude": -79.762814,
+    "city": "Petrolia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16051,
+    "latitude": 41.01782,
+    "longitude": -80.072356,
+    "city": "Portersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16052,
+    "latitude": 40.956173,
+    "longitude": -79.933127,
+    "city": "Prospect",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16053,
+    "latitude": 40.803054,
+    "longitude": -79.990821,
+    "city": "Renfrew",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16054,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Saint Petersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16055,
+    "latitude": 40.720919,
+    "longitude": -79.76262,
+    "city": "Sarver",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16056,
+    "latitude": 40.861995,
+    "longitude": -79.864282,
+    "city": "Saxonburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16057,
+    "latitude": 41.052427,
+    "longitude": -80.043821,
+    "city": "Slippery Rock",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16058,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Turkey City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16059,
+    "latitude": 40.710689,
+    "longitude": -79.937074,
+    "city": "Valencia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16061,
+    "latitude": 41.021754,
+    "longitude": -79.884312,
+    "city": "West Sunbury",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16063,
+    "latitude": 40.7609,
+    "longitude": -80.10939,
+    "city": "Zelienople",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16066,
+    "latitude": 40.709713,
+    "longitude": -80.104597,
+    "city": "Cranberry Twp",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 16101,
+    "latitude": 40.964516,
+    "longitude": -80.300736,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16102,
+    "latitude": 40.9613,
+    "longitude": -80.408502,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16103,
+    "latitude": 40.989662,
+    "longitude": -80.308376,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16105,
+    "latitude": 41.024051,
+    "longitude": -80.345444,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16107,
+    "latitude": 40.989662,
+    "longitude": -80.308376,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16108,
+    "latitude": 40.989662,
+    "longitude": -80.308376,
+    "city": "New Castle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16110,
+    "latitude": 41.629436,
+    "longitude": -80.214024,
+    "city": "Adamsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16111,
+    "latitude": 41.524812,
+    "longitude": -80.32056,
+    "city": "Atlantic",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16112,
+    "latitude": 40.95621,
+    "longitude": -80.486131,
+    "city": "Bessemer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16113,
+    "latitude": 41.286567,
+    "longitude": -80.423727,
+    "city": "Clark",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16114,
+    "latitude": 41.405788,
+    "longitude": -80.184099,
+    "city": "Clarks Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16115,
+    "latitude": 40.786244,
+    "longitude": -80.391487,
+    "city": "Darlington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 16116,
+    "latitude": 41.031749,
+    "longitude": -80.457328,
+    "city": "Edinburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16117,
+    "latitude": 40.917478,
+    "longitude": -80.363481,
+    "city": "Ellwood City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16120,
+    "latitude": 40.905222,
+    "longitude": -80.468225,
+    "city": "Enon Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16121,
+    "latitude": 41.210606,
+    "longitude": -80.487821,
+    "city": "Farrell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16123,
+    "latitude": 40.813208,
+    "longitude": -80.199126,
+    "city": "Fombell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 16124,
+    "latitude": 41.334133,
+    "longitude": -80.262473,
+    "city": "Fredonia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16125,
+    "latitude": 41.326606,
+    "longitude": -80.288302,
+    "city": "Greenville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16127,
+    "latitude": 41.170823,
+    "longitude": -80.089581,
+    "city": "Grove City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16130,
+    "latitude": 41.32821,
+    "longitude": -80.292168,
+    "city": "Hadley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16131,
+    "latitude": 41.534292,
+    "longitude": -80.417374,
+    "city": "Hartstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16132,
+    "latitude": 41.011263,
+    "longitude": -80.497546,
+    "city": "Hillsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16133,
+    "latitude": 41.278208,
+    "longitude": -80.113231,
+    "city": "Jackson Center",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16134,
+    "latitude": 41.456649,
+    "longitude": -80.449185,
+    "city": "Jamestown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16136,
+    "latitude": 40.834767,
+    "longitude": -80.328009,
+    "city": "Koppel",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 16137,
+    "latitude": 41.222885,
+    "longitude": -80.250704,
+    "city": "Mercer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16140,
+    "latitude": 40.989662,
+    "longitude": -80.308376,
+    "city": "New Bedford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16141,
+    "latitude": 40.833615,
+    "longitude": -80.384434,
+    "city": "New Galilee",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Beaver"
+  },
+  {
+    "zip_code": 16142,
+    "latitude": 41.10446,
+    "longitude": -80.352749,
+    "city": "New Wilmington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16143,
+    "latitude": 41.087533,
+    "longitude": -80.472593,
+    "city": "Pulaski",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16145,
+    "latitude": 41.380743,
+    "longitude": -80.21727,
+    "city": "Sandy Lake",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16146,
+    "latitude": 41.234505,
+    "longitude": -80.44793,
+    "city": "Sharon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16148,
+    "latitude": 41.221984,
+    "longitude": -80.438887,
+    "city": "Hermitage",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16150,
+    "latitude": 41.283776,
+    "longitude": -80.400053,
+    "city": "Sharpsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16151,
+    "latitude": 41.44346,
+    "longitude": -80.205513,
+    "city": "Sheakleyville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16153,
+    "latitude": 41.335562,
+    "longitude": -80.10361,
+    "city": "Stoneboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16154,
+    "latitude": 41.368354,
+    "longitude": -80.360703,
+    "city": "Transfer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16155,
+    "latitude": 40.989662,
+    "longitude": -80.308376,
+    "city": "Villa Maria",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16156,
+    "latitude": 41.089458,
+    "longitude": -80.19346,
+    "city": "Volant",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16157,
+    "latitude": 40.893341,
+    "longitude": -80.33774,
+    "city": "Wampum",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16159,
+    "latitude": 41.238352,
+    "longitude": -80.300747,
+    "city": "West Middlesex",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16160,
+    "latitude": 40.930132,
+    "longitude": -80.361099,
+    "city": "West Pittsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16161,
+    "latitude": 41.200256,
+    "longitude": -80.502702,
+    "city": "Wheatland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16172,
+    "latitude": 41.119992,
+    "longitude": -80.333192,
+    "city": "New Wilmington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 16201,
+    "latitude": 40.817197,
+    "longitude": -79.419457,
+    "city": "Kittanning",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16210,
+    "latitude": 40.855727,
+    "longitude": -79.545145,
+    "city": "Adrian",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16211,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Beyer",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 16212,
+    "latitude": 40.754086,
+    "longitude": -79.580912,
+    "city": "Cadogan",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16213,
+    "latitude": 41.123556,
+    "longitude": -79.568457,
+    "city": "Callensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16214,
+    "latitude": 41.143274,
+    "longitude": -79.452051,
+    "city": "Clarion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16215,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Kittanning",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16216,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Climax",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16217,
+    "latitude": 41.475887,
+    "longitude": -79.239101,
+    "city": "Cooksburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16218,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Cowansville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16220,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Crown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16221,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Curllsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16222,
+    "latitude": 40.881227,
+    "longitude": -79.240054,
+    "city": "Dayton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16223,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Distant",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16224,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Fairmount City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16225,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Fisher",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16226,
+    "latitude": 40.79965,
+    "longitude": -79.420198,
+    "city": "Ford City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16228,
+    "latitude": 40.756829,
+    "longitude": -79.522225,
+    "city": "Ford Cliff",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16229,
+    "latitude": 40.743732,
+    "longitude": -79.46114,
+    "city": "Freeport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16230,
+    "latitude": 41.017753,
+    "longitude": -79.279932,
+    "city": "Hawthorn",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16232,
+    "latitude": 41.190299,
+    "longitude": -79.592521,
+    "city": "Knox",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16233,
+    "latitude": 41.388826,
+    "longitude": -79.273662,
+    "city": "Leeper",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16234,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Limestone",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16235,
+    "latitude": 41.300236,
+    "longitude": -79.35779,
+    "city": "Lucinda",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16236,
+    "latitude": 40.781788,
+    "longitude": -79.521842,
+    "city": "Mc Grann",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16238,
+    "latitude": 40.787688,
+    "longitude": -79.521034,
+    "city": "Manorville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16239,
+    "latitude": 41.469973,
+    "longitude": -79.125004,
+    "city": "Marienville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16240,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Mayport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16242,
+    "latitude": 41.12698,
+    "longitude": -79.40791,
+    "city": "New Bethlehem",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16244,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Nu Mine",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16245,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Oak Ridge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16246,
+    "latitude": 40.640031,
+    "longitude": -79.129445,
+    "city": "Plumville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 16248,
+    "latitude": 41.041098,
+    "longitude": -79.501668,
+    "city": "Rimersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16249,
+    "latitude": 40.746619,
+    "longitude": -79.496645,
+    "city": "Rural Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16250,
+    "latitude": 40.777387,
+    "longitude": -79.233585,
+    "city": "Sagamore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16253,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Seminole",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16254,
+    "latitude": 41.263674,
+    "longitude": -79.434105,
+    "city": "Shippenville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16255,
+    "latitude": 41.105702,
+    "longitude": -79.489973,
+    "city": "Sligo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16256,
+    "latitude": 40.867654,
+    "longitude": -79.141344,
+    "city": "Smicksburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Indiana"
+  },
+  {
+    "zip_code": 16257,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Snydersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16258,
+    "latitude": 41.235244,
+    "longitude": -79.281881,
+    "city": "Strattanville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16259,
+    "latitude": 40.915899,
+    "longitude": -79.461201,
+    "city": "Templeton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16260,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Vowinckel",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16261,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Widnoon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16262,
+    "latitude": 40.837764,
+    "longitude": -79.629766,
+    "city": "Worthington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16263,
+    "latitude": 40.847829,
+    "longitude": -79.451575,
+    "city": "Yatesboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Armstrong"
+  },
+  {
+    "zip_code": 16301,
+    "latitude": 41.330725,
+    "longitude": -79.775153,
+    "city": "Oil City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16311,
+    "latitude": 41.456666,
+    "longitude": -80.043012,
+    "city": "Carlton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 16312,
+    "latitude": 41.935848,
+    "longitude": -79.309668,
+    "city": "Chandlers Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16313,
+    "latitude": 41.798453,
+    "longitude": -79.193751,
+    "city": "Clarendon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16314,
+    "latitude": 41.51838,
+    "longitude": -80.047368,
+    "city": "Cochranton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16316,
+    "latitude": 41.616247,
+    "longitude": -80.306783,
+    "city": "Conneaut Lake",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16317,
+    "latitude": 41.496472,
+    "longitude": -79.887384,
+    "city": "Cooperstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16319,
+    "latitude": 41.398105,
+    "longitude": -79.738809,
+    "city": "Cranberry",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16321,
+    "latitude": 41.475887,
+    "longitude": -79.239101,
+    "city": "East Hickory",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16322,
+    "latitude": 41.475887,
+    "longitude": -79.239101,
+    "city": "Endeavor",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16323,
+    "latitude": 41.335291,
+    "longitude": -79.783172,
+    "city": "Franklin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16326,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Fryburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16327,
+    "latitude": 41.666057,
+    "longitude": -80.065793,
+    "city": "Guys Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16328,
+    "latitude": 41.666057,
+    "longitude": -80.065793,
+    "city": "Hydetown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16329,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Irvine",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16331,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Kossuth",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16332,
+    "latitude": 41.355729,
+    "longitude": -79.381225,
+    "city": "Lickingville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16333,
+    "latitude": 41.742791,
+    "longitude": -78.78726,
+    "city": "Ludlow",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16334,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Marble",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16335,
+    "latitude": 41.611599,
+    "longitude": -80.114891,
+    "city": "Meadville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16340,
+    "latitude": 41.862381,
+    "longitude": -79.432589,
+    "city": "Pittsfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16341,
+    "latitude": 41.501311,
+    "longitude": -79.633336,
+    "city": "Pleasantville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16342,
+    "latitude": 41.320273,
+    "longitude": -79.926847,
+    "city": "Polk",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16343,
+    "latitude": 41.411018,
+    "longitude": -79.749341,
+    "city": "Reno",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16344,
+    "latitude": 41.471714,
+    "longitude": -79.688057,
+    "city": "Rouseville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16345,
+    "latitude": 41.926402,
+    "longitude": -79.090299,
+    "city": "Russell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16346,
+    "latitude": 41.378581,
+    "longitude": -79.707212,
+    "city": "Seneca",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16347,
+    "latitude": 41.68338,
+    "longitude": -79.032776,
+    "city": "Sheffield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16350,
+    "latitude": 41.890561,
+    "longitude": -79.227866,
+    "city": "Sugar Grove",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16351,
+    "latitude": 41.830662,
+    "longitude": -79.229452,
+    "city": "Tidioute",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16352,
+    "latitude": 41.743431,
+    "longitude": -79.052756,
+    "city": "Tiona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16353,
+    "latitude": 41.500915,
+    "longitude": -79.407452,
+    "city": "Tionesta",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16354,
+    "latitude": 41.661775,
+    "longitude": -79.720068,
+    "city": "Titusville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16360,
+    "latitude": 41.689858,
+    "longitude": -79.900897,
+    "city": "Townville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16361,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Tylersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16362,
+    "latitude": 41.398105,
+    "longitude": -79.738809,
+    "city": "Utica",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16364,
+    "latitude": 41.398105,
+    "longitude": -79.738809,
+    "city": "Venus",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16365,
+    "latitude": 41.84356,
+    "longitude": -79.172619,
+    "city": "Warren",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16366,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Warren",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16367,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Warren",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16368,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Warren",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16369,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Warren",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16370,
+    "latitude": 41.475887,
+    "longitude": -79.239101,
+    "city": "West Hickory",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 16371,
+    "latitude": 41.823681,
+    "longitude": -79.201275,
+    "city": "Youngsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16372,
+    "latitude": 41.199287,
+    "longitude": -79.874548,
+    "city": "Clintonville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16373,
+    "latitude": 41.273318,
+    "longitude": -79.812491,
+    "city": "Emlenton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16374,
+    "latitude": 41.398105,
+    "longitude": -79.738809,
+    "city": "Kennerdell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Venango"
+  },
+  {
+    "zip_code": 16375,
+    "latitude": 41.202325,
+    "longitude": -79.453751,
+    "city": "Lamartine",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clarion"
+  },
+  {
+    "zip_code": 16388,
+    "latitude": 41.659552,
+    "longitude": -80.157553,
+    "city": "Meadville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16401,
+    "latitude": 41.894652,
+    "longitude": -80.311081,
+    "city": "Albion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16402,
+    "latitude": 41.969142,
+    "longitude": -79.477037,
+    "city": "Bear Lake",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16403,
+    "latitude": 41.803393,
+    "longitude": -80.059383,
+    "city": "Cambridge Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16404,
+    "latitude": 41.666057,
+    "longitude": -80.065793,
+    "city": "Centerville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16405,
+    "latitude": 41.943966,
+    "longitude": -79.568294,
+    "city": "Columbus",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16406,
+    "latitude": 41.757871,
+    "longitude": -80.370323,
+    "city": "Conneautville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16407,
+    "latitude": 41.924886,
+    "longitude": -79.696549,
+    "city": "Corry",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16410,
+    "latitude": 41.921275,
+    "longitude": -80.302761,
+    "city": "Cranesville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16411,
+    "latitude": 41.982574,
+    "longitude": -80.439619,
+    "city": "East Springfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16412,
+    "latitude": 41.90425,
+    "longitude": -80.157715,
+    "city": "Edinboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16413,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Elgin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16415,
+    "latitude": 42.011544,
+    "longitude": -80.335032,
+    "city": "Fairview",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16416,
+    "latitude": 41.818831,
+    "longitude": -79.446306,
+    "city": "Garland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16417,
+    "latitude": 41.950719,
+    "longitude": -80.295852,
+    "city": "Girard",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16420,
+    "latitude": 41.811682,
+    "longitude": -79.264322,
+    "city": "Grand Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16421,
+    "latitude": 42.172938,
+    "longitude": -79.937675,
+    "city": "Harborcreek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16422,
+    "latitude": 41.643145,
+    "longitude": -80.394299,
+    "city": "Harmonsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16423,
+    "latitude": 42.015789,
+    "longitude": -80.346492,
+    "city": "Lake City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16424,
+    "latitude": 41.624388,
+    "longitude": -80.452295,
+    "city": "Linesville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16426,
+    "latitude": 41.985964,
+    "longitude": -80.132523,
+    "city": "Mc Kean",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16427,
+    "latitude": 41.87726,
+    "longitude": -79.969168,
+    "city": "Mill Village",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16428,
+    "latitude": 42.176845,
+    "longitude": -79.841991,
+    "city": "North East",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16430,
+    "latitude": 41.999881,
+    "longitude": -80.42585,
+    "city": "North Springfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16432,
+    "latitude": 41.666057,
+    "longitude": -80.065793,
+    "city": "Riceville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16433,
+    "latitude": 41.752837,
+    "longitude": -80.207488,
+    "city": "Saegertown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16434,
+    "latitude": 41.667286,
+    "longitude": -80.097316,
+    "city": "Spartansburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16435,
+    "latitude": 41.800421,
+    "longitude": -80.371429,
+    "city": "Springboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16436,
+    "latitude": 41.920018,
+    "longitude": -79.448206,
+    "city": "Spring Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 16438,
+    "latitude": 41.941617,
+    "longitude": -79.845963,
+    "city": "Union City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16440,
+    "latitude": 41.763965,
+    "longitude": -80.098233,
+    "city": "Venango",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 16441,
+    "latitude": 41.970601,
+    "longitude": -79.997581,
+    "city": "Waterford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16442,
+    "latitude": 42.030403,
+    "longitude": -79.828985,
+    "city": "Wattsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16443,
+    "latitude": 41.935633,
+    "longitude": -80.471462,
+    "city": "West Springfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16444,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Edinboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16475,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Albion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16501,
+    "latitude": 42.087337,
+    "longitude": -80.087341,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16502,
+    "latitude": 42.110357,
+    "longitude": -80.100931,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16503,
+    "latitude": 42.126757,
+    "longitude": -80.061029,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16504,
+    "latitude": 42.109556,
+    "longitude": -80.050278,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16505,
+    "latitude": 42.110857,
+    "longitude": -80.153383,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16506,
+    "latitude": 42.064456,
+    "longitude": -80.165682,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16507,
+    "latitude": 42.134257,
+    "longitude": -80.084042,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16508,
+    "latitude": 42.097156,
+    "longitude": -80.09283,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16509,
+    "latitude": 42.048568,
+    "longitude": -80.027928,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16510,
+    "latitude": 42.108655,
+    "longitude": -79.953504,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16511,
+    "latitude": 42.160153,
+    "longitude": -79.984376,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16512,
+    "latitude": 42.030201,
+    "longitude": -80.257855,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16514,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16515,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16522,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16530,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16531,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16532,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16533,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16534,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16538,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16541,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16544,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16546,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16550,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16553,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16554,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16558,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16563,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16565,
+    "latitude": 42.182748,
+    "longitude": -80.064915,
+    "city": "Erie",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 16601,
+    "latitude": 40.489433,
+    "longitude": -78.349874,
+    "city": "Altoona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16602,
+    "latitude": 40.508219,
+    "longitude": -78.382635,
+    "city": "Altoona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16603,
+    "latitude": 40.50177,
+    "longitude": -78.410035,
+    "city": "Altoona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16611,
+    "latitude": 40.54851,
+    "longitude": -78.095064,
+    "city": "Alexandria",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16613,
+    "latitude": 40.554875,
+    "longitude": -78.544825,
+    "city": "Ashville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16614,
+    "latitude": 40.262311,
+    "longitude": -78.421434,
+    "city": "Bakers Summit",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16616,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Beccaria",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16617,
+    "latitude": 40.562667,
+    "longitude": -78.363835,
+    "city": "Bellwood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16619,
+    "latitude": 40.684687,
+    "longitude": -78.413712,
+    "city": "Blandburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16620,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Brisbin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16621,
+    "latitude": 40.1999,
+    "longitude": -78.140812,
+    "city": "Broad Top",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16622,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Calvin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16623,
+    "latitude": 40.285076,
+    "longitude": -78.022032,
+    "city": "Cassville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16624,
+    "latitude": 40.570219,
+    "longitude": -78.599119,
+    "city": "Chest Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16625,
+    "latitude": 40.354932,
+    "longitude": -78.46266,
+    "city": "Claysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16627,
+    "latitude": 40.749629,
+    "longitude": -78.536067,
+    "city": "Coalport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16629,
+    "latitude": 40.521778,
+    "longitude": -78.526274,
+    "city": "Coupon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16630,
+    "latitude": 40.470718,
+    "longitude": -78.58946,
+    "city": "Cresson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16631,
+    "latitude": 40.493522,
+    "longitude": -78.368229,
+    "city": "Curryville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16633,
+    "latitude": 40.160065,
+    "longitude": -78.234638,
+    "city": "Defiance",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16634,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Dudley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16635,
+    "latitude": 40.510278,
+    "longitude": -78.407982,
+    "city": "Duncansville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16636,
+    "latitude": 40.60772,
+    "longitude": -78.526783,
+    "city": "Dysart",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16637,
+    "latitude": 40.349335,
+    "longitude": -78.442466,
+    "city": "East Freedom",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16638,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Entriken",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16639,
+    "latitude": 40.671195,
+    "longitude": -78.508823,
+    "city": "Fallentimber",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16640,
+    "latitude": 40.687598,
+    "longitude": -78.552346,
+    "city": "Flinton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16641,
+    "latitude": 40.507567,
+    "longitude": -78.576208,
+    "city": "Gallitzin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16644,
+    "latitude": 40.717845,
+    "longitude": -78.463679,
+    "city": "Glasgow",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16645,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Glen Hope",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16646,
+    "latitude": 40.680896,
+    "longitude": -78.599266,
+    "city": "Hastings",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16647,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Hesston",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16648,
+    "latitude": 40.432059,
+    "longitude": -78.364965,
+    "city": "Hollidaysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16650,
+    "latitude": 40.108984,
+    "longitude": -78.279287,
+    "city": "Hopewell",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16651,
+    "latitude": 40.78995,
+    "longitude": -78.377189,
+    "city": "Houtzdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16652,
+    "latitude": 40.515371,
+    "longitude": -77.975879,
+    "city": "Huntingdon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16654,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Huntingdon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16655,
+    "latitude": 40.250384,
+    "longitude": -78.537796,
+    "city": "Imler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16656,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Irvona",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16657,
+    "latitude": 40.385496,
+    "longitude": -78.172245,
+    "city": "James Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16659,
+    "latitude": 40.170266,
+    "longitude": -78.385341,
+    "city": "Loysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16660,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Mc Connellstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16661,
+    "latitude": 40.830471,
+    "longitude": -78.435525,
+    "city": "Madera",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16662,
+    "latitude": 40.33984,
+    "longitude": -78.336709,
+    "city": "Martinsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16663,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Morann",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16664,
+    "latitude": 40.193882,
+    "longitude": -78.426719,
+    "city": "New Enterprise",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16665,
+    "latitude": 40.385507,
+    "longitude": -78.447236,
+    "city": "Newry",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16666,
+    "latitude": 40.822197,
+    "longitude": -78.455355,
+    "city": "Osceola Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16667,
+    "latitude": 40.181801,
+    "longitude": -78.493371,
+    "city": "Osterburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16668,
+    "latitude": 40.633518,
+    "longitude": -78.608257,
+    "city": "Patton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16669,
+    "latitude": 40.583226,
+    "longitude": -78.073445,
+    "city": "Petersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16670,
+    "latitude": 40.254864,
+    "longitude": -78.512462,
+    "city": "Queen",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16671,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Ramey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16672,
+    "latitude": 40.175325,
+    "longitude": -78.249266,
+    "city": "Riddlesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16673,
+    "latitude": 40.335467,
+    "longitude": -78.387541,
+    "city": "Roaring Spring",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16674,
+    "latitude": 40.186465,
+    "longitude": -78.116188,
+    "city": "Robertsdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16675,
+    "latitude": 40.671181,
+    "longitude": -78.675548,
+    "city": "Saint Boniface",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16677,
+    "latitude": 40.813628,
+    "longitude": -78.238986,
+    "city": "Sandy Ridge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16678,
+    "latitude": 40.201876,
+    "longitude": -78.252528,
+    "city": "Saxton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16679,
+    "latitude": 40.169799,
+    "longitude": -78.212185,
+    "city": "Six Mile Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16680,
+    "latitude": 40.760116,
+    "longitude": -78.450043,
+    "city": "Smithmill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16681,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Smokerun",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16682,
+    "latitude": 40.271126,
+    "longitude": -78.45878,
+    "city": "Sproul",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16683,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Spruce Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16684,
+    "latitude": 40.636691,
+    "longitude": -78.303614,
+    "city": "Tipton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16685,
+    "latitude": 40.270965,
+    "longitude": -78.077244,
+    "city": "Todd",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16686,
+    "latitude": 40.522068,
+    "longitude": -78.340045,
+    "city": "Tyrone",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16689,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Waterfall",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 16691,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Wells Tannery",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 16692,
+    "latitude": 40.745169,
+    "longitude": -78.67683,
+    "city": "Westover",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16693,
+    "latitude": 40.402532,
+    "longitude": -78.255764,
+    "city": "Williamsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Blair"
+  },
+  {
+    "zip_code": 16694,
+    "latitude": 40.165987,
+    "longitude": -78.138144,
+    "city": "Wood",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16695,
+    "latitude": 40.230406,
+    "longitude": -78.358877,
+    "city": "Woodbury",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 16698,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Houtzdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16699,
+    "latitude": 40.484487,
+    "longitude": -78.702224,
+    "city": "Cresson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cambria"
+  },
+  {
+    "zip_code": 16701,
+    "latitude": 41.862341,
+    "longitude": -78.63731,
+    "city": "Bradford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16720,
+    "latitude": 41.615099,
+    "longitude": -77.957975,
+    "city": "Austin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16724,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "Crosby",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16725,
+    "latitude": 41.885487,
+    "longitude": -78.723198,
+    "city": "Custer City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16726,
+    "latitude": 41.818645,
+    "longitude": -78.595669,
+    "city": "Cyclone",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16727,
+    "latitude": 41.982786,
+    "longitude": -78.546304,
+    "city": "Derrick City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16728,
+    "latitude": 41.415878,
+    "longitude": -78.665057,
+    "city": "De Young",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 16729,
+    "latitude": 41.96089,
+    "longitude": -78.486099,
+    "city": "Duke Center",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16730,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "East Smethport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16731,
+    "latitude": 41.941328,
+    "longitude": -78.361927,
+    "city": "Eldred",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16732,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "Gifford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16733,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "Hazel Hurst",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16734,
+    "latitude": 41.619213,
+    "longitude": -78.839413,
+    "city": "James City",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 16735,
+    "latitude": 41.795662,
+    "longitude": -78.631755,
+    "city": "Kane",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16738,
+    "latitude": 41.836866,
+    "longitude": -78.691582,
+    "city": "Lewis Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16740,
+    "latitude": 41.719284,
+    "longitude": -78.623042,
+    "city": "Mount Jewett",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16743,
+    "latitude": 41.881851,
+    "longitude": -78.457878,
+    "city": "Port Allegany",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16744,
+    "latitude": 41.87833,
+    "longitude": -78.557219,
+    "city": "Rew",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16745,
+    "latitude": 41.919565,
+    "longitude": -78.48561,
+    "city": "Rixford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16746,
+    "latitude": 41.737627,
+    "longitude": -77.902366,
+    "city": "Roulette",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16748,
+    "latitude": 41.963791,
+    "longitude": -78.188866,
+    "city": "Shinglehouse",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16749,
+    "latitude": 41.798748,
+    "longitude": -78.539192,
+    "city": "Smethport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16750,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "Turtlepoint",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16751,
+    "latitude": 41.801078,
+    "longitude": -78.579739,
+    "city": "Westline",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mckean"
+  },
+  {
+    "zip_code": 16801,
+    "latitude": 40.881935,
+    "longitude": -77.867822,
+    "city": "State College",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16802,
+    "latitude": 40.799672,
+    "longitude": -77.862339,
+    "city": "University Park",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16803,
+    "latitude": 40.878721,
+    "longitude": -77.757999,
+    "city": "State College",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16804,
+    "latitude": 40.972229,
+    "longitude": -77.760172,
+    "city": "State College",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16805,
+    "latitude": 40.972229,
+    "longitude": -77.760172,
+    "city": "State College",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16820,
+    "latitude": 40.89869,
+    "longitude": -77.456184,
+    "city": "Aaronsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16821,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Allport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16822,
+    "latitude": 41.105476,
+    "longitude": -77.50553,
+    "city": "Beech Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 16823,
+    "latitude": 40.897823,
+    "longitude": -77.773188,
+    "city": "Bellefonte",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16825,
+    "latitude": 40.990006,
+    "longitude": -78.360612,
+    "city": "Bigler",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16826,
+    "latitude": 40.972229,
+    "longitude": -77.760172,
+    "city": "Blanchard",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16827,
+    "latitude": 40.885162,
+    "longitude": -77.644896,
+    "city": "Boalsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16828,
+    "latitude": 40.807973,
+    "longitude": -77.703942,
+    "city": "Centre Hall",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16829,
+    "latitude": 40.932545,
+    "longitude": -77.763472,
+    "city": "Clarence",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16830,
+    "latitude": 41.037563,
+    "longitude": -78.435492,
+    "city": "Clearfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16832,
+    "latitude": 40.838329,
+    "longitude": -77.450929,
+    "city": "Coburn",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16833,
+    "latitude": 40.949208,
+    "longitude": -78.582309,
+    "city": "Curwensville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16834,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Drifting",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16835,
+    "latitude": 40.904645,
+    "longitude": -77.875191,
+    "city": "Fleming",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16836,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Frenchville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16837,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Glen Richey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16838,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Grampian",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16839,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Grassflat",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16840,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Hawk Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16841,
+    "latitude": 40.918199,
+    "longitude": -77.679655,
+    "city": "Howard",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16843,
+    "latitude": 41.003007,
+    "longitude": -78.464189,
+    "city": "Hyde",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16844,
+    "latitude": 40.901934,
+    "longitude": -77.750812,
+    "city": "Julian",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16845,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Karthaus",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16847,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Kylertown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16848,
+    "latitude": 41.220635,
+    "longitude": -77.618532,
+    "city": "Lamar",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 16849,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Lanse",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16850,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Lecontes Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16851,
+    "latitude": 40.808151,
+    "longitude": -77.812525,
+    "city": "Lemont",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16852,
+    "latitude": 40.972229,
+    "longitude": -77.760172,
+    "city": "Madisonburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16853,
+    "latitude": 40.95408,
+    "longitude": -77.781465,
+    "city": "Milesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16854,
+    "latitude": 40.893455,
+    "longitude": -77.473298,
+    "city": "Millheim",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16855,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Mineral Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16856,
+    "latitude": 40.929851,
+    "longitude": -77.638892,
+    "city": "Mingoville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16858,
+    "latitude": 40.96891,
+    "longitude": -78.191551,
+    "city": "Morrisdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16859,
+    "latitude": 40.900499,
+    "longitude": -78.025894,
+    "city": "Moshannon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16860,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Munson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16861,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "New Millport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16863,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Olanta",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16864,
+    "latitude": 40.972229,
+    "longitude": -77.760172,
+    "city": "Orviston",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16865,
+    "latitude": 40.868075,
+    "longitude": -77.957409,
+    "city": "Pennsylvania Furnace",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16866,
+    "latitude": 40.905166,
+    "longitude": -77.844216,
+    "city": "Philipsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16868,
+    "latitude": 40.726405,
+    "longitude": -77.911776,
+    "city": "Pine Grove Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16870,
+    "latitude": 40.913584,
+    "longitude": -77.829726,
+    "city": "Port Matilda",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16871,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Pottersdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16872,
+    "latitude": 40.939915,
+    "longitude": -77.448451,
+    "city": "Rebersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16873,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Shawville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16874,
+    "latitude": 40.992146,
+    "longitude": -78.027865,
+    "city": "Snow Shoe",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16875,
+    "latitude": 40.88368,
+    "longitude": -77.518716,
+    "city": "Spring Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16876,
+    "latitude": 40.961582,
+    "longitude": -78.292599,
+    "city": "Wallaceton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16877,
+    "latitude": 40.692101,
+    "longitude": -78.165044,
+    "city": "Warriors Mark",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 16878,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "West Decatur",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16879,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Winburne",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16881,
+    "latitude": 40.989115,
+    "longitude": -78.422403,
+    "city": "Woodland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Clearfield"
+  },
+  {
+    "zip_code": 16882,
+    "latitude": 40.897081,
+    "longitude": -77.402419,
+    "city": "Woodward",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Centre"
+  },
+  {
+    "zip_code": 16901,
+    "latitude": 41.862339,
+    "longitude": -77.258974,
+    "city": "Wellsboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16910,
+    "latitude": 41.77197,
+    "longitude": -76.521266,
+    "city": "Alba",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16911,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Arnot",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16912,
+    "latitude": 41.822885,
+    "longitude": -77.200274,
+    "city": "Blossburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16914,
+    "latitude": 41.77197,
+    "longitude": -76.521266,
+    "city": "Columbia Cross Roads",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16915,
+    "latitude": 41.776165,
+    "longitude": -77.956692,
+    "city": "Coudersport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16917,
+    "latitude": 41.769456,
+    "longitude": -77.000451,
+    "city": "Covington",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16918,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Cowanesque",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16920,
+    "latitude": 41.979118,
+    "longitude": -77.370183,
+    "city": "Elkland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16921,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Gaines",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16922,
+    "latitude": 41.733379,
+    "longitude": -77.644214,
+    "city": "Galeton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16923,
+    "latitude": 41.737627,
+    "longitude": -77.902366,
+    "city": "Genesee",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16925,
+    "latitude": 41.938208,
+    "longitude": -76.800579,
+    "city": "Gillett",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16926,
+    "latitude": 41.77197,
+    "longitude": -76.521266,
+    "city": "Granville Summit",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16927,
+    "latitude": 41.737627,
+    "longitude": -77.902366,
+    "city": "Harrison Valley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16928,
+    "latitude": 41.93602,
+    "longitude": -77.445729,
+    "city": "Knoxville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16929,
+    "latitude": 41.984078,
+    "longitude": -77.181189,
+    "city": "Lawrenceville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16930,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Liberty",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16932,
+    "latitude": 41.790065,
+    "longitude": -77.035282,
+    "city": "Mainesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16933,
+    "latitude": 41.793666,
+    "longitude": -77.072151,
+    "city": "Mansfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16935,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Middlebury Center",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16936,
+    "latitude": 41.90843,
+    "longitude": -77.011231,
+    "city": "Millerton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16937,
+    "latitude": 41.737627,
+    "longitude": -77.902366,
+    "city": "Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16938,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Morris",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16939,
+    "latitude": 41.677542,
+    "longitude": -77.015194,
+    "city": "Morris Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16940,
+    "latitude": 41.977039,
+    "longitude": -77.24531,
+    "city": "Nelson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16941,
+    "latitude": 41.737627,
+    "longitude": -77.902366,
+    "city": "Genesee",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16942,
+    "latitude": 41.989264,
+    "longitude": -77.347725,
+    "city": "Osceola",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16943,
+    "latitude": 41.77197,
+    "longitude": -77.242228,
+    "city": "Sabinsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16945,
+    "latitude": 41.77197,
+    "longitude": -76.521266,
+    "city": "Sylvania",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16946,
+    "latitude": 41.943444,
+    "longitude": -77.2292,
+    "city": "Tioga",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 16947,
+    "latitude": 41.788389,
+    "longitude": -76.837246,
+    "city": "Troy",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 16948,
+    "latitude": 41.843678,
+    "longitude": -77.75736,
+    "city": "Ulysses",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Potter"
+  },
+  {
+    "zip_code": 16950,
+    "latitude": 41.919341,
+    "longitude": -77.523033,
+    "city": "Westfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Tioga"
+  },
+  {
+    "zip_code": 17001,
+    "latitude": 40.21604,
+    "longitude": -76.924996,
+    "city": "Camp Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17002,
+    "latitude": 40.539667,
+    "longitude": -77.790168,
+    "city": "Allensville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17003,
+    "latitude": 40.352637,
+    "longitude": -76.435873,
+    "city": "Annville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17004,
+    "latitude": 40.591417,
+    "longitude": -77.73103,
+    "city": "Belleville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17005,
+    "latitude": 40.600992,
+    "longitude": -76.811693,
+    "city": "Berrysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17006,
+    "latitude": 40.29736,
+    "longitude": -77.56437,
+    "city": "Blain",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17007,
+    "latitude": 40.141205,
+    "longitude": -77.242351,
+    "city": "Boiling Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17008,
+    "latitude": 40.167091,
+    "longitude": -76.978448,
+    "city": "Bowmansdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17009,
+    "latitude": 40.629711,
+    "longitude": -77.607196,
+    "city": "Burnham",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17010,
+    "latitude": 40.27124,
+    "longitude": -76.582049,
+    "city": "Campbelltown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17011,
+    "latitude": 40.251914,
+    "longitude": -77.079091,
+    "city": "Camp Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17012,
+    "latitude": 40.136687,
+    "longitude": -77.242805,
+    "city": "Camp Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17013,
+    "latitude": 40.168495,
+    "longitude": -77.228817,
+    "city": "Carlisle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17014,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "Cocolamus",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17016,
+    "latitude": 40.275536,
+    "longitude": -76.405309,
+    "city": "Cornwall",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17017,
+    "latitude": 40.894363,
+    "longitude": -76.596151,
+    "city": "Dalmatia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 17018,
+    "latitude": 40.361876,
+    "longitude": -76.895539,
+    "city": "Dauphin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17019,
+    "latitude": 40.091217,
+    "longitude": -76.977835,
+    "city": "Dillsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "York"
+  },
+  {
+    "zip_code": 17020,
+    "latitude": 40.458261,
+    "longitude": -77.060745,
+    "city": "Duncannon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17021,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "East Waterford",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17022,
+    "latitude": 40.150963,
+    "longitude": -76.61028,
+    "city": "Elizabethtown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 17023,
+    "latitude": 40.584804,
+    "longitude": -76.767913,
+    "city": "Elizabethville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17024,
+    "latitude": 40.442354,
+    "longitude": -77.27088,
+    "city": "Elliottsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17025,
+    "latitude": 40.235675,
+    "longitude": -76.987249,
+    "city": "Enola",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17026,
+    "latitude": 40.456193,
+    "longitude": -76.434639,
+    "city": "Fredericksburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17027,
+    "latitude": 40.157981,
+    "longitude": -76.996398,
+    "city": "Grantham",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17028,
+    "latitude": 40.373438,
+    "longitude": -76.682667,
+    "city": "Grantville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17029,
+    "latitude": 40.550937,
+    "longitude": -77.626095,
+    "city": "Granville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17030,
+    "latitude": 40.608245,
+    "longitude": -76.737545,
+    "city": "Gratz",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17031,
+    "latitude": 40.406766,
+    "longitude": -77.292578,
+    "city": "Green Park",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17032,
+    "latitude": 40.507107,
+    "longitude": -76.843844,
+    "city": "Halifax",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17033,
+    "latitude": 40.269748,
+    "longitude": -76.636357,
+    "city": "Hershey",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17034,
+    "latitude": 40.329577,
+    "longitude": -76.834076,
+    "city": "Highspire",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17035,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "Honey Grove",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17036,
+    "latitude": 40.340043,
+    "longitude": -76.782764,
+    "city": "Hummelstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17037,
+    "latitude": 40.436276,
+    "longitude": -77.397013,
+    "city": "Ickesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17038,
+    "latitude": 40.430902,
+    "longitude": -76.480732,
+    "city": "Jonestown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17039,
+    "latitude": 40.300505,
+    "longitude": -76.258399,
+    "city": "Kleinfeltersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17040,
+    "latitude": 40.34253,
+    "longitude": -77.304476,
+    "city": "Landisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17041,
+    "latitude": 40.223623,
+    "longitude": -76.538007,
+    "city": "Lawn",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17042,
+    "latitude": 40.331594,
+    "longitude": -76.397634,
+    "city": "Lebanon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17043,
+    "latitude": 40.244339,
+    "longitude": -76.918796,
+    "city": "Lemoyne",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17044,
+    "latitude": 40.564909,
+    "longitude": -77.630152,
+    "city": "Lewistown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17045,
+    "latitude": 40.574445,
+    "longitude": -76.987538,
+    "city": "Liverpool",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17046,
+    "latitude": 40.381212,
+    "longitude": -76.436791,
+    "city": "Lebanon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17047,
+    "latitude": 40.406766,
+    "longitude": -77.292578,
+    "city": "Loysville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17048,
+    "latitude": 40.558844,
+    "longitude": -76.790132,
+    "city": "Lykens",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17049,
+    "latitude": 40.651725,
+    "longitude": -77.306056,
+    "city": "Mc Alisterville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17050,
+    "latitude": 40.247547,
+    "longitude": -77.030441,
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17051,
+    "latitude": 40.478095,
+    "longitude": -77.734919,
+    "city": "Mc Veytown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17052,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Mapleton Depot",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17053,
+    "latitude": 40.325105,
+    "longitude": -77.025886,
+    "city": "Marysville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17054,
+    "latitude": 40.495979,
+    "longitude": -77.723716,
+    "city": "Mattawana",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17055,
+    "latitude": 40.180953,
+    "longitude": -77.177086,
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17056,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "Mexico",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17057,
+    "latitude": 40.191241,
+    "longitude": -76.720142,
+    "city": "Middletown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17058,
+    "latitude": 40.555304,
+    "longitude": -77.400062,
+    "city": "Mifflin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17059,
+    "latitude": 40.571404,
+    "longitude": -77.317266,
+    "city": "Mifflintown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17060,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Mill Creek",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17061,
+    "latitude": 40.571494,
+    "longitude": -76.840528,
+    "city": "Millersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17062,
+    "latitude": 40.556195,
+    "longitude": -77.154223,
+    "city": "Millerstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17063,
+    "latitude": 40.740026,
+    "longitude": -77.493466,
+    "city": "Milroy",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17064,
+    "latitude": 40.254642,
+    "longitude": -76.461544,
+    "city": "Mount Gretna",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17065,
+    "latitude": 40.202649,
+    "longitude": -77.08213,
+    "city": "Mount Holly Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17066,
+    "latitude": 40.382302,
+    "longitude": -77.882222,
+    "city": "Mount Union",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17067,
+    "latitude": 40.368282,
+    "longitude": -76.359975,
+    "city": "Myerstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17068,
+    "latitude": 40.405796,
+    "longitude": -77.134043,
+    "city": "New Bloomfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17069,
+    "latitude": 40.455272,
+    "longitude": -76.970942,
+    "city": "New Buffalo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17070,
+    "latitude": 40.263875,
+    "longitude": -76.898096,
+    "city": "New Cumberland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17071,
+    "latitude": 40.406766,
+    "longitude": -77.292578,
+    "city": "New Germantown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17072,
+    "latitude": 40.230601,
+    "longitude": -77.079425,
+    "city": "New Kingstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17073,
+    "latitude": 40.314112,
+    "longitude": -76.26055,
+    "city": "Newmanstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17074,
+    "latitude": 40.506053,
+    "longitude": -77.129129,
+    "city": "Newport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17075,
+    "latitude": 40.39313,
+    "longitude": -77.831635,
+    "city": "Newton Hamilton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17076,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "Oakland Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17077,
+    "latitude": 40.375404,
+    "longitude": -76.414757,
+    "city": "Ono",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17078,
+    "latitude": 40.317606,
+    "longitude": -76.416907,
+    "city": "Palmyra",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17080,
+    "latitude": 40.639199,
+    "longitude": -76.80292,
+    "city": "Pillow",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17081,
+    "latitude": 40.203019,
+    "longitude": -77.284761,
+    "city": "Plainfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17082,
+    "latitude": 40.549581,
+    "longitude": -77.395272,
+    "city": "Port Royal",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17083,
+    "latitude": 40.27639,
+    "longitude": -76.411239,
+    "city": "Quentin",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17084,
+    "latitude": 40.541706,
+    "longitude": -77.692538,
+    "city": "Reedsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17085,
+    "latitude": 40.277076,
+    "longitude": -76.385727,
+    "city": "Rexmont",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17086,
+    "latitude": 40.478716,
+    "longitude": -77.345514,
+    "city": "Richfield",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17087,
+    "latitude": 40.362956,
+    "longitude": -76.271943,
+    "city": "Richland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17088,
+    "latitude": 40.308696,
+    "longitude": -76.296308,
+    "city": "Schaefferstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Lebanon"
+  },
+  {
+    "zip_code": 17089,
+    "latitude": 40.269738,
+    "longitude": -76.936046,
+    "city": "Camp Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17090,
+    "latitude": 40.342999,
+    "longitude": -77.182569,
+    "city": "Shermans Dale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 17091,
+    "latitude": 40.136687,
+    "longitude": -77.242805,
+    "city": "Camp Hill",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17093,
+    "latitude": 40.293538,
+    "longitude": -76.926346,
+    "city": "Summerdale",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17094,
+    "latitude": 40.565325,
+    "longitude": -77.235359,
+    "city": "Thompsontown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Juniata"
+  },
+  {
+    "zip_code": 17097,
+    "latitude": 40.573734,
+    "longitude": -76.65693,
+    "city": "Wiconisco",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17098,
+    "latitude": 40.588313,
+    "longitude": -76.695547,
+    "city": "Williamstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17099,
+    "latitude": 40.644505,
+    "longitude": -77.567708,
+    "city": "Yeagertown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Mifflin"
+  },
+  {
+    "zip_code": 17101,
+    "latitude": 40.264589,
+    "longitude": -76.869644,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17102,
+    "latitude": 40.272538,
+    "longitude": -76.890695,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17103,
+    "latitude": 40.272389,
+    "longitude": -76.860994,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17104,
+    "latitude": 40.253639,
+    "longitude": -76.857944,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17105,
+    "latitude": 40.278498,
+    "longitude": -76.875207,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17106,
+    "latitude": 40.292664,
+    "longitude": -76.850061,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17107,
+    "latitude": 40.297031,
+    "longitude": -76.876437,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17108,
+    "latitude": 40.308638,
+    "longitude": -76.801693,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17109,
+    "latitude": 40.290953,
+    "longitude": -76.820294,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17110,
+    "latitude": 40.302238,
+    "longitude": -76.866348,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17111,
+    "latitude": 40.272089,
+    "longitude": -76.801693,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17112,
+    "latitude": 40.344295,
+    "longitude": -76.790248,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17113,
+    "latitude": 40.23904,
+    "longitude": -76.841644,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17120,
+    "latitude": 40.265689,
+    "longitude": -76.882745,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17121,
+    "latitude": 40.294396,
+    "longitude": -76.893751,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17122,
+    "latitude": 40.249845,
+    "longitude": -76.871209,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17123,
+    "latitude": 40.267518,
+    "longitude": -76.883734,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17124,
+    "latitude": 40.26746,
+    "longitude": -76.885967,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17125,
+    "latitude": 40.266221,
+    "longitude": -76.882854,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17126,
+    "latitude": 40.26179,
+    "longitude": -76.880021,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17127,
+    "latitude": 40.261516,
+    "longitude": -76.880884,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17128,
+    "latitude": 40.389865,
+    "longitude": -76.782323,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17129,
+    "latitude": 40.261516,
+    "longitude": -76.880884,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17130,
+    "latitude": 40.270222,
+    "longitude": -76.882889,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17140,
+    "latitude": 40.30864,
+    "longitude": -76.846449,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17177,
+    "latitude": 40.298988,
+    "longitude": -76.847194,
+    "city": "Harrisburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Dauphin"
+  },
+  {
+    "zip_code": 17201,
+    "latitude": 39.908055,
+    "longitude": -77.666445,
+    "city": "Chambersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17210,
+    "latitude": 40.171667,
+    "longitude": -77.661354,
+    "city": "Amberson",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17211,
+    "latitude": 39.755155,
+    "longitude": -78.406388,
+    "city": "Artemas",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 17212,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Big Cove Tannery",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17213,
+    "latitude": 40.17973,
+    "longitude": -77.865942,
+    "city": "Blairs Mills",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17214,
+    "latitude": 39.739893,
+    "longitude": -77.470729,
+    "city": "Blue Ridge Summit",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17215,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Burnt Cabins",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17217,
+    "latitude": 40.225168,
+    "longitude": -77.725013,
+    "city": "Concord",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17219,
+    "latitude": 40.218448,
+    "longitude": -77.679713,
+    "city": "Doylesburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17220,
+    "latitude": 40.178081,
+    "longitude": -77.735336,
+    "city": "Dry Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17221,
+    "latitude": 40.073155,
+    "longitude": -77.832158,
+    "city": "Fannettsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17222,
+    "latitude": 39.900035,
+    "longitude": -77.529619,
+    "city": "Fayetteville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17223,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Fort Littleton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17224,
+    "latitude": 40.002593,
+    "longitude": -77.809574,
+    "city": "Fort Loudon",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17225,
+    "latitude": 39.805922,
+    "longitude": -77.726127,
+    "city": "Greencastle",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17228,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Harrisonville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17229,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Hustontown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17231,
+    "latitude": 39.859432,
+    "longitude": -77.857889,
+    "city": "Lemasters",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17232,
+    "latitude": 40.105495,
+    "longitude": -77.640461,
+    "city": "Lurgan",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17233,
+    "latitude": 39.928812,
+    "longitude": -77.981379,
+    "city": "Mc Connellsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17235,
+    "latitude": 39.858699,
+    "longitude": -77.69815,
+    "city": "Marion",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17236,
+    "latitude": 39.819034,
+    "longitude": -77.798952,
+    "city": "Mercersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17237,
+    "latitude": 39.83593,
+    "longitude": -77.553776,
+    "city": "Mont Alto",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17238,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Needmore",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17239,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Neelyton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17240,
+    "latitude": 40.174798,
+    "longitude": -77.470285,
+    "city": "Newburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17241,
+    "latitude": 40.173093,
+    "longitude": -77.421905,
+    "city": "Newville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17243,
+    "latitude": 40.225376,
+    "longitude": -77.887496,
+    "city": "Orbisonia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17244,
+    "latitude": 40.079556,
+    "longitude": -77.679344,
+    "city": "Orrstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17246,
+    "latitude": 40.049118,
+    "longitude": -77.671754,
+    "city": "Pleasant Hall",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17247,
+    "latitude": 39.799481,
+    "longitude": -77.581092,
+    "city": "Quincy",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17249,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Rockhill Furnace",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17250,
+    "latitude": 39.736395,
+    "longitude": -77.52474,
+    "city": "Rouzerville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17251,
+    "latitude": 40.112652,
+    "longitude": -77.670626,
+    "city": "Roxbury",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17252,
+    "latitude": 39.916149,
+    "longitude": -77.811826,
+    "city": "Saint Thomas",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17253,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Saltillo",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17254,
+    "latitude": 39.96959,
+    "longitude": -77.584841,
+    "city": "Scotland",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17255,
+    "latitude": 40.133259,
+    "longitude": -77.87475,
+    "city": "Shade Gap",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17256,
+    "latitude": 39.783391,
+    "longitude": -77.674851,
+    "city": "Shady Grove",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17257,
+    "latitude": 40.070789,
+    "longitude": -77.45983,
+    "city": "Shippensburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17260,
+    "latitude": 40.402523,
+    "longitude": -77.966977,
+    "city": "Shirleysburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17261,
+    "latitude": 39.833095,
+    "longitude": -77.488633,
+    "city": "South Mountain",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17262,
+    "latitude": 40.173439,
+    "longitude": -77.709212,
+    "city": "Spring Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17263,
+    "latitude": 39.724825,
+    "longitude": -77.718629,
+    "city": "State Line",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17264,
+    "latitude": 40.222408,
+    "longitude": -77.941975,
+    "city": "Three Springs",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Huntingdon"
+  },
+  {
+    "zip_code": 17265,
+    "latitude": 40.054782,
+    "longitude": -77.775921,
+    "city": "Upperstrasburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 17266,
+    "latitude": 40.104094,
+    "longitude": -77.472794,
+    "city": "Walnut Bottom",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 17267,
+    "latitude": 39.943762,
+    "longitude": -78.122265,
+    "city": "Warfordsburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 17268,
+    "latitude": 39.793552,
+    "longitude": -77.59228,
+    "city": "Waynesboro",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Franklin"
+  }
+]

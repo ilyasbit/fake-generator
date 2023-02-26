@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 48007,
+    "latitude": 42.606088,
+    "longitude": -83.297593,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48009,
+    "latitude": 42.534834,
+    "longitude": -83.22416,
+    "city": "Birmingham",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48012,
+    "latitude": 42.604425,
+    "longitude": -83.292382,
+    "city": "Birmingham",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48014,
+    "latitude": 43.026326,
+    "longitude": -82.929772,
+    "city": "Capac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48015,
+    "latitude": 42.480186,
+    "longitude": -83.027221,
+    "city": "Center Line",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48017,
+    "latitude": 42.536785,
+    "longitude": -83.146427,
+    "city": "Clawson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48021,
+    "latitude": 42.464986,
+    "longitude": -82.944318,
+    "city": "Eastpointe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48022,
+    "latitude": 43.03545,
+    "longitude": -82.800896,
+    "city": "Emmett",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48023,
+    "latitude": 42.702264,
+    "longitude": -82.668829,
+    "city": "Fair Haven",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48025,
+    "latitude": 42.520184,
+    "longitude": -83.264031,
+    "city": "Franklin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48026,
+    "latitude": 42.538702,
+    "longitude": -82.949421,
+    "city": "Fraser",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48027,
+    "latitude": 42.944333,
+    "longitude": -82.691559,
+    "city": "Goodells",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48028,
+    "latitude": 42.597245,
+    "longitude": -82.596757,
+    "city": "Harsens Island",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48030,
+    "latitude": 42.496485,
+    "longitude": -83.098474,
+    "city": "Hazel Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48032,
+    "latitude": 43.12226,
+    "longitude": -82.599804,
+    "city": "Jeddo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48034,
+    "latitude": 42.478495,
+    "longitude": -83.279164,
+    "city": "Southfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48035,
+    "latitude": 42.551185,
+    "longitude": -82.91672,
+    "city": "Clinton Township",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48036,
+    "latitude": 42.593834,
+    "longitude": -82.913321,
+    "city": "Clinton Township",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48037,
+    "latitude": 42.567543,
+    "longitude": -83.149978,
+    "city": "Southfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48038,
+    "latitude": 42.620607,
+    "longitude": -82.960775,
+    "city": "Clinton Township",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48039,
+    "latitude": 42.68586,
+    "longitude": -82.549857,
+    "city": "Marine City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48040,
+    "latitude": 42.78269,
+    "longitude": -82.491538,
+    "city": "Marysville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48041,
+    "latitude": 42.941032,
+    "longitude": -82.804636,
+    "city": "Memphis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48042,
+    "latitude": 42.673476,
+    "longitude": -82.916262,
+    "city": "Macomb",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48043,
+    "latitude": 42.597984,
+    "longitude": -82.877669,
+    "city": "Mount Clemens",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48044,
+    "latitude": 42.644211,
+    "longitude": -82.898513,
+    "city": "Macomb",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48045,
+    "latitude": 42.587734,
+    "longitude": -82.821517,
+    "city": "Harrison Township",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48046,
+    "latitude": 42.672322,
+    "longitude": -82.903065,
+    "city": "Mount Clemens",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48047,
+    "latitude": 42.601469,
+    "longitude": -82.821874,
+    "city": "New Baltimore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48048,
+    "latitude": 42.744267,
+    "longitude": -82.804166,
+    "city": "New Haven",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48049,
+    "latitude": 43.034915,
+    "longitude": -82.574831,
+    "city": "North Street",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48050,
+    "latitude": 42.785908,
+    "longitude": -82.797858,
+    "city": "New Haven",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48051,
+    "latitude": 42.67518,
+    "longitude": -82.809082,
+    "city": "New Baltimore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48054,
+    "latitude": 42.776889,
+    "longitude": -82.543697,
+    "city": "East China",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48059,
+    "latitude": 43.088821,
+    "longitude": -82.490486,
+    "city": "Fort Gratiot",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48060,
+    "latitude": 42.984014,
+    "longitude": -82.467461,
+    "city": "Port Huron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48061,
+    "latitude": 42.824095,
+    "longitude": -82.66522,
+    "city": "Port Huron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48062,
+    "latitude": 42.838913,
+    "longitude": -82.799617,
+    "city": "Richmond",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48063,
+    "latitude": 42.889238,
+    "longitude": -82.667478,
+    "city": "Columbus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48064,
+    "latitude": 42.767364,
+    "longitude": -82.672786,
+    "city": "Casco",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48065,
+    "latitude": 42.839951,
+    "longitude": -83.038836,
+    "city": "Romeo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48066,
+    "latitude": 42.509635,
+    "longitude": -82.936069,
+    "city": "Roseville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48067,
+    "latitude": 42.492485,
+    "longitude": -83.145375,
+    "city": "Royal Oak",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48068,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Royal Oak",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48069,
+    "latitude": 42.471385,
+    "longitude": -83.144026,
+    "city": "Pleasant Ridge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48070,
+    "latitude": 42.481786,
+    "longitude": -83.166376,
+    "city": "Huntington Woods",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48071,
+    "latitude": 42.505292,
+    "longitude": -83.136126,
+    "city": "Madison Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48072,
+    "latitude": 42.499235,
+    "longitude": -83.181077,
+    "city": "Berkley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48073,
+    "latitude": 42.5216,
+    "longitude": -83.163477,
+    "city": "Royal Oak",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48074,
+    "latitude": 42.905056,
+    "longitude": -82.567942,
+    "city": "Smiths Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48075,
+    "latitude": 42.462215,
+    "longitude": -83.230578,
+    "city": "Southfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48076,
+    "latitude": 42.498117,
+    "longitude": -83.205798,
+    "city": "Southfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48079,
+    "latitude": 42.876235,
+    "longitude": -82.547672,
+    "city": "Saint Clair",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48080,
+    "latitude": 42.470639,
+    "longitude": -82.902194,
+    "city": "Saint Clair Shores",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48081,
+    "latitude": 42.494085,
+    "longitude": -82.898986,
+    "city": "Saint Clair Shores",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48082,
+    "latitude": 42.526935,
+    "longitude": -82.884117,
+    "city": "Saint Clair Shores",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48083,
+    "latitude": 42.555985,
+    "longitude": -83.119206,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48084,
+    "latitude": 42.554751,
+    "longitude": -83.17688,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48085,
+    "latitude": 42.604032,
+    "longitude": -83.122111,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48086,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Southfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48088,
+    "latitude": 42.515746,
+    "longitude": -82.982986,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48089,
+    "latitude": 42.474786,
+    "longitude": -82.995121,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48090,
+    "latitude": 42.672322,
+    "longitude": -82.903065,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48091,
+    "latitude": 42.470938,
+    "longitude": -83.054623,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48092,
+    "latitude": 42.513435,
+    "longitude": -83.056988,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48093,
+    "latitude": 42.514886,
+    "longitude": -83.006613,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48094,
+    "latitude": 42.755979,
+    "longitude": -83.037598,
+    "city": "Washington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48095,
+    "latitude": 42.768153,
+    "longitude": -83.039474,
+    "city": "Washington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48096,
+    "latitude": 42.754039,
+    "longitude": -82.916348,
+    "city": "Ray",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48097,
+    "latitude": 42.879217,
+    "longitude": -82.739491,
+    "city": "Yale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48098,
+    "latitude": 42.599883,
+    "longitude": -83.14908,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48099,
+    "latitude": 42.587643,
+    "longitude": -83.173666,
+    "city": "Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48101,
+    "latitude": 42.27633,
+    "longitude": -83.194425,
+    "city": "Allen Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48103,
+    "latitude": 42.266638,
+    "longitude": -83.849042,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48104,
+    "latitude": 42.270903,
+    "longitude": -83.727826,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48105,
+    "latitude": 42.323077,
+    "longitude": -83.713891,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48106,
+    "latitude": 42.253502,
+    "longitude": -83.836571,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48107,
+    "latitude": 42.253502,
+    "longitude": -83.836571,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48108,
+    "latitude": 42.223305,
+    "longitude": -83.729342,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48109,
+    "latitude": 42.276324,
+    "longitude": -83.711228,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48110,
+    "latitude": 42.008164,
+    "longitude": -83.664277,
+    "city": "Azalia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48111,
+    "latitude": 42.263968,
+    "longitude": -83.416284,
+    "city": "Belleville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48112,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Belleville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48113,
+    "latitude": 42.253502,
+    "longitude": -83.836571,
+    "city": "Ann Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48114,
+    "latitude": 42.546402,
+    "longitude": -83.877776,
+    "city": "Brighton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48115,
+    "latitude": 42.160216,
+    "longitude": -83.911693,
+    "city": "Bridgewater",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48116,
+    "latitude": 42.529541,
+    "longitude": -83.776055,
+    "city": "Brighton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48117,
+    "latitude": 42.0413,
+    "longitude": -83.428904,
+    "city": "Carleton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48118,
+    "latitude": 42.31375,
+    "longitude": -84.013999,
+    "city": "Chelsea",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48120,
+    "latitude": 42.310037,
+    "longitude": -83.177625,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48121,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48122,
+    "latitude": 42.353686,
+    "longitude": -83.223427,
+    "city": "Melvindale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48123,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48124,
+    "latitude": 42.299302,
+    "longitude": -83.242577,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48125,
+    "latitude": 42.342272,
+    "longitude": -83.298123,
+    "city": "Dearborn Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48126,
+    "latitude": 42.271811,
+    "longitude": -83.225877,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48127,
+    "latitude": 42.334386,
+    "longitude": -83.273929,
+    "city": "Dearborn Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48128,
+    "latitude": 42.31927,
+    "longitude": -83.251428,
+    "city": "Dearborn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48130,
+    "latitude": 42.353887,
+    "longitude": -83.898295,
+    "city": "Dexter",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48131,
+    "latitude": 41.964903,
+    "longitude": -83.668808,
+    "city": "Dundee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48133,
+    "latitude": 41.790287,
+    "longitude": -83.504033,
+    "city": "Erie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48134,
+    "latitude": 42.116811,
+    "longitude": -83.300439,
+    "city": "Flat Rock",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48135,
+    "latitude": 42.326437,
+    "longitude": -83.343431,
+    "city": "Garden City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48136,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Garden City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48137,
+    "latitude": 42.496024,
+    "longitude": -84.084724,
+    "city": "Gregory",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48138,
+    "latitude": 42.135191,
+    "longitude": -83.156124,
+    "city": "Grosse Ile",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48139,
+    "latitude": 42.452284,
+    "longitude": -83.814654,
+    "city": "Hamburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48140,
+    "latitude": 41.887078,
+    "longitude": -83.58177,
+    "city": "Ida",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48141,
+    "latitude": 42.293338,
+    "longitude": -83.314674,
+    "city": "Inkster",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48143,
+    "latitude": 42.457317,
+    "longitude": -83.836643,
+    "city": "Lakeland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48144,
+    "latitude": 41.759998,
+    "longitude": -83.618485,
+    "city": "Lambertville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48145,
+    "latitude": 41.845509,
+    "longitude": -83.462383,
+    "city": "La Salle",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48146,
+    "latitude": 42.242038,
+    "longitude": -83.180375,
+    "city": "Lincoln Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48150,
+    "latitude": 42.369351,
+    "longitude": -83.371753,
+    "city": "Livonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48151,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Livonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48152,
+    "latitude": 42.426235,
+    "longitude": -83.370682,
+    "city": "Livonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48153,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Livonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48154,
+    "latitude": 42.375986,
+    "longitude": -83.389962,
+    "city": "Livonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48157,
+    "latitude": 41.813365,
+    "longitude": -83.436032,
+    "city": "Luna Pier",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48158,
+    "latitude": 42.18314,
+    "longitude": -84.013795,
+    "city": "Manchester",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48159,
+    "latitude": 42.041832,
+    "longitude": -83.557254,
+    "city": "Maybee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48160,
+    "latitude": 42.001525,
+    "longitude": -83.659763,
+    "city": "Milan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48161,
+    "latitude": 41.928024,
+    "longitude": -83.430682,
+    "city": "Monroe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48162,
+    "latitude": 41.929341,
+    "longitude": -83.444773,
+    "city": "Monroe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48164,
+    "latitude": 42.135225,
+    "longitude": -83.390422,
+    "city": "New Boston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48165,
+    "latitude": 42.498145,
+    "longitude": -83.608727,
+    "city": "New Hudson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48166,
+    "latitude": 41.921912,
+    "longitude": -83.330583,
+    "city": "Newport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48167,
+    "latitude": 42.41729,
+    "longitude": -83.432434,
+    "city": "Northville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48169,
+    "latitude": 42.467503,
+    "longitude": -83.946982,
+    "city": "Pinckney",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48170,
+    "latitude": 42.366737,
+    "longitude": -83.489679,
+    "city": "Plymouth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48173,
+    "latitude": 42.112182,
+    "longitude": -83.272588,
+    "city": "Rockwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48174,
+    "latitude": 42.20284,
+    "longitude": -83.351255,
+    "city": "Romulus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48175,
+    "latitude": 42.405636,
+    "longitude": -83.578088,
+    "city": "Salem",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48176,
+    "latitude": 42.147636,
+    "longitude": -83.802375,
+    "city": "Saline",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48177,
+    "latitude": 41.807647,
+    "longitude": -83.579334,
+    "city": "Samaria",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48178,
+    "latitude": 42.474564,
+    "longitude": -83.612188,
+    "city": "South Lyon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48179,
+    "latitude": 42.051135,
+    "longitude": -83.27095,
+    "city": "South Rockwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48180,
+    "latitude": 42.245837,
+    "longitude": -83.249067,
+    "city": "Taylor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48182,
+    "latitude": 41.790497,
+    "longitude": -83.584998,
+    "city": "Temperance",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 48183,
+    "latitude": 42.138209,
+    "longitude": -83.217937,
+    "city": "Trenton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48184,
+    "latitude": 42.263487,
+    "longitude": -83.395975,
+    "city": "Wayne",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48185,
+    "latitude": 42.31507,
+    "longitude": -83.373093,
+    "city": "Westland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48186,
+    "latitude": 42.28902,
+    "longitude": -83.368582,
+    "city": "Westland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48187,
+    "latitude": 42.374118,
+    "longitude": -83.418143,
+    "city": "Canton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48188,
+    "latitude": 42.291734,
+    "longitude": -83.485776,
+    "city": "Canton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48189,
+    "latitude": 42.386914,
+    "longitude": -83.783736,
+    "city": "Whitmore Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48190,
+    "latitude": 42.124398,
+    "longitude": -83.594567,
+    "city": "Whittaker",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48191,
+    "latitude": 42.129589,
+    "longitude": -83.569965,
+    "city": "Willis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48192,
+    "latitude": 42.19499,
+    "longitude": -83.206572,
+    "city": "Wyandotte",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48195,
+    "latitude": 42.257801,
+    "longitude": -83.285939,
+    "city": "Southgate",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48197,
+    "latitude": 42.202139,
+    "longitude": -83.620494,
+    "city": "Ypsilanti",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48198,
+    "latitude": 42.309687,
+    "longitude": -83.772991,
+    "city": "Ypsilanti",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Washtenaw"
+  },
+  {
+    "zip_code": 48201,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48202,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48203,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Highland Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48204,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48205,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48206,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48207,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48208,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48209,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48210,
+    "latitude": 42.326937,
+    "longitude": -83.148424,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48211,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48212,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Hamtramck",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48213,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48214,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48215,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48216,
+    "latitude": 42.337787,
+    "longitude": -83.167925,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48217,
+    "latitude": 42.273038,
+    "longitude": -83.152573,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48218,
+    "latitude": 42.268761,
+    "longitude": -83.135137,
+    "city": "River Rouge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48219,
+    "latitude": 42.437192,
+    "longitude": -83.287477,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48220,
+    "latitude": 42.460586,
+    "longitude": -83.140675,
+    "city": "Ferndale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48221,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48222,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48223,
+    "latitude": 42.395986,
+    "longitude": -83.275979,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48224,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48225,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Harper Woods",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48226,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48227,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48228,
+    "latitude": 42.335937,
+    "longitude": -83.217127,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48229,
+    "latitude": 42.249838,
+    "longitude": -83.143121,
+    "city": "Ecorse",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48230,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Grosse Pointe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48231,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48232,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48233,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48234,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48235,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48236,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Grosse Pointe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48237,
+    "latitude": 42.466585,
+    "longitude": -83.178177,
+    "city": "Oak Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48238,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48239,
+    "latitude": 42.392286,
+    "longitude": -83.282029,
+    "city": "Redford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48240,
+    "latitude": 42.423035,
+    "longitude": -83.30358,
+    "city": "Redford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48242,
+    "latitude": 42.216575,
+    "longitude": -83.35324,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48243,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48244,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48255,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48260,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48264,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48265,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48266,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48267,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48268,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48269,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48272,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48275,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48277,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48278,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48279,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48288,
+    "latitude": 42.239933,
+    "longitude": -83.150823,
+    "city": "Detroit",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 48301,
+    "latitude": 42.544534,
+    "longitude": -83.279231,
+    "city": "Bloomfield Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48302,
+    "latitude": 42.584789,
+    "longitude": -83.282116,
+    "city": "Bloomfield Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48303,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Bloomfield Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48304,
+    "latitude": 42.587034,
+    "longitude": -83.235931,
+    "city": "Bloomfield Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48306,
+    "latitude": 42.726216,
+    "longitude": -83.156629,
+    "city": "Rochester",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48307,
+    "latitude": 42.659283,
+    "longitude": -83.122482,
+    "city": "Rochester",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48308,
+    "latitude": 42.638533,
+    "longitude": -83.131426,
+    "city": "Rochester",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48309,
+    "latitude": 42.662644,
+    "longitude": -83.183666,
+    "city": "Rochester",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48310,
+    "latitude": 42.564395,
+    "longitude": -83.068475,
+    "city": "Sterling Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48311,
+    "latitude": 42.672322,
+    "longitude": -82.903065,
+    "city": "Sterling Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48312,
+    "latitude": 42.566338,
+    "longitude": -83.028532,
+    "city": "Sterling Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48313,
+    "latitude": 42.606847,
+    "longitude": -83.01041,
+    "city": "Sterling Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48314,
+    "latitude": 42.603976,
+    "longitude": -83.036259,
+    "city": "Sterling Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48315,
+    "latitude": 42.671025,
+    "longitude": -82.998811,
+    "city": "Utica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48316,
+    "latitude": 42.688531,
+    "longitude": -83.05483,
+    "city": "Utica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48317,
+    "latitude": 42.641276,
+    "longitude": -83.05043,
+    "city": "Utica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48318,
+    "latitude": 42.672322,
+    "longitude": -82.903065,
+    "city": "Utica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48320,
+    "latitude": 42.611409,
+    "longitude": -83.335629,
+    "city": "Keego Harbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48321,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Auburn Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48322,
+    "latitude": 42.542715,
+    "longitude": -83.379535,
+    "city": "West Bloomfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48323,
+    "latitude": 42.568292,
+    "longitude": -83.380535,
+    "city": "West Bloomfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48324,
+    "latitude": 42.596093,
+    "longitude": -83.381886,
+    "city": "West Bloomfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48325,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "West Bloomfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48326,
+    "latitude": 42.673931,
+    "longitude": -83.295052,
+    "city": "Auburn Hills",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48327,
+    "latitude": 42.644824,
+    "longitude": -83.406111,
+    "city": "Waterford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48328,
+    "latitude": 42.647831,
+    "longitude": -83.355433,
+    "city": "Waterford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48329,
+    "latitude": 42.68258,
+    "longitude": -83.386338,
+    "city": "Waterford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48330,
+    "latitude": 42.675435,
+    "longitude": -83.363697,
+    "city": "Drayton Plains",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48331,
+    "latitude": 42.505138,
+    "longitude": -83.407233,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48332,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48333,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48334,
+    "latitude": 42.506468,
+    "longitude": -83.348394,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48335,
+    "latitude": 42.461669,
+    "longitude": -83.405333,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48336,
+    "latitude": 42.465635,
+    "longitude": -83.363784,
+    "city": "Farmington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48340,
+    "latitude": 42.670272,
+    "longitude": -83.289036,
+    "city": "Pontiac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48341,
+    "latitude": 42.633716,
+    "longitude": -83.291471,
+    "city": "Pontiac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48342,
+    "latitude": 42.694224,
+    "longitude": -83.288516,
+    "city": "Pontiac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48343,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Pontiac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48346,
+    "latitude": 42.723851,
+    "longitude": -83.423242,
+    "city": "Clarkston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48347,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Clarkston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48348,
+    "latitude": 42.760507,
+    "longitude": -83.403984,
+    "city": "Clarkston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48350,
+    "latitude": 42.749639,
+    "longitude": -83.535805,
+    "city": "Davisburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48353,
+    "latitude": 42.648484,
+    "longitude": -83.717806,
+    "city": "Hartland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48356,
+    "latitude": 42.701111,
+    "longitude": -83.422549,
+    "city": "Highland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48357,
+    "latitude": 42.654444,
+    "longitude": -83.561306,
+    "city": "Highland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48359,
+    "latitude": 42.723081,
+    "longitude": -83.276903,
+    "city": "Lake Orion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48360,
+    "latitude": 42.74288,
+    "longitude": -83.272037,
+    "city": "Lake Orion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48361,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Lake Orion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48362,
+    "latitude": 42.776329,
+    "longitude": -83.274778,
+    "city": "Lake Orion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48363,
+    "latitude": 42.766093,
+    "longitude": -83.157643,
+    "city": "Oakland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48366,
+    "latitude": 42.803277,
+    "longitude": -83.18412,
+    "city": "Lakeville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48367,
+    "latitude": 42.843653,
+    "longitude": -83.140608,
+    "city": "Leonard",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48370,
+    "latitude": 42.840328,
+    "longitude": -83.200206,
+    "city": "Oxford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48371,
+    "latitude": 42.772209,
+    "longitude": -83.339754,
+    "city": "Oxford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48374,
+    "latitude": 42.468959,
+    "longitude": -83.522221,
+    "city": "Novi",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48375,
+    "latitude": 42.463569,
+    "longitude": -83.46663,
+    "city": "Novi",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48376,
+    "latitude": 42.470984,
+    "longitude": -83.474785,
+    "city": "Novi",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48377,
+    "latitude": 42.49917,
+    "longitude": -83.477335,
+    "city": "Novi",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48380,
+    "latitude": 42.593161,
+    "longitude": -83.645451,
+    "city": "Milford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48381,
+    "latitude": 42.554322,
+    "longitude": -83.579098,
+    "city": "Milford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48382,
+    "latitude": 42.583382,
+    "longitude": -83.500878,
+    "city": "Commerce Township",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48383,
+    "latitude": 42.657698,
+    "longitude": -83.534444,
+    "city": "White Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48386,
+    "latitude": 42.657843,
+    "longitude": -83.478714,
+    "city": "White Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48387,
+    "latitude": 42.7253,
+    "longitude": -83.311605,
+    "city": "Union Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48390,
+    "latitude": 42.558183,
+    "longitude": -83.47726,
+    "city": "Walled Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48391,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Walled Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48393,
+    "latitude": 42.520533,
+    "longitude": -83.549145,
+    "city": "Wixom",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48397,
+    "latitude": 42.491736,
+    "longitude": -83.040222,
+    "city": "Warren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48398,
+    "latitude": 42.660091,
+    "longitude": -83.3863,
+    "city": "Clawson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48401,
+    "latitude": 43.35159,
+    "longitude": -82.670835,
+    "city": "Applegate",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48410,
+    "latitude": 43.558856,
+    "longitude": -82.945483,
+    "city": "Argyle",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48411,
+    "latitude": 42.940019,
+    "longitude": -83.536923,
+    "city": "Atlas",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48412,
+    "latitude": 43.066173,
+    "longitude": -83.257592,
+    "city": "Attica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48413,
+    "latitude": 43.79455,
+    "longitude": -82.949138,
+    "city": "Bad Axe",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48414,
+    "latitude": 42.865732,
+    "longitude": -84.083097,
+    "city": "Bancroft",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48415,
+    "latitude": 43.27849,
+    "longitude": -83.81449,
+    "city": "Birch Run",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48416,
+    "latitude": 43.242602,
+    "longitude": -82.918819,
+    "city": "Brown City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48417,
+    "latitude": 43.263947,
+    "longitude": -83.893403,
+    "city": "Burt",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48418,
+    "latitude": 42.826333,
+    "longitude": -84.020577,
+    "city": "Byron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48419,
+    "latitude": 43.443662,
+    "longitude": -82.663858,
+    "city": "Carsonville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48420,
+    "latitude": 43.170497,
+    "longitude": -83.707374,
+    "city": "Clio",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48421,
+    "latitude": 43.072417,
+    "longitude": -83.292729,
+    "city": "Columbiaville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48422,
+    "latitude": 43.252807,
+    "longitude": -82.644104,
+    "city": "Croswell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48423,
+    "latitude": 43.041994,
+    "longitude": -83.622843,
+    "city": "Davison",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48426,
+    "latitude": 43.517467,
+    "longitude": -82.853426,
+    "city": "Decker",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48427,
+    "latitude": 43.535064,
+    "longitude": -82.722491,
+    "city": "Deckerville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48428,
+    "latitude": 42.937629,
+    "longitude": -83.154685,
+    "city": "Dryden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48429,
+    "latitude": 42.894936,
+    "longitude": -84.02596,
+    "city": "Durand",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48430,
+    "latitude": 42.83333,
+    "longitude": -83.763433,
+    "city": "Fenton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48432,
+    "latitude": 43.952572,
+    "longitude": -82.973268,
+    "city": "Filion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48433,
+    "latitude": 42.978274,
+    "longitude": -83.808006,
+    "city": "Flushing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48434,
+    "latitude": 43.663206,
+    "longitude": -82.613319,
+    "city": "Forestville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48435,
+    "latitude": 43.277734,
+    "longitude": -83.39199,
+    "city": "Fostoria",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48436,
+    "latitude": 42.872466,
+    "longitude": -83.858445,
+    "city": "Gaines",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48437,
+    "latitude": 43.018423,
+    "longitude": -83.691666,
+    "city": "Genesee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48438,
+    "latitude": 42.91884,
+    "longitude": -83.51249,
+    "city": "Goodrich",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48439,
+    "latitude": 42.9227,
+    "longitude": -83.67376,
+    "city": "Grand Blanc",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48440,
+    "latitude": 42.93062,
+    "longitude": -83.360013,
+    "city": "Hadley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48441,
+    "latitude": 43.867295,
+    "longitude": -82.800293,
+    "city": "Harbor Beach",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48442,
+    "latitude": 42.775922,
+    "longitude": -83.579384,
+    "city": "Holly",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48444,
+    "latitude": 43.065642,
+    "longitude": -83.060893,
+    "city": "Imlay City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48445,
+    "latitude": 43.961537,
+    "longitude": -82.944266,
+    "city": "Kinde",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48446,
+    "latitude": 43.121459,
+    "longitude": -83.319558,
+    "city": "Lapeer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48449,
+    "latitude": 42.98966,
+    "longitude": -83.900264,
+    "city": "Lennon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48450,
+    "latitude": 43.392172,
+    "longitude": -82.78895,
+    "city": "Lexington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48451,
+    "latitude": 42.825944,
+    "longitude": -83.811322,
+    "city": "Linden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48453,
+    "latitude": 43.357539,
+    "longitude": -83.002816,
+    "city": "Marlette",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48454,
+    "latitude": 43.20471,
+    "longitude": -82.810553,
+    "city": "Melvin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48455,
+    "latitude": 42.942128,
+    "longitude": -83.29607,
+    "city": "Metamora",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48456,
+    "latitude": 43.651302,
+    "longitude": -82.756025,
+    "city": "Minden City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48457,
+    "latitude": 43.003962,
+    "longitude": -83.873179,
+    "city": "Montrose",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48458,
+    "latitude": 43.120587,
+    "longitude": -83.692978,
+    "city": "Mount Morris",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48460,
+    "latitude": 43.109913,
+    "longitude": -83.998893,
+    "city": "New Lothrop",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48461,
+    "latitude": 43.112848,
+    "longitude": -83.250511,
+    "city": "North Branch",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48462,
+    "latitude": 42.835019,
+    "longitude": -83.42298,
+    "city": "Ortonville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oakland"
+  },
+  {
+    "zip_code": 48463,
+    "latitude": 43.157936,
+    "longitude": -83.529863,
+    "city": "Otisville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48464,
+    "latitude": 43.211722,
+    "longitude": -83.405752,
+    "city": "Otter Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48465,
+    "latitude": 43.614613,
+    "longitude": -82.707455,
+    "city": "Palms",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48466,
+    "latitude": 43.274949,
+    "longitude": -82.807228,
+    "city": "Peck",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48467,
+    "latitude": 43.99756,
+    "longitude": -83.052623,
+    "city": "Port Austin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48468,
+    "latitude": 43.944086,
+    "longitude": -82.907943,
+    "city": "Port Hope",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48469,
+    "latitude": 43.458914,
+    "longitude": -82.566894,
+    "city": "Port Sanilac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48470,
+    "latitude": 43.743805,
+    "longitude": -82.740132,
+    "city": "Ruth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48471,
+    "latitude": 43.374676,
+    "longitude": -82.858995,
+    "city": "Sandusky",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48472,
+    "latitude": 43.40401,
+    "longitude": -82.951494,
+    "city": "Snover",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Sanilac"
+  },
+  {
+    "zip_code": 48473,
+    "latitude": 42.950323,
+    "longitude": -83.812575,
+    "city": "Swartz Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48475,
+    "latitude": 43.80794,
+    "longitude": -83.023993,
+    "city": "Ubly",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48476,
+    "latitude": 42.940553,
+    "longitude": -84.032828,
+    "city": "Vernon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48501,
+    "latitude": 42.965926,
+    "longitude": -83.780835,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48502,
+    "latitude": 43.015127,
+    "longitude": -83.694756,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48503,
+    "latitude": 43.010835,
+    "longitude": -83.69278,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48504,
+    "latitude": 43.020626,
+    "longitude": -83.697666,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48505,
+    "latitude": 43.076926,
+    "longitude": -83.690207,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48506,
+    "latitude": 43.065313,
+    "longitude": -83.631004,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48507,
+    "latitude": 42.982076,
+    "longitude": -83.734004,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48509,
+    "latitude": 43.025934,
+    "longitude": -83.604053,
+    "city": "Burton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48519,
+    "latitude": 42.985927,
+    "longitude": -83.613452,
+    "city": "Burton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48529,
+    "latitude": 42.974427,
+    "longitude": -83.662853,
+    "city": "Burton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48531,
+    "latitude": 43.002,
+    "longitude": -83.692507,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48532,
+    "latitude": 43.011127,
+    "longitude": -83.803045,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48550,
+    "latitude": 43.034927,
+    "longitude": -83.688706,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48551,
+    "latitude": 42.978995,
+    "longitude": -83.713124,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48552,
+    "latitude": 42.977895,
+    "longitude": -83.713074,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48553,
+    "latitude": 42.973627,
+    "longitude": -83.720306,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48554,
+    "latitude": 42.972244,
+    "longitude": -83.79463,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48555,
+    "latitude": 43.011277,
+    "longitude": -83.710756,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48556,
+    "latitude": 43.032677,
+    "longitude": -83.646255,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48557,
+    "latitude": 43.080578,
+    "longitude": -83.783675,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48559,
+    "latitude": 43.002,
+    "longitude": -83.692507,
+    "city": "Flint",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Genesee"
+  },
+  {
+    "zip_code": 48601,
+    "latitude": 43.41242,
+    "longitude": -83.886873,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48602,
+    "latitude": 43.42926,
+    "longitude": -84.056977,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48603,
+    "latitude": 43.460115,
+    "longitude": -84.026587,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48604,
+    "latitude": 43.482403,
+    "longitude": -83.969391,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48605,
+    "latitude": 43.458776,
+    "longitude": -84.051827,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48606,
+    "latitude": 43.348535,
+    "longitude": -84.032612,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48607,
+    "latitude": 43.431875,
+    "longitude": -83.933672,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48608,
+    "latitude": 43.348535,
+    "longitude": -84.032612,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48609,
+    "latitude": 43.38689,
+    "longitude": -84.092633,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48610,
+    "latitude": 44.324353,
+    "longitude": -84.162443,
+    "city": "Alger",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48611,
+    "latitude": 43.639444,
+    "longitude": -84.059141,
+    "city": "Auburn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48612,
+    "latitude": 43.965212,
+    "longitude": -84.436146,
+    "city": "Beaverton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gladwin"
+  },
+  {
+    "zip_code": 48613,
+    "latitude": 43.92673,
+    "longitude": -84.105306,
+    "city": "Bentley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48614,
+    "latitude": 43.237044,
+    "longitude": -84.288736,
+    "city": "Brant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48615,
+    "latitude": 43.38631,
+    "longitude": -84.46894,
+    "city": "Breckenridge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48616,
+    "latitude": 43.329465,
+    "longitude": -84.136197,
+    "city": "Chesaning",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48617,
+    "latitude": 43.976073,
+    "longitude": -84.739685,
+    "city": "Clare",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clare"
+  },
+  {
+    "zip_code": 48618,
+    "latitude": 43.720284,
+    "longitude": -84.52035,
+    "city": "Coleman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48619,
+    "latitude": 44.756363,
+    "longitude": -84.046449,
+    "city": "Comins",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oscoda"
+  },
+  {
+    "zip_code": 48620,
+    "latitude": 43.777368,
+    "longitude": -84.381307,
+    "city": "Edenville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48621,
+    "latitude": 44.689286,
+    "longitude": -84.011959,
+    "city": "Fairview",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oscoda"
+  },
+  {
+    "zip_code": 48622,
+    "latitude": 43.951093,
+    "longitude": -84.866432,
+    "city": "Farwell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clare"
+  },
+  {
+    "zip_code": 48623,
+    "latitude": 43.496884,
+    "longitude": -84.102426,
+    "city": "Freeland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48624,
+    "latitude": 44.032603,
+    "longitude": -84.429231,
+    "city": "Gladwin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gladwin"
+  },
+  {
+    "zip_code": 48625,
+    "latitude": 44.005299,
+    "longitude": -84.85096,
+    "city": "Harrison",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clare"
+  },
+  {
+    "zip_code": 48626,
+    "latitude": 43.428523,
+    "longitude": -84.230091,
+    "city": "Hemlock",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48627,
+    "latitude": 44.387123,
+    "longitude": -84.701346,
+    "city": "Higgins Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48628,
+    "latitude": 43.770317,
+    "longitude": -84.4046,
+    "city": "Hope",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48629,
+    "latitude": 44.351007,
+    "longitude": -84.733596,
+    "city": "Houghton Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48630,
+    "latitude": 44.332152,
+    "longitude": -84.71945,
+    "city": "Houghton Lake Heights",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48631,
+    "latitude": 43.688372,
+    "longitude": -84.026419,
+    "city": "Kawkawlin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48632,
+    "latitude": 43.914196,
+    "longitude": -84.867626,
+    "city": "Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clare"
+  },
+  {
+    "zip_code": 48633,
+    "latitude": 43.958329,
+    "longitude": -84.919332,
+    "city": "Lake George",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clare"
+  },
+  {
+    "zip_code": 48634,
+    "latitude": 43.771397,
+    "longitude": -84.051257,
+    "city": "Linwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48635,
+    "latitude": 44.377795,
+    "longitude": -84.072974,
+    "city": "Lupton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48636,
+    "latitude": 44.622852,
+    "longitude": -84.14818,
+    "city": "Luzerne",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oscoda"
+  },
+  {
+    "zip_code": 48637,
+    "latitude": 43.389643,
+    "longitude": -84.309397,
+    "city": "Merrill",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48640,
+    "latitude": 43.626132,
+    "longitude": -84.33803,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48641,
+    "latitude": 43.538252,
+    "longitude": -84.387753,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48642,
+    "latitude": 43.68698,
+    "longitude": -84.280136,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48647,
+    "latitude": 44.662952,
+    "longitude": -84.089518,
+    "city": "Mio",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oscoda"
+  },
+  {
+    "zip_code": 48649,
+    "latitude": 43.165075,
+    "longitude": -84.207683,
+    "city": "Oakley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48650,
+    "latitude": 43.839179,
+    "longitude": -84.038715,
+    "city": "Pinconning",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48651,
+    "latitude": 44.343508,
+    "longitude": -84.647139,
+    "city": "Prudenville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48652,
+    "latitude": 43.868833,
+    "longitude": -84.228499,
+    "city": "Rhodes",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gladwin"
+  },
+  {
+    "zip_code": 48653,
+    "latitude": 44.394517,
+    "longitude": -84.611194,
+    "city": "Roscommon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48654,
+    "latitude": 44.334415,
+    "longitude": -84.190661,
+    "city": "Rose City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48655,
+    "latitude": 43.25677,
+    "longitude": -84.180476,
+    "city": "Saint Charles",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48656,
+    "latitude": 44.359863,
+    "longitude": -84.543576,
+    "city": "Saint Helen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Roscommon"
+  },
+  {
+    "zip_code": 48657,
+    "latitude": 43.712095,
+    "longitude": -84.399532,
+    "city": "Sanford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48658,
+    "latitude": 43.979427,
+    "longitude": -83.900702,
+    "city": "Standish",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48659,
+    "latitude": 44.079473,
+    "longitude": -83.956748,
+    "city": "Sterling",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48661,
+    "latitude": 44.33095,
+    "longitude": -84.202733,
+    "city": "West Branch",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48662,
+    "latitude": 43.379034,
+    "longitude": -84.419329,
+    "city": "Wheeler",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48663,
+    "latitude": 43.467315,
+    "longitude": -83.975475,
+    "city": "Saginaw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48667,
+    "latitude": 43.647297,
+    "longitude": -84.387331,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48670,
+    "latitude": 43.637471,
+    "longitude": -84.256758,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48674,
+    "latitude": 43.612884,
+    "longitude": -84.197125,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48686,
+    "latitude": 43.647297,
+    "longitude": -84.387331,
+    "city": "Midland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Midland"
+  },
+  {
+    "zip_code": 48701,
+    "latitude": 43.582147,
+    "longitude": -83.546114,
+    "city": "Akron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48703,
+    "latitude": 44.063621,
+    "longitude": -83.686379,
+    "city": "Au Gres",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48705,
+    "latitude": 44.678354,
+    "longitude": -83.599977,
+    "city": "Barton City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48706,
+    "latitude": 43.608773,
+    "longitude": -83.953007,
+    "city": "Bay City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48707,
+    "latitude": 43.737798,
+    "longitude": -83.933337,
+    "city": "Bay City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48708,
+    "latitude": 43.559572,
+    "longitude": -83.820876,
+    "city": "Bay City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48710,
+    "latitude": 43.556574,
+    "longitude": -83.994328,
+    "city": "University Center",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48720,
+    "latitude": 43.815182,
+    "longitude": -83.341775,
+    "city": "Bay Port",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48721,
+    "latitude": 44.794881,
+    "longitude": -83.34884,
+    "city": "Black River",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48722,
+    "latitude": 43.343016,
+    "longitude": -83.832323,
+    "city": "Bridgeport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48723,
+    "latitude": 43.489001,
+    "longitude": -83.385078,
+    "city": "Caro",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48724,
+    "latitude": 43.465024,
+    "longitude": -83.925473,
+    "city": "Carrollton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48725,
+    "latitude": 43.84953,
+    "longitude": -83.232873,
+    "city": "Caseville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48726,
+    "latitude": 43.586075,
+    "longitude": -83.293496,
+    "city": "Cass City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48727,
+    "latitude": 43.28298,
+    "longitude": -83.178182,
+    "city": "Clifford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48728,
+    "latitude": 44.705591,
+    "longitude": -83.78745,
+    "city": "Curran",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48729,
+    "latitude": 43.491974,
+    "longitude": -83.198239,
+    "city": "Deford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48730,
+    "latitude": 44.349592,
+    "longitude": -83.562942,
+    "city": "East Tawas",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48731,
+    "latitude": 43.826222,
+    "longitude": -83.141633,
+    "city": "Elkton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48732,
+    "latitude": 43.601522,
+    "longitude": -83.778971,
+    "city": "Essexville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48733,
+    "latitude": 43.534504,
+    "longitude": -83.573677,
+    "city": "Fairgrove",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48734,
+    "latitude": 43.353763,
+    "longitude": -83.756467,
+    "city": "Frankenmuth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48735,
+    "latitude": 43.599096,
+    "longitude": -83.340629,
+    "city": "Gagetown",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48736,
+    "latitude": 43.49442,
+    "longitude": -83.624431,
+    "city": "Gilford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48737,
+    "latitude": 44.57341,
+    "longitude": -83.708328,
+    "city": "Glennie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48738,
+    "latitude": 44.557782,
+    "longitude": -83.338437,
+    "city": "Greenbush",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48739,
+    "latitude": 44.358808,
+    "longitude": -83.764739,
+    "city": "Hale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48740,
+    "latitude": 44.656694,
+    "longitude": -83.41973,
+    "city": "Harrisville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48741,
+    "latitude": 43.398564,
+    "longitude": -83.195025,
+    "city": "Kingston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48742,
+    "latitude": 44.65922,
+    "longitude": -83.454865,
+    "city": "Lincoln",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48743,
+    "latitude": 44.441563,
+    "longitude": -83.851644,
+    "city": "Long Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48744,
+    "latitude": 43.344868,
+    "longitude": -83.367939,
+    "city": "Mayville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48745,
+    "latitude": 44.578092,
+    "longitude": -83.591419,
+    "city": "Mikado",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48746,
+    "latitude": 43.297434,
+    "longitude": -83.47392,
+    "city": "Millington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48747,
+    "latitude": 43.529339,
+    "longitude": -83.762898,
+    "city": "Munger",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Bay"
+  },
+  {
+    "zip_code": 48748,
+    "latitude": 44.280833,
+    "longitude": -83.71748,
+    "city": "National City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48749,
+    "latitude": 44.065941,
+    "longitude": -83.846526,
+    "city": "Omer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48750,
+    "latitude": 44.422917,
+    "longitude": -83.550866,
+    "city": "Oscoda",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48754,
+    "latitude": 43.768927,
+    "longitude": -83.228252,
+    "city": "Owendale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48755,
+    "latitude": 43.84452,
+    "longitude": -83.241886,
+    "city": "Pigeon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48756,
+    "latitude": 44.291742,
+    "longitude": -83.985725,
+    "city": "Prescott",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48757,
+    "latitude": 43.478735,
+    "longitude": -83.619435,
+    "city": "Reese",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48758,
+    "latitude": 43.407321,
+    "longitude": -83.676156,
+    "city": "Richville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48759,
+    "latitude": 43.73616,
+    "longitude": -83.381857,
+    "city": "Sebewaing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 48760,
+    "latitude": 43.285214,
+    "longitude": -83.261468,
+    "city": "Silverwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48761,
+    "latitude": 44.472352,
+    "longitude": -83.959844,
+    "city": "South Branch",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ogemaw"
+  },
+  {
+    "zip_code": 48762,
+    "latitude": 44.792293,
+    "longitude": -83.489404,
+    "city": "Spruce",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alcona"
+  },
+  {
+    "zip_code": 48763,
+    "latitude": 44.277551,
+    "longitude": -83.677131,
+    "city": "Tawas City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48764,
+    "latitude": 44.266549,
+    "longitude": -83.519166,
+    "city": "Tawas City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48765,
+    "latitude": 44.110526,
+    "longitude": -83.701888,
+    "city": "Turner",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48766,
+    "latitude": 44.104905,
+    "longitude": -83.865674,
+    "city": "Twining",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Arenac"
+  },
+  {
+    "zip_code": 48767,
+    "latitude": 43.649504,
+    "longitude": -83.452826,
+    "city": "Unionville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48768,
+    "latitude": 43.404594,
+    "longitude": -83.561187,
+    "city": "Vassar",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48769,
+    "latitude": 43.327048,
+    "longitude": -83.657355,
+    "city": "Tuscola",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Tuscola"
+  },
+  {
+    "zip_code": 48770,
+    "latitude": 44.262826,
+    "longitude": -83.688778,
+    "city": "Whittemore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Iosco"
+  },
+  {
+    "zip_code": 48787,
+    "latitude": 43.334958,
+    "longitude": -83.749418,
+    "city": "Frankenmuth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saginaw"
+  },
+  {
+    "zip_code": 48801,
+    "latitude": 43.298805,
+    "longitude": -84.63017,
+    "city": "Alma",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48802,
+    "latitude": 43.389262,
+    "longitude": -84.666661,
+    "city": "Alma",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48804,
+    "latitude": 43.640574,
+    "longitude": -84.847417,
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48805,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Okemos",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48806,
+    "latitude": 43.204648,
+    "longitude": -84.494123,
+    "city": "Ashley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48807,
+    "latitude": 43.161282,
+    "longitude": -84.433708,
+    "city": "Bannister",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48808,
+    "latitude": 42.819509,
+    "longitude": -84.483853,
+    "city": "Bath",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48809,
+    "latitude": 42.98004,
+    "longitude": -85.128727,
+    "city": "Belding",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48811,
+    "latitude": 43.279958,
+    "longitude": -85.05493,
+    "city": "Carson City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48812,
+    "latitude": 43.413761,
+    "longitude": -84.975271,
+    "city": "Cedar Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48813,
+    "latitude": 42.574191,
+    "longitude": -84.838452,
+    "city": "Charlotte",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48815,
+    "latitude": 42.835039,
+    "longitude": -85.252353,
+    "city": "Clarksville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48816,
+    "latitude": 42.757633,
+    "longitude": -83.938967,
+    "city": "Cohoctah",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48817,
+    "latitude": 42.995625,
+    "longitude": -84.140012,
+    "city": "Corunna",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48818,
+    "latitude": 43.267035,
+    "longitude": -84.95489,
+    "city": "Crystal",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48819,
+    "latitude": 42.549235,
+    "longitude": -84.273815,
+    "city": "Dansville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48820,
+    "latitude": 42.85479,
+    "longitude": -84.616108,
+    "city": "Dewitt",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48821,
+    "latitude": 42.654335,
+    "longitude": -84.654181,
+    "city": "Dimondale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48822,
+    "latitude": 42.85703,
+    "longitude": -84.759243,
+    "city": "Eagle",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48823,
+    "latitude": 42.737334,
+    "longitude": -84.503527,
+    "city": "East Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48824,
+    "latitude": 42.728334,
+    "longitude": -84.488226,
+    "city": "East Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48825,
+    "latitude": 42.723784,
+    "longitude": -84.464775,
+    "city": "East Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48826,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "East Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48827,
+    "latitude": 42.590246,
+    "longitude": -84.797012,
+    "city": "Eaton Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48829,
+    "latitude": 43.401096,
+    "longitude": -85.022308,
+    "city": "Edmore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48830,
+    "latitude": 43.363931,
+    "longitude": -84.836198,
+    "city": "Elm Hall",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48831,
+    "latitude": 43.08143,
+    "longitude": -84.445584,
+    "city": "Elsie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48832,
+    "latitude": 43.408141,
+    "longitude": -84.775817,
+    "city": "Elwell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48833,
+    "latitude": 42.944209,
+    "longitude": -84.600723,
+    "city": "Eureka",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48834,
+    "latitude": 43.292973,
+    "longitude": -85.045217,
+    "city": "Fenwick",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48835,
+    "latitude": 42.993295,
+    "longitude": -84.761244,
+    "city": "Fowler",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48836,
+    "latitude": 42.641649,
+    "longitude": -84.054241,
+    "city": "Fowlerville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48837,
+    "latitude": 42.700035,
+    "longitude": -84.766787,
+    "city": "Grand Ledge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48838,
+    "latitude": 43.282538,
+    "longitude": -85.077695,
+    "city": "Greenville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48840,
+    "latitude": 42.750324,
+    "longitude": -84.378655,
+    "city": "Haslett",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48841,
+    "latitude": 42.983136,
+    "longitude": -84.229888,
+    "city": "Henderson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48842,
+    "latitude": 42.639785,
+    "longitude": -84.506522,
+    "city": "Holt",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48843,
+    "latitude": 42.630687,
+    "longitude": -83.910266,
+    "city": "Howell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48844,
+    "latitude": 42.603479,
+    "longitude": -83.911173,
+    "city": "Howell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48845,
+    "latitude": 43.090457,
+    "longitude": -84.896225,
+    "city": "Hubbardston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48846,
+    "latitude": 42.973427,
+    "longitude": -85.090548,
+    "city": "Ionia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48847,
+    "latitude": 43.249453,
+    "longitude": -84.60379,
+    "city": "Ithaca",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48848,
+    "latitude": 42.879874,
+    "longitude": -84.313294,
+    "city": "Laingsburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48849,
+    "latitude": 42.827728,
+    "longitude": -85.143286,
+    "city": "Lake Odessa",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48850,
+    "latitude": 43.398672,
+    "longitude": -85.175752,
+    "city": "Lakeview",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48851,
+    "latitude": 42.956819,
+    "longitude": -84.958071,
+    "city": "Lyons",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48852,
+    "latitude": 43.350251,
+    "longitude": -85.051692,
+    "city": "Mcbrides",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48853,
+    "latitude": 43.099153,
+    "longitude": -84.68977,
+    "city": "Maple Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48854,
+    "latitude": 42.574335,
+    "longitude": -84.460273,
+    "city": "Mason",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48856,
+    "latitude": 43.197902,
+    "longitude": -84.730738,
+    "city": "Middleton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48857,
+    "latitude": 42.844288,
+    "longitude": -84.136097,
+    "city": "Morrice",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48858,
+    "latitude": 43.636855,
+    "longitude": -84.807511,
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48859,
+    "latitude": 43.564736,
+    "longitude": -84.847297,
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48860,
+    "latitude": 43.046851,
+    "longitude": -84.900482,
+    "city": "Muir",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48861,
+    "latitude": 42.724229,
+    "longitude": -84.916222,
+    "city": "Mulliken",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48862,
+    "latitude": 43.356518,
+    "longitude": -84.497138,
+    "city": "North Star",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48863,
+    "latitude": 42.603479,
+    "longitude": -83.911173,
+    "city": "Oak Grove",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 48864,
+    "latitude": 42.719534,
+    "longitude": -84.425136,
+    "city": "Okemos",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48865,
+    "latitude": 43.078789,
+    "longitude": -85.102387,
+    "city": "Orleans",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48866,
+    "latitude": 43.015906,
+    "longitude": -84.52884,
+    "city": "Ovid",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48867,
+    "latitude": 42.982578,
+    "longitude": -84.184937,
+    "city": "Owosso",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48870,
+    "latitude": 43.113587,
+    "longitude": -85.007665,
+    "city": "Palo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48871,
+    "latitude": 43.162586,
+    "longitude": -84.679727,
+    "city": "Perrinton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48872,
+    "latitude": 42.823317,
+    "longitude": -84.211149,
+    "city": "Perry",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48873,
+    "latitude": 42.970044,
+    "longitude": -84.916118,
+    "city": "Pewamo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48874,
+    "latitude": 43.186268,
+    "longitude": -84.601718,
+    "city": "Pompeii",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48875,
+    "latitude": 42.883458,
+    "longitude": -84.965969,
+    "city": "Portland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48876,
+    "latitude": 42.643807,
+    "longitude": -84.729716,
+    "city": "Potterville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48877,
+    "latitude": 43.382803,
+    "longitude": -84.816107,
+    "city": "Riverdale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48878,
+    "latitude": 43.709243,
+    "longitude": -84.770931,
+    "city": "Rosebush",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48879,
+    "latitude": 42.979673,
+    "longitude": -84.581962,
+    "city": "Saint Johns",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48880,
+    "latitude": 43.324772,
+    "longitude": -84.603002,
+    "city": "Saint Louis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48881,
+    "latitude": 42.93571,
+    "longitude": -85.20298,
+    "city": "Saranac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48882,
+    "latitude": 42.803973,
+    "longitude": -84.295949,
+    "city": "Shaftsburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Shiawassee"
+  },
+  {
+    "zip_code": 48883,
+    "latitude": 43.530865,
+    "longitude": -84.756824,
+    "city": "Shepherd",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48884,
+    "latitude": 43.206319,
+    "longitude": -85.069087,
+    "city": "Sheridan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48885,
+    "latitude": 43.235402,
+    "longitude": -85.191444,
+    "city": "Sidney",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48886,
+    "latitude": 43.341346,
+    "longitude": -85.177052,
+    "city": "Six Lakes",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48887,
+    "latitude": 42.944929,
+    "longitude": -85.074665,
+    "city": "Smyrna",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ionia"
+  },
+  {
+    "zip_code": 48888,
+    "latitude": 43.289347,
+    "longitude": -85.059556,
+    "city": "Stanton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48889,
+    "latitude": 43.26895,
+    "longitude": -84.660821,
+    "city": "Sumner",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Gratiot"
+  },
+  {
+    "zip_code": 48890,
+    "latitude": 42.703177,
+    "longitude": -84.896833,
+    "city": "Sunfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48891,
+    "latitude": 43.294643,
+    "longitude": -84.955903,
+    "city": "Vestaburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 48892,
+    "latitude": 42.656484,
+    "longitude": -84.200923,
+    "city": "Webberville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48893,
+    "latitude": 43.67589,
+    "longitude": -84.977751,
+    "city": "Weidman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48894,
+    "latitude": 42.932843,
+    "longitude": -84.808267,
+    "city": "Westphalia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 48895,
+    "latitude": 42.680434,
+    "longitude": -84.271215,
+    "city": "Williamston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48896,
+    "latitude": 43.530832,
+    "longitude": -84.906289,
+    "city": "Winn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 48897,
+    "latitude": 42.697951,
+    "longitude": -85.133685,
+    "city": "Woodland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 48901,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48906,
+    "latitude": 42.755284,
+    "longitude": -84.562979,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48907,
+    "latitude": 42.596071,
+    "longitude": -84.838206,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48908,
+    "latitude": 42.596071,
+    "longitude": -84.838206,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48909,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48910,
+    "latitude": 42.703435,
+    "longitude": -84.518543,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48911,
+    "latitude": 42.680335,
+    "longitude": -84.543494,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48912,
+    "latitude": 42.740054,
+    "longitude": -84.524939,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48913,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48915,
+    "latitude": 42.738764,
+    "longitude": -84.571179,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48916,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48917,
+    "latitude": 42.722414,
+    "longitude": -84.652032,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 48918,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48919,
+    "latitude": 42.728585,
+    "longitude": -84.551728,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48921,
+    "latitude": 42.723735,
+    "longitude": -84.555629,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48922,
+    "latitude": 42.732535,
+    "longitude": -84.558679,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48924,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48929,
+    "latitude": 42.732535,
+    "longitude": -84.558679,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48930,
+    "latitude": 42.732535,
+    "longitude": -84.558679,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48933,
+    "latitude": 42.731384,
+    "longitude": -84.553698,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48937,
+    "latitude": 42.748734,
+    "longitude": -84.559029,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48950,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48951,
+    "latitude": 42.775979,
+    "longitude": -84.605066,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48956,
+    "latitude": 42.732535,
+    "longitude": -84.558679,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 48980,
+    "latitude": 42.599184,
+    "longitude": -84.371973,
+    "city": "Lansing",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 49001,
+    "latitude": 42.261596,
+    "longitude": -85.510095,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49002,
+    "latitude": 42.193793,
+    "longitude": -85.563901,
+    "city": "Portage",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49003,
+    "latitude": 42.245412,
+    "longitude": -85.529858,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49004,
+    "latitude": 42.306859,
+    "longitude": -85.56816,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49005,
+    "latitude": 42.323045,
+    "longitude": -85.493232,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49006,
+    "latitude": 42.292247,
+    "longitude": -85.633033,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49007,
+    "latitude": 42.242774,
+    "longitude": -85.560265,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49008,
+    "latitude": 42.263007,
+    "longitude": -85.618046,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49009,
+    "latitude": 42.299211,
+    "longitude": -85.592635,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49010,
+    "latitude": 42.539295,
+    "longitude": -85.894873,
+    "city": "Allegan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49011,
+    "latitude": 42.119031,
+    "longitude": -85.214348,
+    "city": "Athens",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49012,
+    "latitude": 42.353739,
+    "longitude": -85.346599,
+    "city": "Augusta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49013,
+    "latitude": 42.312771,
+    "longitude": -86.096133,
+    "city": "Bangor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49014,
+    "latitude": 42.303041,
+    "longitude": -85.13044,
+    "city": "Battle Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49015,
+    "latitude": 42.219313,
+    "longitude": -85.229238,
+    "city": "Battle Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49016,
+    "latitude": 42.246402,
+    "longitude": -85.004511,
+    "city": "Battle Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49017,
+    "latitude": 42.367389,
+    "longitude": -85.194996,
+    "city": "Battle Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49018,
+    "latitude": 42.246402,
+    "longitude": -85.004511,
+    "city": "Battle Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49019,
+    "latitude": 42.245412,
+    "longitude": -85.529858,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49020,
+    "latitude": 42.246402,
+    "longitude": -85.004511,
+    "city": "Bedford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49021,
+    "latitude": 42.514158,
+    "longitude": -85.014665,
+    "city": "Bellevue",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 49022,
+    "latitude": 42.14338,
+    "longitude": -86.348568,
+    "city": "Benton Harbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49023,
+    "latitude": 42.001551,
+    "longitude": -86.715294,
+    "city": "Benton Harbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49024,
+    "latitude": 42.197442,
+    "longitude": -85.619352,
+    "city": "Portage",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49026,
+    "latitude": 42.367738,
+    "longitude": -85.964714,
+    "city": "Bloomingdale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49027,
+    "latitude": 42.346504,
+    "longitude": -86.072501,
+    "city": "Breedsville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49028,
+    "latitude": 41.880399,
+    "longitude": -85.162804,
+    "city": "Bronson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49029,
+    "latitude": 42.130843,
+    "longitude": -85.1023,
+    "city": "Burlington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49030,
+    "latitude": 41.839785,
+    "longitude": -85.365433,
+    "city": "Burr Oak",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49031,
+    "latitude": 41.904174,
+    "longitude": -85.999067,
+    "city": "Cassopolis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49032,
+    "latitude": 41.904488,
+    "longitude": -85.479907,
+    "city": "Centreville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49033,
+    "latitude": 42.235692,
+    "longitude": -85.090633,
+    "city": "Ceresco",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49034,
+    "latitude": 42.226193,
+    "longitude": -85.363194,
+    "city": "Climax",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49035,
+    "latitude": 42.595121,
+    "longitude": -85.308555,
+    "city": "Cloverdale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49036,
+    "latitude": 41.905358,
+    "longitude": -85.058716,
+    "city": "Coldwater",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49038,
+    "latitude": 42.147551,
+    "longitude": -86.365588,
+    "city": "Coloma",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49039,
+    "latitude": 42.224757,
+    "longitude": -86.372276,
+    "city": "Hagar Shores",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49040,
+    "latitude": 41.977796,
+    "longitude": -85.351074,
+    "city": "Colon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49041,
+    "latitude": 42.245412,
+    "longitude": -85.529858,
+    "city": "Comstock",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49042,
+    "latitude": 41.936948,
+    "longitude": -85.533122,
+    "city": "Constantine",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49043,
+    "latitude": 42.28054,
+    "longitude": -86.266608,
+    "city": "Covert",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49045,
+    "latitude": 42.174485,
+    "longitude": -86.071429,
+    "city": "Decatur",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49046,
+    "latitude": 42.532723,
+    "longitude": -85.384885,
+    "city": "Delton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49047,
+    "latitude": 41.961597,
+    "longitude": -86.019304,
+    "city": "Dowagiac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49048,
+    "latitude": 42.274268,
+    "longitude": -85.493081,
+    "city": "Kalamazoo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49050,
+    "latitude": 42.605588,
+    "longitude": -85.339902,
+    "city": "Dowling",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49051,
+    "latitude": 42.1779,
+    "longitude": -85.234287,
+    "city": "East Leroy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49052,
+    "latitude": 42.13344,
+    "longitude": -85.342481,
+    "city": "Fulton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49053,
+    "latitude": 42.303241,
+    "longitude": -85.395798,
+    "city": "Galesburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49055,
+    "latitude": 42.357819,
+    "longitude": -85.859198,
+    "city": "Gobles",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49056,
+    "latitude": 42.367516,
+    "longitude": -86.07133,
+    "city": "Grand Junction",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49057,
+    "latitude": 42.218519,
+    "longitude": -86.052434,
+    "city": "Hartford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49058,
+    "latitude": 42.639121,
+    "longitude": -85.28988,
+    "city": "Hastings",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49060,
+    "latitude": 42.500132,
+    "longitude": -85.396204,
+    "city": "Hickory Corners",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49061,
+    "latitude": 41.885831,
+    "longitude": -85.833847,
+    "city": "Jones",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49062,
+    "latitude": 42.36175,
+    "longitude": -85.814072,
+    "city": "Kendall",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49063,
+    "latitude": 42.393586,
+    "longitude": -86.209904,
+    "city": "Lacota",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49064,
+    "latitude": 42.214896,
+    "longitude": -86.047077,
+    "city": "Lawrence",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49065,
+    "latitude": 42.185207,
+    "longitude": -86.011811,
+    "city": "Lawton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49066,
+    "latitude": 42.028161,
+    "longitude": -85.35224,
+    "city": "Leonidas",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49067,
+    "latitude": 42.008635,
+    "longitude": -85.857579,
+    "city": "Marcellus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49068,
+    "latitude": 42.265016,
+    "longitude": -84.948946,
+    "city": "Marshall",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49069,
+    "latitude": 42.204494,
+    "longitude": -84.949919,
+    "city": "Marshall",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49070,
+    "latitude": 42.537142,
+    "longitude": -85.626918,
+    "city": "Martin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49071,
+    "latitude": 42.244501,
+    "longitude": -85.805041,
+    "city": "Mattawan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49072,
+    "latitude": 42.009094,
+    "longitude": -85.449665,
+    "city": "Mendon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49073,
+    "latitude": 42.621104,
+    "longitude": -85.197412,
+    "city": "Nashville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49074,
+    "latitude": 42.245412,
+    "longitude": -85.529858,
+    "city": "Nazareth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49075,
+    "latitude": 41.918535,
+    "longitude": -85.452884,
+    "city": "Nottawa",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49076,
+    "latitude": 42.559717,
+    "longitude": -84.922599,
+    "city": "Olivet",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 49077,
+    "latitude": 42.245412,
+    "longitude": -85.529858,
+    "city": "Oshtemo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49078,
+    "latitude": 42.486075,
+    "longitude": -85.724612,
+    "city": "Otsego",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49079,
+    "latitude": 42.243011,
+    "longitude": -85.930846,
+    "city": "Paw Paw",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49080,
+    "latitude": 42.479577,
+    "longitude": -85.633538,
+    "city": "Plainwell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49081,
+    "latitude": 42.171777,
+    "longitude": -85.617824,
+    "city": "Portage",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49082,
+    "latitude": 41.949119,
+    "longitude": -85.032201,
+    "city": "Quincy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49083,
+    "latitude": 42.376138,
+    "longitude": -85.454755,
+    "city": "Richland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49084,
+    "latitude": 42.178035,
+    "longitude": -86.38557,
+    "city": "Riverside",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49085,
+    "latitude": 41.977412,
+    "longitude": -86.533144,
+    "city": "Saint Joseph",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49087,
+    "latitude": 42.135078,
+    "longitude": -85.656846,
+    "city": "Schoolcraft",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49088,
+    "latitude": 42.254992,
+    "longitude": -85.424395,
+    "city": "Scotts",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49089,
+    "latitude": 42.000564,
+    "longitude": -85.225195,
+    "city": "Sherwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49090,
+    "latitude": 42.363778,
+    "longitude": -86.138952,
+    "city": "South Haven",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 49091,
+    "latitude": 41.842913,
+    "longitude": -85.478265,
+    "city": "Sturgis",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49092,
+    "latitude": 42.13422,
+    "longitude": -84.972831,
+    "city": "Tekonsha",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49093,
+    "latitude": 41.928972,
+    "longitude": -85.538215,
+    "city": "Three Rivers",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49094,
+    "latitude": 42.025271,
+    "longitude": -85.078799,
+    "city": "Union City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49095,
+    "latitude": 41.936454,
+    "longitude": -85.885793,
+    "city": "Vandalia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49096,
+    "latitude": 42.639932,
+    "longitude": -85.004661,
+    "city": "Vermontville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Eaton"
+  },
+  {
+    "zip_code": 49097,
+    "latitude": 42.17954,
+    "longitude": -85.473371,
+    "city": "Vicksburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalamazoo"
+  },
+  {
+    "zip_code": 49098,
+    "latitude": 42.161397,
+    "longitude": -86.271878,
+    "city": "Watervliet",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49099,
+    "latitude": 41.859335,
+    "longitude": -85.553193,
+    "city": "White Pigeon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Joseph"
+  },
+  {
+    "zip_code": 49101,
+    "latitude": 41.949647,
+    "longitude": -86.475504,
+    "city": "Baroda",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49102,
+    "latitude": 41.954986,
+    "longitude": -86.2681,
+    "city": "Berrien Center",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49103,
+    "latitude": 41.907363,
+    "longitude": -86.472582,
+    "city": "Berrien Springs",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49104,
+    "latitude": 42.001551,
+    "longitude": -86.715294,
+    "city": "Berrien Springs",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49106,
+    "latitude": 41.942151,
+    "longitude": -86.544561,
+    "city": "Bridgman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49107,
+    "latitude": 41.841369,
+    "longitude": -86.429249,
+    "city": "Buchanan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49111,
+    "latitude": 42.027591,
+    "longitude": -86.299153,
+    "city": "Eau Claire",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49112,
+    "latitude": 41.807011,
+    "longitude": -85.997234,
+    "city": "Edwardsburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49113,
+    "latitude": 41.81146,
+    "longitude": -86.499237,
+    "city": "Galien",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49115,
+    "latitude": 41.877103,
+    "longitude": -86.630243,
+    "city": "Harbert",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49116,
+    "latitude": 41.833625,
+    "longitude": -86.662174,
+    "city": "Lakeside",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49117,
+    "latitude": 41.79273,
+    "longitude": -86.746022,
+    "city": "New Buffalo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49119,
+    "latitude": 41.868746,
+    "longitude": -86.547369,
+    "city": "New Troy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49120,
+    "latitude": 41.844732,
+    "longitude": -86.421005,
+    "city": "Niles",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49121,
+    "latitude": 42.001551,
+    "longitude": -86.715294,
+    "city": "Niles",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49125,
+    "latitude": 41.899733,
+    "longitude": -86.571325,
+    "city": "Sawyer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49126,
+    "latitude": 42.029487,
+    "longitude": -86.378199,
+    "city": "Sodus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49127,
+    "latitude": 42.00743,
+    "longitude": -86.508146,
+    "city": "Stevensville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49128,
+    "latitude": 41.827553,
+    "longitude": -86.600498,
+    "city": "Three Oaks",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49129,
+    "latitude": 41.825532,
+    "longitude": -86.684816,
+    "city": "Union Pier",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 49130,
+    "latitude": 41.800617,
+    "longitude": -85.866011,
+    "city": "Union",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 49201,
+    "latitude": 42.248979,
+    "longitude": -84.421104,
+    "city": "Jackson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49202,
+    "latitude": 42.275635,
+    "longitude": -84.398207,
+    "city": "Jackson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49203,
+    "latitude": 42.186861,
+    "longitude": -84.46471,
+    "city": "Jackson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49204,
+    "latitude": 42.252847,
+    "longitude": -84.213755,
+    "city": "Jackson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49220,
+    "latitude": 41.985346,
+    "longitude": -84.314543,
+    "city": "Addison",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49221,
+    "latitude": 41.889943,
+    "longitude": -84.065892,
+    "city": "Adrian",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49224,
+    "latitude": 42.2906,
+    "longitude": -84.792885,
+    "city": "Albion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49227,
+    "latitude": 41.956346,
+    "longitude": -84.767913,
+    "city": "Allen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49228,
+    "latitude": 41.852645,
+    "longitude": -83.873899,
+    "city": "Blissfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49229,
+    "latitude": 41.997944,
+    "longitude": -83.857925,
+    "city": "Britton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49230,
+    "latitude": 42.160388,
+    "longitude": -84.388821,
+    "city": "Brooklyn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49232,
+    "latitude": 41.747377,
+    "longitude": -84.638542,
+    "city": "Camden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49233,
+    "latitude": 42.048091,
+    "longitude": -84.315009,
+    "city": "Cement City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49234,
+    "latitude": 42.119607,
+    "longitude": -84.369085,
+    "city": "Clarklake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49235,
+    "latitude": 41.930577,
+    "longitude": -84.156209,
+    "city": "Clayton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49236,
+    "latitude": 42.061881,
+    "longitude": -83.957586,
+    "city": "Clinton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49237,
+    "latitude": 42.186022,
+    "longitude": -84.641897,
+    "city": "Concord",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49238,
+    "latitude": 41.900279,
+    "longitude": -83.817849,
+    "city": "Deerfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49239,
+    "latitude": 41.782499,
+    "longitude": -84.604662,
+    "city": "Frontier",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49240,
+    "latitude": 42.258533,
+    "longitude": -84.344285,
+    "city": "Grass Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49241,
+    "latitude": 42.111258,
+    "longitude": -84.601588,
+    "city": "Hanover",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49242,
+    "latitude": 41.853903,
+    "longitude": -84.582913,
+    "city": "Hillsdale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49245,
+    "latitude": 42.144355,
+    "longitude": -84.848182,
+    "city": "Homer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 49246,
+    "latitude": 42.131129,
+    "longitude": -84.479081,
+    "city": "Horton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49247,
+    "latitude": 41.870383,
+    "longitude": -84.095955,
+    "city": "Hudson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49248,
+    "latitude": 41.770362,
+    "longitude": -84.001125,
+    "city": "Jasper",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49249,
+    "latitude": 42.029587,
+    "longitude": -84.468662,
+    "city": "Jerome",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49250,
+    "latitude": 41.898745,
+    "longitude": -84.585577,
+    "city": "Jonesville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49251,
+    "latitude": 42.478186,
+    "longitude": -84.407118,
+    "city": "Leslie",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 49252,
+    "latitude": 42.029101,
+    "longitude": -84.619228,
+    "city": "Litchfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49253,
+    "latitude": 41.970384,
+    "longitude": -84.270369,
+    "city": "Manitou Beach",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49254,
+    "latitude": 42.208747,
+    "longitude": -84.465922,
+    "city": "Michigan Center",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49255,
+    "latitude": 41.792652,
+    "longitude": -84.900917,
+    "city": "Montgomery",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Branch"
+  },
+  {
+    "zip_code": 49256,
+    "latitude": 41.84736,
+    "longitude": -84.229012,
+    "city": "Morenci",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49257,
+    "latitude": 42.054795,
+    "longitude": -84.503905,
+    "city": "Moscow",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49258,
+    "latitude": 41.884795,
+    "longitude": -84.593491,
+    "city": "Mosherville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49259,
+    "latitude": 42.360385,
+    "longitude": -84.233087,
+    "city": "Munith",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49261,
+    "latitude": 42.164338,
+    "longitude": -84.24575,
+    "city": "Napoleon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49262,
+    "latitude": 41.963943,
+    "longitude": -84.473084,
+    "city": "North Adams",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49263,
+    "latitude": 42.158189,
+    "longitude": -84.183828,
+    "city": "Norvell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49264,
+    "latitude": 42.472836,
+    "longitude": -84.541672,
+    "city": "Onondaga",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 49265,
+    "latitude": 42.007537,
+    "longitude": -84.182082,
+    "city": "Onsted",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49266,
+    "latitude": 41.832935,
+    "longitude": -84.548539,
+    "city": "Osseo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49267,
+    "latitude": 41.772724,
+    "longitude": -83.704835,
+    "city": "Ottawa Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 49268,
+    "latitude": 41.86957,
+    "longitude": -83.920024,
+    "city": "Palmyra",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49269,
+    "latitude": 42.257902,
+    "longitude": -84.580681,
+    "city": "Parma",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49270,
+    "latitude": 41.865026,
+    "longitude": -83.670689,
+    "city": "Petersburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 49271,
+    "latitude": 41.854948,
+    "longitude": -84.452585,
+    "city": "Pittsford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49272,
+    "latitude": 42.387785,
+    "longitude": -84.347636,
+    "city": "Pleasant Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49274,
+    "latitude": 41.846897,
+    "longitude": -84.728441,
+    "city": "Reading",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49275,
+    "latitude": 41.988026,
+    "longitude": -83.865674,
+    "city": "Ridgeway",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49276,
+    "latitude": 41.791518,
+    "longitude": -83.814189,
+    "city": "Riga",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49277,
+    "latitude": 42.384636,
+    "longitude": -84.465133,
+    "city": "Rives Junction",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49278,
+    "latitude": 41.912292,
+    "longitude": -84.32652,
+    "city": "Rollin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49279,
+    "latitude": 41.775793,
+    "longitude": -84.112125,
+    "city": "Sand Creek",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49280,
+    "latitude": 41.79583,
+    "longitude": -84.186608,
+    "city": "Seneca",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49281,
+    "latitude": 42.023026,
+    "longitude": -84.379391,
+    "city": "Somerset",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49282,
+    "latitude": 42.050199,
+    "longitude": -84.392191,
+    "city": "Somerset Center",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49283,
+    "latitude": 42.272863,
+    "longitude": -84.605612,
+    "city": "Spring Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49284,
+    "latitude": 42.37823,
+    "longitude": -84.630106,
+    "city": "Springport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 49285,
+    "latitude": 42.496734,
+    "longitude": -84.24306,
+    "city": "Stockbridge",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ingham"
+  },
+  {
+    "zip_code": 49286,
+    "latitude": 42.008398,
+    "longitude": -83.922214,
+    "city": "Tecumseh",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49287,
+    "latitude": 42.02172,
+    "longitude": -84.064971,
+    "city": "Tipton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49288,
+    "latitude": 41.743114,
+    "longitude": -84.447488,
+    "city": "Waldron",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Hillsdale"
+  },
+  {
+    "zip_code": 49289,
+    "latitude": 41.768254,
+    "longitude": -84.107609,
+    "city": "Weston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lenawee"
+  },
+  {
+    "zip_code": 49301,
+    "latitude": 42.963833,
+    "longitude": -85.482266,
+    "city": "Ada",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49302,
+    "latitude": 42.856096,
+    "longitude": -85.402859,
+    "city": "Alto",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49303,
+    "latitude": 43.272182,
+    "longitude": -85.854471,
+    "city": "Bailey",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49304,
+    "latitude": 43.929225,
+    "longitude": -85.840774,
+    "city": "Baldwin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49305,
+    "latitude": 43.737488,
+    "longitude": -85.166327,
+    "city": "Barryton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49306,
+    "latitude": 43.074996,
+    "longitude": -85.563211,
+    "city": "Belmont",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49307,
+    "latitude": 43.683493,
+    "longitude": -85.3518,
+    "city": "Big Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49309,
+    "latitude": 43.712217,
+    "longitude": -85.860379,
+    "city": "Bitely",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49310,
+    "latitude": 43.552836,
+    "longitude": -84.966988,
+    "city": "Blanchard",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Isabella"
+  },
+  {
+    "zip_code": 49311,
+    "latitude": 42.633006,
+    "longitude": -85.643043,
+    "city": "Bradley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49312,
+    "latitude": 43.666006,
+    "longitude": -85.791055,
+    "city": "Brohman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49314,
+    "latitude": 42.731193,
+    "longitude": -85.840372,
+    "city": "Burnips",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49315,
+    "latitude": 42.835828,
+    "longitude": -85.664425,
+    "city": "Byron Center",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49316,
+    "latitude": 42.81868,
+    "longitude": -85.524437,
+    "city": "Caledonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49317,
+    "latitude": 43.071201,
+    "longitude": -85.480856,
+    "city": "Cannonsburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49318,
+    "latitude": 43.234658,
+    "longitude": -85.840115,
+    "city": "Casnovia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49319,
+    "latitude": 43.175953,
+    "longitude": -85.514105,
+    "city": "Cedar Springs",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49320,
+    "latitude": 43.755335,
+    "longitude": -85.278303,
+    "city": "Chippewa Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49321,
+    "latitude": 43.081164,
+    "longitude": -85.679652,
+    "city": "Comstock Park",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49322,
+    "latitude": 43.359517,
+    "longitude": -85.353161,
+    "city": "Coral",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 49323,
+    "latitude": 42.721585,
+    "longitude": -85.788666,
+    "city": "Dorr",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49325,
+    "latitude": 42.738867,
+    "longitude": -85.364444,
+    "city": "Freeport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49326,
+    "latitude": 43.310955,
+    "longitude": -85.21072,
+    "city": "Gowen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 49327,
+    "latitude": 43.539032,
+    "longitude": -85.850409,
+    "city": "Grant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49328,
+    "latitude": 42.623664,
+    "longitude": -85.780339,
+    "city": "Hopkins",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49329,
+    "latitude": 43.382007,
+    "longitude": -85.442836,
+    "city": "Howard City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 49330,
+    "latitude": 43.23506,
+    "longitude": -85.670248,
+    "city": "Kent City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49331,
+    "latitude": 42.969378,
+    "longitude": -85.384134,
+    "city": "Lowell",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49332,
+    "latitude": 43.60077,
+    "longitude": -85.31329,
+    "city": "Mecosta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49333,
+    "latitude": 42.670351,
+    "longitude": -85.427281,
+    "city": "Middleville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 49335,
+    "latitude": 42.736987,
+    "longitude": -85.663538,
+    "city": "Moline",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49336,
+    "latitude": 43.52199,
+    "longitude": -85.423262,
+    "city": "Morley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49337,
+    "latitude": 43.444927,
+    "longitude": -85.73898,
+    "city": "Newaygo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49338,
+    "latitude": 43.72777,
+    "longitude": -85.365385,
+    "city": "Paris",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49339,
+    "latitude": 43.368549,
+    "longitude": -85.473124,
+    "city": "Pierson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 49340,
+    "latitude": 43.637851,
+    "longitude": -85.198945,
+    "city": "Remus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49341,
+    "latitude": 43.132429,
+    "longitude": -85.551631,
+    "city": "Rockford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49342,
+    "latitude": 43.691187,
+    "longitude": -85.318534,
+    "city": "Rodney",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49343,
+    "latitude": 43.258296,
+    "longitude": -85.504509,
+    "city": "Sand Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49344,
+    "latitude": 42.612772,
+    "longitude": -85.612828,
+    "city": "Shelbyville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49345,
+    "latitude": 43.157685,
+    "longitude": -85.683555,
+    "city": "Sparta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49346,
+    "latitude": 43.590861,
+    "longitude": -85.403676,
+    "city": "Stanwood",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mecosta"
+  },
+  {
+    "zip_code": 49347,
+    "latitude": 43.330898,
+    "longitude": -85.414422,
+    "city": "Trufant",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montcalm"
+  },
+  {
+    "zip_code": 49348,
+    "latitude": 42.685065,
+    "longitude": -85.642406,
+    "city": "Wayland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49349,
+    "latitude": 43.611483,
+    "longitude": -85.797989,
+    "city": "White Cloud",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49351,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Rockford",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49355,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Ada",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49356,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Ada",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49357,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Ada",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49401,
+    "latitude": 42.979522,
+    "longitude": -85.93927,
+    "city": "Allendale",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49402,
+    "latitude": 43.967633,
+    "longitude": -85.980028,
+    "city": "Branch",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49403,
+    "latitude": 43.118172,
+    "longitude": -85.848391,
+    "city": "Conklin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49404,
+    "latitude": 43.062122,
+    "longitude": -85.959758,
+    "city": "Coopersville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49405,
+    "latitude": 43.932434,
+    "longitude": -86.177683,
+    "city": "Custer",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49406,
+    "latitude": 42.636883,
+    "longitude": -86.202158,
+    "city": "Douglas",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49408,
+    "latitude": 42.542809,
+    "longitude": -86.11849,
+    "city": "Fennville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49409,
+    "latitude": 43.080865,
+    "longitude": -86.215413,
+    "city": "Ferrysburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49410,
+    "latitude": 44.030126,
+    "longitude": -86.142483,
+    "city": "Fountain",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49411,
+    "latitude": 44.071924,
+    "longitude": -86.252729,
+    "city": "Free Soil",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49412,
+    "latitude": 43.513456,
+    "longitude": -85.9132,
+    "city": "Fremont",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49413,
+    "latitude": 43.554311,
+    "longitude": -85.800884,
+    "city": "Fremont",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Newaygo"
+  },
+  {
+    "zip_code": 49415,
+    "latitude": 43.275502,
+    "longitude": -86.07655,
+    "city": "Fruitport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49416,
+    "latitude": 42.630533,
+    "longitude": -86.072032,
+    "city": "Glenn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49417,
+    "latitude": 43.008786,
+    "longitude": -86.129031,
+    "city": "Grand Haven",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49418,
+    "latitude": 42.882726,
+    "longitude": -85.753056,
+    "city": "Grandville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49419,
+    "latitude": 42.693859,
+    "longitude": -85.980959,
+    "city": "Hamilton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49420,
+    "latitude": 43.700968,
+    "longitude": -86.334122,
+    "city": "Hart",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49421,
+    "latitude": 43.574326,
+    "longitude": -86.223175,
+    "city": "Hesperia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49422,
+    "latitude": 42.985596,
+    "longitude": -86.444751,
+    "city": "Holland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49423,
+    "latitude": 42.812579,
+    "longitude": -86.037218,
+    "city": "Holland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49424,
+    "latitude": 42.924578,
+    "longitude": -86.121901,
+    "city": "Holland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49425,
+    "latitude": 43.417206,
+    "longitude": -86.130268,
+    "city": "Holton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49426,
+    "latitude": 42.861575,
+    "longitude": -85.935917,
+    "city": "Hudsonville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49427,
+    "latitude": 42.826676,
+    "longitude": -85.844378,
+    "city": "Jamestown",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49428,
+    "latitude": 42.918544,
+    "longitude": -85.842586,
+    "city": "Jenison",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49429,
+    "latitude": 42.985596,
+    "longitude": -86.444751,
+    "city": "Jenison",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49430,
+    "latitude": 43.010337,
+    "longitude": -85.89754,
+    "city": "Lamont",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49431,
+    "latitude": 43.998926,
+    "longitude": -86.349439,
+    "city": "Ludington",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49434,
+    "latitude": 42.76973,
+    "longitude": -86.205471,
+    "city": "Macatawa",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49435,
+    "latitude": 43.023673,
+    "longitude": -85.844039,
+    "city": "Marne",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49436,
+    "latitude": 43.681533,
+    "longitude": -86.468975,
+    "city": "Mears",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49437,
+    "latitude": 43.42404,
+    "longitude": -86.339517,
+    "city": "Montague",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49440,
+    "latitude": 43.233764,
+    "longitude": -86.232858,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49441,
+    "latitude": 43.245871,
+    "longitude": -86.264015,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49442,
+    "latitude": 43.237314,
+    "longitude": -86.14768,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49443,
+    "latitude": 43.295493,
+    "longitude": -86.468853,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49444,
+    "latitude": 43.245821,
+    "longitude": -86.185694,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49445,
+    "latitude": 43.295208,
+    "longitude": -86.278985,
+    "city": "Muskegon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49446,
+    "latitude": 43.536651,
+    "longitude": -86.322856,
+    "city": "New Era",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49448,
+    "latitude": 43.080186,
+    "longitude": -86.068544,
+    "city": "Nunica",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49449,
+    "latitude": 43.728586,
+    "longitude": -86.291994,
+    "city": "Pentwater",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49450,
+    "latitude": 42.483692,
+    "longitude": -86.06653,
+    "city": "Pullman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49451,
+    "latitude": 43.20596,
+    "longitude": -85.968106,
+    "city": "Ravenna",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49452,
+    "latitude": 43.626346,
+    "longitude": -86.233687,
+    "city": "Rothbury",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49453,
+    "latitude": 42.645611,
+    "longitude": -86.165451,
+    "city": "Saugatuck",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Allegan"
+  },
+  {
+    "zip_code": 49454,
+    "latitude": 43.940385,
+    "longitude": -86.26351,
+    "city": "Scottville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49455,
+    "latitude": 43.638343,
+    "longitude": -86.349283,
+    "city": "Shelby",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49456,
+    "latitude": 43.076609,
+    "longitude": -86.19538,
+    "city": "Spring Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49457,
+    "latitude": 43.358015,
+    "longitude": -86.157722,
+    "city": "Twin Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49458,
+    "latitude": 43.949422,
+    "longitude": -86.10421,
+    "city": "Walhalla",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mason"
+  },
+  {
+    "zip_code": 49459,
+    "latitude": 43.721873,
+    "longitude": -86.141107,
+    "city": "Walkerville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Oceana"
+  },
+  {
+    "zip_code": 49460,
+    "latitude": 42.929518,
+    "longitude": -86.095232,
+    "city": "West Olive",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49461,
+    "latitude": 43.345831,
+    "longitude": -86.327092,
+    "city": "Whitehall",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49463,
+    "latitude": 43.295493,
+    "longitude": -86.468853,
+    "city": "Wabaningo",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Muskegon"
+  },
+  {
+    "zip_code": 49464,
+    "latitude": 42.869816,
+    "longitude": -85.969722,
+    "city": "Zeeland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 49468,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grandville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49501,
+    "latitude": 42.984226,
+    "longitude": -85.629101,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49502,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49503,
+    "latitude": 42.956176,
+    "longitude": -85.660693,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49504,
+    "latitude": 42.973687,
+    "longitude": -85.726496,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49505,
+    "latitude": 43.017776,
+    "longitude": -85.611596,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49506,
+    "latitude": 42.943577,
+    "longitude": -85.577113,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49507,
+    "latitude": 42.930777,
+    "longitude": -85.656978,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49508,
+    "latitude": 42.889378,
+    "longitude": -85.621876,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49509,
+    "latitude": 42.899917,
+    "longitude": -85.710077,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49510,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49512,
+    "latitude": 42.880192,
+    "longitude": -85.535214,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49514,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49515,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49516,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49518,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49523,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49525,
+    "latitude": 43.013527,
+    "longitude": -85.602729,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49530,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49544,
+    "latitude": 43.007274,
+    "longitude": -85.725535,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49546,
+    "latitude": 42.930146,
+    "longitude": -85.53904,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49548,
+    "latitude": 42.864793,
+    "longitude": -85.615175,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49550,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49555,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49560,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49588,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49599,
+    "latitude": 43.031413,
+    "longitude": -85.550267,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 49601,
+    "latitude": 44.335278,
+    "longitude": -85.549093,
+    "city": "Cadillac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49610,
+    "latitude": 44.789382,
+    "longitude": -85.488449,
+    "city": "Acme",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49611,
+    "latitude": 44.983262,
+    "longitude": -84.961776,
+    "city": "Alba",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49612,
+    "latitude": 44.900641,
+    "longitude": -85.232932,
+    "city": "Alden",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49613,
+    "latitude": 44.478837,
+    "longitude": -86.209391,
+    "city": "Arcadia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49614,
+    "latitude": 44.396671,
+    "longitude": -86.116727,
+    "city": "Bear Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49615,
+    "latitude": 44.997248,
+    "longitude": -85.198742,
+    "city": "Bellaire",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49616,
+    "latitude": 44.574478,
+    "longitude": -86.07937,
+    "city": "Benzonia",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49617,
+    "latitude": 44.630634,
+    "longitude": -86.002509,
+    "city": "Beulah",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49618,
+    "latitude": 44.289721,
+    "longitude": -85.675458,
+    "city": "Boon",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49619,
+    "latitude": 44.309195,
+    "longitude": -85.972541,
+    "city": "Brethren",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49620,
+    "latitude": 44.465123,
+    "longitude": -85.681485,
+    "city": "Buckley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49621,
+    "latitude": 44.860517,
+    "longitude": -85.813768,
+    "city": "Cedar",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49622,
+    "latitude": 45.075986,
+    "longitude": -85.25591,
+    "city": "Central Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49623,
+    "latitude": 43.95217,
+    "longitude": -85.672695,
+    "city": "Chase",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49625,
+    "latitude": 44.42757,
+    "longitude": -86.028192,
+    "city": "Copemish",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49626,
+    "latitude": 44.241337,
+    "longitude": -86.291309,
+    "city": "Eastlake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49627,
+    "latitude": 45.08806,
+    "longitude": -85.3219,
+    "city": "Eastport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49628,
+    "latitude": 44.599526,
+    "longitude": -86.21407,
+    "city": "Elberta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49629,
+    "latitude": 44.92902,
+    "longitude": -85.319467,
+    "city": "Elk Rapids",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49630,
+    "latitude": 44.837888,
+    "longitude": -85.976477,
+    "city": "Empire",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49631,
+    "latitude": 43.958084,
+    "longitude": -85.302063,
+    "city": "Evart",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49632,
+    "latitude": 44.242162,
+    "longitude": -85.043655,
+    "city": "Falmouth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Missaukee"
+  },
+  {
+    "zip_code": 49633,
+    "latitude": 44.584533,
+    "longitude": -85.393948,
+    "city": "Fife Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49634,
+    "latitude": 44.238191,
+    "longitude": -86.057975,
+    "city": "Filer City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49635,
+    "latitude": 44.613058,
+    "longitude": -86.177255,
+    "city": "Frankfort",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49636,
+    "latitude": 44.873421,
+    "longitude": -85.98867,
+    "city": "Glen Arbor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49637,
+    "latitude": 44.634126,
+    "longitude": -85.703494,
+    "city": "Grawn",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49638,
+    "latitude": 44.280319,
+    "longitude": -85.710694,
+    "city": "Harrietta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49639,
+    "latitude": 43.981883,
+    "longitude": -85.360457,
+    "city": "Hersey",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49640,
+    "latitude": 44.690037,
+    "longitude": -86.050384,
+    "city": "Honor",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49642,
+    "latitude": 43.887179,
+    "longitude": -85.775872,
+    "city": "Idlewild",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49643,
+    "latitude": 44.633562,
+    "longitude": -85.782278,
+    "city": "Interlochen",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49644,
+    "latitude": 44.091983,
+    "longitude": -85.90658,
+    "city": "Irons",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49645,
+    "latitude": 44.377928,
+    "longitude": -86.041189,
+    "city": "Kaleva",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49646,
+    "latitude": 44.697144,
+    "longitude": -85.092905,
+    "city": "Kalkaska",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalkaska"
+  },
+  {
+    "zip_code": 49648,
+    "latitude": 45.006971,
+    "longitude": -85.355394,
+    "city": "Kewadin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49649,
+    "latitude": 44.577555,
+    "longitude": -85.530156,
+    "city": "Kingsley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49650,
+    "latitude": 44.722002,
+    "longitude": -85.882364,
+    "city": "Lake Ann",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49651,
+    "latitude": 44.376692,
+    "longitude": -85.0946,
+    "city": "Lake City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Missaukee"
+  },
+  {
+    "zip_code": 49653,
+    "latitude": 44.980451,
+    "longitude": -85.736199,
+    "city": "Lake Leelanau",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49654,
+    "latitude": 44.989416,
+    "longitude": -85.770227,
+    "city": "Leland",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49655,
+    "latitude": 44.013375,
+    "longitude": -85.32548,
+    "city": "Leroy",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49656,
+    "latitude": 44.04206,
+    "longitude": -85.712873,
+    "city": "Luther",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 49657,
+    "latitude": 44.258292,
+    "longitude": -85.154382,
+    "city": "Mc Bain",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Missaukee"
+  },
+  {
+    "zip_code": 49659,
+    "latitude": 44.947938,
+    "longitude": -85.122624,
+    "city": "Mancelona",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49660,
+    "latitude": 44.263534,
+    "longitude": -86.182473,
+    "city": "Manistee",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49663,
+    "latitude": 44.412765,
+    "longitude": -85.468268,
+    "city": "Manton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49664,
+    "latitude": 44.869321,
+    "longitude": -85.902284,
+    "city": "Maple City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49665,
+    "latitude": 43.989936,
+    "longitude": -85.271121,
+    "city": "Marion",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49666,
+    "latitude": 44.625041,
+    "longitude": -85.542496,
+    "city": "Mayfield",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49667,
+    "latitude": 44.343261,
+    "longitude": -84.944639,
+    "city": "Merritt",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Missaukee"
+  },
+  {
+    "zip_code": 49668,
+    "latitude": 44.39912,
+    "longitude": -85.629669,
+    "city": "Mesick",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Wexford"
+  },
+  {
+    "zip_code": 49670,
+    "latitude": 45.12216,
+    "longitude": -85.61847,
+    "city": "Northport",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49673,
+    "latitude": 44.955872,
+    "longitude": -85.490005,
+    "city": "Old Mission",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49674,
+    "latitude": 45.066568,
+    "longitude": -85.597374,
+    "city": "Omena",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49675,
+    "latitude": 44.418184,
+    "longitude": -86.222187,
+    "city": "Onekama",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49676,
+    "latitude": 44.80389,
+    "longitude": -85.250629,
+    "city": "Rapid City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalkaska"
+  },
+  {
+    "zip_code": 49677,
+    "latitude": 43.952029,
+    "longitude": -85.414718,
+    "city": "Reed City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49679,
+    "latitude": 43.963767,
+    "longitude": -85.187258,
+    "city": "Sears",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49680,
+    "latitude": 44.634438,
+    "longitude": -85.252891,
+    "city": "South Boardman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Kalkaska"
+  },
+  {
+    "zip_code": 49682,
+    "latitude": 44.988569,
+    "longitude": -85.644068,
+    "city": "Suttons Bay",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Leelanau"
+  },
+  {
+    "zip_code": 49683,
+    "latitude": 44.58678,
+    "longitude": -85.931969,
+    "city": "Thompsonville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Benzie"
+  },
+  {
+    "zip_code": 49684,
+    "latitude": 44.693963,
+    "longitude": -85.676342,
+    "city": "Traverse City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49685,
+    "latitude": 44.816178,
+    "longitude": -85.575147,
+    "city": "Traverse City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49686,
+    "latitude": 44.784919,
+    "longitude": -85.490673,
+    "city": "Traverse City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49688,
+    "latitude": 44.112055,
+    "longitude": -85.405091,
+    "city": "Tustin",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Osceola"
+  },
+  {
+    "zip_code": 49689,
+    "latitude": 44.330169,
+    "longitude": -86.027194,
+    "city": "Wellston",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Manistee"
+  },
+  {
+    "zip_code": 49690,
+    "latitude": 44.767181,
+    "longitude": -85.427605,
+    "city": "Williamsburg",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49696,
+    "latitude": 44.816178,
+    "longitude": -85.575147,
+    "city": "Traverse City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Grand Traverse"
+  },
+  {
+    "zip_code": 49701,
+    "latitude": 45.753019,
+    "longitude": -84.691745,
+    "city": "Mackinaw City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49705,
+    "latitude": 45.366479,
+    "longitude": -84.429893,
+    "city": "Afton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49706,
+    "latitude": 45.539802,
+    "longitude": -84.805792,
+    "city": "Alanson",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49707,
+    "latitude": 45.033143,
+    "longitude": -83.495091,
+    "city": "Alpena",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Alpena"
+  },
+  {
+    "zip_code": 49709,
+    "latitude": 45.030626,
+    "longitude": -84.173067,
+    "city": "Atlanta",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Montmorency"
+  },
+  {
+    "zip_code": 49710,
+    "latitude": 46.278437,
+    "longitude": -84.196899,
+    "city": "Barbeau",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49711,
+    "latitude": 45.523425,
+    "longitude": -85.332038,
+    "city": "Bay Shore",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49712,
+    "latitude": 45.226478,
+    "longitude": -85.016896,
+    "city": "Boyne City",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49713,
+    "latitude": 45.203875,
+    "longitude": -84.848126,
+    "city": "Boyne Falls",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49715,
+    "latitude": 46.389131,
+    "longitude": -84.698136,
+    "city": "Brimley",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49716,
+    "latitude": 45.506991,
+    "longitude": -84.703893,
+    "city": "Brutus",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49717,
+    "latitude": 45.430705,
+    "longitude": -84.691207,
+    "city": "Burt Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49718,
+    "latitude": 45.59626,
+    "longitude": -84.851386,
+    "city": "Carp Lake",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49719,
+    "latitude": 46.007211,
+    "longitude": -84.276199,
+    "city": "Cedarville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Mackinac"
+  },
+  {
+    "zip_code": 49720,
+    "latitude": 45.26536,
+    "longitude": -85.229723,
+    "city": "Charlevoix",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49721,
+    "latitude": 45.592842,
+    "longitude": -84.468639,
+    "city": "Cheboygan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Cheboygan"
+  },
+  {
+    "zip_code": 49722,
+    "latitude": 45.423616,
+    "longitude": -84.852401,
+    "city": "Conway",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49723,
+    "latitude": 45.625353,
+    "longitude": -85.041872,
+    "city": "Cross Village",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49724,
+    "latitude": 46.311604,
+    "longitude": -84.617131,
+    "city": "Dafter",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49725,
+    "latitude": 45.997182,
+    "longitude": -83.923941,
+    "city": "De Tour Village",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49726,
+    "latitude": 46.011531,
+    "longitude": -83.692502,
+    "city": "Drummond Island",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49727,
+    "latitude": 45.203995,
+    "longitude": -85.102843,
+    "city": "East Jordan",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Charlevoix"
+  },
+  {
+    "zip_code": 49728,
+    "latitude": 46.536871,
+    "longitude": -84.862889,
+    "city": "Eckerman",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49729,
+    "latitude": 45.156457,
+    "longitude": -85.303853,
+    "city": "Ellsworth",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Antrim"
+  },
+  {
+    "zip_code": 49730,
+    "latitude": 45.02396,
+    "longitude": -84.755439,
+    "city": "Elmira",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49733,
+    "latitude": 44.786738,
+    "longitude": -84.697844,
+    "city": "Frederic",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 49734,
+    "latitude": 45.028411,
+    "longitude": -84.612207,
+    "city": "Gaylord",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49735,
+    "latitude": 45.000937,
+    "longitude": -84.624586,
+    "city": "Gaylord",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Otsego"
+  },
+  {
+    "zip_code": 49736,
+    "latitude": 46.078984,
+    "longitude": -84.144989,
+    "city": "Goetzville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 49737,
+    "latitude": 45.580183,
+    "longitude": -85.113678,
+    "city": "Good Hart",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  },
+  {
+    "zip_code": 49738,
+    "latitude": 44.691777,
+    "longitude": -84.612941,
+    "city": "Grayling",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 49739,
+    "latitude": 44.682996,
+    "longitude": -84.610441,
+    "city": "Grayling",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 49740,
+    "latitude": 45.55423,
+    "longitude": -84.925826,
+    "city": "Harbor Springs",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Emmet"
+  }
+]

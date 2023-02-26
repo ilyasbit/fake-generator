@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 52232,
+    "latitude": 41.810889,
+    "longitude": -92.342571,
+    "city": "Hartwick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Poweshiek"
+  },
+  {
+    "zip_code": 52233,
+    "latitude": 42.047863,
+    "longitude": -91.685645,
+    "city": "Hiawatha",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52235,
+    "latitude": 41.555704,
+    "longitude": -91.530842,
+    "city": "Hills",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52236,
+    "latitude": 41.730806,
+    "longitude": -91.881072,
+    "city": "Homestead",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52237,
+    "latitude": 42.366671,
+    "longitude": -91.276347,
+    "city": "Hopkinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52240,
+    "latitude": 41.648207,
+    "longitude": -91.541579,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52241,
+    "latitude": 41.699942,
+    "longitude": -91.6332,
+    "city": "Coralville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52242,
+    "latitude": 41.733924,
+    "longitude": -91.555328,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52243,
+    "latitude": 41.642657,
+    "longitude": -91.599974,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52244,
+    "latitude": 41.572682,
+    "longitude": -91.661901,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52245,
+    "latitude": 41.668592,
+    "longitude": -91.518388,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52246,
+    "latitude": 41.600628,
+    "longitude": -91.589264,
+    "city": "Iowa City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52247,
+    "latitude": 41.460979,
+    "longitude": -91.698928,
+    "city": "Kalona",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52248,
+    "latitude": 41.356073,
+    "longitude": -92.001798,
+    "city": "Keota",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52249,
+    "latitude": 42.007605,
+    "longitude": -92.071971,
+    "city": "Keystone",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52251,
+    "latitude": 41.710377,
+    "longitude": -92.189413,
+    "city": "Ladora",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52252,
+    "latitude": 42.191979,
+    "longitude": -91.225836,
+    "city": "Langworthy",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52253,
+    "latitude": 41.914581,
+    "longitude": -91.385445,
+    "city": "Lisbon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52254,
+    "latitude": 41.876909,
+    "longitude": -90.541188,
+    "city": "Lost Nation",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52255,
+    "latitude": 41.856539,
+    "longitude": -90.966516,
+    "city": "Lowden",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52257,
+    "latitude": 42.003812,
+    "longitude": -92.163137,
+    "city": "Luzerne",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52301,
+    "latitude": 41.768214,
+    "longitude": -92.094866,
+    "city": "Marengo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52302,
+    "latitude": 42.056938,
+    "longitude": -91.573963,
+    "city": "Marion",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52305,
+    "latitude": 42.018308,
+    "longitude": -91.321727,
+    "city": "Martelle",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52306,
+    "latitude": 41.866983,
+    "longitude": -91.269378,
+    "city": "Mechanicsville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52307,
+    "latitude": 41.79544,
+    "longitude": -91.901776,
+    "city": "Middle Amana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52308,
+    "latitude": 41.576444,
+    "longitude": -92.166645,
+    "city": "Millersburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52309,
+    "latitude": 42.13894,
+    "longitude": -90.864621,
+    "city": "Monmouth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 52310,
+    "latitude": 42.139945,
+    "longitude": -91.158852,
+    "city": "Monticello",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52312,
+    "latitude": 42.048397,
+    "longitude": -91.178455,
+    "city": "Morley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52313,
+    "latitude": 42.254106,
+    "longitude": -92.098959,
+    "city": "Mount Auburn",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52314,
+    "latitude": 41.939802,
+    "longitude": -91.450762,
+    "city": "Mount Vernon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52315,
+    "latitude": 42.006958,
+    "longitude": -91.970161,
+    "city": "Newhall",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52316,
+    "latitude": 41.555588,
+    "longitude": -92.067635,
+    "city": "North English",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52317,
+    "latitude": 41.763944,
+    "longitude": -91.604798,
+    "city": "North Liberty",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52318,
+    "latitude": 41.905263,
+    "longitude": -91.900096,
+    "city": "Norway",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52319,
+    "latitude": 41.642657,
+    "longitude": -91.599974,
+    "city": "Oakdale",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52320,
+    "latitude": 42.08132,
+    "longitude": -91.116054,
+    "city": "Olin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52321,
+    "latitude": 42.1065,
+    "longitude": -91.020988,
+    "city": "Onslow",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52322,
+    "latitude": 41.700994,
+    "longitude": -91.730339,
+    "city": "Oxford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52323,
+    "latitude": 42.030946,
+    "longitude": -91.005688,
+    "city": "Oxford Junction",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52324,
+    "latitude": 42.049832,
+    "longitude": -91.788933,
+    "city": "Palo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52325,
+    "latitude": 41.575705,
+    "longitude": -91.939701,
+    "city": "Parnell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52326,
+    "latitude": 42.469908,
+    "longitude": -91.710553,
+    "city": "Quasqueton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 52327,
+    "latitude": 41.39539,
+    "longitude": -91.580364,
+    "city": "Riverside",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52328,
+    "latitude": 42.073943,
+    "longitude": -91.665177,
+    "city": "Robins",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52329,
+    "latitude": 42.469721,
+    "longitude": -91.773824,
+    "city": "Rowley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 52330,
+    "latitude": 42.367794,
+    "longitude": -91.445994,
+    "city": "Ryan",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 52332,
+    "latitude": 42.101443,
+    "longitude": -91.914187,
+    "city": "Shellsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52333,
+    "latitude": 41.792851,
+    "longitude": -91.506086,
+    "city": "Solon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52334,
+    "latitude": 41.724365,
+    "longitude": -91.939343,
+    "city": "South Amana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52335,
+    "latitude": 41.452856,
+    "longitude": -92.067973,
+    "city": "South English",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52336,
+    "latitude": 42.063342,
+    "longitude": -91.471893,
+    "city": "Springville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52337,
+    "latitude": 41.89206,
+    "longitude": -91.152099,
+    "city": "Stanwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52338,
+    "latitude": 41.827112,
+    "longitude": -91.721642,
+    "city": "Swisher",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52339,
+    "latitude": 41.934093,
+    "longitude": -92.585494,
+    "city": "Tama",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52340,
+    "latitude": 41.701791,
+    "longitude": -91.677347,
+    "city": "Tiffin",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52341,
+    "latitude": 42.111669,
+    "longitude": -91.732863,
+    "city": "Toddville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52342,
+    "latitude": 42.068965,
+    "longitude": -92.551725,
+    "city": "Toledo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52344,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Troy Mills",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52345,
+    "latitude": 42.236512,
+    "longitude": -91.888136,
+    "city": "Urbana",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52346,
+    "latitude": 42.014398,
+    "longitude": -92.067227,
+    "city": "Van Horne",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52347,
+    "latitude": 41.706644,
+    "longitude": -92.25127,
+    "city": "Victor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52348,
+    "latitude": 41.980201,
+    "longitude": -92.375713,
+    "city": "Vining",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Tama"
+  },
+  {
+    "zip_code": 52349,
+    "latitude": 42.087347,
+    "longitude": -91.987332,
+    "city": "Vinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52350,
+    "latitude": 42.091217,
+    "longitude": -91.385047,
+    "city": "Viola",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52351,
+    "latitude": 41.877045,
+    "longitude": -91.836855,
+    "city": "Walford",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52352,
+    "latitude": 42.255159,
+    "longitude": -91.726637,
+    "city": "Walker",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52353,
+    "latitude": 41.31663,
+    "longitude": -91.751808,
+    "city": "Washington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52354,
+    "latitude": 41.92003,
+    "longitude": -91.978744,
+    "city": "Watkins",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 52355,
+    "latitude": 41.449144,
+    "longitude": -92.169002,
+    "city": "Webster",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52356,
+    "latitude": 41.448663,
+    "longitude": -91.840264,
+    "city": "Wellman",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52358,
+    "latitude": 41.728915,
+    "longitude": -91.25056,
+    "city": "West Branch",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52359,
+    "latitude": 41.393969,
+    "longitude": -91.740025,
+    "city": "West Chester",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52361,
+    "latitude": 41.649999,
+    "longitude": -92.065181,
+    "city": "Williamsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 52362,
+    "latitude": 42.065281,
+    "longitude": -91.078891,
+    "city": "Wyoming",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 52401,
+    "latitude": 41.976612,
+    "longitude": -91.657578,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52402,
+    "latitude": 42.020105,
+    "longitude": -91.681029,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52403,
+    "latitude": 41.972936,
+    "longitude": -91.58127,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52404,
+    "latitude": 41.919542,
+    "longitude": -91.704467,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52405,
+    "latitude": 41.987067,
+    "longitude": -91.753326,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52406,
+    "latitude": 42.287191,
+    "longitude": -91.777472,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52407,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52408,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52409,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52410,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52411,
+    "latitude": 42.049262,
+    "longitude": -91.726331,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52497,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52498,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52499,
+    "latitude": 42.079415,
+    "longitude": -91.599215,
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 52501,
+    "latitude": 41.030933,
+    "longitude": -92.409827,
+    "city": "Ottumwa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52530,
+    "latitude": 40.979036,
+    "longitude": -92.426183,
+    "city": "Agency",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52531,
+    "latitude": 41.00004,
+    "longitude": -92.835186,
+    "city": "Albia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 52533,
+    "latitude": 41.013559,
+    "longitude": -92.0835,
+    "city": "Batavia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52534,
+    "latitude": 41.29511,
+    "longitude": -92.598024,
+    "city": "Beacon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52535,
+    "latitude": 40.827181,
+    "longitude": -91.951174,
+    "city": "Birmingham",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52536,
+    "latitude": 40.981083,
+    "longitude": -92.570024,
+    "city": "Blakesburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52537,
+    "latitude": 40.746315,
+    "longitude": -92.406245,
+    "city": "Bloomfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 52538,
+    "latitude": 40.745286,
+    "longitude": -92.408679,
+    "city": "West Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 52540,
+    "latitude": 41.211747,
+    "longitude": -91.845034,
+    "city": "Brighton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52542,
+    "latitude": 40.643077,
+    "longitude": -92.069754,
+    "city": "Cantril",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52543,
+    "latitude": 41.219972,
+    "longitude": -92.506291,
+    "city": "Cedar",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52544,
+    "latitude": 40.686447,
+    "longitude": -92.881614,
+    "city": "Centerville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52548,
+    "latitude": 41.060681,
+    "longitude": -92.552769,
+    "city": "Chillicothe",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52549,
+    "latitude": 40.626921,
+    "longitude": -92.953118,
+    "city": "Cincinnati",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52550,
+    "latitude": 41.28437,
+    "longitude": -92.351218,
+    "city": "Delta",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52551,
+    "latitude": 40.837786,
+    "longitude": -92.085948,
+    "city": "Douds",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52552,
+    "latitude": 40.819643,
+    "longitude": -92.500244,
+    "city": "Drakesville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 52553,
+    "latitude": 41.112342,
+    "longitude": -92.570765,
+    "city": "Eddyville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52554,
+    "latitude": 41.030032,
+    "longitude": -92.408837,
+    "city": "Eldon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52555,
+    "latitude": 40.630992,
+    "longitude": -92.884722,
+    "city": "Exline",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52556,
+    "latitude": 41.030998,
+    "longitude": -91.957527,
+    "city": "Fairfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52557,
+    "latitude": 41.016566,
+    "longitude": -91.96821,
+    "city": "Fairfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52560,
+    "latitude": 40.84047,
+    "longitude": -92.284098,
+    "city": "Floris",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 52561,
+    "latitude": 41.227386,
+    "longitude": -92.467531,
+    "city": "Fremont",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52562,
+    "latitude": 41.336267,
+    "longitude": -92.178366,
+    "city": "Hayesville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52563,
+    "latitude": 41.211206,
+    "longitude": -92.297854,
+    "city": "Hedrick",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52565,
+    "latitude": 40.704158,
+    "longitude": -91.853076,
+    "city": "Keosauqua",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52566,
+    "latitude": 41.143796,
+    "longitude": -92.5006,
+    "city": "Kirkville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wapello"
+  },
+  {
+    "zip_code": 52567,
+    "latitude": 40.951469,
+    "longitude": -92.082459,
+    "city": "Libertyville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52568,
+    "latitude": 41.194806,
+    "longitude": -92.271472,
+    "city": "Martinsburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52569,
+    "latitude": 41.03227,
+    "longitude": -93.035367,
+    "city": "Melrose",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 52570,
+    "latitude": 40.671781,
+    "longitude": -92.162092,
+    "city": "Milton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52571,
+    "latitude": 40.866821,
+    "longitude": -92.736442,
+    "city": "Moravia",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52572,
+    "latitude": 40.740795,
+    "longitude": -92.806081,
+    "city": "Moulton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52573,
+    "latitude": 40.749913,
+    "longitude": -91.948106,
+    "city": "Mount Sterling",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52574,
+    "latitude": 40.780847,
+    "longitude": -92.979322,
+    "city": "Mystic",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52576,
+    "latitude": 41.218708,
+    "longitude": -92.120482,
+    "city": "Ollie",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52577,
+    "latitude": 41.283366,
+    "longitude": -92.662675,
+    "city": "Oskaloosa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52580,
+    "latitude": 41.119571,
+    "longitude": -92.092371,
+    "city": "Packwood",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52581,
+    "latitude": 40.818638,
+    "longitude": -92.975714,
+    "city": "Plano",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52583,
+    "latitude": 40.786539,
+    "longitude": -93.141255,
+    "city": "Promise City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 52584,
+    "latitude": 40.649038,
+    "longitude": -92.265179,
+    "city": "Pulaski",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Davis"
+  },
+  {
+    "zip_code": 52585,
+    "latitude": 41.20699,
+    "longitude": -92.126742,
+    "city": "Richland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52586,
+    "latitude": 41.390468,
+    "longitude": -92.560102,
+    "city": "Rose Hill",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52588,
+    "latitude": 40.749913,
+    "longitude": -91.948106,
+    "city": "Selma",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52590,
+    "latitude": 40.710521,
+    "longitude": -93.130436,
+    "city": "Seymour",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 52591,
+    "latitude": 41.310884,
+    "longitude": -92.159246,
+    "city": "Sigourney",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Keokuk"
+  },
+  {
+    "zip_code": 52593,
+    "latitude": 40.80475,
+    "longitude": -92.714834,
+    "city": "Udell",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52594,
+    "latitude": 40.812488,
+    "longitude": -92.701454,
+    "city": "Unionville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Appanoose"
+  },
+  {
+    "zip_code": 52595,
+    "latitude": 41.286383,
+    "longitude": -92.618357,
+    "city": "University Park",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Mahaska"
+  },
+  {
+    "zip_code": 52601,
+    "latitude": 40.898412,
+    "longitude": -91.164393,
+    "city": "Burlington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52619,
+    "latitude": 40.546499,
+    "longitude": -91.585217,
+    "city": "Argyle",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52620,
+    "latitude": 40.672405,
+    "longitude": -91.770841,
+    "city": "Bonaparte",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52621,
+    "latitude": 41.20951,
+    "longitude": -91.551283,
+    "city": "Crawfordsville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 52623,
+    "latitude": 40.866863,
+    "longitude": -91.307634,
+    "city": "Danville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52624,
+    "latitude": 40.743432,
+    "longitude": -91.323858,
+    "city": "Denmark",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52625,
+    "latitude": 40.631583,
+    "longitude": -91.56008,
+    "city": "Donnellson",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52626,
+    "latitude": 40.639028,
+    "longitude": -91.7394,
+    "city": "Farmington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52627,
+    "latitude": 40.596949,
+    "longitude": -91.434473,
+    "city": "Fort Madison",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52630,
+    "latitude": 40.845708,
+    "longitude": -91.670699,
+    "city": "Hillsboro",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52631,
+    "latitude": 40.769982,
+    "longitude": -91.613795,
+    "city": "Houghton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52632,
+    "latitude": 40.584716,
+    "longitude": -91.471682,
+    "city": "Keokuk",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52635,
+    "latitude": 40.988685,
+    "longitude": -91.785249,
+    "city": "Lockridge",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 52637,
+    "latitude": 41.012819,
+    "longitude": -91.127994,
+    "city": "Mediapolis",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52638,
+    "latitude": 40.848173,
+    "longitude": -91.269867,
+    "city": "Middletown",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52639,
+    "latitude": 40.542856,
+    "longitude": -91.468901,
+    "city": "Montrose",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52640,
+    "latitude": 41.135562,
+    "longitude": -91.291067,
+    "city": "Morning Sun",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52641,
+    "latitude": 40.994595,
+    "longitude": -91.573713,
+    "city": "Mount Pleasant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52642,
+    "latitude": 40.977395,
+    "longitude": -91.692312,
+    "city": "Rome",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52644,
+    "latitude": 41.010776,
+    "longitude": -91.43819,
+    "city": "Mount Union",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52645,
+    "latitude": 40.907221,
+    "longitude": -91.527126,
+    "city": "New London",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52646,
+    "latitude": 41.117324,
+    "longitude": -91.074161,
+    "city": "Oakville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52647,
+    "latitude": 41.146979,
+    "longitude": -91.544426,
+    "city": "Olds",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52648,
+    "latitude": 40.594704,
+    "longitude": -91.415648,
+    "city": "Pilot Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52649,
+    "latitude": 40.857375,
+    "longitude": -91.610895,
+    "city": "Salem",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52650,
+    "latitude": 40.920383,
+    "longitude": -91.208938,
+    "city": "Sperry",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52651,
+    "latitude": 40.868097,
+    "longitude": -91.889766,
+    "city": "Stockport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Van Buren"
+  },
+  {
+    "zip_code": 52652,
+    "latitude": 41.104302,
+    "longitude": -91.546988,
+    "city": "Swedesburg",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52653,
+    "latitude": 41.203527,
+    "longitude": -91.207463,
+    "city": "Wapello",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52654,
+    "latitude": 41.033746,
+    "longitude": -91.561327,
+    "city": "Wayland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52655,
+    "latitude": 40.850783,
+    "longitude": -91.229873,
+    "city": "West Burlington",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52656,
+    "latitude": 40.610778,
+    "longitude": -91.461569,
+    "city": "West Point",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52657,
+    "latitude": 40.758742,
+    "longitude": -91.478305,
+    "city": "Saint Paul",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52658,
+    "latitude": 40.7129,
+    "longitude": -91.23819,
+    "city": "Wever",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 52659,
+    "latitude": 41.082887,
+    "longitude": -91.543142,
+    "city": "Winfield",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 52660,
+    "latitude": 40.983507,
+    "longitude": -91.302644,
+    "city": "Yarmouth",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Des Moines"
+  },
+  {
+    "zip_code": 52701,
+    "latitude": 41.964393,
+    "longitude": -90.222348,
+    "city": "Andover",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52720,
+    "latitude": 41.475075,
+    "longitude": -91.16406,
+    "city": "Atalissa",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52721,
+    "latitude": 41.749923,
+    "longitude": -90.96289,
+    "city": "Bennett",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52722,
+    "latitude": 41.57048,
+    "longitude": -90.529138,
+    "city": "Bettendorf",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52726,
+    "latitude": 41.61105,
+    "longitude": -90.660178,
+    "city": "Blue Grass",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52727,
+    "latitude": 41.953426,
+    "longitude": -90.326961,
+    "city": "Bryant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52728,
+    "latitude": 41.469263,
+    "longitude": -90.736557,
+    "city": "Buffalo",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52729,
+    "latitude": 41.829003,
+    "longitude": -90.740567,
+    "city": "Calamus",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52730,
+    "latitude": 41.813438,
+    "longitude": -90.317574,
+    "city": "Camanche",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52731,
+    "latitude": 41.966744,
+    "longitude": -90.555111,
+    "city": "Charlotte",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52732,
+    "latitude": 41.899176,
+    "longitude": -90.301599,
+    "city": "Clinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52733,
+    "latitude": 41.880619,
+    "longitude": -90.519519,
+    "city": "Clinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52736,
+    "latitude": 41.880619,
+    "longitude": -90.519519,
+    "city": "Clinton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52737,
+    "latitude": 41.25926,
+    "longitude": -91.374686,
+    "city": "Columbus City",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52738,
+    "latitude": 41.292638,
+    "longitude": -91.300624,
+    "city": "Columbus Junction",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52739,
+    "latitude": 41.401379,
+    "longitude": -91.338658,
+    "city": "Conesville",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52742,
+    "latitude": 41.841735,
+    "longitude": -90.55621,
+    "city": "De Witt",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52745,
+    "latitude": 41.711283,
+    "longitude": -90.75534,
+    "city": "Dixon",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52746,
+    "latitude": 41.71654,
+    "longitude": -90.646985,
+    "city": "Donahue",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52747,
+    "latitude": 41.772184,
+    "longitude": -91.132045,
+    "city": "Durant",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52748,
+    "latitude": 41.59972,
+    "longitude": -90.564348,
+    "city": "Eldridge",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52749,
+    "latitude": 41.3486,
+    "longitude": -91.123729,
+    "city": "Fruitland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52750,
+    "latitude": 41.942428,
+    "longitude": -90.378578,
+    "city": "Goose Lake",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52751,
+    "latitude": 41.850144,
+    "longitude": -90.669527,
+    "city": "Grand Mound",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52752,
+    "latitude": 41.256712,
+    "longitude": -91.19669,
+    "city": "Grandview",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52753,
+    "latitude": 41.568131,
+    "longitude": -90.537234,
+    "city": "Le Claire",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52754,
+    "latitude": 41.304284,
+    "longitude": -91.249503,
+    "city": "Letts",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 52755,
+    "latitude": 41.510935,
+    "longitude": -91.440616,
+    "city": "Lone Tree",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 52756,
+    "latitude": 41.726242,
+    "longitude": -90.540219,
+    "city": "Long Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52757,
+    "latitude": 41.806528,
+    "longitude": -90.370566,
+    "city": "Low Moor",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52758,
+    "latitude": 41.743048,
+    "longitude": -90.453905,
+    "city": "Mc Causland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52759,
+    "latitude": 41.462494,
+    "longitude": -90.808767,
+    "city": "Montpelier",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52760,
+    "latitude": 41.552779,
+    "longitude": -91.058797,
+    "city": "Moscow",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52761,
+    "latitude": 41.462426,
+    "longitude": -91.053888,
+    "city": "Muscatine",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52765,
+    "latitude": 41.713165,
+    "longitude": -90.850502,
+    "city": "New Liberty",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52766,
+    "latitude": 41.492577,
+    "longitude": -91.196155,
+    "city": "Nichols",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52767,
+    "latitude": 41.574582,
+    "longitude": -90.42128,
+    "city": "Pleasant Valley",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52768,
+    "latitude": 41.69565,
+    "longitude": -90.394692,
+    "city": "Princeton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52769,
+    "latitude": 41.538729,
+    "longitude": -90.856921,
+    "city": "Stockton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52771,
+    "latitude": 41.999113,
+    "longitude": -90.218704,
+    "city": "Teeds Grove",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52772,
+    "latitude": 41.772503,
+    "longitude": -91.13248,
+    "city": "Tipton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 52773,
+    "latitude": 41.61358,
+    "longitude": -90.753478,
+    "city": "Walcott",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52774,
+    "latitude": 41.917411,
+    "longitude": -90.597017,
+    "city": "Welton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52776,
+    "latitude": 41.529715,
+    "longitude": -91.190607,
+    "city": "West Liberty",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52777,
+    "latitude": 41.873852,
+    "longitude": -90.682244,
+    "city": "Wheatland",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 52778,
+    "latitude": 41.559742,
+    "longitude": -90.959154,
+    "city": "Wilton",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Muscatine"
+  },
+  {
+    "zip_code": 52801,
+    "latitude": 41.527232,
+    "longitude": -90.573686,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52802,
+    "latitude": 41.497582,
+    "longitude": -90.623887,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52803,
+    "latitude": 41.538332,
+    "longitude": -90.556985,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52804,
+    "latitude": 41.556481,
+    "longitude": -90.598757,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52805,
+    "latitude": 41.613034,
+    "longitude": -90.606284,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52806,
+    "latitude": 41.545731,
+    "longitude": -90.633688,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52807,
+    "latitude": 41.571131,
+    "longitude": -90.555825,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52808,
+    "latitude": 41.613034,
+    "longitude": -90.606284,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 52809,
+    "latitude": 41.613034,
+    "longitude": -90.606284,
+    "city": "Davenport",
+    "state": "IA",
+    "full_state": "Iowa",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 53001,
+    "latitude": 43.658488,
+    "longitude": -87.973717,
+    "city": "Adell",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53002,
+    "latitude": 43.382128,
+    "longitude": -88.26219,
+    "city": "Allenton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53003,
+    "latitude": 43.217506,
+    "longitude": -88.525315,
+    "city": "Ashippun",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53004,
+    "latitude": 43.499631,
+    "longitude": -87.918042,
+    "city": "Belgium",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53005,
+    "latitude": 43.062707,
+    "longitude": -88.105906,
+    "city": "Brookfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53006,
+    "latitude": 43.602789,
+    "longitude": -88.52302,
+    "city": "Brownsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53007,
+    "latitude": 43.108459,
+    "longitude": -88.071489,
+    "city": "Butler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53008,
+    "latitude": 43.018696,
+    "longitude": -88.302997,
+    "city": "Brookfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53010,
+    "latitude": 43.682727,
+    "longitude": -88.350947,
+    "city": "Campbellsport",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53011,
+    "latitude": 43.725504,
+    "longitude": -88.048378,
+    "city": "Cascade",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53012,
+    "latitude": 43.321475,
+    "longitude": -88.004033,
+    "city": "Cedarburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53013,
+    "latitude": 43.590548,
+    "longitude": -87.85532,
+    "city": "Cedar Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53014,
+    "latitude": 44.020561,
+    "longitude": -88.185906,
+    "city": "Chilton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 53015,
+    "latitude": 43.935653,
+    "longitude": -87.80346,
+    "city": "Cleveland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 53016,
+    "latitude": 43.31546,
+    "longitude": -88.720642,
+    "city": "Clyman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53017,
+    "latitude": 43.209445,
+    "longitude": -88.241501,
+    "city": "Colgate",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53018,
+    "latitude": 43.015666,
+    "longitude": -88.386519,
+    "city": "Delafield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53019,
+    "latitude": 43.672543,
+    "longitude": -88.50384,
+    "city": "Eden",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53020,
+    "latitude": 43.827363,
+    "longitude": -87.9915,
+    "city": "Elkhart Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53021,
+    "latitude": 43.477015,
+    "longitude": -87.961162,
+    "city": "Fredonia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53022,
+    "latitude": 43.235477,
+    "longitude": -88.124711,
+    "city": "Germantown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53023,
+    "latitude": 43.772128,
+    "longitude": -88.041299,
+    "city": "Glenbeulah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53024,
+    "latitude": 43.299956,
+    "longitude": -87.94104,
+    "city": "Grafton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53026,
+    "latitude": 43.718294,
+    "longitude": -87.618716,
+    "city": "Greenbush",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53027,
+    "latitude": 43.357616,
+    "longitude": -88.319032,
+    "city": "Hartford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53029,
+    "latitude": 43.123679,
+    "longitude": -88.336087,
+    "city": "Hartland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53031,
+    "latitude": 43.639395,
+    "longitude": -87.915705,
+    "city": "Hingham",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53032,
+    "latitude": 43.422045,
+    "longitude": -88.624268,
+    "city": "Horicon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53033,
+    "latitude": 43.367185,
+    "longitude": -88.252892,
+    "city": "Hubertus",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53034,
+    "latitude": 43.330523,
+    "longitude": -88.603032,
+    "city": "Hustisford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53035,
+    "latitude": 43.36296,
+    "longitude": -88.581515,
+    "city": "Iron Ridge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53036,
+    "latitude": 43.147748,
+    "longitude": -88.588628,
+    "city": "Ixonia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53037,
+    "latitude": 43.32393,
+    "longitude": -88.152212,
+    "city": "Jackson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53038,
+    "latitude": 43.092348,
+    "longitude": -88.743276,
+    "city": "Johnson Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53039,
+    "latitude": 43.372221,
+    "longitude": -88.710157,
+    "city": "Juneau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53040,
+    "latitude": 43.499425,
+    "longitude": -88.206447,
+    "city": "Kewaskum",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53042,
+    "latitude": 43.96317,
+    "longitude": -87.955059,
+    "city": "Kiel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 53044,
+    "latitude": 43.748441,
+    "longitude": -87.776246,
+    "city": "Kohler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53045,
+    "latitude": 43.06081,
+    "longitude": -88.15589,
+    "city": "Brookfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53046,
+    "latitude": 43.153279,
+    "longitude": -88.164427,
+    "city": "Lannon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53047,
+    "latitude": 43.256793,
+    "longitude": -88.6281,
+    "city": "Lebanon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53048,
+    "latitude": 43.516912,
+    "longitude": -88.480811,
+    "city": "Lomira",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53049,
+    "latitude": 43.875302,
+    "longitude": -88.287108,
+    "city": "Malone",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53050,
+    "latitude": 43.483463,
+    "longitude": -88.545925,
+    "city": "Mayville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53051,
+    "latitude": 43.124189,
+    "longitude": -88.227543,
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53052,
+    "latitude": 43.018696,
+    "longitude": -88.302997,
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53056,
+    "latitude": 43.146023,
+    "longitude": -88.30975,
+    "city": "Merton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53057,
+    "latitude": 43.711957,
+    "longitude": -88.443585,
+    "city": "Mount Calvary",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53058,
+    "latitude": 43.109127,
+    "longitude": -88.40248,
+    "city": "Nashotah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53059,
+    "latitude": 43.289809,
+    "longitude": -88.533958,
+    "city": "Neosho",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53060,
+    "latitude": 43.433807,
+    "longitude": -88.062338,
+    "city": "Newburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53061,
+    "latitude": 43.949886,
+    "longitude": -88.101954,
+    "city": "New Holstein",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 53062,
+    "latitude": 44.067942,
+    "longitude": -88.223131,
+    "city": "New Holstein",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 53063,
+    "latitude": 43.957599,
+    "longitude": -87.792815,
+    "city": "Newton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 53064,
+    "latitude": 43.018696,
+    "longitude": -88.302997,
+    "city": "North Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53065,
+    "latitude": 43.690246,
+    "longitude": -88.678209,
+    "city": "Oakfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53066,
+    "latitude": 43.087062,
+    "longitude": -88.463305,
+    "city": "Oconomowoc",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53069,
+    "latitude": 43.117886,
+    "longitude": -88.439353,
+    "city": "Okauchee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53070,
+    "latitude": 43.620857,
+    "longitude": -87.810616,
+    "city": "Oostburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53072,
+    "latitude": 43.080185,
+    "longitude": -88.264875,
+    "city": "Pewaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53073,
+    "latitude": 43.768454,
+    "longitude": -87.975773,
+    "city": "Plymouth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53074,
+    "latitude": 43.387702,
+    "longitude": -87.881232,
+    "city": "Port Washington",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53075,
+    "latitude": 43.582924,
+    "longitude": -88.000555,
+    "city": "Random Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53076,
+    "latitude": 43.2727,
+    "longitude": -88.206716,
+    "city": "Richfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53078,
+    "latitude": 43.304408,
+    "longitude": -88.504428,
+    "city": "Rubicon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53079,
+    "latitude": 43.797531,
+    "longitude": -88.201679,
+    "city": "Saint Cloud",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53080,
+    "latitude": 43.432544,
+    "longitude": -87.947537,
+    "city": "Saukville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53081,
+    "latitude": 43.722489,
+    "longitude": -87.856793,
+    "city": "Sheboygan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53082,
+    "latitude": 43.718294,
+    "longitude": -87.618716,
+    "city": "Sheboygan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53083,
+    "latitude": 43.775428,
+    "longitude": -87.860803,
+    "city": "Sheboygan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53085,
+    "latitude": 43.726404,
+    "longitude": -87.853069,
+    "city": "Sheboygan Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53086,
+    "latitude": 43.327417,
+    "longitude": -88.260878,
+    "city": "Slinger",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53088,
+    "latitude": 44.080455,
+    "longitude": -88.312404,
+    "city": "Stockbridge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 53089,
+    "latitude": 43.148887,
+    "longitude": -88.245381,
+    "city": "Sussex",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53090,
+    "latitude": 43.443839,
+    "longitude": -88.19631,
+    "city": "West Bend",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53091,
+    "latitude": 43.483635,
+    "longitude": -88.450107,
+    "city": "Theresa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53092,
+    "latitude": 43.235856,
+    "longitude": -87.981188,
+    "city": "Thiensville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53093,
+    "latitude": 43.662704,
+    "longitude": -87.930254,
+    "city": "Waldo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sheboygan"
+  },
+  {
+    "zip_code": 53094,
+    "latitude": 43.132599,
+    "longitude": -88.743595,
+    "city": "Watertown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53095,
+    "latitude": 43.422223,
+    "longitude": -88.195862,
+    "city": "West Bend",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 53097,
+    "latitude": 43.247112,
+    "longitude": -87.980914,
+    "city": "Mequon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ozaukee"
+  },
+  {
+    "zip_code": 53098,
+    "latitude": 43.276444,
+    "longitude": -88.715408,
+    "city": "Watertown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53099,
+    "latitude": 43.414202,
+    "longitude": -88.704914,
+    "city": "Woodland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53101,
+    "latitude": 42.58098,
+    "longitude": -87.662878,
+    "city": "Bassett",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53102,
+    "latitude": 42.500141,
+    "longitude": -88.079983,
+    "city": "Benet Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53103,
+    "latitude": 42.882441,
+    "longitude": -88.205514,
+    "city": "Big Bend",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53104,
+    "latitude": 42.553518,
+    "longitude": -88.028986,
+    "city": "Bristol",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53105,
+    "latitude": 42.692103,
+    "longitude": -88.228793,
+    "city": "Burlington",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53108,
+    "latitude": 42.803697,
+    "longitude": -87.930936,
+    "city": "Caledonia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53109,
+    "latitude": 42.535968,
+    "longitude": -88.144386,
+    "city": "Camp Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53110,
+    "latitude": 42.948015,
+    "longitude": -87.866831,
+    "city": "Cudahy",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53114,
+    "latitude": 42.658281,
+    "longitude": -88.660964,
+    "city": "Darien",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53115,
+    "latitude": 42.641556,
+    "longitude": -88.653496,
+    "city": "Delavan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53118,
+    "latitude": 42.951536,
+    "longitude": -88.444097,
+    "city": "Dousman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53119,
+    "latitude": 42.929074,
+    "longitude": -88.47489,
+    "city": "Eagle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53120,
+    "latitude": 42.756533,
+    "longitude": -88.507327,
+    "city": "East Troy",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53121,
+    "latitude": 42.671666,
+    "longitude": -88.563961,
+    "city": "Elkhorn",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53122,
+    "latitude": 43.048211,
+    "longitude": -88.087888,
+    "city": "Elm Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53125,
+    "latitude": 42.545625,
+    "longitude": -88.463036,
+    "city": "Fontana",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53126,
+    "latitude": 42.785553,
+    "longitude": -87.995471,
+    "city": "Franksville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53127,
+    "latitude": 42.960098,
+    "longitude": -88.374455,
+    "city": "Genesee Depot",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53128,
+    "latitude": 42.549412,
+    "longitude": -88.438624,
+    "city": "Genoa City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53129,
+    "latitude": 42.937765,
+    "longitude": -87.998935,
+    "city": "Greendale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53130,
+    "latitude": 42.943614,
+    "longitude": -88.046454,
+    "city": "Hales Corners",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53132,
+    "latitude": 42.887289,
+    "longitude": -88.009597,
+    "city": "Franklin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53137,
+    "latitude": 43.008958,
+    "longitude": -88.6726,
+    "city": "Helenville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53138,
+    "latitude": 42.66749,
+    "longitude": -88.541721,
+    "city": "Honey Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53139,
+    "latitude": 42.720022,
+    "longitude": -88.120616,
+    "city": "Kansasville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53140,
+    "latitude": 42.622449,
+    "longitude": -87.830375,
+    "city": "Kenosha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53141,
+    "latitude": 42.58098,
+    "longitude": -87.662878,
+    "city": "Kenosha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53142,
+    "latitude": 42.558221,
+    "longitude": -87.925876,
+    "city": "Kenosha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53143,
+    "latitude": 42.53607,
+    "longitude": -87.824828,
+    "city": "Kenosha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53144,
+    "latitude": 42.618427,
+    "longitude": -87.948079,
+    "city": "Kenosha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53146,
+    "latitude": 42.969924,
+    "longitude": -88.177554,
+    "city": "New Berlin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53147,
+    "latitude": 42.617877,
+    "longitude": -88.52023,
+    "city": "Lake Geneva",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53148,
+    "latitude": 42.648665,
+    "longitude": -88.359044,
+    "city": "Lyons",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53149,
+    "latitude": 42.97594,
+    "longitude": -88.329731,
+    "city": "Mukwonago",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53150,
+    "latitude": 42.88799,
+    "longitude": -88.132708,
+    "city": "Muskego",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53151,
+    "latitude": 42.973459,
+    "longitude": -88.127689,
+    "city": "New Berlin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53152,
+    "latitude": 42.574616,
+    "longitude": -88.232632,
+    "city": "New Munster",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53153,
+    "latitude": 42.940971,
+    "longitude": -88.401712,
+    "city": "North Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53154,
+    "latitude": 42.886266,
+    "longitude": -87.89198,
+    "city": "Oak Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53156,
+    "latitude": 42.893937,
+    "longitude": -88.59712,
+    "city": "Palmyra",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53157,
+    "latitude": 42.540048,
+    "longitude": -88.358167,
+    "city": "Pell Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53158,
+    "latitude": 42.52926,
+    "longitude": -87.885546,
+    "city": "Pleasant Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53159,
+    "latitude": 42.555695,
+    "longitude": -88.296914,
+    "city": "Powers Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53167,
+    "latitude": 42.748168,
+    "longitude": -88.243586,
+    "city": "Rochester",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53168,
+    "latitude": 42.574598,
+    "longitude": -88.137535,
+    "city": "Salem",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53170,
+    "latitude": 42.552018,
+    "longitude": -88.160836,
+    "city": "Silver Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53171,
+    "latitude": 42.642298,
+    "longitude": -87.903161,
+    "city": "Somers",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53172,
+    "latitude": 42.911616,
+    "longitude": -87.950533,
+    "city": "South Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53176,
+    "latitude": 42.636038,
+    "longitude": -88.415987,
+    "city": "Springfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53177,
+    "latitude": 42.712962,
+    "longitude": -87.934013,
+    "city": "Sturtevant",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53178,
+    "latitude": 43.018327,
+    "longitude": -88.600429,
+    "city": "Sullivan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53179,
+    "latitude": 42.517168,
+    "longitude": -88.138001,
+    "city": "Trevor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53181,
+    "latitude": 42.523887,
+    "longitude": -88.235389,
+    "city": "Twin Lakes",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53182,
+    "latitude": 42.739435,
+    "longitude": -88.083092,
+    "city": "Union Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53183,
+    "latitude": 43.003573,
+    "longitude": -88.376916,
+    "city": "Wales",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53184,
+    "latitude": 42.561543,
+    "longitude": -88.597153,
+    "city": "Walworth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53185,
+    "latitude": 42.763168,
+    "longitude": -88.197361,
+    "city": "Waterford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53186,
+    "latitude": 42.987835,
+    "longitude": -88.217715,
+    "city": "Waukesha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53187,
+    "latitude": 43.018696,
+    "longitude": -88.302997,
+    "city": "Waukesha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53188,
+    "latitude": 42.994564,
+    "longitude": -88.241786,
+    "city": "Waukesha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53189,
+    "latitude": 42.95163,
+    "longitude": -88.296321,
+    "city": "Waukesha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waukesha"
+  },
+  {
+    "zip_code": 53190,
+    "latitude": 42.784255,
+    "longitude": -88.592559,
+    "city": "Whitewater",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53191,
+    "latitude": 42.691288,
+    "longitude": -88.635035,
+    "city": "Williams Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53192,
+    "latitude": 42.507165,
+    "longitude": -88.191337,
+    "city": "Wilmot",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53194,
+    "latitude": 42.58098,
+    "longitude": -87.662878,
+    "city": "Woodworth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kenosha"
+  },
+  {
+    "zip_code": 53195,
+    "latitude": 42.513649,
+    "longitude": -88.484322,
+    "city": "Zenda",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53201,
+    "latitude": 43.011264,
+    "longitude": -87.958409,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53202,
+    "latitude": 43.043213,
+    "longitude": -87.894734,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53203,
+    "latitude": 43.038313,
+    "longitude": -87.916534,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53204,
+    "latitude": 43.019463,
+    "longitude": -87.925534,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53205,
+    "latitude": 43.053112,
+    "longitude": -87.933185,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53206,
+    "latitude": 43.074311,
+    "longitude": -87.933135,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53207,
+    "latitude": 42.975115,
+    "longitude": -87.894682,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53208,
+    "latitude": 43.045962,
+    "longitude": -87.963536,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53209,
+    "latitude": 43.140909,
+    "longitude": -87.942653,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53210,
+    "latitude": 43.071111,
+    "longitude": -87.973786,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53211,
+    "latitude": 43.082018,
+    "longitude": -87.889534,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53212,
+    "latitude": 43.074862,
+    "longitude": -87.907178,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53213,
+    "latitude": 43.075461,
+    "longitude": -87.999511,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53214,
+    "latitude": 43.021514,
+    "longitude": -88.017587,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53215,
+    "latitude": 43.006014,
+    "longitude": -87.942935,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53216,
+    "latitude": 43.086244,
+    "longitude": -87.976988,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53217,
+    "latitude": 43.13446,
+    "longitude": -87.933386,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53218,
+    "latitude": 43.11546,
+    "longitude": -87.991687,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53219,
+    "latitude": 42.995814,
+    "longitude": -87.990335,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53220,
+    "latitude": 42.955864,
+    "longitude": -87.993285,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53221,
+    "latitude": 42.950565,
+    "longitude": -87.987933,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53222,
+    "latitude": 43.082161,
+    "longitude": -88.036938,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53223,
+    "latitude": 43.162959,
+    "longitude": -87.977896,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53224,
+    "latitude": 43.163122,
+    "longitude": -88.022586,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53225,
+    "latitude": 43.115159,
+    "longitude": -88.040188,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53226,
+    "latitude": 43.049312,
+    "longitude": -88.041387,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53227,
+    "latitude": 43.000926,
+    "longitude": -88.031418,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53228,
+    "latitude": 42.967564,
+    "longitude": -88.043386,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53233,
+    "latitude": 43.037213,
+    "longitude": -87.933529,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53234,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53235,
+    "latitude": 42.969865,
+    "longitude": -87.873732,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53237,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53259,
+    "latitude": 43.038663,
+    "longitude": -87.913934,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53263,
+    "latitude": 43.074583,
+    "longitude": -88.06044,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53267,
+    "latitude": 43.044013,
+    "longitude": -87.909834,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53268,
+    "latitude": 43.038513,
+    "longitude": -87.909584,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53270,
+    "latitude": 43.038763,
+    "longitude": -87.903634,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53274,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53277,
+    "latitude": 43.038863,
+    "longitude": -87.902384,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53278,
+    "latitude": 43.038863,
+    "longitude": -87.902384,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53280,
+    "latitude": 43.040963,
+    "longitude": -87.957786,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53281,
+    "latitude": 43.040963,
+    "longitude": -87.957786,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53284,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53285,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53288,
+    "latitude": 43.040613,
+    "longitude": -87.909784,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53290,
+    "latitude": 43.037263,
+    "longitude": -87.914034,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53293,
+    "latitude": 43.040813,
+    "longitude": -87.919135,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53295,
+    "latitude": 43.017412,
+    "longitude": -87.569664,
+    "city": "Milwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Milwaukee"
+  },
+  {
+    "zip_code": 53401,
+    "latitude": 42.727153,
+    "longitude": -87.675979,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53402,
+    "latitude": 42.755628,
+    "longitude": -87.821815,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53403,
+    "latitude": 42.700619,
+    "longitude": -87.835901,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53404,
+    "latitude": 42.756718,
+    "longitude": -87.812275,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53405,
+    "latitude": 42.731827,
+    "longitude": -87.820925,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53406,
+    "latitude": 42.72993,
+    "longitude": -87.866213,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53407,
+    "latitude": 42.731224,
+    "longitude": -87.782818,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53408,
+    "latitude": 42.727153,
+    "longitude": -87.675979,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53490,
+    "latitude": 42.727153,
+    "longitude": -87.675979,
+    "city": "Racine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Racine"
+  },
+  {
+    "zip_code": 53501,
+    "latitude": 42.605454,
+    "longitude": -89.070448,
+    "city": "Afton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53502,
+    "latitude": 42.712827,
+    "longitude": -89.45123,
+    "city": "Albany",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53503,
+    "latitude": 43.119643,
+    "longitude": -89.947679,
+    "city": "Arena",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53504,
+    "latitude": 42.690143,
+    "longitude": -89.922697,
+    "city": "Argyle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53505,
+    "latitude": 42.659301,
+    "longitude": -88.83065,
+    "city": "Avalon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53506,
+    "latitude": 43.138475,
+    "longitude": -90.280725,
+    "city": "Avoca",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53507,
+    "latitude": 43.008396,
+    "longitude": -89.897387,
+    "city": "Barneveld",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53508,
+    "latitude": 42.903829,
+    "longitude": -89.586339,
+    "city": "Belleville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53510,
+    "latitude": 42.685375,
+    "longitude": -90.263828,
+    "city": "Belmont",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53511,
+    "latitude": 42.562039,
+    "longitude": -89.086045,
+    "city": "Beloit",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53512,
+    "latitude": 42.669779,
+    "longitude": -89.072779,
+    "city": "Beloit",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53515,
+    "latitude": 43.113953,
+    "longitude": -89.624544,
+    "city": "Black Earth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53516,
+    "latitude": 42.693258,
+    "longitude": -90.104765,
+    "city": "Blanchardville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53517,
+    "latitude": 43.03822,
+    "longitude": -89.804576,
+    "city": "Blue Mounds",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53518,
+    "latitude": 42.97045,
+    "longitude": -90.571655,
+    "city": "Blue River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53520,
+    "latitude": 42.605797,
+    "longitude": -89.580126,
+    "city": "Brodhead",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53521,
+    "latitude": 42.717122,
+    "longitude": -89.582703,
+    "city": "Brooklyn",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53522,
+    "latitude": 42.563199,
+    "longitude": -89.778793,
+    "city": "Browntown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53523,
+    "latitude": 42.987505,
+    "longitude": -89.080742,
+    "city": "Cambridge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53525,
+    "latitude": 42.56239,
+    "longitude": -88.859993,
+    "city": "Clinton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53526,
+    "latitude": 42.963325,
+    "longitude": -90.369319,
+    "city": "Cobb",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53527,
+    "latitude": 43.071165,
+    "longitude": -89.196996,
+    "city": "Cottage Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53528,
+    "latitude": 43.106453,
+    "longitude": -89.695091,
+    "city": "Cross Plains",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53529,
+    "latitude": 43.239966,
+    "longitude": -89.523346,
+    "city": "Dane",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53530,
+    "latitude": 42.69112,
+    "longitude": -90.134781,
+    "city": "Darlington",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53531,
+    "latitude": 43.057662,
+    "longitude": -89.091798,
+    "city": "Deerfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53532,
+    "latitude": 43.149066,
+    "longitude": -89.260855,
+    "city": "De Forest",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53533,
+    "latitude": 43.007063,
+    "longitude": -90.192522,
+    "city": "Dodgeville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53534,
+    "latitude": 42.803797,
+    "longitude": -89.101389,
+    "city": "Edgerton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53535,
+    "latitude": 43.011323,
+    "longitude": -90.133932,
+    "city": "Edmund",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53536,
+    "latitude": 42.766359,
+    "longitude": -89.250152,
+    "city": "Evansville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53537,
+    "latitude": 42.672575,
+    "longitude": -89.211151,
+    "city": "Footville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53538,
+    "latitude": 42.926467,
+    "longitude": -88.841626,
+    "city": "Fort Atkinson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53540,
+    "latitude": 43.234509,
+    "longitude": -90.261804,
+    "city": "Gotham",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 53541,
+    "latitude": 42.579894,
+    "longitude": -90.031186,
+    "city": "Gratiot",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53542,
+    "latitude": 42.632325,
+    "longitude": -89.15942,
+    "city": "Hanover",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53543,
+    "latitude": 42.991078,
+    "longitude": -90.133812,
+    "city": "Highland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53544,
+    "latitude": 42.871497,
+    "longitude": -89.923881,
+    "city": "Hollandale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53545,
+    "latitude": 42.710981,
+    "longitude": -89.112201,
+    "city": "Janesville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53546,
+    "latitude": 42.663574,
+    "longitude": -88.947859,
+    "city": "Janesville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53547,
+    "latitude": 42.729359,
+    "longitude": -89.030111,
+    "city": "Janesville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53549,
+    "latitude": 42.993502,
+    "longitude": -88.759793,
+    "city": "Jefferson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53550,
+    "latitude": 42.564434,
+    "longitude": -89.507906,
+    "city": "Juda",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53551,
+    "latitude": 43.080902,
+    "longitude": -88.913251,
+    "city": "Lake Mills",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53553,
+    "latitude": 42.963106,
+    "longitude": -90.320561,
+    "city": "Linden",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53554,
+    "latitude": 42.898716,
+    "longitude": -90.511593,
+    "city": "Livingston",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53555,
+    "latitude": 43.342813,
+    "longitude": -89.557023,
+    "city": "Lodi",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53556,
+    "latitude": 43.241475,
+    "longitude": -90.265197,
+    "city": "Lone Rock",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 53557,
+    "latitude": 43.343056,
+    "longitude": -88.791442,
+    "city": "Lowell",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53558,
+    "latitude": 43.010519,
+    "longitude": -89.363862,
+    "city": "Mc Farland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53559,
+    "latitude": 43.173921,
+    "longitude": -89.091315,
+    "city": "Marshall",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53560,
+    "latitude": 43.190983,
+    "longitude": -89.729261,
+    "city": "Mazomanie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53561,
+    "latitude": 43.364531,
+    "longitude": -89.66396,
+    "city": "Merrimac",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53562,
+    "latitude": 43.114772,
+    "longitude": -89.529153,
+    "city": "Middleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53563,
+    "latitude": 42.737804,
+    "longitude": -89.041277,
+    "city": "Milton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53565,
+    "latitude": 42.989701,
+    "longitude": -90.152558,
+    "city": "Mineral Point",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53566,
+    "latitude": 42.612966,
+    "longitude": -89.656994,
+    "city": "Monroe",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53569,
+    "latitude": 43.031263,
+    "longitude": -90.492475,
+    "city": "Montfort",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53570,
+    "latitude": 42.74305,
+    "longitude": -89.621013,
+    "city": "Monticello",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53571,
+    "latitude": 43.277325,
+    "longitude": -89.356403,
+    "city": "Morrisonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53572,
+    "latitude": 42.973438,
+    "longitude": -89.513903,
+    "city": "Mount Horeb",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53573,
+    "latitude": 43.1234,
+    "longitude": -90.488423,
+    "city": "Muscoda",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53574,
+    "latitude": 42.816273,
+    "longitude": -89.651287,
+    "city": "New Glarus",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green"
+  },
+  {
+    "zip_code": 53575,
+    "latitude": 42.933918,
+    "longitude": -89.389642,
+    "city": "Oregon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53576,
+    "latitude": 42.614273,
+    "longitude": -89.233129,
+    "city": "Orfordville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 53577,
+    "latitude": 43.293776,
+    "longitude": -90.022327,
+    "city": "Plain",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53578,
+    "latitude": 43.360759,
+    "longitude": -89.808407,
+    "city": "Prairie Du Sac",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53579,
+    "latitude": 43.287987,
+    "longitude": -88.887444,
+    "city": "Reeseville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53580,
+    "latitude": 42.856934,
+    "longitude": -90.377784,
+    "city": "Rewey",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53581,
+    "latitude": 43.366148,
+    "longitude": -90.430225,
+    "city": "Richland Center",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 53582,
+    "latitude": 43.016577,
+    "longitude": -89.986458,
+    "city": "Ridgeway",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53583,
+    "latitude": 43.251127,
+    "longitude": -89.89584,
+    "city": "Sauk City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53584,
+    "latitude": 43.279435,
+    "longitude": -90.287566,
+    "city": "Sextonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 53585,
+    "latitude": 42.607688,
+    "longitude": -88.623745,
+    "city": "Sharon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Walworth"
+  },
+  {
+    "zip_code": 53586,
+    "latitude": 42.605221,
+    "longitude": -90.113635,
+    "city": "Shullsburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53587,
+    "latitude": 42.579926,
+    "longitude": -89.931751,
+    "city": "South Wayne",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53588,
+    "latitude": 43.230001,
+    "longitude": -90.040066,
+    "city": "Spring Green",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53589,
+    "latitude": 42.931289,
+    "longitude": -89.168354,
+    "city": "Stoughton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53590,
+    "latitude": 43.195712,
+    "longitude": -89.209418,
+    "city": "Sun Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53591,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Sun Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53593,
+    "latitude": 42.995697,
+    "longitude": -89.566512,
+    "city": "Verona",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53594,
+    "latitude": 43.12904,
+    "longitude": -88.947513,
+    "city": "Waterloo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 53595,
+    "latitude": 42.976078,
+    "longitude": -90.141299,
+    "city": "Dodgeville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iowa"
+  },
+  {
+    "zip_code": 53596,
+    "latitude": 43.192403,
+    "longitude": -89.26288,
+    "city": "Sun Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53597,
+    "latitude": 43.183972,
+    "longitude": -89.322655,
+    "city": "Waunakee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53598,
+    "latitude": 43.207783,
+    "longitude": -89.34178,
+    "city": "Windsor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53599,
+    "latitude": 42.649309,
+    "longitude": -89.862202,
+    "city": "Woodford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53701,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53702,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53703,
+    "latitude": 43.053085,
+    "longitude": -89.352764,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53704,
+    "latitude": 43.104429,
+    "longitude": -89.322135,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53705,
+    "latitude": 43.073147,
+    "longitude": -89.45681,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53706,
+    "latitude": 43.077755,
+    "longitude": -89.413326,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53707,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53708,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53709,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53710,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53711,
+    "latitude": 43.021252,
+    "longitude": -89.417973,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53713,
+    "latitude": 43.037167,
+    "longitude": -89.397066,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53714,
+    "latitude": 43.118663,
+    "longitude": -89.312644,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53715,
+    "latitude": 43.061839,
+    "longitude": -89.394619,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53716,
+    "latitude": 43.063103,
+    "longitude": -89.313327,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53717,
+    "latitude": 43.015966,
+    "longitude": -89.656734,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53718,
+    "latitude": 43.11416,
+    "longitude": -89.249067,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53719,
+    "latitude": 43.03125,
+    "longitude": -89.494568,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53725,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53726,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53744,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53777,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53778,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53779,
+    "latitude": 43.098202,
+    "longitude": -89.324196,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53780,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53782,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53783,
+    "latitude": 43.15955,
+    "longitude": -89.285235,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53784,
+    "latitude": 43.048908,
+    "longitude": -89.338447,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53785,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53786,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53787,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53788,
+    "latitude": 43.076691,
+    "longitude": -89.37632,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53789,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53790,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53791,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53792,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53793,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53794,
+    "latitude": 43.06956,
+    "longitude": -89.423861,
+    "city": "Madison",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dane"
+  },
+  {
+    "zip_code": 53801,
+    "latitude": 42.796401,
+    "longitude": -90.823145,
+    "city": "Bagley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53802,
+    "latitude": 42.873625,
+    "longitude": -90.936354,
+    "city": "Beetown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53803,
+    "latitude": 42.554499,
+    "longitude": -90.350817,
+    "city": "Benton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 53804,
+    "latitude": 42.838191,
+    "longitude": -90.907665,
+    "city": "Bloomington",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53805,
+    "latitude": 42.896051,
+    "longitude": -90.779071,
+    "city": "Boscobel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53806,
+    "latitude": 42.782451,
+    "longitude": -90.945303,
+    "city": "Cassville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53807,
+    "latitude": 42.751647,
+    "longitude": -90.699166,
+    "city": "Cuba City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53808,
+    "latitude": 42.635081,
+    "longitude": -90.583298,
+    "city": "Dickeyville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53809,
+    "latitude": 42.806387,
+    "longitude": -90.677324,
+    "city": "Fennimore",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53810,
+    "latitude": 42.822065,
+    "longitude": -90.982153,
+    "city": "Glen Haven",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53811,
+    "latitude": 42.543893,
+    "longitude": -90.536322,
+    "city": "Hazel Green",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53812,
+    "latitude": 42.859325,
+    "longitude": -90.791337,
+    "city": "Kieler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53813,
+    "latitude": 42.864155,
+    "longitude": -90.684965,
+    "city": "Lancaster",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53816,
+    "latitude": 42.975521,
+    "longitude": -90.84962,
+    "city": "Mount Hope",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53817,
+    "latitude": 42.942183,
+    "longitude": -90.964596,
+    "city": "Patch Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53818,
+    "latitude": 42.795971,
+    "longitude": -90.644975,
+    "city": "Platteville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53820,
+    "latitude": 42.692445,
+    "longitude": -90.731654,
+    "city": "Potosi",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53821,
+    "latitude": 43.084008,
+    "longitude": -91.069064,
+    "city": "Prairie Du Chien",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 53824,
+    "latitude": 42.859325,
+    "longitude": -90.791337,
+    "city": "Sinsinawa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53825,
+    "latitude": 42.926596,
+    "longitude": -90.583575,
+    "city": "Stitzer",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53826,
+    "latitude": 43.110147,
+    "longitude": -90.957097,
+    "city": "Wauzeka",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 53827,
+    "latitude": 43.035813,
+    "longitude": -90.853002,
+    "city": "Woodman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 53901,
+    "latitude": 43.50666,
+    "longitude": -89.399335,
+    "city": "Portage",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53910,
+    "latitude": 43.892066,
+    "longitude": -89.827509,
+    "city": "Adams",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 53911,
+    "latitude": 43.336846,
+    "longitude": -89.36061,
+    "city": "Arlington",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53913,
+    "latitude": 43.446602,
+    "longitude": -89.863957,
+    "city": "Baraboo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53916,
+    "latitude": 43.466482,
+    "longitude": -88.862852,
+    "city": "Beaver Dam",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53917,
+    "latitude": 43.414202,
+    "longitude": -88.704914,
+    "city": "Beaver Dam",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53919,
+    "latitude": 43.740975,
+    "longitude": -88.62245,
+    "city": "Brandon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53920,
+    "latitude": 43.7076,
+    "longitude": -89.551629,
+    "city": "Briggsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53922,
+    "latitude": 43.517272,
+    "longitude": -88.73346,
+    "city": "Burnett",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53923,
+    "latitude": 43.550235,
+    "longitude": -89.15173,
+    "city": "Cambria",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53924,
+    "latitude": 43.46358,
+    "longitude": -90.28225,
+    "city": "Cazenovia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 53925,
+    "latitude": 43.3569,
+    "longitude": -89.12088,
+    "city": "Columbus",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53926,
+    "latitude": 43.679317,
+    "longitude": -89.186656,
+    "city": "Dalton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 53927,
+    "latitude": 43.95546,
+    "longitude": -89.941771,
+    "city": "Dellwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 53928,
+    "latitude": 43.426605,
+    "longitude": -89.149069,
+    "city": "Doylestown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53929,
+    "latitude": 43.82702,
+    "longitude": -90.10446,
+    "city": "Elroy",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53930,
+    "latitude": 43.6866,
+    "longitude": -89.483441,
+    "city": "Endeavor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53931,
+    "latitude": 43.747481,
+    "longitude": -88.866516,
+    "city": "Fairwater",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 53932,
+    "latitude": 43.417126,
+    "longitude": -89.070459,
+    "city": "Fall River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53933,
+    "latitude": 43.568169,
+    "longitude": -88.895723,
+    "city": "Fox Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53934,
+    "latitude": 43.997966,
+    "longitude": -89.777051,
+    "city": "Friendship",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 53935,
+    "latitude": 43.590116,
+    "longitude": -89.05931,
+    "city": "Friesland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53936,
+    "latitude": 43.947894,
+    "longitude": -89.72751,
+    "city": "Grand Marsh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 53937,
+    "latitude": 43.390863,
+    "longitude": -90.128539,
+    "city": "Hillpoint",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53939,
+    "latitude": 43.6911,
+    "longitude": -89.130237,
+    "city": "Kingston",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 53940,
+    "latitude": 43.593912,
+    "longitude": -89.791242,
+    "city": "Lake Delton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53941,
+    "latitude": 43.547459,
+    "longitude": -90.117243,
+    "city": "La Valle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53942,
+    "latitude": 43.468211,
+    "longitude": -90.161478,
+    "city": "Lime Ridge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53943,
+    "latitude": 43.385775,
+    "longitude": -90.017885,
+    "city": "Loganville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53944,
+    "latitude": 43.714061,
+    "longitude": -89.949337,
+    "city": "Lyndon Station",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53946,
+    "latitude": 43.723578,
+    "longitude": -89.065361,
+    "city": "Markesan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 53947,
+    "latitude": 43.746464,
+    "longitude": -89.138441,
+    "city": "Marquette",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 53948,
+    "latitude": 43.908679,
+    "longitude": -90.07242,
+    "city": "Mauston",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53949,
+    "latitude": 43.812581,
+    "longitude": -89.372011,
+    "city": "Montello",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53950,
+    "latitude": 43.911145,
+    "longitude": -90.165918,
+    "city": "New Lisbon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53951,
+    "latitude": 43.4031,
+    "longitude": -89.872232,
+    "city": "North Freedom",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53952,
+    "latitude": 43.767789,
+    "longitude": -89.463944,
+    "city": "Oxford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53953,
+    "latitude": 43.764385,
+    "longitude": -89.4576,
+    "city": "Packwaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53954,
+    "latitude": 43.516772,
+    "longitude": -89.31459,
+    "city": "Pardeeville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53955,
+    "latitude": 43.433273,
+    "longitude": -89.394518,
+    "city": "Poynette",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53956,
+    "latitude": 43.534002,
+    "longitude": -88.946714,
+    "city": "Randolph",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53957,
+    "latitude": 43.535249,
+    "longitude": -89.006845,
+    "city": "Randolph",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53958,
+    "latitude": 43.393767,
+    "longitude": -89.95589,
+    "city": "Reedsburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53959,
+    "latitude": 43.482108,
+    "longitude": -89.966806,
+    "city": "Reedsburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53960,
+    "latitude": 43.398335,
+    "longitude": -89.250177,
+    "city": "Rio",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53961,
+    "latitude": 43.459884,
+    "longitude": -89.931931,
+    "city": "Rock Springs",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sauk"
+  },
+  {
+    "zip_code": 53962,
+    "latitude": 43.94521,
+    "longitude": -90.049489,
+    "city": "Union Center",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53963,
+    "latitude": 43.459309,
+    "longitude": -88.754483,
+    "city": "Waupun",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 53964,
+    "latitude": 43.848698,
+    "longitude": -89.478459,
+    "city": "Westfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 53965,
+    "latitude": 43.568982,
+    "longitude": -89.44168,
+    "city": "Wisconsin Dells",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 53968,
+    "latitude": 43.690867,
+    "longitude": -90.203595,
+    "city": "Wonewoc",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 53969,
+    "latitude": 43.498907,
+    "longitude": -89.30497,
+    "city": "Wyocena",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 54001,
+    "latitude": 45.348566,
+    "longitude": -92.401379,
+    "city": "Amery",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54002,
+    "latitude": 44.969171,
+    "longitude": -92.441061,
+    "city": "Baldwin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54003,
+    "latitude": 44.789742,
+    "longitude": -92.448434,
+    "city": "Beldenville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54004,
+    "latitude": 45.31484,
+    "longitude": -92.430772,
+    "city": "Clayton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54005,
+    "latitude": 45.282945,
+    "longitude": -92.429816,
+    "city": "Clear Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54006,
+    "latitude": 45.554321,
+    "longitude": -92.662155,
+    "city": "Cushing",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54007,
+    "latitude": 45.087504,
+    "longitude": -92.379021,
+    "city": "Deer Park",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54009,
+    "latitude": 45.36179,
+    "longitude": -92.549952,
+    "city": "Dresser",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54010,
+    "latitude": 44.734759,
+    "longitude": -92.465532,
+    "city": "East Ellsworth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54011,
+    "latitude": 44.740142,
+    "longitude": -92.548289,
+    "city": "Ellsworth",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54012,
+    "latitude": 45.11453,
+    "longitude": -92.276235,
+    "city": "Emerald",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54013,
+    "latitude": 45.060365,
+    "longitude": -92.248403,
+    "city": "Glenwood City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54014,
+    "latitude": 44.655504,
+    "longitude": -92.573652,
+    "city": "Hager City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54015,
+    "latitude": 44.966939,
+    "longitude": -92.456512,
+    "city": "Hammond",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54016,
+    "latitude": 44.971853,
+    "longitude": -92.481156,
+    "city": "Hudson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54017,
+    "latitude": 45.090925,
+    "longitude": -92.496993,
+    "city": "New Richmond",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54020,
+    "latitude": 45.283783,
+    "longitude": -92.535618,
+    "city": "Osceola",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54021,
+    "latitude": 44.747209,
+    "longitude": -92.640483,
+    "city": "Prescott",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54022,
+    "latitude": 44.802351,
+    "longitude": -92.595365,
+    "city": "River Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54023,
+    "latitude": 44.974357,
+    "longitude": -92.59762,
+    "city": "Roberts",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54024,
+    "latitude": 45.509689,
+    "longitude": -92.611733,
+    "city": "Saint Croix Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54025,
+    "latitude": 45.081379,
+    "longitude": -92.474419,
+    "city": "Somerset",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54026,
+    "latitude": 45.265619,
+    "longitude": -92.480793,
+    "city": "Star Prairie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54027,
+    "latitude": 44.945813,
+    "longitude": -92.25605,
+    "city": "Wilson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54028,
+    "latitude": 44.946202,
+    "longitude": -92.376526,
+    "city": "Woodville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54082,
+    "latitude": 45.080119,
+    "longitude": -92.746568,
+    "city": "Houlton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 54101,
+    "latitude": 44.792284,
+    "longitude": -88.044067,
+    "city": "Abrams",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54102,
+    "latitude": 45.492839,
+    "longitude": -88.049604,
+    "city": "Amberg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54103,
+    "latitude": 45.672311,
+    "longitude": -88.530545,
+    "city": "Armstrong Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 54104,
+    "latitude": 45.420602,
+    "longitude": -88.246901,
+    "city": "Athelstane",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54106,
+    "latitude": 44.470235,
+    "longitude": -88.454719,
+    "city": "Black Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54107,
+    "latitude": 44.699153,
+    "longitude": -88.454312,
+    "city": "Bonduel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54110,
+    "latitude": 44.163209,
+    "longitude": -88.133876,
+    "city": "Brillion",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 54111,
+    "latitude": 44.810274,
+    "longitude": -88.391648,
+    "city": "Cecil",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54112,
+    "latitude": 45.306273,
+    "longitude": -88.002389,
+    "city": "Coleman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54113,
+    "latitude": 44.348711,
+    "longitude": -88.361208,
+    "city": "Combined Locks",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54114,
+    "latitude": 45.261661,
+    "longitude": -88.078001,
+    "city": "Crivitz",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54115,
+    "latitude": 44.453629,
+    "longitude": -87.978279,
+    "city": "De Pere",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54119,
+    "latitude": 45.591557,
+    "longitude": -88.222435,
+    "city": "Dunbar",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54120,
+    "latitude": 45.74447,
+    "longitude": -88.47565,
+    "city": "Fence",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Florence"
+  },
+  {
+    "zip_code": 54121,
+    "latitude": 45.845525,
+    "longitude": -88.284254,
+    "city": "Florence",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Florence"
+  },
+  {
+    "zip_code": 54123,
+    "latitude": 44.211065,
+    "longitude": -88.151532,
+    "city": "Forest Junction",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 54124,
+    "latitude": 44.916397,
+    "longitude": -88.174299,
+    "city": "Gillett",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54125,
+    "latitude": 45.648826,
+    "longitude": -88.333152,
+    "city": "Goodman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54126,
+    "latitude": 44.347365,
+    "longitude": -88.037736,
+    "city": "Greenleaf",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54127,
+    "latitude": 44.804687,
+    "longitude": -88.269238,
+    "city": "Green Valley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54128,
+    "latitude": 44.806061,
+    "longitude": -88.732786,
+    "city": "Gresham",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54129,
+    "latitude": 44.146516,
+    "longitude": -88.195124,
+    "city": "Hilbert",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 54130,
+    "latitude": 44.334465,
+    "longitude": -88.295776,
+    "city": "Kaukauna",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54131,
+    "latitude": 44.416326,
+    "longitude": -88.464873,
+    "city": "Freedom",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54135,
+    "latitude": 44.88646,
+    "longitude": -88.575133,
+    "city": "Keshena",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 54136,
+    "latitude": 44.303208,
+    "longitude": -88.473445,
+    "city": "Kimberly",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54137,
+    "latitude": 44.755693,
+    "longitude": -88.289822,
+    "city": "Krakow",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54138,
+    "latitude": 45.308254,
+    "longitude": -88.477771,
+    "city": "Lakewood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54139,
+    "latitude": 45.063468,
+    "longitude": -88.214802,
+    "city": "Lena",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54140,
+    "latitude": 44.294746,
+    "longitude": -88.316305,
+    "city": "Little Chute",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54141,
+    "latitude": 44.744566,
+    "longitude": -87.995493,
+    "city": "Little Suamico",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54143,
+    "latitude": 45.086805,
+    "longitude": -87.716311,
+    "city": "Marinette",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54149,
+    "latitude": 45.095725,
+    "longitude": -88.47889,
+    "city": "Mountain",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54150,
+    "latitude": 44.86893,
+    "longitude": -88.618552,
+    "city": "Neopit",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Menominee"
+  },
+  {
+    "zip_code": 54151,
+    "latitude": 45.579448,
+    "longitude": -87.918821,
+    "city": "Niagara",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54152,
+    "latitude": 44.566799,
+    "longitude": -88.458164,
+    "city": "Nichols",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54153,
+    "latitude": 44.897088,
+    "longitude": -88.082586,
+    "city": "Oconto",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54154,
+    "latitude": 44.901999,
+    "longitude": -88.125829,
+    "city": "Oconto Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54155,
+    "latitude": 44.447167,
+    "longitude": -88.23333,
+    "city": "Oneida",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54156,
+    "latitude": 45.392437,
+    "longitude": -87.904337,
+    "city": "Pembine",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54157,
+    "latitude": 45.174269,
+    "longitude": -87.902,
+    "city": "Peshtigo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54159,
+    "latitude": 45.205901,
+    "longitude": -87.8274,
+    "city": "Porterfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54160,
+    "latitude": 44.119917,
+    "longitude": -88.096495,
+    "city": "Potter",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 54161,
+    "latitude": 45.117544,
+    "longitude": -87.977136,
+    "city": "Pound",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54162,
+    "latitude": 44.583761,
+    "longitude": -88.103417,
+    "city": "Pulaski",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54165,
+    "latitude": 44.430443,
+    "longitude": -88.463328,
+    "city": "Seymour",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54166,
+    "latitude": 44.745058,
+    "longitude": -88.664156,
+    "city": "Shawano",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54169,
+    "latitude": 44.167388,
+    "longitude": -88.229438,
+    "city": "Sherwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Calumet"
+  },
+  {
+    "zip_code": 54170,
+    "latitude": 44.482935,
+    "longitude": -88.589547,
+    "city": "Shiocton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54171,
+    "latitude": 44.726641,
+    "longitude": -88.121792,
+    "city": "Sobieski",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54173,
+    "latitude": 44.635701,
+    "longitude": -88.122034,
+    "city": "Suamico",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54174,
+    "latitude": 45.111843,
+    "longitude": -88.418694,
+    "city": "Suring",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54175,
+    "latitude": 45.309457,
+    "longitude": -88.605896,
+    "city": "Townsend",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oconto"
+  },
+  {
+    "zip_code": 54177,
+    "latitude": 45.383307,
+    "longitude": -87.876231,
+    "city": "Wausaukee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marinette"
+  },
+  {
+    "zip_code": 54180,
+    "latitude": 44.494921,
+    "longitude": -88.124743,
+    "city": "Wrightstown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54182,
+    "latitude": 44.731453,
+    "longitude": -88.369842,
+    "city": "Zachow",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54201,
+    "latitude": 44.596017,
+    "longitude": -87.540266,
+    "city": "Algoma",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kewaunee"
+  },
+  {
+    "zip_code": 54202,
+    "latitude": 45.077002,
+    "longitude": -87.14603,
+    "city": "Baileys Harbor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54203,
+    "latitude": 44.109853,
+    "longitude": -87.483874,
+    "city": "Branch",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54204,
+    "latitude": 44.752379,
+    "longitude": -87.625888,
+    "city": "Brussels",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54205,
+    "latitude": 44.596082,
+    "longitude": -87.637308,
+    "city": "Casco",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kewaunee"
+  },
+  {
+    "zip_code": 54207,
+    "latitude": 44.091021,
+    "longitude": -87.990241,
+    "city": "Collins",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54208,
+    "latitude": 44.459153,
+    "longitude": -87.885734,
+    "city": "Denmark",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54209,
+    "latitude": 45.012261,
+    "longitude": -87.266031,
+    "city": "Egg Harbor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54210,
+    "latitude": 45.253108,
+    "longitude": -87.044698,
+    "city": "Ellison Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54211,
+    "latitude": 45.159184,
+    "longitude": -87.171024,
+    "city": "Ephraim",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54212,
+    "latitude": 45.11038,
+    "longitude": -87.209899,
+    "city": "Fish Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54213,
+    "latitude": 44.722418,
+    "longitude": -87.528122,
+    "city": "Forestville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54214,
+    "latitude": 44.204875,
+    "longitude": -87.715629,
+    "city": "Francis Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54215,
+    "latitude": 44.222585,
+    "longitude": -87.801651,
+    "city": "Kellnersville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54216,
+    "latitude": 44.438185,
+    "longitude": -87.592719,
+    "city": "Kewaunee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kewaunee"
+  },
+  {
+    "zip_code": 54217,
+    "latitude": 44.541977,
+    "longitude": -87.670551,
+    "city": "Luxemburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Kewaunee"
+  },
+  {
+    "zip_code": 54220,
+    "latitude": 44.109709,
+    "longitude": -87.714403,
+    "city": "Manitowoc",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54221,
+    "latitude": 44.132295,
+    "longitude": -87.599031,
+    "city": "Manitowoc",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54226,
+    "latitude": 45.059713,
+    "longitude": -87.006012,
+    "city": "Maplewood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54227,
+    "latitude": 44.276554,
+    "longitude": -87.801651,
+    "city": "Maribel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54228,
+    "latitude": 44.167783,
+    "longitude": -87.739206,
+    "city": "Mishicot",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54229,
+    "latitude": 44.571416,
+    "longitude": -87.833306,
+    "city": "New Franken",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54230,
+    "latitude": 44.142382,
+    "longitude": -87.904684,
+    "city": "Reedsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54232,
+    "latitude": 44.005714,
+    "longitude": -87.922351,
+    "city": "Saint Nazianz",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54234,
+    "latitude": 45.178293,
+    "longitude": -87.101748,
+    "city": "Sister Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54235,
+    "latitude": 44.945314,
+    "longitude": -87.384142,
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54240,
+    "latitude": 44.282802,
+    "longitude": -87.632398,
+    "city": "Tisch Mills",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54241,
+    "latitude": 44.225538,
+    "longitude": -87.627759,
+    "city": "Two Rivers",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54245,
+    "latitude": 44.053321,
+    "longitude": -87.899912,
+    "city": "Valders",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54246,
+    "latitude": 45.373786,
+    "longitude": -86.897472,
+    "city": "Washington Island",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Door"
+  },
+  {
+    "zip_code": 54247,
+    "latitude": 44.189293,
+    "longitude": -87.781594,
+    "city": "Whitelaw",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Manitowoc"
+  },
+  {
+    "zip_code": 54301,
+    "latitude": 44.494385,
+    "longitude": -87.976051,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54302,
+    "latitude": 44.495042,
+    "longitude": -87.978652,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54303,
+    "latitude": 44.552247,
+    "longitude": -88.078803,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54304,
+    "latitude": 44.497541,
+    "longitude": -88.032443,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54305,
+    "latitude": 44.460064,
+    "longitude": -88.007382,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54306,
+    "latitude": 44.460064,
+    "longitude": -88.007382,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54307,
+    "latitude": 44.460064,
+    "longitude": -88.007382,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54308,
+    "latitude": 44.459509,
+    "longitude": -87.805912,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54311,
+    "latitude": 44.523605,
+    "longitude": -87.957687,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54313,
+    "latitude": 44.54964,
+    "longitude": -87.99597,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54324,
+    "latitude": 44.460064,
+    "longitude": -88.007382,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54344,
+    "latitude": 44.42504,
+    "longitude": -88.111252,
+    "city": "Green Bay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 54401,
+    "latitude": 44.961874,
+    "longitude": -89.794002,
+    "city": "Wausau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54402,
+    "latitude": 44.900936,
+    "longitude": -89.7701,
+    "city": "Wausau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54403,
+    "latitude": 44.952863,
+    "longitude": -89.531804,
+    "city": "Wausau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54404,
+    "latitude": 44.466554,
+    "longitude": -90.02136,
+    "city": "Marshfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54405,
+    "latitude": 44.960186,
+    "longitude": -90.374893,
+    "city": "Abbotsford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54406,
+    "latitude": 44.393087,
+    "longitude": -89.335313,
+    "city": "Amherst",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54407,
+    "latitude": 44.530435,
+    "longitude": -89.356252,
+    "city": "Amherst Junction",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54408,
+    "latitude": 45.008812,
+    "longitude": -89.357822,
+    "city": "Aniwa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54409,
+    "latitude": 45.160809,
+    "longitude": -89.093942,
+    "city": "Antigo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54410,
+    "latitude": 44.535658,
+    "longitude": -90.007245,
+    "city": "Arpin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54411,
+    "latitude": 44.982348,
+    "longitude": -90.007765,
+    "city": "Athens",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54412,
+    "latitude": 44.559652,
+    "longitude": -90.00532,
+    "city": "Auburndale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54413,
+    "latitude": 44.298272,
+    "longitude": -90.140404,
+    "city": "Babcock",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54414,
+    "latitude": 44.919163,
+    "longitude": -89.1042,
+    "city": "Birnamwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54415,
+    "latitude": 44.619128,
+    "longitude": -89.918563,
+    "city": "Blenker",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54416,
+    "latitude": 44.898739,
+    "longitude": -88.838922,
+    "city": "Bowler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54417,
+    "latitude": 45.02735,
+    "longitude": -89.654118,
+    "city": "Brokaw",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54418,
+    "latitude": 45.160395,
+    "longitude": -88.994008,
+    "city": "Bryant",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54420,
+    "latitude": 44.606893,
+    "longitude": -90.375852,
+    "city": "Chili",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54421,
+    "latitude": 44.879977,
+    "longitude": -90.384734,
+    "city": "Colby",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54422,
+    "latitude": 44.944027,
+    "longitude": -90.52792,
+    "city": "Curtiss",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54423,
+    "latitude": 44.580724,
+    "longitude": -89.586502,
+    "city": "Custer",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54424,
+    "latitude": 45.272303,
+    "longitude": -89.086848,
+    "city": "Deerbrook",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54425,
+    "latitude": 44.996496,
+    "longitude": -90.374411,
+    "city": "Dorchester",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54426,
+    "latitude": 44.904647,
+    "longitude": -90.012469,
+    "city": "Edgar",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54427,
+    "latitude": 44.808419,
+    "longitude": -89.301349,
+    "city": "Eland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54428,
+    "latitude": 45.413361,
+    "longitude": -89.143347,
+    "city": "Elcho",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54429,
+    "latitude": 44.780171,
+    "longitude": -89.247809,
+    "city": "Elderon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54430,
+    "latitude": 45.212455,
+    "longitude": -88.83459,
+    "city": "Elton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54432,
+    "latitude": 44.900936,
+    "longitude": -89.7701,
+    "city": "Galloway",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54433,
+    "latitude": 45.197791,
+    "longitude": -90.632113,
+    "city": "Gilman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54434,
+    "latitude": 45.206757,
+    "longitude": -90.484132,
+    "city": "Jump River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54435,
+    "latitude": 45.38097,
+    "longitude": -89.607232,
+    "city": "Gleason",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 54436,
+    "latitude": 44.607247,
+    "longitude": -90.457313,
+    "city": "Granton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54437,
+    "latitude": 44.660403,
+    "longitude": -90.6756,
+    "city": "Greenwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54439,
+    "latitude": 45.206757,
+    "longitude": -90.484132,
+    "city": "Hannibal",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54440,
+    "latitude": 44.797963,
+    "longitude": -89.513916,
+    "city": "Hatley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54441,
+    "latitude": 44.645875,
+    "longitude": -90.105056,
+    "city": "Hewitt",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54442,
+    "latitude": 45.366386,
+    "longitude": -89.670022,
+    "city": "Irma",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 54443,
+    "latitude": 44.588962,
+    "longitude": -89.707997,
+    "city": "Junction City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54444,
+    "latitude": 45.249382,
+    "longitude": -89.032136,
+    "city": "Kempster",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54446,
+    "latitude": 44.729482,
+    "longitude": -90.634557,
+    "city": "Loyal",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54447,
+    "latitude": 45.16658,
+    "longitude": -90.769811,
+    "city": "Lublin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54448,
+    "latitude": 44.875437,
+    "longitude": -89.80077,
+    "city": "Marathon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54449,
+    "latitude": 44.589394,
+    "longitude": -90.190595,
+    "city": "Marshfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54450,
+    "latitude": 45.006232,
+    "longitude": -89.047379,
+    "city": "Mattoon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54451,
+    "latitude": 45.164705,
+    "longitude": -90.445798,
+    "city": "Medford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54452,
+    "latitude": 45.217518,
+    "longitude": -89.713291,
+    "city": "Merrill",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 54454,
+    "latitude": 44.598179,
+    "longitude": -89.904543,
+    "city": "Milladore",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54455,
+    "latitude": 44.809226,
+    "longitude": -89.701277,
+    "city": "Mosinee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54456,
+    "latitude": 44.688149,
+    "longitude": -90.669407,
+    "city": "Neillsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54457,
+    "latitude": 44.299968,
+    "longitude": -89.920843,
+    "city": "Nekoosa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54458,
+    "latitude": 44.490241,
+    "longitude": -89.310944,
+    "city": "Nelsonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54459,
+    "latitude": 45.451541,
+    "longitude": -90.287732,
+    "city": "Ogema",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54460,
+    "latitude": 44.900923,
+    "longitude": -90.627475,
+    "city": "Owen",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54462,
+    "latitude": 45.386148,
+    "longitude": -88.971242,
+    "city": "Pearson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54463,
+    "latitude": 45.525897,
+    "longitude": -89.236033,
+    "city": "Pelican Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54464,
+    "latitude": 45.249382,
+    "longitude": -89.032136,
+    "city": "Phlox",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54465,
+    "latitude": 45.362544,
+    "longitude": -88.950339,
+    "city": "Pickerel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54466,
+    "latitude": 44.408897,
+    "longitude": -90.190911,
+    "city": "Pittsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54467,
+    "latitude": 44.413942,
+    "longitude": -89.565507,
+    "city": "Plover",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54469,
+    "latitude": 44.350934,
+    "longitude": -89.876274,
+    "city": "Port Edwards",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54470,
+    "latitude": 45.208013,
+    "longitude": -90.168991,
+    "city": "Rib Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54471,
+    "latitude": 44.929692,
+    "longitude": -89.364964,
+    "city": "Ringle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54472,
+    "latitude": 44.466554,
+    "longitude": -90.02136,
+    "city": "Marshfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54473,
+    "latitude": 44.605786,
+    "longitude": -89.356834,
+    "city": "Rosholt",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54474,
+    "latitude": 44.898819,
+    "longitude": -89.712935,
+    "city": "Rothschild",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54475,
+    "latitude": 44.474097,
+    "longitude": -89.795501,
+    "city": "Rudolph",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54476,
+    "latitude": 44.866501,
+    "longitude": -89.576968,
+    "city": "Schofield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54479,
+    "latitude": 44.805167,
+    "longitude": -90.141112,
+    "city": "Spencer",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54480,
+    "latitude": 45.19405,
+    "longitude": -90.302783,
+    "city": "Stetsonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54481,
+    "latitude": 44.551808,
+    "longitude": -89.531871,
+    "city": "Stevens Point",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54484,
+    "latitude": 44.809072,
+    "longitude": -90.030674,
+    "city": "Stratford",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54485,
+    "latitude": 45.396466,
+    "longitude": -89.217933,
+    "city": "Summit Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54486,
+    "latitude": 44.75984,
+    "longitude": -89.039052,
+    "city": "Tigerton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54487,
+    "latitude": 45.337814,
+    "longitude": -89.765239,
+    "city": "Tomahawk",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 54488,
+    "latitude": 44.840956,
+    "longitude": -90.257456,
+    "city": "Unity",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marathon"
+  },
+  {
+    "zip_code": 54489,
+    "latitude": 44.462338,
+    "longitude": -90.003283,
+    "city": "Vesper",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54490,
+    "latitude": 45.330939,
+    "longitude": -90.401519,
+    "city": "Westboro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 54491,
+    "latitude": 45.248003,
+    "longitude": -88.803154,
+    "city": "White Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Langlade"
+  },
+  {
+    "zip_code": 54492,
+    "latitude": 44.509433,
+    "longitude": -89.528584,
+    "city": "Stevens Point",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54493,
+    "latitude": 44.715341,
+    "longitude": -90.769733,
+    "city": "Willard",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54494,
+    "latitude": 44.379694,
+    "longitude": -89.918546,
+    "city": "Wisconsin Rapids",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54495,
+    "latitude": 44.388082,
+    "longitude": -89.922751,
+    "city": "Wisconsin Rapids",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 54498,
+    "latitude": 44.944248,
+    "longitude": -90.638388,
+    "city": "Withee",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54499,
+    "latitude": 44.801314,
+    "longitude": -89.11476,
+    "city": "Wittenberg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54501,
+    "latitude": 45.704474,
+    "longitude": -89.386562,
+    "city": "Rhinelander",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54511,
+    "latitude": 45.711791,
+    "longitude": -88.810386,
+    "city": "Argonne",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 54512,
+    "latitude": 46.078442,
+    "longitude": -89.531393,
+    "city": "Boulder Junction",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54513,
+    "latitude": 45.584525,
+    "longitude": -90.166914,
+    "city": "Brantwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54514,
+    "latitude": 46.394779,
+    "longitude": -90.628174,
+    "city": "Butternut",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54515,
+    "latitude": 45.535762,
+    "longitude": -90.504465,
+    "city": "Catawba",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54517,
+    "latitude": 46.645163,
+    "longitude": -90.442721,
+    "city": "Clam Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54519,
+    "latitude": 46.072385,
+    "longitude": -89.260939,
+    "city": "Conover",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54520,
+    "latitude": 45.511846,
+    "longitude": -88.891846,
+    "city": "Crandon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 54521,
+    "latitude": 45.988126,
+    "longitude": -89.265609,
+    "city": "Eagle River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54524,
+    "latitude": 45.814336,
+    "longitude": -90.453045,
+    "city": "Fifield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54525,
+    "latitude": 46.395746,
+    "longitude": -90.191139,
+    "city": "Gile",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54526,
+    "latitude": 45.486195,
+    "longitude": -90.847935,
+    "city": "Glen Flora",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54527,
+    "latitude": 46.126107,
+    "longitude": -90.611172,
+    "city": "Glidden",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54529,
+    "latitude": 45.690115,
+    "longitude": -89.663974,
+    "city": "Harshaw",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54530,
+    "latitude": 45.518558,
+    "longitude": -90.743138,
+    "city": "Hawkins",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54531,
+    "latitude": 45.74835,
+    "longitude": -89.821598,
+    "city": "Hazelhurst",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54532,
+    "latitude": 45.337678,
+    "longitude": -89.735524,
+    "city": "Heafford Junction",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 54534,
+    "latitude": 46.371032,
+    "longitude": -90.221645,
+    "city": "Hurley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54536,
+    "latitude": 46.318241,
+    "longitude": -90.342024,
+    "city": "Iron Belt",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54537,
+    "latitude": 45.528816,
+    "longitude": -90.606178,
+    "city": "Kennan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54538,
+    "latitude": 46.068073,
+    "longitude": -89.76566,
+    "city": "Lac Du Flambeau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54539,
+    "latitude": 45.775685,
+    "longitude": -89.574808,
+    "city": "Lake Tomahawk",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54540,
+    "latitude": 46.073659,
+    "longitude": -89.444514,
+    "city": "Land O Lakes",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54541,
+    "latitude": 45.561723,
+    "longitude": -88.706496,
+    "city": "Laona",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 54542,
+    "latitude": 45.913837,
+    "longitude": -88.623498,
+    "city": "Long Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Florence"
+  },
+  {
+    "zip_code": 54543,
+    "latitude": 45.72293,
+    "longitude": -89.557263,
+    "city": "Mc Naughton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54545,
+    "latitude": 46.155097,
+    "longitude": -89.845465,
+    "city": "Manitowish Waters",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54546,
+    "latitude": 46.320677,
+    "longitude": -90.746141,
+    "city": "Mellen",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54547,
+    "latitude": 46.143746,
+    "longitude": -90.110725,
+    "city": "Mercer",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54548,
+    "latitude": 45.827583,
+    "longitude": -89.824294,
+    "city": "Minocqua",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54550,
+    "latitude": 46.396613,
+    "longitude": -90.309085,
+    "city": "Montreal",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54552,
+    "latitude": 45.846473,
+    "longitude": -90.360373,
+    "city": "Park Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54554,
+    "latitude": 46.092807,
+    "longitude": -89.257762,
+    "city": "Phelps",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54555,
+    "latitude": 45.724607,
+    "longitude": -90.370984,
+    "city": "Phillips",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54556,
+    "latitude": 45.532944,
+    "longitude": -90.28166,
+    "city": "Prentice",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Price"
+  },
+  {
+    "zip_code": 54557,
+    "latitude": 46.200011,
+    "longitude": -89.738691,
+    "city": "Presque Isle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54558,
+    "latitude": 45.942092,
+    "longitude": -89.686925,
+    "city": "Saint Germain",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54559,
+    "latitude": 46.502552,
+    "longitude": -90.402719,
+    "city": "Saxon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54560,
+    "latitude": 46.02023,
+    "longitude": -89.497889,
+    "city": "Sayner",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54561,
+    "latitude": 46.061297,
+    "longitude": -89.485834,
+    "city": "Star Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vilas"
+  },
+  {
+    "zip_code": 54562,
+    "latitude": 45.762075,
+    "longitude": -89.157339,
+    "city": "Three Lakes",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54563,
+    "latitude": 45.45197,
+    "longitude": -90.964443,
+    "city": "Tony",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54564,
+    "latitude": 45.725515,
+    "longitude": -89.943993,
+    "city": "Tripoli",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54565,
+    "latitude": 46.370313,
+    "longitude": -90.434344,
+    "city": "Upson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 54566,
+    "latitude": 45.443574,
+    "longitude": -88.619413,
+    "city": "Wabeno",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Forest"
+  },
+  {
+    "zip_code": 54568,
+    "latitude": 45.859618,
+    "longitude": -89.653705,
+    "city": "Woodruff",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Oneida"
+  },
+  {
+    "zip_code": 54601,
+    "latitude": 43.85456,
+    "longitude": -91.132072,
+    "city": "La Crosse",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54602,
+    "latitude": 43.907739,
+    "longitude": -91.167621,
+    "city": "La Crosse",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54603,
+    "latitude": 43.853763,
+    "longitude": -91.246238,
+    "city": "La Crosse",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54610,
+    "latitude": 44.346721,
+    "longitude": -91.836481,
+    "city": "Alma",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54611,
+    "latitude": 44.451027,
+    "longitude": -90.975918,
+    "city": "Alma Center",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54612,
+    "latitude": 44.251711,
+    "longitude": -91.387699,
+    "city": "Arcadia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54613,
+    "latitude": 44.079992,
+    "longitude": -89.803877,
+    "city": "Arkdale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 54614,
+    "latitude": 43.919308,
+    "longitude": -91.081457,
+    "city": "Bangor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54615,
+    "latitude": 44.295394,
+    "longitude": -90.83128,
+    "city": "Black River Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54616,
+    "latitude": 44.251701,
+    "longitude": -91.264753,
+    "city": "Blair",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54618,
+    "latitude": 43.988481,
+    "longitude": -90.239261,
+    "city": "Camp Douglas",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 54619,
+    "latitude": 43.851133,
+    "longitude": -90.699047,
+    "city": "Cashton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54620,
+    "latitude": 44.087601,
+    "longitude": -90.842289,
+    "city": "Cataract",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54621,
+    "latitude": 43.667006,
+    "longitude": -90.741409,
+    "city": "Chaseburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54622,
+    "latitude": 44.237714,
+    "longitude": -91.741701,
+    "city": "Cochrane",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54623,
+    "latitude": 43.574486,
+    "longitude": -91.043819,
+    "city": "Coon Valley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54624,
+    "latitude": 43.480668,
+    "longitude": -91.133309,
+    "city": "De Soto",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54625,
+    "latitude": 44.14309,
+    "longitude": -91.520432,
+    "city": "Dodge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54626,
+    "latitude": 43.220573,
+    "longitude": -91.034135,
+    "city": "Eastman",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54627,
+    "latitude": 44.184171,
+    "longitude": -91.257707,
+    "city": "Ettrick",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54628,
+    "latitude": 43.319219,
+    "longitude": -91.054678,
+    "city": "Ferryville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54629,
+    "latitude": 44.170774,
+    "longitude": -91.674962,
+    "city": "Fountain City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54630,
+    "latitude": 44.094809,
+    "longitude": -91.339528,
+    "city": "Galesville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54631,
+    "latitude": 43.269667,
+    "longitude": -90.83178,
+    "city": "Gays Mills",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54632,
+    "latitude": 43.618089,
+    "longitude": -90.837971,
+    "city": "Genoa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54634,
+    "latitude": 43.616843,
+    "longitude": -90.659829,
+    "city": "Hillsboro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54635,
+    "latitude": 44.40376,
+    "longitude": -91.044171,
+    "city": "Hixton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54636,
+    "latitude": 43.968617,
+    "longitude": -91.223484,
+    "city": "Holmen",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54637,
+    "latitude": 43.88013,
+    "longitude": -90.272928,
+    "city": "Hustler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 54638,
+    "latitude": 43.816431,
+    "longitude": -90.40265,
+    "city": "Kendall",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54639,
+    "latitude": 43.600044,
+    "longitude": -90.636482,
+    "city": "La Farge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54640,
+    "latitude": 43.266172,
+    "longitude": -91.022031,
+    "city": "Lynxville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54641,
+    "latitude": 43.94521,
+    "longitude": -90.049489,
+    "city": "Mather",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 54642,
+    "latitude": 44.196358,
+    "longitude": -90.979249,
+    "city": "Melrose",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54643,
+    "latitude": 44.186869,
+    "longitude": -90.635831,
+    "city": "Millston",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54644,
+    "latitude": 44.021422,
+    "longitude": -91.03295,
+    "city": "Mindoro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54645,
+    "latitude": 43.206361,
+    "longitude": -90.940479,
+    "city": "Mount Sterling",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54646,
+    "latitude": 44.022637,
+    "longitude": -90.130552,
+    "city": "Necedah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Juneau"
+  },
+  {
+    "zip_code": 54648,
+    "latitude": 43.83159,
+    "longitude": -90.647476,
+    "city": "Norwalk",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54649,
+    "latitude": 43.971514,
+    "longitude": -90.361161,
+    "city": "Oakdale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54650,
+    "latitude": 43.886664,
+    "longitude": -91.130399,
+    "city": "Onalaska",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54651,
+    "latitude": 43.696538,
+    "longitude": -90.548053,
+    "city": "Ontario",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54652,
+    "latitude": 43.470286,
+    "longitude": -90.774539,
+    "city": "Readstown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54653,
+    "latitude": 43.841142,
+    "longitude": -90.950732,
+    "city": "Rockland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54654,
+    "latitude": 43.206361,
+    "longitude": -90.940479,
+    "city": "Seneca",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54655,
+    "latitude": 43.369813,
+    "longitude": -90.808363,
+    "city": "Soldiers Grove",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54656,
+    "latitude": 43.949925,
+    "longitude": -90.752783,
+    "city": "Sparta",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54657,
+    "latitude": 43.274205,
+    "longitude": -90.924336,
+    "city": "Steuben",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 54658,
+    "latitude": 43.669102,
+    "longitude": -91.134346,
+    "city": "Stoddard",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54659,
+    "latitude": 44.291449,
+    "longitude": -91.087671,
+    "city": "Taylor",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54660,
+    "latitude": 43.983826,
+    "longitude": -90.473336,
+    "city": "Tomah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54661,
+    "latitude": 44.076755,
+    "longitude": -91.460168,
+    "city": "Trempealeau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54662,
+    "latitude": 44.003084,
+    "longitude": -90.562005,
+    "city": "Tunnel City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54664,
+    "latitude": 43.501783,
+    "longitude": -90.706816,
+    "city": "Viola",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 54665,
+    "latitude": 43.530515,
+    "longitude": -90.991573,
+    "city": "Viroqua",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54666,
+    "latitude": 43.987879,
+    "longitude": -90.466582,
+    "city": "Warrens",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54667,
+    "latitude": 43.653701,
+    "longitude": -90.841723,
+    "city": "Westby",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 54669,
+    "latitude": 43.897572,
+    "longitude": -91.120198,
+    "city": "West Salem",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "La Crosse"
+  },
+  {
+    "zip_code": 54670,
+    "latitude": 43.848835,
+    "longitude": -90.468791,
+    "city": "Wilton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 54701,
+    "latitude": 44.75653,
+    "longitude": -91.473097,
+    "city": "Eau Claire",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54702,
+    "latitude": 44.726626,
+    "longitude": -91.285931,
+    "city": "Eau Claire",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54703,
+    "latitude": 44.80456,
+    "longitude": -91.477897,
+    "city": "Eau Claire",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54720,
+    "latitude": 44.803612,
+    "longitude": -91.442253,
+    "city": "Altoona",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54721,
+    "latitude": 44.602774,
+    "longitude": -92.062219,
+    "city": "Arkansaw",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pepin"
+  },
+  {
+    "zip_code": 54722,
+    "latitude": 44.726811,
+    "longitude": -91.212598,
+    "city": "Augusta",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54723,
+    "latitude": 44.631517,
+    "longitude": -92.435186,
+    "city": "Bay City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54724,
+    "latitude": 45.042352,
+    "longitude": -91.408026,
+    "city": "Bloomer",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54725,
+    "latitude": 45.075804,
+    "longitude": -92.013036,
+    "city": "Boyceville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54726,
+    "latitude": 45.00521,
+    "longitude": -91.175615,
+    "city": "Boyd",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54727,
+    "latitude": 45.015803,
+    "longitude": -91.353301,
+    "city": "Cadott",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54728,
+    "latitude": 45.405423,
+    "longitude": -91.828102,
+    "city": "Chetek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54729,
+    "latitude": 44.958689,
+    "longitude": -91.319492,
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54730,
+    "latitude": 45.037889,
+    "longitude": -91.888046,
+    "city": "Colfax",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54731,
+    "latitude": 45.357563,
+    "longitude": -91.088353,
+    "city": "Conrath",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54732,
+    "latitude": 45.125153,
+    "longitude": -91.170922,
+    "city": "Cornell",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54733,
+    "latitude": 45.261871,
+    "longitude": -91.845156,
+    "city": "Dallas",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54734,
+    "latitude": 45.001949,
+    "longitude": -92.099665,
+    "city": "Downing",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54735,
+    "latitude": 44.946496,
+    "longitude": -91.90344,
+    "city": "Downsville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54736,
+    "latitude": 44.640224,
+    "longitude": -91.831869,
+    "city": "Durand",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pepin"
+  },
+  {
+    "zip_code": 54737,
+    "latitude": 44.749316,
+    "longitude": -92.04191,
+    "city": "Eau Galle",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54738,
+    "latitude": 44.394025,
+    "longitude": -91.411701,
+    "city": "Eleva",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54739,
+    "latitude": 44.855107,
+    "longitude": -91.736968,
+    "city": "Elk Mound",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54740,
+    "latitude": 44.744453,
+    "longitude": -92.226414,
+    "city": "Elmwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54741,
+    "latitude": 44.659822,
+    "longitude": -91.014753,
+    "city": "Fairchild",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54742,
+    "latitude": 44.762892,
+    "longitude": -91.306304,
+    "city": "Fall Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Eau Claire"
+  },
+  {
+    "zip_code": 54743,
+    "latitude": 44.311074,
+    "longitude": -91.806396,
+    "city": "Gilmanton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54744,
+    "latitude": 45.319786,
+    "longitude": -91.881754,
+    "city": "Hillsdale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54745,
+    "latitude": 45.150752,
+    "longitude": -91.121308,
+    "city": "Holcombe",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54746,
+    "latitude": 44.516708,
+    "longitude": -90.709853,
+    "city": "Humbird",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54747,
+    "latitude": 44.356483,
+    "longitude": -91.443718,
+    "city": "Independence",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54748,
+    "latitude": 45.088875,
+    "longitude": -91.256794,
+    "city": "Jim Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54749,
+    "latitude": 44.947538,
+    "longitude": -92.07521,
+    "city": "Knapp",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54750,
+    "latitude": 44.623923,
+    "longitude": -92.29072,
+    "city": "Maiden Rock",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54751,
+    "latitude": 44.867809,
+    "longitude": -91.943198,
+    "city": "Menomonie",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54754,
+    "latitude": 44.436841,
+    "longitude": -90.796318,
+    "city": "Merrillan",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 54755,
+    "latitude": 44.48773,
+    "longitude": -91.68068,
+    "city": "Mondovi",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54756,
+    "latitude": 44.473584,
+    "longitude": -91.910518,
+    "city": "Nelson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Buffalo"
+  },
+  {
+    "zip_code": 54757,
+    "latitude": 45.118159,
+    "longitude": -91.486707,
+    "city": "New Auburn",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54758,
+    "latitude": 44.333502,
+    "longitude": -91.347015,
+    "city": "Osseo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54759,
+    "latitude": 44.509108,
+    "longitude": -92.131821,
+    "city": "Pepin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pepin"
+  },
+  {
+    "zip_code": 54760,
+    "latitude": 44.424863,
+    "longitude": -91.207421,
+    "city": "Pigeon Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54761,
+    "latitude": 44.619607,
+    "longitude": -92.180419,
+    "city": "Plum City",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54762,
+    "latitude": 45.262353,
+    "longitude": -91.992842,
+    "city": "Prairie Farm",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54763,
+    "latitude": 45.168279,
+    "longitude": -91.875797,
+    "city": "Ridgeland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54764,
+    "latitude": 44.946496,
+    "longitude": -91.90344,
+    "city": "Rock Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  }
+]

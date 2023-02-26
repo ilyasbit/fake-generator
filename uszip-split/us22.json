@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 62973,
+    "latitude": 37.311333,
+    "longitude": -89.083056,
+    "city": "Perks",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62974,
+    "latitude": 37.804734,
+    "longitude": -88.808056,
+    "city": "Pittsburg",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Williamson"
+  },
+  {
+    "zip_code": 62975,
+    "latitude": 37.650115,
+    "longitude": -89.369308,
+    "city": "Pomona",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62976,
+    "latitude": 37.212957,
+    "longitude": -89.136274,
+    "city": "Pulaski",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62977,
+    "latitude": 37.822856,
+    "longitude": -88.549793,
+    "city": "Raleigh",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62979,
+    "latitude": 37.796978,
+    "longitude": -88.243498,
+    "city": "Ridgway",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62982,
+    "latitude": 37.417713,
+    "longitude": -88.354451,
+    "city": "Rosiclare",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 62983,
+    "latitude": 37.910274,
+    "longitude": -89.100865,
+    "city": "Royalton",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 62984,
+    "latitude": 37.710189,
+    "longitude": -88.183169,
+    "city": "Shawneetown",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Gallatin"
+  },
+  {
+    "zip_code": 62985,
+    "latitude": 37.451868,
+    "longitude": -88.801413,
+    "city": "Simpson",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62987,
+    "latitude": 37.643233,
+    "longitude": -88.622821,
+    "city": "Stonefort",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 62988,
+    "latitude": 37.239072,
+    "longitude": -89.269752,
+    "city": "Tamms",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62990,
+    "latitude": 37.221042,
+    "longitude": -89.459863,
+    "city": "Thebes",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62991,
+    "latitude": 37.503628,
+    "longitude": -88.847731,
+    "city": "Tunnel Hill",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62992,
+    "latitude": 37.28344,
+    "longitude": -89.13646,
+    "city": "Ullin",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62993,
+    "latitude": 37.152775,
+    "longitude": -89.325581,
+    "city": "Unity",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Alexander"
+  },
+  {
+    "zip_code": 62994,
+    "latitude": 37.907239,
+    "longitude": -89.410304,
+    "city": "Vergennes",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 62995,
+    "latitude": 37.42417,
+    "longitude": -88.898049,
+    "city": "Vienna",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 62996,
+    "latitude": 37.164229,
+    "longitude": -89.170924,
+    "city": "Villa Ridge",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 62997,
+    "latitude": 37.984776,
+    "longitude": -89.589862,
+    "city": "Willisville",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 62998,
+    "latitude": 37.509618,
+    "longitude": -89.424913,
+    "city": "Wolf Lake",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Union"
+  },
+  {
+    "zip_code": 62999,
+    "latitude": 37.899054,
+    "longitude": -89.052317,
+    "city": "Zeigler",
+    "state": "IL",
+    "full_state": "Illinois",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63001,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Allenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63005,
+    "latitude": 38.637002,
+    "longitude": -90.650024,
+    "city": "Chesterfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63006,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Chesterfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63010,
+    "latitude": 38.341665,
+    "longitude": -90.410219,
+    "city": "Arnold",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63011,
+    "latitude": 38.609102,
+    "longitude": -90.559763,
+    "city": "Ballwin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63012,
+    "latitude": 38.334232,
+    "longitude": -90.453027,
+    "city": "Barnhart",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63013,
+    "latitude": 38.416838,
+    "longitude": -91.142077,
+    "city": "Beaufort",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63014,
+    "latitude": 38.632726,
+    "longitude": -91.321404,
+    "city": "Berger",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63015,
+    "latitude": 38.404667,
+    "longitude": -90.780631,
+    "city": "Catawissa",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63016,
+    "latitude": 38.352262,
+    "longitude": -90.62569,
+    "city": "Cedar Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63017,
+    "latitude": 38.649052,
+    "longitude": -90.535804,
+    "city": "Chesterfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63019,
+    "latitude": 38.225684,
+    "longitude": -90.384036,
+    "city": "Crystal City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63020,
+    "latitude": 38.139054,
+    "longitude": -90.559045,
+    "city": "De Soto",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63021,
+    "latitude": 38.566653,
+    "longitude": -90.535646,
+    "city": "Ballwin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63022,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Ballwin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63023,
+    "latitude": 38.26891,
+    "longitude": -90.705561,
+    "city": "Dittmer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63024,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Ballwin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63025,
+    "latitude": 38.512803,
+    "longitude": -90.630576,
+    "city": "Eureka",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63026,
+    "latitude": 38.529903,
+    "longitude": -90.46737,
+    "city": "Fenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63028,
+    "latitude": 38.270941,
+    "longitude": -90.413534,
+    "city": "Festus",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63030,
+    "latitude": 38.170261,
+    "longitude": -90.718536,
+    "city": "Fletcher",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63031,
+    "latitude": 38.805499,
+    "longitude": -90.351314,
+    "city": "Florissant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63032,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Florissant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63033,
+    "latitude": 38.796049,
+    "longitude": -90.274512,
+    "city": "Florissant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63034,
+    "latitude": 38.838382,
+    "longitude": -90.284174,
+    "city": "Florissant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63036,
+    "latitude": 37.89192,
+    "longitude": -90.38,
+    "city": "French Village",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63037,
+    "latitude": 38.417801,
+    "longitude": -91.313644,
+    "city": "Gerald",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63038,
+    "latitude": 38.587752,
+    "longitude": -90.663876,
+    "city": "Glencoe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63039,
+    "latitude": 38.474458,
+    "longitude": -90.824377,
+    "city": "Gray Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63040,
+    "latitude": 38.566718,
+    "longitude": -90.630975,
+    "city": "Grover",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63041,
+    "latitude": 38.283477,
+    "longitude": -90.761238,
+    "city": "Grubville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63042,
+    "latitude": 38.7844,
+    "longitude": -90.399166,
+    "city": "Hazelwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63043,
+    "latitude": 38.723951,
+    "longitude": -90.447418,
+    "city": "Maryland Heights",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63044,
+    "latitude": 38.7514,
+    "longitude": -90.411542,
+    "city": "Bridgeton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63045,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Earth City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63047,
+    "latitude": 38.194104,
+    "longitude": -90.472495,
+    "city": "Hematite",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63048,
+    "latitude": 38.262482,
+    "longitude": -90.38961,
+    "city": "Herculaneum",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63049,
+    "latitude": 38.456203,
+    "longitude": -90.551323,
+    "city": "High Ridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63050,
+    "latitude": 38.308596,
+    "longitude": -90.524641,
+    "city": "Hillsboro",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63051,
+    "latitude": 38.250874,
+    "longitude": -90.603575,
+    "city": "House Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63052,
+    "latitude": 38.406865,
+    "longitude": -90.438051,
+    "city": "Imperial",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63053,
+    "latitude": 38.252726,
+    "longitude": -90.514875,
+    "city": "Kimmswick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63055,
+    "latitude": 38.483372,
+    "longitude": -91.006293,
+    "city": "Labadie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63056,
+    "latitude": 38.455547,
+    "longitude": -91.232805,
+    "city": "Leslie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63057,
+    "latitude": 38.341918,
+    "longitude": -90.408223,
+    "city": "Liguori",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63060,
+    "latitude": 38.274313,
+    "longitude": -90.890278,
+    "city": "Lonedell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63061,
+    "latitude": 38.263227,
+    "longitude": -90.831198,
+    "city": "Luebbering",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63065,
+    "latitude": 38.252726,
+    "longitude": -90.514875,
+    "city": "Mapaville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63066,
+    "latitude": 38.280943,
+    "longitude": -90.652057,
+    "city": "Morse Mill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63068,
+    "latitude": 38.558487,
+    "longitude": -91.247283,
+    "city": "New Haven",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63069,
+    "latitude": 38.504462,
+    "longitude": -90.788981,
+    "city": "Pacific",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63070,
+    "latitude": 38.293157,
+    "longitude": -90.429283,
+    "city": "Pevely",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 63071,
+    "latitude": 38.062194,
+    "longitude": -90.809893,
+    "city": "Richwoods",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63072,
+    "latitude": 38.353892,
+    "longitude": -90.931777,
+    "city": "Robertsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63073,
+    "latitude": 38.527729,
+    "longitude": -91.017274,
+    "city": "Saint Albans",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63074,
+    "latitude": 38.724651,
+    "longitude": -90.389516,
+    "city": "Saint Ann",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63077,
+    "latitude": 38.363431,
+    "longitude": -90.968672,
+    "city": "Saint Clair",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63079,
+    "latitude": 38.274398,
+    "longitude": -91.085533,
+    "city": "Stanton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63080,
+    "latitude": 38.349197,
+    "longitude": -91.091755,
+    "city": "Sullivan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63084,
+    "latitude": 38.36198,
+    "longitude": -90.96706,
+    "city": "Union",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63087,
+    "latitude": 37.999797,
+    "longitude": -90.440701,
+    "city": "Valles Mines",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63088,
+    "latitude": 38.553203,
+    "longitude": -90.488896,
+    "city": "Valley Park",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63089,
+    "latitude": 38.453668,
+    "longitude": -90.889121,
+    "city": "Villa Ridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63090,
+    "latitude": 38.523478,
+    "longitude": -91.023546,
+    "city": "Washington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 63091,
+    "latitude": 38.395272,
+    "longitude": -91.406851,
+    "city": "Rosebud",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 63099,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Fenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63101,
+    "latitude": 38.631501,
+    "longitude": -90.19231,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63102,
+    "latitude": 38.6336,
+    "longitude": -90.191221,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63103,
+    "latitude": 38.629901,
+    "longitude": -90.216411,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63104,
+    "latitude": 38.611401,
+    "longitude": -90.214461,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63105,
+    "latitude": 38.645901,
+    "longitude": -90.326365,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63106,
+    "latitude": 38.644501,
+    "longitude": -90.208361,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63107,
+    "latitude": 38.66535,
+    "longitude": -90.212561,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63108,
+    "latitude": 38.644801,
+    "longitude": -90.251962,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63109,
+    "latitude": 38.581652,
+    "longitude": -90.294714,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63110,
+    "latitude": 38.625401,
+    "longitude": -90.268132,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63111,
+    "latitude": 38.559551,
+    "longitude": -90.249744,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63112,
+    "latitude": 38.663851,
+    "longitude": -90.281813,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63113,
+    "latitude": 38.630051,
+    "longitude": -90.253212,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63114,
+    "latitude": 38.702301,
+    "longitude": -90.364365,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63115,
+    "latitude": 38.6772,
+    "longitude": -90.241962,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63116,
+    "latitude": 38.581401,
+    "longitude": -90.268563,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63117,
+    "latitude": 38.629452,
+    "longitude": -90.334215,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63118,
+    "latitude": 38.593751,
+    "longitude": -90.222012,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63119,
+    "latitude": 38.589302,
+    "longitude": -90.348116,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63120,
+    "latitude": 38.6901,
+    "longitude": -90.259212,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63121,
+    "latitude": 38.70715,
+    "longitude": -90.305463,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63122,
+    "latitude": 38.578052,
+    "longitude": -90.42563,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63123,
+    "latitude": 38.547552,
+    "longitude": -90.324115,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63124,
+    "latitude": 38.637201,
+    "longitude": -90.377566,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63125,
+    "latitude": 38.522152,
+    "longitude": -90.302115,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63126,
+    "latitude": 38.549452,
+    "longitude": -90.381069,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63127,
+    "latitude": 38.535503,
+    "longitude": -90.407018,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63128,
+    "latitude": 38.491503,
+    "longitude": -90.377167,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63129,
+    "latitude": 38.456553,
+    "longitude": -90.328212,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63130,
+    "latitude": 38.666851,
+    "longitude": -90.322514,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63131,
+    "latitude": 38.617102,
+    "longitude": -90.450368,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63132,
+    "latitude": 38.674601,
+    "longitude": -90.374716,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63133,
+    "latitude": 38.678651,
+    "longitude": -90.305113,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63134,
+    "latitude": 38.74355,
+    "longitude": -90.340964,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63135,
+    "latitude": 38.74965,
+    "longitude": -90.301213,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63136,
+    "latitude": 38.7196,
+    "longitude": -90.269962,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63137,
+    "latitude": 38.746799,
+    "longitude": -90.213103,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63138,
+    "latitude": 38.803299,
+    "longitude": -90.20651,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63139,
+    "latitude": 38.613501,
+    "longitude": -90.291814,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63140,
+    "latitude": 38.73745,
+    "longitude": -90.326464,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63141,
+    "latitude": 38.656502,
+    "longitude": -90.454219,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63143,
+    "latitude": 38.611099,
+    "longitude": -90.322475,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63144,
+    "latitude": 38.618152,
+    "longitude": -90.348865,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63145,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63146,
+    "latitude": 38.703251,
+    "longitude": -90.461818,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63147,
+    "latitude": 38.6774,
+    "longitude": -90.21968,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63150,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63151,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63155,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63156,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63157,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63158,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63160,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63163,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63164,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63166,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63167,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63169,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63171,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63177,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63178,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63179,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63180,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63182,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63188,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63190,
+    "latitude": "",
+    "longitude": "",
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63195,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63196,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63197,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63198,
+    "latitude": 38.638318,
+    "longitude": -90.427118,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 63199,
+    "latitude": 38.6531,
+    "longitude": -90.243462,
+    "city": "Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Louis City"
+  },
+  {
+    "zip_code": 63301,
+    "latitude": 38.754788,
+    "longitude": -90.613131,
+    "city": "Saint Charles",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63302,
+    "latitude": 38.581299,
+    "longitude": -90.872987,
+    "city": "Saint Charles",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63303,
+    "latitude": 38.759034,
+    "longitude": -90.595151,
+    "city": "Saint Charles",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63304,
+    "latitude": 38.731527,
+    "longitude": -90.704616,
+    "city": "Saint Charles",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63330,
+    "latitude": 39.253624,
+    "longitude": -90.814756,
+    "city": "Annada",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63332,
+    "latitude": 38.619089,
+    "longitude": -90.880321,
+    "city": "Augusta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63333,
+    "latitude": 39.03433,
+    "longitude": -91.33188,
+    "city": "Bellflower",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63334,
+    "latitude": 39.316369,
+    "longitude": -91.174859,
+    "city": "Bowling Green",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63336,
+    "latitude": 39.331503,
+    "longitude": -90.950068,
+    "city": "Clarksville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63338,
+    "latitude": 38.750949,
+    "longitude": -90.536784,
+    "city": "Cottleville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63339,
+    "latitude": 39.333342,
+    "longitude": -91.197593,
+    "city": "Curryville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63341,
+    "latitude": 38.663411,
+    "longitude": -90.841195,
+    "city": "Defiance",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63342,
+    "latitude": 38.605967,
+    "longitude": -90.996216,
+    "city": "Dutzow",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 63343,
+    "latitude": 39.121393,
+    "longitude": -90.848269,
+    "city": "Elsberry",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63344,
+    "latitude": 39.280278,
+    "longitude": -90.980854,
+    "city": "Eolia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63345,
+    "latitude": 39.270895,
+    "longitude": -91.557429,
+    "city": "Farber",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 63346,
+    "latitude": 38.750949,
+    "longitude": -90.536784,
+    "city": "Flinthill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63347,
+    "latitude": 39.081579,
+    "longitude": -90.795683,
+    "city": "Foley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63348,
+    "latitude": 38.777039,
+    "longitude": -90.916101,
+    "city": "Foristell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63349,
+    "latitude": 38.980781,
+    "longitude": -91.127211,
+    "city": "Hawk Point",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63350,
+    "latitude": 38.909013,
+    "longitude": -91.372292,
+    "city": "High Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63351,
+    "latitude": 38.896897,
+    "longitude": -91.326207,
+    "city": "Jonesburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63352,
+    "latitude": 39.243096,
+    "longitude": -91.66077,
+    "city": "Laddonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 63353,
+    "latitude": 39.440073,
+    "longitude": -91.088401,
+    "city": "Louisiana",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63357,
+    "latitude": 38.651157,
+    "longitude": -91.151576,
+    "city": "Marthasville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 63359,
+    "latitude": 39.104548,
+    "longitude": -91.382863,
+    "city": "Middletown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63361,
+    "latitude": 38.94604,
+    "longitude": -91.472754,
+    "city": "Montgomery City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63362,
+    "latitude": 38.948248,
+    "longitude": -90.913818,
+    "city": "Moscow Mills",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63363,
+    "latitude": 38.892612,
+    "longitude": -91.453372,
+    "city": "New Florence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63365,
+    "latitude": 38.716287,
+    "longitude": -90.875127,
+    "city": "New Melle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63366,
+    "latitude": 38.823944,
+    "longitude": -90.742745,
+    "city": "O Fallon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63367,
+    "latitude": 38.791341,
+    "longitude": -90.74284,
+    "city": "Lake Saint Louis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63369,
+    "latitude": 38.94773,
+    "longitude": -90.8106,
+    "city": "Old Monroe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63370,
+    "latitude": 39.077584,
+    "longitude": -91.231719,
+    "city": "Olney",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63373,
+    "latitude": 38.92592,
+    "longitude": -90.38632,
+    "city": "Portage Des Sioux",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63376,
+    "latitude": 38.798819,
+    "longitude": -90.623673,
+    "city": "Saint Peters",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63377,
+    "latitude": 39.076463,
+    "longitude": -90.996268,
+    "city": "Silex",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63378,
+    "latitude": 38.770187,
+    "longitude": -91.188586,
+    "city": "Treloar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 63379,
+    "latitude": 39.016299,
+    "longitude": -90.940268,
+    "city": "Troy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63381,
+    "latitude": 39.022137,
+    "longitude": -90.996785,
+    "city": "Truxton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63382,
+    "latitude": 39.251403,
+    "longitude": -91.530807,
+    "city": "Vandalia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 63383,
+    "latitude": 38.808454,
+    "longitude": -91.2166,
+    "city": "Warrenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 63384,
+    "latitude": 39.073061,
+    "longitude": -91.533545,
+    "city": "Wellsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 63385,
+    "latitude": 38.79067,
+    "longitude": -90.852228,
+    "city": "Wentzville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63386,
+    "latitude": 38.83275,
+    "longitude": -90.403416,
+    "city": "West Alton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Charles"
+  },
+  {
+    "zip_code": 63387,
+    "latitude": 39.185508,
+    "longitude": -91.022733,
+    "city": "Whiteside",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63388,
+    "latitude": 38.887421,
+    "longitude": -91.768887,
+    "city": "Williamsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 63389,
+    "latitude": 39.058354,
+    "longitude": -90.850945,
+    "city": "Winfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 63390,
+    "latitude": 38.797733,
+    "longitude": -91.048471,
+    "city": "Wright City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 63401,
+    "latitude": 39.736986,
+    "longitude": -91.45683,
+    "city": "Hannibal",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 63430,
+    "latitude": 40.357643,
+    "longitude": -91.45886,
+    "city": "Alexandria",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63431,
+    "latitude": 39.742779,
+    "longitude": -92.327977,
+    "city": "Anabel",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63432,
+    "latitude": 40.453333,
+    "longitude": -92.1474,
+    "city": "Arbela",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scotland"
+  },
+  {
+    "zip_code": 63433,
+    "latitude": 39.56103,
+    "longitude": -91.184425,
+    "city": "Ashburn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63434,
+    "latitude": 39.779288,
+    "longitude": -92.069741,
+    "city": "Bethel",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63435,
+    "latitude": 40.107512,
+    "longitude": -91.705811,
+    "city": "Canton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63436,
+    "latitude": 39.508451,
+    "longitude": -91.53793,
+    "city": "Center",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ralls"
+  },
+  {
+    "zip_code": 63437,
+    "latitude": 39.74294,
+    "longitude": -92.26344,
+    "city": "Clarence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63438,
+    "latitude": 39.975702,
+    "longitude": -91.665056,
+    "city": "Durham",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63439,
+    "latitude": 39.779288,
+    "longitude": -92.069741,
+    "city": "Emden",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63440,
+    "latitude": 40.008146,
+    "longitude": -91.710266,
+    "city": "Ewing",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63441,
+    "latitude": 39.466564,
+    "longitude": -91.332846,
+    "city": "Frankford",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 63442,
+    "latitude": 40.453333,
+    "longitude": -92.1474,
+    "city": "Granger",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scotland"
+  },
+  {
+    "zip_code": 63443,
+    "latitude": 39.667948,
+    "longitude": -91.858547,
+    "city": "Hunnewell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63445,
+    "latitude": 40.41361,
+    "longitude": -91.659318,
+    "city": "Kahoka",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63446,
+    "latitude": 40.126767,
+    "longitude": -92.147994,
+    "city": "Knox City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63447,
+    "latitude": 40.114981,
+    "longitude": -91.915396,
+    "city": "La Belle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63448,
+    "latitude": 40.059903,
+    "longitude": -91.705042,
+    "city": "La Grange",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63450,
+    "latitude": 39.779288,
+    "longitude": -92.069741,
+    "city": "Lentner",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63451,
+    "latitude": 39.90938,
+    "longitude": -92.206724,
+    "city": "Leonard",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63452,
+    "latitude": 40.084114,
+    "longitude": -91.813451,
+    "city": "Lewistown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63453,
+    "latitude": 40.431201,
+    "longitude": -91.685103,
+    "city": "Luray",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63454,
+    "latitude": 39.903389,
+    "longitude": -91.654578,
+    "city": "Maywood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 63456,
+    "latitude": 39.624018,
+    "longitude": -91.762318,
+    "city": "Monroe City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 63457,
+    "latitude": 40.090883,
+    "longitude": -91.68774,
+    "city": "Monticello",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63458,
+    "latitude": 40.126767,
+    "longitude": -92.147994,
+    "city": "Newark",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63459,
+    "latitude": 39.582974,
+    "longitude": -91.382389,
+    "city": "New London",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ralls"
+  },
+  {
+    "zip_code": 63460,
+    "latitude": 40.126767,
+    "longitude": -92.147994,
+    "city": "Novelty",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63461,
+    "latitude": 39.794531,
+    "longitude": -91.609424,
+    "city": "Palmyra",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 63462,
+    "latitude": 39.422833,
+    "longitude": -91.623364,
+    "city": "Perry",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ralls"
+  },
+  {
+    "zip_code": 63463,
+    "latitude": 39.82473,
+    "longitude": -91.738022,
+    "city": "Philadelphia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 63464,
+    "latitude": 40.126767,
+    "longitude": -92.147994,
+    "city": "Plevna",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63465,
+    "latitude": 40.45696,
+    "longitude": -91.695843,
+    "city": "Revere",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63466,
+    "latitude": 40.431201,
+    "longitude": -91.685103,
+    "city": "Saint Patrick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63467,
+    "latitude": 39.650045,
+    "longitude": -91.270502,
+    "city": "Saverton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ralls"
+  },
+  {
+    "zip_code": 63468,
+    "latitude": 39.739181,
+    "longitude": -92.067449,
+    "city": "Shelbina",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63469,
+    "latitude": 39.778816,
+    "longitude": -92.075059,
+    "city": "Shelbyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 63471,
+    "latitude": 39.913861,
+    "longitude": -91.541024,
+    "city": "Taylor",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 63472,
+    "latitude": 40.372995,
+    "longitude": -91.61903,
+    "city": "Wayland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63473,
+    "latitude": 40.101236,
+    "longitude": -91.694121,
+    "city": "Williamstown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 63474,
+    "latitude": 40.392193,
+    "longitude": -91.925945,
+    "city": "Wyaconda",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 63501,
+    "latitude": 40.165717,
+    "longitude": -92.609514,
+    "city": "Kirksville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 63530,
+    "latitude": 39.896469,
+    "longitude": -92.46348,
+    "city": "Atlanta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63531,
+    "latitude": 40.149624,
+    "longitude": -92.303293,
+    "city": "Baring",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63532,
+    "latitude": 39.752572,
+    "longitude": -92.576944,
+    "city": "Bevier",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63533,
+    "latitude": 40.149263,
+    "longitude": -92.378005,
+    "city": "Brashear",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 63534,
+    "latitude": 39.740612,
+    "longitude": -92.644013,
+    "city": "Callao",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63535,
+    "latitude": 40.47037,
+    "longitude": -92.535566,
+    "city": "Coatsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 63536,
+    "latitude": 40.47037,
+    "longitude": -92.535566,
+    "city": "Downing",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 63537,
+    "latitude": 40.161431,
+    "longitude": -92.233699,
+    "city": "Edina",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63538,
+    "latitude": 39.96045,
+    "longitude": -92.684957,
+    "city": "Elmer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63539,
+    "latitude": 39.934265,
+    "longitude": -92.768069,
+    "city": "Ethel",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63540,
+    "latitude": 40.191837,
+    "longitude": -92.600838,
+    "city": "Gibbs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 63541,
+    "latitude": 40.47037,
+    "longitude": -92.535566,
+    "city": "Glenwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 63543,
+    "latitude": 40.453333,
+    "longitude": -92.1474,
+    "city": "Gorin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scotland"
+  },
+  {
+    "zip_code": 63544,
+    "latitude": 40.245907,
+    "longitude": -92.872023,
+    "city": "Green Castle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 63545,
+    "latitude": 40.218108,
+    "longitude": -92.945787,
+    "city": "Green City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 63546,
+    "latitude": 40.271035,
+    "longitude": -92.438547,
+    "city": "Greentop",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 63547,
+    "latitude": 40.155779,
+    "longitude": -92.23384,
+    "city": "Hurdland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 63548,
+    "latitude": 40.47037,
+    "longitude": -92.535566,
+    "city": "Lancaster",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 63549,
+    "latitude": 39.988763,
+    "longitude": -92.531207,
+    "city": "La Plata",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63551,
+    "latitude": 40.465883,
+    "longitude": -93.019815,
+    "city": "Livonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 63552,
+    "latitude": 39.773979,
+    "longitude": -92.451742,
+    "city": "Macon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63555,
+    "latitude": 40.460129,
+    "longitude": -92.198203,
+    "city": "Memphis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scotland"
+  },
+  {
+    "zip_code": 63556,
+    "latitude": 40.166282,
+    "longitude": -93.120132,
+    "city": "Milan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 63557,
+    "latitude": 39.897218,
+    "longitude": -92.983838,
+    "city": "New Boston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 63558,
+    "latitude": 39.779466,
+    "longitude": -92.757639,
+    "city": "New Cambria",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 63559,
+    "latitude": 40.254906,
+    "longitude": -92.705779,
+    "city": "Novinger",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 63560,
+    "latitude": 40.358563,
+    "longitude": -93.080651,
+    "city": "Pollock",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 63561,
+    "latitude": 40.409719,
+    "longitude": -92.569221,
+    "city": "Queen City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Schuyler"
+  },
+  {
+    "zip_code": 63563,
+    "latitude": 40.306854,
+    "longitude": -92.085363,
+    "city": "Rutledge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scotland"
+  },
+  {
+    "zip_code": 63565,
+    "latitude": 40.50952,
+    "longitude": -93.012329,
+    "city": "Unionville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 63566,
+    "latitude": 40.209765,
+    "longitude": -93.111314,
+    "city": "Winigan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 63567,
+    "latitude": 40.465883,
+    "longitude": -93.019815,
+    "city": "Worthington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 63601,
+    "latitude": 37.849808,
+    "longitude": -90.488486,
+    "city": "Park Hills",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63620,
+    "latitude": 37.4913,
+    "longitude": -90.6646,
+    "city": "Annapolis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63621,
+    "latitude": 37.60362,
+    "longitude": -90.634928,
+    "city": "Arcadia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63622,
+    "latitude": 37.789859,
+    "longitude": -90.846322,
+    "city": "Belgrade",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63623,
+    "latitude": 37.665689,
+    "longitude": -90.898189,
+    "city": "Belleview",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63624,
+    "latitude": 37.753919,
+    "longitude": -90.59839,
+    "city": "Bismarck",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63625,
+    "latitude": 37.327153,
+    "longitude": -91.024337,
+    "city": "Black",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63626,
+    "latitude": 38.054424,
+    "longitude": -90.627911,
+    "city": "Blackwell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63627,
+    "latitude": 38.023217,
+    "longitude": -90.252806,
+    "city": "Bloomsdale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sainte Genevieve"
+  },
+  {
+    "zip_code": 63628,
+    "latitude": 37.879195,
+    "longitude": -90.487988,
+    "city": "Bonne Terre",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63629,
+    "latitude": 37.45584,
+    "longitude": -91.207476,
+    "city": "Bunker",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63630,
+    "latitude": 38.018265,
+    "longitude": -90.728895,
+    "city": "Cadet",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63631,
+    "latitude": 37.77726,
+    "longitude": -90.809566,
+    "city": "Caledonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63632,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Cascade",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63633,
+    "latitude": 37.240134,
+    "longitude": -90.966089,
+    "city": "Centerville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63636,
+    "latitude": 37.505462,
+    "longitude": -90.845047,
+    "city": "Des Arc",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63637,
+    "latitude": 37.718886,
+    "longitude": -90.529447,
+    "city": "Doe Run",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63638,
+    "latitude": 37.232968,
+    "longitude": -90.969767,
+    "city": "Ellington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63640,
+    "latitude": 37.785545,
+    "longitude": -90.443298,
+    "city": "Farmington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63645,
+    "latitude": 37.490565,
+    "longitude": -90.336244,
+    "city": "Fredericktown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 63646,
+    "latitude": 37.505462,
+    "longitude": -90.845047,
+    "city": "Glover",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63648,
+    "latitude": 37.82135,
+    "longitude": -90.692287,
+    "city": "Irondale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63650,
+    "latitude": 37.616808,
+    "longitude": -90.598469,
+    "city": "Ironton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63651,
+    "latitude": 37.675442,
+    "longitude": -90.367713,
+    "city": "Knob Lick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63653,
+    "latitude": 37.857721,
+    "longitude": -90.587889,
+    "city": "Leadwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Francois"
+  },
+  {
+    "zip_code": 63654,
+    "latitude": 37.327153,
+    "longitude": -91.024337,
+    "city": "Lesterville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63655,
+    "latitude": 37.413591,
+    "longitude": -90.236118,
+    "city": "Marquand",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 63656,
+    "latitude": 37.505462,
+    "longitude": -90.845047,
+    "city": "Middle Brook",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63660,
+    "latitude": 37.936112,
+    "longitude": -90.742423,
+    "city": "Mineral Point",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63661,
+    "latitude": 37.89872,
+    "longitude": -90.191972,
+    "city": "New Offenburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sainte Genevieve"
+  },
+  {
+    "zip_code": 63662,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Patton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63663,
+    "latitude": 37.617092,
+    "longitude": -90.612259,
+    "city": "Pilot Knob",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63664,
+    "latitude": 37.98535,
+    "longitude": -90.820073,
+    "city": "Potosi",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63665,
+    "latitude": 37.327153,
+    "longitude": -91.024337,
+    "city": "Redford",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63666,
+    "latitude": 37.327153,
+    "longitude": -91.024337,
+    "city": "Reynolds",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Reynolds"
+  },
+  {
+    "zip_code": 63670,
+    "latitude": 37.865528,
+    "longitude": -90.175244,
+    "city": "Sainte Genevieve",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sainte Genevieve"
+  },
+  {
+    "zip_code": 63673,
+    "latitude": 37.819949,
+    "longitude": -90.016922,
+    "city": "Saint Mary",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sainte Genevieve"
+  },
+  {
+    "zip_code": 63674,
+    "latitude": 37.970441,
+    "longitude": -90.870001,
+    "city": "Tiff",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 63675,
+    "latitude": 37.505462,
+    "longitude": -90.845047,
+    "city": "Vulcan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 63701,
+    "latitude": 37.341398,
+    "longitude": -89.611016,
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63702,
+    "latitude": 37.350624,
+    "longitude": -89.509405,
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63703,
+    "latitude": 37.284366,
+    "longitude": -89.571485,
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63705,
+    "latitude": 37.366166,
+    "longitude": -89.643941,
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63730,
+    "latitude": 37.001191,
+    "longitude": -90.033351,
+    "city": "Advance",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63732,
+    "latitude": 37.627908,
+    "longitude": -89.574503,
+    "city": "Altenburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63735,
+    "latitude": 36.992886,
+    "longitude": -89.789402,
+    "city": "Bell City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63736,
+    "latitude": 37.025936,
+    "longitude": -89.538588,
+    "city": "Benton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63737,
+    "latitude": 37.663253,
+    "longitude": -89.652912,
+    "city": "Brazeau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63738,
+    "latitude": 37.082824,
+    "longitude": -89.952257,
+    "city": "Brownwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63739,
+    "latitude": 37.353526,
+    "longitude": -89.793056,
+    "city": "Burfordville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63740,
+    "latitude": 37.151512,
+    "longitude": -89.610468,
+    "city": "Chaffee",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63742,
+    "latitude": 37.156982,
+    "longitude": -89.448389,
+    "city": "Commerce",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63743,
+    "latitude": 37.515722,
+    "longitude": -89.826775,
+    "city": "Daisy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63744,
+    "latitude": 37.197279,
+    "longitude": -89.739429,
+    "city": "Delta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63745,
+    "latitude": 37.24237,
+    "longitude": -89.69768,
+    "city": "Dutchtown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63746,
+    "latitude": 37.734776,
+    "longitude": -89.811616,
+    "city": "Farrar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63747,
+    "latitude": 37.516792,
+    "longitude": -89.815114,
+    "city": "Friedheim",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63748,
+    "latitude": 37.66,
+    "longitude": -89.616248,
+    "city": "Frohna",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63750,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Gipsy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63751,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Glenallen",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63752,
+    "latitude": 37.30925,
+    "longitude": -89.69889,
+    "city": "Gordonville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63753,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Grassy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63755,
+    "latitude": 37.434218,
+    "longitude": -89.634617,
+    "city": "Jackson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63758,
+    "latitude": 37.185801,
+    "longitude": -89.557524,
+    "city": "Kelso",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63760,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Leopold",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63763,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Mc Gee",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63764,
+    "latitude": 37.306063,
+    "longitude": -89.982306,
+    "city": "Marble Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63766,
+    "latitude": 37.437333,
+    "longitude": -89.810954,
+    "city": "Millersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63767,
+    "latitude": 37.041104,
+    "longitude": -89.607642,
+    "city": "Morley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63769,
+    "latitude": 37.514047,
+    "longitude": -89.752719,
+    "city": "Oak Ridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63770,
+    "latitude": 37.589021,
+    "longitude": -89.679373,
+    "city": "Old Appleton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63771,
+    "latitude": 37.056528,
+    "longitude": -89.670685,
+    "city": "Oran",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63772,
+    "latitude": 37.04613,
+    "longitude": -89.779248,
+    "city": "Painton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63774,
+    "latitude": 37.056383,
+    "longitude": -89.549853,
+    "city": "Perkins",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63775,
+    "latitude": 37.727156,
+    "longitude": -89.862749,
+    "city": "Perryville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63776,
+    "latitude": 37.734776,
+    "longitude": -89.811616,
+    "city": "Mc Bride",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63779,
+    "latitude": 37.500656,
+    "longitude": -89.639595,
+    "city": "Pocahontas",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63780,
+    "latitude": 37.060767,
+    "longitude": -89.55001,
+    "city": "Scott City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63781,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Sedgewickville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63782,
+    "latitude": 37.319652,
+    "longitude": -90.04218,
+    "city": "Sturdivant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63783,
+    "latitude": 37.628496,
+    "longitude": -89.688532,
+    "city": "Uniontown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 63784,
+    "latitude": 36.991187,
+    "longitude": -89.688469,
+    "city": "Vanduser",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63785,
+    "latitude": 37.278096,
+    "longitude": -89.806091,
+    "city": "Whitewater",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cape Girardeau"
+  },
+  {
+    "zip_code": 63787,
+    "latitude": 37.119918,
+    "longitude": -90.088925,
+    "city": "Zalma",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bollinger"
+  },
+  {
+    "zip_code": 63801,
+    "latitude": 37.027479,
+    "longitude": -89.563988,
+    "city": "Sikeston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63820,
+    "latitude": 36.822596,
+    "longitude": -89.346154,
+    "city": "Anniston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63821,
+    "latitude": 36.064878,
+    "longitude": -90.229246,
+    "city": "Arbyrd",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63822,
+    "latitude": 36.67072,
+    "longitude": -89.996555,
+    "city": "Bernie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63823,
+    "latitude": 36.879394,
+    "longitude": -89.369007,
+    "city": "Bertrand",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63824,
+    "latitude": 37.004204,
+    "longitude": -89.526567,
+    "city": "Blodgett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 63825,
+    "latitude": 36.917174,
+    "longitude": -89.920641,
+    "city": "Bloomfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63826,
+    "latitude": 36.178122,
+    "longitude": -89.671646,
+    "city": "Braggadocio",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63827,
+    "latitude": 36.269702,
+    "longitude": -89.872827,
+    "city": "Bragg City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63828,
+    "latitude": 36.685031,
+    "longitude": -89.748273,
+    "city": "Canalou",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63829,
+    "latitude": 36.066896,
+    "longitude": -90.257353,
+    "city": "Cardwell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63830,
+    "latitude": 36.145823,
+    "longitude": -89.699719,
+    "city": "Caruthersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63833,
+    "latitude": 36.62761,
+    "longitude": -89.74355,
+    "city": "Catron",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63834,
+    "latitude": 36.885612,
+    "longitude": -89.296639,
+    "city": "Charleston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63837,
+    "latitude": 36.297884,
+    "longitude": -90.058362,
+    "city": "Clarkton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63838,
+    "latitude": 36.603844,
+    "longitude": -89.650005,
+    "city": "Conran",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63839,
+    "latitude": 36.047566,
+    "longitude": -89.809116,
+    "city": "Cooter",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63840,
+    "latitude": 36.213318,
+    "longitude": -89.748102,
+    "city": "Deering",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63841,
+    "latitude": 36.882467,
+    "longitude": -89.98146,
+    "city": "Dexter",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63845,
+    "latitude": 36.758552,
+    "longitude": -89.334246,
+    "city": "East Prairie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63846,
+    "latitude": 36.809172,
+    "longitude": -89.815472,
+    "city": "Essex",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63847,
+    "latitude": 36.441318,
+    "longitude": -90.029294,
+    "city": "Gibson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63848,
+    "latitude": 36.489808,
+    "longitude": -89.774875,
+    "city": "Gideon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63849,
+    "latitude": 36.153706,
+    "longitude": -89.954388,
+    "city": "Gobler",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63850,
+    "latitude": 36.828337,
+    "longitude": -89.756518,
+    "city": "Grayridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63851,
+    "latitude": 36.257216,
+    "longitude": -89.798519,
+    "city": "Hayti",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63852,
+    "latitude": 36.383876,
+    "longitude": -89.998681,
+    "city": "Holcomb",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63853,
+    "latitude": 36.092984,
+    "longitude": -89.831121,
+    "city": "Holland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63855,
+    "latitude": 36.052985,
+    "longitude": -90.077133,
+    "city": "Hornersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63857,
+    "latitude": 36.252946,
+    "longitude": -90.127039,
+    "city": "Kennett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63860,
+    "latitude": 36.672641,
+    "longitude": -89.563896,
+    "city": "Kewanee",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63862,
+    "latitude": 36.588189,
+    "longitude": -89.700138,
+    "city": "Lilbourn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63863,
+    "latitude": 36.377184,
+    "longitude": -90.057096,
+    "city": "Malden",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63866,
+    "latitude": 36.518643,
+    "longitude": -89.646396,
+    "city": "Marston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63867,
+    "latitude": 36.715404,
+    "longitude": -89.628723,
+    "city": "Matthews",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63868,
+    "latitude": 36.850353,
+    "longitude": -89.68472,
+    "city": "Morehouse",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63869,
+    "latitude": 36.679465,
+    "longitude": -89.657159,
+    "city": "New Madrid",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63870,
+    "latitude": 36.568845,
+    "longitude": -89.85627,
+    "city": "Parma",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63871,
+    "latitude": 36.267825,
+    "longitude": -89.822514,
+    "city": "Pascola",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63873,
+    "latitude": 36.475274,
+    "longitude": -89.748064,
+    "city": "Portageville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63874,
+    "latitude": 36.678325,
+    "longitude": -89.770008,
+    "city": "Risco",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63875,
+    "latitude": 36.313319,
+    "longitude": -90.165758,
+    "city": "Rives",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63876,
+    "latitude": 36.127573,
+    "longitude": -90.18349,
+    "city": "Senath",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63877,
+    "latitude": 36.177001,
+    "longitude": -89.860675,
+    "city": "Steele",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63878,
+    "latitude": 36.603844,
+    "longitude": -89.650005,
+    "city": "Tallapoosa",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "New Madrid"
+  },
+  {
+    "zip_code": 63879,
+    "latitude": 36.347807,
+    "longitude": -89.818059,
+    "city": "Wardell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pemiscot"
+  },
+  {
+    "zip_code": 63880,
+    "latitude": 36.313319,
+    "longitude": -90.165758,
+    "city": "Whiteoak",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63881,
+    "latitude": 36.779519,
+    "longitude": -89.206329,
+    "city": "Wolf Island",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63882,
+    "latitude": 36.93603,
+    "longitude": -89.216333,
+    "city": "Wyatt",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mississippi"
+  },
+  {
+    "zip_code": 63901,
+    "latitude": 36.778764,
+    "longitude": -90.440688,
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63902,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63931,
+    "latitude": 36.66101,
+    "longitude": -90.850785,
+    "city": "Briar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63932,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Broseley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63933,
+    "latitude": 36.492269,
+    "longitude": -90.048069,
+    "city": "Campbell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dunklin"
+  },
+  {
+    "zip_code": 63934,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Clubb",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63935,
+    "latitude": 36.650121,
+    "longitude": -90.810644,
+    "city": "Doniphan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63936,
+    "latitude": 36.824646,
+    "longitude": -90.12135,
+    "city": "Dudley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63937,
+    "latitude": 36.934404,
+    "longitude": -90.746313,
+    "city": "Ellsinore",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 63938,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Fagus",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63939,
+    "latitude": 36.66101,
+    "longitude": -90.850785,
+    "city": "Fairdealing",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63940,
+    "latitude": 36.782328,
+    "longitude": -90.207712,
+    "city": "Fisk",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63941,
+    "latitude": 36.920383,
+    "longitude": -91.099461,
+    "city": "Fremont",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 63942,
+    "latitude": 36.66101,
+    "longitude": -90.850785,
+    "city": "Gatewood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63943,
+    "latitude": 36.955926,
+    "longitude": -90.943027,
+    "city": "Grandin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 63944,
+    "latitude": 37.126875,
+    "longitude": -90.450586,
+    "city": "Greenville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63945,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Harviell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63947,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Hiram",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63950,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Lodi",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63951,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Lowndes",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63952,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Mill Spring",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63953,
+    "latitude": 36.66101,
+    "longitude": -90.850785,
+    "city": "Naylor",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63954,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Neelyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63955,
+    "latitude": 36.66101,
+    "longitude": -90.850785,
+    "city": "Oxly",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 63956,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Patterson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63957,
+    "latitude": 37.148461,
+    "longitude": -90.574279,
+    "city": "Piedmont",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63960,
+    "latitude": 36.978223,
+    "longitude": -90.081609,
+    "city": "Puxico",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stoddard"
+  },
+  {
+    "zip_code": 63961,
+    "latitude": 36.588977,
+    "longitude": -90.264918,
+    "city": "Qulin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63962,
+    "latitude": 36.712451,
+    "longitude": -90.407013,
+    "city": "Rombauer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 63963,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Shook",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63964,
+    "latitude": 37.207287,
+    "longitude": -90.419576,
+    "city": "Silva",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63965,
+    "latitude": 36.922108,
+    "longitude": -91.052088,
+    "city": "Van Buren",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 63966,
+    "latitude": 36.974454,
+    "longitude": -90.277511,
+    "city": "Wappapello",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 63967,
+    "latitude": 37.119566,
+    "longitude": -90.444953,
+    "city": "Williamsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 64001,
+    "latitude": 39.105644,
+    "longitude": -93.590916,
+    "city": "Alma",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64011,
+    "latitude": 38.974639,
+    "longitude": -94.063718,
+    "city": "Bates City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64012,
+    "latitude": 38.784041,
+    "longitude": -94.532397,
+    "city": "Belton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64013,
+    "latitude": 38.964518,
+    "longitude": -94.370275,
+    "city": "Blue Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64014,
+    "latitude": 39.00569,
+    "longitude": -94.252933,
+    "city": "Blue Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64015,
+    "latitude": 39.01504,
+    "longitude": -94.311776,
+    "city": "Blue Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64016,
+    "latitude": 39.113263,
+    "longitude": -94.211568,
+    "city": "Buckner",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64017,
+    "latitude": 39.260591,
+    "longitude": -94.10539,
+    "city": "Camden",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64018,
+    "latitude": 39.396278,
+    "longitude": -94.725832,
+    "city": "Camden Point",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64019,
+    "latitude": 38.77934,
+    "longitude": -93.928302,
+    "city": "Centerview",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64020,
+    "latitude": 39.015918,
+    "longitude": -93.59571,
+    "city": "Concordia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64021,
+    "latitude": 39.118071,
+    "longitude": -93.61919,
+    "city": "Corder",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64022,
+    "latitude": 39.100752,
+    "longitude": -93.795752,
+    "city": "Dover",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64024,
+    "latitude": 39.332601,
+    "longitude": -94.274632,
+    "city": "Excelsior Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64028,
+    "latitude": 39.283928,
+    "longitude": -94.830159,
+    "city": "Farley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64029,
+    "latitude": 38.984966,
+    "longitude": -94.193874,
+    "city": "Grain Valley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64030,
+    "latitude": 38.876107,
+    "longitude": -94.527063,
+    "city": "Grandview",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64034,
+    "latitude": 38.86436,
+    "longitude": -94.281453,
+    "city": "Greenwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64035,
+    "latitude": 39.315365,
+    "longitude": -93.849333,
+    "city": "Hardin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64036,
+    "latitude": 39.221835,
+    "longitude": -93.938595,
+    "city": "Henrietta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64037,
+    "latitude": 39.063374,
+    "longitude": -93.74083,
+    "city": "Higginsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64040,
+    "latitude": 38.74013,
+    "longitude": -93.995995,
+    "city": "Holden",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64048,
+    "latitude": 39.333967,
+    "longitude": -94.391095,
+    "city": "Holt",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64050,
+    "latitude": 39.107798,
+    "longitude": -94.409828,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64051,
+    "latitude": 39.080369,
+    "longitude": -94.387956,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64052,
+    "latitude": 39.075554,
+    "longitude": -94.451179,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64053,
+    "latitude": 39.106204,
+    "longitude": -94.466479,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64054,
+    "latitude": 39.124904,
+    "longitude": -94.427115,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64055,
+    "latitude": 39.048523,
+    "longitude": -94.415628,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64056,
+    "latitude": 39.103572,
+    "longitude": -94.32281,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64057,
+    "latitude": 39.077509,
+    "longitude": -94.31505,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64058,
+    "latitude": 39.165267,
+    "longitude": -94.317602,
+    "city": "Independence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64060,
+    "latitude": 39.374073,
+    "longitude": -94.363191,
+    "city": "Kearney",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64061,
+    "latitude": 38.744077,
+    "longitude": -93.817661,
+    "city": "Kingsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64062,
+    "latitude": 39.443208,
+    "longitude": -94.142768,
+    "city": "Lawson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64063,
+    "latitude": 38.938517,
+    "longitude": -94.348739,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64064,
+    "latitude": 38.987374,
+    "longitude": -94.333116,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64065,
+    "latitude": 38.966641,
+    "longitude": -94.392885,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64066,
+    "latitude": 39.129238,
+    "longitude": -94.133715,
+    "city": "Levasy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64067,
+    "latitude": 39.14086,
+    "longitude": -93.849284,
+    "city": "Lexington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64068,
+    "latitude": 39.298945,
+    "longitude": -94.436314,
+    "city": "Liberty",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64069,
+    "latitude": 39.282869,
+    "longitude": -94.408998,
+    "city": "Liberty",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64070,
+    "latitude": 38.894304,
+    "longitude": -94.168262,
+    "city": "Lone Jack",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64071,
+    "latitude": 39.020768,
+    "longitude": -93.758998,
+    "city": "Mayview",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64072,
+    "latitude": 39.245755,
+    "longitude": -94.292406,
+    "city": "Missouri City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64073,
+    "latitude": 39.314899,
+    "longitude": -94.293888,
+    "city": "Mosby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64074,
+    "latitude": 39.037902,
+    "longitude": -94.038529,
+    "city": "Napoleon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64075,
+    "latitude": 39.040656,
+    "longitude": -94.238045,
+    "city": "Oak Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64076,
+    "latitude": 39.020995,
+    "longitude": -93.820021,
+    "city": "Odessa",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64077,
+    "latitude": 39.234415,
+    "longitude": -94.024126,
+    "city": "Orrick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64078,
+    "latitude": 38.715254,
+    "longitude": -94.472568,
+    "city": "Peculiar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64079,
+    "latitude": 39.364716,
+    "longitude": -94.780639,
+    "city": "Platte City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64080,
+    "latitude": 38.753028,
+    "longitude": -94.270505,
+    "city": "Pleasant Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64081,
+    "latitude": 38.914352,
+    "longitude": -94.400625,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64082,
+    "latitude": 38.865864,
+    "longitude": -94.405809,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64083,
+    "latitude": 38.79502,
+    "longitude": -94.435542,
+    "city": "Raymore",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64084,
+    "latitude": 39.380157,
+    "longitude": -94.068581,
+    "city": "Rayville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64085,
+    "latitude": 39.341906,
+    "longitude": -93.984387,
+    "city": "Richmond",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ray"
+  },
+  {
+    "zip_code": 64086,
+    "latitude": 38.944006,
+    "longitude": -94.288086,
+    "city": "Lees Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64087,
+    "latitude": 39.282869,
+    "longitude": -94.408998,
+    "city": "Liberty",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64088,
+    "latitude": 39.146285,
+    "longitude": -94.203996,
+    "city": "Sibley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64089,
+    "latitude": 39.38706,
+    "longitude": -94.473232,
+    "city": "Smithville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64090,
+    "latitude": 38.765833,
+    "longitude": -94.160854,
+    "city": "Strasburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64092,
+    "latitude": 39.228875,
+    "longitude": -94.805673,
+    "city": "Waldron",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64093,
+    "latitude": 38.769906,
+    "longitude": -93.811697,
+    "city": "Warrensburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64096,
+    "latitude": 39.188917,
+    "longitude": -93.586904,
+    "city": "Waverly",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64097,
+    "latitude": 39.131379,
+    "longitude": -93.992983,
+    "city": "Wellington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 64098,
+    "latitude": 39.377692,
+    "longitude": -94.928011,
+    "city": "Weston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64101,
+    "latitude": 39.102404,
+    "longitude": -94.598583,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64102,
+    "latitude": 39.091354,
+    "longitude": -94.603634,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64105,
+    "latitude": 39.102704,
+    "longitude": -94.595033,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64106,
+    "latitude": 39.105054,
+    "longitude": -94.571182,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64108,
+    "latitude": 39.083804,
+    "longitude": -94.584133,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64109,
+    "latitude": 39.066654,
+    "longitude": -94.575933,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64110,
+    "latitude": 39.032255,
+    "longitude": -94.573333,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64111,
+    "latitude": 39.057,
+    "longitude": -94.593783,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64112,
+    "latitude": 39.035705,
+    "longitude": -94.594981,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64113,
+    "latitude": 39.013805,
+    "longitude": -94.525243,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64114,
+    "latitude": 38.952273,
+    "longitude": -94.596233,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64116,
+    "latitude": 39.147932,
+    "longitude": -94.568032,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64117,
+    "latitude": 39.165103,
+    "longitude": -94.525581,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64118,
+    "latitude": 39.213348,
+    "longitude": -94.574313,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64119,
+    "latitude": 39.211552,
+    "longitude": -94.527381,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64120,
+    "latitude": 39.123203,
+    "longitude": -94.522231,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64121,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64123,
+    "latitude": 39.068154,
+    "longitude": -94.505231,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64124,
+    "latitude": 39.107504,
+    "longitude": -94.538531,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64125,
+    "latitude": 39.105836,
+    "longitude": -94.49598,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64126,
+    "latitude": 39.094904,
+    "longitude": -94.49278,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64127,
+    "latitude": 39.08833,
+    "longitude": -94.538131,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64128,
+    "latitude": 39.065454,
+    "longitude": -94.533731,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64129,
+    "latitude": 39.046404,
+    "longitude": -94.498325,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64130,
+    "latitude": 39.033712,
+    "longitude": -94.541868,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64131,
+    "latitude": 38.962543,
+    "longitude": -94.574582,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64132,
+    "latitude": 38.984205,
+    "longitude": -94.546556,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64133,
+    "latitude": 39.032319,
+    "longitude": -94.469977,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64134,
+    "latitude": 38.930506,
+    "longitude": -94.48358,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64136,
+    "latitude": 39.009602,
+    "longitude": -94.39896,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64137,
+    "latitude": 38.935256,
+    "longitude": -94.547178,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64138,
+    "latitude": 38.952842,
+    "longitude": -94.470494,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64139,
+    "latitude": 38.964815,
+    "longitude": -94.40798,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64141,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64142,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64144,
+    "latitude": 39.282869,
+    "longitude": -94.408998,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64145,
+    "latitude": 38.88057,
+    "longitude": -94.595958,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64146,
+    "latitude": 38.879006,
+    "longitude": -94.574296,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64147,
+    "latitude": 38.854895,
+    "longitude": -94.556782,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64148,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64149,
+    "latitude": 38.873543,
+    "longitude": -94.474229,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64150,
+    "latitude": 39.177602,
+    "longitude": -94.632084,
+    "city": "Riverside",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64151,
+    "latitude": 39.212702,
+    "longitude": -94.638334,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64152,
+    "latitude": 39.217552,
+    "longitude": -94.723817,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64153,
+    "latitude": 39.270474,
+    "longitude": -94.741617,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64154,
+    "latitude": 39.278393,
+    "longitude": -94.641184,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64155,
+    "latitude": 39.276001,
+    "longitude": -94.570132,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64156,
+    "latitude": 39.277706,
+    "longitude": -94.51824,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64157,
+    "latitude": 39.267855,
+    "longitude": -94.472963,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64158,
+    "latitude": 39.233302,
+    "longitude": -94.476143,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64160,
+    "latitude": 39.282869,
+    "longitude": -94.408998,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64161,
+    "latitude": 39.166079,
+    "longitude": -94.463954,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64163,
+    "latitude": 39.340159,
+    "longitude": -94.690802,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64164,
+    "latitude": 39.33035,
+    "longitude": -94.636092,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64165,
+    "latitude": 39.311252,
+    "longitude": -94.543075,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64166,
+    "latitude": 39.323206,
+    "longitude": -94.510714,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64167,
+    "latitude": 39.320008,
+    "longitude": -94.487679,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 64168,
+    "latitude": 39.343225,
+    "longitude": -94.85161,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64170,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64171,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64172,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64173,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64179,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64180,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64183,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64184,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64185,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64187,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64188,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64189,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64190,
+    "latitude": 39.343225,
+    "longitude": -94.85161,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64191,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64192,
+    "latitude": 38.953106,
+    "longitude": -94.523731,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64193,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64194,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64195,
+    "latitude": 39.343225,
+    "longitude": -94.85161,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64196,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64197,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64198,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64199,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64401,
+    "latitude": 39.631108,
+    "longitude": -94.714003,
+    "city": "Agency",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64402,
+    "latitude": 40.256596,
+    "longitude": -94.330949,
+    "city": "Albany",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64420,
+    "latitude": 40.478118,
+    "longitude": -94.423294,
+    "city": "Allendale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 64421,
+    "latitude": 39.908392,
+    "longitude": -94.923508,
+    "city": "Amazonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64422,
+    "latitude": 39.904361,
+    "longitude": -94.490744,
+    "city": "Amity",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64423,
+    "latitude": 40.266817,
+    "longitude": -94.858117,
+    "city": "Barnard",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64424,
+    "latitude": 40.258215,
+    "longitude": -94.020972,
+    "city": "Bethany",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64426,
+    "latitude": 40.510552,
+    "longitude": -93.875682,
+    "city": "Blythedale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64427,
+    "latitude": 40.095823,
+    "longitude": -94.855903,
+    "city": "Bolckow",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64428,
+    "latitude": 40.447528,
+    "longitude": -95.063022,
+    "city": "Burlington Junction",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64429,
+    "latitude": 39.649352,
+    "longitude": -94.383777,
+    "city": "Cameron",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64430,
+    "latitude": 39.827651,
+    "longitude": -94.556849,
+    "city": "Clarksdale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64431,
+    "latitude": 40.507079,
+    "longitude": -95.034077,
+    "city": "Clearmont",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64432,
+    "latitude": 40.352306,
+    "longitude": -94.900456,
+    "city": "Clyde",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64433,
+    "latitude": 40.352306,
+    "longitude": -94.900456,
+    "city": "Conception",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64434,
+    "latitude": 40.265859,
+    "longitude": -94.691489,
+    "city": "Conception Junction",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64436,
+    "latitude": 39.864915,
+    "longitude": -94.68387,
+    "city": "Cosby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64437,
+    "latitude": 40.126706,
+    "longitude": -95.329064,
+    "city": "Craig",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 64438,
+    "latitude": 40.197663,
+    "longitude": -94.397811,
+    "city": "Darlington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64439,
+    "latitude": 39.487839,
+    "longitude": -94.763263,
+    "city": "Dearborn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64440,
+    "latitude": 39.628826,
+    "longitude": -94.807989,
+    "city": "De Kalb",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64441,
+    "latitude": 40.478118,
+    "longitude": -94.423294,
+    "city": "Denver",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 64442,
+    "latitude": 40.50037,
+    "longitude": -94.013848,
+    "city": "Eagleville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64443,
+    "latitude": 39.750787,
+    "longitude": -94.657139,
+    "city": "Easton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64444,
+    "latitude": 39.464918,
+    "longitude": -94.65705,
+    "city": "Edgerton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Platte"
+  },
+  {
+    "zip_code": 64445,
+    "latitude": 40.352306,
+    "longitude": -94.900456,
+    "city": "Elmo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64446,
+    "latitude": 40.347147,
+    "longitude": -95.390747,
+    "city": "Fairfax",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 64447,
+    "latitude": 39.892645,
+    "longitude": -94.404415,
+    "city": "Fairport",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64448,
+    "latitude": 39.604946,
+    "longitude": -94.854124,
+    "city": "Faucett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64449,
+    "latitude": 40.041019,
+    "longitude": -94.971508,
+    "city": "Fillmore",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64451,
+    "latitude": 40.022472,
+    "longitude": -95.185611,
+    "city": "Forest City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 64453,
+    "latitude": 40.210903,
+    "longitude": -94.410425,
+    "city": "Gentry",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64454,
+    "latitude": 39.640606,
+    "longitude": -94.552925,
+    "city": "Gower",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64455,
+    "latitude": 40.200798,
+    "longitude": -95.039961,
+    "city": "Graham",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64456,
+    "latitude": 40.516557,
+    "longitude": -94.386821,
+    "city": "Grant City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 64457,
+    "latitude": 40.352306,
+    "longitude": -94.900456,
+    "city": "Guilford",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64458,
+    "latitude": 40.50452,
+    "longitude": -94.141837,
+    "city": "Hatfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64459,
+    "latitude": 39.912051,
+    "longitude": -94.698,
+    "city": "Helena",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64461,
+    "latitude": 40.365638,
+    "longitude": -94.815191,
+    "city": "Hopkins",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64463,
+    "latitude": 40.050583,
+    "longitude": -94.522013,
+    "city": "King City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64465,
+    "latitude": 39.609693,
+    "longitude": -94.387584,
+    "city": "Lathrop",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64466,
+    "latitude": 40.153899,
+    "longitude": -95.127221,
+    "city": "Maitland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 64467,
+    "latitude": 40.411357,
+    "longitude": -94.148382,
+    "city": "Martinsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64468,
+    "latitude": 40.277742,
+    "longitude": -94.860299,
+    "city": "Maryville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64469,
+    "latitude": 39.932762,
+    "longitude": -94.357746,
+    "city": "Maysville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64470,
+    "latitude": 40.16754,
+    "longitude": -95.230117,
+    "city": "Mound City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 64471,
+    "latitude": 40.260057,
+    "longitude": -94.178041,
+    "city": "New Hampton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64473,
+    "latitude": 39.981457,
+    "longitude": -95.092325,
+    "city": "Oregon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Holt"
+  },
+  {
+    "zip_code": 64474,
+    "latitude": 39.791179,
+    "longitude": -94.397441,
+    "city": "Osborn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64475,
+    "latitude": 40.439298,
+    "longitude": -94.62247,
+    "city": "Parnell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64476,
+    "latitude": 40.352306,
+    "longitude": -94.900456,
+    "city": "Pickering",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64477,
+    "latitude": 39.572431,
+    "longitude": -94.497237,
+    "city": "Plattsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64478,
+    "latitude": 40.287996,
+    "longitude": -95.082241,
+    "city": "Quitman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64479,
+    "latitude": 40.35257,
+    "longitude": -94.671958,
+    "city": "Ravenwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64480,
+    "latitude": 40.059384,
+    "longitude": -94.710629,
+    "city": "Rea",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64481,
+    "latitude": 40.366488,
+    "longitude": -93.935114,
+    "city": "Ridgeway",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64482,
+    "latitude": 40.411994,
+    "longitude": -95.507551,
+    "city": "Rock Port",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 64483,
+    "latitude": 40.006832,
+    "longitude": -94.837165,
+    "city": "Rosendale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64484,
+    "latitude": 39.592806,
+    "longitude": -95.037469,
+    "city": "Rushville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64485,
+    "latitude": 39.953094,
+    "longitude": -94.837827,
+    "city": "Savannah",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Andrew"
+  },
+  {
+    "zip_code": 64486,
+    "latitude": 40.517058,
+    "longitude": -94.61484,
+    "city": "Sheridan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 64487,
+    "latitude": 40.286914,
+    "longitude": -95.078313,
+    "city": "Skidmore",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Nodaway"
+  },
+  {
+    "zip_code": 64489,
+    "latitude": 40.216886,
+    "longitude": -94.539859,
+    "city": "Stanberry",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64490,
+    "latitude": 39.798435,
+    "longitude": -94.517452,
+    "city": "Stewartsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64491,
+    "latitude": 40.393783,
+    "longitude": -95.386166,
+    "city": "Tarkio",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 64492,
+    "latitude": 39.503195,
+    "longitude": -94.525232,
+    "city": "Trimble",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64493,
+    "latitude": 39.656015,
+    "longitude": -94.385893,
+    "city": "Turney",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 64494,
+    "latitude": 39.965872,
+    "longitude": -94.557711,
+    "city": "Union Star",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64496,
+    "latitude": 40.423502,
+    "longitude": -95.476036,
+    "city": "Watson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 64497,
+    "latitude": 39.927682,
+    "longitude": -94.242906,
+    "city": "Weatherby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 64498,
+    "latitude": 40.536073,
+    "longitude": -95.321135,
+    "city": "Westboro",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 64499,
+    "latitude": 40.478118,
+    "longitude": -94.423294,
+    "city": "Worth",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 64501,
+    "latitude": 39.757494,
+    "longitude": -94.836598,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64502,
+    "latitude": 39.676333,
+    "longitude": -94.857364,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64503,
+    "latitude": 39.759092,
+    "longitude": -94.800879,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64504,
+    "latitude": 39.687683,
+    "longitude": -94.899901,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64505,
+    "latitude": 39.795418,
+    "longitude": -94.823192,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64506,
+    "latitude": 39.836488,
+    "longitude": -94.81526,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64507,
+    "latitude": 39.707229,
+    "longitude": -94.725917,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64508,
+    "latitude": 39.676333,
+    "longitude": -94.857364,
+    "city": "Saint Joseph",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Buchanan"
+  },
+  {
+    "zip_code": 64601,
+    "latitude": 39.795225,
+    "longitude": -93.588876,
+    "city": "Chillicothe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64620,
+    "latitude": 39.893337,
+    "longitude": -94.090928,
+    "city": "Altamont",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64622,
+    "latitude": 39.410971,
+    "longitude": -93.431928,
+    "city": "Bogard",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64623,
+    "latitude": 39.469659,
+    "longitude": -93.337526,
+    "city": "Bosworth",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64624,
+    "latitude": 39.598991,
+    "longitude": -93.828565,
+    "city": "Braymer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64625,
+    "latitude": 39.687628,
+    "longitude": -93.876612,
+    "city": "Breckenridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64628,
+    "latitude": 39.822644,
+    "longitude": -93.116,
+    "city": "Brookfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64630,
+    "latitude": 40.008344,
+    "longitude": -93.179382,
+    "city": "Browning",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64631,
+    "latitude": 39.839738,
+    "longitude": -93.009571,
+    "city": "Bucklin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64632,
+    "latitude": 40.46136,
+    "longitude": -93.83198,
+    "city": "Cainsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 64633,
+    "latitude": 39.405818,
+    "longitude": -93.425127,
+    "city": "Carrollton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64635,
+    "latitude": 39.921825,
+    "longitude": -93.446294,
+    "city": "Chula",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64636,
+    "latitude": 40.104835,
+    "longitude": -93.990293,
+    "city": "Coffey",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64637,
+    "latitude": 39.590145,
+    "longitude": -93.941327,
+    "city": "Cowgill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64638,
+    "latitude": 39.666701,
+    "longitude": -93.603832,
+    "city": "Dawn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64639,
+    "latitude": 39.383962,
+    "longitude": -93.223803,
+    "city": "De Witt",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64640,
+    "latitude": 39.897521,
+    "longitude": -93.934987,
+    "city": "Gallatin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64641,
+    "latitude": 40.160044,
+    "longitude": -93.416387,
+    "city": "Galt",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 64642,
+    "latitude": 40.010139,
+    "longitude": -93.927739,
+    "city": "Gilman City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64643,
+    "latitude": 39.605442,
+    "longitude": -93.342669,
+    "city": "Hale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64644,
+    "latitude": 39.719176,
+    "longitude": -94.002251,
+    "city": "Hamilton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64645,
+    "latitude": 40.209765,
+    "longitude": -93.111314,
+    "city": "Harris",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 64646,
+    "latitude": 40.209765,
+    "longitude": -93.111314,
+    "city": "Humphreys",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 64647,
+    "latitude": 40.023245,
+    "longitude": -93.93515,
+    "city": "Jameson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64648,
+    "latitude": 39.988049,
+    "longitude": -93.838563,
+    "city": "Jamesport",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64649,
+    "latitude": 39.734774,
+    "longitude": -94.08478,
+    "city": "Kidder",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64650,
+    "latitude": 39.633522,
+    "longitude": -94.078328,
+    "city": "Kingston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64651,
+    "latitude": 39.772169,
+    "longitude": -93.186626,
+    "city": "Laclede",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64652,
+    "latitude": 40.036047,
+    "longitude": -93.446087,
+    "city": "Laredo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 64653,
+    "latitude": 39.886336,
+    "longitude": -93.205383,
+    "city": "Linneus",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64654,
+    "latitude": 39.96054,
+    "longitude": -93.988865,
+    "city": "Lock Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64655,
+    "latitude": 40.465883,
+    "longitude": -93.019815,
+    "city": "Lucerne",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 64656,
+    "latitude": 39.654952,
+    "longitude": -93.686524,
+    "city": "Ludlow",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64657,
+    "latitude": 40.111077,
+    "longitude": -94.223134,
+    "city": "Mc Fall",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gentry"
+  },
+  {
+    "zip_code": 64658,
+    "latitude": 39.731085,
+    "longitude": -92.936247,
+    "city": "Marceline",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64659,
+    "latitude": 39.795407,
+    "longitude": -93.295805,
+    "city": "Meadville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64660,
+    "latitude": 39.590245,
+    "longitude": -93.133852,
+    "city": "Mendon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 64661,
+    "latitude": 40.422119,
+    "longitude": -93.570687,
+    "city": "Mercer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 64664,
+    "latitude": 39.729002,
+    "longitude": -93.667032,
+    "city": "Mooresville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64667,
+    "latitude": 40.23408,
+    "longitude": -93.288613,
+    "city": "Newtown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 64668,
+    "latitude": 39.382851,
+    "longitude": -93.510329,
+    "city": "Norborne",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64670,
+    "latitude": 40.033605,
+    "longitude": -94.088967,
+    "city": "Pattonsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64671,
+    "latitude": 39.579927,
+    "longitude": -94.050144,
+    "city": "Polo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 64672,
+    "latitude": 40.465883,
+    "longitude": -93.019815,
+    "city": "Powersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 64673,
+    "latitude": 40.406448,
+    "longitude": -93.584314,
+    "city": "Princeton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 64674,
+    "latitude": 39.964179,
+    "longitude": -93.152305,
+    "city": "Purdin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 64676,
+    "latitude": 39.653615,
+    "longitude": -93.062349,
+    "city": "Rothville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 64679,
+    "latitude": 40.21786,
+    "longitude": -93.589114,
+    "city": "Spickard",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 64680,
+    "latitude": 39.410971,
+    "longitude": -93.431928,
+    "city": "Stet",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64681,
+    "latitude": 39.656057,
+    "longitude": -93.243509,
+    "city": "Sumner",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 64682,
+    "latitude": 39.410971,
+    "longitude": -93.431928,
+    "city": "Tina",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64683,
+    "latitude": 40.083658,
+    "longitude": -93.598888,
+    "city": "Trenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Grundy"
+  },
+  {
+    "zip_code": 64686,
+    "latitude": 39.789418,
+    "longitude": -93.511055,
+    "city": "Utica",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64687,
+    "latitude": 39.315544,
+    "longitude": -93.377455,
+    "city": "Wakenda",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 64688,
+    "latitude": 39.871946,
+    "longitude": -93.397106,
+    "city": "Wheeling",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 64689,
+    "latitude": 39.874071,
+    "longitude": -94.153677,
+    "city": "Winston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 64701,
+    "latitude": 38.615239,
+    "longitude": -94.321556,
+    "city": "Harrisonville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64720,
+    "latitude": 38.397029,
+    "longitude": -94.380375,
+    "city": "Adrian",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64722,
+    "latitude": 38.251879,
+    "longitude": -94.331993,
+    "city": "Amoret",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64723,
+    "latitude": 38.251879,
+    "longitude": -94.331993,
+    "city": "Amsterdam",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64724,
+    "latitude": 38.167943,
+    "longitude": -93.882831,
+    "city": "Appleton City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64725,
+    "latitude": 38.521563,
+    "longitude": -94.352149,
+    "city": "Archie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64726,
+    "latitude": 38.388723,
+    "longitude": -93.924453,
+    "city": "Blairstown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 64728,
+    "latitude": 37.693038,
+    "longitude": -94.466251,
+    "city": "Bronaugh",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64730,
+    "latitude": 38.241174,
+    "longitude": -94.3491,
+    "city": "Butler",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64733,
+    "latitude": 38.621259,
+    "longitude": -93.8462,
+    "city": "Chilhowee",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64734,
+    "latitude": 38.655025,
+    "longitude": -94.559725,
+    "city": "Cleveland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64735,
+    "latitude": 38.401811,
+    "longitude": -93.785012,
+    "city": "Clinton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 64738,
+    "latitude": 37.898354,
+    "longitude": -93.620259,
+    "city": "Collins",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64739,
+    "latitude": 38.510491,
+    "longitude": -94.130557,
+    "city": "Creighton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64740,
+    "latitude": 38.243827,
+    "longitude": -93.788188,
+    "city": "Deepwater",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 64741,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Deerfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64742,
+    "latitude": 38.476542,
+    "longitude": -94.580083,
+    "city": "Drexel",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64743,
+    "latitude": 38.668158,
+    "longitude": -94.233336,
+    "city": "East Lynne",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64744,
+    "latitude": 37.865205,
+    "longitude": -94.012373,
+    "city": "El Dorado Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 64745,
+    "latitude": 38.251879,
+    "longitude": -94.331993,
+    "city": "Foster",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64746,
+    "latitude": 38.576898,
+    "longitude": -94.400181,
+    "city": "Freeman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64747,
+    "latitude": 38.57134,
+    "longitude": -94.360846,
+    "city": "Garden City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 64748,
+    "latitude": 37.417327,
+    "longitude": -94.144032,
+    "city": "Golden City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 64750,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Harwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64751,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Horton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64752,
+    "latitude": 38.125999,
+    "longitude": -94.547035,
+    "city": "Hume",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64755,
+    "latitude": 37.211097,
+    "longitude": -94.289465,
+    "city": "Jasper",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64756,
+    "latitude": 37.618851,
+    "longitude": -94.010074,
+    "city": "Jerico Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 64759,
+    "latitude": 37.519054,
+    "longitude": -94.336385,
+    "city": "Lamar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 64761,
+    "latitude": 38.623836,
+    "longitude": -93.67341,
+    "city": "Leeton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 64762,
+    "latitude": 37.515295,
+    "longitude": -94.509371,
+    "city": "Liberal",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 64763,
+    "latitude": 38.141625,
+    "longitude": -93.725048,
+    "city": "Lowry City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64765,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Metz",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64766,
+    "latitude": 37.501451,
+    "longitude": -94.345591,
+    "city": "Milford",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 64767,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Milo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64769,
+    "latitude": 37.471409,
+    "longitude": -94.554307,
+    "city": "Mindenmines",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 64770,
+    "latitude": 38.283423,
+    "longitude": -93.972124,
+    "city": "Montrose",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 64771,
+    "latitude": 37.764889,
+    "longitude": -94.453255,
+    "city": "Moundville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64772,
+    "latitude": 37.776465,
+    "longitude": -94.386553,
+    "city": "Nevada",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64776,
+    "latitude": 38.067372,
+    "longitude": -93.634122,
+    "city": "Osceola",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64777,
+    "latitude": 38.251879,
+    "longitude": -94.331993,
+    "city": "Passaic",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64778,
+    "latitude": 37.693773,
+    "longitude": -94.46718,
+    "city": "Richards",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64779,
+    "latitude": 38.096228,
+    "longitude": -94.360832,
+    "city": "Rich Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64780,
+    "latitude": 38.251879,
+    "longitude": -94.331993,
+    "city": "Rockville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Bates"
+  },
+  {
+    "zip_code": 64781,
+    "latitude": 38.024133,
+    "longitude": -93.781478,
+    "city": "Roscoe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64783,
+    "latitude": 37.849889,
+    "longitude": -94.338133,
+    "city": "Schell City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64784,
+    "latitude": 37.658203,
+    "longitude": -94.295103,
+    "city": "Sheldon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64788,
+    "latitude": 38.403809,
+    "longitude": -93.989228,
+    "city": "Urich",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 64789,
+    "latitude": 38.024133,
+    "longitude": -93.781478,
+    "city": "Vista",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 64790,
+    "latitude": 37.898554,
+    "longitude": -94.229787,
+    "city": "Walker",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Vernon"
+  },
+  {
+    "zip_code": 64801,
+    "latitude": 37.113343,
+    "longitude": -94.502663,
+    "city": "Joplin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64802,
+    "latitude": 37.206219,
+    "longitude": -94.335453,
+    "city": "Joplin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64803,
+    "latitude": 37.206219,
+    "longitude": -94.335453,
+    "city": "Joplin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64804,
+    "latitude": 37.099335,
+    "longitude": -94.374452,
+    "city": "Joplin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64830,
+    "latitude": 37.236677,
+    "longitude": -94.417984,
+    "city": "Alba",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64831,
+    "latitude": 36.666988,
+    "longitude": -94.419201,
+    "city": "Anderson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64832,
+    "latitude": 37.266718,
+    "longitude": -94.517971,
+    "city": "Asbury",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64833,
+    "latitude": 37.194801,
+    "longitude": -94.145193,
+    "city": "Avilla",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64834,
+    "latitude": 37.188074,
+    "longitude": -94.337616,
+    "city": "Carl Junction",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64835,
+    "latitude": 37.146258,
+    "longitude": -94.43545,
+    "city": "Carterville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64836,
+    "latitude": 37.182292,
+    "longitude": -94.314002,
+    "city": "Carthage",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64840,
+    "latitude": 36.930776,
+    "longitude": -94.248796,
+    "city": "Diamond",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64841,
+    "latitude": 37.076045,
+    "longitude": -94.407063,
+    "city": "Duenweg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64842,
+    "latitude": 36.878779,
+    "longitude": -94.190596,
+    "city": "Fairview",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64843,
+    "latitude": 36.738049,
+    "longitude": -94.409579,
+    "city": "Goodman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64844,
+    "latitude": 36.905518,
+    "longitude": -94.253163,
+    "city": "Granby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64847,
+    "latitude": 36.608799,
+    "longitude": -94.450609,
+    "city": "Lanagan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64848,
+    "latitude": 37.164327,
+    "longitude": -94.073527,
+    "city": "La Russell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64849,
+    "latitude": 37.252361,
+    "longitude": -94.431555,
+    "city": "Neck City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64850,
+    "latitude": 36.904539,
+    "longitude": -94.372328,
+    "city": "Neosho",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64853,
+    "latitude": 36.828416,
+    "longitude": -94.152072,
+    "city": "Newtonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64854,
+    "latitude": 36.579739,
+    "longitude": -94.457864,
+    "city": "Noel",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64855,
+    "latitude": 37.271703,
+    "longitude": -94.486518,
+    "city": "Oronogo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64856,
+    "latitude": 36.573955,
+    "longitude": -94.377022,
+    "city": "Pineville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64857,
+    "latitude": 37.216855,
+    "longitude": -94.374764,
+    "city": "Purcell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64858,
+    "latitude": 36.90103,
+    "longitude": -94.532109,
+    "city": "Racine",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64859,
+    "latitude": 37.165311,
+    "longitude": -94.248598,
+    "city": "Reeds",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64861,
+    "latitude": 36.632573,
+    "longitude": -94.342802,
+    "city": "Rocky Comfort",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64862,
+    "latitude": 37.159934,
+    "longitude": -94.156371,
+    "city": "Sarcoxie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64863,
+    "latitude": 36.621335,
+    "longitude": -94.512968,
+    "city": "South West City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64864,
+    "latitude": 36.902332,
+    "longitude": -94.338957,
+    "city": "Saginaw",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64865,
+    "latitude": 36.878572,
+    "longitude": -94.345348,
+    "city": "Seneca",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64866,
+    "latitude": 36.868113,
+    "longitude": -94.137992,
+    "city": "Stark City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64867,
+    "latitude": 36.814525,
+    "longitude": -94.379315,
+    "city": "Stella",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64868,
+    "latitude": 36.632573,
+    "longitude": -94.342802,
+    "city": "Tiff City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 64869,
+    "latitude": 37.206219,
+    "longitude": -94.335453,
+    "city": "Waco",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64870,
+    "latitude": 37.185063,
+    "longitude": -94.330289,
+    "city": "Webb City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 64873,
+    "latitude": 36.982951,
+    "longitude": -94.187929,
+    "city": "Wentworth",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 64874,
+    "latitude": 36.761726,
+    "longitude": -94.054723,
+    "city": "Wheaton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 64944,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 64999,
+    "latitude": 39.035038,
+    "longitude": -94.356728,
+    "city": "Kansas City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 65001,
+    "latitude": 38.498027,
+    "longitude": -91.918023,
+    "city": "Argyle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65010,
+    "latitude": 38.781337,
+    "longitude": -92.265908,
+    "city": "Ashland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65011,
+    "latitude": 38.373142,
+    "longitude": -92.715162,
+    "city": "Barnett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65013,
+    "latitude": 38.204321,
+    "longitude": -91.756633,
+    "city": "Belle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Maries"
+  },
+  {
+    "zip_code": 65014,
+    "latitude": 38.393844,
+    "longitude": -91.520173,
+    "city": "Bland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65016,
+    "latitude": 38.498027,
+    "longitude": -91.918023,
+    "city": "Bonnots Mill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65017,
+    "latitude": 38.187229,
+    "longitude": -92.499823,
+    "city": "Brumley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65018,
+    "latitude": 38.625055,
+    "longitude": -92.550973,
+    "city": "California",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65020,
+    "latitude": 38.024609,
+    "longitude": -92.744846,
+    "city": "Camdenton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65022,
+    "latitude": 38.599175,
+    "longitude": -92.178057,
+    "city": "Cedar City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65023,
+    "latitude": 38.595556,
+    "longitude": -92.370285,
+    "city": "Centertown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65024,
+    "latitude": 38.606181,
+    "longitude": -91.738215,
+    "city": "Chamois",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65025,
+    "latitude": 38.635322,
+    "longitude": -92.584502,
+    "city": "Clarksburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65026,
+    "latitude": 38.320057,
+    "longitude": -92.478035,
+    "city": "Eldon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65031,
+    "latitude": 38.223649,
+    "longitude": -92.438629,
+    "city": "Etterville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65032,
+    "latitude": 38.393423,
+    "longitude": -92.363038,
+    "city": "Eugene",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65034,
+    "latitude": 38.545388,
+    "longitude": -92.760087,
+    "city": "Fortuna",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65035,
+    "latitude": 38.395172,
+    "longitude": -91.956786,
+    "city": "Freeburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65036,
+    "latitude": 38.670303,
+    "longitude": -91.559163,
+    "city": "Gasconade",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65037,
+    "latitude": 38.26795,
+    "longitude": -92.847886,
+    "city": "Gravois Mills",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65038,
+    "latitude": 38.196429,
+    "longitude": -92.867804,
+    "city": "Laurie",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65039,
+    "latitude": 38.72719,
+    "longitude": -92.301413,
+    "city": "Hartsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65040,
+    "latitude": 38.390269,
+    "longitude": -92.312425,
+    "city": "Henley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65041,
+    "latitude": 38.587608,
+    "longitude": -91.499131,
+    "city": "Hermann",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65042,
+    "latitude": 38.674914,
+    "longitude": -92.610941,
+    "city": "High Point",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65043,
+    "latitude": 38.658869,
+    "longitude": -92.110858,
+    "city": "Holts Summit",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65046,
+    "latitude": 38.771269,
+    "longitude": -92.481749,
+    "city": "Jamestown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65047,
+    "latitude": 38.172743,
+    "longitude": -92.557722,
+    "city": "Kaiser",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65048,
+    "latitude": 38.498027,
+    "longitude": -91.918023,
+    "city": "Koeltztown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65049,
+    "latitude": 38.113071,
+    "longitude": -92.682496,
+    "city": "Lake Ozark",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65050,
+    "latitude": 38.546636,
+    "longitude": -92.681747,
+    "city": "Latham",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65051,
+    "latitude": 38.497711,
+    "longitude": -91.787954,
+    "city": "Linn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65052,
+    "latitude": 38.058544,
+    "longitude": -92.719289,
+    "city": "Linn Creek",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65053,
+    "latitude": 38.54395,
+    "longitude": -92.375577,
+    "city": "Lohman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65054,
+    "latitude": 38.498027,
+    "longitude": -91.918023,
+    "city": "Loose Creek",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65055,
+    "latitude": 38.674914,
+    "longitude": -92.610941,
+    "city": "Mc Girk",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65058,
+    "latitude": 38.314864,
+    "longitude": -92.127749,
+    "city": "Meta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65059,
+    "latitude": 38.705147,
+    "longitude": -91.89325,
+    "city": "Mokane",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65061,
+    "latitude": 38.488169,
+    "longitude": -91.599416,
+    "city": "Morrison",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65062,
+    "latitude": 38.484502,
+    "longitude": -91.621808,
+    "city": "Mount Sterling",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65063,
+    "latitude": 38.730467,
+    "longitude": -92.08044,
+    "city": "New Bloomfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65064,
+    "latitude": 38.397892,
+    "longitude": -92.488014,
+    "city": "Olean",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65065,
+    "latitude": 38.131001,
+    "longitude": -92.671943,
+    "city": "Osage Beach",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65066,
+    "latitude": 38.360691,
+    "longitude": -91.477511,
+    "city": "Owensville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Gasconade"
+  },
+  {
+    "zip_code": 65067,
+    "latitude": 38.770559,
+    "longitude": -91.713568,
+    "city": "Portland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65068,
+    "latitude": 38.819678,
+    "longitude": -92.606295,
+    "city": "Prairie Home",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65069,
+    "latitude": 38.794225,
+    "longitude": -91.573653,
+    "city": "Rhineland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 65072,
+    "latitude": 38.265465,
+    "longitude": -92.734795,
+    "city": "Rocky Mount",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65074,
+    "latitude": 38.485106,
+    "longitude": -92.409339,
+    "city": "Russellville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65075,
+    "latitude": 38.251613,
+    "longitude": -92.254481,
+    "city": "Saint Elizabeth",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65076,
+    "latitude": 38.421857,
+    "longitude": -92.317745,
+    "city": "Saint Thomas",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65077,
+    "latitude": 38.764377,
+    "longitude": -91.798654,
+    "city": "Steedman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65078,
+    "latitude": 38.437941,
+    "longitude": -92.995989,
+    "city": "Stover",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65079,
+    "latitude": 38.164874,
+    "longitude": -92.720128,
+    "city": "Sunrise Beach",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65080,
+    "latitude": 38.635304,
+    "longitude": -91.99659,
+    "city": "Tebbetts",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65081,
+    "latitude": 38.656781,
+    "longitude": -92.661396,
+    "city": "Tipton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Moniteau"
+  },
+  {
+    "zip_code": 65082,
+    "latitude": 38.21813,
+    "longitude": -92.446098,
+    "city": "Tuscumbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65083,
+    "latitude": 38.150536,
+    "longitude": -92.43301,
+    "city": "Ulman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65084,
+    "latitude": 38.420142,
+    "longitude": -92.835322,
+    "city": "Versailles",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65085,
+    "latitude": 38.406348,
+    "longitude": -92.049397,
+    "city": "Westphalia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 65101,
+    "latitude": 38.494029,
+    "longitude": -92.165194,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65102,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65103,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65104,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65105,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65106,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65107,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65108,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65109,
+    "latitude": 38.550219,
+    "longitude": -92.299267,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65110,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65111,
+    "latitude": 38.530921,
+    "longitude": -92.249342,
+    "city": "Jefferson City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cole"
+  },
+  {
+    "zip_code": 65201,
+    "latitude": 38.894165,
+    "longitude": -92.274145,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65202,
+    "latitude": 39.015904,
+    "longitude": -92.311885,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65203,
+    "latitude": 38.88248,
+    "longitude": -92.397824,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65205,
+    "latitude": 39.044719,
+    "longitude": -92.349574,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65211,
+    "latitude": 38.903318,
+    "longitude": -92.102153,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65212,
+    "latitude": 38.937608,
+    "longitude": -92.33043,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65215,
+    "latitude": 38.953238,
+    "longitude": -92.320783,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65216,
+    "latitude": 38.903318,
+    "longitude": -92.102153,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65217,
+    "latitude": 38.903318,
+    "longitude": -92.102153,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65218,
+    "latitude": 38.903318,
+    "longitude": -92.102153,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65230,
+    "latitude": 39.242532,
+    "longitude": -92.69974,
+    "city": "Armstrong",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 65231,
+    "latitude": 39.008551,
+    "longitude": -91.911773,
+    "city": "Auxvasse",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65232,
+    "latitude": 39.156071,
+    "longitude": -91.755227,
+    "city": "Benton City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 65233,
+    "latitude": 38.884444,
+    "longitude": -92.733329,
+    "city": "Boonville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65236,
+    "latitude": 39.425365,
+    "longitude": -93.128077,
+    "city": "Brunswick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 65237,
+    "latitude": 38.759637,
+    "longitude": -92.790412,
+    "city": "Bunceton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65239,
+    "latitude": 39.534445,
+    "longitude": -92.470668,
+    "city": "Cairo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65240,
+    "latitude": 39.143437,
+    "longitude": -92.179684,
+    "city": "Centralia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65243,
+    "latitude": 39.295025,
+    "longitude": -92.374105,
+    "city": "Clark",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65244,
+    "latitude": 39.428482,
+    "longitude": -92.504195,
+    "city": "Clifton Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65246,
+    "latitude": 39.464326,
+    "longitude": -92.988621,
+    "city": "Dalton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 65247,
+    "latitude": 39.638988,
+    "longitude": -92.46581,
+    "city": "Excello",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 65248,
+    "latitude": 39.149242,
+    "longitude": -92.673441,
+    "city": "Fayette",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 65250,
+    "latitude": 39.04337,
+    "longitude": -92.827618,
+    "city": "Franklin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 65251,
+    "latitude": 38.830203,
+    "longitude": -91.966756,
+    "city": "Fulton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65254,
+    "latitude": 39.159075,
+    "longitude": -92.826306,
+    "city": "Glasgow",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 65255,
+    "latitude": 39.102338,
+    "longitude": -92.240267,
+    "city": "Hallsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65256,
+    "latitude": 39.148359,
+    "longitude": -92.425698,
+    "city": "Harrisburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65257,
+    "latitude": 39.307179,
+    "longitude": -92.5135,
+    "city": "Higbee",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65258,
+    "latitude": 39.488707,
+    "longitude": -92.149089,
+    "city": "Holliday",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 65259,
+    "latitude": 39.470411,
+    "longitude": -92.504087,
+    "city": "Huntsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65260,
+    "latitude": 39.60614,
+    "longitude": -92.361437,
+    "city": "Jacksonville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65261,
+    "latitude": 39.425165,
+    "longitude": -92.908657,
+    "city": "Keytesville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 65262,
+    "latitude": 38.959176,
+    "longitude": -91.92418,
+    "city": "Kingdom City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Callaway"
+  },
+  {
+    "zip_code": 65263,
+    "latitude": 39.471942,
+    "longitude": -92.206875,
+    "city": "Madison",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 65264,
+    "latitude": 39.11089,
+    "longitude": -91.702079,
+    "city": "Martinsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 65265,
+    "latitude": 39.201449,
+    "longitude": -91.838271,
+    "city": "Mexico",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 65270,
+    "latitude": 39.425513,
+    "longitude": -92.428348,
+    "city": "Moberly",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65274,
+    "latitude": 39.095462,
+    "longitude": -92.705966,
+    "city": "New Franklin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 65275,
+    "latitude": 39.467456,
+    "longitude": -92.017068,
+    "city": "Paris",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 65276,
+    "latitude": 38.849273,
+    "longitude": -92.926931,
+    "city": "Pilot Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65278,
+    "latitude": 39.341357,
+    "longitude": -92.410961,
+    "city": "Renick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 65279,
+    "latitude": 38.996588,
+    "longitude": -92.50403,
+    "city": "Rocheport",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65280,
+    "latitude": 39.211548,
+    "longitude": -91.708681,
+    "city": "Rush Hill",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 65281,
+    "latitude": 39.425568,
+    "longitude": -92.802909,
+    "city": "Salisbury",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 65282,
+    "latitude": 39.360312,
+    "longitude": -91.865315,
+    "city": "Santa Fe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 65283,
+    "latitude": 39.481463,
+    "longitude": -91.848796,
+    "city": "Stoutsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 65284,
+    "latitude": 39.180874,
+    "longitude": -92.327183,
+    "city": "Sturgeon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65285,
+    "latitude": 39.212787,
+    "longitude": -92.004617,
+    "city": "Thompson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Audrain"
+  },
+  {
+    "zip_code": 65286,
+    "latitude": 39.499974,
+    "longitude": -93.193552,
+    "city": "Triplett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Chariton"
+  },
+  {
+    "zip_code": 65287,
+    "latitude": 38.898275,
+    "longitude": -92.566685,
+    "city": "Wooldridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65299,
+    "latitude": 38.903318,
+    "longitude": -92.102153,
+    "city": "Columbia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 65301,
+    "latitude": 38.703138,
+    "longitude": -93.240166,
+    "city": "Sedalia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65302,
+    "latitude": 38.724577,
+    "longitude": -93.281672,
+    "city": "Sedalia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65305,
+    "latitude": 38.731819,
+    "longitude": -93.573071,
+    "city": "Whiteman Air Force Base",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 65320,
+    "latitude": 39.069352,
+    "longitude": -92.948668,
+    "city": "Arrow Rock",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65321,
+    "latitude": 39.105316,
+    "longitude": -93.484742,
+    "city": "Blackburn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65322,
+    "latitude": 38.940391,
+    "longitude": -92.868132,
+    "city": "Blackwater",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65323,
+    "latitude": 38.454863,
+    "longitude": -93.608588,
+    "city": "Calhoun",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 65324,
+    "latitude": 38.101843,
+    "longitude": -93.053635,
+    "city": "Climax Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65325,
+    "latitude": 38.337832,
+    "longitude": -93.314592,
+    "city": "Cole Camp",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 65326,
+    "latitude": 38.298955,
+    "longitude": -93.291274,
+    "city": "Edwards",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 65327,
+    "latitude": 38.974573,
+    "longitude": -93.503803,
+    "city": "Emma",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 65329,
+    "latitude": 38.608009,
+    "longitude": -92.982845,
+    "city": "Florence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65330,
+    "latitude": 39.232673,
+    "longitude": -93.004028,
+    "city": "Gilliam",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65332,
+    "latitude": 38.605883,
+    "longitude": -93.40918,
+    "city": "Green Ridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65333,
+    "latitude": 38.854841,
+    "longitude": -93.313267,
+    "city": "Houstonia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65334,
+    "latitude": 38.826683,
+    "longitude": -93.22994,
+    "city": "Hughesville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65335,
+    "latitude": 38.503854,
+    "longitude": -93.323687,
+    "city": "Ionia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 65336,
+    "latitude": 38.743365,
+    "longitude": -93.582884,
+    "city": "Knob Noster",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 65337,
+    "latitude": 38.783542,
+    "longitude": -93.417093,
+    "city": "La Monte",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65338,
+    "latitude": 38.395302,
+    "longitude": -93.334544,
+    "city": "Lincoln",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 65339,
+    "latitude": 39.148119,
+    "longitude": -93.377596,
+    "city": "Malta Bend",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65340,
+    "latitude": 39.161394,
+    "longitude": -93.244357,
+    "city": "Marshall",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65344,
+    "latitude": 39.321402,
+    "longitude": -93.226114,
+    "city": "Miami",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65345,
+    "latitude": 38.556891,
+    "longitude": -93.158732,
+    "city": "Mora",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65347,
+    "latitude": 39.029347,
+    "longitude": -92.992939,
+    "city": "Nelson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65348,
+    "latitude": 38.742077,
+    "longitude": -92.96287,
+    "city": "Otterville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cooper"
+  },
+  {
+    "zip_code": 65349,
+    "latitude": 39.101211,
+    "longitude": -93.264214,
+    "city": "Slater",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65350,
+    "latitude": 38.659963,
+    "longitude": -93.108757,
+    "city": "Smithton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pettis"
+  },
+  {
+    "zip_code": 65351,
+    "latitude": 39.070204,
+    "longitude": -93.430344,
+    "city": "Sweet Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 65354,
+    "latitude": 38.654746,
+    "longitude": -92.892923,
+    "city": "Syracuse",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 65355,
+    "latitude": 38.31555,
+    "longitude": -93.327381,
+    "city": "Warsaw",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 65360,
+    "latitude": 38.488076,
+    "longitude": -93.588108,
+    "city": "Windsor",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 65401,
+    "latitude": 37.898204,
+    "longitude": -91.797641,
+    "city": "Rolla",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65402,
+    "latitude": 37.963208,
+    "longitude": -91.817936,
+    "city": "Rolla",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65409,
+    "latitude": 37.876191,
+    "longitude": -91.777182,
+    "city": "Rolla",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65433,
+    "latitude": 37.309426,
+    "longitude": -92.214372,
+    "city": "Bendavis",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65436,
+    "latitude": 37.615826,
+    "longitude": -91.906391,
+    "city": "Beulah",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65438,
+    "latitude": 36.997849,
+    "longitude": -91.494175,
+    "city": "Birch Tree",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 65439,
+    "latitude": 37.505462,
+    "longitude": -90.845047,
+    "city": "Bixby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 65440,
+    "latitude": 37.612779,
+    "longitude": -91.652493,
+    "city": "Boss",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65441,
+    "latitude": 38.10595,
+    "longitude": -91.248694,
+    "city": "Bourbon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65443,
+    "latitude": 38.148315,
+    "longitude": -92.101525,
+    "city": "Brinktown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Maries"
+  },
+  {
+    "zip_code": 65444,
+    "latitude": 37.384157,
+    "longitude": -92.077182,
+    "city": "Bucyrus",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65446,
+    "latitude": 37.866661,
+    "longitude": -91.279649,
+    "city": "Cherryville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65449,
+    "latitude": 37.85671,
+    "longitude": -91.470109,
+    "city": "Cook Station",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65452,
+    "latitude": 37.944664,
+    "longitude": -92.26771,
+    "city": "Crocker",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65453,
+    "latitude": 38.100081,
+    "longitude": -91.368908,
+    "city": "Cuba",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65456,
+    "latitude": 37.786953,
+    "longitude": -91.211555,
+    "city": "Davisville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65457,
+    "latitude": 37.851231,
+    "longitude": -92.056898,
+    "city": "Devils Elbow",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65459,
+    "latitude": 37.928603,
+    "longitude": -92.107438,
+    "city": "Dixon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65461,
+    "latitude": 37.705975,
+    "longitude": -92.006428,
+    "city": "Duke",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65462,
+    "latitude": 37.694596,
+    "longitude": -91.890325,
+    "city": "Edgar Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  }
+]

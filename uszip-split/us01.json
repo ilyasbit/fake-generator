@@ -1,0 +1,8986 @@
+[
+  {
+    "zip_code": 501,
+    "latitude": 40.922326,
+    "longitude": -72.637078,
+    "city": "Holtsville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 544,
+    "latitude": 40.922326,
+    "longitude": -72.637078,
+    "city": "Holtsville",
+    "state": "NY",
+    "full_state": "New York",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 601,
+    "latitude": 18.165273,
+    "longitude": -66.722583,
+    "city": "Adjuntas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Adjuntas"
+  },
+  {
+    "zip_code": 602,
+    "latitude": 18.393103,
+    "longitude": -67.180953,
+    "city": "Aguada",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguada"
+  },
+  {
+    "zip_code": 603,
+    "latitude": 18.455913,
+    "longitude": -67.14578,
+    "city": "Aguadilla",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguadilla"
+  },
+  {
+    "zip_code": 604,
+    "latitude": 18.49352,
+    "longitude": -67.135883,
+    "city": "Aguadilla",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguadilla"
+  },
+  {
+    "zip_code": 605,
+    "latitude": 18.465162,
+    "longitude": -67.141486,
+    "city": "Aguadilla",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguadilla"
+  },
+  {
+    "zip_code": 606,
+    "latitude": 18.172947,
+    "longitude": -66.944111,
+    "city": "Maricao",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Maricao"
+  },
+  {
+    "zip_code": 610,
+    "latitude": 18.288685,
+    "longitude": -67.139696,
+    "city": "Anasco",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Anasco"
+  },
+  {
+    "zip_code": 611,
+    "latitude": 18.279531,
+    "longitude": -66.80217,
+    "city": "Angeles",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Utuado"
+  },
+  {
+    "zip_code": 612,
+    "latitude": 18.450674,
+    "longitude": -66.698262,
+    "city": "Arecibo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 613,
+    "latitude": 18.458093,
+    "longitude": -66.732732,
+    "city": "Arecibo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 614,
+    "latitude": 18.429675,
+    "longitude": -66.674506,
+    "city": "Arecibo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 616,
+    "latitude": 18.444792,
+    "longitude": -66.640678,
+    "city": "Bajadero",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 617,
+    "latitude": 18.447092,
+    "longitude": -66.544255,
+    "city": "Barceloneta",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Barceloneta"
+  },
+  {
+    "zip_code": 622,
+    "latitude": 17.998531,
+    "longitude": -67.187318,
+    "city": "Boqueron",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Cabo Rojo"
+  },
+  {
+    "zip_code": 623,
+    "latitude": 18.062201,
+    "longitude": -67.149541,
+    "city": "Cabo Rojo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Cabo Rojo"
+  },
+  {
+    "zip_code": 624,
+    "latitude": 18.023535,
+    "longitude": -66.726156,
+    "city": "Penuelas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Penuelas"
+  },
+  {
+    "zip_code": 627,
+    "latitude": 18.477891,
+    "longitude": -66.85477,
+    "city": "Camuy",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Camuy"
+  },
+  {
+    "zip_code": 631,
+    "latitude": 18.269187,
+    "longitude": -66.864993,
+    "city": "Castaner",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Lares"
+  },
+  {
+    "zip_code": 636,
+    "latitude": 18.113284,
+    "longitude": -67.039706,
+    "city": "Rosario",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San German"
+  },
+  {
+    "zip_code": 637,
+    "latitude": 18.087322,
+    "longitude": -66.934911,
+    "city": "Sabana Grande",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Sabana Grande"
+  },
+  {
+    "zip_code": 638,
+    "latitude": 18.33616,
+    "longitude": -66.472087,
+    "city": "Ciales",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ciales"
+  },
+  {
+    "zip_code": 641,
+    "latitude": 18.250027,
+    "longitude": -66.698957,
+    "city": "Utuado",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Utuado"
+  },
+  {
+    "zip_code": 646,
+    "latitude": 18.43606,
+    "longitude": -66.281954,
+    "city": "Dorado",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Dorado"
+  },
+  {
+    "zip_code": 647,
+    "latitude": 17.969594,
+    "longitude": -66.939754,
+    "city": "Ensenada",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guanica"
+  },
+  {
+    "zip_code": 650,
+    "latitude": 18.360125,
+    "longitude": -66.562311,
+    "city": "Florida",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Florida"
+  },
+  {
+    "zip_code": 652,
+    "latitude": 18.457254,
+    "longitude": -66.603358,
+    "city": "Garrochales",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 653,
+    "latitude": 17.972468,
+    "longitude": -66.898661,
+    "city": "Guanica",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guanica"
+  },
+  {
+    "zip_code": 656,
+    "latitude": 18.02328,
+    "longitude": -66.786909,
+    "city": "Guayanilla",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guayanilla"
+  },
+  {
+    "zip_code": 659,
+    "latitude": 18.481391,
+    "longitude": -66.808696,
+    "city": "Hatillo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Hatillo"
+  },
+  {
+    "zip_code": 660,
+    "latitude": 18.145486,
+    "longitude": -67.135323,
+    "city": "Hormigueros",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Hormigueros"
+  },
+  {
+    "zip_code": 662,
+    "latitude": 18.480285,
+    "longitude": -67.028155,
+    "city": "Isabela",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Isabela"
+  },
+  {
+    "zip_code": 664,
+    "latitude": 18.217606,
+    "longitude": -66.598306,
+    "city": "Jayuya",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Jayuya"
+  },
+  {
+    "zip_code": 667,
+    "latitude": 18.015099,
+    "longitude": -67.055973,
+    "city": "Lajas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Lajas"
+  },
+  {
+    "zip_code": 669,
+    "latitude": 18.295952,
+    "longitude": -66.881925,
+    "city": "Lares",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Lares"
+  },
+  {
+    "zip_code": 670,
+    "latitude": 18.252135,
+    "longitude": -66.990967,
+    "city": "Las Marias",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Las Marias"
+  },
+  {
+    "zip_code": 674,
+    "latitude": 18.44553,
+    "longitude": -66.490268,
+    "city": "Manati",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Manati"
+  },
+  {
+    "zip_code": 676,
+    "latitude": 18.383727,
+    "longitude": -67.080799,
+    "city": "Moca",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Moca"
+  },
+  {
+    "zip_code": 677,
+    "latitude": 18.335781,
+    "longitude": -67.252547,
+    "city": "Rincon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Rincon"
+  },
+  {
+    "zip_code": 678,
+    "latitude": 18.45303,
+    "longitude": -66.933689,
+    "city": "Quebradillas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Quebradillas"
+  },
+  {
+    "zip_code": 680,
+    "latitude": 18.219023,
+    "longitude": -67.508068,
+    "city": "Mayaguez",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Mayaguez"
+  },
+  {
+    "zip_code": 681,
+    "latitude": 18.219023,
+    "longitude": -67.508068,
+    "city": "Mayaguez",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Mayaguez"
+  },
+  {
+    "zip_code": 682,
+    "latitude": 18.219023,
+    "longitude": -67.508068,
+    "city": "Mayaguez",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Mayaguez"
+  },
+  {
+    "zip_code": 683,
+    "latitude": 18.113284,
+    "longitude": -67.039706,
+    "city": "San German",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San German"
+  },
+  {
+    "zip_code": 685,
+    "latitude": 18.3236,
+    "longitude": -66.972227,
+    "city": "San Sebastian",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Sebastian"
+  },
+  {
+    "zip_code": 687,
+    "latitude": 18.316976,
+    "longitude": -66.415207,
+    "city": "Morovis",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Morovis"
+  },
+  {
+    "zip_code": 688,
+    "latitude": 18.429675,
+    "longitude": -66.674506,
+    "city": "Sabana Hoyos",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arecibo"
+  },
+  {
+    "zip_code": 690,
+    "latitude": 18.476196,
+    "longitude": -67.139597,
+    "city": "San Antonio",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguadilla"
+  },
+  {
+    "zip_code": 692,
+    "latitude": 18.435818,
+    "longitude": -66.338523,
+    "city": "Vega Alta",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Vega Alta"
+  },
+  {
+    "zip_code": 693,
+    "latitude": 18.443109,
+    "longitude": -66.398302,
+    "city": "Vega Baja",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Vega Baja"
+  },
+  {
+    "zip_code": 694,
+    "latitude": 18.443109,
+    "longitude": -66.398302,
+    "city": "Vega Baja",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Vega Baja"
+  },
+  {
+    "zip_code": 698,
+    "latitude": 18.06104,
+    "longitude": -66.861164,
+    "city": "Yauco",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Yauco"
+  },
+  {
+    "zip_code": 703,
+    "latitude": 18.250398,
+    "longitude": -66.12845,
+    "city": "Aguas Buenas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aguas Buenas"
+  },
+  {
+    "zip_code": 704,
+    "latitude": 17.99229,
+    "longitude": -66.139253,
+    "city": "Aguirre",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guayama"
+  },
+  {
+    "zip_code": 705,
+    "latitude": 18.128092,
+    "longitude": -66.268717,
+    "city": "Aibonito",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aibonito"
+  },
+  {
+    "zip_code": 707,
+    "latitude": 18.007014,
+    "longitude": -65.898719,
+    "city": "Maunabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Maunabo"
+  },
+  {
+    "zip_code": 714,
+    "latitude": 17.96751,
+    "longitude": -66.04138,
+    "city": "Arroyo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Arroyo"
+  },
+  {
+    "zip_code": 715,
+    "latitude": 18.011854,
+    "longitude": -66.563721,
+    "city": "Mercedita",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 716,
+    "latitude": 18.001995,
+    "longitude": -66.607429,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 717,
+    "latitude": 18.001995,
+    "longitude": -66.607429,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 718,
+    "latitude": 18.22139,
+    "longitude": -65.77831,
+    "city": "Naguabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Naguabo"
+  },
+  {
+    "zip_code": 719,
+    "latitude": 18.298017,
+    "longitude": -66.229751,
+    "city": "Naranjito",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Naranjito"
+  },
+  {
+    "zip_code": 720,
+    "latitude": 18.226862,
+    "longitude": -66.39402,
+    "city": "Orocovis",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Orocovis"
+  },
+  {
+    "zip_code": 721,
+    "latitude": 18.364161,
+    "longitude": -65.778288,
+    "city": "Palmer",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 723,
+    "latitude": 18.009994,
+    "longitude": -66.010572,
+    "city": "Patillas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Patillas"
+  },
+  {
+    "zip_code": 725,
+    "latitude": 18.212965,
+    "longitude": -66.058033,
+    "city": "Caguas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Caguas"
+  },
+  {
+    "zip_code": 726,
+    "latitude": 18.212965,
+    "longitude": -66.058033,
+    "city": "Caguas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Caguas"
+  },
+  {
+    "zip_code": 727,
+    "latitude": 18.212965,
+    "longitude": -66.058033,
+    "city": "Caguas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Caguas"
+  },
+  {
+    "zip_code": 728,
+    "latitude": 18.001995,
+    "longitude": -66.607429,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 729,
+    "latitude": 18.333093,
+    "longitude": -65.883864,
+    "city": "Canovanas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Canovanas"
+  },
+  {
+    "zip_code": 730,
+    "latitude": 18.001995,
+    "longitude": -66.607429,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 731,
+    "latitude": 18.03831,
+    "longitude": -66.626344,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 732,
+    "latitude": 18.021781,
+    "longitude": -66.613742,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 733,
+    "latitude": 18.019331,
+    "longitude": -66.619165,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 734,
+    "latitude": 17.999499,
+    "longitude": -66.643934,
+    "city": "Ponce",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 735,
+    "latitude": 18.264872,
+    "longitude": -65.594769,
+    "city": "Ceiba",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ceiba"
+  },
+  {
+    "zip_code": 736,
+    "latitude": 18.102967,
+    "longitude": -66.139274,
+    "city": "Cayey",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Cayey"
+  },
+  {
+    "zip_code": 737,
+    "latitude": 18.102967,
+    "longitude": -66.139274,
+    "city": "Cayey",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Cayey"
+  },
+  {
+    "zip_code": 738,
+    "latitude": 18.359381,
+    "longitude": -65.611361,
+    "city": "Fajardo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Fajardo"
+  },
+  {
+    "zip_code": 739,
+    "latitude": 18.181469,
+    "longitude": -66.169519,
+    "city": "Cidra",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Cidra"
+  },
+  {
+    "zip_code": 740,
+    "latitude": 18.331958,
+    "longitude": -65.63878,
+    "city": "Puerto Real",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Fajardo"
+  },
+  {
+    "zip_code": 741,
+    "latitude": 18.162156,
+    "longitude": -65.753485,
+    "city": "Punta Santiago",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Humacao"
+  },
+  {
+    "zip_code": 742,
+    "latitude": 18.264872,
+    "longitude": -65.594769,
+    "city": "Roosevelt Roads",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ceiba"
+  },
+  {
+    "zip_code": 744,
+    "latitude": 18.206329,
+    "longitude": -65.743058,
+    "city": "Rio Blanco",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Naguabo"
+  },
+  {
+    "zip_code": 745,
+    "latitude": 18.367347,
+    "longitude": -65.816583,
+    "city": "Rio Grande",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Rio Grande"
+  },
+  {
+    "zip_code": 751,
+    "latitude": 17.99852,
+    "longitude": -66.264825,
+    "city": "Salinas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Salinas"
+  },
+  {
+    "zip_code": 754,
+    "latitude": 18.187584,
+    "longitude": -65.962389,
+    "city": "San Lorenzo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Lorenzo"
+  },
+  {
+    "zip_code": 757,
+    "latitude": 17.991233,
+    "longitude": -66.395543,
+    "city": "Santa Isabel",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Santa Isabel"
+  },
+  {
+    "zip_code": 765,
+    "latitude": 18.123347,
+    "longitude": -65.460356,
+    "city": "Vieques",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Vieques"
+  },
+  {
+    "zip_code": 766,
+    "latitude": 18.120519,
+    "longitude": -66.496607,
+    "city": "Villalba",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Villalba"
+  },
+  {
+    "zip_code": 767,
+    "latitude": 18.045522,
+    "longitude": -65.886988,
+    "city": "Yabucoa",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Yabucoa"
+  },
+  {
+    "zip_code": 769,
+    "latitude": 18.095992,
+    "longitude": -66.35081,
+    "city": "Coamo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Coamo"
+  },
+  {
+    "zip_code": 771,
+    "latitude": 18.196576,
+    "longitude": -65.87197,
+    "city": "Las Piedras",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Las Piedras"
+  },
+  {
+    "zip_code": 772,
+    "latitude": 18.447406,
+    "longitude": -65.899357,
+    "city": "Loiza",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Loiza"
+  },
+  {
+    "zip_code": 773,
+    "latitude": 18.366027,
+    "longitude": -65.708138,
+    "city": "Luquillo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Luquillo"
+  },
+  {
+    "zip_code": 775,
+    "latitude": 18.323736,
+    "longitude": -65.296467,
+    "city": "Culebra",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Culebra"
+  },
+  {
+    "zip_code": 777,
+    "latitude": 18.206489,
+    "longitude": -65.901774,
+    "city": "Juncos",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Juncos"
+  },
+  {
+    "zip_code": 778,
+    "latitude": 18.259092,
+    "longitude": -65.974641,
+    "city": "Gurabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Gurabo"
+  },
+  {
+    "zip_code": 780,
+    "latitude": 18.001995,
+    "longitude": -66.607429,
+    "city": "Coto Laurel",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Ponce"
+  },
+  {
+    "zip_code": 782,
+    "latitude": 18.224958,
+    "longitude": -66.219885,
+    "city": "Comerio",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Comerio"
+  },
+  {
+    "zip_code": 783,
+    "latitude": 18.304369,
+    "longitude": -66.330525,
+    "city": "Corozal",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Corozal"
+  },
+  {
+    "zip_code": 784,
+    "latitude": 17.99229,
+    "longitude": -66.139253,
+    "city": "Guayama",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guayama"
+  },
+  {
+    "zip_code": 785,
+    "latitude": 18.018822,
+    "longitude": -66.795603,
+    "city": "Guayama",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guayanilla"
+  },
+  {
+    "zip_code": 786,
+    "latitude": 18.128092,
+    "longitude": -66.268717,
+    "city": "La Plata",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Aibonito"
+  },
+  {
+    "zip_code": 791,
+    "latitude": 18.138029,
+    "longitude": -65.788499,
+    "city": "Humacao",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Humacao"
+  },
+  {
+    "zip_code": 792,
+    "latitude": 18.138029,
+    "longitude": -65.788499,
+    "city": "Humacao",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Humacao"
+  },
+  {
+    "zip_code": 794,
+    "latitude": 18.200898,
+    "longitude": -66.307236,
+    "city": "Barranquitas",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Barranquitas"
+  },
+  {
+    "zip_code": 795,
+    "latitude": 17.997367,
+    "longitude": -66.493218,
+    "city": "Juana Diaz",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Juana Diaz"
+  },
+  {
+    "zip_code": 801,
+    "latitude": 18.322285,
+    "longitude": -64.963715,
+    "city": "St Thomas",
+    "state": "VI",
+    "county": "Saint Thomas"
+  },
+  {
+    "zip_code": 802,
+    "latitude": 18.322285,
+    "longitude": -64.963715,
+    "city": "St Thomas",
+    "state": "VI",
+    "county": "Saint Thomas"
+  },
+  {
+    "zip_code": 803,
+    "latitude": 18.322285,
+    "longitude": -64.963715,
+    "city": "St Thomas",
+    "state": "VI",
+    "county": "Saint Thomas"
+  },
+  {
+    "zip_code": 804,
+    "latitude": 18.322285,
+    "longitude": -64.963715,
+    "city": "St Thomas",
+    "state": "VI",
+    "county": "Saint Thomas"
+  },
+  {
+    "zip_code": 805,
+    "latitude": 18.322285,
+    "longitude": -64.963715,
+    "city": "St Thomas",
+    "state": "VI",
+    "county": "Saint Thomas"
+  },
+  {
+    "zip_code": 820,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Christiansted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 821,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Christiansted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 822,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Christiansted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 823,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Christiansted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 824,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Christiansted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 830,
+    "latitude": 18.32816,
+    "longitude": -64.740737,
+    "city": "St John",
+    "state": "VI",
+    "county": "Saint John"
+  },
+  {
+    "zip_code": 831,
+    "latitude": 18.32816,
+    "longitude": -64.740737,
+    "city": "St John",
+    "state": "VI",
+    "county": "Saint John"
+  },
+  {
+    "zip_code": 840,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Frederiksted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 841,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Frederiksted",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 850,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Kingshill",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 851,
+    "latitude": 17.734211,
+    "longitude": -64.734694,
+    "city": "Kingshill",
+    "state": "VI",
+    "county": "Saint Croix"
+  },
+  {
+    "zip_code": 901,
+    "latitude": 18.465901,
+    "longitude": -66.103568,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 902,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 906,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 907,
+    "latitude": 18.451647,
+    "longitude": -66.077003,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 908,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 909,
+    "latitude": 18.443384,
+    "longitude": -66.068133,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 910,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 911,
+    "latitude": 18.450828,
+    "longitude": -66.057859,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 912,
+    "latitude": 18.444187,
+    "longitude": -66.059859,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 913,
+    "latitude": 18.450735,
+    "longitude": -66.043352,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 914,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 915,
+    "latitude": 18.437896,
+    "longitude": -66.048087,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 916,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 917,
+    "latitude": 18.422018,
+    "longitude": -66.050602,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 918,
+    "latitude": 18.419069,
+    "longitude": -66.062319,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 919,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 920,
+    "latitude": 18.406808,
+    "longitude": -66.091885,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 921,
+    "latitude": 18.390429,
+    "longitude": -66.066124,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 922,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 923,
+    "latitude": 18.410775,
+    "longitude": -66.036708,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 924,
+    "latitude": 18.396392,
+    "longitude": -66.01146,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 925,
+    "latitude": 18.401055,
+    "longitude": -66.049773,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 926,
+    "latitude": 18.369376,
+    "longitude": -66.062804,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 927,
+    "latitude": 18.385174,
+    "longitude": -66.071959,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 928,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 929,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 930,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 931,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 933,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 934,
+    "latitude": 18.34487,
+    "longitude": -66.166014,
+    "city": "Fort Buchanan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 935,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 936,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 937,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 938,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 939,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 940,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 949,
+    "latitude": 18.431911,
+    "longitude": -66.199692,
+    "city": "Toa Baja",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Baja"
+  },
+  {
+    "zip_code": 950,
+    "latitude": 18.457761,
+    "longitude": -66.196503,
+    "city": "Toa Baja",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Baja"
+  },
+  {
+    "zip_code": 951,
+    "latitude": 18.457761,
+    "longitude": -66.196503,
+    "city": "Toa Baja",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Baja"
+  },
+  {
+    "zip_code": 952,
+    "latitude": 18.457761,
+    "longitude": -66.196503,
+    "city": "Sabana Seca",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Baja"
+  },
+  {
+    "zip_code": 953,
+    "latitude": 18.356795,
+    "longitude": -66.25701,
+    "city": "Toa Alta",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Alta"
+  },
+  {
+    "zip_code": 954,
+    "latitude": 18.358939,
+    "longitude": -66.258108,
+    "city": "Toa Alta",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Toa Alta"
+  },
+  {
+    "zip_code": 955,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 956,
+    "latitude": 18.326702,
+    "longitude": -66.174176,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 957,
+    "latitude": 18.366645,
+    "longitude": -66.183907,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 958,
+    "latitude": 18.34487,
+    "longitude": -66.166014,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 959,
+    "latitude": 18.387058,
+    "longitude": -66.159044,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 960,
+    "latitude": 18.34487,
+    "longitude": -66.166014,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 961,
+    "latitude": 18.413195,
+    "longitude": -66.168651,
+    "city": "Bayamon",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Bayamon"
+  },
+  {
+    "zip_code": 962,
+    "latitude": 18.437644,
+    "longitude": -66.140407,
+    "city": "Catano",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Catano"
+  },
+  {
+    "zip_code": 963,
+    "latitude": 18.443217,
+    "longitude": -66.139293,
+    "city": "Catano",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Catano"
+  },
+  {
+    "zip_code": 965,
+    "latitude": 18.428784,
+    "longitude": -66.11539,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guaynabo"
+  },
+  {
+    "zip_code": 966,
+    "latitude": 18.396815,
+    "longitude": -66.114889,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guaynabo"
+  },
+  {
+    "zip_code": 968,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 969,
+    "latitude": 18.362322,
+    "longitude": -66.113729,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guaynabo"
+  },
+  {
+    "zip_code": 970,
+    "latitude": 18.359143,
+    "longitude": -66.112295,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guaynabo"
+  },
+  {
+    "zip_code": 971,
+    "latitude": 18.30942,
+    "longitude": -66.113606,
+    "city": "Guaynabo",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Guaynabo"
+  },
+  {
+    "zip_code": 975,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "San Juan",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 976,
+    "latitude": 18.338133,
+    "longitude": -65.989229,
+    "city": "Trujillo Alto",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Trujillo Alto"
+  },
+  {
+    "zip_code": 977,
+    "latitude": 18.337004,
+    "longitude": -65.990099,
+    "city": "Trujillo Alto",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Trujillo Alto"
+  },
+  {
+    "zip_code": 978,
+    "latitude": 18.337004,
+    "longitude": -65.990099,
+    "city": "Saint Just Contract",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Trujillo Alto"
+  },
+  {
+    "zip_code": 979,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 981,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 982,
+    "latitude": 18.410462,
+    "longitude": -66.060533,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "San Juan"
+  },
+  {
+    "zip_code": 983,
+    "latitude": 18.413452,
+    "longitude": -65.977659,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 984,
+    "latitude": 18.393355,
+    "longitude": -65.972495,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 985,
+    "latitude": 18.345741,
+    "longitude": -65.93888,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 986,
+    "latitude": 18.393355,
+    "longitude": -65.972495,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 987,
+    "latitude": 18.373466,
+    "longitude": -65.959932,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 988,
+    "latitude": 18.393355,
+    "longitude": -65.972495,
+    "city": "Carolina",
+    "state": "PR",
+    "full_state": "Puerto Rico",
+    "county": "Carolina"
+  },
+  {
+    "zip_code": 1001,
+    "latitude": 42.140549,
+    "longitude": -72.788661,
+    "city": "Agawam",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1002,
+    "latitude": 42.367092,
+    "longitude": -72.464571,
+    "city": "Amherst",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1003,
+    "latitude": 42.369562,
+    "longitude": -72.63599,
+    "city": "Amherst",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1004,
+    "latitude": 42.384494,
+    "longitude": -72.513183,
+    "city": "Amherst",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1005,
+    "latitude": 42.32916,
+    "longitude": -72.139465,
+    "city": "Barre",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1007,
+    "latitude": 42.280267,
+    "longitude": -72.402056,
+    "city": "Belchertown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1008,
+    "latitude": 42.177833,
+    "longitude": -72.958359,
+    "city": "Blandford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1009,
+    "latitude": 42.206092,
+    "longitude": -72.340486,
+    "city": "Bondsville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1010,
+    "latitude": 42.108585,
+    "longitude": -72.20448,
+    "city": "Brimfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1011,
+    "latitude": 42.294259,
+    "longitude": -72.952776,
+    "city": "Chester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1012,
+    "latitude": 42.392274,
+    "longitude": -72.825607,
+    "city": "Chesterfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1013,
+    "latitude": 42.161492,
+    "longitude": -72.667341,
+    "city": "Chicopee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1014,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Chicopee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1020,
+    "latitude": 42.177492,
+    "longitude": -72.562563,
+    "city": "Chicopee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1021,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Chicopee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1022,
+    "latitude": 42.193392,
+    "longitude": -72.55436,
+    "city": "Chicopee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1026,
+    "latitude": 42.428617,
+    "longitude": -72.909841,
+    "city": "Cummington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1027,
+    "latitude": 42.368303,
+    "longitude": -72.768839,
+    "city": "Easthampton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1028,
+    "latitude": 42.062009,
+    "longitude": -72.49874,
+    "city": "East Longmeadow",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1029,
+    "latitude": 42.190904,
+    "longitude": -73.051661,
+    "city": "East Otis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1030,
+    "latitude": 42.189335,
+    "longitude": -72.79774,
+    "city": "Feeding Hills",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1031,
+    "latitude": 42.352554,
+    "longitude": -72.205724,
+    "city": "Gilbertville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1032,
+    "latitude": 42.443837,
+    "longitude": -72.819446,
+    "city": "Goshen",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1033,
+    "latitude": 42.262285,
+    "longitude": -72.504086,
+    "city": "Granby",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1034,
+    "latitude": 42.112748,
+    "longitude": -72.952003,
+    "city": "Granville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1035,
+    "latitude": 42.356804,
+    "longitude": -72.576613,
+    "city": "Hadley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1036,
+    "latitude": 42.067614,
+    "longitude": -72.417507,
+    "city": "Hampden",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1037,
+    "latitude": 42.347856,
+    "longitude": -72.225251,
+    "city": "Hardwick",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1038,
+    "latitude": 42.387269,
+    "longitude": -72.643081,
+    "city": "Hatfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1039,
+    "latitude": 42.35641,
+    "longitude": -72.682127,
+    "city": "Haydenville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1040,
+    "latitude": 42.198291,
+    "longitude": -72.64207,
+    "city": "Holyoke",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1041,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Holyoke",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1050,
+    "latitude": 42.313427,
+    "longitude": -72.903677,
+    "city": "Huntington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1053,
+    "latitude": 42.353838,
+    "longitude": -72.704385,
+    "city": "Leeds",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1054,
+    "latitude": 42.474681,
+    "longitude": -72.467543,
+    "city": "Leverett",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1056,
+    "latitude": 42.173276,
+    "longitude": -72.627038,
+    "city": "Ludlow",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1057,
+    "latitude": 42.095323,
+    "longitude": -72.282063,
+    "city": "Monson",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1059,
+    "latitude": 42.369562,
+    "longitude": -72.63599,
+    "city": "North Amherst",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1060,
+    "latitude": 42.415154,
+    "longitude": -72.76927,
+    "city": "Northampton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1061,
+    "latitude": 42.369562,
+    "longitude": -72.63599,
+    "city": "Northampton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1062,
+    "latitude": 42.328838,
+    "longitude": -72.845227,
+    "city": "Florence",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1063,
+    "latitude": 42.317939,
+    "longitude": -72.640234,
+    "city": "Northampton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1066,
+    "latitude": 42.406697,
+    "longitude": -72.633901,
+    "city": "North Hatfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1068,
+    "latitude": 42.346144,
+    "longitude": -72.058847,
+    "city": "Oakham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1069,
+    "latitude": 42.176131,
+    "longitude": -72.31457,
+    "city": "Palmer",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1070,
+    "latitude": 42.448984,
+    "longitude": -72.958397,
+    "city": "Plainfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1071,
+    "latitude": 42.177432,
+    "longitude": -72.864558,
+    "city": "Russell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1072,
+    "latitude": 42.471562,
+    "longitude": -72.44017,
+    "city": "Shutesbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1073,
+    "latitude": 42.230008,
+    "longitude": -72.728463,
+    "city": "Southampton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1074,
+    "latitude": 42.375998,
+    "longitude": -72.149388,
+    "city": "South Barre",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1075,
+    "latitude": 42.24984,
+    "longitude": -72.58152,
+    "city": "South Hadley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1077,
+    "latitude": 42.066644,
+    "longitude": -72.541205,
+    "city": "Southwick",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1079,
+    "latitude": 42.192892,
+    "longitude": -72.329574,
+    "city": "Thorndike",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1080,
+    "latitude": 42.179805,
+    "longitude": -72.517813,
+    "city": "Three Rivers",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1081,
+    "latitude": 42.061948,
+    "longitude": -72.213598,
+    "city": "Wales",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1082,
+    "latitude": 42.377471,
+    "longitude": -72.548549,
+    "city": "Ware",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1083,
+    "latitude": 42.204027,
+    "longitude": -72.199439,
+    "city": "Warren",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1084,
+    "latitude": 42.390303,
+    "longitude": -72.870857,
+    "city": "West Chesterfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1085,
+    "latitude": 42.14869,
+    "longitude": -72.501887,
+    "city": "Westfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1086,
+    "latitude": 42.173428,
+    "longitude": -72.847964,
+    "city": "Westfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1088,
+    "latitude": 42.390583,
+    "longitude": -72.646894,
+    "city": "West Hatfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1089,
+    "latitude": 42.125793,
+    "longitude": -72.645334,
+    "city": "West Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1090,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "West Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1092,
+    "latitude": 42.202887,
+    "longitude": -72.229025,
+    "city": "West Warren",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1093,
+    "latitude": 42.442673,
+    "longitude": -72.652511,
+    "city": "Whately",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1094,
+    "latitude": 42.358201,
+    "longitude": -72.140846,
+    "city": "Wheelwright",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1095,
+    "latitude": 42.125974,
+    "longitude": -72.489988,
+    "city": "Wilbraham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1096,
+    "latitude": 42.413069,
+    "longitude": -72.821653,
+    "city": "Williamsburg",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1097,
+    "latitude": 42.161743,
+    "longitude": -72.845912,
+    "city": "Woronoco",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1098,
+    "latitude": 42.40494,
+    "longitude": -72.896133,
+    "city": "Worthington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1101,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1102,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1103,
+    "latitude": 42.103044,
+    "longitude": -72.590783,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1104,
+    "latitude": 42.128605,
+    "longitude": -72.567966,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1105,
+    "latitude": 42.099793,
+    "longitude": -72.577732,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1106,
+    "latitude": 42.049194,
+    "longitude": -72.567882,
+    "city": "Longmeadow",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1107,
+    "latitude": 42.126237,
+    "longitude": -72.586733,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1108,
+    "latitude": 42.080594,
+    "longitude": -72.558081,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1109,
+    "latitude": 42.119293,
+    "longitude": -72.548981,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1111,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1114,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1115,
+    "latitude": 42.102894,
+    "longitude": -72.591633,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1116,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Longmeadow",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1118,
+    "latitude": 42.093894,
+    "longitude": -72.523227,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1119,
+    "latitude": 42.124943,
+    "longitude": -72.526705,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1128,
+    "latitude": 42.094616,
+    "longitude": -72.487229,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1129,
+    "latitude": 42.124485,
+    "longitude": -72.489479,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1133,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1138,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1139,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1144,
+    "latitude": 42.101796,
+    "longitude": -72.59151,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1151,
+    "latitude": 42.150593,
+    "longitude": -72.51278,
+    "city": "Indian Orchard",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1152,
+    "latitude": 42.170731,
+    "longitude": -72.604842,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1199,
+    "latitude": 42.119943,
+    "longitude": -72.604983,
+    "city": "Springfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1201,
+    "latitude": 42.479475,
+    "longitude": -73.24807,
+    "city": "Pittsfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1202,
+    "latitude": 42.3929,
+    "longitude": -73.228483,
+    "city": "Pittsfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1203,
+    "latitude": 42.3929,
+    "longitude": -73.228483,
+    "city": "Pittsfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1220,
+    "latitude": 42.385595,
+    "longitude": -73.172166,
+    "city": "Adams",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1222,
+    "latitude": 42.185969,
+    "longitude": -73.318695,
+    "city": "Ashley Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1223,
+    "latitude": 42.3418,
+    "longitude": -73.103468,
+    "city": "Becket",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1224,
+    "latitude": 42.3929,
+    "longitude": -73.228483,
+    "city": "Berkshire",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1225,
+    "latitude": 42.482125,
+    "longitude": -73.127483,
+    "city": "Cheshire",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1226,
+    "latitude": 42.470296,
+    "longitude": -73.08895,
+    "city": "Dalton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1227,
+    "latitude": 42.516145,
+    "longitude": -73.092852,
+    "city": "Dalton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1229,
+    "latitude": 42.279292,
+    "longitude": -73.343545,
+    "city": "Glendale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1230,
+    "latitude": 42.299392,
+    "longitude": -73.26665,
+    "city": "Great Barrington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1235,
+    "latitude": 42.29237,
+    "longitude": -73.22164,
+    "city": "Hinsdale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1236,
+    "latitude": 42.291299,
+    "longitude": -73.358798,
+    "city": "Housatonic",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1237,
+    "latitude": 42.487569,
+    "longitude": -73.235048,
+    "city": "Lanesboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1238,
+    "latitude": 42.369856,
+    "longitude": -73.267465,
+    "city": "Lee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1240,
+    "latitude": 42.459202,
+    "longitude": -73.219858,
+    "city": "Lenox",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1242,
+    "latitude": 42.338594,
+    "longitude": -73.250891,
+    "city": "Lenox Dale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1243,
+    "latitude": 42.356088,
+    "longitude": -73.010448,
+    "city": "Middlefield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampshire"
+  },
+  {
+    "zip_code": 1244,
+    "latitude": 42.122827,
+    "longitude": -73.253983,
+    "city": "Mill River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1245,
+    "latitude": 42.18669,
+    "longitude": -73.206498,
+    "city": "Monterey",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1247,
+    "latitude": 42.426974,
+    "longitude": -73.18632,
+    "city": "North Adams",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1252,
+    "latitude": 42.198648,
+    "longitude": -73.446234,
+    "city": "North Egremont",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1253,
+    "latitude": 42.213156,
+    "longitude": -73.090434,
+    "city": "Otis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1254,
+    "latitude": 42.233105,
+    "longitude": -73.238358,
+    "city": "Richmond",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1255,
+    "latitude": 42.148975,
+    "longitude": -73.14861,
+    "city": "Sandisfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1256,
+    "latitude": 42.367341,
+    "longitude": -73.128528,
+    "city": "Savoy",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1257,
+    "latitude": 42.314564,
+    "longitude": -73.267694,
+    "city": "Sheffield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1258,
+    "latitude": 42.128075,
+    "longitude": -73.36089,
+    "city": "South Egremont",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1259,
+    "latitude": 42.198712,
+    "longitude": -73.278543,
+    "city": "Southfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1260,
+    "latitude": 42.286586,
+    "longitude": -73.313274,
+    "city": "South Lee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1262,
+    "latitude": 42.304604,
+    "longitude": -73.330001,
+    "city": "Stockbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1263,
+    "latitude": 42.3929,
+    "longitude": -73.228483,
+    "city": "Stockbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1264,
+    "latitude": 42.220001,
+    "longitude": -73.197865,
+    "city": "Tyringham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1266,
+    "latitude": 42.360482,
+    "longitude": -73.265354,
+    "city": "West Stockbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1267,
+    "latitude": 42.642075,
+    "longitude": -73.257699,
+    "city": "Williamstown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1270,
+    "latitude": 42.443726,
+    "longitude": -73.116127,
+    "city": "Windsor",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1301,
+    "latitude": 42.601335,
+    "longitude": -72.623619,
+    "city": "Greenfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1302,
+    "latitude": 42.522178,
+    "longitude": -72.624164,
+    "city": "Greenfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1330,
+    "latitude": 42.562391,
+    "longitude": -72.738152,
+    "city": "Ashfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1331,
+    "latitude": 42.547302,
+    "longitude": -72.183903,
+    "city": "Athol",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1337,
+    "latitude": 42.62706,
+    "longitude": -72.642888,
+    "city": "Bernardston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1338,
+    "latitude": 42.573832,
+    "longitude": -72.769487,
+    "city": "Buckland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1339,
+    "latitude": 42.594252,
+    "longitude": -72.665507,
+    "city": "Charlemont",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1340,
+    "latitude": 42.681539,
+    "longitude": -72.822986,
+    "city": "Colrain",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1341,
+    "latitude": 42.590824,
+    "longitude": -72.70976,
+    "city": "Conway",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1342,
+    "latitude": 42.54723,
+    "longitude": -72.607679,
+    "city": "Deerfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1343,
+    "latitude": 42.642666,
+    "longitude": -72.986231,
+    "city": "Drury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Berkshire"
+  },
+  {
+    "zip_code": 1344,
+    "latitude": 42.627072,
+    "longitude": -72.553654,
+    "city": "Erving",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1346,
+    "latitude": 42.618011,
+    "longitude": -72.788896,
+    "city": "Heath",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1347,
+    "latitude": 42.556558,
+    "longitude": -72.518104,
+    "city": "Lake Pleasant",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1349,
+    "latitude": 42.621412,
+    "longitude": -72.705633,
+    "city": "Turners Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1350,
+    "latitude": 42.721456,
+    "longitude": -72.976204,
+    "city": "Monroe Bridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1351,
+    "latitude": 42.548107,
+    "longitude": -72.48693,
+    "city": "Montague",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1354,
+    "latitude": 42.522178,
+    "longitude": -72.624164,
+    "city": "Northfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1355,
+    "latitude": 42.518718,
+    "longitude": -72.534371,
+    "city": "New Salem",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1360,
+    "latitude": 42.614152,
+    "longitude": -72.528209,
+    "city": "Northfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1364,
+    "latitude": 42.578325,
+    "longitude": -72.556589,
+    "city": "Orange",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1366,
+    "latitude": 42.459632,
+    "longitude": -72.182962,
+    "city": "Petersham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1367,
+    "latitude": 42.683065,
+    "longitude": -72.715667,
+    "city": "Rowe",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1368,
+    "latitude": 42.672182,
+    "longitude": -72.196376,
+    "city": "Royalston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1369,
+    "latitude": 42.522178,
+    "longitude": -72.624164,
+    "city": "Shattuckville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1370,
+    "latitude": 42.588812,
+    "longitude": -72.758781,
+    "city": "Shelburne Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1373,
+    "latitude": 42.464522,
+    "longitude": -72.682346,
+    "city": "South Deerfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1375,
+    "latitude": 42.565346,
+    "longitude": -72.70094,
+    "city": "Sunderland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1376,
+    "latitude": 42.654878,
+    "longitude": -72.718123,
+    "city": "Turners Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1378,
+    "latitude": 42.667059,
+    "longitude": -72.339655,
+    "city": "Warwick",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1379,
+    "latitude": 42.581007,
+    "longitude": -72.437179,
+    "city": "Wendell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1380,
+    "latitude": 42.553431,
+    "longitude": -72.392694,
+    "city": "Wendell Depot",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 1420,
+    "latitude": 42.583689,
+    "longitude": -71.816767,
+    "city": "Fitchburg",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1430,
+    "latitude": 42.654906,
+    "longitude": -71.920942,
+    "city": "Ashburnham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1431,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Ashby",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1432,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Ayer",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1436,
+    "latitude": 42.601427,
+    "longitude": -72.083838,
+    "city": "Baldwinville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1438,
+    "latitude": 42.551681,
+    "longitude": -72.029434,
+    "city": "East Templeton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1440,
+    "latitude": 42.582529,
+    "longitude": -72.025884,
+    "city": "Gardner",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1441,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Westminster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1450,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Groton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1451,
+    "latitude": 42.500187,
+    "longitude": -71.575864,
+    "city": "Harvard",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1452,
+    "latitude": 42.483895,
+    "longitude": -72.011516,
+    "city": "Hubbardston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1453,
+    "latitude": 42.471316,
+    "longitude": -71.837509,
+    "city": "Leominster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1460,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Littleton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1462,
+    "latitude": 42.583322,
+    "longitude": -71.752266,
+    "city": "Lunenburg",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1463,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Pepperell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1464,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Shirley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1467,
+    "latitude": 42.487056,
+    "longitude": -71.613078,
+    "city": "Still River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1468,
+    "latitude": 42.555059,
+    "longitude": -72.072285,
+    "city": "Templeton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1469,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Townsend",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1470,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Groton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1471,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Groton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1472,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "West Groton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1473,
+    "latitude": 42.549489,
+    "longitude": -71.913219,
+    "city": "Westminster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1474,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "West Townsend",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1475,
+    "latitude": 42.661612,
+    "longitude": -72.047876,
+    "city": "Winchendon",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1477,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Winchendon Springs",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1501,
+    "latitude": 42.184835,
+    "longitude": -71.947184,
+    "city": "Auburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1503,
+    "latitude": 42.3129,
+    "longitude": -71.841656,
+    "city": "Berlin",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1504,
+    "latitude": 42.114078,
+    "longitude": -71.799785,
+    "city": "Blackstone",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1505,
+    "latitude": 42.300037,
+    "longitude": -71.943458,
+    "city": "Boylston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1506,
+    "latitude": 42.19169,
+    "longitude": -72.105011,
+    "city": "Brookfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1507,
+    "latitude": 42.13277,
+    "longitude": -71.972627,
+    "city": "Charlton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1508,
+    "latitude": 42.109748,
+    "longitude": -72.079455,
+    "city": "Charlton City",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1509,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Charlton Depot",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1510,
+    "latitude": 42.413972,
+    "longitude": -71.687523,
+    "city": "Clinton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1515,
+    "latitude": 42.205311,
+    "longitude": -72.049907,
+    "city": "East Brookfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1516,
+    "latitude": 42.113076,
+    "longitude": -71.891139,
+    "city": "Douglas",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1517,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "East Princeton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1518,
+    "latitude": 42.106405,
+    "longitude": -72.114045,
+    "city": "Fiskdale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1519,
+    "latitude": 42.203944,
+    "longitude": -71.682862,
+    "city": "Grafton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1520,
+    "latitude": 42.336791,
+    "longitude": -71.845316,
+    "city": "Holden",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1521,
+    "latitude": 42.061063,
+    "longitude": -72.163991,
+    "city": "Holland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Hampden"
+  },
+  {
+    "zip_code": 1522,
+    "latitude": 42.264629,
+    "longitude": -71.795442,
+    "city": "Jefferson",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1523,
+    "latitude": 42.427188,
+    "longitude": -71.91177,
+    "city": "Lancaster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1524,
+    "latitude": 42.238192,
+    "longitude": -72.012379,
+    "city": "Leicester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1525,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Linwood",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1526,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Manchaug",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1527,
+    "latitude": 42.255642,
+    "longitude": -71.819961,
+    "city": "Millbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1529,
+    "latitude": 42.124662,
+    "longitude": -71.846943,
+    "city": "Millville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1531,
+    "latitude": 42.320938,
+    "longitude": -72.128644,
+    "city": "New Braintree",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1532,
+    "latitude": 42.322118,
+    "longitude": -71.64282,
+    "city": "Northborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1534,
+    "latitude": 42.207191,
+    "longitude": -71.856807,
+    "city": "Northbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1535,
+    "latitude": 42.275382,
+    "longitude": -72.089338,
+    "city": "North Brookfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1536,
+    "latitude": 42.407556,
+    "longitude": -71.860402,
+    "city": "North Grafton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1537,
+    "latitude": 42.166241,
+    "longitude": -71.891052,
+    "city": "North Oxford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1538,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "North Uxbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1540,
+    "latitude": 42.109223,
+    "longitude": -71.855444,
+    "city": "Oxford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1541,
+    "latitude": 42.451926,
+    "longitude": -71.880057,
+    "city": "Princeton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1542,
+    "latitude": 42.220085,
+    "longitude": -71.914361,
+    "city": "Rochdale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1543,
+    "latitude": 42.383516,
+    "longitude": -71.95463,
+    "city": "Rutland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1545,
+    "latitude": 42.286992,
+    "longitude": -71.715313,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1546,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1550,
+    "latitude": 42.129251,
+    "longitude": -72.031155,
+    "city": "Southbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1560,
+    "latitude": 42.176544,
+    "longitude": -71.681912,
+    "city": "South Grafton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1561,
+    "latitude": 42.443539,
+    "longitude": -71.686137,
+    "city": "South Lancaster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1562,
+    "latitude": 42.254837,
+    "longitude": -72.065612,
+    "city": "Spencer",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1564,
+    "latitude": 42.366765,
+    "longitude": -71.939375,
+    "city": "Sterling",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1566,
+    "latitude": 42.10273,
+    "longitude": -72.080996,
+    "city": "Sturbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1568,
+    "latitude": 42.175591,
+    "longitude": -71.603197,
+    "city": "Upton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1569,
+    "latitude": 42.059736,
+    "longitude": -71.638438,
+    "city": "Uxbridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1570,
+    "latitude": 42.1351,
+    "longitude": -71.994169,
+    "city": "Webster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1571,
+    "latitude": 42.059189,
+    "longitude": -71.937037,
+    "city": "Dudley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1580,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Westborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1581,
+    "latitude": 42.255222,
+    "longitude": -71.845865,
+    "city": "Westborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1582,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Westborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1583,
+    "latitude": 42.362783,
+    "longitude": -71.781215,
+    "city": "West Boylston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1585,
+    "latitude": 42.235638,
+    "longitude": -72.172523,
+    "city": "West Brookfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1586,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "West Millbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1588,
+    "latitude": 42.166554,
+    "longitude": -71.899484,
+    "city": "Whitinsville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1590,
+    "latitude": 42.126575,
+    "longitude": -71.755193,
+    "city": "Sutton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1601,
+    "latitude": 42.265275,
+    "longitude": -71.879415,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1602,
+    "latitude": 42.274595,
+    "longitude": -71.846966,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1603,
+    "latitude": 42.245442,
+    "longitude": -71.839257,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1604,
+    "latitude": 42.247955,
+    "longitude": -71.76678,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1605,
+    "latitude": 42.288792,
+    "longitude": -71.796128,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1606,
+    "latitude": 42.311834,
+    "longitude": -71.794465,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1607,
+    "latitude": 42.226452,
+    "longitude": -71.792506,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1608,
+    "latitude": 42.293501,
+    "longitude": -71.925696,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1609,
+    "latitude": 42.282565,
+    "longitude": -71.827685,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1610,
+    "latitude": 42.246483,
+    "longitude": -71.808915,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1611,
+    "latitude": 42.239392,
+    "longitude": -71.878716,
+    "city": "Cherry Valley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1612,
+    "latitude": 42.304675,
+    "longitude": -71.892875,
+    "city": "Paxton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1613,
+    "latitude": 42.293316,
+    "longitude": -71.801971,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1614,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1615,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1653,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1654,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1655,
+    "latitude": 42.364807,
+    "longitude": -71.896868,
+    "city": "Worcester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1701,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Framingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1702,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Framingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1703,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Framingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1704,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Framingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1705,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Framingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1718,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Village Of Nagog Woods",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1719,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Boxborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1720,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Acton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1721,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Ashland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1730,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1731,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Hanscom Afb",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1740,
+    "latitude": 42.436043,
+    "longitude": -71.605916,
+    "city": "Bolton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1741,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Carlisle",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1742,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Concord",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1745,
+    "latitude": 42.293442,
+    "longitude": -71.502762,
+    "city": "Fayville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1746,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Holliston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1747,
+    "latitude": 42.127515,
+    "longitude": -71.533138,
+    "city": "Hopedale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1748,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Hopkinton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1749,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Hudson",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1752,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Marlborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1754,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Maynard",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1756,
+    "latitude": 42.100352,
+    "longitude": -71.546961,
+    "city": "Mendon",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1757,
+    "latitude": 42.147087,
+    "longitude": -71.528085,
+    "city": "Milford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1760,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Natick",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1770,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Sherborn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1772,
+    "latitude": 42.296842,
+    "longitude": -71.533229,
+    "city": "Southborough",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 1773,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lincoln",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1775,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Stow",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1776,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Sudbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1778,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Wayland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1784,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woodville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1801,
+    "latitude": 42.488595,
+    "longitude": -71.157271,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1803,
+    "latitude": 42.504844,
+    "longitude": -71.201539,
+    "city": "Burlington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1805,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Burlington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1806,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1807,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1808,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1810,
+    "latitude": 42.647991,
+    "longitude": -71.165685,
+    "city": "Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1812,
+    "latitude": 42.647191,
+    "longitude": -71.184202,
+    "city": "Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1813,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1815,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1821,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Billerica",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1822,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Billerica",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1824,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Chelmsford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1826,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Dracut",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1827,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Dunstable",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1830,
+    "latitude": 42.792639,
+    "longitude": -71.072501,
+    "city": "Haverhill",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1831,
+    "latitude": 42.771095,
+    "longitude": -71.122054,
+    "city": "Haverhill",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1832,
+    "latitude": 42.789627,
+    "longitude": -71.126562,
+    "city": "Haverhill",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1833,
+    "latitude": 42.72377,
+    "longitude": -70.981298,
+    "city": "Georgetown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1834,
+    "latitude": 42.751074,
+    "longitude": -71.021437,
+    "city": "Groveland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1835,
+    "latitude": 42.752844,
+    "longitude": -71.084301,
+    "city": "Haverhill",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1840,
+    "latitude": 42.70734,
+    "longitude": -71.161052,
+    "city": "Lawrence",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1841,
+    "latitude": 42.70979,
+    "longitude": -71.164402,
+    "city": "Lawrence",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1842,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Lawrence",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1843,
+    "latitude": 42.71037,
+    "longitude": -71.088303,
+    "city": "Lawrence",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1844,
+    "latitude": 42.73184,
+    "longitude": -71.186915,
+    "city": "Methuen",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1845,
+    "latitude": 42.672835,
+    "longitude": -71.087689,
+    "city": "North Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1850,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lowell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1851,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lowell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1852,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lowell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1853,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lowell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1854,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Lowell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1860,
+    "latitude": 42.802441,
+    "longitude": -71.0896,
+    "city": "Merrimac",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1862,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "North Billerica",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1863,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "North Chelmsford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1864,
+    "latitude": 42.581332,
+    "longitude": -71.083725,
+    "city": "North Reading",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1865,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Nutting Lake",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1866,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Pinehurst",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1867,
+    "latitude": 42.537065,
+    "longitude": -71.107172,
+    "city": "Reading",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1876,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Tewksbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1879,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Tyngsboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1880,
+    "latitude": 42.499891,
+    "longitude": -71.068829,
+    "city": "Wakefield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1885,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "West Boxford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1886,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Westford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1887,
+    "latitude": 42.561782,
+    "longitude": -71.173888,
+    "city": "Wilmington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1888,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Woburn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1889,
+    "latitude": 42.571633,
+    "longitude": -71.109646,
+    "city": "North Reading",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1890,
+    "latitude": 42.454545,
+    "longitude": -71.148779,
+    "city": "Winchester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 1899,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Andover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1901,
+    "latitude": 42.461246,
+    "longitude": -70.946743,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1902,
+    "latitude": 42.473195,
+    "longitude": -70.928593,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1903,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1904,
+    "latitude": 42.488896,
+    "longitude": -70.964694,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1905,
+    "latitude": 42.469395,
+    "longitude": -70.972844,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1906,
+    "latitude": 42.472112,
+    "longitude": -70.997794,
+    "city": "Saugus",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1907,
+    "latitude": 42.513295,
+    "longitude": -70.905893,
+    "city": "Swampscott",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1908,
+    "latitude": 42.427296,
+    "longitude": -70.922442,
+    "city": "Nahant",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1910,
+    "latitude": 42.454796,
+    "longitude": -70.974694,
+    "city": "Lynn",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1913,
+    "latitude": 42.853539,
+    "longitude": -70.948211,
+    "city": "Amesbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1915,
+    "latitude": 42.565145,
+    "longitude": -70.853843,
+    "city": "Beverly",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1921,
+    "latitude": 42.683256,
+    "longitude": -71.017403,
+    "city": "Boxford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1922,
+    "latitude": 42.763216,
+    "longitude": -70.92812,
+    "city": "Byfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1923,
+    "latitude": 42.577188,
+    "longitude": -70.949245,
+    "city": "Danvers",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1929,
+    "latitude": 42.62781,
+    "longitude": -70.780576,
+    "city": "Essex",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1930,
+    "latitude": 42.630011,
+    "longitude": -70.694179,
+    "city": "Gloucester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1931,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Gloucester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1936,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Hamilton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1937,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Hathorne",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1938,
+    "latitude": 42.68571,
+    "longitude": -70.864132,
+    "city": "Ipswich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1940,
+    "latitude": 42.533732,
+    "longitude": -71.028775,
+    "city": "Lynnfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1944,
+    "latitude": 42.579503,
+    "longitude": -70.755062,
+    "city": "Manchester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1945,
+    "latitude": 42.56142,
+    "longitude": -70.770768,
+    "city": "Marblehead",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1949,
+    "latitude": 42.644942,
+    "longitude": -71.087905,
+    "city": "Middleton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1950,
+    "latitude": 42.80965,
+    "longitude": -70.873196,
+    "city": "Newburyport",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1951,
+    "latitude": 42.777524,
+    "longitude": -70.867246,
+    "city": "Newbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1952,
+    "latitude": 42.851234,
+    "longitude": -70.865667,
+    "city": "Salisbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1960,
+    "latitude": 42.536996,
+    "longitude": -70.973646,
+    "city": "Peabody",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1961,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Peabody",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1965,
+    "latitude": 42.558113,
+    "longitude": -70.825743,
+    "city": "Prides Crossing",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1966,
+    "latitude": 42.657866,
+    "longitude": -70.618057,
+    "city": "Rockport",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1969,
+    "latitude": 42.716155,
+    "longitude": -70.892754,
+    "city": "Rowley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1970,
+    "latitude": 42.512946,
+    "longitude": -70.904237,
+    "city": "Salem",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1971,
+    "latitude": 42.635443,
+    "longitude": -70.879123,
+    "city": "Salem",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1982,
+    "latitude": 42.626664,
+    "longitude": -70.851125,
+    "city": "South Hamilton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1983,
+    "latitude": 42.661793,
+    "longitude": -70.954487,
+    "city": "Topsfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1984,
+    "latitude": 42.597691,
+    "longitude": -70.8732,
+    "city": "Wenham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 1985,
+    "latitude": 42.79414,
+    "longitude": -70.971068,
+    "city": "West Newbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 2018,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Accord",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2019,
+    "latitude": 42.076501,
+    "longitude": -71.470464,
+    "city": "Bellingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2020,
+    "latitude": 42.081825,
+    "longitude": -70.643868,
+    "city": "Brant Rock",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2021,
+    "latitude": 42.179146,
+    "longitude": -71.121185,
+    "city": "Canton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2025,
+    "latitude": 42.233938,
+    "longitude": -70.815826,
+    "city": "Cohasset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2026,
+    "latitude": 42.244733,
+    "longitude": -71.181141,
+    "city": "Dedham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2027,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Dedham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2030,
+    "latitude": 42.236114,
+    "longitude": -71.283072,
+    "city": "Dover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2031,
+    "latitude": 41.998799,
+    "longitude": -71.200894,
+    "city": "East Mansfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2032,
+    "latitude": 42.153786,
+    "longitude": -71.21455,
+    "city": "East Walpole",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2035,
+    "latitude": 42.062204,
+    "longitude": -71.235774,
+    "city": "Foxboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2038,
+    "latitude": 42.08868,
+    "longitude": -71.404814,
+    "city": "Franklin",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2040,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Greenbush",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2041,
+    "latitude": 42.069642,
+    "longitude": -70.649075,
+    "city": "Green Harbor",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2043,
+    "latitude": 42.212105,
+    "longitude": -70.884989,
+    "city": "Hingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2044,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Hingham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2045,
+    "latitude": 42.284413,
+    "longitude": -70.873659,
+    "city": "Hull",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2047,
+    "latitude": 42.142836,
+    "longitude": -70.69353,
+    "city": "Humarock",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2048,
+    "latitude": 42.013182,
+    "longitude": -71.218373,
+    "city": "Mansfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2050,
+    "latitude": 42.111805,
+    "longitude": -70.710744,
+    "city": "Marshfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2051,
+    "latitude": 42.151202,
+    "longitude": -70.734146,
+    "city": "Marshfield Hills",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2052,
+    "latitude": 42.181265,
+    "longitude": -71.309934,
+    "city": "Medfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2053,
+    "latitude": 42.156282,
+    "longitude": -71.427663,
+    "city": "Medway",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2054,
+    "latitude": 42.165249,
+    "longitude": -71.36126,
+    "city": "Millis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2055,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Minot",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2056,
+    "latitude": 42.117511,
+    "longitude": -71.331793,
+    "city": "Norfolk",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2059,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "North Marshfield",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2060,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "North Scituate",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2061,
+    "latitude": 42.154145,
+    "longitude": -70.823035,
+    "city": "Norwell",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2062,
+    "latitude": 42.182798,
+    "longitude": -71.196277,
+    "city": "Norwood",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2065,
+    "latitude": 42.097219,
+    "longitude": -70.651567,
+    "city": "Ocean Bluff",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2066,
+    "latitude": 42.207254,
+    "longitude": -70.770188,
+    "city": "Scituate",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2067,
+    "latitude": 42.105288,
+    "longitude": -71.184785,
+    "city": "Sharon",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2070,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Sheldonville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2071,
+    "latitude": 42.100399,
+    "longitude": -71.270933,
+    "city": "South Walpole",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2072,
+    "latitude": 42.118416,
+    "longitude": -71.105733,
+    "city": "Stoughton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2081,
+    "latitude": 42.148624,
+    "longitude": -71.255533,
+    "city": "Walpole",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2090,
+    "latitude": 42.220548,
+    "longitude": -71.199238,
+    "city": "Westwood",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2093,
+    "latitude": 42.054311,
+    "longitude": -71.371169,
+    "city": "Wrentham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2101,
+    "latitude": 42.370567,
+    "longitude": -71.026964,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2102,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2103,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2104,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2105,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2106,
+    "latitude": 42.354318,
+    "longitude": -71.073449,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2107,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2108,
+    "latitude": 42.353806,
+    "longitude": -71.102446,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2109,
+    "latitude": 42.360027,
+    "longitude": -71.054495,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2110,
+    "latitude": 42.352847,
+    "longitude": -71.051466,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2111,
+    "latitude": 42.351047,
+    "longitude": -71.059365,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2112,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2113,
+    "latitude": 42.365398,
+    "longitude": -71.055001,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2114,
+    "latitude": 42.362097,
+    "longitude": -71.023661,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2115,
+    "latitude": 42.342043,
+    "longitude": -71.096848,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2116,
+    "latitude": 42.347207,
+    "longitude": -71.086095,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2117,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2118,
+    "latitude": 42.336162,
+    "longitude": -71.072854,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2119,
+    "latitude": 42.323077,
+    "longitude": -71.084608,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2120,
+    "latitude": 42.332484,
+    "longitude": -71.096416,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2121,
+    "latitude": 42.307098,
+    "longitude": -71.081645,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2122,
+    "latitude": 42.29658,
+    "longitude": -71.055215,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2123,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2124,
+    "latitude": 42.286784,
+    "longitude": -71.071045,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2125,
+    "latitude": 42.31476,
+    "longitude": -71.067244,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2126,
+    "latitude": 42.301247,
+    "longitude": -71.105195,
+    "city": "Mattapan",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2127,
+    "latitude": 42.329023,
+    "longitude": -71.020343,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2128,
+    "latitude": 42.364197,
+    "longitude": -71.025694,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2129,
+    "latitude": 42.382588,
+    "longitude": -71.065287,
+    "city": "Charlestown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2130,
+    "latitude": 42.309661,
+    "longitude": -71.121097,
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2131,
+    "latitude": 42.284197,
+    "longitude": -71.120896,
+    "city": "Roslindale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2132,
+    "latitude": 42.277897,
+    "longitude": -71.155833,
+    "city": "West Roxbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2133,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2134,
+    "latitude": 42.357169,
+    "longitude": -71.112646,
+    "city": "Allston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2135,
+    "latitude": 42.349768,
+    "longitude": -71.104888,
+    "city": "Brighton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2136,
+    "latitude": 42.254248,
+    "longitude": -71.129321,
+    "city": "Hyde Park",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2137,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Readville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2138,
+    "latitude": 42.380442,
+    "longitude": -71.132947,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2139,
+    "latitude": 42.365146,
+    "longitude": -71.101842,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2140,
+    "latitude": 42.393246,
+    "longitude": -71.133833,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2141,
+    "latitude": 42.368673,
+    "longitude": -71.083596,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2142,
+    "latitude": 42.36284,
+    "longitude": -71.084814,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2143,
+    "latitude": 42.38092,
+    "longitude": -71.098896,
+    "city": "Somerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2144,
+    "latitude": 42.402696,
+    "longitude": -71.12022,
+    "city": "Somerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2145,
+    "latitude": 42.391046,
+    "longitude": -71.095146,
+    "city": "Somerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2148,
+    "latitude": 42.436545,
+    "longitude": -71.085396,
+    "city": "Malden",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2149,
+    "latitude": 42.407396,
+    "longitude": -71.051183,
+    "city": "Everett",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2150,
+    "latitude": 42.378197,
+    "longitude": -71.038894,
+    "city": "Chelsea",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2151,
+    "latitude": 42.366303,
+    "longitude": -71.020494,
+    "city": "Revere",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2152,
+    "latitude": 42.378447,
+    "longitude": -70.981679,
+    "city": "Winthrop",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2153,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Medford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2155,
+    "latitude": 42.422095,
+    "longitude": -71.109297,
+    "city": "Medford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2156,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "West Medford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2163,
+    "latitude": 42.32532,
+    "longitude": -71.112159,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2169,
+    "latitude": 42.241799,
+    "longitude": -71.006042,
+    "city": "Quincy",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2170,
+    "latitude": 42.267248,
+    "longitude": -71.016742,
+    "city": "Quincy",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2171,
+    "latitude": 42.284898,
+    "longitude": -71.014243,
+    "city": "Quincy",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2176,
+    "latitude": 42.458995,
+    "longitude": -71.053095,
+    "city": "Melrose",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2177,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Melrose",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2180,
+    "latitude": 42.474595,
+    "longitude": -71.098146,
+    "city": "Stoneham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2184,
+    "latitude": 42.202216,
+    "longitude": -71.005192,
+    "city": "Braintree",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2185,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Braintree",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2186,
+    "latitude": 42.240598,
+    "longitude": -71.078494,
+    "city": "Milton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2187,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Milton Village",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2188,
+    "latitude": 42.20794,
+    "longitude": -70.95514,
+    "city": "Weymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2189,
+    "latitude": 42.210649,
+    "longitude": -70.932318,
+    "city": "Weymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2190,
+    "latitude": 42.167841,
+    "longitude": -70.95074,
+    "city": "Weymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2191,
+    "latitude": 42.251499,
+    "longitude": -70.94484,
+    "city": "Weymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2196,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2199,
+    "latitude": 42.347247,
+    "longitude": -71.082395,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2201,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2202,
+    "latitude": 42.361094,
+    "longitude": -71.061814,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2203,
+    "latitude": 42.361485,
+    "longitude": -71.060364,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2204,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2205,
+    "latitude": 42.350334,
+    "longitude": -71.053877,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2206,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2207,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2208,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2209,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2210,
+    "latitude": 42.347547,
+    "longitude": -71.040645,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2211,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2212,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2215,
+    "latitude": 42.345079,
+    "longitude": -71.107653,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2216,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2217,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2222,
+    "latitude": 42.364381,
+    "longitude": -71.063314,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2228,
+    "latitude": 42.375,
+    "longitude": -71.03972,
+    "city": "East Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2238,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2239,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Cambridge",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2241,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2266,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2269,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Quincy",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2283,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2284,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2293,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2295,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2297,
+    "latitude": 42.338947,
+    "longitude": -70.919635,
+    "city": "Boston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Suffolk"
+  },
+  {
+    "zip_code": 2301,
+    "latitude": 42.079399,
+    "longitude": -71.03999,
+    "city": "Brockton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2302,
+    "latitude": 42.08475,
+    "longitude": -71.000189,
+    "city": "Brockton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2303,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Brockton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2304,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Brockton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2305,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Brockton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2322,
+    "latitude": 42.126049,
+    "longitude": -71.048216,
+    "city": "Avon",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2324,
+    "latitude": 41.973741,
+    "longitude": -70.976558,
+    "city": "Bridgewater",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2325,
+    "latitude": 41.98725,
+    "longitude": -70.972786,
+    "city": "Bridgewater",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2327,
+    "latitude": 42.040708,
+    "longitude": -70.827245,
+    "city": "Bryantville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2330,
+    "latitude": 41.896238,
+    "longitude": -70.759689,
+    "city": "Carver",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2331,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Duxbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2332,
+    "latitude": 42.052985,
+    "longitude": -70.710808,
+    "city": "Duxbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2333,
+    "latitude": 42.02285,
+    "longitude": -70.931056,
+    "city": "East Bridgewater",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2334,
+    "latitude": 42.023528,
+    "longitude": -71.132397,
+    "city": "Easton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2337,
+    "latitude": 42.022225,
+    "longitude": -70.931588,
+    "city": "Elmwood",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2338,
+    "latitude": 41.988351,
+    "longitude": -70.860578,
+    "city": "Halifax",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2339,
+    "latitude": 42.123534,
+    "longitude": -70.851048,
+    "city": "Hanover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2340,
+    "latitude": 42.123534,
+    "longitude": -70.851048,
+    "city": "Hanover",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2341,
+    "latitude": 42.055701,
+    "longitude": -70.875936,
+    "city": "Hanson",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2343,
+    "latitude": 42.144424,
+    "longitude": -71.00289,
+    "city": "Holbrook",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2344,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Middleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2345,
+    "latitude": 41.888198,
+    "longitude": -70.581029,
+    "city": "Manomet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2346,
+    "latitude": 41.915054,
+    "longitude": -70.882035,
+    "city": "Middleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2347,
+    "latitude": 41.843757,
+    "longitude": -70.959981,
+    "city": "Lakeville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2348,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Middleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2349,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Middleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2350,
+    "latitude": 42.018525,
+    "longitude": -70.847486,
+    "city": "Monponsett",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2351,
+    "latitude": 42.11749,
+    "longitude": -70.959888,
+    "city": "Abington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2355,
+    "latitude": 41.916918,
+    "longitude": -70.801331,
+    "city": "North Carver",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2356,
+    "latitude": 42.053408,
+    "longitude": -71.12033,
+    "city": "North Easton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2357,
+    "latitude": 42.064499,
+    "longitude": -71.087091,
+    "city": "North Easton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2358,
+    "latitude": 41.95351,
+    "longitude": -70.713109,
+    "city": "North Pembroke",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2359,
+    "latitude": 42.065702,
+    "longitude": -70.800778,
+    "city": "Pembroke",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2360,
+    "latitude": 41.886207,
+    "longitude": -70.638717,
+    "city": "Plymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2361,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Plymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2362,
+    "latitude": 41.970474,
+    "longitude": -70.701357,
+    "city": "Plymouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2364,
+    "latitude": 41.979405,
+    "longitude": -70.744813,
+    "city": "Kingston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2366,
+    "latitude": 41.850087,
+    "longitude": -70.704431,
+    "city": "South Carver",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2367,
+    "latitude": 41.96914,
+    "longitude": -70.812299,
+    "city": "Plympton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2368,
+    "latitude": 42.171467,
+    "longitude": -71.055602,
+    "city": "Randolph",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2370,
+    "latitude": 41.954199,
+    "longitude": -70.885095,
+    "city": "Rockland",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2375,
+    "latitude": 42.023199,
+    "longitude": -71.111091,
+    "city": "South Easton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2379,
+    "latitude": 42.02165,
+    "longitude": -71.023588,
+    "city": "West Bridgewater",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2381,
+    "latitude": 41.931602,
+    "longitude": -70.561051,
+    "city": "White Horse Beach",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2382,
+    "latitude": 42.0785,
+    "longitude": -70.940837,
+    "city": "Whitman",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2420,
+    "latitude": 42.45631,
+    "longitude": -71.21665,
+    "city": "Lexington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2421,
+    "latitude": 42.442567,
+    "longitude": -71.226453,
+    "city": "Lexington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2445,
+    "latitude": 42.318097,
+    "longitude": -71.143697,
+    "city": "Brookline",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2446,
+    "latitude": 42.343097,
+    "longitude": -71.123046,
+    "city": "Brookline",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2447,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Brookline Village",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2451,
+    "latitude": 42.398588,
+    "longitude": -71.24505,
+    "city": "Waltham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2452,
+    "latitude": 42.394319,
+    "longitude": -71.218049,
+    "city": "Waltham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2453,
+    "latitude": 42.365396,
+    "longitude": -71.23165,
+    "city": "Waltham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2454,
+    "latitude": 42.356719,
+    "longitude": -71.250479,
+    "city": "Waltham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2455,
+    "latitude": 42.404644,
+    "longitude": -71.234086,
+    "city": "North Waltham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2456,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "New Town",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2457,
+    "latitude": 42.180048,
+    "longitude": -71.08923,
+    "city": "Babson Park",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2458,
+    "latitude": 42.385096,
+    "longitude": -71.208399,
+    "city": "Newton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2459,
+    "latitude": 42.334146,
+    "longitude": -71.183298,
+    "city": "Newton Center",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2460,
+    "latitude": 42.374296,
+    "longitude": -71.182371,
+    "city": "Newtonville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2461,
+    "latitude": 42.361196,
+    "longitude": -71.205349,
+    "city": "Newton Highlands",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2462,
+    "latitude": 42.349496,
+    "longitude": -71.209699,
+    "city": "Newton Lower Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2464,
+    "latitude": 42.36599,
+    "longitude": -71.221849,
+    "city": "Newton Upper Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2465,
+    "latitude": 42.378145,
+    "longitude": -71.213199,
+    "city": "West Newton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2466,
+    "latitude": 42.346696,
+    "longitude": -71.224957,
+    "city": "Auburndale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2467,
+    "latitude": 42.357564,
+    "longitude": -71.211649,
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2468,
+    "latitude": 42.327146,
+    "longitude": -71.231534,
+    "city": "Waban",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2471,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Watertown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2472,
+    "latitude": 42.363096,
+    "longitude": -71.201398,
+    "city": "Watertown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2474,
+    "latitude": 42.417595,
+    "longitude": -71.159696,
+    "city": "Arlington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2475,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Arlington Heights",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2476,
+    "latitude": 42.379146,
+    "longitude": -71.184299,
+    "city": "Arlington",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2477,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Watertown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2478,
+    "latitude": 42.412795,
+    "longitude": -71.204399,
+    "city": "Belmont",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2479,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Waverley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2481,
+    "latitude": 42.310597,
+    "longitude": -71.274652,
+    "city": "Wellesley Hills",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2482,
+    "latitude": 42.294546,
+    "longitude": -71.299201,
+    "city": "Wellesley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2492,
+    "latitude": 42.279797,
+    "longitude": -71.25006,
+    "city": "Needham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2493,
+    "latitude": 42.375925,
+    "longitude": -71.227208,
+    "city": "Weston",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2494,
+    "latitude": 42.300147,
+    "longitude": -71.26315,
+    "city": "Needham Heights",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2495,
+    "latitude": 42.446396,
+    "longitude": -71.459405,
+    "city": "Nonantum",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 2532,
+    "latitude": 41.745505,
+    "longitude": -70.590471,
+    "city": "Buzzards Bay",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2534,
+    "latitude": 41.669373,
+    "longitude": -70.62337,
+    "city": "Cataumet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2535,
+    "latitude": 41.379034,
+    "longitude": -70.673082,
+    "city": "Chilmark",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2536,
+    "latitude": 41.662506,
+    "longitude": -70.562843,
+    "city": "East Falmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2537,
+    "latitude": 41.72832,
+    "longitude": -70.439975,
+    "city": "East Sandwich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2538,
+    "latitude": 41.77544,
+    "longitude": -70.660562,
+    "city": "East Wareham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2539,
+    "latitude": 41.401176,
+    "longitude": -70.552054,
+    "city": "Edgartown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2540,
+    "latitude": 41.614199,
+    "longitude": -70.493263,
+    "city": "Falmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2541,
+    "latitude": 41.799312,
+    "longitude": -70.308662,
+    "city": "Falmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2542,
+    "latitude": 41.65308,
+    "longitude": -70.553727,
+    "city": "Buzzards Bay",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2543,
+    "latitude": 41.593809,
+    "longitude": -70.646442,
+    "city": "Woods Hole",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2552,
+    "latitude": 41.379836,
+    "longitude": -70.643092,
+    "city": "Menemsha",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2553,
+    "latitude": 41.67336,
+    "longitude": -70.608047,
+    "city": "Monument Beach",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2554,
+    "latitude": 41.287647,
+    "longitude": -70.08665,
+    "city": "Nantucket",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Nantucket"
+  },
+  {
+    "zip_code": 2556,
+    "latitude": 41.652967,
+    "longitude": -70.375475,
+    "city": "North Falmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2557,
+    "latitude": 41.417376,
+    "longitude": -70.560032,
+    "city": "Oak Bluffs",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2558,
+    "latitude": 41.74756,
+    "longitude": -70.658164,
+    "city": "Onset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2559,
+    "latitude": 41.694771,
+    "longitude": -70.622769,
+    "city": "Pocasset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2561,
+    "latitude": 41.770254,
+    "longitude": -70.533664,
+    "city": "Sagamore",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2562,
+    "latitude": 41.793263,
+    "longitude": -70.519584,
+    "city": "Sagamore Beach",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2563,
+    "latitude": 41.711291,
+    "longitude": -70.477482,
+    "city": "Sandwich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2564,
+    "latitude": 41.273949,
+    "longitude": -70.015545,
+    "city": "Siasconset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Nantucket"
+  },
+  {
+    "zip_code": 2565,
+    "latitude": 41.799312,
+    "longitude": -70.308662,
+    "city": "Silver Beach",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2568,
+    "latitude": 41.41595,
+    "longitude": -70.595235,
+    "city": "Vineyard Haven",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2571,
+    "latitude": 41.760216,
+    "longitude": -70.694662,
+    "city": "Wareham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2573,
+    "latitude": 41.379836,
+    "longitude": -70.643092,
+    "city": "West Chop",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2574,
+    "latitude": 41.603946,
+    "longitude": -70.638189,
+    "city": "West Falmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2575,
+    "latitude": 41.42125,
+    "longitude": -70.642806,
+    "city": "West Tisbury",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2576,
+    "latitude": 41.769863,
+    "longitude": -70.749688,
+    "city": "West Wareham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2584,
+    "latitude": 41.277794,
+    "longitude": -70.046019,
+    "city": "Nantucket",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Nantucket"
+  },
+  {
+    "zip_code": 2601,
+    "latitude": 41.829813,
+    "longitude": -70.138834,
+    "city": "Hyannis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2630,
+    "latitude": 41.697313,
+    "longitude": -70.301394,
+    "city": "Barnstable",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2631,
+    "latitude": 41.852997,
+    "longitude": -70.044462,
+    "city": "Brewster",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2632,
+    "latitude": 41.796311,
+    "longitude": -70.175129,
+    "city": "Centerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2633,
+    "latitude": 41.859559,
+    "longitude": -70.0468,
+    "city": "Chatham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2634,
+    "latitude": 41.799312,
+    "longitude": -70.308662,
+    "city": "Centerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2635,
+    "latitude": 41.624341,
+    "longitude": -70.43638,
+    "city": "Cotuit",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2636,
+    "latitude": 41.799312,
+    "longitude": -70.308662,
+    "city": "Centerville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2637,
+    "latitude": 41.701438,
+    "longitude": -70.277212,
+    "city": "Cummaquid",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2638,
+    "latitude": 41.725716,
+    "longitude": -70.089142,
+    "city": "Dennis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2639,
+    "latitude": 41.750745,
+    "longitude": -70.071836,
+    "city": "Dennis Port",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2641,
+    "latitude": 41.734713,
+    "longitude": -70.20467,
+    "city": "East Dennis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2642,
+    "latitude": 41.850612,
+    "longitude": -70.020648,
+    "city": "Eastham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2643,
+    "latitude": 41.784308,
+    "longitude": -69.962034,
+    "city": "East Orleans",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2644,
+    "latitude": 41.790031,
+    "longitude": -70.268632,
+    "city": "Forestdale",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2645,
+    "latitude": 41.835582,
+    "longitude": -70.043359,
+    "city": "Harwich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2646,
+    "latitude": 41.845717,
+    "longitude": -70.053544,
+    "city": "Harwich Port",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2647,
+    "latitude": 41.635004,
+    "longitude": -70.306336,
+    "city": "Hyannis Port",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2648,
+    "latitude": 41.813034,
+    "longitude": -70.246666,
+    "city": "Marstons Mills",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2649,
+    "latitude": 41.788337,
+    "longitude": -70.253543,
+    "city": "Mashpee",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2650,
+    "latitude": 41.73497,
+    "longitude": -70.029065,
+    "city": "North Chatham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2651,
+    "latitude": 41.824264,
+    "longitude": -69.98176,
+    "city": "North Eastham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2652,
+    "latitude": 41.931061,
+    "longitude": -70.283584,
+    "city": "North Truro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2653,
+    "latitude": 41.852933,
+    "longitude": -70.01539,
+    "city": "Orleans",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2655,
+    "latitude": 41.810178,
+    "longitude": -70.191269,
+    "city": "Osterville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2657,
+    "latitude": 41.888775,
+    "longitude": -70.091057,
+    "city": "Provincetown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2659,
+    "latitude": 41.848932,
+    "longitude": -70.030194,
+    "city": "South Chatham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2660,
+    "latitude": 41.80038,
+    "longitude": -70.089244,
+    "city": "South Dennis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2661,
+    "latitude": 41.686205,
+    "longitude": -70.032858,
+    "city": "South Harwich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2662,
+    "latitude": 41.756694,
+    "longitude": -69.984123,
+    "city": "South Orleans",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2663,
+    "latitude": 41.800531,
+    "longitude": -70.076776,
+    "city": "South Wellfleet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2664,
+    "latitude": 41.82412,
+    "longitude": -70.084259,
+    "city": "South Yarmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2666,
+    "latitude": 41.987377,
+    "longitude": -70.047163,
+    "city": "Truro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2667,
+    "latitude": 41.821307,
+    "longitude": -70.022806,
+    "city": "Wellfleet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2668,
+    "latitude": 41.79055,
+    "longitude": -70.201719,
+    "city": "West Barnstable",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2669,
+    "latitude": 41.698721,
+    "longitude": -70.004937,
+    "city": "West Chatham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2670,
+    "latitude": 41.710855,
+    "longitude": -70.072195,
+    "city": "West Dennis",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2671,
+    "latitude": 41.846719,
+    "longitude": -70.038282,
+    "city": "West Harwich",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2672,
+    "latitude": 41.635635,
+    "longitude": -70.323307,
+    "city": "West Hyannisport",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2673,
+    "latitude": 41.776105,
+    "longitude": -70.150512,
+    "city": "West Yarmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2675,
+    "latitude": 41.716271,
+    "longitude": -70.135884,
+    "city": "Yarmouth Port",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Barnstable"
+  },
+  {
+    "zip_code": 2702,
+    "latitude": 41.782993,
+    "longitude": -71.017328,
+    "city": "Assonet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2703,
+    "latitude": 41.938976,
+    "longitude": -71.302297,
+    "city": "Attleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2712,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "Chartley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2713,
+    "latitude": 41.42178,
+    "longitude": -70.931309,
+    "city": "Cuttyhunk",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Dukes"
+  },
+  {
+    "zip_code": 2714,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "Dartmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2715,
+    "latitude": 41.817659,
+    "longitude": -71.151787,
+    "city": "Dighton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2717,
+    "latitude": 41.747358,
+    "longitude": -70.978947,
+    "city": "East Freetown",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2718,
+    "latitude": 41.871407,
+    "longitude": -71.013148,
+    "city": "East Taunton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2719,
+    "latitude": 41.631672,
+    "longitude": -70.870045,
+    "city": "Fairhaven",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2720,
+    "latitude": 41.819766,
+    "longitude": -71.165971,
+    "city": "Fall River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2721,
+    "latitude": 41.678895,
+    "longitude": -71.153648,
+    "city": "Fall River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2722,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "Fall River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2723,
+    "latitude": 41.693802,
+    "longitude": -71.133088,
+    "city": "Fall River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2724,
+    "latitude": 41.684202,
+    "longitude": -71.175139,
+    "city": "Fall River",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2725,
+    "latitude": 41.723851,
+    "longitude": -71.173989,
+    "city": "Somerset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2726,
+    "latitude": 41.757951,
+    "longitude": -71.153639,
+    "city": "Somerset",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2738,
+    "latitude": 41.736735,
+    "longitude": -70.754015,
+    "city": "Marion",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2739,
+    "latitude": 41.664976,
+    "longitude": -70.810856,
+    "city": "Mattapoisett",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2740,
+    "latitude": 41.633416,
+    "longitude": -70.951045,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2741,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2742,
+    "latitude": 41.619557,
+    "longitude": -70.956346,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2743,
+    "latitude": 41.711894,
+    "longitude": -70.908286,
+    "city": "Acushnet",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2744,
+    "latitude": 41.609354,
+    "longitude": -70.916181,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2745,
+    "latitude": 41.7087,
+    "longitude": -70.946883,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2746,
+    "latitude": 41.665704,
+    "longitude": -70.943021,
+    "city": "New Bedford",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2747,
+    "latitude": 41.639261,
+    "longitude": -71.007578,
+    "city": "North Dartmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2748,
+    "latitude": 41.566464,
+    "longitude": -70.984253,
+    "city": "South Dartmouth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2760,
+    "latitude": 41.964376,
+    "longitude": -71.326448,
+    "city": "North Attleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2761,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "North Attleboro",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2762,
+    "latitude": 42.013553,
+    "longitude": -71.334399,
+    "city": "Plainville",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Norfolk"
+  },
+  {
+    "zip_code": 2763,
+    "latitude": 41.972584,
+    "longitude": -71.308229,
+    "city": "Attleboro Falls",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2764,
+    "latitude": 41.847791,
+    "longitude": -71.155797,
+    "city": "North Dighton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2766,
+    "latitude": 41.959149,
+    "longitude": -71.180393,
+    "city": "Norton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2767,
+    "latitude": 41.9367,
+    "longitude": -71.048941,
+    "city": "Raynham",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2768,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "Raynham Center",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2769,
+    "latitude": 41.852989,
+    "longitude": -71.243061,
+    "city": "Rehoboth",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2770,
+    "latitude": 41.751812,
+    "longitude": -70.846041,
+    "city": "Rochester",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Plymouth"
+  },
+  {
+    "zip_code": 2771,
+    "latitude": 41.840103,
+    "longitude": -71.318995,
+    "city": "Seekonk",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2777,
+    "latitude": 41.766629,
+    "longitude": -71.234443,
+    "city": "Swansea",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2779,
+    "latitude": 41.828249,
+    "longitude": -71.064135,
+    "city": "Berkley",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2780,
+    "latitude": 41.858851,
+    "longitude": -71.092827,
+    "city": "Taunton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2783,
+    "latitude": 41.756214,
+    "longitude": -71.067062,
+    "city": "Taunton",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2790,
+    "latitude": 41.61547,
+    "longitude": -71.079636,
+    "city": "Westport",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2791,
+    "latitude": 41.519104,
+    "longitude": -71.085137,
+    "city": "Westport Point",
+    "state": "MA",
+    "full_state": "Massachusetts",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2801,
+    "latitude": 41.530131,
+    "longitude": -71.284066,
+    "city": "Adamsville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2802,
+    "latitude": 41.954098,
+    "longitude": -71.462053,
+    "city": "Albion",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2804,
+    "latitude": 41.322365,
+    "longitude": -71.679251,
+    "city": "Ashaway",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2806,
+    "latitude": 41.742501,
+    "longitude": -71.320395,
+    "city": "Barrington",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2807,
+    "latitude": 41.188888,
+    "longitude": -71.577696,
+    "city": "Block Island",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2808,
+    "latitude": 41.403784,
+    "longitude": -71.761665,
+    "city": "Bradford",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2809,
+    "latitude": 41.678378,
+    "longitude": -71.2704,
+    "city": "Bristol",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2812,
+    "latitude": 41.469148,
+    "longitude": -71.675092,
+    "city": "Carolina",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2813,
+    "latitude": 41.395079,
+    "longitude": -71.66542,
+    "city": "Charlestown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2814,
+    "latitude": 41.888971,
+    "longitude": -71.688769,
+    "city": "Chepachet",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2815,
+    "latitude": 41.770525,
+    "longitude": -71.65585,
+    "city": "Clayville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2816,
+    "latitude": 41.694251,
+    "longitude": -71.636786,
+    "city": "Coventry",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2817,
+    "latitude": 41.631168,
+    "longitude": -71.667165,
+    "city": "West Greenwich",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2818,
+    "latitude": 41.64335,
+    "longitude": -71.478002,
+    "city": "East Greenwich",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2822,
+    "latitude": 41.5469,
+    "longitude": -71.650262,
+    "city": "Exeter",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2823,
+    "latitude": 41.7312,
+    "longitude": -71.546756,
+    "city": "Fiskeville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2824,
+    "latitude": 42.000248,
+    "longitude": -71.563057,
+    "city": "Forestdale",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2825,
+    "latitude": 41.790569,
+    "longitude": -71.70644,
+    "city": "Foster",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2826,
+    "latitude": 41.982417,
+    "longitude": -71.600848,
+    "city": "Glendale",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2827,
+    "latitude": 41.691676,
+    "longitude": -71.727467,
+    "city": "Greene",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2828,
+    "latitude": 41.879298,
+    "longitude": -71.551682,
+    "city": "Greenville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2829,
+    "latitude": 41.879298,
+    "longitude": -71.589357,
+    "city": "Harmony",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2830,
+    "latitude": 41.97239,
+    "longitude": -71.648502,
+    "city": "Harrisville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2831,
+    "latitude": 41.753594,
+    "longitude": -71.577746,
+    "city": "Hope",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2832,
+    "latitude": 41.509632,
+    "longitude": -71.733875,
+    "city": "Hope Valley",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2833,
+    "latitude": 41.475117,
+    "longitude": -71.772617,
+    "city": "Hopkinton",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2835,
+    "latitude": 41.51412,
+    "longitude": -71.377247,
+    "city": "Jamestown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2836,
+    "latitude": 41.447427,
+    "longitude": -71.620432,
+    "city": "Kenyon",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2837,
+    "latitude": 41.510257,
+    "longitude": -71.16634,
+    "city": "Little Compton",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2838,
+    "latitude": 41.967848,
+    "longitude": -71.475604,
+    "city": "Manville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2839,
+    "latitude": 41.941715,
+    "longitude": -71.637581,
+    "city": "Mapleville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2840,
+    "latitude": 41.487552,
+    "longitude": -71.327084,
+    "city": "Newport",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2841,
+    "latitude": 41.498977,
+    "longitude": -71.299004,
+    "city": "Newport",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2842,
+    "latitude": 41.519757,
+    "longitude": -71.273101,
+    "city": "Middletown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2852,
+    "latitude": 41.586851,
+    "longitude": -71.464801,
+    "city": "North Kingstown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2854,
+    "latitude": 41.375317,
+    "longitude": -71.64393,
+    "city": "North Kingstown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2857,
+    "latitude": 41.838827,
+    "longitude": -71.655006,
+    "city": "North Scituate",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2858,
+    "latitude": 41.962303,
+    "longitude": -71.647542,
+    "city": "Oakland",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2859,
+    "latitude": 41.96415,
+    "longitude": -71.723316,
+    "city": "Pascoag",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2860,
+    "latitude": 41.875149,
+    "longitude": -71.392732,
+    "city": "Pawtucket",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2861,
+    "latitude": 41.878249,
+    "longitude": -71.369899,
+    "city": "Pawtucket",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2862,
+    "latitude": 41.86125,
+    "longitude": -71.369099,
+    "city": "Pawtucket",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2863,
+    "latitude": 41.889849,
+    "longitude": -71.394186,
+    "city": "Central Falls",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2864,
+    "latitude": 41.949498,
+    "longitude": -71.43269,
+    "city": "Cumberland",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2865,
+    "latitude": 41.925298,
+    "longitude": -71.493355,
+    "city": "Lincoln",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2871,
+    "latitude": 41.58523,
+    "longitude": -71.264197,
+    "city": "Portsmouth",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2872,
+    "latitude": 41.707119,
+    "longitude": -71.286834,
+    "city": "Prudence Island",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2873,
+    "latitude": 41.519922,
+    "longitude": -71.774023,
+    "city": "Rockville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2874,
+    "latitude": 41.478466,
+    "longitude": -71.471752,
+    "city": "Saunderstown",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2875,
+    "latitude": 41.456039,
+    "longitude": -71.635474,
+    "city": "Shannock",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2876,
+    "latitude": 41.998398,
+    "longitude": -71.576307,
+    "city": "Slatersville",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2877,
+    "latitude": 41.5289,
+    "longitude": -71.529854,
+    "city": "Slocum",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2878,
+    "latitude": 41.61018,
+    "longitude": -71.175183,
+    "city": "Tiverton",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Newport"
+  },
+  {
+    "zip_code": 2879,
+    "latitude": 41.443653,
+    "longitude": -71.534202,
+    "city": "Wakefield",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2880,
+    "latitude": 41.375317,
+    "longitude": -71.64393,
+    "city": "Wakefield",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2881,
+    "latitude": 41.482901,
+    "longitude": -71.524317,
+    "city": "Kingston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2882,
+    "latitude": 41.377185,
+    "longitude": -71.497793,
+    "city": "Narragansett",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2883,
+    "latitude": 41.375317,
+    "longitude": -71.64393,
+    "city": "Peace Dale",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2885,
+    "latitude": 41.727451,
+    "longitude": -71.257492,
+    "city": "Warren",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Bristol"
+  },
+  {
+    "zip_code": 2886,
+    "latitude": 41.70247,
+    "longitude": -71.47902,
+    "city": "Warwick",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2887,
+    "latitude": 41.682455,
+    "longitude": -71.557732,
+    "city": "Warwick",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2888,
+    "latitude": 41.7473,
+    "longitude": -71.411088,
+    "city": "Warwick",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2889,
+    "latitude": 41.689182,
+    "longitude": -71.496048,
+    "city": "Warwick",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2891,
+    "latitude": 41.284494,
+    "longitude": -71.710708,
+    "city": "Westerly",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2892,
+    "latitude": 41.505764,
+    "longitude": -71.62114,
+    "city": "West Kingston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2893,
+    "latitude": 41.696822,
+    "longitude": -71.507304,
+    "city": "West Warwick",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 2894,
+    "latitude": 41.45005,
+    "longitude": -71.70742,
+    "city": "Wood River Junction",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2895,
+    "latitude": 41.984598,
+    "longitude": -71.51939,
+    "city": "Woonsocket",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2896,
+    "latitude": 41.934348,
+    "longitude": -71.540506,
+    "city": "North Smithfield",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2898,
+    "latitude": 41.504089,
+    "longitude": -71.662954,
+    "city": "Wyoming",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 2901,
+    "latitude": 41.82275,
+    "longitude": -71.414451,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2902,
+    "latitude": 41.81835,
+    "longitude": -71.424851,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2903,
+    "latitude": 41.819459,
+    "longitude": -71.4115,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2904,
+    "latitude": 41.85414,
+    "longitude": -71.437752,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2905,
+    "latitude": 41.803799,
+    "longitude": -71.422547,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2906,
+    "latitude": 41.8374,
+    "longitude": -71.394717,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2907,
+    "latitude": 41.797065,
+    "longitude": -71.425501,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2908,
+    "latitude": 41.837399,
+    "longitude": -71.4399,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2909,
+    "latitude": 41.820599,
+    "longitude": -71.444302,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2910,
+    "latitude": 41.7917,
+    "longitude": -71.435251,
+    "city": "Cranston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2911,
+    "latitude": 41.838749,
+    "longitude": -71.449202,
+    "city": "North Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2912,
+    "latitude": 41.826737,
+    "longitude": -71.397699,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2914,
+    "latitude": 41.813429,
+    "longitude": -71.363348,
+    "city": "East Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2915,
+    "latitude": 41.7743,
+    "longitude": -71.349697,
+    "city": "Riverside",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2916,
+    "latitude": 41.842727,
+    "longitude": -71.355798,
+    "city": "Rumford",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2917,
+    "latitude": 41.853899,
+    "longitude": -71.497804,
+    "city": "Smithfield",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2918,
+    "latitude": 41.841499,
+    "longitude": -71.440352,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2919,
+    "latitude": 41.870932,
+    "longitude": -71.497604,
+    "city": "Johnston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2920,
+    "latitude": 41.7693,
+    "longitude": -71.471353,
+    "city": "Cranston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2921,
+    "latitude": 41.76675,
+    "longitude": -71.476703,
+    "city": "Cranston",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 2940,
+    "latitude": 41.871766,
+    "longitude": -71.558518,
+    "city": "Providence",
+    "state": "RI",
+    "full_state": "Rhode Island",
+    "county": "Providence"
+  },
+  {
+    "zip_code": 3031,
+    "latitude": 42.87474,
+    "longitude": -71.629365,
+    "city": "Amherst",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  },
+  {
+    "zip_code": 3032,
+    "latitude": 42.989151,
+    "longitude": -71.343576,
+    "city": "Auburn",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 3033,
+    "latitude": 42.847268,
+    "longitude": -71.767437,
+    "city": "Brookline",
+    "state": "NH",
+    "full_state": "New Hampshire",
+    "county": "Hillsborough"
+  }
+]

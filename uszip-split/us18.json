@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 54765,
+    "latitude": 45.142866,
+    "longitude": -91.699794,
+    "city": "Sand Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54766,
+    "latitude": 45.349548,
+    "longitude": -90.887173,
+    "city": "Sheldon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54767,
+    "latitude": 44.781928,
+    "longitude": -92.283761,
+    "city": "Spring Valley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 54768,
+    "latitude": 44.993395,
+    "longitude": -91.069525,
+    "city": "Stanley",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54769,
+    "latitude": 44.508365,
+    "longitude": -92.232594,
+    "city": "Stockholm",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Pepin"
+  },
+  {
+    "zip_code": 54770,
+    "latitude": 44.387425,
+    "longitude": -91.394415,
+    "city": "Strum",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54771,
+    "latitude": 44.894112,
+    "longitude": -90.790684,
+    "city": "Thorp",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 54772,
+    "latitude": 45.094148,
+    "longitude": -91.879257,
+    "city": "Wheeler",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Dunn"
+  },
+  {
+    "zip_code": 54773,
+    "latitude": 44.443778,
+    "longitude": -91.285758,
+    "city": "Whitehall",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Trempealeau"
+  },
+  {
+    "zip_code": 54774,
+    "latitude": 45.07413,
+    "longitude": -91.294397,
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 54801,
+    "latitude": 45.922016,
+    "longitude": -91.811707,
+    "city": "Spooner",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54805,
+    "latitude": 45.434373,
+    "longitude": -91.965942,
+    "city": "Almena",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54806,
+    "latitude": 46.558577,
+    "longitude": -90.738773,
+    "city": "Ashland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54810,
+    "latitude": 45.421648,
+    "longitude": -92.378752,
+    "city": "Balsam Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54812,
+    "latitude": 45.47734,
+    "longitude": -91.86779,
+    "city": "Barron",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54813,
+    "latitude": 45.557393,
+    "longitude": -92.016728,
+    "city": "Barronett",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54814,
+    "latitude": 46.853517,
+    "longitude": -90.915934,
+    "city": "Bayfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54816,
+    "latitude": 46.682796,
+    "longitude": -91.143254,
+    "city": "Benoit",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54817,
+    "latitude": 45.732675,
+    "longitude": -91.615044,
+    "city": "Birchwood",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54818,
+    "latitude": 45.423409,
+    "longitude": -91.848206,
+    "city": "Brill",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54819,
+    "latitude": 45.469246,
+    "longitude": -91.293073,
+    "city": "Bruce",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54820,
+    "latitude": 46.555409,
+    "longitude": -91.605419,
+    "city": "Brule",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54821,
+    "latitude": 46.21018,
+    "longitude": -91.189305,
+    "city": "Cable",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54822,
+    "latitude": 45.465645,
+    "longitude": -91.68441,
+    "city": "Cameron",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54824,
+    "latitude": 45.420898,
+    "longitude": -92.544088,
+    "city": "Centuria",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54826,
+    "latitude": 45.495679,
+    "longitude": -92.037821,
+    "city": "Comstock",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54827,
+    "latitude": 46.834502,
+    "longitude": -91.092821,
+    "city": "Cornucopia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54828,
+    "latitude": 45.837967,
+    "longitude": -91.291784,
+    "city": "Couderay",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54829,
+    "latitude": 45.42772,
+    "longitude": -91.899489,
+    "city": "Cumberland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54830,
+    "latitude": 45.972603,
+    "longitude": -92.292996,
+    "city": "Danbury",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Burnett"
+  },
+  {
+    "zip_code": 54832,
+    "latitude": 46.682796,
+    "longitude": -91.143254,
+    "city": "Drummond",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54834,
+    "latitude": 45.742371,
+    "longitude": -91.476541,
+    "city": "Edgewater",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54835,
+    "latitude": 45.780382,
+    "longitude": -91.224718,
+    "city": "Exeland",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54836,
+    "latitude": 46.452892,
+    "longitude": -92.171445,
+    "city": "Foxboro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54837,
+    "latitude": 45.526263,
+    "longitude": -92.429333,
+    "city": "Frederic",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54838,
+    "latitude": 46.293033,
+    "longitude": -91.894633,
+    "city": "Gordon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54839,
+    "latitude": 46.682796,
+    "longitude": -91.143254,
+    "city": "Grand View",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54840,
+    "latitude": 45.795342,
+    "longitude": -92.693513,
+    "city": "Grantsburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Burnett"
+  },
+  {
+    "zip_code": 54841,
+    "latitude": 45.620445,
+    "longitude": -91.801751,
+    "city": "Haugen",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54842,
+    "latitude": 46.514162,
+    "longitude": -91.862136,
+    "city": "Hawthorne",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54843,
+    "latitude": 45.955223,
+    "longitude": -91.278308,
+    "city": "Hayward",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54844,
+    "latitude": 46.682796,
+    "longitude": -91.143254,
+    "city": "Herbster",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54845,
+    "latitude": 45.799612,
+    "longitude": -92.153743,
+    "city": "Hertel",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Burnett"
+  },
+  {
+    "zip_code": 54846,
+    "latitude": 46.376072,
+    "longitude": -90.761153,
+    "city": "High Bridge",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54847,
+    "latitude": 46.599552,
+    "longitude": -91.437437,
+    "city": "Iron River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54848,
+    "latitude": 45.490835,
+    "longitude": -91.0943,
+    "city": "Ladysmith",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54849,
+    "latitude": 46.493011,
+    "longitude": -91.71342,
+    "city": "Lake Nebagamon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54850,
+    "latitude": 46.803272,
+    "longitude": -90.692287,
+    "city": "La Pointe",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54851,
+    "latitude": 45.468941,
+    "longitude": -92.521938,
+    "city": "Lewis",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54853,
+    "latitude": 45.455357,
+    "longitude": -92.467658,
+    "city": "Luck",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54854,
+    "latitude": 46.652638,
+    "longitude": -91.733798,
+    "city": "Maple",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54855,
+    "latitude": 46.366834,
+    "longitude": -90.840821,
+    "city": "Marengo",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54856,
+    "latitude": 46.362341,
+    "longitude": -91.116899,
+    "city": "Mason",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54857,
+    "latitude": 45.609562,
+    "longitude": -91.61965,
+    "city": "Mikana",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54858,
+    "latitude": 45.51583,
+    "longitude": -92.461712,
+    "city": "Milltown",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 54859,
+    "latitude": 46.09709,
+    "longitude": -91.859913,
+    "city": "Minong",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54861,
+    "latitude": 46.560783,
+    "longitude": -90.619716,
+    "city": "Odanah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 54862,
+    "latitude": 45.797008,
+    "longitude": -91.127234,
+    "city": "Ojibwa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54864,
+    "latitude": 46.594249,
+    "longitude": -91.815333,
+    "city": "Poplar",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54865,
+    "latitude": 46.715564,
+    "longitude": -91.353195,
+    "city": "Port Wing",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54867,
+    "latitude": 45.800649,
+    "longitude": -91.268979,
+    "city": "Radisson",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54868,
+    "latitude": 45.519692,
+    "longitude": -91.826575,
+    "city": "Rice Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54870,
+    "latitude": 45.73714,
+    "longitude": -91.775875,
+    "city": "Sarona",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54871,
+    "latitude": 45.878356,
+    "longitude": -91.79215,
+    "city": "Shell Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54872,
+    "latitude": 45.782741,
+    "longitude": -92.385751,
+    "city": "Siren",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Burnett"
+  },
+  {
+    "zip_code": 54873,
+    "latitude": 46.417261,
+    "longitude": -91.810992,
+    "city": "Solon Springs",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54874,
+    "latitude": 46.568809,
+    "longitude": -91.935156,
+    "city": "South Range",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54875,
+    "latitude": 45.945201,
+    "longitude": -91.675448,
+    "city": "Springbrook",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54876,
+    "latitude": 45.821216,
+    "longitude": -91.462771,
+    "city": "Stone Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54880,
+    "latitude": 46.574982,
+    "longitude": -92.117578,
+    "city": "Superior",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54888,
+    "latitude": 45.966368,
+    "longitude": -91.886372,
+    "city": "Trego",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Washburn"
+  },
+  {
+    "zip_code": 54889,
+    "latitude": 45.400115,
+    "longitude": -92.074695,
+    "city": "Turtle Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Barron"
+  },
+  {
+    "zip_code": 54890,
+    "latitude": 46.525129,
+    "longitude": -91.921631,
+    "city": "Wascott",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 54891,
+    "latitude": 46.697289,
+    "longitude": -90.904151,
+    "city": "Washburn",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Bayfield"
+  },
+  {
+    "zip_code": 54893,
+    "latitude": 45.869606,
+    "longitude": -92.30286,
+    "city": "Webster",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Burnett"
+  },
+  {
+    "zip_code": 54895,
+    "latitude": 45.40913,
+    "longitude": -91.423051,
+    "city": "Weyerhaeuser",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Rusk"
+  },
+  {
+    "zip_code": 54896,
+    "latitude": 45.832746,
+    "longitude": -91.014362,
+    "city": "Winter",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Sawyer"
+  },
+  {
+    "zip_code": 54901,
+    "latitude": 44.005661,
+    "longitude": -88.55756,
+    "city": "Oshkosh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54902,
+    "latitude": 43.99461,
+    "longitude": -88.526025,
+    "city": "Oshkosh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54903,
+    "latitude": 44.06858,
+    "longitude": -88.644873,
+    "city": "Oshkosh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54904,
+    "latitude": 44.062366,
+    "longitude": -88.623779,
+    "city": "Oshkosh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54906,
+    "latitude": 44.06858,
+    "longitude": -88.644873,
+    "city": "Oshkosh",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54909,
+    "latitude": 44.379544,
+    "longitude": -89.356552,
+    "city": "Almond",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54911,
+    "latitude": 44.275702,
+    "longitude": -88.370856,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54912,
+    "latitude": 44.416326,
+    "longitude": -88.464873,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54913,
+    "latitude": 44.345553,
+    "longitude": -88.434297,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54914,
+    "latitude": 44.271285,
+    "longitude": -88.486307,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54915,
+    "latitude": 44.373778,
+    "longitude": -88.444396,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54919,
+    "latitude": 44.416326,
+    "longitude": -88.464873,
+    "city": "Appleton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54921,
+    "latitude": 44.341602,
+    "longitude": -89.526303,
+    "city": "Bancroft",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 54922,
+    "latitude": 44.432373,
+    "longitude": -88.559628,
+    "city": "Bear Creek",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54923,
+    "latitude": 43.915726,
+    "longitude": -89.027124,
+    "city": "Berlin",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 54926,
+    "latitude": 44.617819,
+    "longitude": -89.016622,
+    "city": "Big Falls",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54927,
+    "latitude": 44.103137,
+    "longitude": -88.653949,
+    "city": "Butte Des Morts",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54928,
+    "latitude": 44.735836,
+    "longitude": -88.876673,
+    "city": "Caroline",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54929,
+    "latitude": 44.593386,
+    "longitude": -88.868093,
+    "city": "Clintonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54930,
+    "latitude": 44.026085,
+    "longitude": -89.486854,
+    "city": "Coloma",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54931,
+    "latitude": 44.416326,
+    "longitude": -88.464873,
+    "city": "Dale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54932,
+    "latitude": 43.832253,
+    "longitude": -88.582166,
+    "city": "Eldorado",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54933,
+    "latitude": 44.668605,
+    "longitude": -88.704318,
+    "city": "Embarrass",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54934,
+    "latitude": 44.003153,
+    "longitude": -88.839692,
+    "city": "Eureka",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54935,
+    "latitude": 43.734724,
+    "longitude": -88.523176,
+    "city": "Fond Du Lac",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54936,
+    "latitude": 43.740559,
+    "longitude": -88.522984,
+    "city": "Fond Du Lac",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54937,
+    "latitude": 43.765009,
+    "longitude": -88.605657,
+    "city": "Fond Du Lac",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54940,
+    "latitude": 44.272779,
+    "longitude": -88.833282,
+    "city": "Fremont",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54941,
+    "latitude": 43.85627,
+    "longitude": -88.985883,
+    "city": "Green Lake",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 54942,
+    "latitude": 44.286983,
+    "longitude": -88.556406,
+    "city": "Greenville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54943,
+    "latitude": 44.103548,
+    "longitude": -89.491566,
+    "city": "Hancock",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54944,
+    "latitude": 44.342058,
+    "longitude": -88.588244,
+    "city": "Hortonville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54945,
+    "latitude": 44.572209,
+    "longitude": -89.071142,
+    "city": "Iola",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54946,
+    "latitude": 44.336537,
+    "longitude": -89.146258,
+    "city": "King",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54947,
+    "latitude": 44.194993,
+    "longitude": -88.688629,
+    "city": "Larsen",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54948,
+    "latitude": 44.781006,
+    "longitude": -88.890714,
+    "city": "Leopolis",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54949,
+    "latitude": 44.488057,
+    "longitude": -88.926954,
+    "city": "Manawa",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54950,
+    "latitude": 44.546623,
+    "longitude": -88.937717,
+    "city": "Marion",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54951,
+    "latitude": 44.416326,
+    "longitude": -88.464873,
+    "city": "Medina",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Outagamie"
+  },
+  {
+    "zip_code": 54952,
+    "latitude": 44.141025,
+    "longitude": -88.569088,
+    "city": "Menasha",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54956,
+    "latitude": 44.170785,
+    "longitude": -88.658087,
+    "city": "Neenah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54957,
+    "latitude": 44.198944,
+    "longitude": -88.678863,
+    "city": "Neenah",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54960,
+    "latitude": 43.922097,
+    "longitude": -89.310982,
+    "city": "Neshkoro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Marquette"
+  },
+  {
+    "zip_code": 54961,
+    "latitude": 44.405595,
+    "longitude": -88.859107,
+    "city": "New London",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54962,
+    "latitude": 44.426783,
+    "longitude": -88.993214,
+    "city": "Ogdensburg",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54963,
+    "latitude": 44.050782,
+    "longitude": -88.754887,
+    "city": "Omro",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54964,
+    "latitude": 43.956653,
+    "longitude": -88.71918,
+    "city": "Pickett",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54965,
+    "latitude": 44.155967,
+    "longitude": -89.02096,
+    "city": "Pine River",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54966,
+    "latitude": 44.191887,
+    "longitude": -89.297481,
+    "city": "Plainfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54967,
+    "latitude": 44.134044,
+    "longitude": -88.986361,
+    "city": "Poy Sippi",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54968,
+    "latitude": 43.832741,
+    "longitude": -89.122651,
+    "city": "Princeton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Green Lake"
+  },
+  {
+    "zip_code": 54969,
+    "latitude": 44.269991,
+    "longitude": -88.775457,
+    "city": "Readfield",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54970,
+    "latitude": 44.080217,
+    "longitude": -89.217031,
+    "city": "Redgranite",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54971,
+    "latitude": 43.782526,
+    "longitude": -88.533445,
+    "city": "Ripon",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54974,
+    "latitude": 43.775697,
+    "longitude": -88.659504,
+    "city": "Rosendale",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54975,
+    "latitude": 44.461926,
+    "longitude": -88.915027,
+    "city": "Royalton",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54976,
+    "latitude": 44.209313,
+    "longitude": -89.096856,
+    "city": "Saxeville",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54977,
+    "latitude": 44.451051,
+    "longitude": -89.146915,
+    "city": "Scandinavia",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54978,
+    "latitude": 44.79604,
+    "longitude": -88.898362,
+    "city": "Tilleda",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Shawano"
+  },
+  {
+    "zip_code": 54979,
+    "latitude": 43.839613,
+    "longitude": -88.543924,
+    "city": "Van Dyne",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Fond Du Lac"
+  },
+  {
+    "zip_code": 54980,
+    "latitude": 43.988578,
+    "longitude": -88.771167,
+    "city": "Waukau",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54981,
+    "latitude": 44.429163,
+    "longitude": -89.04668,
+    "city": "Waupaca",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54982,
+    "latitude": 44.075321,
+    "longitude": -89.271177,
+    "city": "Wautoma",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54983,
+    "latitude": 44.332498,
+    "longitude": -88.922821,
+    "city": "Weyauwega",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 54984,
+    "latitude": 44.168882,
+    "longitude": -89.223228,
+    "city": "Wild Rose",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waushara"
+  },
+  {
+    "zip_code": 54985,
+    "latitude": 44.070584,
+    "longitude": -88.517762,
+    "city": "Winnebago",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54986,
+    "latitude": 44.124886,
+    "longitude": -88.745129,
+    "city": "Winneconne",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Winnebago"
+  },
+  {
+    "zip_code": 54990,
+    "latitude": 44.461926,
+    "longitude": -88.915027,
+    "city": "Iola",
+    "state": "WI",
+    "full_state": "Wisconsin",
+    "county": "Waupaca"
+  },
+  {
+    "zip_code": 55001,
+    "latitude": 44.90717,
+    "longitude": -92.816193,
+    "city": "Afton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55002,
+    "latitude": 45.513447,
+    "longitude": -92.894239,
+    "city": "Almelund",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55003,
+    "latitude": 45.013918,
+    "longitude": -92.781055,
+    "city": "Bayport",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55005,
+    "latitude": 45.388716,
+    "longitude": -93.231538,
+    "city": "Bethel",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55006,
+    "latitude": 45.69146,
+    "longitude": -93.278348,
+    "city": "Braham",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55007,
+    "latitude": 45.947444,
+    "longitude": -93.073628,
+    "city": "Brook Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55008,
+    "latitude": 45.602457,
+    "longitude": -93.263457,
+    "city": "Cambridge",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55009,
+    "latitude": 44.483189,
+    "longitude": -92.885609,
+    "city": "Cannon Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55010,
+    "latitude": 44.547215,
+    "longitude": -93.153115,
+    "city": "Castle Rock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55011,
+    "latitude": 45.341448,
+    "longitude": -93.235026,
+    "city": "Cedar",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55012,
+    "latitude": 45.448211,
+    "longitude": -92.789369,
+    "city": "Center City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55013,
+    "latitude": 45.362621,
+    "longitude": -92.902261,
+    "city": "Chisago City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55014,
+    "latitude": 45.185565,
+    "longitude": -93.129272,
+    "city": "Circle Pines",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55016,
+    "latitude": 44.818216,
+    "longitude": -92.92861,
+    "city": "Cottage Grove",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55017,
+    "latitude": 45.660954,
+    "longitude": -93.430806,
+    "city": "Dalbo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55018,
+    "latitude": 44.426537,
+    "longitude": -92.955359,
+    "city": "Dennison",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55019,
+    "latitude": 44.398613,
+    "longitude": -93.194444,
+    "city": "Dundas",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55020,
+    "latitude": 44.588963,
+    "longitude": -93.369473,
+    "city": "Elko",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55021,
+    "latitude": 44.36287,
+    "longitude": -93.267456,
+    "city": "Faribault",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55024,
+    "latitude": 44.640515,
+    "longitude": -93.14196,
+    "city": "Farmington",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55025,
+    "latitude": 45.246466,
+    "longitude": -92.949266,
+    "city": "Forest Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55026,
+    "latitude": 44.520038,
+    "longitude": -92.358158,
+    "city": "Frontenac",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55027,
+    "latitude": 44.427157,
+    "longitude": -92.620355,
+    "city": "Goodhue",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55029,
+    "latitude": 45.642235,
+    "longitude": -93.201107,
+    "city": "Grandy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55030,
+    "latitude": 45.856598,
+    "longitude": -93.081255,
+    "city": "Grasston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55031,
+    "latitude": 44.608467,
+    "longitude": -92.955479,
+    "city": "Hampton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55032,
+    "latitude": 45.593629,
+    "longitude": -92.998865,
+    "city": "Harris",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55033,
+    "latitude": 44.737166,
+    "longitude": -93.032909,
+    "city": "Hastings",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55036,
+    "latitude": 45.854335,
+    "longitude": -93.124235,
+    "city": "Henriette",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55037,
+    "latitude": 46.014689,
+    "longitude": -92.938103,
+    "city": "Hinckley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55038,
+    "latitude": 45.182366,
+    "longitude": -92.945218,
+    "city": "Hugo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55040,
+    "latitude": 45.565289,
+    "longitude": -93.287101,
+    "city": "Isanti",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55041,
+    "latitude": 44.421753,
+    "longitude": -92.232221,
+    "city": "Lake City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55042,
+    "latitude": 44.992866,
+    "longitude": -92.898177,
+    "city": "Lake Elmo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55043,
+    "latitude": 44.940859,
+    "longitude": -92.789447,
+    "city": "Lakeland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55044,
+    "latitude": 44.633421,
+    "longitude": -93.25812,
+    "city": "Lakeville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55045,
+    "latitude": 45.404477,
+    "longitude": -92.823088,
+    "city": "Lindstrom",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55046,
+    "latitude": 44.447704,
+    "longitude": -93.425156,
+    "city": "Lonsdale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55047,
+    "latitude": 45.198774,
+    "longitude": -92.825767,
+    "city": "Marine On Saint Croix",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55049,
+    "latitude": 44.160283,
+    "longitude": -93.246471,
+    "city": "Medford",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 55051,
+    "latitude": 45.918782,
+    "longitude": -93.297792,
+    "city": "Mora",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kanabec"
+  },
+  {
+    "zip_code": 55052,
+    "latitude": 44.328365,
+    "longitude": -93.342652,
+    "city": "Morristown",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55053,
+    "latitude": 44.32738,
+    "longitude": -93.242155,
+    "city": "Nerstrand",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55054,
+    "latitude": 44.571056,
+    "longitude": -93.354267,
+    "city": "New Market",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55055,
+    "latitude": 44.872395,
+    "longitude": -92.993263,
+    "city": "Newport",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55056,
+    "latitude": 45.556522,
+    "longitude": -92.885433,
+    "city": "North Branch",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55057,
+    "latitude": 44.376816,
+    "longitude": -93.241838,
+    "city": "Northfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55060,
+    "latitude": 44.047613,
+    "longitude": -93.223724,
+    "city": "Owatonna",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 55063,
+    "latitude": 45.949599,
+    "longitude": -92.892997,
+    "city": "Pine City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55065,
+    "latitude": 44.545066,
+    "longitude": -93.02496,
+    "city": "Randolph",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55066,
+    "latitude": 44.521909,
+    "longitude": -92.537774,
+    "city": "Red Wing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55067,
+    "latitude": 46.074687,
+    "longitude": -92.718004,
+    "city": "Rock Creek",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55068,
+    "latitude": 44.661216,
+    "longitude": -93.076163,
+    "city": "Rosemount",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55069,
+    "latitude": 45.67987,
+    "longitude": -92.978158,
+    "city": "Rush City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55070,
+    "latitude": 45.393554,
+    "longitude": -93.357614,
+    "city": "Saint Francis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55071,
+    "latitude": 44.822826,
+    "longitude": -92.989204,
+    "city": "Saint Paul Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55072,
+    "latitude": 46.132453,
+    "longitude": -92.588959,
+    "city": "Sandstone",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55073,
+    "latitude": 45.253166,
+    "longitude": -92.837344,
+    "city": "Scandia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55074,
+    "latitude": 45.382835,
+    "longitude": -92.726135,
+    "city": "Shafer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55075,
+    "latitude": 44.890315,
+    "longitude": -93.049879,
+    "city": "South Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55076,
+    "latitude": 44.828816,
+    "longitude": -93.039064,
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55077,
+    "latitude": 44.828265,
+    "longitude": -93.093969,
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55078,
+    "latitude": 45.513447,
+    "longitude": -92.894239,
+    "city": "Stacy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55079,
+    "latitude": 45.405278,
+    "longitude": -92.969118,
+    "city": "Stacy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55080,
+    "latitude": 45.651313,
+    "longitude": -93.275622,
+    "city": "Stanchfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Isanti"
+  },
+  {
+    "zip_code": 55082,
+    "latitude": 45.061416,
+    "longitude": -92.84736,
+    "city": "Stillwater",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55083,
+    "latitude": 45.021016,
+    "longitude": -92.983726,
+    "city": "Stillwater",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55084,
+    "latitude": 45.457557,
+    "longitude": -92.733042,
+    "city": "Taylors Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55085,
+    "latitude": 44.674799,
+    "longitude": -92.968309,
+    "city": "Vermillion",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55087,
+    "latitude": 44.239946,
+    "longitude": -93.397354,
+    "city": "Warsaw",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55088,
+    "latitude": 44.500341,
+    "longitude": -93.382574,
+    "city": "Webster",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 55089,
+    "latitude": 44.575372,
+    "longitude": -92.704731,
+    "city": "Welch",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55090,
+    "latitude": 45.053466,
+    "longitude": -92.957034,
+    "city": "Willernie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55092,
+    "latitude": 45.336417,
+    "longitude": -92.967517,
+    "city": "Wyoming",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chisago"
+  },
+  {
+    "zip_code": 55101,
+    "latitude": 44.967965,
+    "longitude": -93.092168,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55102,
+    "latitude": 44.932929,
+    "longitude": -93.118968,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55103,
+    "latitude": 44.967215,
+    "longitude": -93.125319,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55104,
+    "latitude": 44.955615,
+    "longitude": -93.16702,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55105,
+    "latitude": 44.934515,
+    "longitude": -93.16097,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55106,
+    "latitude": 44.957065,
+    "longitude": -93.041616,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55107,
+    "latitude": 44.932465,
+    "longitude": -93.087967,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55108,
+    "latitude": 44.980614,
+    "longitude": -93.177122,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55109,
+    "latitude": 45.013234,
+    "longitude": -93.029667,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55110,
+    "latitude": 45.079965,
+    "longitude": -93.022317,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55111,
+    "latitude": 44.882838,
+    "longitude": -93.200671,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55112,
+    "latitude": 45.078815,
+    "longitude": -93.187223,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55113,
+    "latitude": 45.013895,
+    "longitude": -93.157071,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55114,
+    "latitude": 44.964115,
+    "longitude": -93.194872,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55115,
+    "latitude": 45.070951,
+    "longitude": -92.939113,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55116,
+    "latitude": 44.911215,
+    "longitude": -93.165356,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55117,
+    "latitude": 45.002115,
+    "longitude": -93.106269,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55118,
+    "latitude": 44.856615,
+    "longitude": -93.113028,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55119,
+    "latitude": 44.941415,
+    "longitude": -93.010714,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55120,
+    "latitude": 44.870365,
+    "longitude": -93.143369,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55121,
+    "latitude": 44.822093,
+    "longitude": -93.15908,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55122,
+    "latitude": 44.786018,
+    "longitude": -93.220205,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55123,
+    "latitude": 44.805989,
+    "longitude": -93.140878,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55124,
+    "latitude": 44.749701,
+    "longitude": -93.202881,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55125,
+    "latitude": 44.919716,
+    "longitude": -92.943876,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55126,
+    "latitude": 45.073561,
+    "longitude": -93.138022,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55127,
+    "latitude": 45.080265,
+    "longitude": -93.08752,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55128,
+    "latitude": 44.991316,
+    "longitude": -92.948738,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55129,
+    "latitude": 44.898516,
+    "longitude": -92.92301,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 55133,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55144,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55145,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55146,
+    "latitude": 44.942656,
+    "longitude": -93.082793,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55150,
+    "latitude": 44.886554,
+    "longitude": -93.161258,
+    "city": "Mendota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55155,
+    "latitude": 44.952165,
+    "longitude": -93.095518,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55161,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55164,
+    "latitude": 44.990915,
+    "longitude": -93.106593,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55165,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55166,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55168,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55169,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55170,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55171,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55172,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55175,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55177,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55182,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55187,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55188,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55190,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55191,
+    "latitude": 45.005902,
+    "longitude": -93.105869,
+    "city": "Saint Paul",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Ramsey"
+  },
+  {
+    "zip_code": 55301,
+    "latitude": 45.258673,
+    "longitude": -93.664342,
+    "city": "Albertville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55302,
+    "latitude": 45.218652,
+    "longitude": -94.105948,
+    "city": "Annandale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55303,
+    "latitude": 45.282482,
+    "longitude": -93.418574,
+    "city": "Anoka",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55304,
+    "latitude": 45.237661,
+    "longitude": -93.272428,
+    "city": "Andover",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55305,
+    "latitude": 44.952763,
+    "longitude": -93.43723,
+    "city": "Hopkins",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55306,
+    "latitude": 44.762208,
+    "longitude": -93.221535,
+    "city": "Burnsville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55307,
+    "latitude": 44.597449,
+    "longitude": -94.105481,
+    "city": "Arlington",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55308,
+    "latitude": 45.451864,
+    "longitude": -93.842187,
+    "city": "Becker",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55309,
+    "latitude": 45.367294,
+    "longitude": -93.686916,
+    "city": "Big Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55310,
+    "latitude": 44.753182,
+    "longitude": -94.848215,
+    "city": "Bird Island",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 55311,
+    "latitude": 45.124263,
+    "longitude": -93.499583,
+    "city": "Osseo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55312,
+    "latitude": 44.758102,
+    "longitude": -94.251718,
+    "city": "Brownton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55313,
+    "latitude": 45.180732,
+    "longitude": -93.927556,
+    "city": "Buffalo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55314,
+    "latitude": 44.71031,
+    "longitude": -94.752767,
+    "city": "Buffalo Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 55315,
+    "latitude": 44.723162,
+    "longitude": -93.701637,
+    "city": "Carver",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55316,
+    "latitude": 45.176914,
+    "longitude": -93.397481,
+    "city": "Champlin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55317,
+    "latitude": 44.853364,
+    "longitude": -93.572584,
+    "city": "Chanhassen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55318,
+    "latitude": 44.810062,
+    "longitude": -93.653336,
+    "city": "Chaska",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55319,
+    "latitude": 45.466197,
+    "longitude": -93.952504,
+    "city": "Clear Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55320,
+    "latitude": 45.226627,
+    "longitude": -93.92441,
+    "city": "Clearwater",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55321,
+    "latitude": 45.086044,
+    "longitude": -94.185096,
+    "city": "Cokato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55322,
+    "latitude": 44.768262,
+    "longitude": -93.787041,
+    "city": "Cologne",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55323,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Crystal Bay",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55324,
+    "latitude": 45.070558,
+    "longitude": -94.420292,
+    "city": "Darwin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 55325,
+    "latitude": 45.102011,
+    "longitude": -94.368691,
+    "city": "Dassel",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 55327,
+    "latitude": 45.201514,
+    "longitude": -93.482833,
+    "city": "Dayton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55328,
+    "latitude": 45.041472,
+    "longitude": -93.97792,
+    "city": "Delano",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55329,
+    "latitude": 45.282592,
+    "longitude": -94.524712,
+    "city": "Eden Valley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 55330,
+    "latitude": 45.403289,
+    "longitude": -93.644522,
+    "city": "Elk River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55331,
+    "latitude": 44.912712,
+    "longitude": -93.623186,
+    "city": "Excelsior",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55332,
+    "latitude": 44.595338,
+    "longitude": -94.726284,
+    "city": "Fairfax",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 55333,
+    "latitude": 44.564953,
+    "longitude": -94.891273,
+    "city": "Franklin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 55334,
+    "latitude": 44.572583,
+    "longitude": -94.191699,
+    "city": "Gaylord",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55335,
+    "latitude": 44.55017,
+    "longitude": -94.543258,
+    "city": "Gibbon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55336,
+    "latitude": 44.770238,
+    "longitude": -94.195685,
+    "city": "Glencoe",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55337,
+    "latitude": 44.771547,
+    "longitude": -93.226258,
+    "city": "Burnsville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dakota"
+  },
+  {
+    "zip_code": 55338,
+    "latitude": 44.63575,
+    "longitude": -94.057781,
+    "city": "Green Isle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55339,
+    "latitude": 44.785812,
+    "longitude": -93.837873,
+    "city": "Hamburg",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55340,
+    "latitude": 45.073663,
+    "longitude": -93.568735,
+    "city": "Hamel",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55341,
+    "latitude": 45.160196,
+    "longitude": -93.673418,
+    "city": "Hanover",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55342,
+    "latitude": 44.70976,
+    "longitude": -94.756704,
+    "city": "Hector",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 55343,
+    "latitude": 44.913969,
+    "longitude": -93.44813,
+    "city": "Hopkins",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55344,
+    "latitude": 44.850563,
+    "longitude": -93.440429,
+    "city": "Eden Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55345,
+    "latitude": 44.916963,
+    "longitude": -93.481749,
+    "city": "Minnetonka",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55346,
+    "latitude": 44.875463,
+    "longitude": -93.47808,
+    "city": "Eden Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55347,
+    "latitude": 44.841713,
+    "longitude": -93.459829,
+    "city": "Eden Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55348,
+    "latitude": 44.848263,
+    "longitude": -93.398727,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55349,
+    "latitude": 45.101679,
+    "longitude": -94.047497,
+    "city": "Howard Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55350,
+    "latitude": 44.875565,
+    "longitude": -94.266332,
+    "city": "Hutchinson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55352,
+    "latitude": 44.658362,
+    "longitude": -93.601183,
+    "city": "Jordan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55353,
+    "latitude": 45.36261,
+    "longitude": -94.309928,
+    "city": "Kimball",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 55354,
+    "latitude": 44.880454,
+    "longitude": -94.100616,
+    "city": "Lester Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55355,
+    "latitude": 45.122737,
+    "longitude": -94.529861,
+    "city": "Litchfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 55356,
+    "latitude": 44.995129,
+    "longitude": -93.593836,
+    "city": "Long Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55357,
+    "latitude": 45.100098,
+    "longitude": -93.657256,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55358,
+    "latitude": 45.214072,
+    "longitude": -94.060149,
+    "city": "Maple Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55359,
+    "latitude": 44.983312,
+    "longitude": -93.689162,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55360,
+    "latitude": 44.905962,
+    "longitude": -93.913561,
+    "city": "Mayer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55361,
+    "latitude": 44.940212,
+    "longitude": -93.592735,
+    "city": "Minnetonka Beach",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55362,
+    "latitude": 45.249636,
+    "longitude": -93.851533,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55363,
+    "latitude": 45.048202,
+    "longitude": -94.056543,
+    "city": "Montrose",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55364,
+    "latitude": 44.935062,
+    "longitude": -93.662938,
+    "city": "Mound",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55365,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55366,
+    "latitude": 44.673454,
+    "longitude": -94.229311,
+    "city": "New Auburn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55367,
+    "latitude": 44.899612,
+    "longitude": -93.970832,
+    "city": "New Germany",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55368,
+    "latitude": 44.738862,
+    "longitude": -93.89995,
+    "city": "Norwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55369,
+    "latitude": 45.128414,
+    "longitude": -93.458932,
+    "city": "Osseo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55370,
+    "latitude": 44.839939,
+    "longitude": -94.050518,
+    "city": "Plato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55371,
+    "latitude": 45.740703,
+    "longitude": -93.63663,
+    "city": "Princeton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 55372,
+    "latitude": 44.682763,
+    "longitude": -93.464428,
+    "city": "Prior Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55373,
+    "latitude": 45.155019,
+    "longitude": -93.865168,
+    "city": "Rockford",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55374,
+    "latitude": 45.168896,
+    "longitude": -93.574586,
+    "city": "Rogers",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55375,
+    "latitude": 44.904062,
+    "longitude": -93.74904,
+    "city": "Saint Bonifacius",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55376,
+    "latitude": 45.16826,
+    "longitude": -93.893628,
+    "city": "Saint Michael",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55377,
+    "latitude": 45.540181,
+    "longitude": -93.815434,
+    "city": "Santiago",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55378,
+    "latitude": 44.751113,
+    "longitude": -93.367975,
+    "city": "Savage",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55379,
+    "latitude": 44.731113,
+    "longitude": -93.474144,
+    "city": "Shakopee",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 55380,
+    "latitude": 45.315823,
+    "longitude": -93.979766,
+    "city": "Silver Creek",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55381,
+    "latitude": 44.921134,
+    "longitude": -94.195425,
+    "city": "Silver Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55382,
+    "latitude": 45.265248,
+    "longitude": -94.165984,
+    "city": "South Haven",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55383,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Norwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55384,
+    "latitude": 44.936862,
+    "longitude": -93.630286,
+    "city": "Spring Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55385,
+    "latitude": 44.766671,
+    "longitude": -94.344376,
+    "city": "Stewart",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55386,
+    "latitude": 44.846645,
+    "longitude": -93.661737,
+    "city": "Victoria",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55387,
+    "latitude": 44.844847,
+    "longitude": -93.746148,
+    "city": "Waconia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55388,
+    "latitude": 44.924416,
+    "longitude": -93.853894,
+    "city": "Watertown",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55389,
+    "latitude": 45.268619,
+    "longitude": -94.444561,
+    "city": "Watkins",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 55390,
+    "latitude": 45.060676,
+    "longitude": -93.974555,
+    "city": "Waverly",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55391,
+    "latitude": 44.984663,
+    "longitude": -93.542233,
+    "city": "Wayzata",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55392,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Navarre",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55393,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55394,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55395,
+    "latitude": 44.946121,
+    "longitude": -94.07572,
+    "city": "Winsted",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mcleod"
+  },
+  {
+    "zip_code": 55396,
+    "latitude": 44.550833,
+    "longitude": -94.347525,
+    "city": "Winthrop",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 55397,
+    "latitude": 44.800912,
+    "longitude": -93.919675,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55398,
+    "latitude": 45.467503,
+    "longitude": -93.602475,
+    "city": "Zimmerman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sherburne"
+  },
+  {
+    "zip_code": 55399,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55401,
+    "latitude": 44.979265,
+    "longitude": -93.273024,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55402,
+    "latitude": 44.975915,
+    "longitude": -93.271825,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55403,
+    "latitude": 44.972615,
+    "longitude": -93.287275,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55404,
+    "latitude": 44.948614,
+    "longitude": -93.329926,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55405,
+    "latitude": 44.970114,
+    "longitude": -93.300275,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55406,
+    "latitude": 44.976015,
+    "longitude": -93.278975,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55407,
+    "latitude": 44.935465,
+    "longitude": -93.254023,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55408,
+    "latitude": 44.947515,
+    "longitude": -93.288975,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55409,
+    "latitude": 44.925014,
+    "longitude": -93.289224,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55410,
+    "latitude": 44.912364,
+    "longitude": -93.318825,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55411,
+    "latitude": 44.999514,
+    "longitude": -93.297393,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55412,
+    "latitude": 45.025115,
+    "longitude": -93.298876,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55413,
+    "latitude": 44.994365,
+    "longitude": -93.240774,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55414,
+    "latitude": 44.974515,
+    "longitude": -93.234173,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55415,
+    "latitude": 44.974215,
+    "longitude": -93.258474,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55416,
+    "latitude": 44.949714,
+    "longitude": -93.337326,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55417,
+    "latitude": 44.962965,
+    "longitude": -93.253624,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55418,
+    "latitude": 45.017765,
+    "longitude": -93.244524,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55419,
+    "latitude": 44.890914,
+    "longitude": -93.282724,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55420,
+    "latitude": 44.835164,
+    "longitude": -93.255222,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55421,
+    "latitude": 45.052315,
+    "longitude": -93.254075,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55422,
+    "latitude": 45.009601,
+    "longitude": -93.342428,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55423,
+    "latitude": 44.875614,
+    "longitude": -93.255272,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55424,
+    "latitude": 44.905164,
+    "longitude": -93.340326,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55425,
+    "latitude": 44.842664,
+    "longitude": -93.236286,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55426,
+    "latitude": 44.955014,
+    "longitude": -93.382928,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55427,
+    "latitude": 44.999964,
+    "longitude": -93.390979,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55428,
+    "latitude": 44.981413,
+    "longitude": -93.372979,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55429,
+    "latitude": 44.975664,
+    "longitude": -93.336926,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55430,
+    "latitude": 45.063923,
+    "longitude": -93.302227,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55431,
+    "latitude": 44.828764,
+    "longitude": -93.311823,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55432,
+    "latitude": 45.094965,
+    "longitude": -93.23957,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55433,
+    "latitude": 45.164263,
+    "longitude": -93.319278,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55434,
+    "latitude": 45.170399,
+    "longitude": -93.226925,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55435,
+    "latitude": 44.932864,
+    "longitude": -93.367327,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55436,
+    "latitude": 44.901163,
+    "longitude": -93.42267,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55437,
+    "latitude": 44.826064,
+    "longitude": -93.353791,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55438,
+    "latitude": 44.826613,
+    "longitude": -93.375027,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55439,
+    "latitude": 44.874414,
+    "longitude": -93.375277,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55440,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55441,
+    "latitude": 45.005804,
+    "longitude": -93.419323,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55442,
+    "latitude": 45.04674,
+    "longitude": -93.431047,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55443,
+    "latitude": 45.119364,
+    "longitude": -93.34312,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55444,
+    "latitude": 45.117765,
+    "longitude": -93.305378,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55445,
+    "latitude": 45.123064,
+    "longitude": -93.352439,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55446,
+    "latitude": 45.040013,
+    "longitude": -93.486482,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55447,
+    "latitude": 45.003335,
+    "longitude": -93.487482,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55448,
+    "latitude": 45.174056,
+    "longitude": -93.313274,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55449,
+    "latitude": 45.169739,
+    "longitude": -93.188924,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Anoka"
+  },
+  {
+    "zip_code": 55450,
+    "latitude": 44.881113,
+    "longitude": -93.220658,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55454,
+    "latitude": 44.980859,
+    "longitude": -93.252524,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55455,
+    "latitude": 45.038364,
+    "longitude": -93.298376,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55458,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55459,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55460,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55468,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55470,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55472,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55473,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55474,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55478,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55479,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55480,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55483,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55484,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55485,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55486,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55487,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55488,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Minneapolis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55550,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55551,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55552,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55553,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55554,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Norwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55555,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55556,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55557,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55558,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55559,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55560,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55561,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55562,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55563,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55564,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55565,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55566,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55567,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55568,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55569,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Osseo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55570,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55571,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55572,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55573,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55574,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55575,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Howard Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55576,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55577,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55578,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55579,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55580,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55581,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55582,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55583,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Norwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55584,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55585,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55586,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55587,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55588,
+    "latitude": 44.989512,
+    "longitude": -93.880245,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55589,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55590,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55591,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Monticello",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55592,
+    "latitude": 45.200875,
+    "longitude": -93.888099,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 55593,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Maple Plain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55594,
+    "latitude": 44.805487,
+    "longitude": -93.766524,
+    "city": "Young America",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carver"
+  },
+  {
+    "zip_code": 55595,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55596,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55597,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55598,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55599,
+    "latitude": 45.015914,
+    "longitude": -93.47188,
+    "city": "Loretto",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hennepin"
+  },
+  {
+    "zip_code": 55601,
+    "latitude": 47.256021,
+    "longitude": -91.356586,
+    "city": "Beaver Bay",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55602,
+    "latitude": 47.256933,
+    "longitude": -92.00427,
+    "city": "Brimson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55603,
+    "latitude": 47.497114,
+    "longitude": -91.320571,
+    "city": "Finland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55604,
+    "latitude": 47.872285,
+    "longitude": -90.42294,
+    "city": "Grand Marais",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55605,
+    "latitude": 47.923022,
+    "longitude": -89.851983,
+    "city": "Grand Portage",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55606,
+    "latitude": 47.851669,
+    "longitude": -90.001214,
+    "city": "Hovland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55607,
+    "latitude": 47.660406,
+    "longitude": -91.498861,
+    "city": "Isabella",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55609,
+    "latitude": 46.95388,
+    "longitude": -91.777997,
+    "city": "Knife River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55612,
+    "latitude": 47.7059,
+    "longitude": -90.682372,
+    "city": "Lutsen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55613,
+    "latitude": 47.518552,
+    "longitude": -90.949997,
+    "city": "Schroeder",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55614,
+    "latitude": 47.358488,
+    "longitude": -91.220483,
+    "city": "Silver Bay",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55615,
+    "latitude": 47.648636,
+    "longitude": -90.801861,
+    "city": "Tofte",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 55616,
+    "latitude": 47.134891,
+    "longitude": -91.545363,
+    "city": "Two Harbors",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 55701,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Adolph",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55702,
+    "latitude": 47.014861,
+    "longitude": -92.612312,
+    "city": "Alborn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55703,
+    "latitude": 47.753747,
+    "longitude": -92.756769,
+    "city": "Angora",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55704,
+    "latitude": 46.215511,
+    "longitude": -92.759076,
+    "city": "Askov",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55705,
+    "latitude": 47.634557,
+    "longitude": -92.071317,
+    "city": "Aurora",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55706,
+    "latitude": 47.742305,
+    "longitude": -91.953532,
+    "city": "Babbitt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55707,
+    "latitude": 46.556833,
+    "longitude": -92.720097,
+    "city": "Barnum",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55708,
+    "latitude": 47.532826,
+    "longitude": -92.340774,
+    "city": "Biwabik",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55709,
+    "latitude": 47.347269,
+    "longitude": -93.388826,
+    "city": "Bovey",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55710,
+    "latitude": 47.645047,
+    "longitude": -92.651923,
+    "city": "Britt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55711,
+    "latitude": 46.837747,
+    "longitude": -92.680451,
+    "city": "Brookston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55712,
+    "latitude": 46.2263,
+    "longitude": -92.705581,
+    "city": "Bruno",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55713,
+    "latitude": 47.493197,
+    "longitude": -92.764262,
+    "city": "Buhl",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55716,
+    "latitude": 47.322883,
+    "longitude": -93.276267,
+    "city": "Calumet",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55717,
+    "latitude": 47.0686,
+    "longitude": -92.442794,
+    "city": "Canyon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55718,
+    "latitude": 46.622795,
+    "longitude": -92.675569,
+    "city": "Carlton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55719,
+    "latitude": 47.563308,
+    "longitude": -92.443251,
+    "city": "Chisholm",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55720,
+    "latitude": 46.592512,
+    "longitude": -92.549564,
+    "city": "Cloquet",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55721,
+    "latitude": 47.238241,
+    "longitude": -93.516501,
+    "city": "Cohasset",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55722,
+    "latitude": 47.377503,
+    "longitude": -93.385597,
+    "city": "Coleraine",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55723,
+    "latitude": 47.877563,
+    "longitude": -92.768568,
+    "city": "Cook",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55724,
+    "latitude": 47.152067,
+    "longitude": -92.435223,
+    "city": "Cotton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55725,
+    "latitude": 48.241245,
+    "longitude": -92.525385,
+    "city": "Crane Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55726,
+    "latitude": 46.654061,
+    "longitude": -92.836499,
+    "city": "Cromwell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55730,
+    "latitude": 47.087782,
+    "longitude": -93.921429,
+    "city": "Grand Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55731,
+    "latitude": 47.918943,
+    "longitude": -92.020778,
+    "city": "Ely",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55732,
+    "latitude": 47.662641,
+    "longitude": -92.228145,
+    "city": "Embarrass",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55733,
+    "latitude": 46.712582,
+    "longitude": -92.364896,
+    "city": "Esko",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55734,
+    "latitude": 47.386893,
+    "longitude": -92.452058,
+    "city": "Eveleth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55735,
+    "latitude": 46.23792,
+    "longitude": -92.950358,
+    "city": "Finlayson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55736,
+    "latitude": 46.937895,
+    "longitude": -92.837735,
+    "city": "Floodwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55738,
+    "latitude": 47.273191,
+    "longitude": -92.675563,
+    "city": "Forbes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55741,
+    "latitude": 47.447686,
+    "longitude": -92.366335,
+    "city": "Gilbert",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55742,
+    "latitude": 47.167838,
+    "longitude": -93.132367,
+    "city": "Goodland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55744,
+    "latitude": 47.232889,
+    "longitude": -93.393555,
+    "city": "Grand Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55745,
+    "latitude": 47.087782,
+    "longitude": -93.921429,
+    "city": "Grand Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55746,
+    "latitude": 47.413263,
+    "longitude": -92.87621,
+    "city": "Hibbing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55747,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Hibbing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55748,
+    "latitude": 46.671645,
+    "longitude": -93.432392,
+    "city": "Hill City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 55749,
+    "latitude": 46.482697,
+    "longitude": -92.410931,
+    "city": "Holyoke",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55750,
+    "latitude": 47.507262,
+    "longitude": -92.112844,
+    "city": "Hoyt Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55751,
+    "latitude": 47.420472,
+    "longitude": -92.681078,
+    "city": "Iron",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55752,
+    "latitude": 46.592204,
+    "longitude": -93.433078,
+    "city": "Jacobson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 55753,
+    "latitude": 47.398025,
+    "longitude": -93.078443,
+    "city": "Keewatin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55756,
+    "latitude": 46.331356,
+    "longitude": -92.662237,
+    "city": "Kerrick",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55757,
+    "latitude": 46.52049,
+    "longitude": -92.908622,
+    "city": "Kettle River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55758,
+    "latitude": 47.512132,
+    "longitude": -92.740216,
+    "city": "Kinney",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55760,
+    "latitude": 46.607188,
+    "longitude": -93.30756,
+    "city": "Mcgregor",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 55763,
+    "latitude": 47.264753,
+    "longitude": -92.181209,
+    "city": "Makinen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55764,
+    "latitude": 47.321916,
+    "longitude": -93.29388,
+    "city": "Marble",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55765,
+    "latitude": 47.116076,
+    "longitude": -92.803506,
+    "city": "Meadowlands",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55766,
+    "latitude": 47.249626,
+    "longitude": -92.412343,
+    "city": "Melrude",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55767,
+    "latitude": 46.552827,
+    "longitude": -92.756405,
+    "city": "Moose Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55768,
+    "latitude": 47.454993,
+    "longitude": -92.686192,
+    "city": "Mountain Iron",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55769,
+    "latitude": 47.441216,
+    "longitude": -93.243688,
+    "city": "Nashwauk",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55771,
+    "latitude": 47.742195,
+    "longitude": -92.757902,
+    "city": "Orr",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55772,
+    "latitude": 48.081686,
+    "longitude": -93.083438,
+    "city": "Nett Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55775,
+    "latitude": 47.287391,
+    "longitude": -93.212906,
+    "city": "Pengilly",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55777,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Virginia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55779,
+    "latitude": 46.910179,
+    "longitude": -92.448123,
+    "city": "Saginaw",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55780,
+    "latitude": 46.701794,
+    "longitude": -92.639079,
+    "city": "Sawyer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55781,
+    "latitude": 47.551459,
+    "longitude": -92.994885,
+    "city": "Side Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55782,
+    "latitude": 47.821007,
+    "longitude": -92.246359,
+    "city": "Soudan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55783,
+    "latitude": 46.367039,
+    "longitude": -92.824278,
+    "city": "Sturgeon Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55784,
+    "latitude": 47.06717,
+    "longitude": -93.190708,
+    "city": "Swan River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55785,
+    "latitude": 46.696774,
+    "longitude": -93.645502,
+    "city": "Swatara",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 55786,
+    "latitude": 47.316395,
+    "longitude": -93.342118,
+    "city": "Taconite",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55787,
+    "latitude": 46.630318,
+    "longitude": -93.213416,
+    "city": "Tamarack",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 55790,
+    "latitude": 47.787247,
+    "longitude": -92.338233,
+    "city": "Tower",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55791,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Twig",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55792,
+    "latitude": 47.646075,
+    "longitude": -92.499975,
+    "city": "Virginia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55793,
+    "latitude": 47.241169,
+    "longitude": -93.228104,
+    "city": "Warba",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Itasca"
+  },
+  {
+    "zip_code": 55795,
+    "latitude": 46.310484,
+    "longitude": -92.863863,
+    "city": "Willow River",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pine"
+  },
+  {
+    "zip_code": 55796,
+    "latitude": 47.720643,
+    "longitude": -92.266525,
+    "city": "Winton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55797,
+    "latitude": 46.565172,
+    "longitude": -92.657895,
+    "city": "Wrenshall",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55798,
+    "latitude": 46.614151,
+    "longitude": -92.735406,
+    "city": "Wright",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Carlton"
+  },
+  {
+    "zip_code": 55801,
+    "latitude": 47.005566,
+    "longitude": -92.001934,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55802,
+    "latitude": 46.904912,
+    "longitude": -92.039109,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55803,
+    "latitude": 47.217311,
+    "longitude": -92.1184,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55804,
+    "latitude": 46.886239,
+    "longitude": -92.005488,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55805,
+    "latitude": 46.800389,
+    "longitude": -92.094589,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55806,
+    "latitude": 46.774939,
+    "longitude": -92.133189,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55807,
+    "latitude": 46.735978,
+    "longitude": -92.17764,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55808,
+    "latitude": 46.683891,
+    "longitude": -92.242241,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55810,
+    "latitude": 46.76062,
+    "longitude": -92.266038,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55811,
+    "latitude": 46.814712,
+    "longitude": -92.199825,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55812,
+    "latitude": 46.810788,
+    "longitude": -92.072288,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55814,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55815,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55816,
+    "latitude": 47.640367,
+    "longitude": -92.442797,
+    "city": "Duluth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Saint Louis"
+  },
+  {
+    "zip_code": 55901,
+    "latitude": 44.075285,
+    "longitude": -92.516916,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55902,
+    "latitude": 43.972494,
+    "longitude": -92.389901,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55903,
+    "latitude": 43.996613,
+    "longitude": -92.540929,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55904,
+    "latitude": 43.98622,
+    "longitude": -92.302649,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55905,
+    "latitude": 44.022513,
+    "longitude": -92.466826,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55906,
+    "latitude": 44.107815,
+    "longitude": -92.405294,
+    "city": "Rochester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55909,
+    "latitude": 43.565168,
+    "longitude": -92.74389,
+    "city": "Adams",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55910,
+    "latitude": 44.085616,
+    "longitude": -91.946134,
+    "city": "Altura",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55912,
+    "latitude": 43.699305,
+    "longitude": -92.976818,
+    "city": "Austin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55917,
+    "latitude": 44.011627,
+    "longitude": -93.144007,
+    "city": "Blooming Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 55918,
+    "latitude": 43.746834,
+    "longitude": -92.866996,
+    "city": "Brownsdale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55919,
+    "latitude": 43.648232,
+    "longitude": -91.410977,
+    "city": "Brownsville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55920,
+    "latitude": 43.988227,
+    "longitude": -92.599372,
+    "city": "Byron",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55921,
+    "latitude": 43.635474,
+    "longitude": -91.458938,
+    "city": "Caledonia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55922,
+    "latitude": 43.527479,
+    "longitude": -91.85297,
+    "city": "Canton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55923,
+    "latitude": 43.758684,
+    "longitude": -92.139962,
+    "city": "Chatfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55924,
+    "latitude": 44.046168,
+    "longitude": -92.975313,
+    "city": "Claremont",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55925,
+    "latitude": 43.935613,
+    "longitude": -91.606021,
+    "city": "Dakota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55926,
+    "latitude": 43.616293,
+    "longitude": -92.786355,
+    "city": "Dexter",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55927,
+    "latitude": 44.045362,
+    "longitude": -92.910808,
+    "city": "Dodge Center",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55929,
+    "latitude": 43.989637,
+    "longitude": -92.138889,
+    "city": "Dover",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55931,
+    "latitude": 43.508371,
+    "longitude": -91.463204,
+    "city": "Eitzen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55932,
+    "latitude": 44.123683,
+    "longitude": -92.252177,
+    "city": "Elgin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55933,
+    "latitude": 43.664334,
+    "longitude": -92.682753,
+    "city": "Elkton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55934,
+    "latitude": 44.009932,
+    "longitude": -92.264837,
+    "city": "Eyota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55935,
+    "latitude": 43.651181,
+    "longitude": -92.075216,
+    "city": "Fountain",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55936,
+    "latitude": 43.668417,
+    "longitude": -92.544587,
+    "city": "Grand Meadow",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55939,
+    "latitude": 43.534993,
+    "longitude": -92.069594,
+    "city": "Harmony",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55940,
+    "latitude": 43.896909,
+    "longitude": -92.797679,
+    "city": "Hayfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55941,
+    "latitude": 43.759533,
+    "longitude": -91.398755,
+    "city": "Hokah",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55942,
+    "latitude": 44.019989,
+    "longitude": -91.68187,
+    "city": "Homer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55943,
+    "latitude": 43.781431,
+    "longitude": -91.571198,
+    "city": "Houston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55944,
+    "latitude": 44.017216,
+    "longitude": -92.790593,
+    "city": "Kasson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55945,
+    "latitude": 44.273871,
+    "longitude": -92.109479,
+    "city": "Kellogg",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55946,
+    "latitude": 44.294333,
+    "longitude": -92.905937,
+    "city": "Kenyon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55947,
+    "latitude": 43.770564,
+    "longitude": -91.352968,
+    "city": "La Crescent",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55949,
+    "latitude": 43.721194,
+    "longitude": -91.977384,
+    "city": "Lanesboro",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55950,
+    "latitude": 43.762936,
+    "longitude": -92.965279,
+    "city": "Lansing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55951,
+    "latitude": 43.546515,
+    "longitude": -92.532554,
+    "city": "Le Roy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55952,
+    "latitude": 43.944412,
+    "longitude": -91.880535,
+    "city": "Lewiston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55953,
+    "latitude": 43.506952,
+    "longitude": -92.942939,
+    "city": "Lyle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55954,
+    "latitude": 43.521277,
+    "longitude": -91.768082,
+    "city": "Mabel",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55955,
+    "latitude": 44.065741,
+    "longitude": -92.760046,
+    "city": "Mantorville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55956,
+    "latitude": 44.241752,
+    "longitude": -92.513947,
+    "city": "Mazeppa",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55957,
+    "latitude": 44.234483,
+    "longitude": -92.336216,
+    "city": "Millville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55959,
+    "latitude": 44.081907,
+    "longitude": -91.73508,
+    "city": "Minnesota City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55960,
+    "latitude": 44.084556,
+    "longitude": -92.373869,
+    "city": "Oronoco",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55961,
+    "latitude": 43.714209,
+    "longitude": -92.087863,
+    "city": "Ostrander",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55962,
+    "latitude": 43.747262,
+    "longitude": -92.048539,
+    "city": "Peterson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55963,
+    "latitude": 44.261029,
+    "longitude": -92.710905,
+    "city": "Pine Island",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55964,
+    "latitude": 44.15121,
+    "longitude": -92.202044,
+    "city": "Plainview",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55965,
+    "latitude": 43.706377,
+    "longitude": -92.09459,
+    "city": "Preston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55967,
+    "latitude": 43.784072,
+    "longitude": -92.483567,
+    "city": "Racine",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55968,
+    "latitude": 44.340826,
+    "longitude": -92.282467,
+    "city": "Reads Landing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55969,
+    "latitude": 44.099266,
+    "longitude": -91.819882,
+    "city": "Rollingstone",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55970,
+    "latitude": 43.669317,
+    "longitude": -92.830439,
+    "city": "Rose Creek",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55971,
+    "latitude": 43.809873,
+    "longitude": -91.793376,
+    "city": "Rushford",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55972,
+    "latitude": 43.960809,
+    "longitude": -91.922346,
+    "city": "Saint Charles",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55973,
+    "latitude": 43.804657,
+    "longitude": -92.802913,
+    "city": "Sargeant",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55974,
+    "latitude": 43.571029,
+    "longitude": -91.635822,
+    "city": "Spring Grove",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 55975,
+    "latitude": 43.689711,
+    "longitude": -92.334603,
+    "city": "Spring Valley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55976,
+    "latitude": 43.884346,
+    "longitude": -92.503744,
+    "city": "Stewartville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Olmsted"
+  },
+  {
+    "zip_code": 55977,
+    "latitude": 43.557786,
+    "longitude": -92.660555,
+    "city": "Taopi",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55979,
+    "latitude": 43.92098,
+    "longitude": -91.969704,
+    "city": "Utica",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55981,
+    "latitude": 44.3579,
+    "longitude": -92.087925,
+    "city": "Wabasha",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55982,
+    "latitude": 43.694738,
+    "longitude": -92.79693,
+    "city": "Waltham",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mower"
+  },
+  {
+    "zip_code": 55983,
+    "latitude": 44.272099,
+    "longitude": -92.812034,
+    "city": "Wanamingo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 55985,
+    "latitude": 44.148244,
+    "longitude": -92.903452,
+    "city": "West Concord",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 55987,
+    "latitude": 44.029975,
+    "longitude": -91.700889,
+    "city": "Winona",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55988,
+    "latitude": 44.025217,
+    "longitude": -91.770781,
+    "city": "Stockton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Winona"
+  },
+  {
+    "zip_code": 55990,
+    "latitude": 43.704566,
+    "longitude": -92.237117,
+    "city": "Wykoff",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Fillmore"
+  },
+  {
+    "zip_code": 55991,
+    "latitude": 44.242705,
+    "longitude": -92.425643,
+    "city": "Zumbro Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wabasha"
+  },
+  {
+    "zip_code": 55992,
+    "latitude": 44.287597,
+    "longitude": -92.693235,
+    "city": "Zumbrota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Goodhue"
+  },
+  {
+    "zip_code": 56001,
+    "latitude": 44.061451,
+    "longitude": -94.003112,
+    "city": "Mankato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56002,
+    "latitude": 44.056047,
+    "longitude": -94.069828,
+    "city": "Mankato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56003,
+    "latitude": 44.217193,
+    "longitude": -94.094192,
+    "city": "Mankato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nicollet"
+  },
+  {
+    "zip_code": 56006,
+    "latitude": 44.056047,
+    "longitude": -94.069828,
+    "city": "Mankato",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56007,
+    "latitude": 43.686288,
+    "longitude": -93.389838,
+    "city": "Albert Lea",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56009,
+    "latitude": 43.733525,
+    "longitude": -93.532143,
+    "city": "Alden",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56010,
+    "latitude": 43.886884,
+    "longitude": -94.15839,
+    "city": "Amboy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56011,
+    "latitude": 44.608912,
+    "longitude": -93.757888,
+    "city": "Belle Plaine",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 56013,
+    "latitude": 43.6503,
+    "longitude": -93.977974,
+    "city": "Blue Earth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56014,
+    "latitude": 43.669878,
+    "longitude": -93.826733,
+    "city": "Bricelyn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56016,
+    "latitude": 43.761669,
+    "longitude": -93.326712,
+    "city": "Clarks Grove",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56017,
+    "latitude": 44.298188,
+    "longitude": -93.817622,
+    "city": "Cleveland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56019,
+    "latitude": 44.111351,
+    "longitude": -94.907833,
+    "city": "Comfrey",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56020,
+    "latitude": 43.62105,
+    "longitude": -93.548214,
+    "city": "Conger",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56021,
+    "latitude": 44.265888,
+    "longitude": -94.272911,
+    "city": "Courtland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nicollet"
+  },
+  {
+    "zip_code": 56022,
+    "latitude": 44.05483,
+    "longitude": -94.790185,
+    "city": "Darfur",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56023,
+    "latitude": 43.768062,
+    "longitude": -94.007655,
+    "city": "Delavan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56024,
+    "latitude": 44.163231,
+    "longitude": -93.882127,
+    "city": "Eagle Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56025,
+    "latitude": 43.760823,
+    "longitude": -93.897589,
+    "city": "Easton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56026,
+    "latitude": 43.927861,
+    "longitude": -93.286367,
+    "city": "Ellendale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 56027,
+    "latitude": 43.575712,
+    "longitude": -93.96984,
+    "city": "Elmore",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56028,
+    "latitude": 44.199317,
+    "longitude": -93.68198,
+    "city": "Elysian",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56029,
+    "latitude": 43.652544,
+    "longitude": -93.403429,
+    "city": "Emmons",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56030,
+    "latitude": 44.325833,
+    "longitude": -94.605226,
+    "city": "Essig",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56031,
+    "latitude": 43.674049,
+    "longitude": -94.51078,
+    "city": "Fairmont",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56032,
+    "latitude": 43.783807,
+    "longitude": -93.525396,
+    "city": "Freeborn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56033,
+    "latitude": 43.564879,
+    "longitude": -93.908248,
+    "city": "Frost",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56034,
+    "latitude": 44.052118,
+    "longitude": -94.165036,
+    "city": "Garden City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56035,
+    "latitude": 43.673904,
+    "longitude": -93.348869,
+    "city": "Geneva",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56036,
+    "latitude": 43.664991,
+    "longitude": -93.36173,
+    "city": "Glenville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56037,
+    "latitude": 44.029182,
+    "longitude": -94.112395,
+    "city": "Good Thunder",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56039,
+    "latitude": 43.659429,
+    "longitude": -94.440978,
+    "city": "Granada",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56041,
+    "latitude": 44.133457,
+    "longitude": -94.499485,
+    "city": "Hanska",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56042,
+    "latitude": 43.803384,
+    "longitude": -93.485456,
+    "city": "Hartland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56043,
+    "latitude": 43.646968,
+    "longitude": -93.244932,
+    "city": "Hayward",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56044,
+    "latitude": 44.564912,
+    "longitude": -93.962668,
+    "city": "Henderson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Sibley"
+  },
+  {
+    "zip_code": 56045,
+    "latitude": 43.759484,
+    "longitude": -93.204246,
+    "city": "Hollandale",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56046,
+    "latitude": 43.955103,
+    "longitude": -93.274017,
+    "city": "Hope",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Steele"
+  },
+  {
+    "zip_code": 56047,
+    "latitude": 43.738397,
+    "longitude": -94.228897,
+    "city": "Huntley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56048,
+    "latitude": 44.051012,
+    "longitude": -93.58735,
+    "city": "Janesville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Waseca"
+  },
+  {
+    "zip_code": 56050,
+    "latitude": 44.273281,
+    "longitude": -93.931119,
+    "city": "Kasota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56051,
+    "latitude": 43.550446,
+    "longitude": -93.708504,
+    "city": "Kiester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56052,
+    "latitude": 44.313417,
+    "longitude": -93.574653,
+    "city": "Kilkenny",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56054,
+    "latitude": 44.361224,
+    "longitude": -94.293887,
+    "city": "Lafayette",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nicollet"
+  },
+  {
+    "zip_code": 56055,
+    "latitude": 44.147701,
+    "longitude": -94.212574,
+    "city": "Lake Crystal",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56056,
+    "latitude": 43.978335,
+    "longitude": -94.614361,
+    "city": "La Salle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56057,
+    "latitude": 44.360047,
+    "longitude": -93.781405,
+    "city": "Le Center",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56058,
+    "latitude": 44.390864,
+    "longitude": -93.903348,
+    "city": "Le Sueur",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56060,
+    "latitude": 43.923423,
+    "longitude": -94.434135,
+    "city": "Lewisville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56062,
+    "latitude": 44.050715,
+    "longitude": -94.41548,
+    "city": "Madelia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56063,
+    "latitude": 44.08391,
+    "longitude": -93.862052,
+    "city": "Madison Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56064,
+    "latitude": 43.763839,
+    "longitude": -93.468959,
+    "city": "Manchester",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56065,
+    "latitude": 43.925112,
+    "longitude": -93.952056,
+    "city": "Mapleton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56068,
+    "latitude": 43.811561,
+    "longitude": -93.817817,
+    "city": "Minnesota Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56069,
+    "latitude": 44.349609,
+    "longitude": -93.580277,
+    "city": "Montgomery",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56071,
+    "latitude": 44.536713,
+    "longitude": -93.55598,
+    "city": "New Prague",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56072,
+    "latitude": 43.981294,
+    "longitude": -93.561426,
+    "city": "New Richland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Waseca"
+  },
+  {
+    "zip_code": 56073,
+    "latitude": 44.259924,
+    "longitude": -94.511407,
+    "city": "New Ulm",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56074,
+    "latitude": 44.273214,
+    "longitude": -94.188233,
+    "city": "Nicollet",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nicollet"
+  },
+  {
+    "zip_code": 56075,
+    "latitude": 43.735278,
+    "longitude": -94.435705,
+    "city": "Northrop",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56076,
+    "latitude": 43.673904,
+    "longitude": -93.348869,
+    "city": "Oakland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56078,
+    "latitude": 44.007674,
+    "longitude": -93.783274,
+    "city": "Pemberton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56080,
+    "latitude": 44.081669,
+    "longitude": -93.857123,
+    "city": "Saint Clair",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56081,
+    "latitude": 43.982851,
+    "longitude": -94.604116,
+    "city": "Saint James",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56082,
+    "latitude": 44.337793,
+    "longitude": -94.070153,
+    "city": "Saint Peter",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nicollet"
+  },
+  {
+    "zip_code": 56083,
+    "latitude": 44.282403,
+    "longitude": -95.167551,
+    "city": "Sanborn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56084,
+    "latitude": 44.302893,
+    "longitude": -94.738827,
+    "city": "Searles",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56085,
+    "latitude": 44.317309,
+    "longitude": -94.777163,
+    "city": "Sleepy Eye",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56087,
+    "latitude": 44.253427,
+    "longitude": -94.903534,
+    "city": "Springfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 56088,
+    "latitude": 43.789856,
+    "longitude": -94.430809,
+    "city": "Truman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56089,
+    "latitude": 43.559269,
+    "longitude": -93.420578,
+    "city": "Twin Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Freeborn"
+  },
+  {
+    "zip_code": 56090,
+    "latitude": 43.925892,
+    "longitude": -94.233683,
+    "city": "Vernon Center",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Blue Earth"
+  },
+  {
+    "zip_code": 56091,
+    "latitude": 43.907326,
+    "longitude": -93.682513,
+    "city": "Waldorf",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Waseca"
+  },
+  {
+    "zip_code": 56093,
+    "latitude": 44.065547,
+    "longitude": -93.550495,
+    "city": "Waseca",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Waseca"
+  },
+  {
+    "zip_code": 56096,
+    "latitude": 44.324235,
+    "longitude": -93.569726,
+    "city": "Waterville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Le Sueur"
+  },
+  {
+    "zip_code": 56097,
+    "latitude": 43.702814,
+    "longitude": -93.912041,
+    "city": "Wells",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56098,
+    "latitude": 43.673848,
+    "longitude": -93.948241,
+    "city": "Winnebago",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Faribault"
+  },
+  {
+    "zip_code": 56101,
+    "latitude": 43.900192,
+    "longitude": -95.046828,
+    "city": "Windom",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56110,
+    "latitude": 43.620754,
+    "longitude": -95.953225,
+    "city": "Adrian",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56111,
+    "latitude": 43.674174,
+    "longitude": -95.154494,
+    "city": "Alpha",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 56113,
+    "latitude": 44.382668,
+    "longitude": -96.1842,
+    "city": "Arco",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 56114,
+    "latitude": 43.960084,
+    "longitude": -95.60317,
+    "city": "Avoca",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56115,
+    "latitude": 44.261464,
+    "longitude": -95.889647,
+    "city": "Balaton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56116,
+    "latitude": 43.612344,
+    "longitude": -96.364663,
+    "city": "Beaver Creek",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56117,
+    "latitude": 43.540643,
+    "longitude": -95.687951,
+    "city": "Bigelow",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56118,
+    "latitude": 43.895565,
+    "longitude": -95.048996,
+    "city": "Bingham Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56119,
+    "latitude": 43.732427,
+    "longitude": -95.512519,
+    "city": "Brewster",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56120,
+    "latitude": 44.002201,
+    "longitude": -94.814932,
+    "city": "Butterfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56121,
+    "latitude": 43.584995,
+    "longitude": -94.606517,
+    "city": "Ceylon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56122,
+    "latitude": 43.92199,
+    "longitude": -95.81997,
+    "city": "Chandler",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56123,
+    "latitude": 44.048028,
+    "longitude": -95.704397,
+    "city": "Currie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56125,
+    "latitude": 44.053323,
+    "longitude": -95.549899,
+    "city": "Dovray",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56127,
+    "latitude": 43.674184,
+    "longitude": -94.550932,
+    "city": "Dunnell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56128,
+    "latitude": 43.930332,
+    "longitude": -96.149676,
+    "city": "Edgerton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56129,
+    "latitude": 43.536342,
+    "longitude": -95.983538,
+    "city": "Ellsworth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56131,
+    "latitude": 43.905962,
+    "longitude": -95.593288,
+    "city": "Fulda",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56132,
+    "latitude": 44.305584,
+    "longitude": -95.86177,
+    "city": "Garvin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56134,
+    "latitude": 43.810378,
+    "longitude": -96.218283,
+    "city": "Hardwick",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56136,
+    "latitude": 44.460984,
+    "longitude": -96.33771,
+    "city": "Hendricks",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 56137,
+    "latitude": 43.795977,
+    "longitude": -95.320571,
+    "city": "Heron Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 56138,
+    "latitude": 43.525185,
+    "longitude": -96.358365,
+    "city": "Hills",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56139,
+    "latitude": 44.09239,
+    "longitude": -96.188124,
+    "city": "Holland",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56140,
+    "latitude": 43.895464,
+    "longitude": -96.364032,
+    "city": "Ihlen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56141,
+    "latitude": 43.891474,
+    "longitude": -95.784003,
+    "city": "Iona",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56142,
+    "latitude": 44.460411,
+    "longitude": -96.246374,
+    "city": "Ivanhoe",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 56143,
+    "latitude": 43.650174,
+    "longitude": -95.021954,
+    "city": "Jackson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 56144,
+    "latitude": 43.879857,
+    "longitude": -96.342955,
+    "city": "Jasper",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56145,
+    "latitude": 44.055769,
+    "longitude": -95.195219,
+    "city": "Jeffers",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56146,
+    "latitude": 43.674883,
+    "longitude": -96.252794,
+    "city": "Kanaranzi",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56147,
+    "latitude": 43.674883,
+    "longitude": -96.252794,
+    "city": "Kenneth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56149,
+    "latitude": 44.294793,
+    "longitude": -96.270936,
+    "city": "Lake Benton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 56150,
+    "latitude": 43.678125,
+    "longitude": -95.171548,
+    "city": "Lakefield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 56151,
+    "latitude": 44.00692,
+    "longitude": -95.825082,
+    "city": "Lake Wilson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56152,
+    "latitude": 44.282497,
+    "longitude": -95.269338,
+    "city": "Lamberton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56153,
+    "latitude": 43.840423,
+    "longitude": -96.012811,
+    "city": "Leota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56155,
+    "latitude": 43.682995,
+    "longitude": -95.942501,
+    "city": "Lismore",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56156,
+    "latitude": 43.698546,
+    "longitude": -96.163242,
+    "city": "Luverne",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56157,
+    "latitude": 44.399913,
+    "longitude": -95.937984,
+    "city": "Lynd",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56158,
+    "latitude": 43.644047,
+    "longitude": -96.07695,
+    "city": "Magnolia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56159,
+    "latitude": 43.939276,
+    "longitude": -94.924319,
+    "city": "Mountain Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56160,
+    "latitude": 43.867848,
+    "longitude": -94.742716,
+    "city": "Odin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Watonwan"
+  },
+  {
+    "zip_code": 56161,
+    "latitude": 43.738986,
+    "longitude": -95.316815,
+    "city": "Okabena",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 56162,
+    "latitude": 43.826503,
+    "longitude": -94.663493,
+    "city": "Ormsby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56164,
+    "latitude": 43.989267,
+    "longitude": -96.265153,
+    "city": "Pipestone",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56165,
+    "latitude": 43.732304,
+    "longitude": -95.703514,
+    "city": "Reading",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56166,
+    "latitude": 44.23913,
+    "longitude": -95.355744,
+    "city": "Revere",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56167,
+    "latitude": 43.631841,
+    "longitude": -95.640477,
+    "city": "Round Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56168,
+    "latitude": 43.623088,
+    "longitude": -95.803869,
+    "city": "Rushmore",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56169,
+    "latitude": 44.335085,
+    "longitude": -95.97804,
+    "city": "Russell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56170,
+    "latitude": 44.153916,
+    "longitude": -96.275913,
+    "city": "Ruthton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56171,
+    "latitude": 43.667369,
+    "longitude": -94.759431,
+    "city": "Sherburn",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56172,
+    "latitude": 43.993479,
+    "longitude": -95.763493,
+    "city": "Slayton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 56173,
+    "latitude": 43.674883,
+    "longitude": -96.252794,
+    "city": "Steen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Rock"
+  },
+  {
+    "zip_code": 56174,
+    "latitude": 44.039624,
+    "longitude": -95.319366,
+    "city": "Storden",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56175,
+    "latitude": 44.290092,
+    "longitude": -95.773754,
+    "city": "Tracy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56176,
+    "latitude": 43.783229,
+    "longitude": -94.713525,
+    "city": "Trimont",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56177,
+    "latitude": 43.889477,
+    "longitude": -96.260066,
+    "city": "Trosky",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56178,
+    "latitude": 44.275371,
+    "longitude": -96.141967,
+    "city": "Tyler",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 56180,
+    "latitude": 44.283007,
+    "longitude": -95.48189,
+    "city": "Walnut Grove",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56181,
+    "latitude": 43.66727,
+    "longitude": -94.673433,
+    "city": "Welcome",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 56183,
+    "latitude": 44.007813,
+    "longitude": -95.196562,
+    "city": "Westbrook",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cottonwood"
+  },
+  {
+    "zip_code": 56185,
+    "latitude": 43.790084,
+    "longitude": -95.826712,
+    "city": "Wilmont",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56186,
+    "latitude": 44.009283,
+    "longitude": -96.09925,
+    "city": "Woodstock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pipestone"
+  },
+  {
+    "zip_code": 56187,
+    "latitude": 43.645207,
+    "longitude": -95.735375,
+    "city": "Worthington",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Nobles"
+  },
+  {
+    "zip_code": 56201,
+    "latitude": 45.147104,
+    "longitude": -94.977723,
+    "city": "Willmar",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56207,
+    "latitude": 45.585961,
+    "longitude": -96.000761,
+    "city": "Alberta",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 56208,
+    "latitude": 45.282008,
+    "longitude": -95.95757,
+    "city": "Appleton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56209,
+    "latitude": 45.109205,
+    "longitude": -94.968572,
+    "city": "Atwater",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56210,
+    "latitude": 45.559291,
+    "longitude": -96.558886,
+    "city": "Barry",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56211,
+    "latitude": 45.381402,
+    "longitude": -96.469532,
+    "city": "Beardsley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56212,
+    "latitude": 45.053253,
+    "longitude": -96.095554,
+    "city": "Bellingham",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lac Qui Parle"
+  },
+  {
+    "zip_code": 56214,
+    "latitude": 44.553001,
+    "longitude": -95.324839,
+    "city": "Belview",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56215,
+    "latitude": 45.281669,
+    "longitude": -95.672102,
+    "city": "Benson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56216,
+    "latitude": 44.950076,
+    "longitude": -95.058849,
+    "city": "Blomkest",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56218,
+    "latitude": 45.053253,
+    "longitude": -96.095554,
+    "city": "Boyd",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lac Qui Parle"
+  },
+  {
+    "zip_code": 56219,
+    "latitude": 45.59432,
+    "longitude": -96.834959,
+    "city": "Browns Valley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Traverse"
+  },
+  {
+    "zip_code": 56220,
+    "latitude": 44.775235,
+    "longitude": -95.916433,
+    "city": "Canby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56221,
+    "latitude": 45.573876,
+    "longitude": -96.172979,
+    "city": "Chokio",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 56222,
+    "latitude": 44.992549,
+    "longitude": -95.36042,
+    "city": "Clara City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 56223,
+    "latitude": 44.790853,
+    "longitude": -95.806933,
+    "city": "Clarkfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56224,
+    "latitude": 44.418189,
+    "longitude": -95.261177,
+    "city": "Clements",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56225,
+    "latitude": 45.461092,
+    "longitude": -96.431538,
+    "city": "Clinton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56226,
+    "latitude": 45.305865,
+    "longitude": -95.838919,
+    "city": "Clontarf",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56227,
+    "latitude": 45.381402,
+    "longitude": -96.469532,
+    "city": "Correll",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56228,
+    "latitude": 45.022087,
+    "longitude": -94.660884,
+    "city": "Cosmos",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 56229,
+    "latitude": 44.56956,
+    "longitude": -95.744921,
+    "city": "Cottonwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56230,
+    "latitude": 44.76007,
+    "longitude": -95.09754,
+    "city": "Danube",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 56231,
+    "latitude": 45.281751,
+    "longitude": -95.721936,
+    "city": "Danvers",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56232,
+    "latitude": 44.929289,
+    "longitude": -96.056499,
+    "city": "Dawson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lac Qui Parle"
+  },
+  {
+    "zip_code": 56235,
+    "latitude": 45.690959,
+    "longitude": -96.010121,
+    "city": "Donnelly",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 56236,
+    "latitude": 45.718556,
+    "longitude": -96.422981,
+    "city": "Dumont",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Traverse"
+  },
+  {
+    "zip_code": 56237,
+    "latitude": 44.617739,
+    "longitude": -95.411535,
+    "city": "Echo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56239,
+    "latitude": 44.485432,
+    "longitude": -95.907811,
+    "city": "Ghent",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56240,
+    "latitude": 45.521519,
+    "longitude": -96.440429,
+    "city": "Graceville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56241,
+    "latitude": 44.780794,
+    "longitude": -95.670577,
+    "city": "Granite Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56243,
+    "latitude": 45.146898,
+    "longitude": -94.674112,
+    "city": "Grove City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Meeker"
+  },
+  {
+    "zip_code": 56244,
+    "latitude": 45.497402,
+    "longitude": -95.79426,
+    "city": "Hancock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 56245,
+    "latitude": 44.692039,
+    "longitude": -95.62058,
+    "city": "Hanley Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56246,
+    "latitude": 45.33763,
+    "longitude": -94.85611,
+    "city": "Hawick",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56248,
+    "latitude": 45.838396,
+    "longitude": -96.141993,
+    "city": "Herman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56249,
+    "latitude": 45.29184,
+    "longitude": -95.624619,
+    "city": "Holloway",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56251,
+    "latitude": 45.142577,
+    "longitude": -94.918264,
+    "city": "Kandiyohi",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56252,
+    "latitude": 45.231737,
+    "longitude": -95.317927,
+    "city": "Kerkhoven",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56253,
+    "latitude": 45.011036,
+    "longitude": -94.900783,
+    "city": "Lake Lillian",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56255,
+    "latitude": 44.472194,
+    "longitude": -95.409783,
+    "city": "Lucan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56256,
+    "latitude": 45.038164,
+    "longitude": -96.311044,
+    "city": "Madison",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lac Qui Parle"
+  },
+  {
+    "zip_code": 56257,
+    "latitude": 45.067384,
+    "longitude": -96.440184,
+    "city": "Marietta",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lac Qui Parle"
+  },
+  {
+    "zip_code": 56258,
+    "latitude": 44.460429,
+    "longitude": -95.785872,
+    "city": "Marshall",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56260,
+    "latitude": 44.999613,
+    "longitude": -95.573816,
+    "city": "Maynard",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 56262,
+    "latitude": 45.108407,
+    "longitude": -95.817699,
+    "city": "Milan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 56263,
+    "latitude": 44.417632,
+    "longitude": -95.531336,
+    "city": "Milroy",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56264,
+    "latitude": 44.52307,
+    "longitude": -95.954362,
+    "city": "Minneota",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56265,
+    "latitude": 45.014054,
+    "longitude": -95.601718,
+    "city": "Montevideo",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 56266,
+    "latitude": 44.404589,
+    "longitude": -94.976823,
+    "city": "Morgan",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56267,
+    "latitude": 45.595739,
+    "longitude": -95.923233,
+    "city": "Morris",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 56270,
+    "latitude": 44.586097,
+    "longitude": -94.97066,
+    "city": "Morton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 56271,
+    "latitude": 45.281997,
+    "longitude": -95.512817,
+    "city": "Murdock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Swift"
+  },
+  {
+    "zip_code": 56273,
+    "latitude": 45.167597,
+    "longitude": -95.049378,
+    "city": "New London",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56274,
+    "latitude": 45.934055,
+    "longitude": -96.012359,
+    "city": "Norcross",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56276,
+    "latitude": 45.381402,
+    "longitude": -96.469532,
+    "city": "Odessa",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56277,
+    "latitude": 44.760343,
+    "longitude": -95.032641,
+    "city": "Olivia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 56278,
+    "latitude": 45.376691,
+    "longitude": -96.516214,
+    "city": "Ortonville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Big Stone"
+  },
+  {
+    "zip_code": 56279,
+    "latitude": 45.219496,
+    "longitude": -95.141233,
+    "city": "Pennock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56280,
+    "latitude": 44.674215,
+    "longitude": -96.11204,
+    "city": "Porter",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56281,
+    "latitude": 45.029662,
+    "longitude": -95.000152,
+    "city": "Prinsburg",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56282,
+    "latitude": 45.094173,
+    "longitude": -95.111335,
+    "city": "Raymond",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56283,
+    "latitude": 44.521759,
+    "longitude": -95.200255,
+    "city": "Redwood Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56284,
+    "latitude": 44.760675,
+    "longitude": -95.240065,
+    "city": "Renville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 56285,
+    "latitude": 44.779761,
+    "longitude": -95.370482,
+    "city": "Sacred Heart",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Renville"
+  },
+  {
+    "zip_code": 56287,
+    "latitude": 44.461267,
+    "longitude": -95.328167,
+    "city": "Seaforth",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56288,
+    "latitude": 45.164862,
+    "longitude": -95.020124,
+    "city": "Spicer",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56289,
+    "latitude": 45.258882,
+    "longitude": -95.141945,
+    "city": "Sunburg",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kandiyohi"
+  },
+  {
+    "zip_code": 56291,
+    "latitude": 44.580923,
+    "longitude": -95.883387,
+    "city": "Taunton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 56292,
+    "latitude": 44.492318,
+    "longitude": -95.447604,
+    "city": "Vesta",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56293,
+    "latitude": 44.420734,
+    "longitude": -95.248847,
+    "city": "Wabasso",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56294,
+    "latitude": 44.32978,
+    "longitude": -95.211785,
+    "city": "Wanda",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Redwood"
+  },
+  {
+    "zip_code": 56295,
+    "latitude": 45.019892,
+    "longitude": -95.630814,
+    "city": "Watson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Chippewa"
+  },
+  {
+    "zip_code": 56296,
+    "latitude": 45.703481,
+    "longitude": -96.633211,
+    "city": "Wheaton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Traverse"
+  },
+  {
+    "zip_code": 56297,
+    "latitude": 44.667478,
+    "longitude": -95.576938,
+    "city": "Wood Lake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Yellow Medicine"
+  },
+  {
+    "zip_code": 56301,
+    "latitude": 45.519196,
+    "longitude": -94.330619,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56302,
+    "latitude": 45.49343,
+    "longitude": -94.643922,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56303,
+    "latitude": 45.627994,
+    "longitude": -94.223023,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56304,
+    "latitude": 45.544864,
+    "longitude": -94.440969,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56307,
+    "latitude": 45.614724,
+    "longitude": -94.494229,
+    "city": "Albany",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56308,
+    "latitude": 45.902017,
+    "longitude": -95.420589,
+    "city": "Alexandria",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56309,
+    "latitude": 46.09171,
+    "longitude": -95.816743,
+    "city": "Ashby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56310,
+    "latitude": 45.599386,
+    "longitude": -94.436477,
+    "city": "Avon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56311,
+    "latitude": 45.902775,
+    "longitude": -95.85025,
+    "city": "Barrett",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56312,
+    "latitude": 45.509715,
+    "longitude": -94.963049,
+    "city": "Belgrade",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56313,
+    "latitude": 45.784462,
+    "longitude": -93.552152,
+    "city": "Bock",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56314,
+    "latitude": 45.868809,
+    "longitude": -94.422896,
+    "city": "Bowlus",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56315,
+    "latitude": 45.966435,
+    "longitude": -95.516619,
+    "city": "Brandon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56316,
+    "latitude": 45.513441,
+    "longitude": -95.056661,
+    "city": "Brooten",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56317,
+    "latitude": 46.061307,
+    "longitude": -94.208731,
+    "city": "Buckman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56318,
+    "latitude": 45.86575,
+    "longitude": -94.685781,
+    "city": "Burtrum",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56319,
+    "latitude": 45.991208,
+    "longitude": -95.371207,
+    "city": "Carlos",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56320,
+    "latitude": 45.470708,
+    "longitude": -94.661654,
+    "city": "Cold Spring",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56321,
+    "latitude": 45.578278,
+    "longitude": -94.419941,
+    "city": "Collegeville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56323,
+    "latitude": 45.641425,
+    "longitude": -95.709642,
+    "city": "Cyrus",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56324,
+    "latitude": 46.172907,
+    "longitude": -95.918542,
+    "city": "Dalton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56325,
+    "latitude": 45.563556,
+    "longitude": -94.946428,
+    "city": "Elrosa",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56326,
+    "latitude": 45.984659,
+    "longitude": -95.670545,
+    "city": "Evansville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56327,
+    "latitude": 45.728746,
+    "longitude": -95.623944,
+    "city": "Farwell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56328,
+    "latitude": 45.953341,
+    "longitude": -94.546845,
+    "city": "Flensburg",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56329,
+    "latitude": 45.691931,
+    "longitude": -93.914797,
+    "city": "Foley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 56330,
+    "latitude": 45.735675,
+    "longitude": -93.647135,
+    "city": "Foreston",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56331,
+    "latitude": 45.643851,
+    "longitude": -94.660815,
+    "city": "Freeport",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56332,
+    "latitude": 45.984672,
+    "longitude": -95.506622,
+    "city": "Garfield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56333,
+    "latitude": 45.691714,
+    "longitude": -94.05629,
+    "city": "Gilman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 56334,
+    "latitude": 45.589131,
+    "longitude": -95.357347,
+    "city": "Glenwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56335,
+    "latitude": 45.597122,
+    "longitude": -94.851494,
+    "city": "Greenwald",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56336,
+    "latitude": 45.827791,
+    "longitude": -94.77757,
+    "city": "Grey Eagle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56338,
+    "latitude": 45.990074,
+    "longitude": -93.888513,
+    "city": "Hillman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56339,
+    "latitude": 45.836077,
+    "longitude": -95.791353,
+    "city": "Hoffman",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 56340,
+    "latitude": 45.623632,
+    "longitude": -94.41914,
+    "city": "Holdingford",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56341,
+    "latitude": 45.830998,
+    "longitude": -95.541618,
+    "city": "Holmes City",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56342,
+    "latitude": 45.973268,
+    "longitude": -93.536504,
+    "city": "Isle",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56343,
+    "latitude": 45.811895,
+    "longitude": -95.665241,
+    "city": "Kensington",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56344,
+    "latitude": 46.061307,
+    "longitude": -94.208731,
+    "city": "Lastrup",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56345,
+    "latitude": 45.980055,
+    "longitude": -94.245867,
+    "city": "Little Falls",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56347,
+    "latitude": 45.904136,
+    "longitude": -94.815114,
+    "city": "Long Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56349,
+    "latitude": 45.715846,
+    "longitude": -95.540402,
+    "city": "Lowry",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56350,
+    "latitude": 46.195728,
+    "longitude": -93.377414,
+    "city": "Mc Grath",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 56352,
+    "latitude": 45.614071,
+    "longitude": -94.634556,
+    "city": "Melrose",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56353,
+    "latitude": 45.90321,
+    "longitude": -93.620355,
+    "city": "Milaca",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56354,
+    "latitude": 46.06187,
+    "longitude": -95.295146,
+    "city": "Miltona",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56355,
+    "latitude": 45.935551,
+    "longitude": -95.23975,
+    "city": "Nelson",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56356,
+    "latitude": 45.62974,
+    "longitude": -94.751937,
+    "city": "New Munich",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56357,
+    "latitude": 45.702225,
+    "longitude": -93.816445,
+    "city": "Oak Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 56358,
+    "latitude": 45.833199,
+    "longitude": -93.402621,
+    "city": "Ogilvie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Kanabec"
+  },
+  {
+    "zip_code": 56359,
+    "latitude": 45.943108,
+    "longitude": -93.663152,
+    "city": "Onamia",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56360,
+    "latitude": 45.871169,
+    "longitude": -95.237474,
+    "city": "Osakis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 56361,
+    "latitude": 46.150334,
+    "longitude": -95.350438,
+    "city": "Parkers Prairie",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Otter Tail"
+  },
+  {
+    "zip_code": 56362,
+    "latitude": 45.506403,
+    "longitude": -94.734316,
+    "city": "Paynesville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56363,
+    "latitude": 45.697362,
+    "longitude": -93.646503,
+    "city": "Pease",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56364,
+    "latitude": 45.994539,
+    "longitude": -94.123384,
+    "city": "Pierz",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56367,
+    "latitude": 45.745866,
+    "longitude": -94.124878,
+    "city": "Rice",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 56368,
+    "latitude": 45.460536,
+    "longitude": -94.536053,
+    "city": "Richmond",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56369,
+    "latitude": 45.468679,
+    "longitude": -94.340582,
+    "city": "Rockville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56371,
+    "latitude": 45.426781,
+    "longitude": -94.633502,
+    "city": "Roscoe",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56372,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56373,
+    "latitude": 45.871308,
+    "longitude": -94.161377,
+    "city": "Royalton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56374,
+    "latitude": 45.614235,
+    "longitude": -94.350962,
+    "city": "Saint Joseph",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56375,
+    "latitude": 45.587011,
+    "longitude": -94.380968,
+    "city": "Saint Stephen",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56376,
+    "latitude": 45.489612,
+    "longitude": -94.718248,
+    "city": "Saint Martin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56377,
+    "latitude": 45.573808,
+    "longitude": -94.355049,
+    "city": "Sartell",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56378,
+    "latitude": 45.638568,
+    "longitude": -94.974275,
+    "city": "Sauk Centre",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56379,
+    "latitude": 45.654829,
+    "longitude": -94.073533,
+    "city": "Sauk Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 56381,
+    "latitude": 45.572758,
+    "longitude": -95.573436,
+    "city": "Starbuck",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56382,
+    "latitude": 45.904382,
+    "longitude": -94.540074,
+    "city": "Swanville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56384,
+    "latitude": 45.804875,
+    "longitude": -94.565187,
+    "city": "Upsala",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56385,
+    "latitude": 45.719299,
+    "longitude": -95.225097,
+    "city": "Villard",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Pope"
+  },
+  {
+    "zip_code": 56386,
+    "latitude": 45.989733,
+    "longitude": -93.620235,
+    "city": "Wahkon",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Mille Lacs"
+  },
+  {
+    "zip_code": 56387,
+    "latitude": 45.510622,
+    "longitude": -94.667422,
+    "city": "Waite Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56388,
+    "latitude": 45.548852,
+    "longitude": -94.219024,
+    "city": "Waite Park",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56389,
+    "latitude": 45.799542,
+    "longitude": -95.08213,
+    "city": "West Union",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56393,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56395,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56396,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56397,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56398,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56399,
+    "latitude": 45.52886,
+    "longitude": -94.593338,
+    "city": "Saint Cloud",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Stearns"
+  },
+  {
+    "zip_code": 56401,
+    "latitude": 46.350195,
+    "longitude": -94.099983,
+    "city": "Brainerd",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56425,
+    "latitude": 46.373474,
+    "longitude": -94.196884,
+    "city": "Baxter",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56430,
+    "latitude": 46.862332,
+    "longitude": -94.641872,
+    "city": "Ah Gwah Ching",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56431,
+    "latitude": 46.563605,
+    "longitude": -93.430495,
+    "city": "Aitkin",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 56433,
+    "latitude": 46.987609,
+    "longitude": -94.726405,
+    "city": "Akeley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56434,
+    "latitude": 46.379683,
+    "longitude": -94.936381,
+    "city": "Aldrich",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56435,
+    "latitude": 46.803348,
+    "longitude": -94.521914,
+    "city": "Backus",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56436,
+    "latitude": 47.108153,
+    "longitude": -94.921064,
+    "city": "Benedict",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56437,
+    "latitude": 46.268233,
+    "longitude": -95.06077,
+    "city": "Bertha",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56438,
+    "latitude": 46.063955,
+    "longitude": -94.867727,
+    "city": "Browerville",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56440,
+    "latitude": 46.128416,
+    "longitude": -94.950401,
+    "city": "Clarissa",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56441,
+    "latitude": 46.537059,
+    "longitude": -93.928197,
+    "city": "Crosby",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56442,
+    "latitude": 46.67734,
+    "longitude": -94.112783,
+    "city": "Crosslake",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56443,
+    "latitude": 46.205759,
+    "longitude": -94.561294,
+    "city": "Cushing",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56444,
+    "latitude": 46.429194,
+    "longitude": -93.878493,
+    "city": "Deerwood",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56446,
+    "latitude": 46.149778,
+    "longitude": -94.99949,
+    "city": "Eagle Bend",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56447,
+    "latitude": 46.697119,
+    "longitude": -94.117266,
+    "city": "Emily",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56448,
+    "latitude": 46.727867,
+    "longitude": -94.040303,
+    "city": "Fifty Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56449,
+    "latitude": 46.200293,
+    "longitude": -94.245167,
+    "city": "Fort Ripley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56450,
+    "latitude": 46.312962,
+    "longitude": -93.866016,
+    "city": "Garrison",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56452,
+    "latitude": 46.939139,
+    "longitude": -94.450641,
+    "city": "Hackensack",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 56453,
+    "latitude": 46.330157,
+    "longitude": -94.945126,
+    "city": "Hewitt",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 56455,
+    "latitude": 46.477792,
+    "longitude": -93.978854,
+    "city": "Ironton",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56456,
+    "latitude": 46.480723,
+    "longitude": -94.08587,
+    "city": "Jenkins",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56458,
+    "latitude": 47.108153,
+    "longitude": -94.921064,
+    "city": "Lake George",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56459,
+    "latitude": 46.498749,
+    "longitude": -94.251926,
+    "city": "Lake Hubert",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56461,
+    "latitude": 47.108153,
+    "longitude": -94.921064,
+    "city": "Laporte",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56464,
+    "latitude": 46.730538,
+    "longitude": -94.975221,
+    "city": "Menahga",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Wadena"
+  },
+  {
+    "zip_code": 56465,
+    "latitude": 46.539308,
+    "longitude": -94.134385,
+    "city": "Merrifield",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56466,
+    "latitude": 46.288105,
+    "longitude": -94.563773,
+    "city": "Motley",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Morrison"
+  },
+  {
+    "zip_code": 56467,
+    "latitude": 46.94336,
+    "longitude": -94.844112,
+    "city": "Nevis",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56468,
+    "latitude": 46.401244,
+    "longitude": -94.237094,
+    "city": "Nisswa",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56469,
+    "latitude": 46.712878,
+    "longitude": -93.489808,
+    "city": "Palisade",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Aitkin"
+  },
+  {
+    "zip_code": 56470,
+    "latitude": 46.984699,
+    "longitude": -95.09935,
+    "city": "Park Rapids",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Hubbard"
+  },
+  {
+    "zip_code": 56472,
+    "latitude": 46.616147,
+    "longitude": -94.235561,
+    "city": "Pequot Lakes",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Crow Wing"
+  },
+  {
+    "zip_code": 56473,
+    "latitude": 46.693034,
+    "longitude": -94.464381,
+    "city": "Pillager",
+    "state": "MN",
+    "full_state": "Minnesota",
+    "county": "Cass"
+  }
+]

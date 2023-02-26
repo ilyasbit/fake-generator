@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 41168,
+    "latitude": 38.30911,
+    "longitude": -82.717666,
+    "city": "Rush",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Boyd"
+  },
+  {
+    "zip_code": 41169,
+    "latitude": 38.607408,
+    "longitude": -82.827053,
+    "city": "Russell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41170,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Saint Paul",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41171,
+    "latitude": 38.131568,
+    "longitude": -83.079708,
+    "city": "Sandy Hook",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Elliott"
+  },
+  {
+    "zip_code": 41173,
+    "latitude": 38.262029,
+    "longitude": -83.28472,
+    "city": "Soldier",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41174,
+    "latitude": 38.565211,
+    "longitude": -82.916586,
+    "city": "South Portsmouth",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41175,
+    "latitude": 38.714809,
+    "longitude": -82.936626,
+    "city": "South Shore",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41179,
+    "latitude": 38.469945,
+    "longitude": -83.270248,
+    "city": "Vanceburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41180,
+    "latitude": 38.190296,
+    "longitude": -82.882533,
+    "city": "Webbville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41181,
+    "latitude": 38.204459,
+    "longitude": -82.907615,
+    "city": "Willard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carter"
+  },
+  {
+    "zip_code": 41183,
+    "latitude": 38.546615,
+    "longitude": -82.727678,
+    "city": "Worthington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Greenup"
+  },
+  {
+    "zip_code": 41189,
+    "latitude": 38.521926,
+    "longitude": -83.335329,
+    "city": "Tollesboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lewis"
+  },
+  {
+    "zip_code": 41201,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Adams",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41203,
+    "latitude": 37.761149,
+    "longitude": -82.622288,
+    "city": "Beauty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41204,
+    "latitude": 37.822653,
+    "longitude": -82.694671,
+    "city": "Boons Camp",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41214,
+    "latitude": 37.800137,
+    "longitude": -82.559438,
+    "city": "Debord",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41215,
+    "latitude": 37.771963,
+    "longitude": -82.865092,
+    "city": "Denver",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41216,
+    "latitude": 37.757935,
+    "longitude": -82.818187,
+    "city": "East Point",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41219,
+    "latitude": 37.923134,
+    "longitude": -82.922077,
+    "city": "Flatgap",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41222,
+    "latitude": 37.780451,
+    "longitude": -82.841565,
+    "city": "Hagerhill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41224,
+    "latitude": 37.8754,
+    "longitude": -82.533718,
+    "city": "Inez",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41226,
+    "latitude": 37.973831,
+    "longitude": -82.966183,
+    "city": "Keaton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41228,
+    "latitude": 37.739663,
+    "longitude": -82.865598,
+    "city": "Leander",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41230,
+    "latitude": 38.104327,
+    "longitude": -82.605591,
+    "city": "Louisa",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41231,
+    "latitude": 37.815648,
+    "longitude": -82.492731,
+    "city": "Lovely",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41232,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Lowmansville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41234,
+    "latitude": 37.807776,
+    "longitude": -82.741549,
+    "city": "Meally",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41238,
+    "latitude": 37.812772,
+    "longitude": -82.939108,
+    "city": "Oil Springs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41240,
+    "latitude": 37.824167,
+    "longitude": -82.794504,
+    "city": "Paintsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41250,
+    "latitude": 37.815648,
+    "longitude": -82.492731,
+    "city": "Pilgrim",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41254,
+    "latitude": 37.879486,
+    "longitude": -82.725052,
+    "city": "River",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41255,
+    "latitude": 37.920063,
+    "longitude": -82.832532,
+    "city": "Sitka",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41256,
+    "latitude": 37.825284,
+    "longitude": -82.882251,
+    "city": "Staffordsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41257,
+    "latitude": 37.916598,
+    "longitude": -82.803427,
+    "city": "Stambaugh",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41260,
+    "latitude": 37.810703,
+    "longitude": -82.766705,
+    "city": "Thelma",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41262,
+    "latitude": 37.825114,
+    "longitude": -82.645668,
+    "city": "Tomahawk",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41263,
+    "latitude": 37.850698,
+    "longitude": -82.760226,
+    "city": "Tutor Key",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41264,
+    "latitude": 38.074113,
+    "longitude": -82.744663,
+    "city": "Ulysses",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 41265,
+    "latitude": 37.784196,
+    "longitude": -82.740121,
+    "city": "Van Lear",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41267,
+    "latitude": 37.815648,
+    "longitude": -82.492731,
+    "city": "Warfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 41268,
+    "latitude": 37.797057,
+    "longitude": -82.791012,
+    "city": "West Van Lear",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41271,
+    "latitude": 37.831277,
+    "longitude": -82.726407,
+    "city": "Williamsport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41274,
+    "latitude": 37.899527,
+    "longitude": -82.781153,
+    "city": "Wittensville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 41301,
+    "latitude": 37.728737,
+    "longitude": -83.494029,
+    "city": "Campton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41307,
+    "latitude": 37.515013,
+    "longitude": -83.26432,
+    "city": "Athol",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41310,
+    "latitude": 37.640513,
+    "longitude": -83.244088,
+    "city": "Bays",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41311,
+    "latitude": 37.599904,
+    "longitude": -83.714013,
+    "city": "Beattyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41313,
+    "latitude": 37.740503,
+    "longitude": -83.475446,
+    "city": "Bethany",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41314,
+    "latitude": 37.496523,
+    "longitude": -83.657351,
+    "city": "Booneville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41317,
+    "latitude": 37.462104,
+    "longitude": -83.235959,
+    "city": "Clayhole",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41332,
+    "latitude": 37.798052,
+    "longitude": -83.420976,
+    "city": "Hazel Green",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41333,
+    "latitude": 37.556255,
+    "longitude": -83.776253,
+    "city": "Heidelberg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41338,
+    "latitude": 37.398617,
+    "longitude": -83.704908,
+    "city": "Island City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41339,
+    "latitude": 37.486809,
+    "longitude": -83.291331,
+    "city": "Jackson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41342,
+    "latitude": 37.740503,
+    "longitude": -83.475446,
+    "city": "Lee City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41344,
+    "latitude": 37.398617,
+    "longitude": -83.704908,
+    "city": "Lerose",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41347,
+    "latitude": 37.54418,
+    "longitude": -83.600784,
+    "city": "Lone",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41348,
+    "latitude": 37.441782,
+    "longitude": -83.297614,
+    "city": "Lost Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41351,
+    "latitude": 37.398617,
+    "longitude": -83.704908,
+    "city": "Mistletoe",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41352,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Mize",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41360,
+    "latitude": 37.772774,
+    "longitude": -83.631377,
+    "city": "Pine Ridge",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41362,
+    "latitude": 37.60332,
+    "longitude": -83.713974,
+    "city": "Primrose",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41364,
+    "latitude": 37.387127,
+    "longitude": -83.675179,
+    "city": "Ricetown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41365,
+    "latitude": 37.715699,
+    "longitude": -83.636349,
+    "city": "Rogers",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wolfe"
+  },
+  {
+    "zip_code": 41366,
+    "latitude": 37.593059,
+    "longitude": -83.287774,
+    "city": "Rousseau",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41367,
+    "latitude": 37.397017,
+    "longitude": -83.226964,
+    "city": "Rowdy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41368,
+    "latitude": 37.611684,
+    "longitude": -83.64341,
+    "city": "Saint Helens",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41377,
+    "latitude": 37.417538,
+    "longitude": -83.444462,
+    "city": "Talbert",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41385,
+    "latitude": 37.628827,
+    "longitude": -83.360738,
+    "city": "Vancleve",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41386,
+    "latitude": 37.398617,
+    "longitude": -83.704908,
+    "city": "Vincent",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Owsley"
+  },
+  {
+    "zip_code": 41390,
+    "latitude": 37.421929,
+    "longitude": -83.377999,
+    "city": "Whick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Breathitt"
+  },
+  {
+    "zip_code": 41397,
+    "latitude": 37.672317,
+    "longitude": -83.687173,
+    "city": "Zoe",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 41408,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Cannel City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41410,
+    "latitude": 37.690636,
+    "longitude": -83.074592,
+    "city": "Cisco",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41413,
+    "latitude": 37.970507,
+    "longitude": -83.125202,
+    "city": "Crockett",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41419,
+    "latitude": 37.690636,
+    "longitude": -83.074592,
+    "city": "Edna",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41421,
+    "latitude": 37.970781,
+    "longitude": -83.11931,
+    "city": "Elkfork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41422,
+    "latitude": 37.690636,
+    "longitude": -83.074592,
+    "city": "Elsie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41425,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Ezel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41426,
+    "latitude": 37.784255,
+    "longitude": -83.010863,
+    "city": "Falcon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41433,
+    "latitude": 37.690636,
+    "longitude": -83.074592,
+    "city": "Gapville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41444,
+    "latitude": 37.690636,
+    "longitude": -83.074592,
+    "city": "Ivyton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41451,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Malone",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41459,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Ophir",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41464,
+    "latitude": 37.676288,
+    "longitude": -83.0225,
+    "city": "Royalton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41465,
+    "latitude": 37.732536,
+    "longitude": -83.029761,
+    "city": "Salyersville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41472,
+    "latitude": 37.97621,
+    "longitude": -83.198234,
+    "city": "West Liberty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41477,
+    "latitude": 37.914002,
+    "longitude": -83.233761,
+    "city": "Wrigley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 41501,
+    "latitude": 37.482901,
+    "longitude": -82.447075,
+    "city": "Pikeville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41502,
+    "latitude": 37.481637,
+    "longitude": -82.550507,
+    "city": "Pikeville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41503,
+    "latitude": 37.48871,
+    "longitude": -82.310048,
+    "city": "South Williamson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41512,
+    "latitude": 37.462655,
+    "longitude": -82.448017,
+    "city": "Ashcamp",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41513,
+    "latitude": 37.34781,
+    "longitude": -82.340599,
+    "city": "Belcher",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41514,
+    "latitude": 37.640727,
+    "longitude": -82.313128,
+    "city": "Belfry",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41517,
+    "latitude": 37.184477,
+    "longitude": -82.61109,
+    "city": "Burdine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41519,
+    "latitude": 37.589934,
+    "longitude": -82.330826,
+    "city": "Canada",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41520,
+    "latitude": 37.279027,
+    "longitude": -82.57732,
+    "city": "Dorton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41522,
+    "latitude": 37.42367,
+    "longitude": -82.384689,
+    "city": "Elkhorn City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41524,
+    "latitude": 37.426582,
+    "longitude": -82.256227,
+    "city": "Fedscreek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41526,
+    "latitude": 37.437194,
+    "longitude": -82.518527,
+    "city": "Fords Branch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41527,
+    "latitude": 37.630682,
+    "longitude": -82.279522,
+    "city": "Forest Hills",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41528,
+    "latitude": 37.551774,
+    "longitude": -82.129733,
+    "city": "Freeburn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41531,
+    "latitude": 37.649157,
+    "longitude": -82.264495,
+    "city": "Hardy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41534,
+    "latitude": 37.281894,
+    "longitude": -82.480755,
+    "city": "Hellier",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41535,
+    "latitude": 37.606484,
+    "longitude": -82.288195,
+    "city": "Huddy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41537,
+    "latitude": 37.191103,
+    "longitude": -82.651342,
+    "city": "Jenkins",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41538,
+    "latitude": 37.470577,
+    "longitude": -82.348837,
+    "city": "Jonancy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41539,
+    "latitude": 37.411318,
+    "longitude": -82.330705,
+    "city": "Kimper",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41540,
+    "latitude": 37.359184,
+    "longitude": -82.309224,
+    "city": "Lick Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41542,
+    "latitude": 37.314848,
+    "longitude": -82.464979,
+    "city": "Lookout",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41543,
+    "latitude": 37.562421,
+    "longitude": -82.280348,
+    "city": "Mc Andrews",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41544,
+    "latitude": 37.628873,
+    "longitude": -82.226783,
+    "city": "Mc Carr",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41546,
+    "latitude": 37.519774,
+    "longitude": -82.301252,
+    "city": "Mc Veigh",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41547,
+    "latitude": 37.531145,
+    "longitude": -82.091605,
+    "city": "Majestic",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41548,
+    "latitude": 37.395235,
+    "longitude": -82.348728,
+    "city": "Mouthcard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41549,
+    "latitude": 37.470577,
+    "longitude": -82.348837,
+    "city": "Myra",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41553,
+    "latitude": 37.541435,
+    "longitude": -82.229946,
+    "city": "Phelps",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41554,
+    "latitude": 37.408938,
+    "longitude": -82.424168,
+    "city": "Phyllis",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41555,
+    "latitude": 37.546621,
+    "longitude": -82.262124,
+    "city": "Pinsonfork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41557,
+    "latitude": 37.493468,
+    "longitude": -82.422135,
+    "city": "Raccoon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41558,
+    "latitude": 37.542575,
+    "longitude": -82.208487,
+    "city": "Ransom",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41559,
+    "latitude": 37.370376,
+    "longitude": -82.407751,
+    "city": "Regina",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41560,
+    "latitude": 37.379875,
+    "longitude": -82.561632,
+    "city": "Robinson Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41561,
+    "latitude": 37.33162,
+    "longitude": -82.462574,
+    "city": "Rockhouse",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41562,
+    "latitude": 37.40628,
+    "longitude": -82.467345,
+    "city": "Shelbiana",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41563,
+    "latitude": 37.231149,
+    "longitude": -82.528583,
+    "city": "Shelby Gap",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41564,
+    "latitude": 37.557911,
+    "longitude": -82.411486,
+    "city": "Sidney",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41566,
+    "latitude": 37.399777,
+    "longitude": -82.197771,
+    "city": "Steele",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41567,
+    "latitude": 37.580715,
+    "longitude": -82.27437,
+    "city": "Stone",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41568,
+    "latitude": 37.509279,
+    "longitude": -82.078363,
+    "city": "Stopover",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41569,
+    "latitude": 37.608343,
+    "longitude": -82.286675,
+    "city": "Toler",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41571,
+    "latitude": 37.621659,
+    "longitude": -82.507019,
+    "city": "Varney",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41572,
+    "latitude": 37.319685,
+    "longitude": -82.611355,
+    "city": "Virgie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 41601,
+    "latitude": 37.479896,
+    "longitude": -82.6769,
+    "city": "Allen",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41602,
+    "latitude": 37.715759,
+    "longitude": -82.695892,
+    "city": "Auxier",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41603,
+    "latitude": 37.570682,
+    "longitude": -82.680631,
+    "city": "Banner",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41604,
+    "latitude": 37.377377,
+    "longitude": -82.686866,
+    "city": "Beaver",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41605,
+    "latitude": 37.54042,
+    "longitude": -82.701035,
+    "city": "Betsy Layne",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41606,
+    "latitude": 37.346493,
+    "longitude": -82.740255,
+    "city": "Bevinsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41607,
+    "latitude": 37.633196,
+    "longitude": -82.740742,
+    "city": "Blue River",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41612,
+    "latitude": 37.346545,
+    "longitude": -82.716529,
+    "city": "Bypro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41615,
+    "latitude": 37.561699,
+    "longitude": -82.684788,
+    "city": "Dana",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41616,
+    "latitude": 37.576668,
+    "longitude": -82.870801,
+    "city": "David",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41619,
+    "latitude": 37.493261,
+    "longitude": -82.75754,
+    "city": "Drift",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41621,
+    "latitude": 37.624553,
+    "longitude": -82.722679,
+    "city": "Dwale",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41622,
+    "latitude": 37.512564,
+    "longitude": -82.818388,
+    "city": "Eastern",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41630,
+    "latitude": 37.472094,
+    "longitude": -82.834287,
+    "city": "Garrett",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41631,
+    "latitude": 37.457565,
+    "longitude": -82.664491,
+    "city": "Grethel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41632,
+    "latitude": 37.589246,
+    "longitude": -82.945214,
+    "city": "Gunlock",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Magoffin"
+  },
+  {
+    "zip_code": 41635,
+    "latitude": 37.580715,
+    "longitude": -82.677387,
+    "city": "Harold",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41636,
+    "latitude": 37.428614,
+    "longitude": -82.714841,
+    "city": "Hi Hat",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41640,
+    "latitude": 37.508668,
+    "longitude": -82.851807,
+    "city": "Hueysville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41642,
+    "latitude": 37.469203,
+    "longitude": -82.677517,
+    "city": "Ivel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41643,
+    "latitude": 37.470999,
+    "longitude": -82.829405,
+    "city": "Lackey",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41645,
+    "latitude": 37.586933,
+    "longitude": -82.797386,
+    "city": "Langley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41647,
+    "latitude": 37.560801,
+    "longitude": -82.713723,
+    "city": "Mc Dowell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41649,
+    "latitude": 37.600698,
+    "longitude": -82.78595,
+    "city": "Martin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41650,
+    "latitude": 37.353614,
+    "longitude": -82.676257,
+    "city": "Melvin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41651,
+    "latitude": 37.454849,
+    "longitude": -82.76464,
+    "city": "Minnie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41653,
+    "latitude": 37.536748,
+    "longitude": -82.771139,
+    "city": "Prestonsburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41655,
+    "latitude": 37.568892,
+    "longitude": -82.762194,
+    "city": "Printer",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41659,
+    "latitude": 37.45838,
+    "longitude": -82.673213,
+    "city": "Stanville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41660,
+    "latitude": 37.413736,
+    "longitude": -82.648485,
+    "city": "Teaberry",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41663,
+    "latitude": 37.572499,
+    "longitude": -82.645206,
+    "city": "Tram",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41666,
+    "latitude": 37.514783,
+    "longitude": -82.729805,
+    "city": "Wayland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41667,
+    "latitude": 37.316961,
+    "longitude": -82.704127,
+    "city": "Weeksbury",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41669,
+    "latitude": 37.331441,
+    "longitude": -82.715606,
+    "city": "Wheelwright",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 41701,
+    "latitude": 37.299666,
+    "longitude": -83.239904,
+    "city": "Hazard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41702,
+    "latitude": 37.320076,
+    "longitude": -83.206495,
+    "city": "Hazard",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41712,
+    "latitude": 37.363778,
+    "longitude": -83.154594,
+    "city": "Ary",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41713,
+    "latitude": 37.22539,
+    "longitude": -83.273609,
+    "city": "Avawam",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41714,
+    "latitude": 37.193912,
+    "longitude": -83.503508,
+    "city": "Bear Branch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41719,
+    "latitude": 37.310308,
+    "longitude": -83.309013,
+    "city": "Bonnyman",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41721,
+    "latitude": 37.302001,
+    "longitude": -83.47173,
+    "city": "Buckhorn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41722,
+    "latitude": 37.315033,
+    "longitude": -83.156088,
+    "city": "Bulan",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41723,
+    "latitude": 37.277522,
+    "longitude": -83.238897,
+    "city": "Busy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41725,
+    "latitude": 37.318236,
+    "longitude": -83.068963,
+    "city": "Carrie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41727,
+    "latitude": 37.277764,
+    "longitude": -83.262663,
+    "city": "Chavies",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41729,
+    "latitude": 37.264854,
+    "longitude": -83.217443,
+    "city": "Combs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41730,
+    "latitude": 37.258617,
+    "longitude": -83.395648,
+    "city": "Confluence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41731,
+    "latitude": 37.1408,
+    "longitude": -83.088916,
+    "city": "Cornettsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41735,
+    "latitude": 37.033615,
+    "longitude": -83.096311,
+    "city": "Delphia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41736,
+    "latitude": 37.375823,
+    "longitude": -83.241868,
+    "city": "Dice",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41739,
+    "latitude": 37.339408,
+    "longitude": -83.130273,
+    "city": "Dwarf",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41740,
+    "latitude": 37.349857,
+    "longitude": -83.047116,
+    "city": "Emmalena",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41743,
+    "latitude": 37.30636,
+    "longitude": -83.090441,
+    "city": "Fisty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41745,
+    "latitude": 37.349687,
+    "longitude": -83.436773,
+    "city": "Gays Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41746,
+    "latitude": 37.210078,
+    "longitude": -83.091716,
+    "city": "Happy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41747,
+    "latitude": 37.300202,
+    "longitude": -83.122477,
+    "city": "Hardburly",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41749,
+    "latitude": 37.187746,
+    "longitude": -83.416902,
+    "city": "Hyden",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41751,
+    "latitude": 37.218395,
+    "longitude": -83.142655,
+    "city": "Jeff",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41754,
+    "latitude": 37.347409,
+    "longitude": -83.275015,
+    "city": "Krypton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41759,
+    "latitude": 37.231962,
+    "longitude": -83.02461,
+    "city": "Sassafras",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41760,
+    "latitude": 37.197107,
+    "longitude": -83.081735,
+    "city": "Scuddy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41762,
+    "latitude": 37.218801,
+    "longitude": -83.506407,
+    "city": "Sizerock",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41763,
+    "latitude": 37.070492,
+    "longitude": -83.113638,
+    "city": "Slemp",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41764,
+    "latitude": 37.121424,
+    "longitude": -83.253867,
+    "city": "Smilax",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41766,
+    "latitude": 37.158641,
+    "longitude": -83.384749,
+    "city": "Thousandsticks",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41772,
+    "latitude": 37.407264,
+    "longitude": -83.01531,
+    "city": "Vest",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41773,
+    "latitude": 37.201968,
+    "longitude": -83.065816,
+    "city": "Vicco",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41774,
+    "latitude": 37.24369,
+    "longitude": -83.13639,
+    "city": "Viper",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41775,
+    "latitude": 37.107867,
+    "longitude": -83.356305,
+    "city": "Wendover",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41776,
+    "latitude": 37.126066,
+    "longitude": -83.267303,
+    "city": "Wooton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41777,
+    "latitude": 37.056529,
+    "longitude": -83.236134,
+    "city": "Yeaddiss",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Leslie"
+  },
+  {
+    "zip_code": 41778,
+    "latitude": 37.283017,
+    "longitude": -83.321215,
+    "city": "Yerkes",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 41804,
+    "latitude": 37.155055,
+    "longitude": -82.995605,
+    "city": "Blackey",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41810,
+    "latitude": 37.178814,
+    "longitude": -82.69498,
+    "city": "Cromona",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41812,
+    "latitude": 37.240912,
+    "longitude": -82.769564,
+    "city": "Deane",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41815,
+    "latitude": 37.140336,
+    "longitude": -82.814691,
+    "city": "Ermine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41817,
+    "latitude": 37.367552,
+    "longitude": -82.910653,
+    "city": "Garner",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41819,
+    "latitude": 36.989061,
+    "longitude": -83.065458,
+    "city": "Gordon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41821,
+    "latitude": 37.083683,
+    "longitude": -83.002662,
+    "city": "Hallie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41822,
+    "latitude": 37.367278,
+    "longitude": -82.961977,
+    "city": "Hindman",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41824,
+    "latitude": 37.193211,
+    "longitude": -82.875397,
+    "city": "Isom",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41825,
+    "latitude": 37.224615,
+    "longitude": -82.722772,
+    "city": "Jackhorn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41826,
+    "latitude": 37.135577,
+    "longitude": -82.837148,
+    "city": "Jeremiah",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41828,
+    "latitude": 37.313565,
+    "longitude": -82.797478,
+    "city": "Kite",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41831,
+    "latitude": 37.370519,
+    "longitude": -82.967672,
+    "city": "Leburn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41832,
+    "latitude": 37.153075,
+    "longitude": -82.954758,
+    "city": "Letcher",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41833,
+    "latitude": 37.023328,
+    "longitude": -82.987812,
+    "city": "Linefork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41834,
+    "latitude": 37.275003,
+    "longitude": -82.944607,
+    "city": "Littcarr",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41835,
+    "latitude": 37.213652,
+    "longitude": -82.673426,
+    "city": "Mc Roberts",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41836,
+    "latitude": 37.269218,
+    "longitude": -82.91613,
+    "city": "Mallie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41837,
+    "latitude": 37.130234,
+    "longitude": -82.742726,
+    "city": "Mayking",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41838,
+    "latitude": 37.176559,
+    "longitude": -82.751669,
+    "city": "Millstone",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41839,
+    "latitude": 37.419099,
+    "longitude": -82.885808,
+    "city": "Mousie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41840,
+    "latitude": 37.187588,
+    "longitude": -82.711046,
+    "city": "Neon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41843,
+    "latitude": 37.28679,
+    "longitude": -82.874059,
+    "city": "Pine Top",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41844,
+    "latitude": 37.349054,
+    "longitude": -82.874239,
+    "city": "Pippa Passes",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41845,
+    "latitude": 37.125231,
+    "longitude": -82.903459,
+    "city": "Premium",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41847,
+    "latitude": 37.217206,
+    "longitude": -82.942357,
+    "city": "Redfox",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41848,
+    "latitude": 37.110216,
+    "longitude": -82.94073,
+    "city": "Roxana",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41849,
+    "latitude": 37.173926,
+    "longitude": -82.716166,
+    "city": "Seco",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41855,
+    "latitude": 37.178608,
+    "longitude": -82.795137,
+    "city": "Thornton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41858,
+    "latitude": 37.13885,
+    "longitude": -82.855032,
+    "city": "Whitesburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Letcher"
+  },
+  {
+    "zip_code": 41859,
+    "latitude": 37.397578,
+    "longitude": -82.783552,
+    "city": "Dema",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41861,
+    "latitude": 37.387621,
+    "longitude": -82.836144,
+    "city": "Raven",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41862,
+    "latitude": 37.348498,
+    "longitude": -82.792578,
+    "city": "Topmost",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Knott"
+  },
+  {
+    "zip_code": 41901,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 41902,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 41903,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 41904,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 41905,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 41906,
+    "latitude": "",
+    "longitude": "",
+    "city": "Migrate",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 42001,
+    "latitude": 37.031586,
+    "longitude": -88.713292,
+    "city": "Paducah",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccracken"
+  },
+  {
+    "zip_code": 42002,
+    "latitude": 37.085511,
+    "longitude": -88.71247,
+    "city": "Paducah",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccracken"
+  },
+  {
+    "zip_code": 42003,
+    "latitude": 37.015159,
+    "longitude": -88.581289,
+    "city": "Paducah",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccracken"
+  },
+  {
+    "zip_code": 42020,
+    "latitude": 36.690186,
+    "longitude": -88.283872,
+    "city": "Almo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42021,
+    "latitude": 36.789033,
+    "longitude": -89.009178,
+    "city": "Arlington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carlisle"
+  },
+  {
+    "zip_code": 42022,
+    "latitude": 37.148007,
+    "longitude": -88.948562,
+    "city": "Bandana",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42023,
+    "latitude": 36.87522,
+    "longitude": -89.006956,
+    "city": "Bardwell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carlisle"
+  },
+  {
+    "zip_code": 42024,
+    "latitude": 37.081273,
+    "longitude": -89.01148,
+    "city": "Barlow",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42025,
+    "latitude": 36.888765,
+    "longitude": -88.305502,
+    "city": "Benton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 42027,
+    "latitude": 36.900149,
+    "longitude": -88.637039,
+    "city": "Boaz",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42028,
+    "latitude": 37.155977,
+    "longitude": -88.339599,
+    "city": "Burna",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42029,
+    "latitude": 36.986553,
+    "longitude": -88.373197,
+    "city": "Calvert City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 42031,
+    "latitude": 36.680798,
+    "longitude": -88.979474,
+    "city": "Clinton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hickman"
+  },
+  {
+    "zip_code": 42032,
+    "latitude": 36.732689,
+    "longitude": -89.1019,
+    "city": "Columbus",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hickman"
+  },
+  {
+    "zip_code": 42033,
+    "latitude": 37.336533,
+    "longitude": -88.079607,
+    "city": "Crayne",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 42035,
+    "latitude": 36.863147,
+    "longitude": -88.995991,
+    "city": "Cunningham",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carlisle"
+  },
+  {
+    "zip_code": 42036,
+    "latitude": 36.715535,
+    "longitude": -88.235991,
+    "city": "Dexter",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42037,
+    "latitude": 37.157866,
+    "longitude": -88.183598,
+    "city": "Dycusburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 42038,
+    "latitude": 37.044697,
+    "longitude": -88.024871,
+    "city": "Eddyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 42039,
+    "latitude": 36.780953,
+    "longitude": -88.78873,
+    "city": "Fancy Farm",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42040,
+    "latitude": 36.600013,
+    "longitude": -88.51864,
+    "city": "Farmington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42041,
+    "latitude": 36.546939,
+    "longitude": -89.081143,
+    "city": "Fulton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 42044,
+    "latitude": 36.965547,
+    "longitude": -88.266684,
+    "city": "Gilbertsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 42045,
+    "latitude": 37.076174,
+    "longitude": -88.264746,
+    "city": "Grand Rivers",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42046,
+    "latitude": 36.6033,
+    "longitude": -88.092285,
+    "city": "Hamlin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42047,
+    "latitude": 37.302521,
+    "longitude": -88.393763,
+    "city": "Hampton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42048,
+    "latitude": 36.817672,
+    "longitude": -88.30444,
+    "city": "Hardin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 42049,
+    "latitude": 36.578831,
+    "longitude": -88.322336,
+    "city": "Hazel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42050,
+    "latitude": 36.548671,
+    "longitude": -89.208001,
+    "city": "Hickman",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 42051,
+    "latitude": 36.852197,
+    "longitude": -88.640928,
+    "city": "Hickory",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42053,
+    "latitude": 37.098119,
+    "longitude": -88.851344,
+    "city": "Kevil",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42054,
+    "latitude": 36.699095,
+    "longitude": -88.421888,
+    "city": "Kirksey",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42055,
+    "latitude": 37.073525,
+    "longitude": -88.144971,
+    "city": "Kuttawa",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 42056,
+    "latitude": 37.080505,
+    "longitude": -88.986278,
+    "city": "La Center",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42058,
+    "latitude": 37.061146,
+    "longitude": -88.466549,
+    "city": "Ledbetter",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42060,
+    "latitude": 36.96365,
+    "longitude": -88.836371,
+    "city": "Lovelaceville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42061,
+    "latitude": 36.886172,
+    "longitude": -88.772824,
+    "city": "Lowes",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42063,
+    "latitude": 36.723872,
+    "longitude": -88.652009,
+    "city": "Lynnville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42064,
+    "latitude": 37.322088,
+    "longitude": -88.087479,
+    "city": "Marion",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 42066,
+    "latitude": 36.715599,
+    "longitude": -88.651839,
+    "city": "Mayfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42069,
+    "latitude": 36.904548,
+    "longitude": -88.758968,
+    "city": "Melber",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42070,
+    "latitude": 36.863147,
+    "longitude": -88.995991,
+    "city": "Milburn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Carlisle"
+  },
+  {
+    "zip_code": 42071,
+    "latitude": 36.625349,
+    "longitude": -88.279562,
+    "city": "Murray",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42076,
+    "latitude": 36.562065,
+    "longitude": -88.150463,
+    "city": "New Concord",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Calloway"
+  },
+  {
+    "zip_code": 42078,
+    "latitude": 37.269417,
+    "longitude": -88.329698,
+    "city": "Salem",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42079,
+    "latitude": 36.574835,
+    "longitude": -88.581458,
+    "city": "Sedalia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42081,
+    "latitude": 37.238666,
+    "longitude": -88.375665,
+    "city": "Smithland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42082,
+    "latitude": 36.904412,
+    "longitude": -88.515287,
+    "city": "Symsonia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42083,
+    "latitude": 37.145668,
+    "longitude": -88.285031,
+    "city": "Tiline",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Livingston"
+  },
+  {
+    "zip_code": 42084,
+    "latitude": 37.434913,
+    "longitude": -88.246148,
+    "city": "Tolu",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Crittenden"
+  },
+  {
+    "zip_code": 42085,
+    "latitude": 36.572137,
+    "longitude": -88.761466,
+    "city": "Water Valley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42086,
+    "latitude": 37.082918,
+    "longitude": -88.810261,
+    "city": "West Paducah",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccracken"
+  },
+  {
+    "zip_code": 42087,
+    "latitude": 37.056862,
+    "longitude": -88.961579,
+    "city": "Wickliffe",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ballard"
+  },
+  {
+    "zip_code": 42088,
+    "latitude": 36.60784,
+    "longitude": -88.725226,
+    "city": "Wingo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Graves"
+  },
+  {
+    "zip_code": 42101,
+    "latitude": 37.017407,
+    "longitude": -86.451752,
+    "city": "Bowling Green",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42102,
+    "latitude": 36.922292,
+    "longitude": -86.387046,
+    "city": "Bowling Green",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42103,
+    "latitude": 36.950002,
+    "longitude": -86.358413,
+    "city": "Bowling Green",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42104,
+    "latitude": 36.887214,
+    "longitude": -86.453985,
+    "city": "Bowling Green",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42120,
+    "latitude": 36.67931,
+    "longitude": -86.17603,
+    "city": "Adolphus",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 42122,
+    "latitude": 36.866699,
+    "longitude": -86.348542,
+    "city": "Alvaton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42123,
+    "latitude": 36.815869,
+    "longitude": -85.992039,
+    "city": "Austin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42124,
+    "latitude": 36.857666,
+    "longitude": -85.649583,
+    "city": "Beaumont",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Metcalfe"
+  },
+  {
+    "zip_code": 42127,
+    "latitude": 37.10279,
+    "longitude": -85.908887,
+    "city": "Cave City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42128,
+    "latitude": 36.983441,
+    "longitude": -86.394012,
+    "city": "Drake",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42129,
+    "latitude": 37.000783,
+    "longitude": -85.609522,
+    "city": "Edmonton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Metcalfe"
+  },
+  {
+    "zip_code": 42130,
+    "latitude": 36.91297,
+    "longitude": -85.775282,
+    "city": "Eighty Eight",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42131,
+    "latitude": 36.819311,
+    "longitude": -85.91168,
+    "city": "Etoile",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42133,
+    "latitude": 36.726089,
+    "longitude": -85.846991,
+    "city": "Fountain Run",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 42134,
+    "latitude": 36.740598,
+    "longitude": -86.583305,
+    "city": "Franklin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 42135,
+    "latitude": 36.758166,
+    "longitude": -86.581957,
+    "city": "Franklin",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Simpson"
+  },
+  {
+    "zip_code": 42140,
+    "latitude": 36.669398,
+    "longitude": -85.856306,
+    "city": "Gamaliel",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 42141,
+    "latitude": 36.942763,
+    "longitude": -85.941203,
+    "city": "Glasgow",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42142,
+    "latitude": 36.946326,
+    "longitude": -85.957797,
+    "city": "Glasgow",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42150,
+    "latitude": 36.782131,
+    "longitude": -86.184088,
+    "city": "Halfway",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 42151,
+    "latitude": 36.647144,
+    "longitude": -85.567555,
+    "city": "Hestand",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 42152,
+    "latitude": 37.098753,
+    "longitude": -85.816472,
+    "city": "Hiseville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42153,
+    "latitude": 36.678703,
+    "longitude": -86.038273,
+    "city": "Holland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 42154,
+    "latitude": 37.055613,
+    "longitude": -85.698474,
+    "city": "Knob Lick",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Metcalfe"
+  },
+  {
+    "zip_code": 42156,
+    "latitude": 36.840503,
+    "longitude": -85.995572,
+    "city": "Lucas",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42157,
+    "latitude": 36.772341,
+    "longitude": -85.819518,
+    "city": "Mount Hermon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 42159,
+    "latitude": 36.998452,
+    "longitude": -86.250131,
+    "city": "Oakland",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42160,
+    "latitude": 36.965149,
+    "longitude": -86.013864,
+    "city": "Park City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Barren"
+  },
+  {
+    "zip_code": 42163,
+    "latitude": 37.09425,
+    "longitude": -86.143188,
+    "city": "Rocky Hill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42164,
+    "latitude": 36.783817,
+    "longitude": -86.188104,
+    "city": "Scottsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 42166,
+    "latitude": 36.956935,
+    "longitude": -85.660577,
+    "city": "Summer Shade",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Metcalfe"
+  },
+  {
+    "zip_code": 42167,
+    "latitude": 36.723634,
+    "longitude": -85.700865,
+    "city": "Tompkinsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 42170,
+    "latitude": 36.90641,
+    "longitude": -86.538,
+    "city": "Woodburn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42171,
+    "latitude": 37.01823,
+    "longitude": -86.187045,
+    "city": "Smiths Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42201,
+    "latitude": 37.279564,
+    "longitude": -86.670181,
+    "city": "Aberdeen",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42202,
+    "latitude": 36.772851,
+    "longitude": -86.860422,
+    "city": "Adairville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42203,
+    "latitude": 36.929243,
+    "longitude": -87.219328,
+    "city": "Allegre",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42204,
+    "latitude": 36.720672,
+    "longitude": -87.104104,
+    "city": "Allensville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42206,
+    "latitude": 36.835067,
+    "longitude": -86.797432,
+    "city": "Auburn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42207,
+    "latitude": 37.300469,
+    "longitude": -86.25426,
+    "city": "Bee Spring",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42209,
+    "latitude": 37.197491,
+    "longitude": -86.67216,
+    "city": "Brooklyn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42210,
+    "latitude": 37.222931,
+    "longitude": -86.292256,
+    "city": "Brownsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42211,
+    "latitude": 36.80201,
+    "longitude": -87.828578,
+    "city": "Cadiz",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Trigg"
+  },
+  {
+    "zip_code": 42214,
+    "latitude": 37.11767,
+    "longitude": -85.703791,
+    "city": "Center",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Metcalfe"
+  },
+  {
+    "zip_code": 42215,
+    "latitude": 36.953435,
+    "longitude": -87.718377,
+    "city": "Cerulean",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Trigg"
+  },
+  {
+    "zip_code": 42216,
+    "latitude": 37.004492,
+    "longitude": -87.152148,
+    "city": "Clifty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42217,
+    "latitude": 37.043116,
+    "longitude": -87.487724,
+    "city": "Crofton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42219,
+    "latitude": 37.170909,
+    "longitude": -86.767822,
+    "city": "Dunbar",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42220,
+    "latitude": 36.862405,
+    "longitude": -87.177881,
+    "city": "Elkton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42221,
+    "latitude": 36.898071,
+    "longitude": -87.496529,
+    "city": "Fairview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42223,
+    "latitude": 36.657253,
+    "longitude": -87.458858,
+    "city": "Fort Campbell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42232,
+    "latitude": 36.918213,
+    "longitude": -87.580011,
+    "city": "Gracey",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42234,
+    "latitude": 36.714895,
+    "longitude": -87.150248,
+    "city": "Guthrie",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42235,
+    "latitude": 36.983441,
+    "longitude": -86.394012,
+    "city": "Hadley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42236,
+    "latitude": 36.719274,
+    "longitude": -87.604569,
+    "city": "Herndon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42240,
+    "latitude": 36.876568,
+    "longitude": -87.471106,
+    "city": "Hopkinsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42241,
+    "latitude": 36.898071,
+    "longitude": -87.496529,
+    "city": "Hopkinsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42251,
+    "latitude": 37.157967,
+    "longitude": -86.885846,
+    "city": "Huntsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42252,
+    "latitude": 37.248326,
+    "longitude": -86.509271,
+    "city": "Jetson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42254,
+    "latitude": 36.677547,
+    "longitude": -87.645839,
+    "city": "La Fayette",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42256,
+    "latitude": 36.907058,
+    "longitude": -86.918045,
+    "city": "Lewisburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42257,
+    "latitude": 37.237211,
+    "longitude": -86.299361,
+    "city": "Lindseyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42259,
+    "latitude": 37.280199,
+    "longitude": -86.168796,
+    "city": "Mammoth Cave",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42261,
+    "latitude": 37.20017,
+    "longitude": -86.685898,
+    "city": "Morgantown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42262,
+    "latitude": 36.738092,
+    "longitude": -87.429302,
+    "city": "Oak Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42265,
+    "latitude": 36.759526,
+    "longitude": -86.980398,
+    "city": "Olmstead",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42266,
+    "latitude": 36.864233,
+    "longitude": -87.409139,
+    "city": "Pembroke",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 42267,
+    "latitude": 37.229645,
+    "longitude": -86.804803,
+    "city": "Provo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42270,
+    "latitude": 36.983441,
+    "longitude": -86.394012,
+    "city": "Richardsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42273,
+    "latitude": 37.207489,
+    "longitude": -86.859847,
+    "city": "Rochester",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42274,
+    "latitude": 36.924137,
+    "longitude": -86.597869,
+    "city": "Rockfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 42275,
+    "latitude": 37.242474,
+    "longitude": -86.411435,
+    "city": "Roundhill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42276,
+    "latitude": 36.845273,
+    "longitude": -86.882321,
+    "city": "Russellville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42280,
+    "latitude": 36.948365,
+    "longitude": -87.1095,
+    "city": "Sharon Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42283,
+    "latitude": 36.869206,
+    "longitude": -86.663225,
+    "city": "South Union",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 42285,
+    "latitude": 37.236073,
+    "longitude": -86.27074,
+    "city": "Sweeden",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Edmonson"
+  },
+  {
+    "zip_code": 42286,
+    "latitude": 36.74195,
+    "longitude": -87.24589,
+    "city": "Trenton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Todd"
+  },
+  {
+    "zip_code": 42287,
+    "latitude": 37.318319,
+    "longitude": -86.522996,
+    "city": "Welchs Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42288,
+    "latitude": 37.197491,
+    "longitude": -86.67216,
+    "city": "Woodbury",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 42301,
+    "latitude": 37.751818,
+    "longitude": -87.257303,
+    "city": "Owensboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42302,
+    "latitude": 37.745491,
+    "longitude": -87.112823,
+    "city": "Owensboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42303,
+    "latitude": 37.779387,
+    "longitude": -87.042939,
+    "city": "Owensboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42304,
+    "latitude": 37.745491,
+    "longitude": -87.112823,
+    "city": "Owensboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42320,
+    "latitude": 37.355569,
+    "longitude": -86.864676,
+    "city": "Beaver Dam",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42321,
+    "latitude": 37.153324,
+    "longitude": -87.024457,
+    "city": "Beech Creek",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42322,
+    "latitude": 37.615062,
+    "longitude": -87.406866,
+    "city": "Beech Grove",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42323,
+    "latitude": 37.233477,
+    "longitude": -87.076198,
+    "city": "Beechmont",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42324,
+    "latitude": 37.137789,
+    "longitude": -87.004852,
+    "city": "Belton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42325,
+    "latitude": 37.337159,
+    "longitude": -87.271176,
+    "city": "Bremen",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42326,
+    "latitude": 37.199946,
+    "longitude": -87.00006,
+    "city": "Browder",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42327,
+    "latitude": 37.58095,
+    "longitude": -87.287491,
+    "city": "Calhoun",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42328,
+    "latitude": 37.394873,
+    "longitude": -87.026469,
+    "city": "Centertown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42330,
+    "latitude": 37.243098,
+    "longitude": -87.111579,
+    "city": "Central City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42332,
+    "latitude": 37.253342,
+    "longitude": -87.089689,
+    "city": "Cleaton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42333,
+    "latitude": 37.373832,
+    "longitude": -86.764417,
+    "city": "Cromwell",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42334,
+    "latitude": 37.745491,
+    "longitude": -87.112823,
+    "city": "Curdsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42337,
+    "latitude": 37.211475,
+    "longitude": -87.008634,
+    "city": "Drakesboro",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42338,
+    "latitude": 37.552013,
+    "longitude": -86.77762,
+    "city": "Dundee",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42339,
+    "latitude": 37.194268,
+    "longitude": -87.018401,
+    "city": "Dunmor",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42343,
+    "latitude": 37.614496,
+    "longitude": -86.729497,
+    "city": "Fordsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42344,
+    "latitude": 37.246726,
+    "longitude": -87.297584,
+    "city": "Graham",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42345,
+    "latitude": 37.20083,
+    "longitude": -87.164385,
+    "city": "Greenville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42347,
+    "latitude": 37.472545,
+    "longitude": -86.869715,
+    "city": "Hartford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42348,
+    "latitude": 37.832151,
+    "longitude": -86.782723,
+    "city": "Hawesville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 42349,
+    "latitude": 37.415242,
+    "longitude": -86.689904,
+    "city": "Horse Branch",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42350,
+    "latitude": 37.459336,
+    "longitude": -87.206541,
+    "city": "Island",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42351,
+    "latitude": 37.911077,
+    "longitude": -86.882034,
+    "city": "Lewisport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 42352,
+    "latitude": 37.513281,
+    "longitude": -87.112413,
+    "city": "Livermore",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42354,
+    "latitude": 37.363601,
+    "longitude": -86.924358,
+    "city": "Mc Henry",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42355,
+    "latitude": 37.859021,
+    "longitude": -86.977249,
+    "city": "Maceo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42356,
+    "latitude": 37.693229,
+    "longitude": -87.323841,
+    "city": "Maple Mount",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42361,
+    "latitude": 37.518118,
+    "longitude": -86.718192,
+    "city": "Olaton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42364,
+    "latitude": 37.827235,
+    "longitude": -86.804814,
+    "city": "Pellville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 42365,
+    "latitude": 37.112633,
+    "longitude": -86.994053,
+    "city": "Penrod",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42366,
+    "latitude": 37.719598,
+    "longitude": -86.929674,
+    "city": "Philpot",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42367,
+    "latitude": 37.242948,
+    "longitude": -87.154898,
+    "city": "Powderly",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42368,
+    "latitude": 37.740277,
+    "longitude": -86.741434,
+    "city": "Reynolds Station",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 42369,
+    "latitude": 37.389897,
+    "longitude": -86.88526,
+    "city": "Rockport",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42370,
+    "latitude": 37.545044,
+    "longitude": -86.778272,
+    "city": "Rosine",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 42371,
+    "latitude": 37.470441,
+    "longitude": -87.246152,
+    "city": "Rumsey",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42372,
+    "latitude": 37.488059,
+    "longitude": -87.258644,
+    "city": "Sacramento",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mclean"
+  },
+  {
+    "zip_code": 42374,
+    "latitude": 37.353575,
+    "longitude": -87.165762,
+    "city": "South Carrollton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Muhlenberg"
+  },
+  {
+    "zip_code": 42375,
+    "latitude": 37.745491,
+    "longitude": -87.112823,
+    "city": "Stanley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42376,
+    "latitude": 37.633807,
+    "longitude": -87.12177,
+    "city": "Utica",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42377,
+    "latitude": 37.745491,
+    "longitude": -87.112823,
+    "city": "West Louisville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42378,
+    "latitude": 37.682485,
+    "longitude": -86.883013,
+    "city": "Whitesville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 42402,
+    "latitude": 37.778911,
+    "longitude": -87.60124,
+    "city": "Baskett",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42403,
+    "latitude": 37.446023,
+    "longitude": -87.933437,
+    "city": "Blackford",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42404,
+    "latitude": 37.486077,
+    "longitude": -87.812941,
+    "city": "Clay",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42406,
+    "latitude": 37.754734,
+    "longitude": -87.689478,
+    "city": "Corydon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42408,
+    "latitude": 37.220571,
+    "longitude": -87.624098,
+    "city": "Dawson Springs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42409,
+    "latitude": 37.519247,
+    "longitude": -87.67168,
+    "city": "Dixon",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42410,
+    "latitude": 37.27427,
+    "longitude": -87.513052,
+    "city": "Earlington",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42411,
+    "latitude": 37.201173,
+    "longitude": -87.988003,
+    "city": "Fredonia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 42413,
+    "latitude": 37.335312,
+    "longitude": -87.469567,
+    "city": "Hanson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42419,
+    "latitude": 37.807173,
+    "longitude": -87.599052,
+    "city": "Henderson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42420,
+    "latitude": 37.785068,
+    "longitude": -87.527383,
+    "city": "Henderson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42431,
+    "latitude": 37.299458,
+    "longitude": -87.532576,
+    "city": "Madisonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42436,
+    "latitude": 37.406689,
+    "longitude": -87.563868,
+    "city": "Manitou",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42437,
+    "latitude": 37.686939,
+    "longitude": -87.943938,
+    "city": "Morganfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Union"
+  },
+  {
+    "zip_code": 42440,
+    "latitude": 37.249018,
+    "longitude": -87.461536,
+    "city": "Mortons Gap",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42441,
+    "latitude": 37.364469,
+    "longitude": -87.651863,
+    "city": "Nebo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42442,
+    "latitude": 37.257874,
+    "longitude": -87.506773,
+    "city": "Nortonville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42444,
+    "latitude": 37.641002,
+    "longitude": -87.643862,
+    "city": "Poole",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42445,
+    "latitude": 37.140606,
+    "longitude": -87.865635,
+    "city": "Princeton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Caldwell"
+  },
+  {
+    "zip_code": 42450,
+    "latitude": 37.484437,
+    "longitude": -87.734014,
+    "city": "Providence",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42451,
+    "latitude": 37.8497,
+    "longitude": -87.378292,
+    "city": "Reed",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42452,
+    "latitude": 37.700857,
+    "longitude": -87.551576,
+    "city": "Robards",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42453,
+    "latitude": 37.160353,
+    "longitude": -87.569718,
+    "city": "Saint Charles",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42455,
+    "latitude": 37.570081,
+    "longitude": -87.636436,
+    "city": "Sebree",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42456,
+    "latitude": 37.505442,
+    "longitude": -87.534622,
+    "city": "Slaughters",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42457,
+    "latitude": 37.83233,
+    "longitude": -87.788906,
+    "city": "Smith Mills",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42458,
+    "latitude": 37.840368,
+    "longitude": -87.547026,
+    "city": "Spottsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Henderson"
+  },
+  {
+    "zip_code": 42459,
+    "latitude": 37.628913,
+    "longitude": -87.989378,
+    "city": "Sturgis",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Union"
+  },
+  {
+    "zip_code": 42460,
+    "latitude": 37.493997,
+    "longitude": -87.932773,
+    "city": "Sullivan",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Union"
+  },
+  {
+    "zip_code": 42461,
+    "latitude": 37.717433,
+    "longitude": -87.914375,
+    "city": "Uniontown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Union"
+  },
+  {
+    "zip_code": 42462,
+    "latitude": 37.631341,
+    "longitude": -87.866487,
+    "city": "Waverly",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Union"
+  },
+  {
+    "zip_code": 42463,
+    "latitude": 37.487972,
+    "longitude": -87.866125,
+    "city": "Wheatcroft",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 42464,
+    "latitude": 37.20031,
+    "longitude": -87.400477,
+    "city": "White Plains",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hopkins"
+  },
+  {
+    "zip_code": 42501,
+    "latitude": 37.10288,
+    "longitude": -84.544294,
+    "city": "Somerset",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42502,
+    "latitude": 37.09325,
+    "longitude": -84.427729,
+    "city": "Somerset",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42503,
+    "latitude": 37.131938,
+    "longitude": -84.518445,
+    "city": "Somerset",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42516,
+    "latitude": 37.242524,
+    "longitude": -84.89986,
+    "city": "Bethelridge",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42518,
+    "latitude": 36.952751,
+    "longitude": -84.624731,
+    "city": "Bronston",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42519,
+    "latitude": 37.029301,
+    "longitude": -84.537413,
+    "city": "Burnside",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42528,
+    "latitude": 37.190615,
+    "longitude": -84.983484,
+    "city": "Dunnville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42533,
+    "latitude": 37.114754,
+    "longitude": -84.69969,
+    "city": "Ferguson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42539,
+    "latitude": 37.302162,
+    "longitude": -84.957722,
+    "city": "Liberty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42541,
+    "latitude": 37.36719,
+    "longitude": -84.798875,
+    "city": "Middleburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42544,
+    "latitude": 37.063143,
+    "longitude": -84.719207,
+    "city": "Nancy",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42553,
+    "latitude": 37.110682,
+    "longitude": -84.686815,
+    "city": "Science Hill",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42558,
+    "latitude": 36.94919,
+    "longitude": -84.581482,
+    "city": "Tateville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42564,
+    "latitude": 37.111433,
+    "longitude": -84.592898,
+    "city": "West Somerset",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42565,
+    "latitude": 37.15679,
+    "longitude": -84.879909,
+    "city": "Windsor",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42566,
+    "latitude": 37.291935,
+    "longitude": -84.82628,
+    "city": "Yosemite",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Casey"
+  },
+  {
+    "zip_code": 42567,
+    "latitude": 37.128053,
+    "longitude": -84.59699,
+    "city": "Eubank",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 42602,
+    "latitude": 36.745738,
+    "longitude": -85.181967,
+    "city": "Albany",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 42603,
+    "latitude": 36.751732,
+    "longitude": -85.135354,
+    "city": "Alpha",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 42629,
+    "latitude": 36.945046,
+    "longitude": -85.124561,
+    "city": "Jamestown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 42631,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Marshes Siding",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42632,
+    "latitude": 36.800363,
+    "longitude": -84.818345,
+    "city": "Mill Springs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 42633,
+    "latitude": 36.8674,
+    "longitude": -84.8254,
+    "city": "Monticello",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 42634,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Parkers Lake",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42635,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Pine Knot",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42638,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Revelo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42642,
+    "latitude": 37.019307,
+    "longitude": -85.069717,
+    "city": "Russell Springs",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 42647,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Stearns",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42649,
+    "latitude": 36.777331,
+    "longitude": -84.502512,
+    "city": "Strunk",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42653,
+    "latitude": 36.721677,
+    "longitude": -84.467609,
+    "city": "Whitley City",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Mccreary"
+  },
+  {
+    "zip_code": 42701,
+    "latitude": 37.684807,
+    "longitude": -85.878391,
+    "city": "Elizabethtown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42702,
+    "latitude": 37.723474,
+    "longitude": -85.976854,
+    "city": "Elizabethtown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42711,
+    "latitude": 36.879564,
+    "longitude": -85.317785,
+    "city": "Bakerton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 42712,
+    "latitude": 37.493818,
+    "longitude": -86.286363,
+    "city": "Big Clifty",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42713,
+    "latitude": 37.370142,
+    "longitude": -85.913432,
+    "city": "Bonnieville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42715,
+    "latitude": 36.955287,
+    "longitude": -85.403561,
+    "city": "Breeding",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42716,
+    "latitude": 37.485493,
+    "longitude": -85.626798,
+    "city": "Buffalo",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Larue"
+  },
+  {
+    "zip_code": 42717,
+    "latitude": 36.769106,
+    "longitude": -85.408741,
+    "city": "Burkesville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 42718,
+    "latitude": 37.337416,
+    "longitude": -85.357952,
+    "city": "Campbellsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 42719,
+    "latitude": 37.337936,
+    "longitude": -85.330374,
+    "city": "Campbellsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 42720,
+    "latitude": 37.121145,
+    "longitude": -85.370926,
+    "city": "Cane Valley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42721,
+    "latitude": 37.430259,
+    "longitude": -86.370024,
+    "city": "Caneyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42722,
+    "latitude": 37.277025,
+    "longitude": -85.727548,
+    "city": "Canmer",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42724,
+    "latitude": 37.669044,
+    "longitude": -86.054481,
+    "city": "Cecilia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42726,
+    "latitude": 37.433583,
+    "longitude": -86.208318,
+    "city": "Clarkson",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42728,
+    "latitude": 37.116131,
+    "longitude": -85.265586,
+    "city": "Columbia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42729,
+    "latitude": 37.260115,
+    "longitude": -85.982964,
+    "city": "Cub Run",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42731,
+    "latitude": 36.842115,
+    "longitude": -85.539565,
+    "city": "Dubre",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 42732,
+    "latitude": 37.606115,
+    "longitude": -86.090565,
+    "city": "Eastview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42733,
+    "latitude": 37.340494,
+    "longitude": -85.218987,
+    "city": "Elk Horn",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 42735,
+    "latitude": 37.045089,
+    "longitude": -85.29683,
+    "city": "Fairplay",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42740,
+    "latitude": 37.602581,
+    "longitude": -86.007199,
+    "city": "Glendale",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42741,
+    "latitude": 37.006969,
+    "longitude": -85.248697,
+    "city": "Glens Fork",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42742,
+    "latitude": 37.091158,
+    "longitude": -85.465005,
+    "city": "Gradyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42743,
+    "latitude": 37.27586,
+    "longitude": -85.519334,
+    "city": "Greensburg",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Green"
+  },
+  {
+    "zip_code": 42746,
+    "latitude": 37.216477,
+    "longitude": -85.772032,
+    "city": "Hardyville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42748,
+    "latitude": 37.559321,
+    "longitude": -85.707267,
+    "city": "Hodgenville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Larue"
+  },
+  {
+    "zip_code": 42749,
+    "latitude": 37.202266,
+    "longitude": -85.89552,
+    "city": "Horse Cave",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42753,
+    "latitude": 37.231312,
+    "longitude": -85.17202,
+    "city": "Knifley",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42754,
+    "latitude": 37.460336,
+    "longitude": -86.324894,
+    "city": "Leitchfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42755,
+    "latitude": 37.471943,
+    "longitude": -86.343941,
+    "city": "Leitchfield",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42757,
+    "latitude": 37.469063,
+    "longitude": -85.723511,
+    "city": "Magnolia",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Larue"
+  },
+  {
+    "zip_code": 42758,
+    "latitude": 37.360392,
+    "longitude": -85.198031,
+    "city": "Mannsville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 42759,
+    "latitude": 36.830573,
+    "longitude": -85.50154,
+    "city": "Marrowbone",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 42761,
+    "latitude": 37.107146,
+    "longitude": -85.459565,
+    "city": "Milltown",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Adair"
+  },
+  {
+    "zip_code": 42762,
+    "latitude": 37.444623,
+    "longitude": -86.400828,
+    "city": "Millwood",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Grayson"
+  },
+  {
+    "zip_code": 42764,
+    "latitude": 37.463961,
+    "longitude": -85.639231,
+    "city": "Mount Sherman",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Larue"
+  },
+  {
+    "zip_code": 42765,
+    "latitude": 37.29204,
+    "longitude": -85.914004,
+    "city": "Munfordville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 42776,
+    "latitude": 37.515024,
+    "longitude": -85.950238,
+    "city": "Sonora",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42782,
+    "latitude": 37.354827,
+    "longitude": -85.614043,
+    "city": "Summersville",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Green"
+  },
+  {
+    "zip_code": 42783,
+    "latitude": 37.567134,
+    "longitude": -86.085259,
+    "city": "Summit",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42784,
+    "latitude": 37.478353,
+    "longitude": -85.963435,
+    "city": "Upton",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 42786,
+    "latitude": 36.819839,
+    "longitude": -85.462435,
+    "city": "Waterview",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 42788,
+    "latitude": 37.534951,
+    "longitude": -86.033456,
+    "city": "White Mills",
+    "state": "KY",
+    "full_state": "Kentucky",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 43001,
+    "latitude": 40.100513,
+    "longitude": -82.612389,
+    "city": "Alexandria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43002,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Amlin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43003,
+    "latitude": 40.389346,
+    "longitude": -82.98071,
+    "city": "Ashley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43004,
+    "latitude": 40.016713,
+    "longitude": -82.839198,
+    "city": "Blacklick",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43005,
+    "latitude": 40.29623,
+    "longitude": -82.27362,
+    "city": "Bladensburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43006,
+    "latitude": 40.477294,
+    "longitude": -82.191485,
+    "city": "Brinkhaven",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43007,
+    "latitude": 40.340633,
+    "longitude": -83.416306,
+    "city": "Broadway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43008,
+    "latitude": 39.944674,
+    "longitude": -82.47972,
+    "city": "Buckeye Lake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43009,
+    "latitude": 40.161025,
+    "longitude": -83.648461,
+    "city": "Cable",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43010,
+    "latitude": 39.99914,
+    "longitude": -83.622204,
+    "city": "Catawba",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 43011,
+    "latitude": 40.313394,
+    "longitude": -82.665177,
+    "city": "Centerburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43013,
+    "latitude": 40.115251,
+    "longitude": -82.690898,
+    "city": "Croton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43014,
+    "latitude": 40.417167,
+    "longitude": -82.270253,
+    "city": "Danville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43015,
+    "latitude": 40.289886,
+    "longitude": -82.981095,
+    "city": "Delaware",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43016,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Dublin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43017,
+    "latitude": 40.076041,
+    "longitude": -82.814456,
+    "city": "Dublin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43018,
+    "latitude": 39.957167,
+    "longitude": -82.683686,
+    "city": "Etna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43019,
+    "latitude": 40.487135,
+    "longitude": -82.512463,
+    "city": "Fredericktown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43021,
+    "latitude": 40.201142,
+    "longitude": -82.874886,
+    "city": "Galena",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43022,
+    "latitude": 40.338527,
+    "longitude": -82.348673,
+    "city": "Gambier",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43023,
+    "latitude": 40.048971,
+    "longitude": -82.539941,
+    "city": "Granville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43025,
+    "latitude": 39.974804,
+    "longitude": -82.511108,
+    "city": "Hebron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43026,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Hilliard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43027,
+    "latitude": 40.132821,
+    "longitude": -82.561556,
+    "city": "Homer",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43028,
+    "latitude": 40.418367,
+    "longitude": -82.283974,
+    "city": "Howard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43029,
+    "latitude": 40.128208,
+    "longitude": -83.442548,
+    "city": "Irwin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43030,
+    "latitude": 39.968846,
+    "longitude": -82.430017,
+    "city": "Jacksontown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43031,
+    "latitude": 40.16145,
+    "longitude": -82.60439,
+    "city": "Johnstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43032,
+    "latitude": 40.313445,
+    "longitude": -82.961585,
+    "city": "Kilbourne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43033,
+    "latitude": 39.953532,
+    "longitude": -82.593998,
+    "city": "Kirkersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43035,
+    "latitude": 40.187886,
+    "longitude": -82.987804,
+    "city": "Lewis Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43036,
+    "latitude": 40.352835,
+    "longitude": -83.263418,
+    "city": "Magnetic Springs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43037,
+    "latitude": 40.29519,
+    "longitude": -82.322187,
+    "city": "Martinsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43040,
+    "latitude": 40.267651,
+    "longitude": -83.376632,
+    "city": "Marysville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43041,
+    "latitude": 40.306924,
+    "longitude": -83.360645,
+    "city": "Marysville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43044,
+    "latitude": 40.117805,
+    "longitude": -83.587808,
+    "city": "Mechanicsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43045,
+    "latitude": 40.170089,
+    "longitude": -83.441008,
+    "city": "Milford Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43046,
+    "latitude": 39.884758,
+    "longitude": -82.539214,
+    "city": "Millersport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43047,
+    "latitude": 40.204914,
+    "longitude": -83.646581,
+    "city": "Mingo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43048,
+    "latitude": 40.406113,
+    "longitude": -82.465777,
+    "city": "Mount Liberty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43050,
+    "latitude": 40.37066,
+    "longitude": -82.481346,
+    "city": "Mount Vernon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 43054,
+    "latitude": 40.085113,
+    "longitude": -82.814347,
+    "city": "New Albany",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43055,
+    "latitude": 40.085963,
+    "longitude": -82.485985,
+    "city": "Newark",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43056,
+    "latitude": 40.004407,
+    "longitude": -82.467105,
+    "city": "Heath",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43058,
+    "latitude": 40.095148,
+    "longitude": -82.482659,
+    "city": "Newark",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43060,
+    "latitude": 40.204788,
+    "longitude": -83.568531,
+    "city": "North Lewisburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43061,
+    "latitude": 40.295612,
+    "longitude": -83.199506,
+    "city": "Ostrander",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43062,
+    "latitude": 40.014869,
+    "longitude": -82.624424,
+    "city": "Pataskala",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43064,
+    "latitude": 40.057901,
+    "longitude": -83.307323,
+    "city": "Plain City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43065,
+    "latitude": 40.183405,
+    "longitude": -83.091235,
+    "city": "Powell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43066,
+    "latitude": 40.380541,
+    "longitude": -83.172985,
+    "city": "Radnor",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43067,
+    "latitude": 40.337997,
+    "longitude": -83.465462,
+    "city": "Raymond",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43068,
+    "latitude": 39.951513,
+    "longitude": -82.802896,
+    "city": "Reynoldsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43070,
+    "latitude": 40.172288,
+    "longitude": -83.962411,
+    "city": "Rosewood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43071,
+    "latitude": 40.189158,
+    "longitude": -82.353301,
+    "city": "Saint Louisville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43072,
+    "latitude": 40.121683,
+    "longitude": -83.947262,
+    "city": "Saint Paris",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43073,
+    "latitude": 39.996516,
+    "longitude": -82.754034,
+    "city": "Summit Station",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43074,
+    "latitude": 40.266029,
+    "longitude": -82.854334,
+    "city": "Sunbury",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43076,
+    "latitude": 39.851267,
+    "longitude": -82.385238,
+    "city": "Thornville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43077,
+    "latitude": 40.124392,
+    "longitude": -83.30822,
+    "city": "Unionville Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43078,
+    "latitude": 40.121722,
+    "longitude": -83.797312,
+    "city": "Urbana",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43080,
+    "latitude": 40.17595,
+    "longitude": -82.444279,
+    "city": "Utica",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43081,
+    "latitude": 40.10447,
+    "longitude": -82.896457,
+    "city": "Westerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43082,
+    "latitude": 40.167712,
+    "longitude": -82.869636,
+    "city": "Westerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 43083,
+    "latitude": 40.102185,
+    "longitude": -83.83786,
+    "city": "Westville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43084,
+    "latitude": 40.1511,
+    "longitude": -83.545445,
+    "city": "Woodstock",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 43085,
+    "latitude": 40.040113,
+    "longitude": -82.897222,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43086,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Westerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43093,
+    "latitude": 40.095148,
+    "longitude": -82.482659,
+    "city": "Newark",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43098,
+    "latitude": 40.095148,
+    "longitude": -82.482659,
+    "city": "Hebron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43101,
+    "latitude": 39.466524,
+    "longitude": -82.754731,
+    "city": "Adelphi",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 43102,
+    "latitude": 39.698161,
+    "longitude": -82.688692,
+    "city": "Amanda",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43103,
+    "latitude": 39.67194,
+    "longitude": -83.015457,
+    "city": "Ashville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43105,
+    "latitude": 39.77796,
+    "longitude": -82.665141,
+    "city": "Baltimore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43106,
+    "latitude": 39.64064,
+    "longitude": -83.419366,
+    "city": "Bloomingburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 43107,
+    "latitude": 39.697655,
+    "longitude": -82.554876,
+    "city": "Bremen",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43109,
+    "latitude": 39.924238,
+    "longitude": -82.846098,
+    "city": "Brice",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43110,
+    "latitude": 39.821343,
+    "longitude": -82.764939,
+    "city": "Canal Winchester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43111,
+    "latitude": 39.504455,
+    "longitude": -82.242899,
+    "city": "Carbon Hill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43112,
+    "latitude": 39.80114,
+    "longitude": -82.706291,
+    "city": "Carroll",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43113,
+    "latitude": 39.597084,
+    "longitude": -82.945899,
+    "city": "Circleville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43115,
+    "latitude": 39.479662,
+    "longitude": -83.099899,
+    "city": "Clarksburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 43116,
+    "latitude": 39.769857,
+    "longitude": -83.060153,
+    "city": "Commercial Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43117,
+    "latitude": 39.773025,
+    "longitude": -83.199472,
+    "city": "Derby",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43119,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Galloway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43123,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Grove City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43125,
+    "latitude": 39.84692,
+    "longitude": -82.88487,
+    "city": "Groveport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43126,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Harrisburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43127,
+    "latitude": 39.476564,
+    "longitude": -82.328099,
+    "city": "Haydenville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43128,
+    "latitude": 39.654055,
+    "longitude": -83.572613,
+    "city": "Jeffersonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 43130,
+    "latitude": 39.68965,
+    "longitude": -82.609282,
+    "city": "Lancaster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43135,
+    "latitude": 39.462546,
+    "longitude": -82.666506,
+    "city": "Laurelville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43136,
+    "latitude": 39.76155,
+    "longitude": -82.7219,
+    "city": "Lithopolis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43137,
+    "latitude": 39.761894,
+    "longitude": -82.98932,
+    "city": "Lockbourne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43138,
+    "latitude": 39.52535,
+    "longitude": -82.437424,
+    "city": "Logan",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43140,
+    "latitude": 39.886277,
+    "longitude": -83.407733,
+    "city": "London",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43142,
+    "latitude": 39.588319,
+    "longitude": -83.583292,
+    "city": "Milledgeville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 43143,
+    "latitude": 39.765249,
+    "longitude": -83.344831,
+    "city": "Mount Sterling",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43144,
+    "latitude": 39.505508,
+    "longitude": -82.171089,
+    "city": "Murray City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43145,
+    "latitude": 39.56981,
+    "longitude": -83.21419,
+    "city": "New Holland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43146,
+    "latitude": 39.682607,
+    "longitude": -83.14155,
+    "city": "Orient",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43147,
+    "latitude": 39.781747,
+    "longitude": -82.664536,
+    "city": "Pickerington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43148,
+    "latitude": 39.82724,
+    "longitude": -82.500765,
+    "city": "Pleasantville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43149,
+    "latitude": 39.525792,
+    "longitude": -82.606994,
+    "city": "Rockbridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43150,
+    "latitude": 39.77882,
+    "longitude": -82.438446,
+    "city": "Rushville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43151,
+    "latitude": 39.727083,
+    "longitude": -83.452833,
+    "city": "Sedalia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43152,
+    "latitude": 39.417379,
+    "longitude": -82.592291,
+    "city": "South Bloomingville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43153,
+    "latitude": 39.748496,
+    "longitude": -83.531355,
+    "city": "South Solon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43154,
+    "latitude": 39.616,
+    "longitude": -82.80858,
+    "city": "Stoutsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43155,
+    "latitude": 39.63769,
+    "longitude": -82.532092,
+    "city": "Sugar Grove",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43156,
+    "latitude": 39.555583,
+    "longitude": -82.782171,
+    "city": "Tarlton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43157,
+    "latitude": 39.842263,
+    "longitude": -82.560131,
+    "city": "Thurston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43158,
+    "latitude": 39.433804,
+    "longitude": -82.366742,
+    "city": "Union Furnace",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hocking"
+  },
+  {
+    "zip_code": 43160,
+    "latitude": 39.536986,
+    "longitude": -83.455012,
+    "city": "Washington Court House",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 43162,
+    "latitude": 39.94886,
+    "longitude": -83.309892,
+    "city": "West Jefferson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 43163,
+    "latitude": 39.7631,
+    "longitude": -82.447024,
+    "city": "West Rushville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fairfield"
+  },
+  {
+    "zip_code": 43164,
+    "latitude": 39.604282,
+    "longitude": -83.126646,
+    "city": "Williamsport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pickaway"
+  },
+  {
+    "zip_code": 43196,
+    "latitude": "",
+    "longitude": "",
+    "city": "Groveport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43198,
+    "latitude": "",
+    "longitude": "",
+    "city": "Groveport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43199,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Groveport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43201,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43202,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43203,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43204,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43205,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43206,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43207,
+    "latitude": 39.86905,
+    "longitude": -82.958539,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43209,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43210,
+    "latitude": 39.914038,
+    "longitude": -82.832558,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43211,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43212,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43213,
+    "latitude": 39.972734,
+    "longitude": -82.832887,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43214,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43215,
+    "latitude": 39.891745,
+    "longitude": -82.877131,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43216,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43217,
+    "latitude": 39.827675,
+    "longitude": -82.934198,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43218,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43219,
+    "latitude": 40.032615,
+    "longitude": -82.910251,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43220,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43221,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43222,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43223,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43224,
+    "latitude": 40.080339,
+    "longitude": -82.928604,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43226,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43227,
+    "latitude": 39.922863,
+    "longitude": -82.858048,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43228,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43229,
+    "latitude": 40.095713,
+    "longitude": -82.962671,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43230,
+    "latitude": 40.034713,
+    "longitude": -82.872611,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43231,
+    "latitude": 40.084463,
+    "longitude": -82.933811,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43232,
+    "latitude": 39.922663,
+    "longitude": -82.85664,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43234,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43235,
+    "latitude": 40.108836,
+    "longitude": -82.974204,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43236,
+    "latitude": 40.135711,
+    "longitude": -83.007626,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43240,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43251,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43260,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43265,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43266,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43268,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43270,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43271,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43272,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43279,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43287,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43291,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43299,
+    "latitude": 39.969036,
+    "longitude": -83.011389,
+    "city": "Columbus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 43301,
+    "latitude": 40.616604,
+    "longitude": -83.069296,
+    "city": "Marion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43302,
+    "latitude": 40.584028,
+    "longitude": -83.101687,
+    "city": "Marion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43306,
+    "latitude": 40.56941,
+    "longitude": -83.139341,
+    "city": "Marion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43307,
+    "latitude": 40.56941,
+    "longitude": -83.139341,
+    "city": "Marion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43310,
+    "latitude": 40.491005,
+    "longitude": -83.752068,
+    "city": "Belle Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43311,
+    "latitude": 40.378783,
+    "longitude": -83.787784,
+    "city": "Bellefontaine",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43314,
+    "latitude": 40.631257,
+    "longitude": -82.958179,
+    "city": "Caledonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43315,
+    "latitude": 40.479648,
+    "longitude": -82.852969,
+    "city": "Cardington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43316,
+    "latitude": 40.927265,
+    "longitude": -83.387038,
+    "city": "Carey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 43317,
+    "latitude": 40.478905,
+    "longitude": -82.682805,
+    "city": "Chesterville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43318,
+    "latitude": 40.374272,
+    "longitude": -83.784554,
+    "city": "De Graff",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43319,
+    "latitude": 40.303893,
+    "longitude": -83.728511,
+    "city": "East Liberty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43320,
+    "latitude": 40.588234,
+    "longitude": -82.890436,
+    "city": "Edison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43321,
+    "latitude": 40.49712,
+    "longitude": -82.834207,
+    "city": "Fulton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43322,
+    "latitude": 40.541659,
+    "longitude": -83.230407,
+    "city": "Green Camp",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43323,
+    "latitude": 40.7346,
+    "longitude": -83.253668,
+    "city": "Harpster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 43324,
+    "latitude": 40.43991,
+    "longitude": -83.809604,
+    "city": "Huntsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43325,
+    "latitude": 40.60796,
+    "longitude": -82.872954,
+    "city": "Iberia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43326,
+    "latitude": 40.6401,
+    "longitude": -83.616923,
+    "city": "Kenton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 43330,
+    "latitude": 40.813023,
+    "longitude": -83.419606,
+    "city": "Kirby",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 43331,
+    "latitude": 40.501851,
+    "longitude": -83.92023,
+    "city": "Lakeview",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43332,
+    "latitude": 40.596476,
+    "longitude": -83.344599,
+    "city": "La Rue",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43333,
+    "latitude": 40.436912,
+    "longitude": -83.926452,
+    "city": "Lewistown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43334,
+    "latitude": 40.406317,
+    "longitude": -82.782091,
+    "city": "Marengo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43335,
+    "latitude": 40.668497,
+    "longitude": -82.909984,
+    "city": "Martel",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43336,
+    "latitude": 40.294825,
+    "longitude": -83.57726,
+    "city": "Middleburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43337,
+    "latitude": 40.667978,
+    "longitude": -83.26335,
+    "city": "Morral",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43338,
+    "latitude": 40.525904,
+    "longitude": -82.752848,
+    "city": "Mount Gilead",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43340,
+    "latitude": 40.561493,
+    "longitude": -83.495423,
+    "city": "Mount Victory",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 43341,
+    "latitude": 40.599228,
+    "longitude": -83.308663,
+    "city": "New Bloomington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43342,
+    "latitude": 40.492106,
+    "longitude": -83.178414,
+    "city": "Prospect",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43343,
+    "latitude": 40.391089,
+    "longitude": -83.792897,
+    "city": "Quincy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43344,
+    "latitude": 40.427182,
+    "longitude": -83.352079,
+    "city": "Richwood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Union"
+  },
+  {
+    "zip_code": 43345,
+    "latitude": 40.532668,
+    "longitude": -83.58265,
+    "city": "Ridgeway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 43346,
+    "latitude": 40.573227,
+    "longitude": -83.846199,
+    "city": "Roundhead",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 43347,
+    "latitude": 40.474334,
+    "longitude": -83.650983,
+    "city": "Rushsylvania",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43348,
+    "latitude": 40.402746,
+    "longitude": -83.890243,
+    "city": "Russells Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43349,
+    "latitude": 40.614239,
+    "longitude": -82.661938,
+    "city": "Shauck",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43350,
+    "latitude": 40.528862,
+    "longitude": -82.82292,
+    "city": "Sparta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morrow"
+  },
+  {
+    "zip_code": 43351,
+    "latitude": 40.828153,
+    "longitude": -83.313786,
+    "city": "Upper Sandusky",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 43356,
+    "latitude": 40.475651,
+    "longitude": -83.048607,
+    "city": "Waldo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 43357,
+    "latitude": 40.278247,
+    "longitude": -83.713148,
+    "city": "West Liberty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43358,
+    "latitude": 40.36691,
+    "longitude": -83.625912,
+    "city": "West Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43359,
+    "latitude": 40.875991,
+    "longitude": -83.448021,
+    "city": "Wharton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 43360,
+    "latitude": 40.321114,
+    "longitude": -83.640462,
+    "city": "Zanesfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 43402,
+    "latitude": 41.376449,
+    "longitude": -83.613714,
+    "city": "Bowling Green",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43403,
+    "latitude": 41.39235,
+    "longitude": -83.648996,
+    "city": "Bowling Green",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43406,
+    "latitude": 41.334031,
+    "longitude": -83.542092,
+    "city": "Bradner",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43407,
+    "latitude": 41.278621,
+    "longitude": -83.244604,
+    "city": "Burgoon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43408,
+    "latitude": 41.568599,
+    "longitude": -83.363224,
+    "city": "Clay Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43410,
+    "latitude": 41.321281,
+    "longitude": -82.948337,
+    "city": "Clyde",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43412,
+    "latitude": 41.597798,
+    "longitude": -83.357328,
+    "city": "Curtice",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43413,
+    "latitude": 41.226545,
+    "longitude": -83.664525,
+    "city": "Cygnet",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43414,
+    "latitude": 41.39235,
+    "longitude": -83.648996,
+    "city": "Dunbridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43416,
+    "latitude": 41.57267,
+    "longitude": -83.078075,
+    "city": "Elmore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43420,
+    "latitude": 41.35622,
+    "longitude": -83.133981,
+    "city": "Fremont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43430,
+    "latitude": 41.524657,
+    "longitude": -83.352477,
+    "city": "Genoa",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43431,
+    "latitude": 41.392094,
+    "longitude": -83.317648,
+    "city": "Gibsonburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43432,
+    "latitude": 41.564723,
+    "longitude": -83.26128,
+    "city": "Graytown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43433,
+    "latitude": 41.503759,
+    "longitude": -82.87084,
+    "city": "Gypsum",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43434,
+    "latitude": 41.645699,
+    "longitude": -83.620233,
+    "city": "Harbor View",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43435,
+    "latitude": 41.325996,
+    "longitude": -83.318648,
+    "city": "Helena",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43436,
+    "latitude": 41.715332,
+    "longitude": -82.822697,
+    "city": "Isle Saint George",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43437,
+    "latitude": 41.255902,
+    "longitude": -83.602198,
+    "city": "Jerry City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43438,
+    "latitude": 41.59593,
+    "longitude": -82.706816,
+    "city": "Kelleys Island",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 43439,
+    "latitude": 41.518115,
+    "longitude": -83.041312,
+    "city": "Lacarne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43440,
+    "latitude": 41.524698,
+    "longitude": -82.776567,
+    "city": "Lakeside Marblehead",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43441,
+    "latitude": 41.536132,
+    "longitude": -83.45938,
+    "city": "Lemoyne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43442,
+    "latitude": 41.422628,
+    "longitude": -83.231171,
+    "city": "Lindsey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43443,
+    "latitude": 41.457596,
+    "longitude": -83.473648,
+    "city": "Luckey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43445,
+    "latitude": 41.569398,
+    "longitude": -83.311577,
+    "city": "Martin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43446,
+    "latitude": 41.683477,
+    "longitude": -82.804677,
+    "city": "Middle Bass",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43447,
+    "latitude": 41.426265,
+    "longitude": -83.512454,
+    "city": "Millbury",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43449,
+    "latitude": 41.53653,
+    "longitude": -83.144869,
+    "city": "Oak Harbor",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43450,
+    "latitude": 41.398798,
+    "longitude": -83.484086,
+    "city": "Pemberville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43451,
+    "latitude": 41.315346,
+    "longitude": -83.621091,
+    "city": "Portage",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43452,
+    "latitude": 41.558318,
+    "longitude": -83.050219,
+    "city": "Port Clinton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43456,
+    "latitude": 41.647236,
+    "longitude": -82.819009,
+    "city": "Put In Bay",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43457,
+    "latitude": 41.336722,
+    "longitude": -83.466992,
+    "city": "Risingsun",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43458,
+    "latitude": 41.530157,
+    "longitude": -83.21276,
+    "city": "Rocky Ridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43460,
+    "latitude": 41.458371,
+    "longitude": -83.529646,
+    "city": "Rossford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43462,
+    "latitude": 41.283902,
+    "longitude": -83.72564,
+    "city": "Rudolph",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43463,
+    "latitude": 41.509051,
+    "longitude": -83.508531,
+    "city": "Stony Ridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43464,
+    "latitude": 41.396673,
+    "longitude": -82.921319,
+    "city": "Vickery",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43465,
+    "latitude": 41.462958,
+    "longitude": -83.49109,
+    "city": "Walbridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43466,
+    "latitude": 41.296984,
+    "longitude": -83.524683,
+    "city": "Wayne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43467,
+    "latitude": 41.24264,
+    "longitude": -83.489583,
+    "city": "West Millgrove",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43468,
+    "latitude": 41.605048,
+    "longitude": -83.338128,
+    "city": "Williston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 43469,
+    "latitude": 41.42021,
+    "longitude": -83.31686,
+    "city": "Woodville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Sandusky"
+  },
+  {
+    "zip_code": 43501,
+    "latitude": 41.577786,
+    "longitude": -84.584125,
+    "city": "Alvordton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43502,
+    "latitude": 41.578355,
+    "longitude": -84.25106,
+    "city": "Archbold",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43504,
+    "latitude": 41.606301,
+    "longitude": -83.822288,
+    "city": "Berkey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43505,
+    "latitude": 41.523945,
+    "longitude": -84.730275,
+    "city": "Blakeslee",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43506,
+    "latitude": 41.553851,
+    "longitude": -84.585209,
+    "city": "Bryan",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43510,
+    "latitude": 41.419878,
+    "longitude": -84.013674,
+    "city": "Colton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43511,
+    "latitude": 41.259285,
+    "longitude": -83.811421,
+    "city": "Custar",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43512,
+    "latitude": 41.296657,
+    "longitude": -84.390413,
+    "city": "Defiance",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43515,
+    "latitude": 41.58568,
+    "longitude": -84.124257,
+    "city": "Delta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43516,
+    "latitude": 41.232641,
+    "longitude": -83.949391,
+    "city": "Deshler",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43517,
+    "latitude": 41.554099,
+    "longitude": -84.620862,
+    "city": "Edgerton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43518,
+    "latitude": 41.58754,
+    "longitude": -84.738401,
+    "city": "Edon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43519,
+    "latitude": 41.422158,
+    "longitude": -84.396619,
+    "city": "Evansport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43520,
+    "latitude": 41.39066,
+    "longitude": -84.631322,
+    "city": "Farmer",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43521,
+    "latitude": 41.649036,
+    "longitude": -84.28596,
+    "city": "Fayette",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43522,
+    "latitude": 41.394707,
+    "longitude": -83.834935,
+    "city": "Grand Rapids",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43523,
+    "latitude": 41.341081,
+    "longitude": -84.000532,
+    "city": "Grelton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43524,
+    "latitude": 41.230082,
+    "longitude": -84.035807,
+    "city": "Hamler",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43525,
+    "latitude": 41.466702,
+    "longitude": -83.705486,
+    "city": "Haskins",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43526,
+    "latitude": 41.325013,
+    "longitude": -84.678021,
+    "city": "Hicksville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43527,
+    "latitude": 41.23175,
+    "longitude": -84.129612,
+    "city": "Holgate",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43528,
+    "latitude": 41.628501,
+    "longitude": -83.751138,
+    "city": "Holland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43529,
+    "latitude": 41.187234,
+    "longitude": -83.784704,
+    "city": "Hoytville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43530,
+    "latitude": 41.325764,
+    "longitude": -84.279306,
+    "city": "Jewell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43531,
+    "latitude": 41.634007,
+    "longitude": -84.502598,
+    "city": "Kunkle",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43532,
+    "latitude": 41.429356,
+    "longitude": -84.008448,
+    "city": "Liberty Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43533,
+    "latitude": 41.68575,
+    "longitude": -84.161891,
+    "city": "Lyons",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43534,
+    "latitude": 41.356582,
+    "longitude": -83.941313,
+    "city": "Mc Clure",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43535,
+    "latitude": 41.305439,
+    "longitude": -84.003632,
+    "city": "Malinta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43536,
+    "latitude": 41.31085,
+    "longitude": -84.640393,
+    "city": "Mark Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43537,
+    "latitude": 41.571251,
+    "longitude": -83.685036,
+    "city": "Maumee",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43540,
+    "latitude": 41.688656,
+    "longitude": -84.104541,
+    "city": "Metamora",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43541,
+    "latitude": 41.300891,
+    "longitude": -83.829596,
+    "city": "Milton Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43542,
+    "latitude": 41.577251,
+    "longitude": -83.772378,
+    "city": "Monclova",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43543,
+    "latitude": 41.606061,
+    "longitude": -84.588777,
+    "city": "Montpelier",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43545,
+    "latitude": 41.355586,
+    "longitude": -84.123028,
+    "city": "Napoleon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43547,
+    "latitude": 41.491952,
+    "longitude": -83.870598,
+    "city": "Neapolis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43548,
+    "latitude": 41.194308,
+    "longitude": -84.141421,
+    "city": "New Bavaria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43549,
+    "latitude": 41.361864,
+    "longitude": -84.51582,
+    "city": "Ney",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43550,
+    "latitude": 41.326664,
+    "longitude": -84.111701,
+    "city": "Okolona",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43551,
+    "latitude": 41.535057,
+    "longitude": -83.577701,
+    "city": "Perrysburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43552,
+    "latitude": 41.39235,
+    "longitude": -83.648996,
+    "city": "Perrysburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43553,
+    "latitude": 41.531033,
+    "longitude": -84.225646,
+    "city": "Pettisville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43554,
+    "latitude": 41.648218,
+    "longitude": -84.585241,
+    "city": "Pioneer",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43555,
+    "latitude": 41.435059,
+    "longitude": -84.254414,
+    "city": "Ridgeville Corners",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 43556,
+    "latitude": 41.318045,
+    "longitude": -84.569545,
+    "city": "Sherwood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Defiance"
+  },
+  {
+    "zip_code": 43557,
+    "latitude": 41.488708,
+    "longitude": -84.409876,
+    "city": "Stryker",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43558,
+    "latitude": 41.593787,
+    "longitude": -84.103035,
+    "city": "Swanton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43560,
+    "latitude": 41.6929,
+    "longitude": -83.727737,
+    "city": "Sylvania",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43565,
+    "latitude": 41.423102,
+    "longitude": -83.747936,
+    "city": "Tontogany",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43566,
+    "latitude": 41.513751,
+    "longitude": -83.765287,
+    "city": "Waterville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43567,
+    "latitude": 41.59151,
+    "longitude": -84.178148,
+    "city": "Wauseon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 43569,
+    "latitude": 41.35002,
+    "longitude": -83.796033,
+    "city": "Weston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43570,
+    "latitude": 41.591453,
+    "longitude": -84.447033,
+    "city": "West Unity",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Williams"
+  },
+  {
+    "zip_code": 43571,
+    "latitude": 41.509602,
+    "longitude": -83.801789,
+    "city": "Whitehouse",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43601,
+    "latitude": 41.720684,
+    "longitude": -83.569359,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43602,
+    "latitude": 41.647449,
+    "longitude": -83.548128,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43603,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43604,
+    "latitude": 41.655798,
+    "longitude": -83.536833,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43605,
+    "latitude": 41.652548,
+    "longitude": -83.508482,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43606,
+    "latitude": 41.674099,
+    "longitude": -83.604535,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43607,
+    "latitude": 41.647399,
+    "longitude": -83.606785,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43608,
+    "latitude": 41.681648,
+    "longitude": -83.531983,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43609,
+    "latitude": 41.624749,
+    "longitude": -83.584234,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43610,
+    "latitude": 41.673449,
+    "longitude": -83.556083,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43611,
+    "latitude": 41.698298,
+    "longitude": -83.486382,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43612,
+    "latitude": 41.695847,
+    "longitude": -83.460181,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43613,
+    "latitude": 41.703548,
+    "longitude": -83.606235,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43614,
+    "latitude": 41.609041,
+    "longitude": -83.633941,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43615,
+    "latitude": 41.6496,
+    "longitude": -83.678586,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43616,
+    "latitude": 41.656948,
+    "longitude": -83.44433,
+    "city": "Oregon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43617,
+    "latitude": 41.66765,
+    "longitude": -83.722437,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43618,
+    "latitude": 41.656948,
+    "longitude": -83.399129,
+    "city": "Oregon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43619,
+    "latitude": 41.596099,
+    "longitude": -83.485681,
+    "city": "Northwood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 43620,
+    "latitude": 41.664849,
+    "longitude": -83.553933,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43623,
+    "latitude": 41.702949,
+    "longitude": -83.682686,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43624,
+    "latitude": 41.654599,
+    "longitude": -83.546233,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43635,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43652,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43653,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43654,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43655,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43656,
+    "latitude": 41.678167,
+    "longitude": -83.497155,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43657,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43659,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43660,
+    "latitude": 41.654649,
+    "longitude": -83.532883,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43661,
+    "latitude": 41.678167,
+    "longitude": -83.497155,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43666,
+    "latitude": 41.678167,
+    "longitude": -83.497155,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43667,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43681,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43682,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43697,
+    "latitude": 41.686778,
+    "longitude": -83.43943,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43699,
+    "latitude": 41.653788,
+    "longitude": -83.658937,
+    "city": "Toledo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lucas"
+  },
+  {
+    "zip_code": 43701,
+    "latitude": 39.927415,
+    "longitude": -82.004058,
+    "city": "Zanesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43702,
+    "latitude": 39.961236,
+    "longitude": -81.962539,
+    "city": "Zanesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43711,
+    "latitude": 39.827556,
+    "longitude": -81.554854,
+    "city": "Ava",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 43713,
+    "latitude": 39.985318,
+    "longitude": -81.137495,
+    "city": "Barnesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43716,
+    "latitude": 39.780188,
+    "longitude": -80.991731,
+    "city": "Beallsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43717,
+    "latitude": 39.768475,
+    "longitude": -81.465752,
+    "city": "Belle Valley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 43718,
+    "latitude": 40.004009,
+    "longitude": -80.988043,
+    "city": "Belmont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43719,
+    "latitude": 39.996312,
+    "longitude": -81.065991,
+    "city": "Bethesda",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43720,
+    "latitude": 39.820021,
+    "longitude": -81.876343,
+    "city": "Blue Rock",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43721,
+    "latitude": 39.94518,
+    "longitude": -82.255984,
+    "city": "Brownsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43722,
+    "latitude": 39.91944,
+    "longitude": -81.53113,
+    "city": "Buffalo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43723,
+    "latitude": 39.953185,
+    "longitude": -81.531919,
+    "city": "Byesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43724,
+    "latitude": 39.744446,
+    "longitude": -81.483049,
+    "city": "Caldwell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 43725,
+    "latitude": 40.02701,
+    "longitude": -81.582025,
+    "city": "Cambridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43727,
+    "latitude": 39.865211,
+    "longitude": -81.799363,
+    "city": "Chandlersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43728,
+    "latitude": 39.497841,
+    "longitude": -81.898307,
+    "city": "Chesterhill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 43730,
+    "latitude": 39.636069,
+    "longitude": -82.110219,
+    "city": "Corning",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43731,
+    "latitude": 39.704142,
+    "longitude": -82.165011,
+    "city": "Crooksville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43732,
+    "latitude": 39.88812,
+    "longitude": -81.617372,
+    "city": "Cumberland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43733,
+    "latitude": 39.923616,
+    "longitude": -81.542965,
+    "city": "Derwent",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43734,
+    "latitude": 39.872071,
+    "longitude": -81.89422,
+    "city": "Duncan Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43735,
+    "latitude": 39.853931,
+    "longitude": -82.121262,
+    "city": "East Fultonham",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43736,
+    "latitude": 40.064971,
+    "longitude": -81.255793,
+    "city": "Fairview",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43738,
+    "latitude": 39.855525,
+    "longitude": -82.137754,
+    "city": "Fultonham",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43739,
+    "latitude": 39.884312,
+    "longitude": -82.297706,
+    "city": "Glenford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43740,
+    "latitude": 39.953262,
+    "longitude": -82.211784,
+    "city": "Gratiot",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Licking"
+  },
+  {
+    "zip_code": 43746,
+    "latitude": 39.970024,
+    "longitude": -82.174647,
+    "city": "Hopewell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43747,
+    "latitude": 39.82588,
+    "longitude": -81.123561,
+    "city": "Jerusalem",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43748,
+    "latitude": 39.684697,
+    "longitude": -82.302787,
+    "city": "Junction City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43749,
+    "latitude": 40.158911,
+    "longitude": -81.548992,
+    "city": "Kimbolton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43750,
+    "latitude": 39.994467,
+    "longitude": -81.500579,
+    "city": "Kipling",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43752,
+    "latitude": 39.717086,
+    "longitude": -81.009999,
+    "city": "Laings",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43754,
+    "latitude": 39.74607,
+    "longitude": -81.227706,
+    "city": "Lewisville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43755,
+    "latitude": 40.052671,
+    "longitude": -81.435723,
+    "city": "Lore City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43756,
+    "latitude": 39.676688,
+    "longitude": -81.81256,
+    "city": "Mc Connelsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 43757,
+    "latitude": 39.859373,
+    "longitude": -81.151604,
+    "city": "Malaga",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43758,
+    "latitude": 39.632381,
+    "longitude": -81.908715,
+    "city": "Malta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 43759,
+    "latitude": 40.011338,
+    "longitude": -80.970135,
+    "city": "Morristown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43760,
+    "latitude": 39.760789,
+    "longitude": -82.20775,
+    "city": "Mount Perry",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43761,
+    "latitude": 39.740299,
+    "longitude": -82.248369,
+    "city": "Moxahala",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43762,
+    "latitude": 40.024342,
+    "longitude": -81.767017,
+    "city": "New Concord",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43764,
+    "latitude": 39.706051,
+    "longitude": -82.20614,
+    "city": "New Lexington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43766,
+    "latitude": 39.619477,
+    "longitude": -82.252758,
+    "city": "New Straitsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43767,
+    "latitude": 40.011106,
+    "longitude": -81.804302,
+    "city": "Norwich",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43768,
+    "latitude": 40.039201,
+    "longitude": -81.452164,
+    "city": "Old Washington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43771,
+    "latitude": 39.822159,
+    "longitude": -81.954582,
+    "city": "Philo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43772,
+    "latitude": 39.918285,
+    "longitude": -81.551647,
+    "city": "Pleasant City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43773,
+    "latitude": 40.040755,
+    "longitude": -81.313561,
+    "city": "Quaker City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43777,
+    "latitude": 39.821869,
+    "longitude": -82.039389,
+    "city": "Roseville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43778,
+    "latitude": 40.015591,
+    "longitude": -81.373692,
+    "city": "Salesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43779,
+    "latitude": 39.816285,
+    "longitude": -81.428046,
+    "city": "Sarahsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 43780,
+    "latitude": 39.9427,
+    "longitude": -81.458577,
+    "city": "Senecaville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Guernsey"
+  },
+  {
+    "zip_code": 43782,
+    "latitude": 39.625239,
+    "longitude": -82.214886,
+    "city": "Shawnee",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43783,
+    "latitude": 39.736529,
+    "longitude": -82.278894,
+    "city": "Somerset",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 43786,
+    "latitude": 39.711168,
+    "longitude": -81.275824,
+    "city": "Stafford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43787,
+    "latitude": 39.548994,
+    "longitude": -81.826194,
+    "city": "Stockport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 43788,
+    "latitude": 39.795107,
+    "longitude": -81.370927,
+    "city": "Summerfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 43789,
+    "latitude": 39.654386,
+    "longitude": -81.240732,
+    "city": "Sycamore Valley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43791,
+    "latitude": 39.87133,
+    "longitude": -82.098668,
+    "city": "White Cottage",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43793,
+    "latitude": 39.751516,
+    "longitude": -81.075921,
+    "city": "Woodsfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43802,
+    "latitude": 40.090767,
+    "longitude": -81.855203,
+    "city": "Adamsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43803,
+    "latitude": 40.357237,
+    "longitude": -81.643638,
+    "city": "Bakersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43804,
+    "latitude": 40.426559,
+    "longitude": -81.67444,
+    "city": "Baltic",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 43805,
+    "latitude": 40.398274,
+    "longitude": -81.968787,
+    "city": "Blissfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43811,
+    "latitude": 40.247685,
+    "longitude": -81.929225,
+    "city": "Conesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43812,
+    "latitude": 40.300934,
+    "longitude": -81.864066,
+    "city": "Coshocton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43821,
+    "latitude": 40.106916,
+    "longitude": -81.999822,
+    "city": "Dresden",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43822,
+    "latitude": 40.108668,
+    "longitude": -82.103212,
+    "city": "Frazeysburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43824,
+    "latitude": 40.364667,
+    "longitude": -81.755507,
+    "city": "Fresno",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43828,
+    "latitude": 40.351271,
+    "longitude": -81.873607,
+    "city": "Keene",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43830,
+    "latitude": 40.063883,
+    "longitude": -82.099574,
+    "city": "Nashport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43832,
+    "latitude": 40.33031,
+    "longitude": -81.571033,
+    "city": "Newcomerstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 43836,
+    "latitude": 40.200382,
+    "longitude": -81.720675,
+    "city": "Plainfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43837,
+    "latitude": 40.306936,
+    "longitude": -81.467895,
+    "city": "Port Washington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 43840,
+    "latitude": 40.404888,
+    "longitude": -81.602889,
+    "city": "Stone Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 43842,
+    "latitude": 40.143323,
+    "longitude": -81.995016,
+    "city": "Trinway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Muskingum"
+  },
+  {
+    "zip_code": 43843,
+    "latitude": 40.340702,
+    "longitude": -82.155887,
+    "city": "Walhonding",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43844,
+    "latitude": 40.3198,
+    "longitude": -81.958266,
+    "city": "Warsaw",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43845,
+    "latitude": 40.27446,
+    "longitude": -81.82464,
+    "city": "West Lafayette",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Coshocton"
+  },
+  {
+    "zip_code": 43901,
+    "latitude": 40.260579,
+    "longitude": -80.789377,
+    "city": "Adena",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43902,
+    "latitude": 39.894917,
+    "longitude": -80.980056,
+    "city": "Alledonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43903,
+    "latitude": 40.486354,
+    "longitude": -80.84505,
+    "city": "Amsterdam",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43905,
+    "latitude": 40.107367,
+    "longitude": -80.84441,
+    "city": "Barton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43906,
+    "latitude": 39.991864,
+    "longitude": -80.805716,
+    "city": "Bellaire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43907,
+    "latitude": 40.263163,
+    "longitude": -81.030687,
+    "city": "Cadiz",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43908,
+    "latitude": 40.50022,
+    "longitude": -80.856529,
+    "city": "Bergholz",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43909,
+    "latitude": 40.070102,
+    "longitude": -80.817605,
+    "city": "Blaine",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43910,
+    "latitude": 40.341244,
+    "longitude": -80.774815,
+    "city": "Bloomingdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43912,
+    "latitude": 40.092799,
+    "longitude": -80.788948,
+    "city": "Bridgeport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43913,
+    "latitude": 40.323767,
+    "longitude": -80.768624,
+    "city": "Brilliant",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43914,
+    "latitude": 39.768729,
+    "longitude": -80.945431,
+    "city": "Cameron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43915,
+    "latitude": 39.744008,
+    "longitude": -80.903818,
+    "city": "Clarington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43916,
+    "latitude": 40.122351,
+    "longitude": -80.814948,
+    "city": "Colerain",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43917,
+    "latitude": 40.333811,
+    "longitude": -80.77266,
+    "city": "Dillonvale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43920,
+    "latitude": 40.677372,
+    "longitude": -80.600629,
+    "city": "East Liverpool",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 43925,
+    "latitude": 40.415106,
+    "longitude": -80.756661,
+    "city": "East Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43926,
+    "latitude": 40.509225,
+    "longitude": -80.624051,
+    "city": "Empire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43927,
+    "latitude": 40.12245,
+    "longitude": -80.938031,
+    "city": "Fairpoint",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43928,
+    "latitude": 40.010896,
+    "longitude": -80.899286,
+    "city": "Glencoe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43930,
+    "latitude": 40.460885,
+    "longitude": -80.719014,
+    "city": "Hammondsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43931,
+    "latitude": 39.676317,
+    "longitude": -80.891369,
+    "city": "Hannibal",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43932,
+    "latitude": 40.525504,
+    "longitude": -80.763971,
+    "city": "Irondale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43933,
+    "latitude": 39.937228,
+    "longitude": -80.888014,
+    "city": "Jacobsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43934,
+    "latitude": 40.079975,
+    "longitude": -80.800316,
+    "city": "Lansing",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43935,
+    "latitude": 40.117231,
+    "longitude": -80.758087,
+    "city": "Martins Ferry",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43937,
+    "latitude": 40.130167,
+    "longitude": -80.877264,
+    "city": "Maynard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43938,
+    "latitude": 40.358475,
+    "longitude": -80.762054,
+    "city": "Mingo Junction",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43939,
+    "latitude": 40.17699,
+    "longitude": -80.782734,
+    "city": "Mount Pleasant",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43940,
+    "latitude": 40.028448,
+    "longitude": -80.824454,
+    "city": "Neffs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43941,
+    "latitude": 40.263948,
+    "longitude": -80.835767,
+    "city": "Piney Fork",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43942,
+    "latitude": 40.006175,
+    "longitude": -80.960745,
+    "city": "Powhatan Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43943,
+    "latitude": 40.337357,
+    "longitude": -80.771562,
+    "city": "Rayland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43944,
+    "latitude": 40.441964,
+    "longitude": -80.791768,
+    "city": "Richmond",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43945,
+    "latitude": 40.649533,
+    "longitude": -80.822333,
+    "city": "Salineville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 43946,
+    "latitude": 39.646018,
+    "longitude": -80.970678,
+    "city": "Sardis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 43947,
+    "latitude": 39.950713,
+    "longitude": -80.804364,
+    "city": "Shadyside",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43948,
+    "latitude": 40.28006,
+    "longitude": -80.784927,
+    "city": "Smithfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43950,
+    "latitude": 40.077792,
+    "longitude": -80.978797,
+    "city": "Saint Clairsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43951,
+    "latitude": 40.11098,
+    "longitude": -81.010169,
+    "city": "Lafferty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43952,
+    "latitude": 40.349541,
+    "longitude": -80.746759,
+    "city": "Steubenville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43953,
+    "latitude": 40.352418,
+    "longitude": -80.678099,
+    "city": "Steubenville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  }
+]

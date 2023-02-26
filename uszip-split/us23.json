@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 65463,
+    "latitude": 37.769908,
+    "longitude": -92.74866,
+    "city": "Eldridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65464,
+    "latitude": 37.187845,
+    "longitude": -91.913367,
+    "city": "Elk Creek",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65466,
+    "latitude": 37.144556,
+    "longitude": -91.357626,
+    "city": "Eminence",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 65468,
+    "latitude": 37.247968,
+    "longitude": -91.783379,
+    "city": "Eunice",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65470,
+    "latitude": 37.563472,
+    "longitude": -92.385957,
+    "city": "Falcon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65473,
+    "latitude": 37.767687,
+    "longitude": -92.111975,
+    "city": "Fort Leonard Wood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65479,
+    "latitude": 37.307074,
+    "longitude": -91.73234,
+    "city": "Hartshorn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65483,
+    "latitude": 37.305192,
+    "longitude": -91.946292,
+    "city": "Houston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65484,
+    "latitude": 37.3599,
+    "longitude": -92.188628,
+    "city": "Huggins",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65486,
+    "latitude": 38.108574,
+    "longitude": -92.31017,
+    "city": "Iberia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 65501,
+    "latitude": 37.603341,
+    "longitude": -91.481225,
+    "city": "Jadwin",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65529,
+    "latitude": 37.924112,
+    "longitude": -91.983231,
+    "city": "Jerome",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65532,
+    "latitude": 37.603341,
+    "longitude": -91.481225,
+    "city": "Lake Spring",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65534,
+    "latitude": 37.718409,
+    "longitude": -92.323916,
+    "city": "Laquey",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65535,
+    "latitude": 38.074206,
+    "longitude": -91.265783,
+    "city": "Leasburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65536,
+    "latitude": 37.685459,
+    "longitude": -92.620542,
+    "city": "Lebanon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65540,
+    "latitude": 37.603341,
+    "longitude": -91.481225,
+    "city": "Lecoma",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65541,
+    "latitude": 37.603341,
+    "longitude": -91.481225,
+    "city": "Lenox",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65542,
+    "latitude": 37.390505,
+    "longitude": -91.867049,
+    "city": "Licking",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65543,
+    "latitude": 37.522073,
+    "longitude": -92.30882,
+    "city": "Lynchburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65546,
+    "latitude": 37.153294,
+    "longitude": -91.337506,
+    "city": "Montier",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 65548,
+    "latitude": 36.974825,
+    "longitude": -91.76979,
+    "city": "Mountain View",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65550,
+    "latitude": 37.839291,
+    "longitude": -91.91236,
+    "city": "Newburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65552,
+    "latitude": 37.484252,
+    "longitude": -92.157003,
+    "city": "Plato",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65555,
+    "latitude": 37.366338,
+    "longitude": -91.748856,
+    "city": "Raymondville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65556,
+    "latitude": 37.85021,
+    "longitude": -92.328289,
+    "city": "Richland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65557,
+    "latitude": 37.499376,
+    "longitude": -92.132343,
+    "city": "Roby",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65559,
+    "latitude": 37.971347,
+    "longitude": -91.636399,
+    "city": "Saint James",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Phelps"
+  },
+  {
+    "zip_code": 65560,
+    "latitude": 37.640709,
+    "longitude": -91.53927,
+    "city": "Salem",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dent"
+  },
+  {
+    "zip_code": 65564,
+    "latitude": 37.242824,
+    "longitude": -91.962351,
+    "city": "Solo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65565,
+    "latitude": 37.890403,
+    "longitude": -91.303229,
+    "city": "Steelville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65566,
+    "latitude": 37.713211,
+    "longitude": -91.133384,
+    "city": "Viburnum",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Iron"
+  },
+  {
+    "zip_code": 65567,
+    "latitude": 37.837263,
+    "longitude": -92.462635,
+    "city": "Stoutland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65570,
+    "latitude": 37.462582,
+    "longitude": -92.090859,
+    "city": "Success",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65571,
+    "latitude": 37.17649,
+    "longitude": -91.712763,
+    "city": "Summersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65572,
+    "latitude": 37.81186,
+    "longitude": -92.217391,
+    "city": "Swedeborg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65573,
+    "latitude": 37.153294,
+    "longitude": -91.337506,
+    "city": "Teresita",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 65580,
+    "latitude": 38.130967,
+    "longitude": -91.794844,
+    "city": "Vichy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Maries"
+  },
+  {
+    "zip_code": 65582,
+    "latitude": 38.16992,
+    "longitude": -91.968002,
+    "city": "Vienna",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Maries"
+  },
+  {
+    "zip_code": 65583,
+    "latitude": 37.767552,
+    "longitude": -92.210471,
+    "city": "Waynesville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65584,
+    "latitude": 37.828894,
+    "longitude": -92.131217,
+    "city": "Saint Robert",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 65586,
+    "latitude": 37.858464,
+    "longitude": -91.426693,
+    "city": "Wesco",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 65588,
+    "latitude": 36.998455,
+    "longitude": -91.331701,
+    "city": "Winona",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Shannon"
+  },
+  {
+    "zip_code": 65589,
+    "latitude": 37.23762,
+    "longitude": -91.82048,
+    "city": "Yukon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65590,
+    "latitude": 37.6596,
+    "longitude": -93.018874,
+    "city": "Long Lane",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65591,
+    "latitude": 38.034962,
+    "longitude": -92.744219,
+    "city": "Montreal",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65601,
+    "latitude": 37.534753,
+    "longitude": -93.543226,
+    "city": "Aldrich",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65603,
+    "latitude": 37.431754,
+    "longitude": -93.849903,
+    "city": "Arcola",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65604,
+    "latitude": 37.311381,
+    "longitude": -93.578642,
+    "city": "Ash Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65605,
+    "latitude": 37.005666,
+    "longitude": -93.790376,
+    "city": "Aurora",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65606,
+    "latitude": 36.692896,
+    "longitude": -91.397129,
+    "city": "Alton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Oregon"
+  },
+  {
+    "zip_code": 65607,
+    "latitude": 37.736871,
+    "longitude": -93.842468,
+    "city": "Caplinger Mills",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 65608,
+    "latitude": 36.951914,
+    "longitude": -92.665499,
+    "city": "Ava",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 65609,
+    "latitude": 36.52365,
+    "longitude": -92.144958,
+    "city": "Bakersfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65610,
+    "latitude": 37.046128,
+    "longitude": -93.405929,
+    "city": "Billings",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65611,
+    "latitude": 36.549301,
+    "longitude": -93.338838,
+    "city": "Blue Eye",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65612,
+    "latitude": 37.224385,
+    "longitude": -93.540803,
+    "city": "Bois D Arc",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65613,
+    "latitude": 37.626464,
+    "longitude": -93.413616,
+    "city": "Bolivar",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65614,
+    "latitude": 36.722523,
+    "longitude": -92.914606,
+    "city": "Bradleyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65615,
+    "latitude": 36.660981,
+    "longitude": -93.235798,
+    "city": "Branson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65616,
+    "latitude": 36.653256,
+    "longitude": -93.05634,
+    "city": "Branson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65617,
+    "latitude": 37.462457,
+    "longitude": -93.347992,
+    "city": "Brighton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65618,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Brixey",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65619,
+    "latitude": 37.139291,
+    "longitude": -93.384921,
+    "city": "Brookline Station",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65620,
+    "latitude": 37.011657,
+    "longitude": -92.951702,
+    "city": "Bruner",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65622,
+    "latitude": 37.642882,
+    "longitude": -93.090618,
+    "city": "Buffalo",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65623,
+    "latitude": 36.74901,
+    "longitude": -93.906436,
+    "city": "Butterfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65624,
+    "latitude": 36.747083,
+    "longitude": -93.458626,
+    "city": "Cape Fair",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65625,
+    "latitude": 36.683825,
+    "longitude": -93.875744,
+    "city": "Cassville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65626,
+    "latitude": 36.578961,
+    "longitude": -92.051654,
+    "city": "Caulfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65627,
+    "latitude": 36.560345,
+    "longitude": -93.014906,
+    "city": "Cedarcreek",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65629,
+    "latitude": 36.885838,
+    "longitude": -93.040981,
+    "city": "Chadwick",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65630,
+    "latitude": 36.83595,
+    "longitude": -93.229058,
+    "city": "Chestnutridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65631,
+    "latitude": 37.044729,
+    "longitude": -93.438301,
+    "city": "Clever",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65632,
+    "latitude": 37.532463,
+    "longitude": -92.72801,
+    "city": "Conway",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65633,
+    "latitude": 36.905731,
+    "longitude": -93.486809,
+    "city": "Crane",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65634,
+    "latitude": 38.024206,
+    "longitude": -93.228867,
+    "city": "Cross Timbers",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65635,
+    "latitude": 37.431754,
+    "longitude": -93.849903,
+    "city": "Dadeville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65636,
+    "latitude": 37.277247,
+    "longitude": -92.877874,
+    "city": "Diggins",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65637,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Dora",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65638,
+    "latitude": 36.932331,
+    "longitude": -92.499044,
+    "city": "Drury",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 65640,
+    "latitude": 37.698301,
+    "longitude": -93.542218,
+    "city": "Dunnegan",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65641,
+    "latitude": 36.715249,
+    "longitude": -93.825497,
+    "city": "Eagle Rock",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65644,
+    "latitude": 37.277247,
+    "longitude": -92.877874,
+    "city": "Elkland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65645,
+    "latitude": 37.476695,
+    "longitude": -93.539707,
+    "city": "Eudora",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65646,
+    "latitude": 37.34335,
+    "longitude": -93.702108,
+    "city": "Everton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65647,
+    "latitude": 36.677628,
+    "longitude": -93.927466,
+    "city": "Exeter",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65648,
+    "latitude": 37.370209,
+    "longitude": -93.175093,
+    "city": "Fair Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65649,
+    "latitude": 37.631792,
+    "longitude": -93.559197,
+    "city": "Fair Play",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65650,
+    "latitude": 37.739853,
+    "longitude": -93.463116,
+    "city": "Flemington",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65652,
+    "latitude": 37.165856,
+    "longitude": -92.958202,
+    "city": "Fordland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65653,
+    "latitude": 36.726771,
+    "longitude": -93.107824,
+    "city": "Forsyth",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65654,
+    "latitude": 37.021147,
+    "longitude": -93.897434,
+    "city": "Freistatt",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65655,
+    "latitude": 36.605575,
+    "longitude": -92.415322,
+    "city": "Gainesville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65656,
+    "latitude": 36.780532,
+    "longitude": -93.406941,
+    "city": "Galena",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65657,
+    "latitude": 36.863017,
+    "longitude": -92.99999,
+    "city": "Garrison",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65658,
+    "latitude": 36.715249,
+    "longitude": -93.825497,
+    "city": "Golden",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65659,
+    "latitude": 37.750035,
+    "longitude": -93.246729,
+    "city": "Goodson",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65660,
+    "latitude": 37.345392,
+    "longitude": -92.278799,
+    "city": "Graff",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65661,
+    "latitude": 37.406208,
+    "longitude": -93.895184,
+    "city": "Greenfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65662,
+    "latitude": 37.396509,
+    "longitude": -92.581914,
+    "city": "Grovespring",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65663,
+    "latitude": 37.630967,
+    "longitude": -93.258038,
+    "city": "Half Way",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65664,
+    "latitude": 37.194385,
+    "longitude": -93.627547,
+    "city": "Halltown",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65666,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Hardenville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65667,
+    "latitude": 37.319401,
+    "longitude": -92.512497,
+    "city": "Hartville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65668,
+    "latitude": 37.946659,
+    "longitude": -93.320033,
+    "city": "Hermitage",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65669,
+    "latitude": 36.921415,
+    "longitude": -93.280185,
+    "city": "Highlandville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65672,
+    "latitude": 36.630652,
+    "longitude": -93.17315,
+    "city": "Hollister",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65673,
+    "latitude": 36.617892,
+    "longitude": -93.216187,
+    "city": "Hollister",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65674,
+    "latitude": 37.729288,
+    "longitude": -93.554646,
+    "city": "Humansville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65675,
+    "latitude": 36.930494,
+    "longitude": -93.496491,
+    "city": "Hurley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65676,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Isabella",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65679,
+    "latitude": 36.579153,
+    "longitude": -93.126321,
+    "city": "Kirbyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65680,
+    "latitude": 36.69779,
+    "longitude": -92.985076,
+    "city": "Kissee Mills",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65681,
+    "latitude": 36.747083,
+    "longitude": -93.458626,
+    "city": "Lampe",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65682,
+    "latitude": 37.38595,
+    "longitude": -93.954122,
+    "city": "Lockwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65685,
+    "latitude": 37.6596,
+    "longitude": -93.018874,
+    "city": "Louisburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65686,
+    "latitude": 36.638577,
+    "longitude": -93.432117,
+    "city": "Kimberling City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65688,
+    "latitude": 36.648817,
+    "longitude": -91.697596,
+    "city": "Brandsville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65689,
+    "latitude": 37.193593,
+    "longitude": -92.078527,
+    "city": "Cabool",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Texas"
+  },
+  {
+    "zip_code": 65690,
+    "latitude": 36.692896,
+    "longitude": -91.397129,
+    "city": "Couch",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Oregon"
+  },
+  {
+    "zip_code": 65692,
+    "latitude": 36.596757,
+    "longitude": -91.645491,
+    "city": "Koshkonong",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Oregon"
+  },
+  {
+    "zip_code": 65701,
+    "latitude": 36.702612,
+    "longitude": -92.781063,
+    "city": "Mc Clurg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65702,
+    "latitude": 37.100803,
+    "longitude": -92.535335,
+    "city": "Macomb",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65704,
+    "latitude": 37.168407,
+    "longitude": -92.573487,
+    "city": "Mansfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65705,
+    "latitude": 37.065338,
+    "longitude": -93.628454,
+    "city": "Marionville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65706,
+    "latitude": 37.274421,
+    "longitude": -92.932494,
+    "city": "Marshfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65707,
+    "latitude": 37.229699,
+    "longitude": -93.847381,
+    "city": "Miller",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65708,
+    "latitude": 36.802435,
+    "longitude": -93.934986,
+    "city": "Monett",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65710,
+    "latitude": 37.488021,
+    "longitude": -93.439073,
+    "city": "Morrisville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65711,
+    "latitude": 37.265652,
+    "longitude": -92.432734,
+    "city": "Mountain Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65712,
+    "latitude": 37.064637,
+    "longitude": -93.824061,
+    "city": "Mount Vernon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65713,
+    "latitude": 37.318077,
+    "longitude": -92.757673,
+    "city": "Niangua",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65714,
+    "latitude": 36.961768,
+    "longitude": -93.237749,
+    "city": "Nixa",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65715,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Noble",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65717,
+    "latitude": 37.160913,
+    "longitude": -92.415178,
+    "city": "Norwood",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Wright"
+  },
+  {
+    "zip_code": 65720,
+    "latitude": 36.972932,
+    "longitude": -93.096909,
+    "city": "Oldfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65721,
+    "latitude": 36.972577,
+    "longitude": -93.122301,
+    "city": "Ozark",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65722,
+    "latitude": 37.577499,
+    "longitude": -92.759488,
+    "city": "Phillipsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Laclede"
+  },
+  {
+    "zip_code": 65723,
+    "latitude": 36.984539,
+    "longitude": -93.97419,
+    "city": "Pierce City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65724,
+    "latitude": 37.845874,
+    "longitude": -93.305582,
+    "city": "Pittsburg",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65725,
+    "latitude": 37.455661,
+    "longitude": -93.265019,
+    "city": "Pleasant Hope",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65726,
+    "latitude": 36.616515,
+    "longitude": -93.241839,
+    "city": "Point Lookout",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65727,
+    "latitude": 37.743835,
+    "longitude": -93.320582,
+    "city": "Polk",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Polk"
+  },
+  {
+    "zip_code": 65728,
+    "latitude": 36.747083,
+    "longitude": -93.458626,
+    "city": "Ponce De Leon",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65729,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Pontiac",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65730,
+    "latitude": 36.632573,
+    "longitude": -94.342802,
+    "city": "Powell",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Mcdonald"
+  },
+  {
+    "zip_code": 65731,
+    "latitude": 36.657825,
+    "longitude": -93.124271,
+    "city": "Powersite",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65732,
+    "latitude": 37.942744,
+    "longitude": -93.324817,
+    "city": "Preston",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65733,
+    "latitude": 36.546632,
+    "longitude": -93.02939,
+    "city": "Protem",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65734,
+    "latitude": 36.78885,
+    "longitude": -93.917312,
+    "city": "Purdy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65735,
+    "latitude": 37.937887,
+    "longitude": -93.319651,
+    "city": "Quincy",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65737,
+    "latitude": 36.690661,
+    "longitude": -93.344687,
+    "city": "Reeds Spring",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Stone"
+  },
+  {
+    "zip_code": 65738,
+    "latitude": 37.256089,
+    "longitude": -93.501003,
+    "city": "Republic",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65739,
+    "latitude": 36.610226,
+    "longitude": -93.230334,
+    "city": "Ridgedale",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65740,
+    "latitude": 36.714583,
+    "longitude": -93.158501,
+    "city": "Rockaway Beach",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65741,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Rockbridge",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65742,
+    "latitude": 37.224224,
+    "longitude": -92.983202,
+    "city": "Rogersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65744,
+    "latitude": 36.628353,
+    "longitude": -92.909254,
+    "city": "Rueter",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65745,
+    "latitude": 36.527016,
+    "longitude": -93.937458,
+    "city": "Seligman",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65746,
+    "latitude": 37.17598,
+    "longitude": -92.820353,
+    "city": "Seymour",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 65747,
+    "latitude": 36.715249,
+    "longitude": -93.825497,
+    "city": "Shell Knob",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65752,
+    "latitude": 37.431754,
+    "longitude": -93.849903,
+    "city": "South Greenfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 65753,
+    "latitude": 36.993376,
+    "longitude": -93.039554,
+    "city": "Sparta",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65754,
+    "latitude": 36.854253,
+    "longitude": -93.292806,
+    "city": "Spokane",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Christian"
+  },
+  {
+    "zip_code": 65755,
+    "latitude": 36.932331,
+    "longitude": -92.499044,
+    "city": "Squires",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 65756,
+    "latitude": 37.104238,
+    "longitude": -93.995261,
+    "city": "Stotts City",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65757,
+    "latitude": 37.310494,
+    "longitude": -93.307207,
+    "city": "Strafford",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65759,
+    "latitude": 36.750537,
+    "longitude": -93.016322,
+    "city": "Taneyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65760,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Tecumseh",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65761,
+    "latitude": 36.583048,
+    "longitude": -92.662803,
+    "city": "Theodosia",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65762,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Thornfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65764,
+    "latitude": 37.6596,
+    "longitude": -93.018874,
+    "city": "Tunas",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65765,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Turners",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65766,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Udall",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65767,
+    "latitude": 37.803727,
+    "longitude": -93.154651,
+    "city": "Urbana",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65768,
+    "latitude": 36.932331,
+    "longitude": -92.499044,
+    "city": "Vanzant",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 65769,
+    "latitude": 36.985316,
+    "longitude": -93.809406,
+    "city": "Verona",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 65770,
+    "latitude": 37.369849,
+    "longitude": -93.343077,
+    "city": "Walnut Grove",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65771,
+    "latitude": 36.772257,
+    "longitude": -93.222445,
+    "city": "Walnut Shade",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Taney"
+  },
+  {
+    "zip_code": 65772,
+    "latitude": 36.62333,
+    "longitude": -93.940707,
+    "city": "Washburn",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Barry"
+  },
+  {
+    "zip_code": 65773,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Wasola",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65774,
+    "latitude": 37.891711,
+    "longitude": -93.540576,
+    "city": "Weaubleau",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65775,
+    "latitude": 36.74651,
+    "longitude": -91.882912,
+    "city": "West Plains",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65776,
+    "latitude": 36.629135,
+    "longitude": -91.986785,
+    "city": "South Fork",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65777,
+    "latitude": 36.581303,
+    "longitude": -91.989349,
+    "city": "Moody",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65778,
+    "latitude": 36.692896,
+    "longitude": -91.397129,
+    "city": "Myrtle",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Oregon"
+  },
+  {
+    "zip_code": 65779,
+    "latitude": 37.944587,
+    "longitude": -93.365137,
+    "city": "Wheatland",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Hickory"
+  },
+  {
+    "zip_code": 65781,
+    "latitude": 37.348973,
+    "longitude": -93.315876,
+    "city": "Willard",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65783,
+    "latitude": 37.6596,
+    "longitude": -93.018874,
+    "city": "Windyville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Dallas"
+  },
+  {
+    "zip_code": 65784,
+    "latitude": 36.651607,
+    "longitude": -92.442341,
+    "city": "Zanoni",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Ozark"
+  },
+  {
+    "zip_code": 65785,
+    "latitude": 37.681676,
+    "longitude": -93.797692,
+    "city": "Stockton",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Cedar"
+  },
+  {
+    "zip_code": 65786,
+    "latitude": 38.034962,
+    "longitude": -92.744219,
+    "city": "Macks Creek",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65787,
+    "latitude": 38.102482,
+    "longitude": -92.914785,
+    "city": "Roach",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 65788,
+    "latitude": 36.870043,
+    "longitude": -91.777528,
+    "city": "Peace Valley",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65789,
+    "latitude": 36.876581,
+    "longitude": -91.895914,
+    "city": "Pomona",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65790,
+    "latitude": 36.701608,
+    "longitude": -92.04286,
+    "city": "Pottersville",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65791,
+    "latitude": 36.526267,
+    "longitude": -91.548742,
+    "city": "Thayer",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Oregon"
+  },
+  {
+    "zip_code": 65793,
+    "latitude": 36.933184,
+    "longitude": -91.89891,
+    "city": "Willow Springs",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Howell"
+  },
+  {
+    "zip_code": 65801,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65802,
+    "latitude": 37.18457,
+    "longitude": -93.31994,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65803,
+    "latitude": 37.299377,
+    "longitude": -93.324456,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65804,
+    "latitude": 37.151377,
+    "longitude": -93.238034,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65805,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65806,
+    "latitude": 37.177044,
+    "longitude": -93.303288,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65807,
+    "latitude": 37.158811,
+    "longitude": -93.348705,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65808,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65809,
+    "latitude": 37.150649,
+    "longitude": -93.21641,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65810,
+    "latitude": 37.122249,
+    "longitude": -93.31318,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65814,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65817,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65890,
+    "latitude": 37.25807,
+    "longitude": -93.343673,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65898,
+    "latitude": 37.180349,
+    "longitude": -93.295137,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 65899,
+    "latitude": 37.181498,
+    "longitude": -93.259586,
+    "city": "Springfield",
+    "state": "MO",
+    "full_state": "Missouri",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 66002,
+    "latitude": 39.535948,
+    "longitude": -95.225098,
+    "city": "Atchison",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66006,
+    "latitude": 38.821502,
+    "longitude": -95.223906,
+    "city": "Baldwin City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66007,
+    "latitude": 39.133448,
+    "longitude": -94.947234,
+    "city": "Basehor",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66008,
+    "latitude": 39.712615,
+    "longitude": -95.186894,
+    "city": "Bendena",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66010,
+    "latitude": 38.089756,
+    "longitude": -95.007693,
+    "city": "Blue Mound",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66012,
+    "latitude": 39.068153,
+    "longitude": -94.763938,
+    "city": "Bonner Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66013,
+    "latitude": 38.676056,
+    "longitude": -94.685052,
+    "city": "Bucyrus",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66014,
+    "latitude": 38.282583,
+    "longitude": -94.890305,
+    "city": "Centerville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66015,
+    "latitude": 38.213685,
+    "longitude": -95.299014,
+    "city": "Colony",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66016,
+    "latitude": 39.483518,
+    "longitude": -95.240978,
+    "city": "Cummings",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66017,
+    "latitude": 39.70398,
+    "longitude": -95.103098,
+    "city": "Denton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66018,
+    "latitude": 38.946156,
+    "longitude": -94.97143,
+    "city": "De Soto",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66019,
+    "latitude": 38.946041,
+    "longitude": -95.003661,
+    "city": "Clearview City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66020,
+    "latitude": 39.339141,
+    "longitude": -95.099858,
+    "city": "Easton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66021,
+    "latitude": 38.817766,
+    "longitude": -94.94316,
+    "city": "Edgerton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66023,
+    "latitude": 39.507561,
+    "longitude": -95.393716,
+    "city": "Effingham",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66024,
+    "latitude": 39.757262,
+    "longitude": -94.882439,
+    "city": "Elwood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66025,
+    "latitude": 38.879142,
+    "longitude": -95.125903,
+    "city": "Eudora",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66026,
+    "latitude": 38.417885,
+    "longitude": -94.88344,
+    "city": "Fontana",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66027,
+    "latitude": 39.346798,
+    "longitude": -94.931329,
+    "city": "Fort Leavenworth",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66030,
+    "latitude": 38.814998,
+    "longitude": -94.94139,
+    "city": "Gardner",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66031,
+    "latitude": 38.824863,
+    "longitude": -94.899201,
+    "city": "New Century",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66032,
+    "latitude": 38.232767,
+    "longitude": -95.286458,
+    "city": "Garnett",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66033,
+    "latitude": 38.346417,
+    "longitude": -95.139231,
+    "city": "Greeley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66035,
+    "latitude": 39.878677,
+    "longitude": -95.227692,
+    "city": "Highland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66036,
+    "latitude": 38.658068,
+    "longitude": -94.852061,
+    "city": "Hillsdale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66039,
+    "latitude": 38.110393,
+    "longitude": -95.188557,
+    "city": "Kincaid",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66040,
+    "latitude": 38.362869,
+    "longitude": -94.731773,
+    "city": "La Cygne",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66041,
+    "latitude": 39.536445,
+    "longitude": -95.306304,
+    "city": "Lancaster",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66042,
+    "latitude": 38.550993,
+    "longitude": -95.263735,
+    "city": "Lane",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66043,
+    "latitude": 39.233204,
+    "longitude": -94.883026,
+    "city": "Lansing",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66044,
+    "latitude": 38.907518,
+    "longitude": -95.283982,
+    "city": "Lawrence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66045,
+    "latitude": 38.952526,
+    "longitude": -95.275623,
+    "city": "Lawrence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66046,
+    "latitude": 38.878682,
+    "longitude": -95.315453,
+    "city": "Lawrence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66047,
+    "latitude": 38.88437,
+    "longitude": -95.338066,
+    "city": "Lawrence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66048,
+    "latitude": 39.279656,
+    "longitude": -94.982216,
+    "city": "Leavenworth",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66049,
+    "latitude": 38.903685,
+    "longitude": -95.344647,
+    "city": "Lawrence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66050,
+    "latitude": 39.004574,
+    "longitude": -95.417804,
+    "city": "Lecompton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 66051,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Olathe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66052,
+    "latitude": 39.00755,
+    "longitude": -95.056044,
+    "city": "Linwood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66053,
+    "latitude": 38.587195,
+    "longitude": -94.689876,
+    "city": "Louisburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66054,
+    "latitude": 39.198095,
+    "longitude": -95.231788,
+    "city": "Mc Louth",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66056,
+    "latitude": 38.243571,
+    "longitude": -94.766019,
+    "city": "Mound City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66058,
+    "latitude": 39.529523,
+    "longitude": -95.483992,
+    "city": "Muscotah",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66060,
+    "latitude": 39.383848,
+    "longitude": -95.319744,
+    "city": "Nortonville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66061,
+    "latitude": 38.891427,
+    "longitude": -94.881709,
+    "city": "Olathe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66062,
+    "latitude": 38.847391,
+    "longitude": -94.778714,
+    "city": "Olathe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66063,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Olathe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66064,
+    "latitude": 38.558533,
+    "longitude": -94.891655,
+    "city": "Osawatomie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66066,
+    "latitude": 39.255747,
+    "longitude": -95.356589,
+    "city": "Oskaloosa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66067,
+    "latitude": 38.564337,
+    "longitude": -95.282668,
+    "city": "Ottawa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66070,
+    "latitude": 39.17715,
+    "longitude": -95.456501,
+    "city": "Ozawkie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66071,
+    "latitude": 38.577932,
+    "longitude": -94.880328,
+    "city": "Paola",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 66072,
+    "latitude": 38.255903,
+    "longitude": -94.852908,
+    "city": "Parker",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66073,
+    "latitude": 39.229717,
+    "longitude": -95.396681,
+    "city": "Perry",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66075,
+    "latitude": 38.176349,
+    "longitude": -94.713323,
+    "city": "Pleasanton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66076,
+    "latitude": 38.61504,
+    "longitude": -95.3418,
+    "city": "Pomona",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66077,
+    "latitude": 39.423624,
+    "longitude": -95.140829,
+    "city": "Potter",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Atchison"
+  },
+  {
+    "zip_code": 66078,
+    "latitude": 38.470428,
+    "longitude": -95.258362,
+    "city": "Princeton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66079,
+    "latitude": 38.550188,
+    "longitude": -95.138748,
+    "city": "Rantoul",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66080,
+    "latitude": 38.436338,
+    "longitude": -95.312506,
+    "city": "Richmond",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66083,
+    "latitude": 38.789323,
+    "longitude": -94.788441,
+    "city": "Spring Hill",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66085,
+    "latitude": 38.81799,
+    "longitude": -94.656698,
+    "city": "Stilwell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66086,
+    "latitude": 39.115489,
+    "longitude": -95.084717,
+    "city": "Tonganoxie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Leavenworth"
+  },
+  {
+    "zip_code": 66087,
+    "latitude": 39.790573,
+    "longitude": -95.143417,
+    "city": "Troy",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66088,
+    "latitude": 39.248329,
+    "longitude": -95.428183,
+    "city": "Valley Falls",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66090,
+    "latitude": 39.806075,
+    "longitude": -95.083528,
+    "city": "Wathena",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66091,
+    "latitude": 38.150424,
+    "longitude": -95.343798,
+    "city": "Welda",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66092,
+    "latitude": 38.642244,
+    "longitude": -95.149986,
+    "city": "Wellsville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66093,
+    "latitude": 38.210603,
+    "longitude": -95.457728,
+    "city": "Westphalia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Anderson"
+  },
+  {
+    "zip_code": 66094,
+    "latitude": 39.873744,
+    "longitude": -95.29357,
+    "city": "White Cloud",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Doniphan"
+  },
+  {
+    "zip_code": 66095,
+    "latitude": 38.47913,
+    "longitude": -95.406321,
+    "city": "Williamsburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 66097,
+    "latitude": 39.2314,
+    "longitude": -95.285222,
+    "city": "Winchester",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66101,
+    "latitude": 39.103053,
+    "longitude": -94.630384,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66102,
+    "latitude": 39.101553,
+    "longitude": -94.750537,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66103,
+    "latitude": 39.066804,
+    "longitude": -94.628184,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66104,
+    "latitude": 39.145049,
+    "longitude": -94.688896,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66105,
+    "latitude": 39.082662,
+    "longitude": -94.635528,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66106,
+    "latitude": 39.069404,
+    "longitude": -94.717837,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66109,
+    "latitude": 39.143692,
+    "longitude": -94.817719,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66110,
+    "latitude": 39.096551,
+    "longitude": -94.749538,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66111,
+    "latitude": 39.086354,
+    "longitude": -94.786033,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66112,
+    "latitude": 39.116953,
+    "longitude": -94.765822,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66113,
+    "latitude": 39.073539,
+    "longitude": -94.723271,
+    "city": "Edwardsville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66115,
+    "latitude": 39.136353,
+    "longitude": -94.615984,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66117,
+    "latitude": 39.096551,
+    "longitude": -94.749538,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66118,
+    "latitude": 39.101054,
+    "longitude": -94.614434,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66119,
+    "latitude": 39.096551,
+    "longitude": -94.749538,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66160,
+    "latitude": 39.096551,
+    "longitude": -94.749538,
+    "city": "Kansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wyandotte"
+  },
+  {
+    "zip_code": 66201,
+    "latitude": 39.007755,
+    "longitude": -94.679486,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66202,
+    "latitude": 39.024819,
+    "longitude": -94.682563,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66203,
+    "latitude": 39.015629,
+    "longitude": -94.693187,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66204,
+    "latitude": 38.974815,
+    "longitude": -94.683188,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66205,
+    "latitude": 38.994381,
+    "longitude": -94.827369,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66206,
+    "latitude": 38.959356,
+    "longitude": -94.716155,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66207,
+    "latitude": 38.955156,
+    "longitude": -94.644701,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66208,
+    "latitude": 38.993805,
+    "longitude": -94.634038,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66209,
+    "latitude": 38.898356,
+    "longitude": -94.637684,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66210,
+    "latitude": 38.927256,
+    "longitude": -94.714336,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66211,
+    "latitude": 38.924838,
+    "longitude": -94.637888,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66212,
+    "latitude": 38.956806,
+    "longitude": -94.683236,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66213,
+    "latitude": 38.898243,
+    "longitude": -94.704936,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66214,
+    "latitude": 38.964879,
+    "longitude": -94.720914,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66215,
+    "latitude": 38.949007,
+    "longitude": -94.740503,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66216,
+    "latitude": 39.014655,
+    "longitude": -94.741448,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66217,
+    "latitude": 39.014604,
+    "longitude": -94.770868,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66218,
+    "latitude": 39.014005,
+    "longitude": -94.81079,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66219,
+    "latitude": 38.955326,
+    "longitude": -94.779899,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66220,
+    "latitude": 38.961334,
+    "longitude": -94.822249,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66221,
+    "latitude": 38.861933,
+    "longitude": -94.714388,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66222,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66223,
+    "latitude": 38.861887,
+    "longitude": -94.660994,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66224,
+    "latitude": 38.859094,
+    "longitude": -94.631442,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66225,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66226,
+    "latitude": 39.017826,
+    "longitude": -94.862667,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66227,
+    "latitude": 38.974684,
+    "longitude": -94.868066,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66250,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66251,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66276,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66279,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66282,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66283,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66285,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66286,
+    "latitude": 38.899901,
+    "longitude": -94.831991,
+    "city": "Shawnee Mission",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 66401,
+    "latitude": 38.953556,
+    "longitude": -96.204558,
+    "city": "Alma",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66402,
+    "latitude": 38.916916,
+    "longitude": -95.839181,
+    "city": "Auburn",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66403,
+    "latitude": 39.885826,
+    "longitude": -96.295457,
+    "city": "Axtell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66404,
+    "latitude": 39.753031,
+    "longitude": -96.108737,
+    "city": "Baileyville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66406,
+    "latitude": 39.906945,
+    "longitude": -96.416779,
+    "city": "Beattie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66407,
+    "latitude": 39.277337,
+    "longitude": -96.164714,
+    "city": "Belvue",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66408,
+    "latitude": 39.960927,
+    "longitude": -95.967077,
+    "city": "Bern",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66409,
+    "latitude": 38.927847,
+    "longitude": -95.584708,
+    "city": "Berryton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66411,
+    "latitude": 39.713306,
+    "longitude": -96.563601,
+    "city": "Blue Rapids",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66412,
+    "latitude": 39.907206,
+    "longitude": -96.758998,
+    "city": "Bremen",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66413,
+    "latitude": 38.73799,
+    "longitude": -95.815754,
+    "city": "Burlingame",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66414,
+    "latitude": 38.811675,
+    "longitude": -95.706138,
+    "city": "Carbondale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66415,
+    "latitude": 39.697428,
+    "longitude": -96.032867,
+    "city": "Centralia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66416,
+    "latitude": 39.528134,
+    "longitude": -95.848729,
+    "city": "Circleville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66417,
+    "latitude": 39.654314,
+    "longitude": -96.031758,
+    "city": "Corning",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66418,
+    "latitude": 39.300065,
+    "longitude": -95.900691,
+    "city": "Delia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66419,
+    "latitude": 39.353979,
+    "longitude": -95.612718,
+    "city": "Denison",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66420,
+    "latitude": 38.964532,
+    "longitude": -95.917186,
+    "city": "Dover",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66422,
+    "latitude": 39.347682,
+    "longitude": -96.10416,
+    "city": "Emmett",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66423,
+    "latitude": 38.858895,
+    "longitude": -96.145799,
+    "city": "Eskridge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66424,
+    "latitude": 39.699141,
+    "longitude": -95.462469,
+    "city": "Everest",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66425,
+    "latitude": 39.821847,
+    "longitude": -95.727038,
+    "city": "Fairview",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66426,
+    "latitude": 39.43982,
+    "longitude": -96.506769,
+    "city": "Fostoria",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66427,
+    "latitude": 39.733313,
+    "longitude": -96.522272,
+    "city": "Frankfort",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66428,
+    "latitude": 39.664216,
+    "longitude": -95.930454,
+    "city": "Goff",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66429,
+    "latitude": 39.104047,
+    "longitude": -95.539169,
+    "city": "Grantville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66431,
+    "latitude": 38.789698,
+    "longitude": -95.963421,
+    "city": "Harveyville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66432,
+    "latitude": 39.44655,
+    "longitude": -96.37473,
+    "city": "Havensville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66434,
+    "latitude": 39.791367,
+    "longitude": -95.600405,
+    "city": "Hiawatha",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66436,
+    "latitude": 39.481012,
+    "longitude": -95.765586,
+    "city": "Holton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66438,
+    "latitude": 39.848788,
+    "longitude": -96.506345,
+    "city": "Home",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66439,
+    "latitude": 39.664076,
+    "longitude": -95.527212,
+    "city": "Horton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66440,
+    "latitude": 39.305187,
+    "longitude": -95.685374,
+    "city": "Hoyt",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66441,
+    "latitude": 39.026465,
+    "longitude": -96.783359,
+    "city": "Junction City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Geary"
+  },
+  {
+    "zip_code": 66442,
+    "latitude": 39.113738,
+    "longitude": -96.837821,
+    "city": "Fort Riley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Geary"
+  },
+  {
+    "zip_code": 66449,
+    "latitude": 39.401675,
+    "longitude": -96.848345,
+    "city": "Leonardville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66450,
+    "latitude": 39.261802,
+    "longitude": -96.333203,
+    "city": "Louisville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66451,
+    "latitude": 38.622848,
+    "longitude": -95.656131,
+    "city": "Lyndon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66501,
+    "latitude": 39.053494,
+    "longitude": -96.237918,
+    "city": "Mc Farland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66502,
+    "latitude": 39.209375,
+    "longitude": -96.564589,
+    "city": "Manhattan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66503,
+    "latitude": 39.245797,
+    "longitude": -96.633596,
+    "city": "Manhattan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66505,
+    "latitude": 39.304937,
+    "longitude": -96.675295,
+    "city": "Manhattan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66506,
+    "latitude": 39.196032,
+    "longitude": -96.583875,
+    "city": "Manhattan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66507,
+    "latitude": 39.070808,
+    "longitude": -96.131584,
+    "city": "Maple Hill",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66508,
+    "latitude": 39.863544,
+    "longitude": -96.617219,
+    "city": "Marysville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66509,
+    "latitude": 39.312432,
+    "longitude": -95.760939,
+    "city": "Mayetta",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66510,
+    "latitude": 38.499728,
+    "longitude": -95.611239,
+    "city": "Melvern",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66512,
+    "latitude": 39.202791,
+    "longitude": -95.530598,
+    "city": "Meriden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 66514,
+    "latitude": 39.127855,
+    "longitude": -96.874028,
+    "city": "Milford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Geary"
+  },
+  {
+    "zip_code": 66515,
+    "latitude": 39.923097,
+    "longitude": -95.694761,
+    "city": "Morrill",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66516,
+    "latitude": 39.601523,
+    "longitude": -95.716332,
+    "city": "Netawaka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66517,
+    "latitude": 39.115313,
+    "longitude": -96.71009,
+    "city": "Ogden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66518,
+    "latitude": 39.964838,
+    "longitude": -96.551054,
+    "city": "Oketo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66520,
+    "latitude": 39.411089,
+    "longitude": -96.439613,
+    "city": "Olsburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66521,
+    "latitude": 39.442426,
+    "longitude": -96.34428,
+    "city": "Onaga",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66522,
+    "latitude": 39.865912,
+    "longitude": -95.93919,
+    "city": "Oneida",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66523,
+    "latitude": 38.629558,
+    "longitude": -95.737112,
+    "city": "Osage City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66524,
+    "latitude": 38.724549,
+    "longitude": -95.574894,
+    "city": "Overbrook",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66526,
+    "latitude": 39.069282,
+    "longitude": -96.167821,
+    "city": "Paxico",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66527,
+    "latitude": 39.761448,
+    "longitude": -95.635089,
+    "city": "Powhattan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66528,
+    "latitude": 38.634939,
+    "longitude": -95.55521,
+    "city": "Quenemo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66531,
+    "latitude": 39.300456,
+    "longitude": -96.822207,
+    "city": "Riley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66532,
+    "latitude": 39.818216,
+    "longitude": -95.456658,
+    "city": "Robinson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 66533,
+    "latitude": 39.158392,
+    "longitude": -95.959031,
+    "city": "Rossville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66534,
+    "latitude": 39.899941,
+    "longitude": -95.802372,
+    "city": "Sabetha",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66535,
+    "latitude": 39.28971,
+    "longitude": -96.435394,
+    "city": "Saint George",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66536,
+    "latitude": 39.256719,
+    "longitude": -96.128154,
+    "city": "Saint Marys",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66537,
+    "latitude": 38.74633,
+    "longitude": -95.675159,
+    "city": "Scranton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66538,
+    "latitude": 39.847328,
+    "longitude": -96.031629,
+    "city": "Seneca",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66539,
+    "latitude": 39.151302,
+    "longitude": -95.86381,
+    "city": "Silver Lake",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66540,
+    "latitude": 39.478973,
+    "longitude": -95.825452,
+    "city": "Soldier",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66541,
+    "latitude": 39.847244,
+    "longitude": -96.510692,
+    "city": "Summerfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66542,
+    "latitude": 39.002048,
+    "longitude": -95.628841,
+    "city": "Tecumseh",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66543,
+    "latitude": 38.641898,
+    "longitude": -95.601158,
+    "city": "Vassar",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osage"
+  },
+  {
+    "zip_code": 66544,
+    "latitude": 39.689591,
+    "longitude": -96.495257,
+    "city": "Vermillion",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66546,
+    "latitude": 38.905693,
+    "longitude": -95.729868,
+    "city": "Wakarusa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66547,
+    "latitude": 39.298416,
+    "longitude": -96.341383,
+    "city": "Wamego",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66548,
+    "latitude": 39.763462,
+    "longitude": -96.701387,
+    "city": "Waterville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66549,
+    "latitude": 39.4138,
+    "longitude": -96.437389,
+    "city": "Westmoreland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66550,
+    "latitude": 39.636115,
+    "longitude": -95.811894,
+    "city": "Wetmore",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Nemaha"
+  },
+  {
+    "zip_code": 66551,
+    "latitude": 39.471738,
+    "longitude": -96.257561,
+    "city": "Wheaton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pottawatomie"
+  },
+  {
+    "zip_code": 66552,
+    "latitude": 39.59411,
+    "longitude": -95.639154,
+    "city": "Whiting",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 66554,
+    "latitude": 39.465421,
+    "longitude": -96.806367,
+    "city": "Randolph",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Riley"
+  },
+  {
+    "zip_code": 66555,
+    "latitude": 39.783753,
+    "longitude": -96.522806,
+    "city": "Marysville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 66601,
+    "latitude": 38.988075,
+    "longitude": -95.780662,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66603,
+    "latitude": 39.05215,
+    "longitude": -95.675758,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66604,
+    "latitude": 39.045716,
+    "longitude": -95.758369,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66605,
+    "latitude": 39.01115,
+    "longitude": -95.592088,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66606,
+    "latitude": 39.059349,
+    "longitude": -95.72161,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66607,
+    "latitude": 39.044349,
+    "longitude": -95.630107,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66608,
+    "latitude": 39.080299,
+    "longitude": -95.645607,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66609,
+    "latitude": 38.96474,
+    "longitude": -95.615101,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66610,
+    "latitude": 38.975466,
+    "longitude": -95.817109,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66611,
+    "latitude": 39.0152,
+    "longitude": -95.695559,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66612,
+    "latitude": 39.04045,
+    "longitude": -95.679459,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66614,
+    "latitude": 39.017305,
+    "longitude": -95.779995,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66615,
+    "latitude": 39.055155,
+    "longitude": -95.854169,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66616,
+    "latitude": 39.065477,
+    "longitude": -95.626357,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66617,
+    "latitude": 39.15275,
+    "longitude": -95.793795,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66618,
+    "latitude": 39.139907,
+    "longitude": -95.801975,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66619,
+    "latitude": 38.953556,
+    "longitude": -95.723636,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66620,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66621,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66622,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66624,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66625,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66626,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66628,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66629,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66634,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66636,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66637,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66638,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66642,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66647,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66652,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66653,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66658,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66667,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66675,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66683,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66686,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66692,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66699,
+    "latitude": 39.042939,
+    "longitude": -95.769657,
+    "city": "Topeka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Shawnee"
+  },
+  {
+    "zip_code": 66701,
+    "latitude": 37.821629,
+    "longitude": -94.714793,
+    "city": "Fort Scott",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66710,
+    "latitude": 37.525023,
+    "longitude": -95.661801,
+    "city": "Altoona",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66711,
+    "latitude": 37.601241,
+    "longitude": -94.697518,
+    "city": "Arcadia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66712,
+    "latitude": 37.557295,
+    "longitude": -94.694906,
+    "city": "Arma",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66713,
+    "latitude": 37.139184,
+    "longitude": -94.789814,
+    "city": "Baxter Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66714,
+    "latitude": 37.611817,
+    "longitude": -95.703812,
+    "city": "Benedict",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66716,
+    "latitude": 37.874455,
+    "longitude": -95.02624,
+    "city": "Bronson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66717,
+    "latitude": 37.614292,
+    "longitude": -95.703647,
+    "city": "Buffalo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66720,
+    "latitude": 37.609218,
+    "longitude": -95.416422,
+    "city": "Chanute",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66724,
+    "latitude": 37.368216,
+    "longitude": -94.832276,
+    "city": "Cherokee",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66725,
+    "latitude": 37.169887,
+    "longitude": -94.889857,
+    "city": "Columbus",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66727,
+    "latitude": 37.559151,
+    "longitude": -95.743835,
+    "city": "Coyville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66728,
+    "latitude": 37.16944,
+    "longitude": -94.704133,
+    "city": "Crestline",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66732,
+    "latitude": 37.838456,
+    "longitude": -95.215073,
+    "city": "Elsmore",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66733,
+    "latitude": 37.580055,
+    "longitude": -95.29892,
+    "city": "Erie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66734,
+    "latitude": 37.624035,
+    "longitude": -94.798259,
+    "city": "Farlington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66735,
+    "latitude": 37.437747,
+    "longitude": -94.683265,
+    "city": "Franklin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66736,
+    "latitude": 37.571672,
+    "longitude": -95.748418,
+    "city": "Fredonia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66738,
+    "latitude": 38.01017,
+    "longitude": -94.720191,
+    "city": "Fulton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66739,
+    "latitude": 37.15456,
+    "longitude": -94.833896,
+    "city": "Galena",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66740,
+    "latitude": 37.472432,
+    "longitude": -95.370691,
+    "city": "Galesburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66741,
+    "latitude": 37.855416,
+    "longitude": -94.850996,
+    "city": "Garland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66742,
+    "latitude": 37.923162,
+    "longitude": -95.346697,
+    "city": "Gas",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66743,
+    "latitude": 37.471611,
+    "longitude": -94.881385,
+    "city": "Girard",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66746,
+    "latitude": 37.638333,
+    "longitude": -94.942113,
+    "city": "Hepler",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66748,
+    "latitude": 37.829342,
+    "longitude": -95.34549,
+    "city": "Humboldt",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66749,
+    "latitude": 37.885757,
+    "longitude": -95.391057,
+    "city": "Iola",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66751,
+    "latitude": 37.914528,
+    "longitude": -95.255758,
+    "city": "La Harpe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66753,
+    "latitude": 37.448486,
+    "longitude": -94.856644,
+    "city": "Mc Cune",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66754,
+    "latitude": 37.855416,
+    "longitude": -94.850996,
+    "city": "Mapleton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66755,
+    "latitude": 37.914394,
+    "longitude": -95.197671,
+    "city": "Moran",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66756,
+    "latitude": 37.54259,
+    "longitude": -94.661105,
+    "city": "Mulberry",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66757,
+    "latitude": 37.56084,
+    "longitude": -95.668445,
+    "city": "Neodesha",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66758,
+    "latitude": 37.998206,
+    "longitude": -95.622106,
+    "city": "Neosho Falls",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Woodson"
+  },
+  {
+    "zip_code": 66759,
+    "latitude": 37.568982,
+    "longitude": -95.937861,
+    "city": "New Albany",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wilson"
+  },
+  {
+    "zip_code": 66760,
+    "latitude": 37.34199,
+    "longitude": -94.619885,
+    "city": "Opolis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66761,
+    "latitude": 37.914531,
+    "longitude": -95.56937,
+    "city": "Piqua",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Woodson"
+  },
+  {
+    "zip_code": 66762,
+    "latitude": 37.448044,
+    "longitude": -94.819212,
+    "city": "Pittsburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66763,
+    "latitude": 37.446615,
+    "longitude": -94.691566,
+    "city": "Frontenac",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66767,
+    "latitude": 38.178868,
+    "longitude": -94.705448,
+    "city": "Prescott",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Linn"
+  },
+  {
+    "zip_code": 66769,
+    "latitude": 37.836666,
+    "longitude": -94.880482,
+    "city": "Redfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66770,
+    "latitude": 37.073183,
+    "longitude": -94.758958,
+    "city": "Riverton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66771,
+    "latitude": 37.545144,
+    "longitude": -95.183687,
+    "city": "Saint Paul",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66772,
+    "latitude": 37.768978,
+    "longitude": -95.24453,
+    "city": "Savonburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 66773,
+    "latitude": 37.280945,
+    "longitude": -94.809198,
+    "city": "Scammon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66775,
+    "latitude": 37.675371,
+    "longitude": -95.178823,
+    "city": "Stark",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66776,
+    "latitude": 37.480322,
+    "longitude": -95.452585,
+    "city": "Thayer",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Neosho"
+  },
+  {
+    "zip_code": 66777,
+    "latitude": 37.814423,
+    "longitude": -95.88888,
+    "city": "Toronto",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Woodson"
+  },
+  {
+    "zip_code": 66778,
+    "latitude": 37.14002,
+    "longitude": -94.881789,
+    "city": "Treece",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66779,
+    "latitude": 37.847185,
+    "longitude": -94.975786,
+    "city": "Uniontown",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Bourbon"
+  },
+  {
+    "zip_code": 66780,
+    "latitude": 37.57292,
+    "longitude": -94.856834,
+    "city": "Walnut",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 66781,
+    "latitude": 37.258838,
+    "longitude": -94.734382,
+    "city": "Weir",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66782,
+    "latitude": 37.285147,
+    "longitude": -94.926124,
+    "city": "West Mineral",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 66783,
+    "latitude": 37.884741,
+    "longitude": -95.723555,
+    "city": "Yates Center",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Woodson"
+  },
+  {
+    "zip_code": 66801,
+    "latitude": 38.434153,
+    "longitude": -96.152766,
+    "city": "Emporia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66830,
+    "latitude": 38.608394,
+    "longitude": -96.108283,
+    "city": "Admire",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66833,
+    "latitude": 38.652011,
+    "longitude": -96.173461,
+    "city": "Allen",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66834,
+    "latitude": 38.864507,
+    "longitude": -96.488112,
+    "city": "Alta Vista",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wabaunsee"
+  },
+  {
+    "zip_code": 66835,
+    "latitude": 38.556174,
+    "longitude": -96.261884,
+    "city": "Americus",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66838,
+    "latitude": 38.565758,
+    "longitude": -96.801336,
+    "city": "Burdick",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morris"
+  },
+  {
+    "zip_code": 66839,
+    "latitude": 38.236316,
+    "longitude": -95.733598,
+    "city": "Burlington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Coffey"
+  },
+  {
+    "zip_code": 66840,
+    "latitude": 38.089221,
+    "longitude": -96.888518,
+    "city": "Burns",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66842,
+    "latitude": 37.995545,
+    "longitude": -96.661017,
+    "city": "Cassoday",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 66843,
+    "latitude": 38.260042,
+    "longitude": -96.822766,
+    "city": "Cedar Point",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 66845,
+    "latitude": 38.37674,
+    "longitude": -96.54945,
+    "city": "Cottonwood Falls",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 66846,
+    "latitude": 38.69588,
+    "longitude": -96.5469,
+    "city": "Council Grove",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morris"
+  },
+  {
+    "zip_code": 66849,
+    "latitude": 38.826679,
+    "longitude": -96.579805,
+    "city": "Dwight",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morris"
+  },
+  {
+    "zip_code": 66850,
+    "latitude": 38.372982,
+    "longitude": -96.646064,
+    "city": "Elmdale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 66851,
+    "latitude": 38.293353,
+    "longitude": -96.974518,
+    "city": "Florence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66852,
+    "latitude": 38.105539,
+    "longitude": -95.794536,
+    "city": "Gridley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Coffey"
+  },
+  {
+    "zip_code": 66853,
+    "latitude": 37.980393,
+    "longitude": -96.199508,
+    "city": "Hamilton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 66854,
+    "latitude": 38.345691,
+    "longitude": -96.103771,
+    "city": "Hartford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66855,
+    "latitude": 37.888276,
+    "longitude": -96.242059,
+    "city": "Lamont",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 66856,
+    "latitude": 38.237155,
+    "longitude": -95.790281,
+    "city": "Lebo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Coffey"
+  },
+  {
+    "zip_code": 66857,
+    "latitude": 38.11486,
+    "longitude": -95.685599,
+    "city": "Le Roy",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Coffey"
+  },
+  {
+    "zip_code": 66858,
+    "latitude": 38.493293,
+    "longitude": -96.96264,
+    "city": "Lincolnville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66859,
+    "latitude": 38.566392,
+    "longitude": -96.967811,
+    "city": "Lost Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66860,
+    "latitude": 38.061943,
+    "longitude": -96.144795,
+    "city": "Madison",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 66861,
+    "latitude": 38.284561,
+    "longitude": -96.965255,
+    "city": "Marion",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66862,
+    "latitude": 38.303962,
+    "longitude": -96.597442,
+    "city": "Matfield Green",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 66863,
+    "latitude": 37.888276,
+    "longitude": -96.242059,
+    "city": "Neal",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 66864,
+    "latitude": 38.413332,
+    "longitude": -96.103875,
+    "city": "Neosho Rapids",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66865,
+    "latitude": 38.354006,
+    "longitude": -96.1903,
+    "city": "Olpe",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66866,
+    "latitude": 38.134801,
+    "longitude": -97.003776,
+    "city": "Peabody",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 66868,
+    "latitude": 38.533232,
+    "longitude": -96.01436,
+    "city": "Reading",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lyon"
+  },
+  {
+    "zip_code": 66869,
+    "latitude": 38.390683,
+    "longitude": -96.538737,
+    "city": "Strong City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chase"
+  },
+  {
+    "zip_code": 66870,
+    "latitude": 37.978282,
+    "longitude": -96.012585,
+    "city": "Virgil",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 66871,
+    "latitude": 38.346908,
+    "longitude": -95.628088,
+    "city": "Waverly",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Coffey"
+  },
+  {
+    "zip_code": 66872,
+    "latitude": 38.783116,
+    "longitude": -96.779581,
+    "city": "White City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morris"
+  },
+  {
+    "zip_code": 66873,
+    "latitude": 38.682093,
+    "longitude": -96.663865,
+    "city": "Wilsey",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morris"
+  },
+  {
+    "zip_code": 66901,
+    "latitude": 39.551634,
+    "longitude": -97.656764,
+    "city": "Concordia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 66930,
+    "latitude": 39.70438,
+    "longitude": -97.446521,
+    "city": "Agenda",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66932,
+    "latitude": 39.766784,
+    "longitude": -98.919297,
+    "city": "Athol",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 66933,
+    "latitude": 39.681367,
+    "longitude": -96.862609,
+    "city": "Barnes",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66935,
+    "latitude": 39.836218,
+    "longitude": -97.601461,
+    "city": "Belleville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66936,
+    "latitude": 39.784792,
+    "longitude": -98.218469,
+    "city": "Burr Oak",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66937,
+    "latitude": 39.655509,
+    "longitude": -97.17341,
+    "city": "Clifton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66938,
+    "latitude": 39.59127,
+    "longitude": -97.398639,
+    "city": "Clyde",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 66939,
+    "latitude": 39.746555,
+    "longitude": -97.666524,
+    "city": "Courtland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66940,
+    "latitude": 39.801787,
+    "longitude": -97.458269,
+    "city": "Cuba",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66941,
+    "latitude": 39.820964,
+    "longitude": -98.433369,
+    "city": "Esbon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66942,
+    "latitude": 39.778286,
+    "longitude": -97.993161,
+    "city": "Formoso",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66943,
+    "latitude": 39.687997,
+    "longitude": -96.975097,
+    "city": "Greenleaf",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66944,
+    "latitude": 39.83551,
+    "longitude": -97.269445,
+    "city": "Haddam",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66945,
+    "latitude": 39.867079,
+    "longitude": -96.896534,
+    "city": "Hanover",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66946,
+    "latitude": 39.841523,
+    "longitude": -96.966275,
+    "city": "Hollenberg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66948,
+    "latitude": 39.598963,
+    "longitude": -97.86117,
+    "city": "Jamestown",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 66949,
+    "latitude": 39.671874,
+    "longitude": -98.147215,
+    "city": "Jewell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66951,
+    "latitude": 39.783621,
+    "longitude": -98.796287,
+    "city": "Kensington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 66952,
+    "latitude": 39.807699,
+    "longitude": -98.556016,
+    "city": "Lebanon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 66953,
+    "latitude": 39.784861,
+    "longitude": -97.168514,
+    "city": "Linn",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66955,
+    "latitude": 39.841669,
+    "longitude": -97.22614,
+    "city": "Mahaska",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66956,
+    "latitude": 39.787529,
+    "longitude": -98.20595,
+    "city": "Mankato",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66958,
+    "latitude": 39.885808,
+    "longitude": -97.172061,
+    "city": "Morrowville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66959,
+    "latitude": 39.860279,
+    "longitude": -97.498488,
+    "city": "Munden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66960,
+    "latitude": 39.960731,
+    "longitude": -97.428585,
+    "city": "Narka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66961,
+    "latitude": 39.827894,
+    "longitude": -97.650902,
+    "city": "Norway",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66962,
+    "latitude": 39.610229,
+    "longitude": -97.12993,
+    "city": "Palmer",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66963,
+    "latitude": 39.643012,
+    "longitude": -98.044991,
+    "city": "Randall",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 66964,
+    "latitude": 39.875728,
+    "longitude": -97.628516,
+    "city": "Republic",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66966,
+    "latitude": 39.794591,
+    "longitude": -97.783734,
+    "city": "Scandia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Republic"
+  },
+  {
+    "zip_code": 66967,
+    "latitude": 39.788577,
+    "longitude": -98.673356,
+    "city": "Smith Center",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 66968,
+    "latitude": 39.781107,
+    "longitude": -97.054286,
+    "city": "Washington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 66970,
+    "latitude": 39.935373,
+    "longitude": -98.035371,
+    "city": "Webber",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Jewell"
+  },
+  {
+    "zip_code": 67001,
+    "latitude": 37.779733,
+    "longitude": -97.636619,
+    "city": "Andale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67002,
+    "latitude": 37.701532,
+    "longitude": -97.098431,
+    "city": "Andover",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67003,
+    "latitude": 37.111488,
+    "longitude": -98.048121,
+    "city": "Anthony",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67004,
+    "latitude": 37.248959,
+    "longitude": -97.690887,
+    "city": "Argonia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67005,
+    "latitude": 37.149582,
+    "longitude": -96.904215,
+    "city": "Arkansas City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67008,
+    "latitude": 37.378279,
+    "longitude": -96.720974,
+    "city": "Atlanta",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67009,
+    "latitude": 37.224885,
+    "longitude": -98.210087,
+    "city": "Attica",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67010,
+    "latitude": 37.674347,
+    "longitude": -96.970128,
+    "city": "Augusta",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67012,
+    "latitude": 37.658007,
+    "longitude": -96.532862,
+    "city": "Beaumont",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67013,
+    "latitude": 37.359755,
+    "longitude": -97.287694,
+    "city": "Belle Plaine",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67016,
+    "latitude": 37.886596,
+    "longitude": -97.516631,
+    "city": "Bentley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67017,
+    "latitude": 37.831767,
+    "longitude": -97.097363,
+    "city": "Benton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67018,
+    "latitude": 37.062263,
+    "longitude": -97.865887,
+    "city": "Bluff City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67019,
+    "latitude": 37.37062,
+    "longitude": -96.759983,
+    "city": "Burden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67020,
+    "latitude": 38.021434,
+    "longitude": -97.537188,
+    "city": "Burrton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67021,
+    "latitude": 37.777955,
+    "longitude": -98.931119,
+    "city": "Byers",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pratt"
+  },
+  {
+    "zip_code": 67022,
+    "latitude": 37.133257,
+    "longitude": -97.601664,
+    "city": "Caldwell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67023,
+    "latitude": 37.309434,
+    "longitude": -96.717001,
+    "city": "Cambridge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67024,
+    "latitude": 37.130234,
+    "longitude": -96.444127,
+    "city": "Cedar Vale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chautauqua"
+  },
+  {
+    "zip_code": 67025,
+    "latitude": 37.633711,
+    "longitude": -97.73513,
+    "city": "Cheney",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67026,
+    "latitude": 37.548282,
+    "longitude": -97.488432,
+    "city": "Clearwater",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67028,
+    "latitude": 37.638236,
+    "longitude": -98.889244,
+    "city": "Coats",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pratt"
+  },
+  {
+    "zip_code": 67029,
+    "latitude": 37.25486,
+    "longitude": -99.322574,
+    "city": "Coldwater",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Comanche"
+  },
+  {
+    "zip_code": 67030,
+    "latitude": 37.77081,
+    "longitude": -97.545886,
+    "city": "Colwich",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67031,
+    "latitude": 37.394301,
+    "longitude": -97.658248,
+    "city": "Conway Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67035,
+    "latitude": 37.630922,
+    "longitude": -98.35639,
+    "city": "Cunningham",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67036,
+    "latitude": 37.299891,
+    "longitude": -97.86969,
+    "city": "Danville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67037,
+    "latitude": 37.566129,
+    "longitude": -97.228475,
+    "city": "Derby",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67038,
+    "latitude": 37.178743,
+    "longitude": -96.715776,
+    "city": "Dexter",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67039,
+    "latitude": 37.535867,
+    "longitude": -96.998807,
+    "city": "Douglass",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67041,
+    "latitude": 38.054538,
+    "longitude": -97.128356,
+    "city": "Elbing",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67042,
+    "latitude": 37.830491,
+    "longitude": -96.865969,
+    "city": "El Dorado",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67045,
+    "latitude": 37.755154,
+    "longitude": -96.170019,
+    "city": "Eureka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 67047,
+    "latitude": 37.607625,
+    "longitude": -96.029221,
+    "city": "Fall River",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 67049,
+    "latitude": 37.175377,
+    "longitude": -97.857243,
+    "city": "Freeport",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67050,
+    "latitude": 37.674242,
+    "longitude": -97.654917,
+    "city": "Garden Plain",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67051,
+    "latitude": 37.139313,
+    "longitude": -97.458635,
+    "city": "Geuda Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67052,
+    "latitude": 37.663432,
+    "longitude": -97.579616,
+    "city": "Goddard",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67053,
+    "latitude": 38.219081,
+    "longitude": -97.325769,
+    "city": "Goessel",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67054,
+    "latitude": 37.607534,
+    "longitude": -99.204968,
+    "city": "Greensburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 67055,
+    "latitude": 37.78335,
+    "longitude": -97.205419,
+    "city": "Greenwich",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67056,
+    "latitude": 38.02428,
+    "longitude": -97.509713,
+    "city": "Halstead",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67057,
+    "latitude": 37.076952,
+    "longitude": -98.751916,
+    "city": "Hardtner",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67058,
+    "latitude": 37.291318,
+    "longitude": -98.038455,
+    "city": "Harper",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67059,
+    "latitude": 37.612557,
+    "longitude": -99.192552,
+    "city": "Haviland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 67060,
+    "latitude": 37.542404,
+    "longitude": -97.36324,
+    "city": "Haysville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67061,
+    "latitude": 37.114569,
+    "longitude": -98.410166,
+    "city": "Hazelton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67062,
+    "latitude": 38.137404,
+    "longitude": -97.443222,
+    "city": "Hesston",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67063,
+    "latitude": 38.347988,
+    "longitude": -97.205656,
+    "city": "Hillsboro",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67065,
+    "latitude": 37.427542,
+    "longitude": -98.551564,
+    "city": "Isabel",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67066,
+    "latitude": 37.75535,
+    "longitude": -98.756921,
+    "city": "Iuka",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pratt"
+  },
+  {
+    "zip_code": 67067,
+    "latitude": 37.810488,
+    "longitude": -97.259353,
+    "city": "Kechi",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67068,
+    "latitude": 37.596364,
+    "longitude": -98.130432,
+    "city": "Kingman",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67070,
+    "latitude": 37.138561,
+    "longitude": -98.503736,
+    "city": "Kiowa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67071,
+    "latitude": 37.264177,
+    "longitude": -98.818915,
+    "city": "Lake City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67072,
+    "latitude": 37.606889,
+    "longitude": -96.658181,
+    "city": "Latham",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67073,
+    "latitude": 38.372882,
+    "longitude": -97.302858,
+    "city": "Lehigh",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67074,
+    "latitude": 37.66475,
+    "longitude": -96.748795,
+    "city": "Leon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67101,
+    "latitude": 37.789561,
+    "longitude": -97.486701,
+    "city": "Maize",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67102,
+    "latitude": 37.2377,
+    "longitude": -96.838911,
+    "city": "Maple City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67103,
+    "latitude": 37.268787,
+    "longitude": -97.556978,
+    "city": "Mayfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67104,
+    "latitude": 37.291739,
+    "longitude": -98.620996,
+    "city": "Medicine Lodge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67105,
+    "latitude": 37.227503,
+    "longitude": -97.674141,
+    "city": "Milan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67106,
+    "latitude": 37.430408,
+    "longitude": -97.742966,
+    "city": "Milton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67107,
+    "latitude": 38.217149,
+    "longitude": -97.523327,
+    "city": "Moundridge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67108,
+    "latitude": 37.823852,
+    "longitude": -97.637834,
+    "city": "Mount Hope",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67109,
+    "latitude": 37.593142,
+    "longitude": -99.387747,
+    "city": "Mullinville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kiowa"
+  },
+  {
+    "zip_code": 67110,
+    "latitude": 37.3732,
+    "longitude": -97.441654,
+    "city": "Mulvane",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67111,
+    "latitude": 37.619803,
+    "longitude": -97.963093,
+    "city": "Murdock",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67112,
+    "latitude": 37.471011,
+    "longitude": -98.391558,
+    "city": "Nashville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67114,
+    "latitude": 38.044857,
+    "longitude": -97.317279,
+    "city": "Newton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67117,
+    "latitude": 38.048707,
+    "longitude": -97.355813,
+    "city": "North Newton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67118,
+    "latitude": 37.486261,
+    "longitude": -97.923919,
+    "city": "Norwich",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67119,
+    "latitude": 37.231595,
+    "longitude": -97.212224,
+    "city": "Oxford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67120,
+    "latitude": 37.50541,
+    "longitude": -97.340797,
+    "city": "Peck",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67122,
+    "latitude": 37.888276,
+    "longitude": -96.242059,
+    "city": "Piedmont",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 67123,
+    "latitude": 37.937595,
+    "longitude": -97.038364,
+    "city": "Potwin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67124,
+    "latitude": 37.63857,
+    "longitude": -98.758512,
+    "city": "Pratt",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pratt"
+  },
+  {
+    "zip_code": 67127,
+    "latitude": 37.200135,
+    "longitude": -99.482888,
+    "city": "Protection",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Comanche"
+  },
+  {
+    "zip_code": 67128,
+    "latitude": 37.436647,
+    "longitude": -97.995064,
+    "city": "Rago",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67131,
+    "latitude": 37.441278,
+    "longitude": -97.005906,
+    "city": "Rock",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67132,
+    "latitude": 37.828375,
+    "longitude": -96.80597,
+    "city": "Rosalia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67133,
+    "latitude": 37.56297,
+    "longitude": -97.090019,
+    "city": "Rose Hill",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67134,
+    "latitude": 37.509541,
+    "longitude": -98.647923,
+    "city": "Sawyer",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pratt"
+  },
+  {
+    "zip_code": 67135,
+    "latitude": 37.955789,
+    "longitude": -97.473214,
+    "city": "Sedgwick",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67137,
+    "latitude": 37.61705,
+    "longitude": -96.225157,
+    "city": "Severy",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greenwood"
+  },
+  {
+    "zip_code": 67138,
+    "latitude": 37.224446,
+    "longitude": -98.42233,
+    "city": "Sharon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67140,
+    "latitude": 37.136607,
+    "longitude": -97.329247,
+    "city": "South Haven",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67142,
+    "latitude": 37.491201,
+    "longitude": -98.209956,
+    "city": "Spivey",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67143,
+    "latitude": 37.357385,
+    "longitude": -98.91273,
+    "city": "Sun City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barber"
+  },
+  {
+    "zip_code": 67144,
+    "latitude": 37.905383,
+    "longitude": -96.85903,
+    "city": "Towanda",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67146,
+    "latitude": 37.387823,
+    "longitude": -97.117926,
+    "city": "Udall",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67147,
+    "latitude": 37.845078,
+    "longitude": -97.335537,
+    "city": "Valley Center",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67149,
+    "latitude": 37.583241,
+    "longitude": -97.519347,
+    "city": "Viola",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67150,
+    "latitude": 37.140233,
+    "longitude": -98.238653,
+    "city": "Waldron",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harper"
+  },
+  {
+    "zip_code": 67151,
+    "latitude": 38.123189,
+    "longitude": -97.244464,
+    "city": "Walton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Harvey"
+  },
+  {
+    "zip_code": 67152,
+    "latitude": 37.280877,
+    "longitude": -97.42223,
+    "city": "Wellington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sumner"
+  },
+  {
+    "zip_code": 67154,
+    "latitude": 37.977983,
+    "longitude": -97.088361,
+    "city": "Whitewater",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 67155,
+    "latitude": 37.191758,
+    "longitude": -99.272769,
+    "city": "Wilmore",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Comanche"
+  },
+  {
+    "zip_code": 67156,
+    "latitude": 37.232126,
+    "longitude": -96.996334,
+    "city": "Winfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cowley"
+  },
+  {
+    "zip_code": 67159,
+    "latitude": 37.449631,
+    "longitude": -98.3057,
+    "city": "Zenda",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kingman"
+  },
+  {
+    "zip_code": 67201,
+    "latitude": 37.651974,
+    "longitude": -97.258997,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67202,
+    "latitude": 37.686189,
+    "longitude": -97.334713,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67203,
+    "latitude": 37.706514,
+    "longitude": -97.395351,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67204,
+    "latitude": 37.787925,
+    "longitude": -97.381233,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67205,
+    "latitude": 37.773675,
+    "longitude": -97.444035,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67206,
+    "latitude": 37.613954,
+    "longitude": -97.342752,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67207,
+    "latitude": 37.671048,
+    "longitude": -97.217907,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67208,
+    "latitude": 37.74451,
+    "longitude": -97.276421,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67209,
+    "latitude": 37.666579,
+    "longitude": -97.435012,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67210,
+    "latitude": 37.615901,
+    "longitude": -97.247359,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67211,
+    "latitude": 37.661,
+    "longitude": -97.312573,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67212,
+    "latitude": 37.701795,
+    "longitude": -97.435443,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67213,
+    "latitude": 37.668005,
+    "longitude": -97.36497,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67214,
+    "latitude": 37.706143,
+    "longitude": -97.319593,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67215,
+    "latitude": 37.626635,
+    "longitude": -97.425673,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67216,
+    "latitude": 37.605237,
+    "longitude": -97.314573,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67217,
+    "latitude": 37.643576,
+    "longitude": -97.392906,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67218,
+    "latitude": 37.668282,
+    "longitude": -97.280784,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67219,
+    "latitude": 37.773805,
+    "longitude": -97.265034,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67220,
+    "latitude": 37.766663,
+    "longitude": -97.280524,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67221,
+    "latitude": 37.628158,
+    "longitude": -97.26626,
+    "city": "Mcconnell Afb",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67223,
+    "latitude": 37.73674,
+    "longitude": -97.499,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67226,
+    "latitude": 37.774074,
+    "longitude": -97.212044,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67227,
+    "latitude": 37.62812,
+    "longitude": -97.491566,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67228,
+    "latitude": 37.774174,
+    "longitude": -97.171098,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67230,
+    "latitude": 37.679502,
+    "longitude": -97.171332,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67231,
+    "latitude": 37.556692,
+    "longitude": -97.410154,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67232,
+    "latitude": 37.639491,
+    "longitude": -97.171372,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67233,
+    "latitude": 37.542472,
+    "longitude": -97.351987,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67235,
+    "latitude": 37.714891,
+    "longitude": -97.499024,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67236,
+    "latitude": 37.542182,
+    "longitude": -97.287134,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67251,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67256,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67257,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67259,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67260,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67275,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67276,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67277,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67278,
+    "latitude": 37.693588,
+    "longitude": -97.480419,
+    "city": "Wichita",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sedgwick"
+  },
+  {
+    "zip_code": 67301,
+    "latitude": 37.180636,
+    "longitude": -95.756197,
+    "city": "Independence",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67330,
+    "latitude": 37.222616,
+    "longitude": -95.360819,
+    "city": "Altamont",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67332,
+    "latitude": 37.045463,
+    "longitude": -95.229916,
+    "city": "Bartlett",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67333,
+    "latitude": 37.048046,
+    "longitude": -95.884949,
+    "city": "Caney",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67334,
+    "latitude": 37.026243,
+    "longitude": -96.178281,
+    "city": "Chautauqua",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chautauqua"
+  },
+  {
+    "zip_code": 67335,
+    "latitude": 37.167997,
+    "longitude": -95.732508,
+    "city": "Cherryvale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67336,
+    "latitude": 37.04542,
+    "longitude": -95.218047,
+    "city": "Chetopa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67337,
+    "latitude": 37.146267,
+    "longitude": -95.748313,
+    "city": "Coffeyville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67340,
+    "latitude": 37.043836,
+    "longitude": -95.732624,
+    "city": "Dearing",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67341,
+    "latitude": 37.220501,
+    "longitude": -95.434853,
+    "city": "Dennis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67342,
+    "latitude": 37.071835,
+    "longitude": -95.347225,
+    "city": "Edna",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67344,
+    "latitude": 37.288869,
+    "longitude": -95.908001,
+    "city": "Elk City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67345,
+    "latitude": 37.383228,
+    "longitude": -96.272149,
+    "city": "Elk Falls",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 67346,
+    "latitude": 37.406927,
+    "longitude": -96.384362,
+    "city": "Grenola",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 67347,
+    "latitude": 37.092548,
+    "longitude": -95.94175,
+    "city": "Havana",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67349,
+    "latitude": 37.419933,
+    "longitude": -96.278611,
+    "city": "Howard",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 67351,
+    "latitude": 37.09922,
+    "longitude": -95.583588,
+    "city": "Liberty",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67352,
+    "latitude": 37.374756,
+    "longitude": -96.13358,
+    "city": "Longton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 67353,
+    "latitude": 37.357438,
+    "longitude": -96.373849,
+    "city": "Moline",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Elk"
+  },
+  {
+    "zip_code": 67354,
+    "latitude": 37.215113,
+    "longitude": -95.422081,
+    "city": "Mound Valley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67355,
+    "latitude": 37.037043,
+    "longitude": -96.012058,
+    "city": "Niotaze",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chautauqua"
+  },
+  {
+    "zip_code": 67356,
+    "latitude": 37.18919,
+    "longitude": -95.242611,
+    "city": "Oswego",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67357,
+    "latitude": 37.217756,
+    "longitude": -95.266407,
+    "city": "Parsons",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Labette"
+  },
+  {
+    "zip_code": 67360,
+    "latitude": 37.048401,
+    "longitude": -96.07768,
+    "city": "Peru",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chautauqua"
+  },
+  {
+    "zip_code": 67361,
+    "latitude": 37.134351,
+    "longitude": -96.219212,
+    "city": "Sedan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Chautauqua"
+  },
+  {
+    "zip_code": 67363,
+    "latitude": 37.328119,
+    "longitude": -95.71697,
+    "city": "Sycamore",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67364,
+    "latitude": 37.036984,
+    "longitude": -95.823721,
+    "city": "Tyro",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 67401,
+    "latitude": 38.823673,
+    "longitude": -97.642113,
+    "city": "Salina",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67402,
+    "latitude": 38.78359,
+    "longitude": -97.650446,
+    "city": "Salina",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67410,
+    "latitude": 38.9111,
+    "longitude": -97.195283,
+    "city": "Abilene",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67416,
+    "latitude": 38.688891,
+    "longitude": -97.59426,
+    "city": "Assaria",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67417,
+    "latitude": 39.45212,
+    "longitude": -97.529562,
+    "city": "Aurora",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 67418,
+    "latitude": 39.188663,
+    "longitude": -98.044605,
+    "city": "Barnard",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 67420,
+    "latitude": 39.441631,
+    "longitude": -98.119189,
+    "city": "Beloit",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67422,
+    "latitude": 39.019928,
+    "longitude": -97.622108,
+    "city": "Bennington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 67423,
+    "latitude": 39.045239,
+    "longitude": -98.209248,
+    "city": "Beverly",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 67425,
+    "latitude": 38.783921,
+    "longitude": -97.854579,
+    "city": "Brookville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67427,
+    "latitude": 38.463875,
+    "longitude": -98.387168,
+    "city": "Bushton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67428,
+    "latitude": 38.392631,
+    "longitude": -97.426953,
+    "city": "Canton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67430,
+    "latitude": 39.451105,
+    "longitude": -98.187156,
+    "city": "Cawker City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67431,
+    "latitude": 38.972672,
+    "longitude": -97.018914,
+    "city": "Chapman",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67432,
+    "latitude": 39.349452,
+    "longitude": -97.164849,
+    "city": "Clay Center",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 67436,
+    "latitude": 39.263098,
+    "longitude": -97.714625,
+    "city": "Delphos",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 67437,
+    "latitude": 39.449456,
+    "longitude": -98.581432,
+    "city": "Downs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osborne"
+  },
+  {
+    "zip_code": 67438,
+    "latitude": 38.523968,
+    "longitude": -97.251974,
+    "city": "Durham",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67439,
+    "latitude": 38.696579,
+    "longitude": -98.205437,
+    "city": "Ellsworth",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellsworth"
+  },
+  {
+    "zip_code": 67441,
+    "latitude": 38.889721,
+    "longitude": -97.09319,
+    "city": "Enterprise",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67442,
+    "latitude": 38.69098,
+    "longitude": -97.787364,
+    "city": "Falun",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67443,
+    "latitude": 38.382827,
+    "longitude": -97.47325,
+    "city": "Galva",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67444,
+    "latitude": 38.362194,
+    "longitude": -98.15843,
+    "city": "Geneseo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67445,
+    "latitude": 39.36117,
+    "longitude": -97.83825,
+    "city": "Glasco",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 67446,
+    "latitude": 39.501034,
+    "longitude": -98.302257,
+    "city": "Glen Elder",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67447,
+    "latitude": 39.480323,
+    "longitude": -97.01489,
+    "city": "Green",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 67448,
+    "latitude": 38.710913,
+    "longitude": -97.492119,
+    "city": "Gypsum",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67449,
+    "latitude": 38.792473,
+    "longitude": -96.993297,
+    "city": "Herington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67450,
+    "latitude": 38.613667,
+    "longitude": -98.420938,
+    "city": "Holyrood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellsworth"
+  },
+  {
+    "zip_code": 67451,
+    "latitude": 38.826292,
+    "longitude": -97.121874,
+    "city": "Hope",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67452,
+    "latitude": 39.287497,
+    "longitude": -98.433673,
+    "city": "Hunter",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67454,
+    "latitude": 38.696847,
+    "longitude": -98.138181,
+    "city": "Kanopolis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellsworth"
+  },
+  {
+    "zip_code": 67455,
+    "latitude": 39.102718,
+    "longitude": -98.214909,
+    "city": "Lincoln",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 67456,
+    "latitude": 38.497407,
+    "longitude": -97.628859,
+    "city": "Lindsborg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67457,
+    "latitude": 38.378672,
+    "longitude": -98.095004,
+    "city": "Little River",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67458,
+    "latitude": 39.183428,
+    "longitude": -97.249882,
+    "city": "Longford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 67459,
+    "latitude": 38.601673,
+    "longitude": -98.273284,
+    "city": "Lorraine",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellsworth"
+  },
+  {
+    "zip_code": 67460,
+    "latitude": 38.376302,
+    "longitude": -97.670184,
+    "city": "Mcpherson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67464,
+    "latitude": 38.529808,
+    "longitude": -97.675384,
+    "city": "Marquette",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67466,
+    "latitude": 39.349959,
+    "longitude": -97.454812,
+    "city": "Miltonvale",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cloud"
+  },
+  {
+    "zip_code": 67467,
+    "latitude": 39.141097,
+    "longitude": -97.650674,
+    "city": "Minneapolis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 67468,
+    "latitude": 39.328382,
+    "longitude": -97.164888,
+    "city": "Morganville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 67470,
+    "latitude": 38.905381,
+    "longitude": -97.515705,
+    "city": "New Cambria",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Saline"
+  },
+  {
+    "zip_code": 67473,
+    "latitude": 39.385738,
+    "longitude": -98.795417,
+    "city": "Osborne",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osborne"
+  },
+  {
+    "zip_code": 67474,
+    "latitude": 39.531927,
+    "longitude": -98.738629,
+    "city": "Portis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osborne"
+  },
+  {
+    "zip_code": 67475,
+    "latitude": 38.59749,
+    "longitude": -97.062601,
+    "city": "Ramona",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67476,
+    "latitude": 38.391722,
+    "longitude": -97.648402,
+    "city": "Roxbury",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67478,
+    "latitude": 39.385112,
+    "longitude": -97.932764,
+    "city": "Simpson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67480,
+    "latitude": 38.910885,
+    "longitude": -97.339456,
+    "city": "Solomon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67481,
+    "latitude": 38.969795,
+    "longitude": -98.435528,
+    "city": "Sylvan Grove",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 67482,
+    "latitude": 39.02241,
+    "longitude": -97.259116,
+    "city": "Talmage",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67483,
+    "latitude": 38.54879,
+    "longitude": -97.17004,
+    "city": "Tampa",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 67484,
+    "latitude": 39.041646,
+    "longitude": -97.719466,
+    "city": "Tescott",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ottawa"
+  },
+  {
+    "zip_code": 67485,
+    "latitude": 39.339425,
+    "longitude": -98.470261,
+    "city": "Tipton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 67487,
+    "latitude": 39.190937,
+    "longitude": -97.075406,
+    "city": "Wakefield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 67490,
+    "latitude": 38.784047,
+    "longitude": -98.271846,
+    "city": "Wilson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellsworth"
+  },
+  {
+    "zip_code": 67491,
+    "latitude": 38.389365,
+    "longitude": -97.694453,
+    "city": "Windom",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67492,
+    "latitude": 38.812401,
+    "longitude": -96.964022,
+    "city": "Woodbine",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Dickinson"
+  },
+  {
+    "zip_code": 67501,
+    "latitude": 37.954312,
+    "longitude": -97.88569,
+    "city": "Hutchinson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67502,
+    "latitude": 38.115643,
+    "longitude": -97.893663,
+    "city": "Hutchinson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67504,
+    "latitude": 37.953219,
+    "longitude": -98.085924,
+    "city": "Hutchinson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67505,
+    "latitude": 38.003541,
+    "longitude": -97.944252,
+    "city": "South Hutchinson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67510,
+    "latitude": 38.013705,
+    "longitude": -98.169523,
+    "city": "Abbyville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67511,
+    "latitude": 38.420451,
+    "longitude": -98.913448,
+    "city": "Albert",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67512,
+    "latitude": 38.233295,
+    "longitude": -98.316515,
+    "city": "Alden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67513,
+    "latitude": 38.470116,
+    "longitude": -99.553222,
+    "city": "Alexander",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67514,
+    "latitude": 37.829877,
+    "longitude": -98.196898,
+    "city": "Arlington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67515,
+    "latitude": 38.479822,
+    "longitude": -99.916519,
+    "city": "Arnold",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67516,
+    "latitude": 38.445565,
+    "longitude": -99.692538,
+    "city": "Bazine",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67518,
+    "latitude": 38.479822,
+    "longitude": -99.916519,
+    "city": "Beeler",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67519,
+    "latitude": 37.951204,
+    "longitude": -99.098947,
+    "city": "Belpre",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 67520,
+    "latitude": 38.563156,
+    "longitude": -99.195772,
+    "city": "Bison",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67521,
+    "latitude": 38.479822,
+    "longitude": -99.916519,
+    "city": "Brownell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67522,
+    "latitude": 38.122794,
+    "longitude": -97.766352,
+    "city": "Buhler",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67523,
+    "latitude": 38.13957,
+    "longitude": -99.385256,
+    "city": "Burdett",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 67524,
+    "latitude": 38.362338,
+    "longitude": -98.246676,
+    "city": "Chase",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67525,
+    "latitude": 38.565876,
+    "longitude": -98.627068,
+    "city": "Claflin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67526,
+    "latitude": 38.46396,
+    "longitude": -98.733001,
+    "city": "Ellinwood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67529,
+    "latitude": 38.076733,
+    "longitude": -99.245071,
+    "city": "Garfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 67530,
+    "latitude": 38.393567,
+    "longitude": -98.775074,
+    "city": "Great Bend",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67543,
+    "latitude": 37.881183,
+    "longitude": -97.793755,
+    "city": "Haven",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67544,
+    "latitude": 38.478935,
+    "longitude": -98.756485,
+    "city": "Hoisington",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67545,
+    "latitude": 38.166197,
+    "longitude": -98.628964,
+    "city": "Hudson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 67546,
+    "latitude": 38.246179,
+    "longitude": -97.795694,
+    "city": "Inman",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Mcpherson"
+  },
+  {
+    "zip_code": 67547,
+    "latitude": 37.91204,
+    "longitude": -99.478881,
+    "city": "Kinsley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 67548,
+    "latitude": 38.531867,
+    "longitude": -99.300546,
+    "city": "La Crosse",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67550,
+    "latitude": 38.194644,
+    "longitude": -99.10096,
+    "city": "Larned",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 67552,
+    "latitude": 37.936208,
+    "longitude": -99.254501,
+    "city": "Lewis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 67553,
+    "latitude": 38.655719,
+    "longitude": -99.320339,
+    "city": "Liebenthal",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67554,
+    "latitude": 38.376979,
+    "longitude": -98.193184,
+    "city": "Lyons",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67556,
+    "latitude": 38.586345,
+    "longitude": -99.571844,
+    "city": "Mc Cracken",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67557,
+    "latitude": 37.95853,
+    "longitude": -98.968997,
+    "city": "Macksville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 67559,
+    "latitude": 38.52286,
+    "longitude": -99.309591,
+    "city": "Nekoma",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67560,
+    "latitude": 38.455316,
+    "longitude": -99.905723,
+    "city": "Ness City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67561,
+    "latitude": 38.100868,
+    "longitude": -98.105772,
+    "city": "Nickerson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67563,
+    "latitude": 37.890172,
+    "longitude": -99.562672,
+    "city": "Offerle",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Edwards"
+  },
+  {
+    "zip_code": 67564,
+    "latitude": 38.543586,
+    "longitude": -98.895484,
+    "city": "Olmitz",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67565,
+    "latitude": 38.53527,
+    "longitude": -99.053404,
+    "city": "Otis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67566,
+    "latitude": 38.005705,
+    "longitude": -97.977327,
+    "city": "Partridge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67567,
+    "latitude": 38.451554,
+    "longitude": -98.959346,
+    "city": "Pawnee Rock",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Barton"
+  },
+  {
+    "zip_code": 67568,
+    "latitude": 38.006255,
+    "longitude": -98.261811,
+    "city": "Plevna",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67570,
+    "latitude": 37.813853,
+    "longitude": -97.99759,
+    "city": "Pretty Prairie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67572,
+    "latitude": 38.635962,
+    "longitude": -99.932676,
+    "city": "Ransom",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67573,
+    "latitude": 38.26748,
+    "longitude": -98.392836,
+    "city": "Raymond",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67574,
+    "latitude": 38.196248,
+    "longitude": -99.403343,
+    "city": "Rozel",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Pawnee"
+  },
+  {
+    "zip_code": 67575,
+    "latitude": 38.467528,
+    "longitude": -99.24642,
+    "city": "Rush Center",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 67576,
+    "latitude": 38.060799,
+    "longitude": -98.78677,
+    "city": "Saint John",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 67578,
+    "latitude": 37.961811,
+    "longitude": -98.775,
+    "city": "Stafford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 67579,
+    "latitude": 38.224187,
+    "longitude": -98.183033,
+    "city": "Sterling",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rice"
+  },
+  {
+    "zip_code": 67581,
+    "latitude": 38.006382,
+    "longitude": -98.121898,
+    "city": "Sylvia",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67583,
+    "latitude": 37.822393,
+    "longitude": -98.359075,
+    "city": "Turon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67584,
+    "latitude": 38.641893,
+    "longitude": -100.170396,
+    "city": "Utica",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ness"
+  },
+  {
+    "zip_code": 67585,
+    "latitude": 37.94119,
+    "longitude": -97.871147,
+    "city": "Yoder",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Reno"
+  },
+  {
+    "zip_code": 67601,
+    "latitude": 38.878202,
+    "longitude": -99.334803,
+    "city": "Hays",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67621,
+    "latitude": 39.760857,
+    "longitude": -99.119565,
+    "city": "Agra",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67622,
+    "latitude": 39.891272,
+    "longitude": -99.711523,
+    "city": "Almena",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Norton"
+  },
+  {
+    "zip_code": 67623,
+    "latitude": 39.430147,
+    "longitude": -98.928883,
+    "city": "Alton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osborne"
+  },
+  {
+    "zip_code": 67625,
+    "latitude": 39.360027,
+    "longitude": -99.6876,
+    "city": "Bogue",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Graham"
+  },
+  {
+    "zip_code": 67626,
+    "latitude": 38.868931,
+    "longitude": -98.676303,
+    "city": "Bunker Hill",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67627,
+    "latitude": 38.927648,
+    "longitude": -99.216051,
+    "city": "Catharine",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67628,
+    "latitude": 39.784963,
+    "longitude": -98.785622,
+    "city": "Cedar",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 67629,
+    "latitude": 39.78432,
+    "longitude": -99.903004,
+    "city": "Clayton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Norton"
+  },
+  {
+    "zip_code": 67631,
+    "latitude": 38.91436,
+    "longitude": -99.872931,
+    "city": "Collyer",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Trego"
+  },
+  {
+    "zip_code": 67632,
+    "latitude": 39.334908,
+    "longitude": -99.39947,
+    "city": "Damar",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rooks"
+  },
+  {
+    "zip_code": 67634,
+    "latitude": 38.821918,
+    "longitude": -98.775418,
+    "city": "Dorrance",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67635,
+    "latitude": 39.784578,
+    "longitude": -100.459467,
+    "city": "Dresden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 67637,
+    "latitude": 38.950015,
+    "longitude": -99.336337,
+    "city": "Ellis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67638,
+    "latitude": 39.64705,
+    "longitude": -98.846513,
+    "city": "Gaylord",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Smith"
+  },
+  {
+    "zip_code": 67639,
+    "latitude": 39.784708,
+    "longitude": -99.347075,
+    "city": "Glade",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67640,
+    "latitude": 38.852325,
+    "longitude": -99.010803,
+    "city": "Gorham",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67642,
+    "latitude": 39.366018,
+    "longitude": -99.842382,
+    "city": "Hill City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Graham"
+  },
+  {
+    "zip_code": 67643,
+    "latitude": 39.679281,
+    "longitude": -100.294812,
+    "city": "Jennings",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 67644,
+    "latitude": 39.668671,
+    "longitude": -99.342534,
+    "city": "Kirwin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67645,
+    "latitude": 39.610503,
+    "longitude": -100.002777,
+    "city": "Lenora",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Norton"
+  },
+  {
+    "zip_code": 67646,
+    "latitude": 39.664328,
+    "longitude": -99.568879,
+    "city": "Logan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67647,
+    "latitude": 39.784708,
+    "longitude": -99.347075,
+    "city": "Long Island",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67648,
+    "latitude": 39.008115,
+    "longitude": -98.754407,
+    "city": "Lucas",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67649,
+    "latitude": 39.08201,
+    "longitude": -98.651072,
+    "city": "Luray",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67650,
+    "latitude": 39.352426,
+    "longitude": -100.075464,
+    "city": "Morland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Graham"
+  },
+  {
+    "zip_code": 67651,
+    "latitude": 39.227878,
+    "longitude": -98.945419,
+    "city": "Natoma",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Osborne"
+  },
+  {
+    "zip_code": 67653,
+    "latitude": 39.837074,
+    "longitude": -100.188191,
+    "city": "Norcatur",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 67654,
+    "latitude": 39.827955,
+    "longitude": -99.891726,
+    "city": "Norton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Norton"
+  },
+  {
+    "zip_code": 67656,
+    "latitude": 38.91436,
+    "longitude": -99.872931,
+    "city": "Ogallah",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Trego"
+  },
+  {
+    "zip_code": 67657,
+    "latitude": 39.229778,
+    "longitude": -99.346263,
+    "city": "Palco",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rooks"
+  },
+  {
+    "zip_code": 67658,
+    "latitude": 39.079529,
+    "longitude": -98.936673,
+    "city": "Paradise",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67659,
+    "latitude": 39.348243,
+    "longitude": -99.971939,
+    "city": "Penokee",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Graham"
+  },
+  {
+    "zip_code": 67660,
+    "latitude": 38.715293,
+    "longitude": -99.171847,
+    "city": "Pfeifer",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67661,
+    "latitude": 39.779113,
+    "longitude": -99.346302,
+    "city": "Phillipsburg",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67663,
+    "latitude": 39.248844,
+    "longitude": -99.316373,
+    "city": "Plainville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rooks"
+  },
+  {
+    "zip_code": 67664,
+    "latitude": 39.75337,
+    "longitude": -99.348129,
+    "city": "Prairie View",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67665,
+    "latitude": 38.905159,
+    "longitude": -98.784797,
+    "city": "Russell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67667,
+    "latitude": 38.712772,
+    "longitude": -99.332221,
+    "city": "Schoenchen",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67669,
+    "latitude": 39.412166,
+    "longitude": -99.369872,
+    "city": "Stockton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rooks"
+  },
+  {
+    "zip_code": 67670,
+    "latitude": 39.784708,
+    "longitude": -99.347075,
+    "city": "Stuttgart",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Phillips"
+  },
+  {
+    "zip_code": 67671,
+    "latitude": 38.915745,
+    "longitude": -99.141972,
+    "city": "Victoria",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67672,
+    "latitude": 39.020792,
+    "longitude": -99.888083,
+    "city": "Wa Keeney",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Trego"
+  },
+  {
+    "zip_code": 67673,
+    "latitude": 39.067957,
+    "longitude": -98.788651,
+    "city": "Waldo",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Russell"
+  },
+  {
+    "zip_code": 67674,
+    "latitude": 38.873144,
+    "longitude": -99.094913,
+    "city": "Walker",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ellis"
+  },
+  {
+    "zip_code": 67675,
+    "latitude": 39.401699,
+    "longitude": -99.244147,
+    "city": "Woodston",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rooks"
+  },
+  {
+    "zip_code": 67701,
+    "latitude": 39.40152,
+    "longitude": -100.973696,
+    "city": "Colby",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 67730,
+    "latitude": 39.824688,
+    "longitude": -101.041371,
+    "city": "Atwood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rawlins"
+  },
+  {
+    "zip_code": 67731,
+    "latitude": 39.750443,
+    "longitude": -101.532798,
+    "city": "Bird City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 67732,
+    "latitude": 39.358974,
+    "longitude": -101.061905,
+    "city": "Brewster",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 67733,
+    "latitude": 39.366545,
+    "longitude": -101.49405,
+    "city": "Edson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 67734,
+    "latitude": 39.459642,
+    "longitude": -100.934517,
+    "city": "Gem",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 67735,
+    "latitude": 39.358123,
+    "longitude": -101.798885,
+    "city": "Goodland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 67736,
+    "latitude": 38.915304,
+    "longitude": -100.483367,
+    "city": "Gove",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gove"
+  },
+  {
+    "zip_code": 67737,
+    "latitude": 39.11464,
+    "longitude": -100.46688,
+    "city": "Grainfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gove"
+  },
+  {
+    "zip_code": 67738,
+    "latitude": 39.125891,
+    "longitude": -100.631872,
+    "city": "Grinnell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gove"
+  },
+  {
+    "zip_code": 67739,
+    "latitude": 39.909207,
+    "longitude": -100.784803,
+    "city": "Herndon",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rawlins"
+  },
+  {
+    "zip_code": 67740,
+    "latitude": 39.355013,
+    "longitude": -100.440513,
+    "city": "Hoxie",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 67741,
+    "latitude": 39.365231,
+    "longitude": -101.967481,
+    "city": "Kanorado",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sherman"
+  },
+  {
+    "zip_code": 67743,
+    "latitude": 39.413268,
+    "longitude": -101.148818,
+    "city": "Levant",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 67744,
+    "latitude": 39.785211,
+    "longitude": -101.076282,
+    "city": "Ludell",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rawlins"
+  },
+  {
+    "zip_code": 67745,
+    "latitude": 39.785619,
+    "longitude": -101.370071,
+    "city": "Mc Donald",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Rawlins"
+  },
+  {
+    "zip_code": 67747,
+    "latitude": 39.046409,
+    "longitude": -101.063728,
+    "city": "Monument",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 67748,
+    "latitude": 38.945805,
+    "longitude": -100.970176,
+    "city": "Oakley",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 67749,
+    "latitude": 39.820834,
+    "longitude": -100.529554,
+    "city": "Oberlin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 67751,
+    "latitude": 39.063922,
+    "longitude": -100.233439,
+    "city": "Park",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gove"
+  },
+  {
+    "zip_code": 67752,
+    "latitude": 39.063613,
+    "longitude": -100.238001,
+    "city": "Quinter",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gove"
+  },
+  {
+    "zip_code": 67753,
+    "latitude": 39.390715,
+    "longitude": -101.049033,
+    "city": "Rexford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 67756,
+    "latitude": 39.680371,
+    "longitude": -101.909252,
+    "city": "Saint Francis",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Cheyenne"
+  },
+  {
+    "zip_code": 67757,
+    "latitude": 39.541125,
+    "longitude": -100.567722,
+    "city": "Selden",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Sheridan"
+  },
+  {
+    "zip_code": 67758,
+    "latitude": 38.89428,
+    "longitude": -101.748965,
+    "city": "Sharon Springs",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wallace"
+  },
+  {
+    "zip_code": 67761,
+    "latitude": 38.916183,
+    "longitude": -101.762678,
+    "city": "Wallace",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wallace"
+  },
+  {
+    "zip_code": 67762,
+    "latitude": 38.916183,
+    "longitude": -101.762678,
+    "city": "Weskan",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wallace"
+  },
+  {
+    "zip_code": 67764,
+    "latitude": 38.921702,
+    "longitude": -101.094305,
+    "city": "Winona",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Logan"
+  },
+  {
+    "zip_code": 67801,
+    "latitude": 37.690531,
+    "longitude": -99.902421,
+    "city": "Dodge City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 67831,
+    "latitude": 37.171946,
+    "longitude": -99.769576,
+    "city": "Ashland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 67834,
+    "latitude": 37.690525,
+    "longitude": -99.882532,
+    "city": "Bucklin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 67835,
+    "latitude": 37.803608,
+    "longitude": -100.338634,
+    "city": "Cimarron",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 67836,
+    "latitude": 37.999701,
+    "longitude": -101.785968,
+    "city": "Coolidge",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 67837,
+    "latitude": 37.738785,
+    "longitude": -100.505348,
+    "city": "Copeland",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 67838,
+    "latitude": 37.964591,
+    "longitude": -101.190998,
+    "city": "Deerfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kearny"
+  },
+  {
+    "zip_code": 67839,
+    "latitude": 38.474188,
+    "longitude": -100.464651,
+    "city": "Dighton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lane"
+  },
+  {
+    "zip_code": 67840,
+    "latitude": 37.237186,
+    "longitude": -99.82422,
+    "city": "Englewood",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 67841,
+    "latitude": 37.624913,
+    "longitude": -100.27543,
+    "city": "Ensign",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 67842,
+    "latitude": 37.587839,
+    "longitude": -99.799449,
+    "city": "Ford",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 67844,
+    "latitude": 37.279983,
+    "longitude": -100.211034,
+    "city": "Fowler",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 67846,
+    "latitude": 38.000771,
+    "longitude": -100.664407,
+    "city": "Garden City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Finney"
+  },
+  {
+    "zip_code": 67849,
+    "latitude": 38.121492,
+    "longitude": -99.709532,
+    "city": "Hanston",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Hodgeman"
+  },
+  {
+    "zip_code": 67850,
+    "latitude": 38.578991,
+    "longitude": -100.600786,
+    "city": "Healy",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Lane"
+  },
+  {
+    "zip_code": 67851,
+    "latitude": 38.098129,
+    "longitude": -100.961803,
+    "city": "Holcomb",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Finney"
+  },
+  {
+    "zip_code": 67853,
+    "latitude": 37.789051,
+    "longitude": -100.46093,
+    "city": "Ingalls",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 67854,
+    "latitude": 38.023937,
+    "longitude": -99.893681,
+    "city": "Jetmore",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Hodgeman"
+  },
+  {
+    "zip_code": 67855,
+    "latitude": 37.562997,
+    "longitude": -101.707858,
+    "city": "Johnson",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stanton"
+  },
+  {
+    "zip_code": 67857,
+    "latitude": 37.999701,
+    "longitude": -101.785968,
+    "city": "Kendall",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 67859,
+    "latitude": 37.204223,
+    "longitude": -100.701401,
+    "city": "Kismet",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 67860,
+    "latitude": 37.938907,
+    "longitude": -101.264981,
+    "city": "Lakin",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Kearny"
+  },
+  {
+    "zip_code": 67861,
+    "latitude": 38.477827,
+    "longitude": -101.293036,
+    "city": "Leoti",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wichita"
+  },
+  {
+    "zip_code": 67862,
+    "latitude": 37.536283,
+    "longitude": -101.904726,
+    "city": "Manter",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stanton"
+  },
+  {
+    "zip_code": 67863,
+    "latitude": 38.483749,
+    "longitude": -101.283946,
+    "city": "Marienthal",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Wichita"
+  },
+  {
+    "zip_code": 67864,
+    "latitude": 37.238357,
+    "longitude": -100.316583,
+    "city": "Meade",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 67865,
+    "latitude": 37.442546,
+    "longitude": -100.008811,
+    "city": "Minneola",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 67867,
+    "latitude": 37.598638,
+    "longitude": -100.415568,
+    "city": "Montezuma",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Gray"
+  },
+  {
+    "zip_code": 67868,
+    "latitude": 37.905994,
+    "longitude": -100.752256,
+    "city": "Pierceville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Finney"
+  },
+  {
+    "zip_code": 67869,
+    "latitude": 37.2419,
+    "longitude": -100.435253,
+    "city": "Plains",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Meade"
+  },
+  {
+    "zip_code": 67870,
+    "latitude": 37.441023,
+    "longitude": -100.998474,
+    "city": "Satanta",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 67871,
+    "latitude": 38.482307,
+    "longitude": -100.906427,
+    "city": "Scott City",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 67876,
+    "latitude": 37.729884,
+    "longitude": -99.715817,
+    "city": "Spearville",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 67877,
+    "latitude": 37.482236,
+    "longitude": -100.848783,
+    "city": "Sublette",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Haskell"
+  },
+  {
+    "zip_code": 67878,
+    "latitude": 37.986428,
+    "longitude": -101.751732,
+    "city": "Syracuse",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 67879,
+    "latitude": 38.469704,
+    "longitude": -101.747853,
+    "city": "Tribune",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Greeley"
+  },
+  {
+    "zip_code": 67880,
+    "latitude": 37.562467,
+    "longitude": -101.308565,
+    "city": "Ulysses",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 67882,
+    "latitude": 37.814013,
+    "longitude": -99.903061,
+    "city": "Wright",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Ford"
+  },
+  {
+    "zip_code": 67901,
+    "latitude": 37.043237,
+    "longitude": -100.873809,
+    "city": "Liberal",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 67905,
+    "latitude": 37.021641,
+    "longitude": -100.938049,
+    "city": "Liberal",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Seward"
+  },
+  {
+    "zip_code": 67950,
+    "latitude": 37.00405,
+    "longitude": -101.896973,
+    "city": "Elkhart",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 67951,
+    "latitude": 37.243161,
+    "longitude": -101.281684,
+    "city": "Hugoton",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 67952,
+    "latitude": 37.325308,
+    "longitude": -101.205904,
+    "city": "Moscow",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Stevens"
+  },
+  {
+    "zip_code": 67953,
+    "latitude": 37.191239,
+    "longitude": -101.798749,
+    "city": "Richfield",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 67954,
+    "latitude": 37.081137,
+    "longitude": -101.60469,
+    "city": "Rolla",
+    "state": "KS",
+    "full_state": "Kansas",
+    "county": "Morton"
+  },
+  {
+    "zip_code": 68001,
+    "latitude": 41.332034,
+    "longitude": -96.949369,
+    "city": "Abie",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68002,
+    "latitude": 41.501979,
+    "longitude": -96.317932,
+    "city": "Arlington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68003,
+    "latitude": 41.102696,
+    "longitude": -96.577634,
+    "city": "Ashland",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68004,
+    "latitude": 41.995729,
+    "longitude": -96.671008,
+    "city": "Bancroft",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cuming"
+  },
+  {
+    "zip_code": 68005,
+    "latitude": 41.132948,
+    "longitude": -95.903956,
+    "city": "Bellevue",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Sarpy"
+  },
+  {
+    "zip_code": 68007,
+    "latitude": 41.357015,
+    "longitude": -96.203393,
+    "city": "Bennington",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68008,
+    "latitude": 41.543582,
+    "longitude": -96.17653,
+    "city": "Blair",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68009,
+    "latitude": 41.53827,
+    "longitude": -96.182295,
+    "city": "Blair",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 68010,
+    "latitude": 41.2587,
+    "longitude": -96.133047,
+    "city": "Boys Town",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 68014,
+    "latitude": 41.278245,
+    "longitude": -96.975393,
+    "city": "Bruno",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 68015,
+    "latitude": 41.365495,
+    "longitude": -96.631576,
+    "city": "Cedar Bluffs",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68016,
+    "latitude": 41.042487,
+    "longitude": -96.104359,
+    "city": "Cedar Creek",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 68017,
+    "latitude": 41.096052,
+    "longitude": -96.638116,
+    "city": "Ceresco",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  },
+  {
+    "zip_code": 68018,
+    "latitude": 41.307157,
+    "longitude": -96.610014,
+    "city": "Colon",
+    "state": "NE",
+    "full_state": "Nebraska",
+    "county": "Saunders"
+  }
+]

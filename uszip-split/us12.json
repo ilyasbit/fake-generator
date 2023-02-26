@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 43961,
+    "latitude": 40.518479,
+    "longitude": -80.628515,
+    "city": "Stratton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43962,
+    "latitude": 40.679456,
+    "longitude": -80.881583,
+    "city": "Summitville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 43963,
+    "latitude": 40.22676,
+    "longitude": -80.738107,
+    "city": "Tiltonsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43964,
+    "latitude": 40.477049,
+    "longitude": -80.670057,
+    "city": "Toronto",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43966,
+    "latitude": 40.360979,
+    "longitude": -80.839519,
+    "city": "Unionport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43967,
+    "latitude": 40.020007,
+    "longitude": -80.916901,
+    "city": "Warnock",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43968,
+    "latitude": 40.650362,
+    "longitude": -80.692008,
+    "city": "Wellsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 43970,
+    "latitude": 40.46947,
+    "longitude": -80.889206,
+    "city": "Wolf Run",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43971,
+    "latitude": 40.338699,
+    "longitude": -80.810216,
+    "city": "Yorkville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 43972,
+    "latitude": 40.103155,
+    "longitude": -80.975639,
+    "city": "Bannock",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43973,
+    "latitude": 40.230697,
+    "longitude": -81.223669,
+    "city": "Freeport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43974,
+    "latitude": 40.181476,
+    "longitude": -80.888159,
+    "city": "Harrisville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43976,
+    "latitude": 40.314449,
+    "longitude": -81.070506,
+    "city": "Hopedale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43977,
+    "latitude": 40.115634,
+    "longitude": -81.090224,
+    "city": "Flushing",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43981,
+    "latitude": 40.183933,
+    "longitude": -80.995856,
+    "city": "New Athens",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43983,
+    "latitude": 40.134188,
+    "longitude": -81.194538,
+    "city": "Piedmont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43984,
+    "latitude": 40.29649,
+    "longitude": -81.102502,
+    "city": "New Rumley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43985,
+    "latitude": 40.011338,
+    "longitude": -80.970135,
+    "city": "Holloway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Belmont"
+  },
+  {
+    "zip_code": 43986,
+    "latitude": 40.370274,
+    "longitude": -80.996826,
+    "city": "Jewett",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43988,
+    "latitude": 40.307421,
+    "longitude": -81.104831,
+    "city": "Scio",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 43989,
+    "latitude": 40.29649,
+    "longitude": -81.102502,
+    "city": "Short Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 44001,
+    "latitude": 41.361746,
+    "longitude": -82.253828,
+    "city": "Amherst",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44003,
+    "latitude": 41.740136,
+    "longitude": -80.602278,
+    "city": "Andover",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44004,
+    "latitude": 41.772583,
+    "longitude": -80.74349,
+    "city": "Ashtabula",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44005,
+    "latitude": 41.730146,
+    "longitude": -80.955313,
+    "city": "Ashtabula",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44010,
+    "latitude": 41.772459,
+    "longitude": -80.856463,
+    "city": "Austinburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44011,
+    "latitude": 41.448492,
+    "longitude": -82.019866,
+    "city": "Avon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44012,
+    "latitude": 41.49674,
+    "longitude": -82.017527,
+    "city": "Avon Lake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44017,
+    "latitude": 41.456905,
+    "longitude": -81.693019,
+    "city": "Berea",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44021,
+    "latitude": 41.447117,
+    "longitude": -81.152938,
+    "city": "Burton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44022,
+    "latitude": 41.449353,
+    "longitude": -81.431436,
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44023,
+    "latitude": 41.387203,
+    "longitude": -81.304222,
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44024,
+    "latitude": 41.572432,
+    "longitude": -81.157142,
+    "city": "Chardon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44026,
+    "latitude": 41.530351,
+    "longitude": -81.307472,
+    "city": "Chesterland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44028,
+    "latitude": 41.3056,
+    "longitude": -81.949111,
+    "city": "Columbia Station",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44030,
+    "latitude": 41.756356,
+    "longitude": -80.616195,
+    "city": "Conneaut",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44032,
+    "latitude": 41.677076,
+    "longitude": -80.673288,
+    "city": "Dorset",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44033,
+    "latitude": 41.53335,
+    "longitude": -81.111175,
+    "city": "East Claridon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44035,
+    "latitude": 41.371396,
+    "longitude": -82.105112,
+    "city": "Elyria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44036,
+    "latitude": 41.401494,
+    "longitude": -82.077068,
+    "city": "Elyria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44039,
+    "latitude": 41.377776,
+    "longitude": -82.019365,
+    "city": "North Ridgeville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44040,
+    "latitude": 41.513251,
+    "longitude": -81.414597,
+    "city": "Gates Mills",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44041,
+    "latitude": 41.736396,
+    "longitude": -80.785627,
+    "city": "Geneva",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44044,
+    "latitude": 41.2745,
+    "longitude": -82.046168,
+    "city": "Grafton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44045,
+    "latitude": 41.742693,
+    "longitude": -81.282125,
+    "city": "Grand River",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44046,
+    "latitude": 41.538433,
+    "longitude": -81.073366,
+    "city": "Huntsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44047,
+    "latitude": 41.700536,
+    "longitude": -80.693315,
+    "city": "Jefferson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44048,
+    "latitude": 41.846175,
+    "longitude": -80.647299,
+    "city": "Kingsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44049,
+    "latitude": 41.26635,
+    "longitude": -82.306383,
+    "city": "Kipton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44050,
+    "latitude": 41.258201,
+    "longitude": -82.119671,
+    "city": "Lagrange",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44052,
+    "latitude": 41.450991,
+    "longitude": -82.166534,
+    "city": "Lorain",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44053,
+    "latitude": 41.425292,
+    "longitude": -82.218185,
+    "city": "Lorain",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44054,
+    "latitude": 41.463541,
+    "longitude": -82.089769,
+    "city": "Sheffield Lake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44055,
+    "latitude": 41.434492,
+    "longitude": -82.134021,
+    "city": "Lorain",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44056,
+    "latitude": 41.311288,
+    "longitude": -81.492511,
+    "city": "Macedonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44057,
+    "latitude": 41.781467,
+    "longitude": -81.073247,
+    "city": "Madison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44060,
+    "latitude": 41.679291,
+    "longitude": -81.328779,
+    "city": "Mentor",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44061,
+    "latitude": 41.910676,
+    "longitude": -81.249027,
+    "city": "Mentor",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44062,
+    "latitude": 41.453242,
+    "longitude": -81.068303,
+    "city": "Middlefield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44064,
+    "latitude": 41.603114,
+    "longitude": -81.051767,
+    "city": "Montville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44065,
+    "latitude": 41.456099,
+    "longitude": -81.273831,
+    "city": "Newbury",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44067,
+    "latitude": 41.306454,
+    "longitude": -81.54079,
+    "city": "Northfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44068,
+    "latitude": 41.904594,
+    "longitude": -80.685034,
+    "city": "North Kingsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44070,
+    "latitude": 41.417347,
+    "longitude": -81.922461,
+    "city": "North Olmsted",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44072,
+    "latitude": 41.468754,
+    "longitude": -81.328211,
+    "city": "Novelty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44073,
+    "latitude": 41.837043,
+    "longitude": -80.955545,
+    "city": "Novelty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44074,
+    "latitude": 41.294649,
+    "longitude": -82.227628,
+    "city": "Oberlin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44076,
+    "latitude": 41.588584,
+    "longitude": -80.834349,
+    "city": "Orwell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44077,
+    "latitude": 41.707918,
+    "longitude": -81.19903,
+    "city": "Painesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44080,
+    "latitude": 41.364495,
+    "longitude": -81.053411,
+    "city": "Parkman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44081,
+    "latitude": 41.768495,
+    "longitude": -81.14626,
+    "city": "Perry",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44082,
+    "latitude": 41.769302,
+    "longitude": -80.573251,
+    "city": "Pierpont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44084,
+    "latitude": 41.689765,
+    "longitude": -80.905118,
+    "city": "Rock Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44085,
+    "latitude": 41.624828,
+    "longitude": -80.770777,
+    "city": "Rome",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44086,
+    "latitude": 41.673116,
+    "longitude": -81.052453,
+    "city": "Thompson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Geauga"
+  },
+  {
+    "zip_code": 44087,
+    "latitude": 41.313304,
+    "longitude": -81.440435,
+    "city": "Twinsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44088,
+    "latitude": 41.783323,
+    "longitude": -81.003385,
+    "city": "Unionville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44089,
+    "latitude": 41.380755,
+    "longitude": -82.401637,
+    "city": "Vermilion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44090,
+    "latitude": 41.160846,
+    "longitude": -82.211778,
+    "city": "Wellington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lorain"
+  },
+  {
+    "zip_code": 44092,
+    "latitude": 41.597299,
+    "longitude": -81.458638,
+    "city": "Wickliffe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44093,
+    "latitude": 41.535263,
+    "longitude": -80.726693,
+    "city": "Williamsfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44094,
+    "latitude": 41.637997,
+    "longitude": -81.377383,
+    "city": "Willoughby",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44095,
+    "latitude": 41.658653,
+    "longitude": -81.444531,
+    "city": "Eastlake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44096,
+    "latitude": 41.910676,
+    "longitude": -81.249027,
+    "city": "Willoughby",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44097,
+    "latitude": 41.910676,
+    "longitude": -81.249027,
+    "city": "Eastlake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 44099,
+    "latitude": 41.549414,
+    "longitude": -80.967673,
+    "city": "Windsor",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashtabula"
+  },
+  {
+    "zip_code": 44101,
+    "latitude": 41.523401,
+    "longitude": -81.599648,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44102,
+    "latitude": 41.47225,
+    "longitude": -81.740305,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44103,
+    "latitude": 41.51805,
+    "longitude": -81.6425,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44104,
+    "latitude": 41.480502,
+    "longitude": -81.629599,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44105,
+    "latitude": 41.452502,
+    "longitude": -81.632912,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44106,
+    "latitude": 41.504751,
+    "longitude": -81.602799,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44107,
+    "latitude": 41.514849,
+    "longitude": -81.637249,
+    "city": "Lakewood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44108,
+    "latitude": 41.54345,
+    "longitude": -81.608297,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44109,
+    "latitude": 41.445963,
+    "longitude": -81.698483,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44110,
+    "latitude": 41.5641,
+    "longitude": -81.57156,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44111,
+    "latitude": 41.4595,
+    "longitude": -81.787006,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44112,
+    "latitude": 41.528632,
+    "longitude": -81.545576,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44113,
+    "latitude": 41.473782,
+    "longitude": -81.64297,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44114,
+    "latitude": 41.5145,
+    "longitude": -81.677302,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44115,
+    "latitude": 41.490351,
+    "longitude": -81.675602,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44116,
+    "latitude": 41.469497,
+    "longitude": -81.849209,
+    "city": "Rocky River",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44117,
+    "latitude": 41.566834,
+    "longitude": -81.526142,
+    "city": "Euclid",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44118,
+    "latitude": 41.500752,
+    "longitude": -81.551645,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44119,
+    "latitude": 41.583849,
+    "longitude": -81.544409,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44120,
+    "latitude": 41.473102,
+    "longitude": -81.579746,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44121,
+    "latitude": 41.527651,
+    "longitude": -81.532344,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44122,
+    "latitude": 41.473248,
+    "longitude": -81.505389,
+    "city": "Beachwood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44123,
+    "latitude": 41.602548,
+    "longitude": -81.525842,
+    "city": "Euclid",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44124,
+    "latitude": 41.501001,
+    "longitude": -81.469427,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44125,
+    "latitude": 41.43349,
+    "longitude": -81.632298,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44126,
+    "latitude": 41.442927,
+    "longitude": -81.852959,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44127,
+    "latitude": 41.472551,
+    "longitude": -81.64919,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44128,
+    "latitude": 41.439352,
+    "longitude": -81.533893,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44129,
+    "latitude": 41.437052,
+    "longitude": -81.626348,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44130,
+    "latitude": 41.3826,
+    "longitude": -81.796406,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44131,
+    "latitude": 41.395652,
+    "longitude": -81.64231,
+    "city": "Independence",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44132,
+    "latitude": 41.606049,
+    "longitude": -81.510858,
+    "city": "Euclid",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44133,
+    "latitude": 41.314603,
+    "longitude": -81.745102,
+    "city": "North Royalton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44134,
+    "latitude": 41.381701,
+    "longitude": -81.726551,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44135,
+    "latitude": 41.4797,
+    "longitude": -81.653799,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44136,
+    "latitude": 41.313268,
+    "longitude": -81.831656,
+    "city": "Strongsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44137,
+    "latitude": 41.404703,
+    "longitude": -81.557493,
+    "city": "Maple Heights",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44138,
+    "latitude": 41.4656,
+    "longitude": -81.768304,
+    "city": "Olmsted Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44139,
+    "latitude": 41.386753,
+    "longitude": -81.440322,
+    "city": "Solon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44140,
+    "latitude": 41.490967,
+    "longitude": -81.921513,
+    "city": "Bay Village",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44141,
+    "latitude": 41.362052,
+    "longitude": -81.643247,
+    "city": "Brecksville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44142,
+    "latitude": 41.401,
+    "longitude": -81.832107,
+    "city": "Brookpark",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44143,
+    "latitude": 41.55915,
+    "longitude": -81.48279,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44144,
+    "latitude": 41.438501,
+    "longitude": -81.739804,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44145,
+    "latitude": 41.445145,
+    "longitude": -81.921811,
+    "city": "Westlake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44146,
+    "latitude": 41.389054,
+    "longitude": -81.536842,
+    "city": "Bedford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44147,
+    "latitude": 41.314053,
+    "longitude": -81.673099,
+    "city": "Broadview Heights",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44149,
+    "latitude": 41.311458,
+    "longitude": -81.853087,
+    "city": "Strongsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44177,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44178,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44179,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44181,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44184,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44185,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44186,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44188,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44189,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44190,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44191,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44192,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44193,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44194,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44195,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44197,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44198,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44199,
+    "latitude": 41.685744,
+    "longitude": -81.672797,
+    "city": "Cleveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Cuyahoga"
+  },
+  {
+    "zip_code": 44201,
+    "latitude": 41.040507,
+    "longitude": -81.194614,
+    "city": "Atwater",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44202,
+    "latitude": 41.311704,
+    "longitude": -81.292977,
+    "city": "Aurora",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44203,
+    "latitude": 41.019655,
+    "longitude": -81.621195,
+    "city": "Barberton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44210,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Bath",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44211,
+    "latitude": 41.169816,
+    "longitude": -81.312416,
+    "city": "Brady Lake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44212,
+    "latitude": 41.206132,
+    "longitude": -81.82281,
+    "city": "Brunswick",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44214,
+    "latitude": 40.927483,
+    "longitude": -81.996351,
+    "city": "Burbank",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44215,
+    "latitude": 41.065342,
+    "longitude": -81.901693,
+    "city": "Chippewa Lake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44216,
+    "latitude": 40.948706,
+    "longitude": -81.571443,
+    "city": "Clinton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44217,
+    "latitude": 40.945417,
+    "longitude": -81.912937,
+    "city": "Creston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44221,
+    "latitude": 41.143906,
+    "longitude": -81.473585,
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44222,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44223,
+    "latitude": 41.170605,
+    "longitude": -81.526738,
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44224,
+    "latitude": 41.172402,
+    "longitude": -81.450184,
+    "city": "Stow",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44230,
+    "latitude": 40.958926,
+    "longitude": -81.770787,
+    "city": "Doylestown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44231,
+    "latitude": 41.291405,
+    "longitude": -81.081534,
+    "city": "Garrettsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44232,
+    "latitude": 40.932506,
+    "longitude": -81.461987,
+    "city": "Green",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44233,
+    "latitude": 41.23648,
+    "longitude": -81.736072,
+    "city": "Hinckley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44234,
+    "latitude": 41.310354,
+    "longitude": -81.1652,
+    "city": "Hiram",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44235,
+    "latitude": 41.038796,
+    "longitude": -82.113597,
+    "city": "Homerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44236,
+    "latitude": 41.244023,
+    "longitude": -81.476335,
+    "city": "Hudson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44237,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Hudson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44238,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Hudson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44240,
+    "latitude": 41.205705,
+    "longitude": -81.313278,
+    "city": "Kent",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44241,
+    "latitude": 41.241655,
+    "longitude": -81.340528,
+    "city": "Streetsboro",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44242,
+    "latitude": 41.170006,
+    "longitude": -81.196615,
+    "city": "Kent",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44243,
+    "latitude": 41.147537,
+    "longitude": -81.341531,
+    "city": "Kent",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44250,
+    "latitude": 41.022156,
+    "longitude": -81.427942,
+    "city": "Lakemore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44251,
+    "latitude": 41.028837,
+    "longitude": -81.928342,
+    "city": "Westfield Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44253,
+    "latitude": 41.162553,
+    "longitude": -82.020109,
+    "city": "Litchfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44254,
+    "latitude": 41.044913,
+    "longitude": -81.992065,
+    "city": "Lodi",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44255,
+    "latitude": 41.282355,
+    "longitude": -81.229924,
+    "city": "Mantua",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44256,
+    "latitude": 41.109975,
+    "longitude": -81.855048,
+    "city": "Medina",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44258,
+    "latitude": 41.127594,
+    "longitude": -81.841079,
+    "city": "Medina",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44260,
+    "latitude": 41.026954,
+    "longitude": -81.404982,
+    "city": "Mogadore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44262,
+    "latitude": 41.138206,
+    "longitude": -81.431677,
+    "city": "Munroe Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44264,
+    "latitude": 41.230355,
+    "longitude": -81.549261,
+    "city": "Peninsula",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44265,
+    "latitude": 41.010907,
+    "longitude": -81.297727,
+    "city": "Randolph",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44266,
+    "latitude": 41.163755,
+    "longitude": -81.172922,
+    "city": "Ravenna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44270,
+    "latitude": 40.949448,
+    "longitude": -81.862397,
+    "city": "Rittman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44272,
+    "latitude": 41.078728,
+    "longitude": -81.173572,
+    "city": "Rootstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44273,
+    "latitude": 41.044552,
+    "longitude": -81.960694,
+    "city": "Seville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44274,
+    "latitude": 41.09924,
+    "longitude": -81.734329,
+    "city": "Sharon Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44275,
+    "latitude": 41.081789,
+    "longitude": -82.052299,
+    "city": "Spencer",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44276,
+    "latitude": 40.936853,
+    "longitude": -81.830515,
+    "city": "Sterling",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44278,
+    "latitude": 41.096656,
+    "longitude": -81.428883,
+    "city": "Tallmadge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44280,
+    "latitude": 41.233736,
+    "longitude": -81.917187,
+    "city": "Valley City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44281,
+    "latitude": 41.071841,
+    "longitude": -81.751008,
+    "city": "Wadsworth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44282,
+    "latitude": 41.132725,
+    "longitude": -81.929185,
+    "city": "Wadsworth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Medina"
+  },
+  {
+    "zip_code": 44285,
+    "latitude": 41.159706,
+    "longitude": -81.070017,
+    "city": "Wayland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44286,
+    "latitude": 41.235492,
+    "longitude": -81.621093,
+    "city": "Richfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44287,
+    "latitude": 40.925084,
+    "longitude": -82.070909,
+    "city": "West Salem",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44288,
+    "latitude": 41.239066,
+    "longitude": -81.096118,
+    "city": "Windham",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44301,
+    "latitude": 41.012239,
+    "longitude": -81.507831,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44302,
+    "latitude": 41.090605,
+    "longitude": -81.539039,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44303,
+    "latitude": 41.104355,
+    "longitude": -81.535089,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44304,
+    "latitude": 41.083293,
+    "longitude": -81.506187,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44305,
+    "latitude": 41.078706,
+    "longitude": -81.458435,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44306,
+    "latitude": 41.041805,
+    "longitude": -81.479986,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44307,
+    "latitude": 41.073207,
+    "longitude": -81.543889,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44308,
+    "latitude": 41.082455,
+    "longitude": -81.517438,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44309,
+    "latitude": 41.096205,
+    "longitude": -81.512338,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44310,
+    "latitude": 41.105505,
+    "longitude": -81.498182,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44311,
+    "latitude": 41.064955,
+    "longitude": -81.522838,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44312,
+    "latitude": 41.018961,
+    "longitude": -81.443312,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44313,
+    "latitude": 41.16112,
+    "longitude": -81.576591,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44314,
+    "latitude": 41.041555,
+    "longitude": -81.559791,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44315,
+    "latitude": 41.027977,
+    "longitude": -81.463238,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44316,
+    "latitude": 41.067506,
+    "longitude": -81.484686,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44317,
+    "latitude": 41.052455,
+    "longitude": -81.529139,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44319,
+    "latitude": 40.978755,
+    "longitude": -81.524376,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44320,
+    "latitude": 41.07739,
+    "longitude": -81.579391,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44321,
+    "latitude": 41.100154,
+    "longitude": -81.644346,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44322,
+    "latitude": 41.049143,
+    "longitude": -81.581032,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44325,
+    "latitude": 41.076425,
+    "longitude": -81.51026,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44326,
+    "latitude": 41.172713,
+    "longitude": -81.472701,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44328,
+    "latitude": 41.075955,
+    "longitude": -81.520588,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44333,
+    "latitude": 41.155154,
+    "longitude": -81.631394,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44334,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Fairlawn",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44372,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44393,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44396,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44397,
+    "latitude": 41.071603,
+    "longitude": -81.525556,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44398,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44399,
+    "latitude": 41.128705,
+    "longitude": -81.53999,
+    "city": "Akron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44401,
+    "latitude": 41.034545,
+    "longitude": -80.928626,
+    "city": "Berlin Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44402,
+    "latitude": 41.376806,
+    "longitude": -80.866704,
+    "city": "Bristolville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44403,
+    "latitude": 41.238176,
+    "longitude": -80.573511,
+    "city": "Brookfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44404,
+    "latitude": 41.329006,
+    "longitude": -80.559111,
+    "city": "Burghill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44405,
+    "latitude": 41.077708,
+    "longitude": -80.591894,
+    "city": "Campbell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44406,
+    "latitude": 41.008621,
+    "longitude": -80.822094,
+    "city": "Canfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44408,
+    "latitude": 40.857858,
+    "longitude": -80.730023,
+    "city": "Columbiana",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44410,
+    "latitude": 41.354945,
+    "longitude": -80.778301,
+    "city": "Cortland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44411,
+    "latitude": 41.037807,
+    "longitude": -81.061016,
+    "city": "Deerfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44412,
+    "latitude": 41.102836,
+    "longitude": -81.049216,
+    "city": "Diamond",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Portage"
+  },
+  {
+    "zip_code": 44413,
+    "latitude": 40.837509,
+    "longitude": -80.646556,
+    "city": "East Palestine",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44415,
+    "latitude": 40.76304,
+    "longitude": -80.704245,
+    "city": "Elkton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44416,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Ellsworth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44417,
+    "latitude": 41.416766,
+    "longitude": -80.667111,
+    "city": "Farmdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44418,
+    "latitude": 41.307463,
+    "longitude": -80.602868,
+    "city": "Fowler",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44420,
+    "latitude": 41.17133,
+    "longitude": -80.795028,
+    "city": "Girard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44422,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Greenford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44423,
+    "latitude": 40.760843,
+    "longitude": -80.887866,
+    "city": "Hanoverton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44424,
+    "latitude": 41.309096,
+    "longitude": -80.584681,
+    "city": "Hartford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44425,
+    "latitude": 41.236088,
+    "longitude": -80.736973,
+    "city": "Hubbard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44427,
+    "latitude": 40.729298,
+    "longitude": -80.942791,
+    "city": "Kensington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44428,
+    "latitude": 41.327247,
+    "longitude": -80.601336,
+    "city": "Kinsman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44429,
+    "latitude": 41.097587,
+    "longitude": -80.973988,
+    "city": "Lake Milton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44430,
+    "latitude": 41.24112,
+    "longitude": -80.886138,
+    "city": "Leavittsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44431,
+    "latitude": 40.837984,
+    "longitude": -80.749844,
+    "city": "Leetonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44432,
+    "latitude": 40.743051,
+    "longitude": -80.745313,
+    "city": "Lisbon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44436,
+    "latitude": 41.056428,
+    "longitude": -80.549561,
+    "city": "Lowellville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44437,
+    "latitude": 41.151895,
+    "longitude": -80.751899,
+    "city": "Mc Donald",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44438,
+    "latitude": 41.263559,
+    "longitude": -80.54444,
+    "city": "Masury",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44439,
+    "latitude": 41.459359,
+    "longitude": -80.942716,
+    "city": "Mesopotamia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44440,
+    "latitude": 41.168441,
+    "longitude": -80.78209,
+    "city": "Mineral Ridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44441,
+    "latitude": 40.763029,
+    "longitude": -80.572088,
+    "city": "Negley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44442,
+    "latitude": 40.965525,
+    "longitude": -80.54902,
+    "city": "New Middletown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44443,
+    "latitude": 40.928876,
+    "longitude": -80.587833,
+    "city": "New Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44444,
+    "latitude": 41.197392,
+    "longitude": -80.952731,
+    "city": "Newton Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44445,
+    "latitude": 40.843906,
+    "longitude": -80.614381,
+    "city": "New Waterford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44446,
+    "latitude": 41.186106,
+    "longitude": -80.742459,
+    "city": "Niles",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44449,
+    "latitude": 40.967155,
+    "longitude": -81.021052,
+    "city": "North Benton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44450,
+    "latitude": 41.443995,
+    "longitude": -80.818751,
+    "city": "North Bloomfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44451,
+    "latitude": 41.075435,
+    "longitude": -80.86694,
+    "city": "North Jackson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44452,
+    "latitude": 40.951177,
+    "longitude": -80.662484,
+    "city": "North Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44453,
+    "latitude": 41.32519,
+    "longitude": -80.533572,
+    "city": "Orangeville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44454,
+    "latitude": 40.929,
+    "longitude": -80.54758,
+    "city": "Petersburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44455,
+    "latitude": 40.778137,
+    "longitude": -80.605674,
+    "city": "Rogers",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44460,
+    "latitude": 40.862743,
+    "longitude": -80.763459,
+    "city": "Salem",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44470,
+    "latitude": 41.283579,
+    "longitude": -80.952784,
+    "city": "Southington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44471,
+    "latitude": 41.050058,
+    "longitude": -80.591298,
+    "city": "Struthers",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44473,
+    "latitude": 41.2656,
+    "longitude": -80.704184,
+    "city": "Vienna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44481,
+    "latitude": 41.248912,
+    "longitude": -80.867431,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44482,
+    "latitude": 41.317424,
+    "longitude": -80.761269,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44483,
+    "latitude": 41.242576,
+    "longitude": -80.720029,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44484,
+    "latitude": 41.241952,
+    "longitude": -80.760752,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44485,
+    "latitude": 41.249104,
+    "longitude": -80.8439,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44486,
+    "latitude": 41.317424,
+    "longitude": -80.761269,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44487,
+    "latitude": 41.317424,
+    "longitude": -80.761269,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44488,
+    "latitude": 41.317424,
+    "longitude": -80.761269,
+    "city": "Warren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44490,
+    "latitude": 40.896699,
+    "longitude": -80.767064,
+    "city": "Washingtonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44491,
+    "latitude": 41.368863,
+    "longitude": -80.950285,
+    "city": "West Farmington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Trumbull"
+  },
+  {
+    "zip_code": 44492,
+    "latitude": 40.709282,
+    "longitude": -80.70141,
+    "city": "West Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44493,
+    "latitude": 40.828584,
+    "longitude": -80.896714,
+    "city": "Winona",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44501,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44502,
+    "latitude": 41.087352,
+    "longitude": -80.638546,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44503,
+    "latitude": 41.099258,
+    "longitude": -80.655146,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44504,
+    "latitude": 41.122607,
+    "longitude": -80.65525,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44505,
+    "latitude": 41.108057,
+    "longitude": -80.616596,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44506,
+    "latitude": 41.095258,
+    "longitude": -80.626295,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44507,
+    "latitude": 41.074413,
+    "longitude": -80.655046,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44509,
+    "latitude": 41.109533,
+    "longitude": -80.693098,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44510,
+    "latitude": 41.120407,
+    "longitude": -80.668447,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44511,
+    "latitude": 41.067608,
+    "longitude": -80.698121,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44512,
+    "latitude": 41.025158,
+    "longitude": -80.668667,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44513,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44514,
+    "latitude": 41.009287,
+    "longitude": -80.618344,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44515,
+    "latitude": 41.097937,
+    "longitude": -80.759813,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44555,
+    "latitude": 41.103858,
+    "longitude": -80.643646,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44598,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44599,
+    "latitude": 41.017082,
+    "longitude": -80.802854,
+    "city": "Youngstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44601,
+    "latitude": 40.820292,
+    "longitude": -81.335275,
+    "city": "Alliance",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44606,
+    "latitude": 40.733099,
+    "longitude": -81.763389,
+    "city": "Apple Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44607,
+    "latitude": 40.686028,
+    "longitude": -81.02187,
+    "city": "Augusta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44608,
+    "latitude": 40.665824,
+    "longitude": -81.592696,
+    "city": "Beach City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44609,
+    "latitude": 40.941802,
+    "longitude": -80.969891,
+    "city": "Beloit",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44610,
+    "latitude": 40.547385,
+    "longitude": -81.876602,
+    "city": "Berlin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44611,
+    "latitude": 40.598522,
+    "longitude": -82.086715,
+    "city": "Big Prairie",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44612,
+    "latitude": 40.618002,
+    "longitude": -81.449534,
+    "city": "Bolivar",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44613,
+    "latitude": 40.714208,
+    "longitude": -81.595746,
+    "city": "Brewster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44614,
+    "latitude": 40.808555,
+    "longitude": -81.488163,
+    "city": "Canal Fulton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44615,
+    "latitude": 40.571861,
+    "longitude": -81.064859,
+    "city": "Carrollton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44617,
+    "latitude": 40.507088,
+    "longitude": -81.782872,
+    "city": "Charm",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44618,
+    "latitude": 40.757197,
+    "longitude": -81.76092,
+    "city": "Dalton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44619,
+    "latitude": 40.902146,
+    "longitude": -80.962843,
+    "city": "Damascus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44620,
+    "latitude": 40.587709,
+    "longitude": -81.226442,
+    "city": "Dellroy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44621,
+    "latitude": 40.416656,
+    "longitude": -81.352297,
+    "city": "Dennison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44622,
+    "latitude": 40.492563,
+    "longitude": -81.47911,
+    "city": "Dover",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44624,
+    "latitude": 40.589023,
+    "longitude": -81.605824,
+    "city": "Dundee",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44625,
+    "latitude": 40.770542,
+    "longitude": -80.981107,
+    "city": "East Rochester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44626,
+    "latitude": 40.695388,
+    "longitude": -81.381386,
+    "city": "East Sparta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44627,
+    "latitude": 40.696545,
+    "longitude": -81.831036,
+    "city": "Fredericksburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44628,
+    "latitude": 40.53833,
+    "longitude": -82.128771,
+    "city": "Glenmont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44629,
+    "latitude": 40.335928,
+    "longitude": -81.430921,
+    "city": "Gnadenhutten",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44630,
+    "latitude": 40.929507,
+    "longitude": -81.400134,
+    "city": "Greentown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44631,
+    "latitude": 40.521924,
+    "longitude": -81.003619,
+    "city": "Harlem Springs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44632,
+    "latitude": 40.822158,
+    "longitude": -81.442635,
+    "city": "Hartville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44633,
+    "latitude": 40.624618,
+    "longitude": -81.937501,
+    "city": "Holmesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44634,
+    "latitude": 40.830059,
+    "longitude": -81.033298,
+    "city": "Homeworth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44636,
+    "latitude": 40.738387,
+    "longitude": -81.742811,
+    "city": "Kidron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44637,
+    "latitude": 40.501625,
+    "longitude": -82.041222,
+    "city": "Killbuck",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44638,
+    "latitude": 40.614615,
+    "longitude": -82.128493,
+    "city": "Lakeville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44639,
+    "latitude": 40.547688,
+    "longitude": -81.243498,
+    "city": "Leesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44640,
+    "latitude": 40.983558,
+    "longitude": -81.149664,
+    "city": "Limaville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44641,
+    "latitude": 40.802406,
+    "longitude": -81.390056,
+    "city": "Louisville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44643,
+    "latitude": 40.679881,
+    "longitude": -81.312133,
+    "city": "Magnolia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44644,
+    "latitude": 40.590393,
+    "longitude": -81.200395,
+    "city": "Malvern",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44645,
+    "latitude": 40.908987,
+    "longitude": -81.725668,
+    "city": "Marshallville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44646,
+    "latitude": 40.850643,
+    "longitude": -81.43535,
+    "city": "Massillon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44647,
+    "latitude": 40.801057,
+    "longitude": -81.575795,
+    "city": "Massillon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44648,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Massillon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44650,
+    "latitude": 40.874558,
+    "longitude": -81.173873,
+    "city": "Maximo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44651,
+    "latitude": 40.629918,
+    "longitude": -80.959514,
+    "city": "Mechanicstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44652,
+    "latitude": 40.895057,
+    "longitude": -81.326195,
+    "city": "Middlebranch",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44653,
+    "latitude": 40.437981,
+    "longitude": -81.372875,
+    "city": "Midvale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44654,
+    "latitude": 40.544738,
+    "longitude": -81.878772,
+    "city": "Millersburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44656,
+    "latitude": 40.570507,
+    "longitude": -81.343581,
+    "city": "Mineral City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44657,
+    "latitude": 40.749759,
+    "longitude": -81.175266,
+    "city": "Minerva",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44659,
+    "latitude": 40.690225,
+    "longitude": -81.692787,
+    "city": "Mount Eaton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44660,
+    "latitude": 40.622284,
+    "longitude": -81.782532,
+    "city": "Mount Hope",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44661,
+    "latitude": 40.593256,
+    "longitude": -82.11676,
+    "city": "Nashville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44662,
+    "latitude": 40.708566,
+    "longitude": -81.535805,
+    "city": "Navarre",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44663,
+    "latitude": 40.511632,
+    "longitude": -81.458777,
+    "city": "New Philadelphia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44665,
+    "latitude": 40.843563,
+    "longitude": -80.979435,
+    "city": "North Georgetown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Columbiana"
+  },
+  {
+    "zip_code": 44666,
+    "latitude": 40.824937,
+    "longitude": -81.613396,
+    "city": "North Lawrence",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44667,
+    "latitude": 40.788723,
+    "longitude": -81.850598,
+    "city": "Orrville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44669,
+    "latitude": 40.797908,
+    "longitude": -81.145349,
+    "city": "Paris",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44670,
+    "latitude": 40.764741,
+    "longitude": -81.187875,
+    "city": "Robertsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44671,
+    "latitude": 40.644174,
+    "longitude": -81.365254,
+    "city": "Sandyville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44672,
+    "latitude": 40.920492,
+    "longitude": -81.021736,
+    "city": "Sebring",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mahoning"
+  },
+  {
+    "zip_code": 44675,
+    "latitude": 40.49571,
+    "longitude": -81.216271,
+    "city": "Sherrodsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 44676,
+    "latitude": 40.71617,
+    "longitude": -82.028231,
+    "city": "Shreve",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44677,
+    "latitude": 40.872545,
+    "longitude": -81.855266,
+    "city": "Smithville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44678,
+    "latitude": 40.56488,
+    "longitude": -81.352352,
+    "city": "Somerdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44679,
+    "latitude": 40.440407,
+    "longitude": -81.488516,
+    "city": "Stillwater",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44680,
+    "latitude": 40.598698,
+    "longitude": -81.549884,
+    "city": "Strasburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44681,
+    "latitude": 40.473446,
+    "longitude": -81.553581,
+    "city": "Sugarcreek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44682,
+    "latitude": 40.395881,
+    "longitude": -81.406883,
+    "city": "Tuscarawas",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44683,
+    "latitude": 40.451788,
+    "longitude": -81.356471,
+    "city": "Uhrichsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44685,
+    "latitude": 40.969521,
+    "longitude": -81.458185,
+    "city": "Uniontown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Summit"
+  },
+  {
+    "zip_code": 44687,
+    "latitude": 40.551575,
+    "longitude": -81.728416,
+    "city": "Walnut Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44688,
+    "latitude": 40.692071,
+    "longitude": -81.274199,
+    "city": "Waynesburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44689,
+    "latitude": 40.657981,
+    "longitude": -81.638348,
+    "city": "Wilmot",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44690,
+    "latitude": 40.616536,
+    "longitude": -81.681707,
+    "city": "Winesburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Holmes"
+  },
+  {
+    "zip_code": 44691,
+    "latitude": 40.830699,
+    "longitude": -81.895377,
+    "city": "Wooster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 44693,
+    "latitude": 40.294686,
+    "longitude": -81.183933,
+    "city": "Deersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 44695,
+    "latitude": 40.398846,
+    "longitude": -81.175864,
+    "city": "Bowerston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 44697,
+    "latitude": 40.61829,
+    "longitude": -81.414245,
+    "city": "Zoar",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Tuscarawas"
+  },
+  {
+    "zip_code": 44699,
+    "latitude": 40.277046,
+    "longitude": -81.262892,
+    "city": "Tippecanoe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 44701,
+    "latitude": 40.782408,
+    "longitude": -81.371185,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44702,
+    "latitude": 40.800108,
+    "longitude": -81.379535,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44703,
+    "latitude": 40.808808,
+    "longitude": -81.379886,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44704,
+    "latitude": 40.799158,
+    "longitude": -81.345934,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44705,
+    "latitude": 40.830092,
+    "longitude": -81.330583,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44706,
+    "latitude": 40.741553,
+    "longitude": -81.430161,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44707,
+    "latitude": 40.759808,
+    "longitude": -81.350034,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44708,
+    "latitude": 40.825707,
+    "longitude": -81.436938,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44709,
+    "latitude": 40.80488,
+    "longitude": -81.387905,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44710,
+    "latitude": 40.789508,
+    "longitude": -81.426988,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44711,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44712,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44714,
+    "latitude": 40.834457,
+    "longitude": -81.360834,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44718,
+    "latitude": 40.846532,
+    "longitude": -81.440791,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44720,
+    "latitude": 40.895607,
+    "longitude": -81.433036,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44721,
+    "latitude": 40.891608,
+    "longitude": -81.318381,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44730,
+    "latitude": 40.770507,
+    "longitude": -81.26598,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44735,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44750,
+    "latitude": 40.784646,
+    "longitude": -81.418943,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44760,
+    "latitude": 40.853958,
+    "longitude": -81.42778,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44767,
+    "latitude": 40.895721,
+    "longitude": -81.424552,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44798,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44799,
+    "latitude": 40.811809,
+    "longitude": -81.368284,
+    "city": "Canton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Stark"
+  },
+  {
+    "zip_code": 44801,
+    "latitude": 41.090712,
+    "longitude": -83.365404,
+    "city": "Adrian",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44802,
+    "latitude": 41.054782,
+    "longitude": -83.391792,
+    "city": "Alvada",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44803,
+    "latitude": 41.037511,
+    "longitude": -82.910552,
+    "city": "Amsden",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44804,
+    "latitude": 41.115906,
+    "longitude": -83.535416,
+    "city": "Arcadia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 44805,
+    "latitude": 40.826965,
+    "longitude": -82.296131,
+    "city": "Ashland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44807,
+    "latitude": 41.077343,
+    "longitude": -82.903207,
+    "city": "Attica",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44809,
+    "latitude": 41.132816,
+    "longitude": -83.285361,
+    "city": "Bascom",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44811,
+    "latitude": 41.216488,
+    "longitude": -82.793687,
+    "city": "Bellevue",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44813,
+    "latitude": 40.646184,
+    "longitude": -82.481491,
+    "city": "Bellville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44814,
+    "latitude": 41.338364,
+    "longitude": -82.459915,
+    "city": "Berlin Heights",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44815,
+    "latitude": 41.246929,
+    "longitude": -83.239806,
+    "city": "Bettsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44816,
+    "latitude": 41.334898,
+    "longitude": -82.355035,
+    "city": "Birmingham",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44817,
+    "latitude": 41.217112,
+    "longitude": -83.535075,
+    "city": "Bloomdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 44818,
+    "latitude": 41.046546,
+    "longitude": -82.968764,
+    "city": "Bloomville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44820,
+    "latitude": 40.832674,
+    "longitude": -82.973876,
+    "city": "Bucyrus",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44822,
+    "latitude": 40.587193,
+    "longitude": -82.406952,
+    "city": "Butler",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44824,
+    "latitude": 41.366624,
+    "longitude": -82.785818,
+    "city": "Castalia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44825,
+    "latitude": 40.965022,
+    "longitude": -82.936698,
+    "city": "Chatfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44826,
+    "latitude": 41.166039,
+    "longitude": -82.489,
+    "city": "Collins",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44827,
+    "latitude": 40.824607,
+    "longitude": -82.909054,
+    "city": "Crestline",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44828,
+    "latitude": 41.23707,
+    "longitude": -82.859705,
+    "city": "Flat Rock",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44830,
+    "latitude": 41.159551,
+    "longitude": -83.152472,
+    "city": "Fostoria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44833,
+    "latitude": 40.746972,
+    "longitude": -82.823,
+    "city": "Galion",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44836,
+    "latitude": 41.186418,
+    "longitude": -83.042327,
+    "city": "Green Springs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44837,
+    "latitude": 41.119451,
+    "longitude": -82.564392,
+    "city": "Greenwich",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44838,
+    "latitude": 40.768006,
+    "longitude": -82.249991,
+    "city": "Hayesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44839,
+    "latitude": 41.375658,
+    "longitude": -82.538619,
+    "city": "Huron",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44840,
+    "latitude": 40.78933,
+    "longitude": -82.206323,
+    "city": "Jeromesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44841,
+    "latitude": 41.228968,
+    "longitude": -83.310194,
+    "city": "Kansas",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44842,
+    "latitude": 40.656997,
+    "longitude": -82.236734,
+    "city": "Loudonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44843,
+    "latitude": 40.653256,
+    "longitude": -82.454979,
+    "city": "Lucas",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44844,
+    "latitude": 40.958503,
+    "longitude": -83.247403,
+    "city": "Mc Cutchenville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 44845,
+    "latitude": 41.024204,
+    "longitude": -83.109783,
+    "city": "Melmore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44846,
+    "latitude": 41.320775,
+    "longitude": -82.610479,
+    "city": "Milan",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44847,
+    "latitude": 41.192976,
+    "longitude": -82.696315,
+    "city": "Monroeville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44848,
+    "latitude": 40.920617,
+    "longitude": -82.281695,
+    "city": "Nankin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44849,
+    "latitude": 40.837199,
+    "longitude": -83.150116,
+    "city": "Nevada",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 44850,
+    "latitude": 41.034952,
+    "longitude": -82.676973,
+    "city": "New Haven",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44851,
+    "latitude": 41.124479,
+    "longitude": -82.437501,
+    "city": "New London",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44853,
+    "latitude": 41.061468,
+    "longitude": -83.298986,
+    "city": "New Riegel",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44854,
+    "latitude": 40.942627,
+    "longitude": -82.841736,
+    "city": "New Washington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44855,
+    "latitude": 41.109479,
+    "longitude": -82.58654,
+    "city": "North Fairfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44856,
+    "latitude": 40.793372,
+    "longitude": -82.856557,
+    "city": "North Robinson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44857,
+    "latitude": 41.204562,
+    "longitude": -82.573222,
+    "city": "Norwalk",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44859,
+    "latitude": 41.011373,
+    "longitude": -82.329107,
+    "city": "Nova",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44860,
+    "latitude": 40.835677,
+    "longitude": -83.102857,
+    "city": "Oceola",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44861,
+    "latitude": 41.235206,
+    "longitude": -83.15236,
+    "city": "Old Fort",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44862,
+    "latitude": 40.772874,
+    "longitude": -82.532057,
+    "city": "Ontario",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44864,
+    "latitude": 40.674683,
+    "longitude": -82.308743,
+    "city": "Perrysville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44865,
+    "latitude": 40.849371,
+    "longitude": -82.57178,
+    "city": "Plymouth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44866,
+    "latitude": 40.922051,
+    "longitude": -82.192733,
+    "city": "Polk",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44867,
+    "latitude": 41.146881,
+    "longitude": -82.970007,
+    "city": "Republic",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44870,
+    "latitude": 41.399129,
+    "longitude": -82.724417,
+    "city": "Sandusky",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44871,
+    "latitude": 41.49181,
+    "longitude": -82.647824,
+    "city": "Sandusky",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Erie"
+  },
+  {
+    "zip_code": 44874,
+    "latitude": 40.964517,
+    "longitude": -82.388476,
+    "city": "Savannah",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44875,
+    "latitude": 40.848784,
+    "longitude": -82.571998,
+    "city": "Shelby",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44878,
+    "latitude": 40.926203,
+    "longitude": -82.528622,
+    "city": "Shiloh",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44880,
+    "latitude": 41.028371,
+    "longitude": -82.242915,
+    "city": "Sullivan",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ashland"
+  },
+  {
+    "zip_code": 44881,
+    "latitude": 40.868645,
+    "longitude": -82.875027,
+    "city": "Sulphur Springs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44882,
+    "latitude": 40.94245,
+    "longitude": -83.192192,
+    "city": "Sycamore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wyandot"
+  },
+  {
+    "zip_code": 44883,
+    "latitude": 41.12453,
+    "longitude": -83.144773,
+    "city": "Tiffin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Seneca"
+  },
+  {
+    "zip_code": 44887,
+    "latitude": 40.914732,
+    "longitude": -82.806099,
+    "city": "Tiro",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 44888,
+    "latitude": 41.141541,
+    "longitude": -82.588928,
+    "city": "Willard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44889,
+    "latitude": 41.211052,
+    "longitude": -82.417989,
+    "city": "Wakeman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44890,
+    "latitude": 41.120678,
+    "longitude": -82.697369,
+    "city": "Willard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Huron"
+  },
+  {
+    "zip_code": 44901,
+    "latitude": 40.850833,
+    "longitude": -82.511369,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44902,
+    "latitude": 40.762711,
+    "longitude": -82.51189,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44903,
+    "latitude": 40.80142,
+    "longitude": -82.538356,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44904,
+    "latitude": 40.682416,
+    "longitude": -82.528564,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44905,
+    "latitude": 40.777896,
+    "longitude": -82.461347,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44906,
+    "latitude": 40.756992,
+    "longitude": -82.588394,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44907,
+    "latitude": 40.726256,
+    "longitude": -82.52284,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 44999,
+    "latitude": 40.772874,
+    "longitude": -82.532057,
+    "city": "Mansfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Richland"
+  },
+  {
+    "zip_code": 45001,
+    "latitude": 39.135158,
+    "longitude": -84.709797,
+    "city": "Addyston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45002,
+    "latitude": 39.191546,
+    "longitude": -84.742376,
+    "city": "Cleves",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45003,
+    "latitude": 39.547254,
+    "longitude": -84.599698,
+    "city": "College Corner",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45004,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Collinsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45005,
+    "latitude": 39.526049,
+    "longitude": -84.186961,
+    "city": "Franklin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45011,
+    "latitude": 39.425137,
+    "longitude": -84.472925,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45012,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45013,
+    "latitude": 39.436146,
+    "longitude": -84.618498,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45014,
+    "latitude": 39.387357,
+    "longitude": -84.499743,
+    "city": "Fairfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45015,
+    "latitude": 39.349361,
+    "longitude": -84.537563,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45018,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Fairfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45020,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45023,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45025,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45026,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Hamilton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45030,
+    "latitude": 39.244275,
+    "longitude": -84.736254,
+    "city": "Harrison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45032,
+    "latitude": 39.501283,
+    "longitude": -84.006729,
+    "city": "Harveysburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45033,
+    "latitude": 39.177259,
+    "longitude": -84.762731,
+    "city": "Hooven",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45034,
+    "latitude": 39.357963,
+    "longitude": -84.247288,
+    "city": "Kings Mills",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45036,
+    "latitude": 39.429284,
+    "longitude": -84.173507,
+    "city": "Lebanon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45039,
+    "latitude": 39.316973,
+    "longitude": -84.243763,
+    "city": "Maineville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45040,
+    "latitude": 39.397999,
+    "longitude": -84.180906,
+    "city": "Mason",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45041,
+    "latitude": 39.176088,
+    "longitude": -84.708517,
+    "city": "Miamitown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45042,
+    "latitude": 39.543446,
+    "longitude": -84.442394,
+    "city": "Middletown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45043,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Middletown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45044,
+    "latitude": 39.418175,
+    "longitude": -84.424549,
+    "city": "Middletown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45050,
+    "latitude": 39.448492,
+    "longitude": -84.374549,
+    "city": "Monroe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45051,
+    "latitude": 39.09646,
+    "longitude": -84.643096,
+    "city": "Mount Saint Joseph",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45052,
+    "latitude": 39.149862,
+    "longitude": -84.750268,
+    "city": "North Bend",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45053,
+    "latitude": 39.354854,
+    "longitude": -84.776769,
+    "city": "Okeana",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45054,
+    "latitude": 39.458117,
+    "longitude": -84.079543,
+    "city": "Oregonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45055,
+    "latitude": 39.451806,
+    "longitude": -84.515245,
+    "city": "Overpeck",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45056,
+    "latitude": 39.479227,
+    "longitude": -84.68575,
+    "city": "Oxford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45061,
+    "latitude": 39.31235,
+    "longitude": -84.64828,
+    "city": "Ross",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45062,
+    "latitude": 39.478956,
+    "longitude": -84.551196,
+    "city": "Seven Mile",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45063,
+    "latitude": 39.325805,
+    "longitude": -84.712099,
+    "city": "Shandon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45064,
+    "latitude": 39.545634,
+    "longitude": -84.6275,
+    "city": "Somerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45065,
+    "latitude": 39.356027,
+    "longitude": -84.207204,
+    "city": "South Lebanon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45066,
+    "latitude": 39.465762,
+    "longitude": -84.14633,
+    "city": "Springboro",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45067,
+    "latitude": 39.48332,
+    "longitude": -84.489895,
+    "city": "Trenton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45068,
+    "latitude": 39.51812,
+    "longitude": -84.0806,
+    "city": "Waynesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45069,
+    "latitude": 39.336058,
+    "longitude": -84.40536,
+    "city": "West Chester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45070,
+    "latitude": 39.594686,
+    "longitude": -84.54682,
+    "city": "West Elkton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45071,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "West Chester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45073,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Monroe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45099,
+    "latitude": 39.440956,
+    "longitude": -84.575746,
+    "city": "Monroe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Butler"
+  },
+  {
+    "zip_code": 45101,
+    "latitude": 38.693525,
+    "longitude": -83.740804,
+    "city": "Aberdeen",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45102,
+    "latitude": 39.014823,
+    "longitude": -84.205859,
+    "city": "Amelia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45103,
+    "latitude": 39.025905,
+    "longitude": -84.157048,
+    "city": "Batavia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45105,
+    "latitude": 38.749779,
+    "longitude": -83.612574,
+    "city": "Bentonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45106,
+    "latitude": 38.922008,
+    "longitude": -84.109327,
+    "city": "Bethel",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45107,
+    "latitude": 39.40252,
+    "longitude": -83.894217,
+    "city": "Blanchester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45110,
+    "latitude": 39.074262,
+    "longitude": -83.848414,
+    "city": "Buford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45111,
+    "latitude": 39.19977,
+    "longitude": -84.303075,
+    "city": "Camp Dennison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45112,
+    "latitude": 38.792553,
+    "longitude": -84.138221,
+    "city": "Chilo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45113,
+    "latitude": 39.398125,
+    "longitude": -83.932644,
+    "city": "Clarksville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45114,
+    "latitude": 39.356846,
+    "longitude": -83.857237,
+    "city": "Cuba",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45115,
+    "latitude": 38.823707,
+    "longitude": -83.699476,
+    "city": "Decatur",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45118,
+    "latitude": 39.1748,
+    "longitude": -83.935821,
+    "city": "Fayetteville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45119,
+    "latitude": 38.880632,
+    "longitude": -84.00874,
+    "city": "Feesburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45120,
+    "latitude": 38.820683,
+    "longitude": -84.126923,
+    "city": "Felicity",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45121,
+    "latitude": 38.981336,
+    "longitude": -83.903529,
+    "city": "Georgetown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45122,
+    "latitude": 39.21292,
+    "longitude": -84.10444,
+    "city": "Goshen",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45123,
+    "latitude": 39.288414,
+    "longitude": -83.583223,
+    "city": "Greenfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45130,
+    "latitude": 38.902187,
+    "longitude": -83.982347,
+    "city": "Hamersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45131,
+    "latitude": 38.790301,
+    "longitude": -83.966624,
+    "city": "Higginsport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45132,
+    "latitude": 39.352669,
+    "longitude": -83.602424,
+    "city": "Highland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45133,
+    "latitude": 39.169164,
+    "longitude": -83.59454,
+    "city": "Hillsboro",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45135,
+    "latitude": 39.270862,
+    "longitude": -83.595228,
+    "city": "Leesburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45138,
+    "latitude": 39.416747,
+    "longitude": -83.647583,
+    "city": "Lees Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45140,
+    "latitude": 39.223187,
+    "longitude": -84.245103,
+    "city": "Loveland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45142,
+    "latitude": 39.200697,
+    "longitude": -83.777545,
+    "city": "Lynchburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45144,
+    "latitude": 38.698772,
+    "longitude": -83.574357,
+    "city": "Manchester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45145,
+    "latitude": 39.145698,
+    "longitude": -84.007023,
+    "city": "Marathon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45146,
+    "latitude": 39.313796,
+    "longitude": -83.796942,
+    "city": "Martinsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45147,
+    "latitude": 39.213739,
+    "longitude": -84.300232,
+    "city": "Miamiville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45148,
+    "latitude": 39.291345,
+    "longitude": -83.885714,
+    "city": "Midland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45150,
+    "latitude": 39.016349,
+    "longitude": -84.197778,
+    "city": "Milford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45152,
+    "latitude": 39.342034,
+    "longitude": -84.106916,
+    "city": "Morrow",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45153,
+    "latitude": 38.867485,
+    "longitude": -84.192222,
+    "city": "Moscow",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45154,
+    "latitude": 39.057857,
+    "longitude": -83.913915,
+    "city": "Mount Orab",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45155,
+    "latitude": 39.038774,
+    "longitude": -83.750522,
+    "city": "Mowrystown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45156,
+    "latitude": 38.815645,
+    "longitude": -84.204877,
+    "city": "Neville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45157,
+    "latitude": 38.9124,
+    "longitude": -84.206745,
+    "city": "New Richmond",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45158,
+    "latitude": 39.18779,
+    "longitude": -84.078313,
+    "city": "Newtonsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45159,
+    "latitude": 39.349254,
+    "longitude": -83.702933,
+    "city": "New Vienna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45160,
+    "latitude": 39.123187,
+    "longitude": -84.135023,
+    "city": "Owensville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45162,
+    "latitude": 39.294913,
+    "longitude": -84.092498,
+    "city": "Pleasant Plain",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 45164,
+    "latitude": 39.551413,
+    "longitude": -83.788084,
+    "city": "Port William",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45165,
+    "latitude": 39.198813,
+    "longitude": -83.607858,
+    "city": "Greenfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45166,
+    "latitude": 39.480543,
+    "longitude": -83.677197,
+    "city": "Reesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45167,
+    "latitude": 38.758164,
+    "longitude": -83.822146,
+    "city": "Ripley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45168,
+    "latitude": 38.84798,
+    "longitude": -83.767404,
+    "city": "Russellville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45169,
+    "latitude": 39.438429,
+    "longitude": -83.680807,
+    "city": "Sabina",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45171,
+    "latitude": 39.005468,
+    "longitude": -83.799563,
+    "city": "Sardinia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45172,
+    "latitude": 39.07382,
+    "longitude": -83.385303,
+    "city": "Sinking Spring",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Highland"
+  },
+  {
+    "zip_code": 45174,
+    "latitude": 39.153831,
+    "longitude": -84.329171,
+    "city": "Terrace Park",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45176,
+    "latitude": 39.013595,
+    "longitude": -84.050406,
+    "city": "Williamsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45177,
+    "latitude": 39.444985,
+    "longitude": -83.824424,
+    "city": "Wilmington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 45201,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45202,
+    "latitude": 39.11026,
+    "longitude": -84.486142,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45203,
+    "latitude": 39.10886,
+    "longitude": -84.531993,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45204,
+    "latitude": 39.10016,
+    "longitude": -84.589645,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45205,
+    "latitude": 39.11161,
+    "longitude": -84.577994,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45206,
+    "latitude": 39.12616,
+    "longitude": -84.482642,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45207,
+    "latitude": 39.14311,
+    "longitude": -84.468842,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45208,
+    "latitude": 39.13786,
+    "longitude": -84.434891,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45209,
+    "latitude": 39.15471,
+    "longitude": -84.450692,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45210,
+    "latitude": 39.11451,
+    "longitude": -84.511093,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45211,
+    "latitude": 39.158409,
+    "longitude": -84.602646,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45212,
+    "latitude": 39.187659,
+    "longitude": -84.454342,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45213,
+    "latitude": 39.180214,
+    "longitude": -84.420441,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45214,
+    "latitude": 39.12186,
+    "longitude": -84.550594,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45215,
+    "latitude": 39.214259,
+    "longitude": -84.464093,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45216,
+    "latitude": 39.200309,
+    "longitude": -84.485893,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45217,
+    "latitude": 39.166109,
+    "longitude": -84.495893,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45218,
+    "latitude": 39.2774,
+    "longitude": -84.520544,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45219,
+    "latitude": 39.12851,
+    "longitude": -84.515191,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45220,
+    "latitude": 39.145559,
+    "longitude": -84.520093,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45221,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45222,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45223,
+    "latitude": 39.160002,
+    "longitude": -84.593605,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45224,
+    "latitude": 39.199058,
+    "longitude": -84.525094,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45225,
+    "latitude": 39.144309,
+    "longitude": -84.548944,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45226,
+    "latitude": 39.110111,
+    "longitude": -84.43088,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45227,
+    "latitude": 39.15926,
+    "longitude": -84.37284,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45228,
+    "latitude": 39.070561,
+    "longitude": -84.417891,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45229,
+    "latitude": 39.153559,
+    "longitude": -84.490043,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45230,
+    "latitude": 39.071262,
+    "longitude": -84.37584,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45231,
+    "latitude": 39.259325,
+    "longitude": -84.532395,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45232,
+    "latitude": 39.181109,
+    "longitude": -84.51166,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45233,
+    "latitude": 39.110994,
+    "longitude": -84.659396,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45234,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45235,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45236,
+    "latitude": 39.210001,
+    "longitude": -84.395046,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45237,
+    "latitude": 39.19069,
+    "longitude": -84.447342,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45238,
+    "latitude": 39.109209,
+    "longitude": -84.610845,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45239,
+    "latitude": 39.201708,
+    "longitude": -84.621296,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45240,
+    "latitude": 39.284357,
+    "longitude": -84.439066,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45241,
+    "latitude": 39.263837,
+    "longitude": -84.409191,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45242,
+    "latitude": 39.244659,
+    "longitude": -84.345489,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45243,
+    "latitude": 39.18481,
+    "longitude": -84.344758,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45244,
+    "latitude": 39.119102,
+    "longitude": -84.350974,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45245,
+    "latitude": 39.068815,
+    "longitude": -84.280171,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clermont"
+  },
+  {
+    "zip_code": 45246,
+    "latitude": 39.283858,
+    "longitude": -84.474394,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45247,
+    "latitude": 39.220761,
+    "longitude": -84.641752,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45248,
+    "latitude": 39.165158,
+    "longitude": -84.662509,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45249,
+    "latitude": 39.269226,
+    "longitude": -84.330686,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45250,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45251,
+    "latitude": 39.267157,
+    "longitude": -84.599285,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45252,
+    "latitude": 39.272557,
+    "longitude": -84.632143,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45253,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45254,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45255,
+    "latitude": 39.058412,
+    "longitude": -84.339639,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45258,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45262,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45263,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45264,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45267,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45268,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45269,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45270,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45271,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45273,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45274,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45275,
+    "latitude": 38.946921,
+    "longitude": -83.862877,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 45277,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45280,
+    "latitude": 39.113405,
+    "longitude": -84.535972,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": ""
+  },
+  {
+    "zip_code": 45296,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45298,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45299,
+    "latitude": 39.262158,
+    "longitude": -84.509268,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45301,
+    "latitude": 39.706459,
+    "longitude": -84.016233,
+    "city": "Alpha",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45302,
+    "latitude": 40.407239,
+    "longitude": -84.203271,
+    "city": "Anna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45303,
+    "latitude": 40.214675,
+    "longitude": -84.653188,
+    "city": "Ansonia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45304,
+    "latitude": 40.126915,
+    "longitude": -84.539928,
+    "city": "Arcanum",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45305,
+    "latitude": 39.632829,
+    "longitude": -84.049985,
+    "city": "Bellbrook",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45306,
+    "latitude": 40.439778,
+    "longitude": -84.189245,
+    "city": "Botkins",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45307,
+    "latitude": 39.575597,
+    "longitude": -83.715323,
+    "city": "Bowersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45308,
+    "latitude": 40.115737,
+    "longitude": -84.279352,
+    "city": "Bradford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45309,
+    "latitude": 39.836157,
+    "longitude": -84.330392,
+    "city": "Brookville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45310,
+    "latitude": 40.354106,
+    "longitude": -84.643532,
+    "city": "Burkettsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45311,
+    "latitude": 39.640948,
+    "longitude": -84.647001,
+    "city": "Camden",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45312,
+    "latitude": 40.066567,
+    "longitude": -84.08161,
+    "city": "Casstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45314,
+    "latitude": 39.747459,
+    "longitude": -83.759973,
+    "city": "Cedarville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45315,
+    "latitude": 39.854454,
+    "longitude": -84.340345,
+    "city": "Clayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45316,
+    "latitude": 39.795971,
+    "longitude": -83.819766,
+    "city": "Clifton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45317,
+    "latitude": 40.137029,
+    "longitude": -84.046873,
+    "city": "Conover",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45318,
+    "latitude": 40.124386,
+    "longitude": -84.281167,
+    "city": "Covington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45319,
+    "latitude": 39.918936,
+    "longitude": -83.944909,
+    "city": "Donnelsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45320,
+    "latitude": 39.77485,
+    "longitude": -84.674889,
+    "city": "Eaton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45321,
+    "latitude": 39.872177,
+    "longitude": -84.681067,
+    "city": "Eldorado",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45322,
+    "latitude": 39.877005,
+    "longitude": -84.331945,
+    "city": "Englewood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45323,
+    "latitude": 39.857967,
+    "longitude": -83.933431,
+    "city": "Enon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45324,
+    "latitude": 39.728549,
+    "longitude": -84.014834,
+    "city": "Fairborn",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45325,
+    "latitude": 39.781301,
+    "longitude": -84.41397,
+    "city": "Farmersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45326,
+    "latitude": 40.144491,
+    "longitude": -84.100988,
+    "city": "Fletcher",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45327,
+    "latitude": 39.747497,
+    "longitude": -84.396912,
+    "city": "Germantown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45328,
+    "latitude": 40.114729,
+    "longitude": -84.493439,
+    "city": "Gettysburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45330,
+    "latitude": 39.641558,
+    "longitude": -84.527613,
+    "city": "Gratis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45331,
+    "latitude": 40.156478,
+    "longitude": -84.649068,
+    "city": "Greenville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45332,
+    "latitude": 39.993964,
+    "longitude": -84.783714,
+    "city": "Hollansburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45333,
+    "latitude": 40.248489,
+    "longitude": -84.345612,
+    "city": "Houston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45334,
+    "latitude": 40.434921,
+    "longitude": -84.058495,
+    "city": "Jackson Center",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45335,
+    "latitude": 39.674084,
+    "longitude": -83.766709,
+    "city": "Jamestown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45336,
+    "latitude": 40.441325,
+    "longitude": -84.262602,
+    "city": "Kettlersville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45337,
+    "latitude": 39.985177,
+    "longitude": -84.399364,
+    "city": "Laura",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45338,
+    "latitude": 39.780916,
+    "longitude": -84.567331,
+    "city": "Lewisburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45339,
+    "latitude": 40.005764,
+    "longitude": -84.351781,
+    "city": "Ludlow Falls",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45340,
+    "latitude": 40.364305,
+    "longitude": -84.056464,
+    "city": "Maplewood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45341,
+    "latitude": 39.878918,
+    "longitude": -84.021827,
+    "city": "Medway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45342,
+    "latitude": 39.641658,
+    "longitude": -84.27464,
+    "city": "Miamisburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45343,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Miamisburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45344,
+    "latitude": 39.959249,
+    "longitude": -83.986855,
+    "city": "New Carlisle",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45345,
+    "latitude": 39.800056,
+    "longitude": -84.327,
+    "city": "New Lebanon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45346,
+    "latitude": 39.982103,
+    "longitude": -84.705736,
+    "city": "New Madison",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45347,
+    "latitude": 39.783378,
+    "longitude": -84.668892,
+    "city": "New Paris",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45348,
+    "latitude": 40.316833,
+    "longitude": -84.633911,
+    "city": "New Weston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45349,
+    "latitude": 39.989309,
+    "longitude": -83.938933,
+    "city": "North Hampton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45350,
+    "latitude": 40.135426,
+    "longitude": -84.619129,
+    "city": "North Star",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45351,
+    "latitude": 40.340616,
+    "longitude": -84.496342,
+    "city": "Osgood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45352,
+    "latitude": 40.050323,
+    "longitude": -84.745706,
+    "city": "Palestine",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45353,
+    "latitude": 40.29522,
+    "longitude": -84.032272,
+    "city": "Pemberton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45354,
+    "latitude": 39.905385,
+    "longitude": -84.402785,
+    "city": "Phillipsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45356,
+    "latitude": 40.123618,
+    "longitude": -84.228811,
+    "city": "Piqua",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45358,
+    "latitude": 39.987043,
+    "longitude": -84.486582,
+    "city": "Pitsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45359,
+    "latitude": 40.050483,
+    "longitude": -84.348699,
+    "city": "Pleasant Hill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45360,
+    "latitude": 40.330713,
+    "longitude": -84.092589,
+    "city": "Port Jefferson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45361,
+    "latitude": 39.963492,
+    "longitude": -84.414484,
+    "city": "Potsdam",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45362,
+    "latitude": 40.287621,
+    "longitude": -84.637078,
+    "city": "Rossburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45363,
+    "latitude": 40.263253,
+    "longitude": -84.263227,
+    "city": "Russia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45365,
+    "latitude": 40.293558,
+    "longitude": -84.209198,
+    "city": "Sidney",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45367,
+    "latitude": 40.333611,
+    "longitude": -84.218308,
+    "city": "Sidney",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45368,
+    "latitude": 39.854349,
+    "longitude": -83.66528,
+    "city": "South Charleston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45369,
+    "latitude": 39.957723,
+    "longitude": -83.614481,
+    "city": "South Vienna",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45370,
+    "latitude": 39.608285,
+    "longitude": -84.025972,
+    "city": "Spring Valley",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45371,
+    "latitude": 39.941967,
+    "longitude": -84.16626,
+    "city": "Tipp City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45372,
+    "latitude": 40.013871,
+    "longitude": -83.83325,
+    "city": "Tremont City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45373,
+    "latitude": 40.062621,
+    "longitude": -84.226398,
+    "city": "Troy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45374,
+    "latitude": 40.03997,
+    "longitude": -84.229799,
+    "city": "Troy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45377,
+    "latitude": 39.889006,
+    "longitude": -84.242243,
+    "city": "Vandalia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45378,
+    "latitude": 39.897035,
+    "longitude": -84.499044,
+    "city": "Verona",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45380,
+    "latitude": 40.25304,
+    "longitude": -84.523891,
+    "city": "Versailles",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45381,
+    "latitude": 39.750097,
+    "longitude": -84.537597,
+    "city": "West Alexandria",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45382,
+    "latitude": 39.88133,
+    "longitude": -84.621617,
+    "city": "West Manchester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Preble"
+  },
+  {
+    "zip_code": 45383,
+    "latitude": 39.98791,
+    "longitude": -84.350107,
+    "city": "West Milton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 45384,
+    "latitude": 39.712811,
+    "longitude": -83.878088,
+    "city": "Wilberforce",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45385,
+    "latitude": 39.684731,
+    "longitude": -83.90813,
+    "city": "Xenia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45387,
+    "latitude": 39.760531,
+    "longitude": -83.8836,
+    "city": "Yellow Springs",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45388,
+    "latitude": 40.321853,
+    "longitude": -84.484466,
+    "city": "Yorkshire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45389,
+    "latitude": 40.0564,
+    "longitude": -84.025444,
+    "city": "Christiansburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Champaign"
+  },
+  {
+    "zip_code": 45390,
+    "latitude": 40.211787,
+    "longitude": -84.758818,
+    "city": "Union City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Darke"
+  },
+  {
+    "zip_code": 45401,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45402,
+    "latitude": 39.756658,
+    "longitude": -84.181639,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45403,
+    "latitude": 39.764658,
+    "longitude": -84.150738,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45404,
+    "latitude": 39.794958,
+    "longitude": -84.163589,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45405,
+    "latitude": 39.789857,
+    "longitude": -84.217391,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45406,
+    "latitude": 39.782457,
+    "longitude": -84.239391,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45407,
+    "latitude": 39.758658,
+    "longitude": -84.226041,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45408,
+    "latitude": 39.730258,
+    "longitude": -84.219846,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45409,
+    "latitude": 39.723809,
+    "longitude": -84.185439,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45410,
+    "latitude": 39.748008,
+    "longitude": -84.156938,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45412,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45413,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45414,
+    "latitude": 39.805957,
+    "longitude": -84.199737,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45415,
+    "latitude": 39.834756,
+    "longitude": -84.252292,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45416,
+    "latitude": 39.801057,
+    "longitude": -84.257792,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45417,
+    "latitude": 39.75344,
+    "longitude": -84.245841,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45418,
+    "latitude": 39.707057,
+    "longitude": -84.276891,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45419,
+    "latitude": 39.681909,
+    "longitude": -84.166388,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45420,
+    "latitude": 39.717059,
+    "longitude": -84.134172,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45422,
+    "latitude": 39.758058,
+    "longitude": -84.20009,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45423,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45424,
+    "latitude": 39.835257,
+    "longitude": -84.112288,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45426,
+    "latitude": 39.798187,
+    "longitude": -84.321119,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45427,
+    "latitude": 39.755506,
+    "longitude": -84.304893,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45428,
+    "latitude": 39.746656,
+    "longitude": -84.259292,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45429,
+    "latitude": 39.684059,
+    "longitude": -84.163337,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45430,
+    "latitude": 39.709159,
+    "longitude": -84.104836,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45431,
+    "latitude": 39.757377,
+    "longitude": -84.056934,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45432,
+    "latitude": 39.732309,
+    "longitude": -84.160422,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45433,
+    "latitude": 39.798503,
+    "longitude": -84.052053,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 45434,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45435,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45437,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45439,
+    "latitude": 39.749308,
+    "longitude": -84.19954,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45440,
+    "latitude": 39.675548,
+    "longitude": -84.121086,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45441,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45448,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45449,
+    "latitude": 39.665109,
+    "longitude": -84.24009,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45454,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45458,
+    "latitude": 39.606209,
+    "longitude": -84.169519,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45459,
+    "latitude": 39.646371,
+    "longitude": -84.171733,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45463,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45469,
+    "latitude": 39.740509,
+    "longitude": -84.178939,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45470,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45475,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45479,
+    "latitude": 39.734409,
+    "longitude": -84.194389,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45481,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45482,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45490,
+    "latitude": 39.750471,
+    "longitude": -84.268593,
+    "city": "Dayton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 45501,
+    "latitude": 39.927059,
+    "longitude": -83.813228,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45502,
+    "latitude": 39.917208,
+    "longitude": -83.854642,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45503,
+    "latitude": 39.963784,
+    "longitude": -83.77139,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45504,
+    "latitude": 39.950457,
+    "longitude": -83.890862,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45505,
+    "latitude": 39.906009,
+    "longitude": -83.7482,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45506,
+    "latitude": 39.883209,
+    "longitude": -83.86983,
+    "city": "Springfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 45601,
+    "latitude": 39.337384,
+    "longitude": -82.991332,
+    "city": "Chillicothe",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45612,
+    "latitude": 39.244298,
+    "longitude": -83.219712,
+    "city": "Bainbridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45613,
+    "latitude": 39.040682,
+    "longitude": -82.887103,
+    "city": "Beaver",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45614,
+    "latitude": 38.92307,
+    "longitude": -82.276201,
+    "city": "Bidwell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45616,
+    "latitude": 38.756374,
+    "longitude": -83.340308,
+    "city": "Blue Creek",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45617,
+    "latitude": 39.280388,
+    "longitude": -83.158991,
+    "city": "Bourneville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45618,
+    "latitude": 38.892198,
+    "longitude": -83.621787,
+    "city": "Cherry Fork",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45619,
+    "latitude": 38.482955,
+    "longitude": -82.450548,
+    "city": "Chesapeake",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45620,
+    "latitude": 38.798525,
+    "longitude": -82.189958,
+    "city": "Cheshire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45621,
+    "latitude": 39.110614,
+    "longitude": -82.613028,
+    "city": "Coalton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 45622,
+    "latitude": 39.354339,
+    "longitude": -82.503012,
+    "city": "Creola",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45623,
+    "latitude": 38.796783,
+    "longitude": -82.271583,
+    "city": "Crown City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45624,
+    "latitude": 39.16378,
+    "longitude": -83.342941,
+    "city": "Cynthiana",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45628,
+    "latitude": 39.387165,
+    "longitude": -83.182591,
+    "city": "Frankfort",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45629,
+    "latitude": 38.650439,
+    "longitude": -82.802128,
+    "city": "Franklin Furnace",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45630,
+    "latitude": 38.793335,
+    "longitude": -82.96046,
+    "city": "Friendship",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45631,
+    "latitude": 38.793762,
+    "longitude": -82.2692,
+    "city": "Gallipolis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45633,
+    "latitude": 39.46557,
+    "longitude": -82.747853,
+    "city": "Hallsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45634,
+    "latitude": 39.178317,
+    "longitude": -82.503194,
+    "city": "Hamden",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45636,
+    "latitude": 38.592446,
+    "longitude": -82.828817,
+    "city": "Haverhill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45638,
+    "latitude": 38.544457,
+    "longitude": -82.596777,
+    "city": "Ironton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45640,
+    "latitude": 39.03738,
+    "longitude": -82.628954,
+    "city": "Jackson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 45642,
+    "latitude": 39.052267,
+    "longitude": -83.050031,
+    "city": "Jasper",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45643,
+    "latitude": 38.86833,
+    "longitude": -82.256185,
+    "city": "Kerr",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45644,
+    "latitude": 39.424824,
+    "longitude": -82.862234,
+    "city": "Kingston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45645,
+    "latitude": 38.562503,
+    "longitude": -82.545723,
+    "city": "Kitts Hill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45646,
+    "latitude": 39.081031,
+    "longitude": -83.312422,
+    "city": "Latham",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45647,
+    "latitude": 39.292098,
+    "longitude": -82.795487,
+    "city": "Londonderry",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45648,
+    "latitude": 38.888422,
+    "longitude": -82.98132,
+    "city": "Lucasville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45650,
+    "latitude": 38.73906,
+    "longitude": -83.42617,
+    "city": "Lynx",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45651,
+    "latitude": 39.280013,
+    "longitude": -82.47532,
+    "city": "Mc Arthur",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45652,
+    "latitude": 38.852654,
+    "longitude": -83.135398,
+    "city": "Mc Dermott",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45653,
+    "latitude": 38.889049,
+    "longitude": -82.911143,
+    "city": "Minford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45654,
+    "latitude": 39.332256,
+    "longitude": -82.379663,
+    "city": "New Plymouth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45656,
+    "latitude": 38.976464,
+    "longitude": -82.603687,
+    "city": "Oak Hill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 45657,
+    "latitude": 38.875128,
+    "longitude": -83.159778,
+    "city": "Otway",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45658,
+    "latitude": 38.765791,
+    "longitude": -82.390542,
+    "city": "Patriot",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45659,
+    "latitude": 38.674554,
+    "longitude": -82.614563,
+    "city": "Pedro",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45660,
+    "latitude": 38.858792,
+    "longitude": -83.461114,
+    "city": "Peebles",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45661,
+    "latitude": 39.043707,
+    "longitude": -83.12101,
+    "city": "Piketon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45662,
+    "latitude": 38.793214,
+    "longitude": -82.930576,
+    "city": "Portsmouth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45663,
+    "latitude": 38.749539,
+    "longitude": -83.133477,
+    "city": "West Portsmouth",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45669,
+    "latitude": 38.49585,
+    "longitude": -82.364902,
+    "city": "Proctorville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45671,
+    "latitude": 38.957722,
+    "longitude": -83.236465,
+    "city": "Rarden",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45672,
+    "latitude": 39.230553,
+    "longitude": -82.66956,
+    "city": "Ray",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45673,
+    "latitude": 39.203167,
+    "longitude": -82.854167,
+    "city": "Richmond Dale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45674,
+    "latitude": 38.881447,
+    "longitude": -82.378213,
+    "city": "Rio Grande",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45675,
+    "latitude": 38.536685,
+    "longitude": -82.532715,
+    "city": "Rock Camp",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45677,
+    "latitude": 38.794115,
+    "longitude": -82.755455,
+    "city": "Scioto Furnace",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45678,
+    "latitude": 38.598567,
+    "longitude": -82.385511,
+    "city": "Scottown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45679,
+    "latitude": 38.957941,
+    "longitude": -83.535617,
+    "city": "Seaman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45680,
+    "latitude": 38.465171,
+    "longitude": -82.501206,
+    "city": "South Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45681,
+    "latitude": 39.328523,
+    "longitude": -83.242873,
+    "city": "South Salem",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Ross"
+  },
+  {
+    "zip_code": 45682,
+    "latitude": 38.819687,
+    "longitude": -82.727978,
+    "city": "South Webster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45683,
+    "latitude": 38.955485,
+    "longitude": -82.858402,
+    "city": "Stockdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45684,
+    "latitude": 38.783492,
+    "longitude": -83.102804,
+    "city": "Stout",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45685,
+    "latitude": 38.870525,
+    "longitude": -82.406298,
+    "city": "Thurman",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45686,
+    "latitude": 38.961601,
+    "longitude": -82.345709,
+    "city": "Vinton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Gallia"
+  },
+  {
+    "zip_code": 45687,
+    "latitude": 39.072829,
+    "longitude": -83.085764,
+    "city": "Wakefield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45688,
+    "latitude": 38.719009,
+    "longitude": -82.535141,
+    "city": "Waterloo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45690,
+    "latitude": 39.072309,
+    "longitude": -83.024014,
+    "city": "Waverly",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 45692,
+    "latitude": 39.116467,
+    "longitude": -82.553489,
+    "city": "Wellston",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 45693,
+    "latitude": 38.82346,
+    "longitude": -83.504048,
+    "city": "West Union",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45694,
+    "latitude": 38.745832,
+    "longitude": -82.847351,
+    "city": "Wheelersburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45695,
+    "latitude": 39.141589,
+    "longitude": -82.36824,
+    "city": "Wilkesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45696,
+    "latitude": 38.590602,
+    "longitude": -82.456062,
+    "city": "Willow Wood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 45697,
+    "latitude": 38.9163,
+    "longitude": -83.580733,
+    "city": "Winchester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 45698,
+    "latitude": 39.283031,
+    "longitude": -82.397708,
+    "city": "Zaleski",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Vinton"
+  },
+  {
+    "zip_code": 45699,
+    "latitude": 38.793335,
+    "longitude": -82.96046,
+    "city": "Lucasville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Scioto"
+  },
+  {
+    "zip_code": 45701,
+    "latitude": 39.339279,
+    "longitude": -82.013803,
+    "city": "Athens",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45710,
+    "latitude": 39.240816,
+    "longitude": -82.177096,
+    "city": "Albany",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45711,
+    "latitude": 39.410743,
+    "longitude": -81.936397,
+    "city": "Amesville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45712,
+    "latitude": 39.386825,
+    "longitude": -81.395219,
+    "city": "Barlow",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45713,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Bartlett",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45714,
+    "latitude": 39.449988,
+    "longitude": -81.559698,
+    "city": "Belpre",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45715,
+    "latitude": 39.541791,
+    "longitude": -81.606295,
+    "city": "Beverly",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45716,
+    "latitude": 39.452247,
+    "longitude": -82.179423,
+    "city": "Buchtel",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45717,
+    "latitude": 39.368235,
+    "longitude": -82.010132,
+    "city": "Carbondale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45719,
+    "latitude": 39.400154,
+    "longitude": -82.130241,
+    "city": "Chauncey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45720,
+    "latitude": 39.085629,
+    "longitude": -81.921443,
+    "city": "Chester",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45721,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Coal Run",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45723,
+    "latitude": 39.246862,
+    "longitude": -81.830623,
+    "city": "Coolville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45724,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Cutler",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45727,
+    "latitude": 39.67387,
+    "longitude": -81.485687,
+    "city": "Dexter City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 45729,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Fleming",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45732,
+    "latitude": 39.475277,
+    "longitude": -82.063319,
+    "city": "Glouster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45734,
+    "latitude": 39.663015,
+    "longitude": -81.182232,
+    "city": "Graysville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 45735,
+    "latitude": 39.249339,
+    "longitude": -81.922005,
+    "city": "Guysville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45739,
+    "latitude": 39.197888,
+    "longitude": -81.744573,
+    "city": "Hockingport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45740,
+    "latitude": 39.461905,
+    "longitude": -82.073188,
+    "city": "Jacksonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45741,
+    "latitude": 39.069673,
+    "longitude": -82.24991,
+    "city": "Langsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45742,
+    "latitude": 39.274635,
+    "longitude": -81.655976,
+    "city": "Little Hocking",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45743,
+    "latitude": 39.071167,
+    "longitude": -81.839685,
+    "city": "Long Bottom",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45744,
+    "latitude": 39.538823,
+    "longitude": -81.47884,
+    "city": "Lowell",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45745,
+    "latitude": 39.561107,
+    "longitude": -81.39676,
+    "city": "Lower Salem",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45746,
+    "latitude": 39.580501,
+    "longitude": -81.479272,
+    "city": "Macksburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45750,
+    "latitude": 39.413446,
+    "longitude": -81.351051,
+    "city": "Marietta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45760,
+    "latitude": 39.069059,
+    "longitude": -82.021994,
+    "city": "Middleport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45761,
+    "latitude": 39.379936,
+    "longitude": -82.088793,
+    "city": "Millfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45764,
+    "latitude": 39.357211,
+    "longitude": -82.045466,
+    "city": "Nelsonville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45766,
+    "latitude": 39.307332,
+    "longitude": -82.167867,
+    "city": "New Marshfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45767,
+    "latitude": 39.523303,
+    "longitude": -81.064116,
+    "city": "New Matamoras",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45768,
+    "latitude": 39.393315,
+    "longitude": -81.225093,
+    "city": "Newport",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45769,
+    "latitude": 39.07866,
+    "longitude": -82.069422,
+    "city": "Pomeroy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45770,
+    "latitude": 38.981015,
+    "longitude": -81.812092,
+    "city": "Portland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45771,
+    "latitude": 38.984835,
+    "longitude": -81.892503,
+    "city": "Racine",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45772,
+    "latitude": 39.13447,
+    "longitude": -81.835405,
+    "city": "Reedsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45773,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Reno",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45775,
+    "latitude": 39.090877,
+    "longitude": -82.148554,
+    "city": "Rutland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45776,
+    "latitude": 39.214673,
+    "longitude": -82.018739,
+    "city": "Shade",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45777,
+    "latitude": 39.368235,
+    "longitude": -82.010132,
+    "city": "Sharpsburg",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45778,
+    "latitude": 39.362514,
+    "longitude": -81.906878,
+    "city": "Stewart",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45779,
+    "latitude": 39.003291,
+    "longitude": -81.966122,
+    "city": "Syracuse",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45780,
+    "latitude": 39.35076,
+    "longitude": -81.968751,
+    "city": "The Plains",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45781,
+    "latitude": 39.368235,
+    "longitude": -82.010132,
+    "city": "Torch",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45782,
+    "latitude": 39.484517,
+    "longitude": -82.080528,
+    "city": "Trimble",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Athens"
+  },
+  {
+    "zip_code": 45783,
+    "latitude": 39.168349,
+    "longitude": -81.842313,
+    "city": "Tuppers Plains",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Meigs"
+  },
+  {
+    "zip_code": 45784,
+    "latitude": 39.367877,
+    "longitude": -81.665232,
+    "city": "Vincent",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45786,
+    "latitude": 39.538788,
+    "longitude": -81.639888,
+    "city": "Waterford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45787,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Watertown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45788,
+    "latitude": 39.430738,
+    "longitude": -81.44512,
+    "city": "Whipple",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45789,
+    "latitude": 39.544391,
+    "longitude": -81.245804,
+    "city": "Wingett Run",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 45801,
+    "latitude": 40.772147,
+    "longitude": -84.0471,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45802,
+    "latitude": 40.781785,
+    "longitude": -84.138566,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45804,
+    "latitude": 40.694996,
+    "longitude": -84.063491,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45805,
+    "latitude": 40.733043,
+    "longitude": -84.169749,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45806,
+    "latitude": 40.589876,
+    "longitude": -84.12786,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45807,
+    "latitude": 40.795463,
+    "longitude": -84.138298,
+    "city": "Lima",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45808,
+    "latitude": 40.831419,
+    "longitude": -83.975831,
+    "city": "Beaverdam",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45809,
+    "latitude": 40.847946,
+    "longitude": -84.183152,
+    "city": "Gomer",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45810,
+    "latitude": 40.676042,
+    "longitude": -83.700633,
+    "city": "Ada",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45812,
+    "latitude": 40.679192,
+    "longitude": -83.795649,
+    "city": "Alger",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45813,
+    "latitude": 41.186851,
+    "longitude": -84.727141,
+    "city": "Antwerp",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45814,
+    "latitude": 40.908204,
+    "longitude": -83.617612,
+    "city": "Arlington",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45815,
+    "latitude": 41.153855,
+    "longitude": -83.941281,
+    "city": "Belmore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45816,
+    "latitude": 41.003087,
+    "longitude": -83.793147,
+    "city": "Benton Ridge",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45817,
+    "latitude": 40.78635,
+    "longitude": -83.928268,
+    "city": "Bluffton",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45819,
+    "latitude": 40.62408,
+    "longitude": -84.260275,
+    "city": "Buckland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45820,
+    "latitude": 40.830388,
+    "longitude": -84.085154,
+    "city": "Cairo",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45821,
+    "latitude": 41.223404,
+    "longitude": -84.571519,
+    "city": "Cecil",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45822,
+    "latitude": 40.556645,
+    "longitude": -84.628714,
+    "city": "Celina",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45826,
+    "latitude": 40.428177,
+    "longitude": -84.633484,
+    "city": "Chickasaw",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45827,
+    "latitude": 41.003391,
+    "longitude": -84.298718,
+    "city": "Cloverdale",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45828,
+    "latitude": 40.476443,
+    "longitude": -84.68752,
+    "city": "Coldwater",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45830,
+    "latitude": 40.97793,
+    "longitude": -84.15053,
+    "city": "Columbus Grove",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45831,
+    "latitude": 41.104335,
+    "longitude": -84.236754,
+    "city": "Continental",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45832,
+    "latitude": 40.896997,
+    "longitude": -84.716607,
+    "city": "Convoy",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45833,
+    "latitude": 40.794444,
+    "longitude": -84.311596,
+    "city": "Delphos",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45835,
+    "latitude": 40.761389,
+    "longitude": -83.702404,
+    "city": "Dola",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45836,
+    "latitude": 40.782629,
+    "longitude": -83.652433,
+    "city": "Dunkirk",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45837,
+    "latitude": 41.046252,
+    "longitude": -84.319494,
+    "city": "Dupont",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45838,
+    "latitude": 40.735491,
+    "longitude": -84.485028,
+    "city": "Elgin",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45839,
+    "latitude": 40.993263,
+    "longitude": -83.650714,
+    "city": "Findlay",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45840,
+    "latitude": 41.015219,
+    "longitude": -83.664786,
+    "city": "Findlay",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45841,
+    "latitude": 40.885048,
+    "longitude": -83.722963,
+    "city": "Jenera",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45843,
+    "latitude": 40.755387,
+    "longitude": -83.671142,
+    "city": "Forest",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45844,
+    "latitude": 40.922538,
+    "longitude": -84.295652,
+    "city": "Fort Jennings",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45845,
+    "latitude": 40.364003,
+    "longitude": -84.23261,
+    "city": "Fort Loramie",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 45846,
+    "latitude": 40.452405,
+    "longitude": -84.7169,
+    "city": "Fort Recovery",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45848,
+    "latitude": 41.096421,
+    "longitude": -84.112031,
+    "city": "Glandorf",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45849,
+    "latitude": 41.032277,
+    "longitude": -84.479422,
+    "city": "Grover Hill",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45850,
+    "latitude": 40.739067,
+    "longitude": -83.941613,
+    "city": "Harrod",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45851,
+    "latitude": 41.03321,
+    "longitude": -84.60076,
+    "city": "Haviland",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45853,
+    "latitude": 40.979612,
+    "longitude": -84.219208,
+    "city": "Kalida",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45854,
+    "latitude": 40.758211,
+    "longitude": -83.949934,
+    "city": "Lafayette",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45855,
+    "latitude": 41.07712,
+    "longitude": -84.583005,
+    "city": "Latty",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45856,
+    "latitude": 41.050948,
+    "longitude": -84.11025,
+    "city": "Leipsic",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45858,
+    "latitude": 41.09817,
+    "longitude": -83.784671,
+    "city": "Mc Comb",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45859,
+    "latitude": 40.689897,
+    "longitude": -83.811072,
+    "city": "Mc Guffey",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hardin"
+  },
+  {
+    "zip_code": 45860,
+    "latitude": 40.394413,
+    "longitude": -84.535296,
+    "city": "Maria Stein",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45861,
+    "latitude": 41.08119,
+    "longitude": -84.428684,
+    "city": "Melrose",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45862,
+    "latitude": 40.575306,
+    "longitude": -84.547735,
+    "city": "Mendon",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45863,
+    "latitude": 40.899321,
+    "longitude": -84.454113,
+    "city": "Middle Point",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45864,
+    "latitude": 41.103776,
+    "longitude": -84.131541,
+    "city": "Miller City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45865,
+    "latitude": 40.410299,
+    "longitude": -84.39708,
+    "city": "Minster",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45866,
+    "latitude": 40.489028,
+    "longitude": -84.549391,
+    "city": "Montezuma",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45867,
+    "latitude": 40.904671,
+    "longitude": -83.528932,
+    "city": "Mount Blanchard",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45868,
+    "latitude": 40.970761,
+    "longitude": -83.842293,
+    "city": "Mount Cory",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45869,
+    "latitude": 40.504687,
+    "longitude": -84.2145,
+    "city": "New Bremen",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45870,
+    "latitude": 40.549772,
+    "longitude": -83.950093,
+    "city": "New Hampshire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45871,
+    "latitude": 40.496141,
+    "longitude": -84.282659,
+    "city": "New Knoxville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45872,
+    "latitude": 41.204236,
+    "longitude": -83.6837,
+    "city": "North Baltimore",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Wood"
+  },
+  {
+    "zip_code": 45873,
+    "latitude": 41.121548,
+    "longitude": -84.534212,
+    "city": "Oakwood",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45874,
+    "latitude": 40.821778,
+    "longitude": -84.658335,
+    "city": "Ohio City",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45875,
+    "latitude": 41.019657,
+    "longitude": -84.111533,
+    "city": "Ottawa",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45876,
+    "latitude": 41.027573,
+    "longitude": -84.238754,
+    "city": "Ottoville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45877,
+    "latitude": 40.956609,
+    "longitude": -83.937984,
+    "city": "Pandora",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45879,
+    "latitude": 41.121205,
+    "longitude": -84.532406,
+    "city": "Paulding",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45880,
+    "latitude": 41.062763,
+    "longitude": -84.716982,
+    "city": "Payne",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Paulding"
+  },
+  {
+    "zip_code": 45881,
+    "latitude": 40.941562,
+    "longitude": -83.770206,
+    "city": "Rawson",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45882,
+    "latitude": 40.669681,
+    "longitude": -84.657861,
+    "city": "Rockford",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45883,
+    "latitude": 40.408584,
+    "longitude": -84.635417,
+    "city": "Saint Henry",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Mercer"
+  },
+  {
+    "zip_code": 45884,
+    "latitude": 40.520289,
+    "longitude": -84.16797,
+    "city": "Saint Johns",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45885,
+    "latitude": 40.584975,
+    "longitude": -84.376744,
+    "city": "Saint Marys",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45886,
+    "latitude": 40.975363,
+    "longitude": -84.603141,
+    "city": "Scott",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45887,
+    "latitude": 40.732147,
+    "longitude": -84.159688,
+    "city": "Spencerville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 45888,
+    "latitude": 40.602259,
+    "longitude": -84.086022,
+    "city": "Uniopolis",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45889,
+    "latitude": 41.142264,
+    "longitude": -83.628337,
+    "city": "Van Buren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45890,
+    "latitude": 40.935704,
+    "longitude": -83.502731,
+    "city": "Vanlue",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45891,
+    "latitude": 40.873247,
+    "longitude": -84.594525,
+    "city": "Van Wert",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45893,
+    "latitude": 40.882077,
+    "longitude": -84.148028,
+    "city": "Vaughnsville",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 45894,
+    "latitude": 40.771925,
+    "longitude": -84.47458,
+    "city": "Venedocia",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45895,
+    "latitude": 40.582252,
+    "longitude": -84.152138,
+    "city": "Wapakoneta",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45896,
+    "latitude": 40.589899,
+    "longitude": -83.953648,
+    "city": "Waynesfield",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Auglaize"
+  },
+  {
+    "zip_code": 45897,
+    "latitude": 40.834004,
+    "longitude": -83.651785,
+    "city": "Williamstown",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 45898,
+    "latitude": 40.775148,
+    "longitude": -84.745809,
+    "city": "Willshire",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  }
+]

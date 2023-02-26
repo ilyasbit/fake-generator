@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 30177,
+    "latitude": 34.402724,
+    "longitude": -84.378511,
+    "city": "Tate",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pickens"
+  },
+  {
+    "zip_code": 30178,
+    "latitude": 34.129573,
+    "longitude": -84.973364,
+    "city": "Taylorsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bartow"
+  },
+  {
+    "zip_code": 30179,
+    "latitude": 33.73746,
+    "longitude": -85.026107,
+    "city": "Temple",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 30180,
+    "latitude": 33.705546,
+    "longitude": -84.975668,
+    "city": "Villa Rica",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 30182,
+    "latitude": 33.680148,
+    "longitude": -85.251297,
+    "city": "Waco",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Haralson"
+  },
+  {
+    "zip_code": 30183,
+    "latitude": 34.338605,
+    "longitude": -84.577601,
+    "city": "Waleska",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 30184,
+    "latitude": 34.264331,
+    "longitude": -84.753929,
+    "city": "White",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bartow"
+  },
+  {
+    "zip_code": 30185,
+    "latitude": 33.509001,
+    "longitude": -84.910211,
+    "city": "Whitesburg",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 30187,
+    "latitude": 33.659494,
+    "longitude": -84.778163,
+    "city": "Winston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Douglas"
+  },
+  {
+    "zip_code": 30188,
+    "latitude": 34.127398,
+    "longitude": -84.481787,
+    "city": "Woodstock",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 30189,
+    "latitude": 34.147985,
+    "longitude": -84.47725,
+    "city": "Woodstock",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cherokee"
+  },
+  {
+    "zip_code": 30204,
+    "latitude": 33.07577,
+    "longitude": -84.145706,
+    "city": "Barnesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 30205,
+    "latitude": 33.30009,
+    "longitude": -84.453196,
+    "city": "Brooks",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30206,
+    "latitude": 33.104729,
+    "longitude": -84.456917,
+    "city": "Concord",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 30212,
+    "latitude": 33.278205,
+    "longitude": -84.288803,
+    "city": "Experiment",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Spalding"
+  },
+  {
+    "zip_code": 30213,
+    "latitude": 33.591462,
+    "longitude": -84.608907,
+    "city": "Fairburn",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30214,
+    "latitude": 33.467941,
+    "longitude": -84.480626,
+    "city": "Fayetteville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30215,
+    "latitude": 33.394307,
+    "longitude": -84.473778,
+    "city": "Fayetteville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30216,
+    "latitude": 33.237156,
+    "longitude": -83.898277,
+    "city": "Flovilla",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Butts"
+  },
+  {
+    "zip_code": 30217,
+    "latitude": 33.278005,
+    "longitude": -85.134045,
+    "city": "Franklin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Heard"
+  },
+  {
+    "zip_code": 30218,
+    "latitude": 33.06913,
+    "longitude": -84.613189,
+    "city": "Gay",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 30219,
+    "latitude": 33.157214,
+    "longitude": -85.170588,
+    "city": "Glenn",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Heard"
+  },
+  {
+    "zip_code": 30220,
+    "latitude": 33.275619,
+    "longitude": -84.741266,
+    "city": "Grantville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30222,
+    "latitude": 33.046754,
+    "longitude": -84.740188,
+    "city": "Greenville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 30223,
+    "latitude": 33.265854,
+    "longitude": -84.289552,
+    "city": "Griffin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Spalding"
+  },
+  {
+    "zip_code": 30224,
+    "latitude": 33.240386,
+    "longitude": -84.273402,
+    "city": "Griffin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Spalding"
+  },
+  {
+    "zip_code": 30228,
+    "latitude": 33.408112,
+    "longitude": -84.273764,
+    "city": "Hampton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 30229,
+    "latitude": 33.232156,
+    "longitude": -84.56854,
+    "city": "Haralson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30230,
+    "latitude": 33.144151,
+    "longitude": -84.960566,
+    "city": "Hogansville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Troup"
+  },
+  {
+    "zip_code": 30232,
+    "latitude": 33.403811,
+    "longitude": -84.504403,
+    "city": "Inman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30233,
+    "latitude": 33.319863,
+    "longitude": -83.981112,
+    "city": "Jackson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Butts"
+  },
+  {
+    "zip_code": 30234,
+    "latitude": 33.322351,
+    "longitude": -84.028744,
+    "city": "Jenkinsburg",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Butts"
+  },
+  {
+    "zip_code": 30236,
+    "latitude": 33.518505,
+    "longitude": -84.337523,
+    "city": "Jonesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30237,
+    "latitude": 33.500697,
+    "longitude": -84.351273,
+    "city": "Jonesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30238,
+    "latitude": 33.494387,
+    "longitude": -84.379724,
+    "city": "Jonesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30240,
+    "latitude": 33.024347,
+    "longitude": -85.073906,
+    "city": "Lagrange",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Troup"
+  },
+  {
+    "zip_code": 30241,
+    "latitude": 33.024935,
+    "longitude": -84.957664,
+    "city": "Lagrange",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Troup"
+  },
+  {
+    "zip_code": 30248,
+    "latitude": 33.372111,
+    "longitude": -84.115645,
+    "city": "Locust Grove",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 30250,
+    "latitude": 33.442909,
+    "longitude": -84.313582,
+    "city": "Lovejoy",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30251,
+    "latitude": 33.179184,
+    "longitude": -84.699455,
+    "city": "Luthersville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 30252,
+    "latitude": 33.476762,
+    "longitude": -84.055005,
+    "city": "Mcdonough",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 30253,
+    "latitude": 33.451043,
+    "longitude": -84.154412,
+    "city": "Mcdonough",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 30256,
+    "latitude": 33.039123,
+    "longitude": -84.377639,
+    "city": "Meansville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 30257,
+    "latitude": 33.1365,
+    "longitude": -84.148695,
+    "city": "Milner",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lamar"
+  },
+  {
+    "zip_code": 30258,
+    "latitude": 33.022288,
+    "longitude": -84.436925,
+    "city": "Molena",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 30259,
+    "latitude": 33.276279,
+    "longitude": -84.738721,
+    "city": "Moreland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30260,
+    "latitude": 33.58016,
+    "longitude": -84.326757,
+    "city": "Morrow",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30261,
+    "latitude": 33.04567,
+    "longitude": -85.048995,
+    "city": "Lagrange",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Troup"
+  },
+  {
+    "zip_code": 30263,
+    "latitude": 33.369595,
+    "longitude": -84.819397,
+    "city": "Newnan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30264,
+    "latitude": 33.361003,
+    "longitude": -84.814173,
+    "city": "Newnan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30265,
+    "latitude": 33.415987,
+    "longitude": -84.705681,
+    "city": "Newnan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30266,
+    "latitude": 33.265656,
+    "longitude": -84.298964,
+    "city": "Orchard Hill",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Spalding"
+  },
+  {
+    "zip_code": 30268,
+    "latitude": 33.559191,
+    "longitude": -84.710082,
+    "city": "Palmetto",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30269,
+    "latitude": 33.395759,
+    "longitude": -84.568173,
+    "city": "Peachtree City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30271,
+    "latitude": 33.351401,
+    "longitude": -84.756109,
+    "city": "Newnan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30272,
+    "latitude": 33.625894,
+    "longitude": -84.516327,
+    "city": "Red Oak",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30273,
+    "latitude": 33.577049,
+    "longitude": -84.272559,
+    "city": "Rex",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30274,
+    "latitude": 33.555536,
+    "longitude": -84.397997,
+    "city": "Riverdale",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30275,
+    "latitude": 33.42985,
+    "longitude": -84.874406,
+    "city": "Sargent",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30276,
+    "latitude": 33.285373,
+    "longitude": -84.602516,
+    "city": "Senoia",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30277,
+    "latitude": 33.363069,
+    "longitude": -84.659393,
+    "city": "Sharpsburg",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30281,
+    "latitude": 33.549947,
+    "longitude": -84.207969,
+    "city": "Stockbridge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 30284,
+    "latitude": 33.345253,
+    "longitude": -84.289814,
+    "city": "Sunny Side",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Spalding"
+  },
+  {
+    "zip_code": 30285,
+    "latitude": 32.965021,
+    "longitude": -84.219349,
+    "city": "The Rock",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Upson"
+  },
+  {
+    "zip_code": 30286,
+    "latitude": 32.884509,
+    "longitude": -84.336486,
+    "city": "Thomaston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Upson"
+  },
+  {
+    "zip_code": 30287,
+    "latitude": 33.500697,
+    "longitude": -84.351273,
+    "city": "Morrow",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30288,
+    "latitude": 33.636858,
+    "longitude": -84.337139,
+    "city": "Conley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30289,
+    "latitude": 33.32603,
+    "longitude": -84.637108,
+    "city": "Turin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coweta"
+  },
+  {
+    "zip_code": 30290,
+    "latitude": 33.460036,
+    "longitude": -84.585773,
+    "city": "Tyrone",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 30291,
+    "latitude": 33.573098,
+    "longitude": -84.551011,
+    "city": "Union City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30292,
+    "latitude": 33.117012,
+    "longitude": -84.399149,
+    "city": "Williamson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 30293,
+    "latitude": 32.968248,
+    "longitude": -84.625409,
+    "city": "Woodbury",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 30294,
+    "latitude": 33.616559,
+    "longitude": -84.293942,
+    "city": "Ellenwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30295,
+    "latitude": 33.077371,
+    "longitude": -84.321736,
+    "city": "Zebulon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 30296,
+    "latitude": 33.558361,
+    "longitude": -84.434776,
+    "city": "Riverdale",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30297,
+    "latitude": 33.611509,
+    "longitude": -84.374496,
+    "city": "Forest Park",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30298,
+    "latitude": 33.500697,
+    "longitude": -84.351273,
+    "city": "Forest Park",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clayton"
+  },
+  {
+    "zip_code": 30301,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30302,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30303,
+    "latitude": 33.752456,
+    "longitude": -84.392026,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30304,
+    "latitude": 33.848196,
+    "longitude": -84.429296,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30305,
+    "latitude": 33.834989,
+    "longitude": -84.386826,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30306,
+    "latitude": 33.787804,
+    "longitude": -84.359775,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30307,
+    "latitude": 33.762855,
+    "longitude": -84.357375,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30308,
+    "latitude": 33.794055,
+    "longitude": -84.377326,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30309,
+    "latitude": 33.797854,
+    "longitude": -84.387726,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30310,
+    "latitude": 33.718257,
+    "longitude": -84.430877,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30311,
+    "latitude": 33.724907,
+    "longitude": -84.468329,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30312,
+    "latitude": 33.829743,
+    "longitude": -84.381529,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30313,
+    "latitude": 33.760505,
+    "longitude": -84.399626,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30314,
+    "latitude": 33.757806,
+    "longitude": -84.433649,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30315,
+    "latitude": 33.697257,
+    "longitude": -84.383725,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30316,
+    "latitude": 33.726906,
+    "longitude": -84.358525,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30317,
+    "latitude": 33.753555,
+    "longitude": -84.351125,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30318,
+    "latitude": 33.792005,
+    "longitude": -84.442778,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30319,
+    "latitude": 33.876752,
+    "longitude": -84.329124,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30320,
+    "latitude": 33.656824,
+    "longitude": -84.423648,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30321,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30322,
+    "latitude": 33.795204,
+    "longitude": -84.324824,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30324,
+    "latitude": 33.820104,
+    "longitude": -84.366475,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30325,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30326,
+    "latitude": 33.849615,
+    "longitude": -84.360881,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30327,
+    "latitude": 33.863953,
+    "longitude": -84.422028,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30328,
+    "latitude": 33.933543,
+    "longitude": -84.395777,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30329,
+    "latitude": 33.826553,
+    "longitude": -84.324874,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30330,
+    "latitude": 33.707107,
+    "longitude": -84.432127,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30331,
+    "latitude": 33.724275,
+    "longitude": -84.578581,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30332,
+    "latitude": 33.776305,
+    "longitude": -84.397976,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30333,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30334,
+    "latitude": 33.702657,
+    "longitude": -84.439127,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30336,
+    "latitude": 33.740581,
+    "longitude": -84.554542,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30337,
+    "latitude": 33.642809,
+    "longitude": -84.461778,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30338,
+    "latitude": 33.96685,
+    "longitude": -84.324916,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30339,
+    "latitude": 33.906202,
+    "longitude": -84.433678,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30340,
+    "latitude": 33.893201,
+    "longitude": -84.253871,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30341,
+    "latitude": 33.890102,
+    "longitude": -84.278222,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30342,
+    "latitude": 33.881052,
+    "longitude": -84.379476,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30343,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30344,
+    "latitude": 33.691858,
+    "longitude": -84.448027,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30345,
+    "latitude": 33.845603,
+    "longitude": -84.281422,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30346,
+    "latitude": 33.924401,
+    "longitude": -84.337557,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30347,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30348,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30349,
+    "latitude": 33.61806,
+    "longitude": -84.550147,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30350,
+    "latitude": 33.9632,
+    "longitude": -84.314224,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30353,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30354,
+    "latitude": 33.667508,
+    "longitude": -84.389616,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30355,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30356,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30357,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30358,
+    "latitude": 33.998151,
+    "longitude": -84.34112,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30359,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30360,
+    "latitude": 33.931069,
+    "longitude": -84.277772,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30361,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30362,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30364,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30366,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 30368,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30369,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30370,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30371,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30374,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30375,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30376,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30377,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30378,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30379,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30380,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30384,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30385,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30386,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30387,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30388,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30389,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30390,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30392,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30394,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30396,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30398,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30399,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 30401,
+    "latitude": 32.569871,
+    "longitude": -82.346181,
+    "city": "Swainsboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30410,
+    "latitude": 32.17966,
+    "longitude": -82.516557,
+    "city": "Ailey",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 30411,
+    "latitude": 32.143021,
+    "longitude": -82.82677,
+    "city": "Alamo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 30412,
+    "latitude": 32.077458,
+    "longitude": -82.482488,
+    "city": "Alston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 30413,
+    "latitude": 32.88914,
+    "longitude": -82.466644,
+    "city": "Bartow",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30414,
+    "latitude": 32.163392,
+    "longitude": -81.87191,
+    "city": "Bellville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Evans"
+  },
+  {
+    "zip_code": 30415,
+    "latitude": 32.352307,
+    "longitude": -81.6571,
+    "city": "Brooklet",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30417,
+    "latitude": 32.160611,
+    "longitude": -81.923832,
+    "city": "Claxton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Evans"
+  },
+  {
+    "zip_code": 30420,
+    "latitude": 32.10597,
+    "longitude": -82.03389,
+    "city": "Cobbtown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30421,
+    "latitude": 32.058597,
+    "longitude": -82.027358,
+    "city": "Collins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30423,
+    "latitude": 32.163392,
+    "longitude": -81.87191,
+    "city": "Daisy",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Evans"
+  },
+  {
+    "zip_code": 30424,
+    "latitude": 32.767634,
+    "longitude": -81.629062,
+    "city": "Dover",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Screven"
+  },
+  {
+    "zip_code": 30425,
+    "latitude": 32.654937,
+    "longitude": -82.100208,
+    "city": "Garfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30426,
+    "latitude": 33.05387,
+    "longitude": -81.684489,
+    "city": "Girard",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30427,
+    "latitude": 32.066649,
+    "longitude": -82.012344,
+    "city": "Glennville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30428,
+    "latitude": 32.118831,
+    "longitude": -82.724555,
+    "city": "Glenwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wheeler"
+  },
+  {
+    "zip_code": 30429,
+    "latitude": 32.152808,
+    "longitude": -81.925865,
+    "city": "Hagan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Evans"
+  },
+  {
+    "zip_code": 30434,
+    "latitude": 33.028798,
+    "longitude": -82.437965,
+    "city": "Louisville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30436,
+    "latitude": 32.129147,
+    "longitude": -82.330546,
+    "city": "Lyons",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Toombs"
+  },
+  {
+    "zip_code": 30438,
+    "latitude": 32.050694,
+    "longitude": -81.998348,
+    "city": "Manassas",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30439,
+    "latitude": 32.39938,
+    "longitude": -82.048201,
+    "city": "Metter",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Candler"
+  },
+  {
+    "zip_code": 30441,
+    "latitude": 32.926431,
+    "longitude": -82.172337,
+    "city": "Midville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30442,
+    "latitude": 32.779376,
+    "longitude": -81.973904,
+    "city": "Millen",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jenkins"
+  },
+  {
+    "zip_code": 30445,
+    "latitude": 32.183157,
+    "longitude": -82.566698,
+    "city": "Mount Vernon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 30446,
+    "latitude": 32.580957,
+    "longitude": -81.482625,
+    "city": "Newington",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Screven"
+  },
+  {
+    "zip_code": 30447,
+    "latitude": 32.504092,
+    "longitude": -82.484754,
+    "city": "Norristown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30448,
+    "latitude": 32.475892,
+    "longitude": -82.372622,
+    "city": "Nunez",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30449,
+    "latitude": 32.528104,
+    "longitude": -81.533198,
+    "city": "Oliver",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Screven"
+  },
+  {
+    "zip_code": 30450,
+    "latitude": 32.552055,
+    "longitude": -81.924195,
+    "city": "Portal",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30451,
+    "latitude": 32.414349,
+    "longitude": -82.086658,
+    "city": "Pulaski",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Candler"
+  },
+  {
+    "zip_code": 30452,
+    "latitude": 32.398006,
+    "longitude": -81.889152,
+    "city": "Register",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30453,
+    "latitude": 32.031081,
+    "longitude": -82.146011,
+    "city": "Reidsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30454,
+    "latitude": 32.50631,
+    "longitude": -82.713743,
+    "city": "Rockledge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 30455,
+    "latitude": 32.722971,
+    "longitude": -81.793305,
+    "city": "Rocky Ford",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Screven"
+  },
+  {
+    "zip_code": 30456,
+    "latitude": 32.980305,
+    "longitude": -81.84486,
+    "city": "Sardis",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30457,
+    "latitude": 32.383145,
+    "longitude": -82.557135,
+    "city": "Soperton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Treutlen"
+  },
+  {
+    "zip_code": 30458,
+    "latitude": 32.425,
+    "longitude": -81.784956,
+    "city": "Statesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30459,
+    "latitude": 32.447036,
+    "longitude": -81.77772,
+    "city": "Statesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30460,
+    "latitude": 32.41795,
+    "longitude": -81.78233,
+    "city": "Statesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30461,
+    "latitude": 32.450032,
+    "longitude": -81.715799,
+    "city": "Statesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bulloch"
+  },
+  {
+    "zip_code": 30464,
+    "latitude": 32.445915,
+    "longitude": -82.258728,
+    "city": "Stillmore",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30467,
+    "latitude": 32.743851,
+    "longitude": -81.628687,
+    "city": "Sylvania",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Screven"
+  },
+  {
+    "zip_code": 30470,
+    "latitude": 32.188768,
+    "longitude": -82.522115,
+    "city": "Tarrytown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 30471,
+    "latitude": 32.54978,
+    "longitude": -82.183916,
+    "city": "Twin City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 30473,
+    "latitude": 32.028823,
+    "longitude": -82.516246,
+    "city": "Uvalda",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 30474,
+    "latitude": 32.198683,
+    "longitude": -82.39208,
+    "city": "Vidalia",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Toombs"
+  },
+  {
+    "zip_code": 30475,
+    "latitude": 32.177513,
+    "longitude": -82.373889,
+    "city": "Vidalia",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Toombs"
+  },
+  {
+    "zip_code": 30477,
+    "latitude": 32.863678,
+    "longitude": -82.407516,
+    "city": "Wadley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30499,
+    "latitude": 32.050694,
+    "longitude": -81.998348,
+    "city": "Reidsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tattnall"
+  },
+  {
+    "zip_code": 30501,
+    "latitude": 34.334398,
+    "longitude": -83.837912,
+    "city": "Gainesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30502,
+    "latitude": 34.212993,
+    "longitude": -83.794858,
+    "city": "Chestnut Mountain",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30503,
+    "latitude": 34.345432,
+    "longitude": -83.950541,
+    "city": "Gainesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30504,
+    "latitude": 34.241066,
+    "longitude": -83.886508,
+    "city": "Gainesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30506,
+    "latitude": 34.336238,
+    "longitude": -83.860031,
+    "city": "Gainesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30507,
+    "latitude": 34.257212,
+    "longitude": -83.824574,
+    "city": "Gainesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30510,
+    "latitude": 34.50429,
+    "longitude": -83.594758,
+    "city": "Alto",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30511,
+    "latitude": 34.393713,
+    "longitude": -83.473886,
+    "city": "Baldwin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Banks"
+  },
+  {
+    "zip_code": 30512,
+    "latitude": 34.867512,
+    "longitude": -83.967636,
+    "city": "Blairsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Union"
+  },
+  {
+    "zip_code": 30513,
+    "latitude": 34.831246,
+    "longitude": -84.331339,
+    "city": "Blue Ridge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fannin"
+  },
+  {
+    "zip_code": 30514,
+    "latitude": 34.903398,
+    "longitude": -84.019157,
+    "city": "Blairsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Union"
+  },
+  {
+    "zip_code": 30515,
+    "latitude": 33.960353,
+    "longitude": -84.037859,
+    "city": "Buford",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gwinnett"
+  },
+  {
+    "zip_code": 30516,
+    "latitude": 34.383987,
+    "longitude": -83.03321,
+    "city": "Bowersville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 30517,
+    "latitude": 34.109873,
+    "longitude": -83.685149,
+    "city": "Braselton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30518,
+    "latitude": 34.113712,
+    "longitude": -84.033984,
+    "city": "Buford",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gwinnett"
+  },
+  {
+    "zip_code": 30519,
+    "latitude": 34.079715,
+    "longitude": -83.930765,
+    "city": "Buford",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gwinnett"
+  },
+  {
+    "zip_code": 30520,
+    "latitude": 34.355933,
+    "longitude": -83.152947,
+    "city": "Canon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 30521,
+    "latitude": 34.363122,
+    "longitude": -83.254745,
+    "city": "Carnesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 30522,
+    "latitude": 34.73249,
+    "longitude": -84.425035,
+    "city": "Cherrylog",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gilmer"
+  },
+  {
+    "zip_code": 30523,
+    "latitude": 34.655918,
+    "longitude": -83.508274,
+    "city": "Clarkesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30525,
+    "latitude": 34.886868,
+    "longitude": -83.375358,
+    "city": "Clayton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30527,
+    "latitude": 34.397806,
+    "longitude": -83.775657,
+    "city": "Clermont",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30528,
+    "latitude": 34.610466,
+    "longitude": -83.74615,
+    "city": "Cleveland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "White"
+  },
+  {
+    "zip_code": 30529,
+    "latitude": 34.169691,
+    "longitude": -83.570671,
+    "city": "Commerce",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30530,
+    "latitude": 34.168274,
+    "longitude": -83.402226,
+    "city": "Commerce",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30531,
+    "latitude": 34.535213,
+    "longitude": -83.574032,
+    "city": "Cornelia",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30533,
+    "latitude": 34.541371,
+    "longitude": -84.024387,
+    "city": "Dahlonega",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lumpkin"
+  },
+  {
+    "zip_code": 30534,
+    "latitude": 34.453661,
+    "longitude": -84.155043,
+    "city": "Dawsonville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dawson"
+  },
+  {
+    "zip_code": 30535,
+    "latitude": 34.631639,
+    "longitude": -83.569657,
+    "city": "Demorest",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30537,
+    "latitude": 34.97,
+    "longitude": -83.357507,
+    "city": "Dillard",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30538,
+    "latitude": 34.53512,
+    "longitude": -83.258748,
+    "city": "Eastanollee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stephens"
+  },
+  {
+    "zip_code": 30539,
+    "latitude": 34.658482,
+    "longitude": -84.493207,
+    "city": "East Ellijay",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gilmer"
+  },
+  {
+    "zip_code": 30540,
+    "latitude": 34.70129,
+    "longitude": -84.449007,
+    "city": "Ellijay",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gilmer"
+  },
+  {
+    "zip_code": 30541,
+    "latitude": 34.92873,
+    "longitude": -84.436752,
+    "city": "Epworth",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fannin"
+  },
+  {
+    "zip_code": 30542,
+    "latitude": 34.282818,
+    "longitude": -83.891451,
+    "city": "Flowery Branch",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30543,
+    "latitude": 34.364396,
+    "longitude": -83.735421,
+    "city": "Gillsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30544,
+    "latitude": 34.593092,
+    "longitude": -83.562922,
+    "city": "Demorest",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30545,
+    "latitude": 34.729196,
+    "longitude": -83.720937,
+    "city": "Helen",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "White"
+  },
+  {
+    "zip_code": 30546,
+    "latitude": 34.906339,
+    "longitude": -83.72739,
+    "city": "Hiawassee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Towns"
+  },
+  {
+    "zip_code": 30547,
+    "latitude": 34.373145,
+    "longitude": -83.491925,
+    "city": "Homer",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Banks"
+  },
+  {
+    "zip_code": 30548,
+    "latitude": 34.099031,
+    "longitude": -83.71817,
+    "city": "Hoschton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30549,
+    "latitude": 34.10601,
+    "longitude": -83.589021,
+    "city": "Jefferson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30552,
+    "latitude": 34.78992,
+    "longitude": -83.443351,
+    "city": "Lakemont",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30553,
+    "latitude": 34.408031,
+    "longitude": -83.144241,
+    "city": "Lavonia",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 30554,
+    "latitude": 34.41088,
+    "longitude": -83.703923,
+    "city": "Lula",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30555,
+    "latitude": 34.936986,
+    "longitude": -84.403709,
+    "city": "Mc Caysville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fannin"
+  },
+  {
+    "zip_code": 30557,
+    "latitude": 34.527955,
+    "longitude": -83.23208,
+    "city": "Martin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stephens"
+  },
+  {
+    "zip_code": 30558,
+    "latitude": 34.329372,
+    "longitude": -83.543357,
+    "city": "Maysville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Banks"
+  },
+  {
+    "zip_code": 30559,
+    "latitude": 34.936697,
+    "longitude": -84.268863,
+    "city": "Mineral Bluff",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fannin"
+  },
+  {
+    "zip_code": 30560,
+    "latitude": 34.86263,
+    "longitude": -84.248612,
+    "city": "Morganton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fannin"
+  },
+  {
+    "zip_code": 30562,
+    "latitude": 34.914393,
+    "longitude": -83.402766,
+    "city": "Mountain City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30563,
+    "latitude": 34.541683,
+    "longitude": -83.52283,
+    "city": "Mount Airy",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30564,
+    "latitude": 34.445369,
+    "longitude": -83.906516,
+    "city": "Murrayville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30565,
+    "latitude": 34.113429,
+    "longitude": -83.474576,
+    "city": "Nicholson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30566,
+    "latitude": 34.239428,
+    "longitude": -83.897612,
+    "city": "Oakwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hall"
+  },
+  {
+    "zip_code": 30567,
+    "latitude": 34.159431,
+    "longitude": -83.59706,
+    "city": "Pendergrass",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30568,
+    "latitude": 34.944609,
+    "longitude": -83.381415,
+    "city": "Rabun Gap",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30571,
+    "latitude": 34.66578,
+    "longitude": -83.709564,
+    "city": "Sautee Nacoochee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "White"
+  },
+  {
+    "zip_code": 30572,
+    "latitude": 34.712091,
+    "longitude": -84.027629,
+    "city": "Suches",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Union"
+  },
+  {
+    "zip_code": 30573,
+    "latitude": 34.742007,
+    "longitude": -83.397716,
+    "city": "Tallulah Falls",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30575,
+    "latitude": 34.195058,
+    "longitude": -83.713188,
+    "city": "Talmo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30576,
+    "latitude": 34.856395,
+    "longitude": -83.457267,
+    "city": "Tiger",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30577,
+    "latitude": 34.554103,
+    "longitude": -83.288828,
+    "city": "Toccoa",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stephens"
+  },
+  {
+    "zip_code": 30580,
+    "latitude": 34.676584,
+    "longitude": -83.43578,
+    "city": "Turnerville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30581,
+    "latitude": 34.804473,
+    "longitude": -83.419137,
+    "city": "Wiley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Rabun"
+  },
+  {
+    "zip_code": 30582,
+    "latitude": 34.934417,
+    "longitude": -83.828504,
+    "city": "Young Harris",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Towns"
+  },
+  {
+    "zip_code": 30596,
+    "latitude": 34.629391,
+    "longitude": -83.509934,
+    "city": "Alto",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Habersham"
+  },
+  {
+    "zip_code": 30597,
+    "latitude": 34.527671,
+    "longitude": -83.980879,
+    "city": "Dahlonega",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lumpkin"
+  },
+  {
+    "zip_code": 30598,
+    "latitude": 34.59179,
+    "longitude": -83.352534,
+    "city": "Toccoa Falls",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stephens"
+  },
+  {
+    "zip_code": 30599,
+    "latitude": 34.130594,
+    "longitude": -83.587419,
+    "city": "Commerce",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 30601,
+    "latitude": 33.992902,
+    "longitude": -83.353697,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30602,
+    "latitude": 33.925971,
+    "longitude": -83.365029,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30603,
+    "latitude": 33.947587,
+    "longitude": -83.408897,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30604,
+    "latitude": 33.944339,
+    "longitude": -83.38908,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30605,
+    "latitude": 33.923088,
+    "longitude": -83.364038,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30606,
+    "latitude": 33.951348,
+    "longitude": -83.43064,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30607,
+    "latitude": 33.998267,
+    "longitude": -83.439569,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30608,
+    "latitude": 33.944339,
+    "longitude": -83.38908,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30609,
+    "latitude": 33.946364,
+    "longitude": -83.37743,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30612,
+    "latitude": 33.944339,
+    "longitude": -83.38908,
+    "city": "Athens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30619,
+    "latitude": 33.888662,
+    "longitude": -83.222254,
+    "city": "Arnoldsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oglethorpe"
+  },
+  {
+    "zip_code": 30620,
+    "latitude": 33.943652,
+    "longitude": -83.721536,
+    "city": "Bethlehem",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Barrow"
+  },
+  {
+    "zip_code": 30621,
+    "latitude": 33.805718,
+    "longitude": -83.48171,
+    "city": "Bishop",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oconee"
+  },
+  {
+    "zip_code": 30622,
+    "latitude": 33.901988,
+    "longitude": -83.518452,
+    "city": "Bogart",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oconee"
+  },
+  {
+    "zip_code": 30623,
+    "latitude": 33.754235,
+    "longitude": -83.511055,
+    "city": "Bostwick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 30624,
+    "latitude": 34.164131,
+    "longitude": -82.957102,
+    "city": "Bowman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 30625,
+    "latitude": 33.525614,
+    "longitude": -83.365611,
+    "city": "Buckhead",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 30627,
+    "latitude": 34.05918,
+    "longitude": -83.099349,
+    "city": "Carlton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30628,
+    "latitude": 34.088156,
+    "longitude": -83.202379,
+    "city": "Colbert",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30629,
+    "latitude": 34.105661,
+    "longitude": -83.144463,
+    "city": "Comer",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30630,
+    "latitude": 33.907589,
+    "longitude": -83.164573,
+    "city": "Crawford",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oglethorpe"
+  },
+  {
+    "zip_code": 30631,
+    "latitude": 33.577007,
+    "longitude": -82.858099,
+    "city": "Crawfordville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taliaferro"
+  },
+  {
+    "zip_code": 30633,
+    "latitude": 34.152968,
+    "longitude": -83.262772,
+    "city": "Danielsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30634,
+    "latitude": 34.185291,
+    "longitude": -82.943399,
+    "city": "Dewy Rose",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 30635,
+    "latitude": 34.129737,
+    "longitude": -82.840971,
+    "city": "Elberton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Elbert"
+  },
+  {
+    "zip_code": 30638,
+    "latitude": 33.755811,
+    "longitude": -83.420094,
+    "city": "Farmington",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oconee"
+  },
+  {
+    "zip_code": 30639,
+    "latitude": 34.274306,
+    "longitude": -83.147024,
+    "city": "Franklin Springs",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 30641,
+    "latitude": 33.778257,
+    "longitude": -83.580359,
+    "city": "Good Hope",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walton"
+  },
+  {
+    "zip_code": 30642,
+    "latitude": 33.560655,
+    "longitude": -83.193389,
+    "city": "Greensboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 30643,
+    "latitude": 34.361177,
+    "longitude": -82.941703,
+    "city": "Hartwell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hart"
+  },
+  {
+    "zip_code": 30645,
+    "latitude": 33.801274,
+    "longitude": -83.516374,
+    "city": "High Shoals",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 30646,
+    "latitude": 34.088693,
+    "longitude": -83.30911,
+    "city": "Hull",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30647,
+    "latitude": 34.120239,
+    "longitude": -83.288117,
+    "city": "Ila",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 30648,
+    "latitude": 33.85281,
+    "longitude": -83.020293,
+    "city": "Lexington",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oglethorpe"
+  },
+  {
+    "zip_code": 30650,
+    "latitude": 33.591117,
+    "longitude": -83.492928,
+    "city": "Madison",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 30655,
+    "latitude": 33.788322,
+    "longitude": -83.701264,
+    "city": "Monroe",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walton"
+  },
+  {
+    "zip_code": 30656,
+    "latitude": 33.838638,
+    "longitude": -83.710359,
+    "city": "Monroe",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walton"
+  },
+  {
+    "zip_code": 30660,
+    "latitude": 33.763817,
+    "longitude": -82.899831,
+    "city": "Rayle",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkes"
+  },
+  {
+    "zip_code": 30662,
+    "latitude": 34.297968,
+    "longitude": -83.192787,
+    "city": "Royston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 30663,
+    "latitude": 33.61101,
+    "longitude": -83.602459,
+    "city": "Rutledge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 30664,
+    "latitude": 33.559964,
+    "longitude": -82.794766,
+    "city": "Sharon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taliaferro"
+  },
+  {
+    "zip_code": 30665,
+    "latitude": 33.561871,
+    "longitude": -83.074186,
+    "city": "Siloam",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 30666,
+    "latitude": 33.980323,
+    "longitude": -83.590148,
+    "city": "Statham",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Barrow"
+  },
+  {
+    "zip_code": 30667,
+    "latitude": 33.804626,
+    "longitude": -83.151661,
+    "city": "Stephens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oglethorpe"
+  },
+  {
+    "zip_code": 30668,
+    "latitude": 33.877751,
+    "longitude": -82.747023,
+    "city": "Tignall",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkes"
+  },
+  {
+    "zip_code": 30669,
+    "latitude": 33.634342,
+    "longitude": -83.122065,
+    "city": "Union Point",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 30671,
+    "latitude": 33.740502,
+    "longitude": -83.1706,
+    "city": "Maxeys",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oglethorpe"
+  },
+  {
+    "zip_code": 30673,
+    "latitude": 33.73149,
+    "longitude": -82.710833,
+    "city": "Washington",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkes"
+  },
+  {
+    "zip_code": 30677,
+    "latitude": 33.81673,
+    "longitude": -83.43347,
+    "city": "Watkinsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Oconee"
+  },
+  {
+    "zip_code": 30678,
+    "latitude": 33.458056,
+    "longitude": -83.08023,
+    "city": "White Plains",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 30680,
+    "latitude": 33.987138,
+    "longitude": -83.698498,
+    "city": "Winder",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Barrow"
+  },
+  {
+    "zip_code": 30683,
+    "latitude": 33.930735,
+    "longitude": -83.292152,
+    "city": "Winterville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 30701,
+    "latitude": 34.496921,
+    "longitude": -84.887942,
+    "city": "Calhoun",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30703,
+    "latitude": 34.479066,
+    "longitude": -84.762161,
+    "city": "Calhoun",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30705,
+    "latitude": 34.785543,
+    "longitude": -84.771623,
+    "city": "Chatsworth",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 30707,
+    "latitude": 34.76416,
+    "longitude": -85.353517,
+    "city": "Chickamauga",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30708,
+    "latitude": 34.872473,
+    "longitude": -84.75688,
+    "city": "Cisco",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 30710,
+    "latitude": 34.867821,
+    "longitude": -84.919498,
+    "city": "Cohutta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30711,
+    "latitude": 34.887628,
+    "longitude": -84.744577,
+    "city": "Crandall",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 30719,
+    "latitude": 34.801861,
+    "longitude": -84.989796,
+    "city": "Dalton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30720,
+    "latitude": 34.791428,
+    "longitude": -84.992771,
+    "city": "Dalton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30721,
+    "latitude": 34.788493,
+    "longitude": -84.91381,
+    "city": "Dalton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30722,
+    "latitude": 34.759522,
+    "longitude": -84.951261,
+    "city": "Dalton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30724,
+    "latitude": 34.78783,
+    "longitude": -84.777863,
+    "city": "Eton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 30725,
+    "latitude": 34.846843,
+    "longitude": -85.238041,
+    "city": "Flintstone",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30726,
+    "latitude": 34.980249,
+    "longitude": -85.140798,
+    "city": "Graysville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Catoosa"
+  },
+  {
+    "zip_code": 30728,
+    "latitude": 34.697006,
+    "longitude": -85.255273,
+    "city": "La Fayette",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30730,
+    "latitude": 34.392073,
+    "longitude": -85.417428,
+    "city": "Lyerly",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chattooga"
+  },
+  {
+    "zip_code": 30731,
+    "latitude": 34.518597,
+    "longitude": -85.414081,
+    "city": "Menlo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chattooga"
+  },
+  {
+    "zip_code": 30732,
+    "latitude": 34.569015,
+    "longitude": -84.711863,
+    "city": "Oakman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30733,
+    "latitude": 34.414048,
+    "longitude": -85.052629,
+    "city": "Plainville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30734,
+    "latitude": 34.535071,
+    "longitude": -84.724186,
+    "city": "Ranger",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30735,
+    "latitude": 34.583318,
+    "longitude": -84.906803,
+    "city": "Resaca",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30736,
+    "latitude": 34.888709,
+    "longitude": -85.118699,
+    "city": "Ringgold",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Catoosa"
+  },
+  {
+    "zip_code": 30738,
+    "latitude": 34.813904,
+    "longitude": -85.501868,
+    "city": "Rising Fawn",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 30739,
+    "latitude": 34.801819,
+    "longitude": -85.212809,
+    "city": "Rock Spring",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30740,
+    "latitude": 34.766976,
+    "longitude": -85.072681,
+    "city": "Rocky Face",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30741,
+    "latitude": 34.798084,
+    "longitude": -85.246291,
+    "city": "Rossville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30742,
+    "latitude": 34.931497,
+    "longitude": -85.175034,
+    "city": "Fort Oglethorpe",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Catoosa"
+  },
+  {
+    "zip_code": 30746,
+    "latitude": 34.571753,
+    "longitude": -85.025616,
+    "city": "Sugar Valley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Gordon"
+  },
+  {
+    "zip_code": 30747,
+    "latitude": 34.484159,
+    "longitude": -85.315546,
+    "city": "Summerville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chattooga"
+  },
+  {
+    "zip_code": 30750,
+    "latitude": 34.93473,
+    "longitude": -85.384631,
+    "city": "Lookout Mountain",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Walker"
+  },
+  {
+    "zip_code": 30751,
+    "latitude": 34.981449,
+    "longitude": -84.735233,
+    "city": "Tennga",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Murray"
+  },
+  {
+    "zip_code": 30752,
+    "latitude": 34.871687,
+    "longitude": -85.50208,
+    "city": "Trenton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 30753,
+    "latitude": 34.532713,
+    "longitude": -85.368362,
+    "city": "Trion",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chattooga"
+  },
+  {
+    "zip_code": 30755,
+    "latitude": 34.875416,
+    "longitude": -85.050047,
+    "city": "Tunnel Hill",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30756,
+    "latitude": 34.9298,
+    "longitude": -84.988536,
+    "city": "Varnell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Whitfield"
+  },
+  {
+    "zip_code": 30757,
+    "latitude": 34.922998,
+    "longitude": -85.448302,
+    "city": "Wildwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dade"
+  },
+  {
+    "zip_code": 30802,
+    "latitude": 33.573999,
+    "longitude": -82.312058,
+    "city": "Appling",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 30803,
+    "latitude": 33.141307,
+    "longitude": -82.527009,
+    "city": "Avera",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30805,
+    "latitude": 33.359709,
+    "longitude": -82.198897,
+    "city": "Blythe",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30806,
+    "latitude": 33.527993,
+    "longitude": -82.5104,
+    "city": "Boneville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcduffie"
+  },
+  {
+    "zip_code": 30807,
+    "latitude": 33.447102,
+    "longitude": -82.642214,
+    "city": "Camak",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 30808,
+    "latitude": 33.404395,
+    "longitude": -82.401622,
+    "city": "Dearing",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcduffie"
+  },
+  {
+    "zip_code": 30809,
+    "latitude": 33.551132,
+    "longitude": -82.143617,
+    "city": "Evans",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 30810,
+    "latitude": 33.223471,
+    "longitude": -82.599738,
+    "city": "Gibson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glascock"
+  },
+  {
+    "zip_code": 30811,
+    "latitude": 33.050487,
+    "longitude": -81.929165,
+    "city": "Gough",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30812,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Gracewood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30813,
+    "latitude": 33.466721,
+    "longitude": -82.213991,
+    "city": "Grovetown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 30814,
+    "latitude": 33.456131,
+    "longitude": -82.307337,
+    "city": "Harlem",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 30815,
+    "latitude": 33.32229,
+    "longitude": -82.058032,
+    "city": "Hephzibah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30816,
+    "latitude": 33.155067,
+    "longitude": -82.134871,
+    "city": "Keysville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30817,
+    "latitude": 33.812714,
+    "longitude": -82.453456,
+    "city": "Lincolnton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lincoln"
+  },
+  {
+    "zip_code": 30818,
+    "latitude": 33.189975,
+    "longitude": -82.34339,
+    "city": "Matthews",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30819,
+    "latitude": 33.432384,
+    "longitude": -82.625213,
+    "city": "Mesena",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 30820,
+    "latitude": 33.231593,
+    "longitude": -82.631164,
+    "city": "Mitchell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glascock"
+  },
+  {
+    "zip_code": 30821,
+    "latitude": 33.484966,
+    "longitude": -82.718794,
+    "city": "Norwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 30822,
+    "latitude": 32.873466,
+    "longitude": -81.875482,
+    "city": "Perkins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jenkins"
+  },
+  {
+    "zip_code": 30823,
+    "latitude": 33.181447,
+    "longitude": -82.438568,
+    "city": "Stapleton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30824,
+    "latitude": 33.494908,
+    "longitude": -82.513847,
+    "city": "Thomson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcduffie"
+  },
+  {
+    "zip_code": 30828,
+    "latitude": 33.406118,
+    "longitude": -82.641067,
+    "city": "Warrenton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 30830,
+    "latitude": 33.080724,
+    "longitude": -81.986767,
+    "city": "Waynesboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Burke"
+  },
+  {
+    "zip_code": 30833,
+    "latitude": 33.192426,
+    "longitude": -82.361546,
+    "city": "Wrens",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 30901,
+    "latitude": 33.456687,
+    "longitude": -81.969184,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30903,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30904,
+    "latitude": 33.478686,
+    "longitude": -82.015988,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30905,
+    "latitude": 33.412986,
+    "longitude": -82.133732,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30906,
+    "latitude": 33.358865,
+    "longitude": -82.009938,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30907,
+    "latitude": 33.457921,
+    "longitude": -82.068935,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30909,
+    "latitude": 33.416616,
+    "longitude": -82.055973,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30910,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30911,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30912,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30913,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30914,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30916,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30917,
+    "latitude": 33.527678,
+    "longitude": -82.235542,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 30919,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 30999,
+    "latitude": 33.386041,
+    "longitude": -82.090996,
+    "city": "Augusta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 31001,
+    "latitude": 31.977048,
+    "longitude": -83.372515,
+    "city": "Abbeville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 31002,
+    "latitude": 32.56887,
+    "longitude": -82.540305,
+    "city": "Adrian",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Emanuel"
+  },
+  {
+    "zip_code": 31003,
+    "latitude": 32.606433,
+    "longitude": -83.20951,
+    "city": "Allentown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 31004,
+    "latitude": 32.946971,
+    "longitude": -83.800628,
+    "city": "Bolingbroke",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 31005,
+    "latitude": 32.539506,
+    "longitude": -83.662733,
+    "city": "Bonaire",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31006,
+    "latitude": 32.572668,
+    "longitude": -84.226075,
+    "city": "Butler",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 31007,
+    "latitude": 32.185828,
+    "longitude": -83.901376,
+    "city": "Byromville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dooly"
+  },
+  {
+    "zip_code": 31008,
+    "latitude": 32.618051,
+    "longitude": -83.788976,
+    "city": "Byron",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Peach"
+  },
+  {
+    "zip_code": 31009,
+    "latitude": 32.303915,
+    "longitude": -83.009422,
+    "city": "Cadwell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31010,
+    "latitude": 31.917178,
+    "longitude": -83.785365,
+    "city": "Cordele",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crisp"
+  },
+  {
+    "zip_code": 31011,
+    "latitude": 32.150374,
+    "longitude": -83.055544,
+    "city": "Chauncey",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 31012,
+    "latitude": 32.310632,
+    "longitude": -83.160882,
+    "city": "Chester",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 31013,
+    "latitude": 32.338639,
+    "longitude": -83.692562,
+    "city": "Clinchfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31014,
+    "latitude": 32.383904,
+    "longitude": -83.321095,
+    "city": "Cochran",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bleckley"
+  },
+  {
+    "zip_code": 31015,
+    "latitude": 31.919861,
+    "longitude": -83.777354,
+    "city": "Cordele",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crisp"
+  },
+  {
+    "zip_code": 31016,
+    "latitude": 32.900292,
+    "longitude": -84.062584,
+    "city": "Culloden",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 31017,
+    "latitude": 32.607654,
+    "longitude": -83.269106,
+    "city": "Danville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Twiggs"
+  },
+  {
+    "zip_code": 31018,
+    "latitude": 32.968449,
+    "longitude": -82.648357,
+    "city": "Davisboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31019,
+    "latitude": 32.428425,
+    "longitude": -83.044502,
+    "city": "Dexter",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31020,
+    "latitude": 32.715133,
+    "longitude": -83.455788,
+    "city": "Dry Branch",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Twiggs"
+  },
+  {
+    "zip_code": 31021,
+    "latitude": 32.459291,
+    "longitude": -82.938121,
+    "city": "Dublin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31022,
+    "latitude": 32.505705,
+    "longitude": -83.108975,
+    "city": "Dudley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31023,
+    "latitude": 32.143564,
+    "longitude": -83.194358,
+    "city": "Eastman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 31024,
+    "latitude": 33.320818,
+    "longitude": -83.355865,
+    "city": "Eatonton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 31025,
+    "latitude": 32.360242,
+    "longitude": -83.749048,
+    "city": "Elko",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31027,
+    "latitude": 32.552377,
+    "longitude": -82.781684,
+    "city": "Dublin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31028,
+    "latitude": 32.56822,
+    "longitude": -83.70177,
+    "city": "Centerville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31029,
+    "latitude": 33.025944,
+    "longitude": -83.915021,
+    "city": "Forsyth",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 31030,
+    "latitude": 32.560698,
+    "longitude": -83.854528,
+    "city": "Fort Valley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Peach"
+  },
+  {
+    "zip_code": 31031,
+    "latitude": 32.881267,
+    "longitude": -83.302945,
+    "city": "Gordon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 31032,
+    "latitude": 32.991607,
+    "longitude": -83.567362,
+    "city": "Gray",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 31033,
+    "latitude": 33.056543,
+    "longitude": -83.424672,
+    "city": "Haddock",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jones"
+  },
+  {
+    "zip_code": 31034,
+    "latitude": 33.022658,
+    "longitude": -83.246975,
+    "city": "Hardwick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 31035,
+    "latitude": 32.855295,
+    "longitude": -82.702399,
+    "city": "Harrison",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31036,
+    "latitude": 32.275664,
+    "longitude": -83.49009,
+    "city": "Hawkinsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 31037,
+    "latitude": 32.047457,
+    "longitude": -82.9747,
+    "city": "Helena",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31038,
+    "latitude": 33.207511,
+    "longitude": -83.618059,
+    "city": "Hillsboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 31039,
+    "latitude": 32.559781,
+    "longitude": -84.227675,
+    "city": "Howard",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 31040,
+    "latitude": 32.540073,
+    "longitude": -82.914974,
+    "city": "Dublin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31041,
+    "latitude": 32.372937,
+    "longitude": -84.212159,
+    "city": "Ideal",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 31042,
+    "latitude": 32.751414,
+    "longitude": -83.145237,
+    "city": "Irwinton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 31044,
+    "latitude": 32.661271,
+    "longitude": -83.331033,
+    "city": "Jeffersonville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Twiggs"
+  },
+  {
+    "zip_code": 31045,
+    "latitude": 33.296633,
+    "longitude": -82.755599,
+    "city": "Jewell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 31046,
+    "latitude": 33.027607,
+    "longitude": -83.803166,
+    "city": "Juliette",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 31047,
+    "latitude": 32.454331,
+    "longitude": -83.646436,
+    "city": "Kathleen",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31049,
+    "latitude": 32.698954,
+    "longitude": -82.525306,
+    "city": "Kite",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 31050,
+    "latitude": 32.715632,
+    "longitude": -83.915762,
+    "city": "Knoxville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 31051,
+    "latitude": 32.146879,
+    "longitude": -83.891349,
+    "city": "Lilly",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dooly"
+  },
+  {
+    "zip_code": 31052,
+    "latitude": 32.783332,
+    "longitude": -83.823023,
+    "city": "Lizella",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 31054,
+    "latitude": 32.886524,
+    "longitude": -83.231724,
+    "city": "Mc Intyre",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 31055,
+    "latitude": 32.047918,
+    "longitude": -82.910927,
+    "city": "Mc Rae",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31057,
+    "latitude": 32.438321,
+    "longitude": -83.905039,
+    "city": "Marshallville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 31058,
+    "latitude": 32.559781,
+    "longitude": -84.227675,
+    "city": "Mauk",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 31059,
+    "latitude": 33.081335,
+    "longitude": -83.226664,
+    "city": "Milledgeville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 31060,
+    "latitude": 31.964005,
+    "longitude": -82.926588,
+    "city": "Milan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31061,
+    "latitude": 33.072279,
+    "longitude": -83.239008,
+    "city": "Milledgeville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 31062,
+    "latitude": 33.087138,
+    "longitude": -83.22492,
+    "city": "Milledgeville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Baldwin"
+  },
+  {
+    "zip_code": 31063,
+    "latitude": 32.240448,
+    "longitude": -83.863997,
+    "city": "Montezuma",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 31064,
+    "latitude": 33.337906,
+    "longitude": -83.698508,
+    "city": "Monticello",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 31065,
+    "latitude": 32.56204,
+    "longitude": -83.159741,
+    "city": "Montrose",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31066,
+    "latitude": 32.786842,
+    "longitude": -83.979228,
+    "city": "Musella",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 31067,
+    "latitude": 32.876666,
+    "longitude": -82.946903,
+    "city": "Oconee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31068,
+    "latitude": 32.327479,
+    "longitude": -84.101472,
+    "city": "Oglethorpe",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Macon"
+  },
+  {
+    "zip_code": 31069,
+    "latitude": 32.43194,
+    "longitude": -83.722649,
+    "city": "Perry",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31070,
+    "latitude": 32.182652,
+    "longitude": -83.778422,
+    "city": "Pinehurst",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dooly"
+  },
+  {
+    "zip_code": 31071,
+    "latitude": 32.09813,
+    "longitude": -83.504479,
+    "city": "Pineview",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 31072,
+    "latitude": 31.948637,
+    "longitude": -83.539522,
+    "city": "Pitts",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 31073,
+    "latitude": 32.176429,
+    "longitude": -83.122891,
+    "city": "Plainfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 31075,
+    "latitude": 32.379902,
+    "longitude": -82.966995,
+    "city": "Rentz",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Laurens"
+  },
+  {
+    "zip_code": 31076,
+    "latitude": 32.551695,
+    "longitude": -84.092715,
+    "city": "Reynolds",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 31077,
+    "latitude": 32.176429,
+    "longitude": -83.122891,
+    "city": "Rhine",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dodge"
+  },
+  {
+    "zip_code": 31078,
+    "latitude": 32.687207,
+    "longitude": -84.010581,
+    "city": "Roberta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 31079,
+    "latitude": 31.948411,
+    "longitude": -83.453578,
+    "city": "Rochelle",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 31081,
+    "latitude": 32.559781,
+    "longitude": -84.227675,
+    "city": "Rupert",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Taylor"
+  },
+  {
+    "zip_code": 31082,
+    "latitude": 32.974982,
+    "longitude": -82.840564,
+    "city": "Sandersville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31083,
+    "latitude": 32.084139,
+    "longitude": -82.912341,
+    "city": "Scotland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31084,
+    "latitude": 31.989039,
+    "longitude": -83.394574,
+    "city": "Seville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilcox"
+  },
+  {
+    "zip_code": 31085,
+    "latitude": 33.435022,
+    "longitude": -83.626885,
+    "city": "Shady Dale",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 31086,
+    "latitude": 32.989503,
+    "longitude": -83.876108,
+    "city": "Smarr",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 31087,
+    "latitude": 33.257068,
+    "longitude": -83.08922,
+    "city": "Sparta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 31088,
+    "latitude": 32.555039,
+    "longitude": -83.644751,
+    "city": "Warner Robins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31089,
+    "latitude": 32.873449,
+    "longitude": -82.782879,
+    "city": "Tennille",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31090,
+    "latitude": 32.806595,
+    "longitude": -83.066814,
+    "city": "Toomsboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wilkinson"
+  },
+  {
+    "zip_code": 31091,
+    "latitude": 32.219249,
+    "longitude": -83.731718,
+    "city": "Unadilla",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dooly"
+  },
+  {
+    "zip_code": 31092,
+    "latitude": 32.115981,
+    "longitude": -83.791644,
+    "city": "Vienna",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dooly"
+  },
+  {
+    "zip_code": 31093,
+    "latitude": 32.587303,
+    "longitude": -83.658174,
+    "city": "Warner Robins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31094,
+    "latitude": 33.07975,
+    "longitude": -82.805591,
+    "city": "Warthen",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 31095,
+    "latitude": 32.487403,
+    "longitude": -83.669655,
+    "city": "Warner Robins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31096,
+    "latitude": 32.635692,
+    "longitude": -82.657495,
+    "city": "Wrightsville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 31097,
+    "latitude": 32.901627,
+    "longitude": -84.212644,
+    "city": "Yatesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Upson"
+  },
+  {
+    "zip_code": 31098,
+    "latitude": 32.49372,
+    "longitude": -83.640099,
+    "city": "Warner Robins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31099,
+    "latitude": 32.646236,
+    "longitude": -83.6513,
+    "city": "Warner Robins",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Houston"
+  },
+  {
+    "zip_code": 31106,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31107,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31119,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 31126,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31131,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31139,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31141,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 31145,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 31146,
+    "latitude": 33.891251,
+    "longitude": -84.07456,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dekalb"
+  },
+  {
+    "zip_code": 31150,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31156,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31191,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31192,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31193,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31195,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31196,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31197,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31198,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31199,
+    "latitude": 33.844371,
+    "longitude": -84.47405,
+    "city": "Atlanta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 31201,
+    "latitude": 32.827949,
+    "longitude": -83.595066,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31202,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31203,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31204,
+    "latitude": 32.852249,
+    "longitude": -83.667064,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31205,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31206,
+    "latitude": 32.834861,
+    "longitude": -83.668091,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31207,
+    "latitude": 32.830389,
+    "longitude": -83.648552,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31208,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31209,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31210,
+    "latitude": 32.843368,
+    "longitude": -83.680078,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31211,
+    "latitude": 32.866987,
+    "longitude": -83.607363,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31212,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31213,
+    "latitude": 32.839289,
+    "longitude": -83.638752,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31216,
+    "latitude": 32.74857,
+    "longitude": -83.747721,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31217,
+    "latitude": 32.811767,
+    "longitude": -83.565009,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31220,
+    "latitude": 32.859461,
+    "longitude": -83.802047,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31221,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31294,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31295,
+    "latitude": 32.810189,
+    "longitude": -83.569001,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31296,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31297,
+    "latitude": 32.70045,
+    "longitude": -83.657207,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31298,
+    "latitude": 32.87333,
+    "longitude": -83.708399,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31299,
+    "latitude": 32.806707,
+    "longitude": -83.691315,
+    "city": "Macon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bibb"
+  },
+  {
+    "zip_code": 31301,
+    "latitude": 31.779116,
+    "longitude": -81.60385,
+    "city": "Allenhurst",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31302,
+    "latitude": 32.107103,
+    "longitude": -81.291335,
+    "city": "Bloomingdale",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31303,
+    "latitude": 32.488015,
+    "longitude": -81.322392,
+    "city": "Clyo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31304,
+    "latitude": 31.495071,
+    "longitude": -81.381908,
+    "city": "Crescent",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 31305,
+    "latitude": 31.413831,
+    "longitude": -81.369263,
+    "city": "Darien",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 31307,
+    "latitude": 32.174021,
+    "longitude": -81.353756,
+    "city": "Eden",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31308,
+    "latitude": 32.159233,
+    "longitude": -81.502963,
+    "city": "Ellabell",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bryan"
+  },
+  {
+    "zip_code": 31309,
+    "latitude": 31.87673,
+    "longitude": -81.457959,
+    "city": "Fleming",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31310,
+    "latitude": 31.806832,
+    "longitude": -81.437074,
+    "city": "Hinesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31312,
+    "latitude": 32.331563,
+    "longitude": -81.384181,
+    "city": "Guyton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31313,
+    "latitude": 31.804838,
+    "longitude": -81.523649,
+    "city": "Hinesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31314,
+    "latitude": 31.806832,
+    "longitude": -81.437074,
+    "city": "Fort Stewart",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31315,
+    "latitude": 31.844332,
+    "longitude": -81.654696,
+    "city": "Fort Stewart",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31316,
+    "latitude": 31.780996,
+    "longitude": -81.773916,
+    "city": "Ludowici",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Long"
+  },
+  {
+    "zip_code": 31318,
+    "latitude": 32.149861,
+    "longitude": -81.372184,
+    "city": "Meldrim",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31319,
+    "latitude": 31.459045,
+    "longitude": -81.368884,
+    "city": "Meridian",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 31320,
+    "latitude": 31.778847,
+    "longitude": -81.420626,
+    "city": "Midway",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31321,
+    "latitude": 32.009967,
+    "longitude": -81.514752,
+    "city": "Pembroke",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bryan"
+  },
+  {
+    "zip_code": 31322,
+    "latitude": 32.071917,
+    "longitude": -81.083881,
+    "city": "Pooler",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31323,
+    "latitude": 31.785934,
+    "longitude": -81.57385,
+    "city": "Riceboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31324,
+    "latitude": 31.951531,
+    "longitude": -81.407336,
+    "city": "Richmond Hill",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bryan"
+  },
+  {
+    "zip_code": 31326,
+    "latitude": 32.285205,
+    "longitude": -81.287526,
+    "city": "Rincon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31327,
+    "latitude": 31.495071,
+    "longitude": -81.381908,
+    "city": "Sapelo Island",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 31328,
+    "latitude": 32.00593,
+    "longitude": -80.855322,
+    "city": "Tybee Island",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31329,
+    "latitude": 32.369703,
+    "longitude": -81.361775,
+    "city": "Springfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Effingham"
+  },
+  {
+    "zip_code": 31331,
+    "latitude": 31.512024,
+    "longitude": -81.358252,
+    "city": "Townsend",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mcintosh"
+  },
+  {
+    "zip_code": 31333,
+    "latitude": 31.770473,
+    "longitude": -81.62083,
+    "city": "Walthourville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Liberty"
+  },
+  {
+    "zip_code": 31401,
+    "latitude": 32.072257,
+    "longitude": -81.135618,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31402,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31403,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31404,
+    "latitude": 32.048247,
+    "longitude": -81.11748,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31405,
+    "latitude": 32.065317,
+    "longitude": -81.181413,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31406,
+    "latitude": 31.975611,
+    "longitude": -81.086617,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31407,
+    "latitude": 32.167235,
+    "longitude": -81.199897,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31408,
+    "latitude": 32.108154,
+    "longitude": -81.174612,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31409,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31410,
+    "latitude": 32.017461,
+    "longitude": -80.997043,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31411,
+    "latitude": 31.942645,
+    "longitude": -81.045795,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31412,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31414,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31415,
+    "latitude": 32.075307,
+    "longitude": -81.128865,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31416,
+    "latitude": 32.005255,
+    "longitude": -81.047711,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31418,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31419,
+    "latitude": 32.008492,
+    "longitude": -81.214369,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31420,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31421,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31422,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31498,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31499,
+    "latitude": 31.971394,
+    "longitude": -81.07156,
+    "city": "Savannah",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chatham"
+  },
+  {
+    "zip_code": 31501,
+    "latitude": 31.224262,
+    "longitude": -82.359628,
+    "city": "Waycross",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31502,
+    "latitude": 31.018954,
+    "longitude": -82.416543,
+    "city": "Waycross",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31503,
+    "latitude": 31.193229,
+    "longitude": -82.376595,
+    "city": "Waycross",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31510,
+    "latitude": 31.576952,
+    "longitude": -82.461197,
+    "city": "Alma",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Bacon"
+  },
+  {
+    "zip_code": 31512,
+    "latitude": 31.549597,
+    "longitude": -82.987305,
+    "city": "Ambrose",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31513,
+    "latitude": 31.756861,
+    "longitude": -82.350837,
+    "city": "Baxley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Appling"
+  },
+  {
+    "zip_code": 31515,
+    "latitude": 31.717717,
+    "longitude": -82.299677,
+    "city": "Baxley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Appling"
+  },
+  {
+    "zip_code": 31516,
+    "latitude": 31.326324,
+    "longitude": -82.271206,
+    "city": "Blackshear",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 31518,
+    "latitude": 31.483312,
+    "longitude": -82.214987,
+    "city": "Bristol",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 31519,
+    "latitude": 31.671903,
+    "longitude": -82.864903,
+    "city": "Broxton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31520,
+    "latitude": 31.230428,
+    "longitude": -81.492883,
+    "city": "Brunswick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31521,
+    "latitude": 31.241505,
+    "longitude": -81.532489,
+    "city": "Brunswick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31522,
+    "latitude": 31.213223,
+    "longitude": -81.449141,
+    "city": "Saint Simons Island",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31523,
+    "latitude": 31.218921,
+    "longitude": -81.546047,
+    "city": "Brunswick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31524,
+    "latitude": 31.221995,
+    "longitude": -81.482551,
+    "city": "Brunswick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31525,
+    "latitude": 31.280403,
+    "longitude": -81.530477,
+    "city": "Brunswick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31527,
+    "latitude": 31.059721,
+    "longitude": -81.416665,
+    "city": "Jekyll Island",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31532,
+    "latitude": 31.795977,
+    "longitude": -82.707079,
+    "city": "Denton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jeff Davis"
+  },
+  {
+    "zip_code": 31533,
+    "latitude": 31.509338,
+    "longitude": -82.857131,
+    "city": "Douglas",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31534,
+    "latitude": 31.571596,
+    "longitude": -82.854631,
+    "city": "Douglas",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31535,
+    "latitude": 31.504581,
+    "longitude": -82.824636,
+    "city": "Douglas",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31537,
+    "latitude": 30.855314,
+    "longitude": -82.027252,
+    "city": "Folkston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Charlton"
+  },
+  {
+    "zip_code": 31539,
+    "latitude": 31.806871,
+    "longitude": -82.626991,
+    "city": "Hazlehurst",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Jeff Davis"
+  },
+  {
+    "zip_code": 31542,
+    "latitude": 31.178954,
+    "longitude": -82.123686,
+    "city": "Hoboken",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brantley"
+  },
+  {
+    "zip_code": 31543,
+    "latitude": 31.26837,
+    "longitude": -81.810366,
+    "city": "Hortense",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brantley"
+  },
+  {
+    "zip_code": 31544,
+    "latitude": 31.83245,
+    "longitude": -82.977178,
+    "city": "Jacksonville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31545,
+    "latitude": 31.600775,
+    "longitude": -81.957787,
+    "city": "Jesup",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31546,
+    "latitude": 31.531938,
+    "longitude": -81.804924,
+    "city": "Jesup",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31547,
+    "latitude": 30.804684,
+    "longitude": -81.627717,
+    "city": "Kings Bay",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31548,
+    "latitude": 30.784384,
+    "longitude": -81.692042,
+    "city": "Kingsland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31549,
+    "latitude": 31.931373,
+    "longitude": -82.682963,
+    "city": "Lumber City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Telfair"
+  },
+  {
+    "zip_code": 31550,
+    "latitude": 31.168101,
+    "longitude": -82.594815,
+    "city": "Manor",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31551,
+    "latitude": 31.453629,
+    "longitude": -82.230385,
+    "city": "Mershon",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 31552,
+    "latitude": 31.307256,
+    "longitude": -82.600728,
+    "city": "Millwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31553,
+    "latitude": 31.158299,
+    "longitude": -81.954478,
+    "city": "Nahunta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brantley"
+  },
+  {
+    "zip_code": 31554,
+    "latitude": 31.504909,
+    "longitude": -82.703064,
+    "city": "Nicholls",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31555,
+    "latitude": 31.685101,
+    "longitude": -82.037562,
+    "city": "Odum",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31556,
+    "latitude": 31.412649,
+    "longitude": -82.115541,
+    "city": "Offerman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 31557,
+    "latitude": 31.369686,
+    "longitude": -82.115363,
+    "city": "Patterson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Pierce"
+  },
+  {
+    "zip_code": 31558,
+    "latitude": 30.844019,
+    "longitude": -81.630984,
+    "city": "Saint Marys",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31560,
+    "latitude": 31.512923,
+    "longitude": -82.010258,
+    "city": "Screven",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31561,
+    "latitude": 31.198914,
+    "longitude": -81.332211,
+    "city": "Sea Island",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Glynn"
+  },
+  {
+    "zip_code": 31563,
+    "latitude": 31.731163,
+    "longitude": -82.194912,
+    "city": "Surrency",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Appling"
+  },
+  {
+    "zip_code": 31564,
+    "latitude": 31.018954,
+    "longitude": -82.416543,
+    "city": "Waresboro",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ware"
+  },
+  {
+    "zip_code": 31565,
+    "latitude": 31.069415,
+    "longitude": -81.633658,
+    "city": "Waverly",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31566,
+    "latitude": 31.187918,
+    "longitude": -81.889563,
+    "city": "Waynesville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brantley"
+  },
+  {
+    "zip_code": 31567,
+    "latitude": 31.614312,
+    "longitude": -82.724308,
+    "city": "West Green",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Coffee"
+  },
+  {
+    "zip_code": 31568,
+    "latitude": 30.995235,
+    "longitude": -81.778181,
+    "city": "White Oak",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31569,
+    "latitude": 30.939072,
+    "longitude": -81.703469,
+    "city": "Woodbine",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Camden"
+  },
+  {
+    "zip_code": 31598,
+    "latitude": 31.578181,
+    "longitude": -81.880222,
+    "city": "Jesup",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31599,
+    "latitude": 31.578181,
+    "longitude": -81.880222,
+    "city": "Jesup",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 31601,
+    "latitude": 30.753904,
+    "longitude": -83.332068,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31602,
+    "latitude": 30.893109,
+    "longitude": -83.327812,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31603,
+    "latitude": 30.827965,
+    "longitude": -83.252192,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31604,
+    "latitude": 30.827965,
+    "longitude": -83.252192,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31605,
+    "latitude": 30.945994,
+    "longitude": -83.247371,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31606,
+    "latitude": 30.826306,
+    "longitude": -83.245331,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31620,
+    "latitude": 31.151742,
+    "longitude": -83.407143,
+    "city": "Adel",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 31622,
+    "latitude": 31.383968,
+    "longitude": -83.221348,
+    "city": "Alapaha",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 31623,
+    "latitude": 31.064114,
+    "longitude": -82.68954,
+    "city": "Argyle",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clinch"
+  },
+  {
+    "zip_code": 31624,
+    "latitude": 31.303159,
+    "longitude": -82.847997,
+    "city": "Axson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Atkinson"
+  },
+  {
+    "zip_code": 31625,
+    "latitude": 30.856633,
+    "longitude": -83.526479,
+    "city": "Barney",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brooks"
+  },
+  {
+    "zip_code": 31626,
+    "latitude": 30.828644,
+    "longitude": -83.910971,
+    "city": "Boston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31627,
+    "latitude": 31.040257,
+    "longitude": -83.391519,
+    "city": "Cecil",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 31629,
+    "latitude": 30.761316,
+    "longitude": -83.708223,
+    "city": "Dixie",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brooks"
+  },
+  {
+    "zip_code": 31630,
+    "latitude": 30.975874,
+    "longitude": -82.880688,
+    "city": "Du Pont",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clinch"
+  },
+  {
+    "zip_code": 31631,
+    "latitude": 31.05682,
+    "longitude": -82.772422,
+    "city": "Fargo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clinch"
+  },
+  {
+    "zip_code": 31632,
+    "latitude": 30.942022,
+    "longitude": -83.333206,
+    "city": "Hahira",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31634,
+    "latitude": 31.050929,
+    "longitude": -82.76133,
+    "city": "Homerville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clinch"
+  },
+  {
+    "zip_code": 31635,
+    "latitude": 31.035327,
+    "longitude": -83.098737,
+    "city": "Lakeland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lanier"
+  },
+  {
+    "zip_code": 31636,
+    "latitude": 30.745322,
+    "longitude": -83.184325,
+    "city": "Lake Park",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31637,
+    "latitude": 31.271045,
+    "longitude": -83.468529,
+    "city": "Lenox",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 31638,
+    "latitude": 30.924839,
+    "longitude": -83.539952,
+    "city": "Morven",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brooks"
+  },
+  {
+    "zip_code": 31639,
+    "latitude": 31.199826,
+    "longitude": -83.218233,
+    "city": "Nashville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 31641,
+    "latitude": 30.899018,
+    "longitude": -83.128478,
+    "city": "Naylor",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31642,
+    "latitude": 31.340836,
+    "longitude": -82.853406,
+    "city": "Pearson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Atkinson"
+  },
+  {
+    "zip_code": 31643,
+    "latitude": 30.78944,
+    "longitude": -83.587777,
+    "city": "Quitman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brooks"
+  },
+  {
+    "zip_code": 31645,
+    "latitude": 31.083619,
+    "longitude": -83.228709,
+    "city": "Ray City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 31646,
+    "latitude": 30.434346,
+    "longitude": -82.165527,
+    "city": "Saint George",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Charlton"
+  },
+  {
+    "zip_code": 31647,
+    "latitude": 31.212878,
+    "longitude": -83.412143,
+    "city": "Sparks",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Cook"
+  },
+  {
+    "zip_code": 31648,
+    "latitude": 30.768894,
+    "longitude": -83.037116,
+    "city": "Statenville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Echols"
+  },
+  {
+    "zip_code": 31649,
+    "latitude": 30.955111,
+    "longitude": -83.013828,
+    "city": "Stockton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lanier"
+  },
+  {
+    "zip_code": 31650,
+    "latitude": 31.361682,
+    "longitude": -82.968235,
+    "city": "Willacoochee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Atkinson"
+  },
+  {
+    "zip_code": 31698,
+    "latitude": 30.84848,
+    "longitude": -83.287753,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31699,
+    "latitude": 30.975119,
+    "longitude": -83.207206,
+    "city": "Valdosta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lowndes"
+  },
+  {
+    "zip_code": 31701,
+    "latitude": 31.560674,
+    "longitude": -84.176751,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31702,
+    "latitude": 31.594782,
+    "longitude": -84.194812,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31703,
+    "latitude": 31.543065,
+    "longitude": -84.219594,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31704,
+    "latitude": 31.549975,
+    "longitude": -84.061155,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31705,
+    "latitude": 31.546375,
+    "longitude": -84.078338,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31706,
+    "latitude": 31.559274,
+    "longitude": -84.176507,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31707,
+    "latitude": 31.529269,
+    "longitude": -84.293109,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31708,
+    "latitude": 31.591073,
+    "longitude": -84.132357,
+    "city": "Albany",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31709,
+    "latitude": 32.040432,
+    "longitude": -84.215282,
+    "city": "Americus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31710,
+    "latitude": 32.051235,
+    "longitude": -84.181547,
+    "city": "Americus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31711,
+    "latitude": 32.155949,
+    "longitude": -84.163983,
+    "city": "Andersonville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31712,
+    "latitude": 31.849613,
+    "longitude": -83.7277,
+    "city": "Arabi",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Crisp"
+  },
+  {
+    "zip_code": 31713,
+    "latitude": 31.47718,
+    "longitude": -84.699156,
+    "city": "Arlington",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 31714,
+    "latitude": 31.723074,
+    "longitude": -83.644063,
+    "city": "Ashburn",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 31715,
+    "latitude": 30.835331,
+    "longitude": -84.511949,
+    "city": "Attapulgus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31716,
+    "latitude": 31.358861,
+    "longitude": -84.100301,
+    "city": "Baconton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 31717,
+    "latitude": 30.888734,
+    "longitude": -84.617836,
+    "city": "Bainbridge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31718,
+    "latitude": 30.901863,
+    "longitude": -84.570049,
+    "city": "Bainbridge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31720,
+    "latitude": 30.856633,
+    "longitude": -83.526479,
+    "city": "Barwick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Brooks"
+  },
+  {
+    "zip_code": 31722,
+    "latitude": 31.080682,
+    "longitude": -83.649138,
+    "city": "Berlin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31723,
+    "latitude": 31.346088,
+    "longitude": -84.901178,
+    "city": "Blakely",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Early"
+  },
+  {
+    "zip_code": 31724,
+    "latitude": 31.557533,
+    "longitude": -84.854212,
+    "city": "Bluffton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 31725,
+    "latitude": 30.907915,
+    "longitude": -84.703795,
+    "city": "Brinson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31726,
+    "latitude": 31.824017,
+    "longitude": -84.343163,
+    "city": "Bronwood",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Terrell"
+  },
+  {
+    "zip_code": 31727,
+    "latitude": 31.44172,
+    "longitude": -83.503715,
+    "city": "Brookfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31728,
+    "latitude": 30.857503,
+    "longitude": -84.22903,
+    "city": "Cairo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Grady"
+  },
+  {
+    "zip_code": 31729,
+    "latitude": 30.71471,
+    "longitude": -84.351846,
+    "city": "Calvary",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Grady"
+  },
+  {
+    "zip_code": 31730,
+    "latitude": 31.249152,
+    "longitude": -84.242837,
+    "city": "Camilla",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 31732,
+    "latitude": 31.29563,
+    "longitude": -84.871091,
+    "city": "Cedar Springs",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Early"
+  },
+  {
+    "zip_code": 31733,
+    "latitude": 31.557454,
+    "longitude": -83.509385,
+    "city": "Chula",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31734,
+    "latitude": 30.887347,
+    "longitude": -84.468281,
+    "city": "Climax",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31735,
+    "latitude": 31.968395,
+    "longitude": -83.978975,
+    "city": "Cobb",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31736,
+    "latitude": 31.775195,
+    "longitude": -84.747201,
+    "city": "Coleman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 31737,
+    "latitude": 31.16251,
+    "longitude": -84.713359,
+    "city": "Colquitt",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Miller"
+  },
+  {
+    "zip_code": 31738,
+    "latitude": 30.976287,
+    "longitude": -83.871284,
+    "city": "Coolidge",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31739,
+    "latitude": 31.260443,
+    "longitude": -84.253089,
+    "city": "Cotton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 31740,
+    "latitude": 31.731183,
+    "longitude": -84.832234,
+    "city": "Cuthbert",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 31741,
+    "latitude": 31.298124,
+    "longitude": -84.71746,
+    "city": "Damascus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Early"
+  },
+  {
+    "zip_code": 31742,
+    "latitude": 31.76615,
+    "longitude": -84.438586,
+    "city": "Dawson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Terrell"
+  },
+  {
+    "zip_code": 31743,
+    "latitude": 31.938088,
+    "longitude": -84.03104,
+    "city": "De Soto",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31744,
+    "latitude": 31.272009,
+    "longitude": -83.889951,
+    "city": "Doerun",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31745,
+    "latitude": 30.918229,
+    "longitude": -84.867238,
+    "city": "Donalsonville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Seminole"
+  },
+  {
+    "zip_code": 31746,
+    "latitude": 31.506869,
+    "longitude": -84.721045,
+    "city": "Edison",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 31747,
+    "latitude": 31.17885,
+    "longitude": -83.588901,
+    "city": "Ellenton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31749,
+    "latitude": 31.417797,
+    "longitude": -83.355349,
+    "city": "Enigma",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Berrien"
+  },
+  {
+    "zip_code": 31750,
+    "latitude": 31.748753,
+    "longitude": -83.235412,
+    "city": "Fitzgerald",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Ben Hill"
+  },
+  {
+    "zip_code": 31751,
+    "latitude": 31.63618,
+    "longitude": -85.054942,
+    "city": "Fort Gaines",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 31752,
+    "latitude": 30.791856,
+    "longitude": -84.549907,
+    "city": "Fowlstown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 31753,
+    "latitude": 31.205365,
+    "longitude": -83.877554,
+    "city": "Funston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31754,
+    "latitude": 31.844937,
+    "longitude": -85.104383,
+    "city": "Georgetown",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Quitman"
+  },
+  {
+    "zip_code": 31756,
+    "latitude": 31.200827,
+    "longitude": -83.945527,
+    "city": "Hartsfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31757,
+    "latitude": 30.853592,
+    "longitude": -83.888269,
+    "city": "Thomasville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31758,
+    "latitude": 30.868187,
+    "longitude": -83.927785,
+    "city": "Thomasville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31759,
+    "latitude": 30.985082,
+    "longitude": -84.834731,
+    "city": "Iron City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Seminole"
+  },
+  {
+    "zip_code": 31760,
+    "latitude": 31.706283,
+    "longitude": -83.408633,
+    "city": "Irwinville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Irwin"
+  },
+  {
+    "zip_code": 31761,
+    "latitude": 31.089377,
+    "longitude": -84.986113,
+    "city": "Jakin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Early"
+  },
+  {
+    "zip_code": 31762,
+    "latitude": 31.484266,
+    "longitude": -84.513659,
+    "city": "Leary",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 31763,
+    "latitude": 31.763715,
+    "longitude": -84.160359,
+    "city": "Leesburg",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 31764,
+    "latitude": 32.000148,
+    "longitude": -84.088354,
+    "city": "Leslie",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31765,
+    "latitude": 31.021859,
+    "longitude": -84.061389,
+    "city": "Meigs",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31766,
+    "latitude": 31.53796,
+    "longitude": -84.611559,
+    "city": "Morgan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Calhoun"
+  },
+  {
+    "zip_code": 31767,
+    "latitude": 31.88141,
+    "longitude": -85.024468,
+    "city": "Morris",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Quitman"
+  },
+  {
+    "zip_code": 31768,
+    "latitude": 31.183438,
+    "longitude": -83.789698,
+    "city": "Moultrie",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31769,
+    "latitude": 31.620866,
+    "longitude": -83.249754,
+    "city": "Mystic",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Irwin"
+  },
+  {
+    "zip_code": 31770,
+    "latitude": 31.37168,
+    "longitude": -84.338325,
+    "city": "Newton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Baker"
+  },
+  {
+    "zip_code": 31771,
+    "latitude": 31.246179,
+    "longitude": -83.654904,
+    "city": "Norman Park",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31772,
+    "latitude": 31.726629,
+    "longitude": -83.959728,
+    "city": "Oakfield",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 31773,
+    "latitude": 30.968592,
+    "longitude": -84.02725,
+    "city": "Ochlocknee",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31774,
+    "latitude": 31.571754,
+    "longitude": -83.269632,
+    "city": "Ocilla",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Irwin"
+  },
+  {
+    "zip_code": 31775,
+    "latitude": 31.359156,
+    "longitude": -83.59029,
+    "city": "Omega",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31776,
+    "latitude": 31.172696,
+    "longitude": -83.792379,
+    "city": "Moultrie",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Colquitt"
+  },
+  {
+    "zip_code": 31777,
+    "latitude": 31.911689,
+    "longitude": -84.506058,
+    "city": "Parrott",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Terrell"
+  },
+  {
+    "zip_code": 31778,
+    "latitude": 30.869228,
+    "longitude": -83.900766,
+    "city": "Pavo",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31779,
+    "latitude": 31.225572,
+    "longitude": -84.223371,
+    "city": "Pelham",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 31780,
+    "latitude": 32.027663,
+    "longitude": -84.37249,
+    "city": "Plains",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 31781,
+    "latitude": 31.538397,
+    "longitude": -83.784347,
+    "city": "Poulan",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 31782,
+    "latitude": 31.543065,
+    "longitude": -84.219594,
+    "city": "Putney",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Dougherty"
+  },
+  {
+    "zip_code": 31783,
+    "latitude": 31.780373,
+    "longitude": -83.526041,
+    "city": "Rebecca",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 31784,
+    "latitude": 31.27433,
+    "longitude": -84.047656,
+    "city": "Sale City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Mitchell"
+  },
+  {
+    "zip_code": 31785,
+    "latitude": 31.689973,
+    "longitude": -84.32748,
+    "city": "Sasser",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Terrell"
+  },
+  {
+    "zip_code": 31786,
+    "latitude": 31.760361,
+    "longitude": -84.614914,
+    "city": "Shellman",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 31787,
+    "latitude": 31.772073,
+    "longitude": -84.222541,
+    "city": "Smithville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Lee"
+  },
+  {
+    "zip_code": 31789,
+    "latitude": 31.481811,
+    "longitude": -83.727288,
+    "city": "Sumner",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 31790,
+    "latitude": 31.652867,
+    "longitude": -83.578336,
+    "city": "Sycamore",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Turner"
+  },
+  {
+    "zip_code": 31791,
+    "latitude": 31.603336,
+    "longitude": -83.850054,
+    "city": "Sylvester",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 31792,
+    "latitude": 30.825551,
+    "longitude": -83.950795,
+    "city": "Thomasville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31793,
+    "latitude": 31.485438,
+    "longitude": -83.503621,
+    "city": "Tifton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31794,
+    "latitude": 31.463918,
+    "longitude": -83.499944,
+    "city": "Tifton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31795,
+    "latitude": 31.475155,
+    "longitude": -83.592123,
+    "city": "Ty Ty",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Tift"
+  },
+  {
+    "zip_code": 31796,
+    "latitude": 31.762219,
+    "longitude": -83.876179,
+    "city": "Warwick",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Worth"
+  },
+  {
+    "zip_code": 31797,
+    "latitude": 30.901959,
+    "longitude": -84.311493,
+    "city": "Whigham",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Grady"
+  },
+  {
+    "zip_code": 31798,
+    "latitude": 31.571849,
+    "longitude": -83.087813,
+    "city": "Wray",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Irwin"
+  },
+  {
+    "zip_code": 31799,
+    "latitude": 30.880968,
+    "longitude": -83.885902,
+    "city": "Thomasville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Thomas"
+  },
+  {
+    "zip_code": 31801,
+    "latitude": 32.701117,
+    "longitude": -84.494946,
+    "city": "Box Springs",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 31803,
+    "latitude": 32.254152,
+    "longitude": -84.489818,
+    "city": "Buena Vista",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 31804,
+    "latitude": 32.661625,
+    "longitude": -84.855447,
+    "city": "Cataula",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31805,
+    "latitude": 32.292547,
+    "longitude": -84.736706,
+    "city": "Cusseta",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Chattahoochee"
+  },
+  {
+    "zip_code": 31806,
+    "latitude": 32.209028,
+    "longitude": -84.277064,
+    "city": "Ellaville",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Schley"
+  },
+  {
+    "zip_code": 31807,
+    "latitude": 32.631243,
+    "longitude": -84.789524,
+    "city": "Ellerslie",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31808,
+    "latitude": 32.563874,
+    "longitude": -84.991501,
+    "city": "Fortson",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31810,
+    "latitude": 32.701117,
+    "longitude": -84.494946,
+    "city": "Geneva",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 31811,
+    "latitude": 32.746007,
+    "longitude": -84.934906,
+    "city": "Hamilton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31812,
+    "latitude": 32.701117,
+    "longitude": -84.494946,
+    "city": "Junction City",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 31814,
+    "latitude": 32.07663,
+    "longitude": -84.849724,
+    "city": "Louvale",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stewart"
+  },
+  {
+    "zip_code": 31815,
+    "latitude": 32.069538,
+    "longitude": -84.728093,
+    "city": "Lumpkin",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stewart"
+  },
+  {
+    "zip_code": 31816,
+    "latitude": 32.91107,
+    "longitude": -84.615478,
+    "city": "Manchester",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 31820,
+    "latitude": 32.565782,
+    "longitude": -84.850953,
+    "city": "Midland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31821,
+    "latitude": 32.07663,
+    "longitude": -84.849724,
+    "city": "Omaha",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stewart"
+  },
+  {
+    "zip_code": 31822,
+    "latitude": 32.834241,
+    "longitude": -84.904638,
+    "city": "Pine Mountain",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31823,
+    "latitude": 32.822628,
+    "longitude": -84.820364,
+    "city": "Pine Mountain Valley",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31824,
+    "latitude": 32.076133,
+    "longitude": -84.543517,
+    "city": "Preston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 31825,
+    "latitude": 32.074331,
+    "longitude": -84.718627,
+    "city": "Richland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Stewart"
+  },
+  {
+    "zip_code": 31826,
+    "latitude": 32.791278,
+    "longitude": -84.733595,
+    "city": "Shiloh",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31827,
+    "latitude": 32.673738,
+    "longitude": -84.537989,
+    "city": "Talbotton",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 31829,
+    "latitude": 32.564771,
+    "longitude": -84.733865,
+    "city": "Upatoi",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31830,
+    "latitude": 32.906319,
+    "longitude": -84.716723,
+    "city": "Warm Springs",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Meriwether"
+  },
+  {
+    "zip_code": 31831,
+    "latitude": 32.738687,
+    "longitude": -84.78546,
+    "city": "Waverly Hall",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Harris"
+  },
+  {
+    "zip_code": 31832,
+    "latitude": 32.076133,
+    "longitude": -84.543517,
+    "city": "Weston",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Webster"
+  },
+  {
+    "zip_code": 31833,
+    "latitude": 32.907328,
+    "longitude": -85.077535,
+    "city": "West Point",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Troup"
+  },
+  {
+    "zip_code": 31836,
+    "latitude": 32.790007,
+    "longitude": -84.56542,
+    "city": "Woodland",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 31901,
+    "latitude": 32.472864,
+    "longitude": -84.97823,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31902,
+    "latitude": 32.524252,
+    "longitude": -84.955843,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31903,
+    "latitude": 32.41851,
+    "longitude": -84.934344,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31904,
+    "latitude": 32.534374,
+    "longitude": -84.99698,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31905,
+    "latitude": 32.392337,
+    "longitude": -84.931457,
+    "city": "Fort Benning",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31906,
+    "latitude": 32.493455,
+    "longitude": -84.95328,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31907,
+    "latitude": 32.483084,
+    "longitude": -84.914976,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31908,
+    "latitude": 32.534852,
+    "longitude": -84.906483,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31909,
+    "latitude": 32.542198,
+    "longitude": -84.920187,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31914,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31917,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31993,
+    "latitude": 32.482142,
+    "longitude": -84.977131,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31994,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31995,
+    "latitude": 32.495841,
+    "longitude": -84.963981,
+    "city": "Fort Benning",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31997,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31998,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 31999,
+    "latitude": 32.491005,
+    "longitude": -84.874123,
+    "city": "Columbus",
+    "state": "GA",
+    "full_state": "Georgia",
+    "county": "Muscogee"
+  },
+  {
+    "zip_code": 32003,
+    "latitude": 30.095584,
+    "longitude": -81.710162,
+    "city": "Orange Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32004,
+    "latitude": 29.937673,
+    "longitude": -81.420603,
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32007,
+    "latitude": 29.799631,
+    "longitude": -81.627324,
+    "city": "Bostwick",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32008,
+    "latitude": 30.101927,
+    "longitude": -82.908004,
+    "city": "Branford",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32009,
+    "latitude": 30.521109,
+    "longitude": -81.906051,
+    "city": "Bryceville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32011,
+    "latitude": 30.556322,
+    "longitude": -81.837594,
+    "city": "Callahan",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32013,
+    "latitude": 30.041449,
+    "longitude": -83.123055,
+    "city": "Day",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 32024,
+    "latitude": 30.105451,
+    "longitude": -82.68778,
+    "city": "Lake City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32025,
+    "latitude": 30.160115,
+    "longitude": -82.639606,
+    "city": "Lake City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32030,
+    "latitude": 30.105553,
+    "longitude": -81.768964,
+    "city": "Doctors Inlet",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32033,
+    "latitude": 29.813208,
+    "longitude": -81.468724,
+    "city": "Elkton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32034,
+    "latitude": 30.60778,
+    "longitude": -81.682889,
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32035,
+    "latitude": 30.551558,
+    "longitude": -81.698422,
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32038,
+    "latitude": 30.211903,
+    "longitude": -82.626332,
+    "city": "Fort White",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32040,
+    "latitude": 30.302616,
+    "longitude": -82.190828,
+    "city": "Glen Saint Mary",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Baker"
+  },
+  {
+    "zip_code": 32041,
+    "latitude": 30.6233,
+    "longitude": -81.590249,
+    "city": "Yulee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32042,
+    "latitude": 29.968926,
+    "longitude": -82.122553,
+    "city": "Graham",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 32043,
+    "latitude": 29.998318,
+    "longitude": -81.76468,
+    "city": "Green Cove Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32044,
+    "latitude": 29.862285,
+    "longitude": -82.143297,
+    "city": "Hampton",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 32046,
+    "latitude": 30.670745,
+    "longitude": -81.894528,
+    "city": "Hilliard",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32050,
+    "latitude": 30.031702,
+    "longitude": -81.848401,
+    "city": "Middleburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32052,
+    "latitude": 30.495814,
+    "longitude": -82.985428,
+    "city": "Jasper",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 32053,
+    "latitude": 30.555263,
+    "longitude": -83.148179,
+    "city": "Jennings",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 32054,
+    "latitude": 30.007626,
+    "longitude": -82.341422,
+    "city": "Lake Butler",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Union"
+  },
+  {
+    "zip_code": 32055,
+    "latitude": 30.155907,
+    "longitude": -82.652551,
+    "city": "Lake City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32056,
+    "latitude": 30.162772,
+    "longitude": -82.651184,
+    "city": "Lake City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32058,
+    "latitude": 30.047063,
+    "longitude": -82.12691,
+    "city": "Lawtey",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 32059,
+    "latitude": 30.498591,
+    "longitude": -83.361506,
+    "city": "Lee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 32060,
+    "latitude": 30.175865,
+    "longitude": -83.030438,
+    "city": "Live Oak",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32061,
+    "latitude": 30.211903,
+    "longitude": -82.626332,
+    "city": "Lulu",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Columbia"
+  },
+  {
+    "zip_code": 32062,
+    "latitude": 30.186428,
+    "longitude": -82.983576,
+    "city": "Mc Alpin",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32063,
+    "latitude": 30.284628,
+    "longitude": -82.160139,
+    "city": "Macclenny",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Baker"
+  },
+  {
+    "zip_code": 32064,
+    "latitude": 30.331517,
+    "longitude": -82.957151,
+    "city": "Live Oak",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32065,
+    "latitude": 29.986046,
+    "longitude": -81.883212,
+    "city": "Orange Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32066,
+    "latitude": 30.148296,
+    "longitude": -83.210982,
+    "city": "Mayo",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lafayette"
+  },
+  {
+    "zip_code": 32067,
+    "latitude": 29.956068,
+    "longitude": -81.815115,
+    "city": "Orange Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32068,
+    "latitude": 30.078597,
+    "longitude": -81.847794,
+    "city": "Middleburg",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32071,
+    "latitude": 30.036193,
+    "longitude": -82.932228,
+    "city": "O Brien",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32072,
+    "latitude": 30.36036,
+    "longitude": -82.25418,
+    "city": "Olustee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Baker"
+  },
+  {
+    "zip_code": 32073,
+    "latitude": 30.119884,
+    "longitude": -81.791546,
+    "city": "Orange Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32079,
+    "latitude": 29.984882,
+    "longitude": -81.802221,
+    "city": "Penney Farms",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32080,
+    "latitude": 29.816985,
+    "longitude": -81.265123,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32082,
+    "latitude": 30.102212,
+    "longitude": -81.382302,
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32083,
+    "latitude": 30.054956,
+    "longitude": -82.213361,
+    "city": "Raiford",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Union"
+  },
+  {
+    "zip_code": 32084,
+    "latitude": 29.849505,
+    "longitude": -81.332552,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32085,
+    "latitude": 29.937673,
+    "longitude": -81.420603,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32086,
+    "latitude": 29.775409,
+    "longitude": -81.302246,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32087,
+    "latitude": 30.291034,
+    "longitude": -82.334017,
+    "city": "Sanderson",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Baker"
+  },
+  {
+    "zip_code": 32091,
+    "latitude": 29.928149,
+    "longitude": -82.179651,
+    "city": "Starke",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Bradford"
+  },
+  {
+    "zip_code": 32092,
+    "latitude": 29.921998,
+    "longitude": -81.504509,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32094,
+    "latitude": 30.194651,
+    "longitude": -82.857328,
+    "city": "Wellborn",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Suwannee"
+  },
+  {
+    "zip_code": 32095,
+    "latitude": 29.983058,
+    "longitude": -81.450583,
+    "city": "Saint Augustine",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32096,
+    "latitude": 30.386063,
+    "longitude": -82.77389,
+    "city": "White Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 32097,
+    "latitude": 30.659689,
+    "longitude": -81.683649,
+    "city": "Yulee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Nassau"
+  },
+  {
+    "zip_code": 32099,
+    "latitude": 30.337538,
+    "longitude": -81.768622,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32102,
+    "latitude": 29.174011,
+    "longitude": -81.575044,
+    "city": "Astor",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 32105,
+    "latitude": 29.200508,
+    "longitude": -81.406458,
+    "city": "Barberville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32110,
+    "latitude": 29.402177,
+    "longitude": -81.33425,
+    "city": "Bunnell",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32111,
+    "latitude": 29.060711,
+    "longitude": -81.969048,
+    "city": "Candler",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32112,
+    "latitude": 29.511518,
+    "longitude": -81.681387,
+    "city": "Crescent City",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32113,
+    "latitude": 29.411299,
+    "longitude": -82.084651,
+    "city": "Citra",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32114,
+    "latitude": 29.146163,
+    "longitude": -81.053368,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32115,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32116,
+    "latitude": 29.10909,
+    "longitude": -80.984344,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32117,
+    "latitude": 29.188732,
+    "longitude": -81.231384,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32118,
+    "latitude": 29.208908,
+    "longitude": -81.00227,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32119,
+    "latitude": 29.150622,
+    "longitude": -81.025223,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32120,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32121,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32122,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32123,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32124,
+    "latitude": 29.14192,
+    "longitude": -81.140241,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32125,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32126,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32127,
+    "latitude": 29.113539,
+    "longitude": -80.976485,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32128,
+    "latitude": 29.100739,
+    "longitude": -81.071829,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32129,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Port Orange",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32130,
+    "latitude": 29.183646,
+    "longitude": -81.329387,
+    "city": "De Leon Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32131,
+    "latitude": 29.612208,
+    "longitude": -81.699606,
+    "city": "East Palatka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32132,
+    "latitude": 28.974136,
+    "longitude": -80.92291,
+    "city": "Edgewater",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32133,
+    "latitude": 29.008805,
+    "longitude": -81.909445,
+    "city": "Eastlake Weir",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32134,
+    "latitude": 29.390965,
+    "longitude": -81.855082,
+    "city": "Fort Mc Coy",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32135,
+    "latitude": 29.466085,
+    "longitude": -81.282815,
+    "city": "Palm Coast",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32136,
+    "latitude": 29.509845,
+    "longitude": -81.18295,
+    "city": "Flagler Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32137,
+    "latitude": 29.564391,
+    "longitude": -81.201389,
+    "city": "Palm Coast",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32138,
+    "latitude": 29.699255,
+    "longitude": -81.922362,
+    "city": "Grandin",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32139,
+    "latitude": 29.384185,
+    "longitude": -81.618309,
+    "city": "Georgetown",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32140,
+    "latitude": 29.611384,
+    "longitude": -81.73499,
+    "city": "Florahome",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32141,
+    "latitude": 28.933217,
+    "longitude": -80.900037,
+    "city": "Edgewater",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32142,
+    "latitude": 29.466085,
+    "longitude": -81.282815,
+    "city": "Palm Coast",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32145,
+    "latitude": 29.68875,
+    "longitude": -81.406081,
+    "city": "Hastings",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32147,
+    "latitude": 29.657611,
+    "longitude": -81.779652,
+    "city": "Hollister",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32148,
+    "latitude": 29.598959,
+    "longitude": -81.762249,
+    "city": "Interlachen",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32149,
+    "latitude": 29.58203,
+    "longitude": -81.744852,
+    "city": "Interlachen",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32151,
+    "latitude": 29.466085,
+    "longitude": -81.282815,
+    "city": "Flagler Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32157,
+    "latitude": 29.45817,
+    "longitude": -81.591447,
+    "city": "Lake Como",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32158,
+    "latitude": 28.811078,
+    "longitude": -81.653642,
+    "city": "Lady Lake",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 32159,
+    "latitude": 28.923468,
+    "longitude": -81.894367,
+    "city": "Lady Lake",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 32160,
+    "latitude": 29.768321,
+    "longitude": -81.990729,
+    "city": "Lake Geneva",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 32162,
+    "latitude": 28.922305,
+    "longitude": -81.999287,
+    "city": "Lady Lake",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Sumter"
+  },
+  {
+    "zip_code": 32164,
+    "latitude": 29.486141,
+    "longitude": -81.204491,
+    "city": "Palm Coast",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Flagler"
+  },
+  {
+    "zip_code": 32168,
+    "latitude": 28.951931,
+    "longitude": -81.033705,
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32169,
+    "latitude": 29.131714,
+    "longitude": -81.133519,
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32170,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32173,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Ormond Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32174,
+    "latitude": 29.30766,
+    "longitude": -81.177846,
+    "city": "Ormond Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32175,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Ormond Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32176,
+    "latitude": 29.335111,
+    "longitude": -81.249977,
+    "city": "Ormond Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32177,
+    "latitude": 29.611093,
+    "longitude": -81.785957,
+    "city": "Palatka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32178,
+    "latitude": 29.644306,
+    "longitude": -81.668593,
+    "city": "Palatka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32179,
+    "latitude": 29.086882,
+    "longitude": -81.905259,
+    "city": "Ocklawaha",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32180,
+    "latitude": 29.244623,
+    "longitude": -81.471982,
+    "city": "Pierson",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32181,
+    "latitude": 29.539751,
+    "longitude": -81.613183,
+    "city": "Pomona Park",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32182,
+    "latitude": 29.485625,
+    "longitude": -81.958901,
+    "city": "Orange Springs",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32183,
+    "latitude": 29.059673,
+    "longitude": -81.905068,
+    "city": "Ocklawaha",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32185,
+    "latitude": 29.736833,
+    "longitude": -81.957967,
+    "city": "Putnam Hall",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32187,
+    "latitude": 29.59344,
+    "longitude": -81.589937,
+    "city": "San Mateo",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32189,
+    "latitude": 29.536502,
+    "longitude": -81.633608,
+    "city": "Satsuma",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32190,
+    "latitude": 29.28926,
+    "longitude": -81.503244,
+    "city": "Seville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32192,
+    "latitude": 29.326821,
+    "longitude": -82.104632,
+    "city": "Sparr",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32193,
+    "latitude": 29.463627,
+    "longitude": -81.640527,
+    "city": "Welaka",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 32195,
+    "latitude": 29.006144,
+    "longitude": -81.87785,
+    "city": "Weirsdale",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 32198,
+    "latitude": 29.022729,
+    "longitude": -81.172169,
+    "city": "Daytona Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Volusia"
+  },
+  {
+    "zip_code": 32201,
+    "latitude": 30.389438,
+    "longitude": -81.680806,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32202,
+    "latitude": 30.328439,
+    "longitude": -81.65602,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32203,
+    "latitude": 30.32281,
+    "longitude": -81.547044,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32204,
+    "latitude": 30.323539,
+    "longitude": -81.681068,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32205,
+    "latitude": 30.330938,
+    "longitude": -81.833074,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32206,
+    "latitude": 30.352488,
+    "longitude": -81.665918,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32207,
+    "latitude": 30.290839,
+    "longitude": -81.631465,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32208,
+    "latitude": 30.391988,
+    "longitude": -81.685569,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32209,
+    "latitude": 30.347838,
+    "longitude": -81.813774,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32210,
+    "latitude": 30.274539,
+    "longitude": -81.786671,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32211,
+    "latitude": 30.347139,
+    "longitude": -81.581959,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32212,
+    "latitude": 30.213189,
+    "longitude": -81.690016,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32214,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32215,
+    "latitude": 30.240689,
+    "longitude": -81.892982,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32216,
+    "latitude": 30.28434,
+    "longitude": -81.54074,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32217,
+    "latitude": 30.24058,
+    "longitude": -81.618814,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32218,
+    "latitude": 30.47548,
+    "longitude": -81.67602,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32219,
+    "latitude": 30.378738,
+    "longitude": -81.745368,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32220,
+    "latitude": 30.337236,
+    "longitude": -81.863176,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32221,
+    "latitude": 30.259438,
+    "longitude": -81.848561,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32222,
+    "latitude": 30.218289,
+    "longitude": -81.820628,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32223,
+    "latitude": 30.166809,
+    "longitude": -81.63425,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32224,
+    "latitude": 30.24359,
+    "longitude": -81.715976,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32225,
+    "latitude": 30.331905,
+    "longitude": -81.50091,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32226,
+    "latitude": 30.479666,
+    "longitude": -81.527063,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32227,
+    "latitude": 30.38024,
+    "longitude": -81.41602,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32228,
+    "latitude": 30.38239,
+    "longitude": -81.436859,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32229,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32230,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32231,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32232,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32233,
+    "latitude": 30.35239,
+    "longitude": -81.517761,
+    "city": "Atlantic Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32234,
+    "latitude": 30.275711,
+    "longitude": -81.968614,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32235,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32236,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32237,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32238,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32239,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32240,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32241,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32244,
+    "latitude": 30.220302,
+    "longitude": -81.747414,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32245,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32246,
+    "latitude": 30.293273,
+    "longitude": -81.50916,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32247,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32250,
+    "latitude": 30.280143,
+    "longitude": -81.416506,
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32254,
+    "latitude": 30.357888,
+    "longitude": -81.674018,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32255,
+    "latitude": 30.287041,
+    "longitude": -81.389305,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32256,
+    "latitude": 30.213733,
+    "longitude": -81.539129,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32257,
+    "latitude": 30.191737,
+    "longitude": -81.603557,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32258,
+    "latitude": 30.156591,
+    "longitude": -81.560415,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32259,
+    "latitude": 29.877289,
+    "longitude": -81.561245,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32260,
+    "latitude": 29.937673,
+    "longitude": -81.420603,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Saint Johns"
+  },
+  {
+    "zip_code": 32266,
+    "latitude": 30.315978,
+    "longitude": -81.408006,
+    "city": "Neptune Beach",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32267,
+    "latitude": 30.34494,
+    "longitude": -81.683107,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32276,
+    "latitude": 30.325739,
+    "longitude": -81.659017,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32277,
+    "latitude": 30.370439,
+    "longitude": -81.586394,
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32290,
+    "latitude": "",
+    "longitude": "",
+    "city": "Jacksonville",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Duval"
+  },
+  {
+    "zip_code": 32301,
+    "latitude": 30.418514,
+    "longitude": -84.203379,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  },
+  {
+    "zip_code": 32302,
+    "latitude": 30.479347,
+    "longitude": -84.346204,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  },
+  {
+    "zip_code": 32303,
+    "latitude": 30.535698,
+    "longitude": -84.247698,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  },
+  {
+    "zip_code": 32304,
+    "latitude": 30.437954,
+    "longitude": -84.347459,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  },
+  {
+    "zip_code": 32305,
+    "latitude": 30.130775,
+    "longitude": -84.406629,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Wakulla"
+  },
+  {
+    "zip_code": 32306,
+    "latitude": 30.442499,
+    "longitude": -84.29855,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  },
+  {
+    "zip_code": 32307,
+    "latitude": 30.42565,
+    "longitude": -84.287749,
+    "city": "Tallahassee",
+    "state": "FL",
+    "full_state": "Florida",
+    "county": "Leon"
+  }
+]

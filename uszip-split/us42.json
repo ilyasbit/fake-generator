@@ -1,0 +1,8724 @@
+[
+  {
+    "zip_code": 19530,
+    "latitude": 40.473382,
+    "longitude": -75.775241,
+    "city": "Kutztown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19533,
+    "latitude": 40.420446,
+    "longitude": -75.85715,
+    "city": "Leesport",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19534,
+    "latitude": 40.573618,
+    "longitude": -75.864968,
+    "city": "Lenhartsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19535,
+    "latitude": 40.335593,
+    "longitude": -75.801009,
+    "city": "Limekiln",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19536,
+    "latitude": 40.521756,
+    "longitude": -75.741859,
+    "city": "Lyon Station",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19538,
+    "latitude": 40.569818,
+    "longitude": -75.740942,
+    "city": "Maxatawny",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19539,
+    "latitude": 40.432311,
+    "longitude": -75.796571,
+    "city": "Mertztown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19540,
+    "latitude": 40.321665,
+    "longitude": -75.804757,
+    "city": "Mohnton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19541,
+    "latitude": 40.400685,
+    "longitude": -76.037566,
+    "city": "Mohrsville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19542,
+    "latitude": 40.260992,
+    "longitude": -75.768437,
+    "city": "Monocacy Station",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19543,
+    "latitude": 40.367731,
+    "longitude": -75.89161,
+    "city": "Morgantown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19544,
+    "latitude": 40.418662,
+    "longitude": -76.294364,
+    "city": "Mount Aetna",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19545,
+    "latitude": 40.33968,
+    "longitude": -75.63016,
+    "city": "New Berlinville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19547,
+    "latitude": 40.343449,
+    "longitude": -75.897566,
+    "city": "Oley",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19548,
+    "latitude": 40.407173,
+    "longitude": -75.984901,
+    "city": "Pine Forge",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19549,
+    "latitude": 40.722587,
+    "longitude": -76.229623,
+    "city": "Port Clinton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Schuylkill"
+  },
+  {
+    "zip_code": 19550,
+    "latitude": 40.455305,
+    "longitude": -76.245345,
+    "city": "Rehrersburg",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19551,
+    "latitude": 40.326171,
+    "longitude": -75.88889,
+    "city": "Robesonia",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19554,
+    "latitude": 40.505184,
+    "longitude": -76.141334,
+    "city": "Shartlesville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19555,
+    "latitude": 40.411279,
+    "longitude": -75.887016,
+    "city": "Shoemakersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19557,
+    "latitude": 40.613868,
+    "longitude": -75.814984,
+    "city": "Stony Run",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19559,
+    "latitude": 40.494368,
+    "longitude": -76.18646,
+    "city": "Strausstown",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19560,
+    "latitude": 40.395908,
+    "longitude": -75.889849,
+    "city": "Temple",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19562,
+    "latitude": 40.476019,
+    "longitude": -75.849294,
+    "city": "Topton",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19564,
+    "latitude": 40.526803,
+    "longitude": -75.869653,
+    "city": "Virginville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19565,
+    "latitude": 40.337188,
+    "longitude": -75.951748,
+    "city": "Wernersville",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19567,
+    "latitude": 40.432759,
+    "longitude": -75.925707,
+    "city": "Womelsdorf",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19601,
+    "latitude": 40.357242,
+    "longitude": -75.940153,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19602,
+    "latitude": 40.326546,
+    "longitude": -75.915919,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19603,
+    "latitude": 40.388442,
+    "longitude": -75.963055,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19604,
+    "latitude": 40.360942,
+    "longitude": -75.927852,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19605,
+    "latitude": 40.404942,
+    "longitude": -75.941603,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19606,
+    "latitude": 40.335119,
+    "longitude": -75.874976,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19607,
+    "latitude": 40.299463,
+    "longitude": -75.987606,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19608,
+    "latitude": 40.316342,
+    "longitude": -75.935521,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19609,
+    "latitude": 40.327992,
+    "longitude": -75.990807,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19610,
+    "latitude": 40.338017,
+    "longitude": -75.978006,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19611,
+    "latitude": 40.303892,
+    "longitude": -75.938853,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19612,
+    "latitude": 40.4389,
+    "longitude": -75.885303,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19640,
+    "latitude": 40.407173,
+    "longitude": -75.984901,
+    "city": "Reading",
+    "state": "PA",
+    "full_state": "Pennsylvania",
+    "county": "Berks"
+  },
+  {
+    "zip_code": 19701,
+    "latitude": 39.594736,
+    "longitude": -75.693903,
+    "city": "Bear",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19702,
+    "latitude": 39.614737,
+    "longitude": -75.701277,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19703,
+    "latitude": 39.80379,
+    "longitude": -75.45814,
+    "city": "Claymont",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19706,
+    "latitude": 39.594256,
+    "longitude": -75.608081,
+    "city": "Delaware City",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19707,
+    "latitude": 39.635202,
+    "longitude": -75.680897,
+    "city": "Hockessin",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19708,
+    "latitude": 39.577567,
+    "longitude": -75.690069,
+    "city": "Kirkwood",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19709,
+    "latitude": 39.485721,
+    "longitude": -75.677535,
+    "city": "Middletown",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19710,
+    "latitude": 39.757783,
+    "longitude": -75.639143,
+    "city": "Montchanin",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19711,
+    "latitude": 39.668282,
+    "longitude": -75.688489,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19712,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19713,
+    "latitude": 39.665662,
+    "longitude": -75.719349,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19714,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19715,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19716,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19717,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19718,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19720,
+    "latitude": 39.592895,
+    "longitude": -75.651466,
+    "city": "New Castle",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19721,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "New Castle",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19725,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19726,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Newark",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19730,
+    "latitude": 39.51251,
+    "longitude": -75.627281,
+    "city": "Odessa",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19731,
+    "latitude": 39.512902,
+    "longitude": -75.58518,
+    "city": "Port Penn",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19732,
+    "latitude": 39.793864,
+    "longitude": -75.57375,
+    "city": "Rockland",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19733,
+    "latitude": 39.555459,
+    "longitude": -75.650462,
+    "city": "Saint Georges",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19734,
+    "latitude": 39.430666,
+    "longitude": -75.646408,
+    "city": "Townsend",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19735,
+    "latitude": 39.794396,
+    "longitude": -75.597598,
+    "city": "Winterthur",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19736,
+    "latitude": 39.797126,
+    "longitude": -75.660413,
+    "city": "Yorklyn",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19801,
+    "latitude": 39.727113,
+    "longitude": -75.547844,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19802,
+    "latitude": 39.71987,
+    "longitude": -75.593512,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19803,
+    "latitude": 39.79936,
+    "longitude": -75.531694,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19804,
+    "latitude": 39.759577,
+    "longitude": -75.617198,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19805,
+    "latitude": 39.743107,
+    "longitude": -75.593447,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19806,
+    "latitude": 39.758562,
+    "longitude": -75.568745,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19807,
+    "latitude": 39.794943,
+    "longitude": -75.616134,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19808,
+    "latitude": 39.735912,
+    "longitude": -75.664729,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19809,
+    "latitude": 39.764712,
+    "longitude": -75.506892,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19810,
+    "latitude": 39.763961,
+    "longitude": -75.527812,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19850,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19880,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19884,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19885,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19886,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19887,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19889,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19890,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19891,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19892,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19893,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19894,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19895,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19896,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19897,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19898,
+    "latitude": 39.564499,
+    "longitude": -75.597047,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19899,
+    "latitude": 39.734792,
+    "longitude": -75.624617,
+    "city": "Wilmington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "New Castle"
+  },
+  {
+    "zip_code": 19901,
+    "latitude": 39.156376,
+    "longitude": -75.49549,
+    "city": "Dover",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19902,
+    "latitude": 39.10868,
+    "longitude": -75.448023,
+    "city": "Dover Afb",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19903,
+    "latitude": 39.10868,
+    "longitude": -75.448023,
+    "city": "Dover",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19904,
+    "latitude": 39.160542,
+    "longitude": -75.597381,
+    "city": "Dover",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19905,
+    "latitude": 39.10868,
+    "longitude": -75.448023,
+    "city": "Dover",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19906,
+    "latitude": 39.158075,
+    "longitude": -75.523001,
+    "city": "Dover",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19930,
+    "latitude": 38.555533,
+    "longitude": -75.186955,
+    "city": "Bethany Beach",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19931,
+    "latitude": 38.569091,
+    "longitude": -75.624087,
+    "city": "Bethel",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19933,
+    "latitude": 38.660295,
+    "longitude": -75.330023,
+    "city": "Bridgeville",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19934,
+    "latitude": 39.086921,
+    "longitude": -75.612286,
+    "city": "Camden Wyoming",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19936,
+    "latitude": 39.218448,
+    "longitude": -75.584848,
+    "city": "Cheswold",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19938,
+    "latitude": 39.246071,
+    "longitude": -75.688873,
+    "city": "Clayton",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19939,
+    "latitude": 38.621403,
+    "longitude": -75.181502,
+    "city": "Dagsboro",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19940,
+    "latitude": 38.631744,
+    "longitude": -75.324585,
+    "city": "Delmar",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19941,
+    "latitude": 38.652805,
+    "longitude": -75.275018,
+    "city": "Ellendale",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19943,
+    "latitude": 39.033438,
+    "longitude": -75.609891,
+    "city": "Felton",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19944,
+    "latitude": 38.486485,
+    "longitude": -75.058874,
+    "city": "Fenwick Island",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19945,
+    "latitude": 38.55144,
+    "longitude": -75.157634,
+    "city": "Frankford",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19946,
+    "latitude": 39.023141,
+    "longitude": -75.48191,
+    "city": "Frederica",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19947,
+    "latitude": 38.632891,
+    "longitude": -75.334263,
+    "city": "Georgetown",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19950,
+    "latitude": 38.82458,
+    "longitude": -75.588771,
+    "city": "Greenwood",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19951,
+    "latitude": 38.691547,
+    "longitude": -75.225025,
+    "city": "Harbeson",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19952,
+    "latitude": 38.912195,
+    "longitude": -75.611322,
+    "city": "Harrington",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19953,
+    "latitude": 39.16343,
+    "longitude": -75.679733,
+    "city": "Hartly",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19954,
+    "latitude": 38.894017,
+    "longitude": -75.520078,
+    "city": "Houston",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19955,
+    "latitude": 39.225604,
+    "longitude": -75.664153,
+    "city": "Kenton",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19956,
+    "latitude": 38.663322,
+    "longitude": -75.378729,
+    "city": "Laurel",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19958,
+    "latitude": 38.65536,
+    "longitude": -75.325612,
+    "city": "Lewes",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19960,
+    "latitude": 38.848792,
+    "longitude": -75.41087,
+    "city": "Lincoln",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19961,
+    "latitude": 39.166323,
+    "longitude": -75.448289,
+    "city": "Little Creek",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19962,
+    "latitude": 38.971647,
+    "longitude": -75.591714,
+    "city": "Magnolia",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19963,
+    "latitude": 38.72712,
+    "longitude": -75.322829,
+    "city": "Milford",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19964,
+    "latitude": 39.140254,
+    "longitude": -75.667898,
+    "city": "Marydel",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19966,
+    "latitude": 38.659458,
+    "longitude": -75.24641,
+    "city": "Millsboro",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19967,
+    "latitude": 38.700518,
+    "longitude": -75.242294,
+    "city": "Millville",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19968,
+    "latitude": 38.692714,
+    "longitude": -75.322223,
+    "city": "Milton",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19969,
+    "latitude": 38.725562,
+    "longitude": -75.353387,
+    "city": "Nassau",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19970,
+    "latitude": 38.621587,
+    "longitude": -75.104645,
+    "city": "Ocean View",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19971,
+    "latitude": 38.629763,
+    "longitude": -75.319975,
+    "city": "Rehoboth Beach",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19973,
+    "latitude": 38.659891,
+    "longitude": -75.380454,
+    "city": "Seaford",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19975,
+    "latitude": 38.550784,
+    "longitude": -75.330307,
+    "city": "Selbyville",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 19977,
+    "latitude": 39.194026,
+    "longitude": -75.565131,
+    "city": "Smyrna",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19979,
+    "latitude": 38.971038,
+    "longitude": -75.577158,
+    "city": "Viola",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 19980,
+    "latitude": 39.07239,
+    "longitude": -75.571073,
+    "city": "Woodside",
+    "state": "DE",
+    "full_state": "Delaware",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 20001,
+    "latitude": 38.911936,
+    "longitude": -77.016719,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20002,
+    "latitude": 38.908218,
+    "longitude": -76.982147,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20003,
+    "latitude": 38.860315,
+    "longitude": -76.988897,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20004,
+    "latitude": 38.892247,
+    "longitude": -77.019477,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20005,
+    "latitude": 38.904011,
+    "longitude": -77.031695,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20006,
+    "latitude": 38.897131,
+    "longitude": -77.041248,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20007,
+    "latitude": 38.914561,
+    "longitude": -77.075649,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20008,
+    "latitude": 38.93521,
+    "longitude": -77.060399,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20009,
+    "latitude": 38.919261,
+    "longitude": -77.039798,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20010,
+    "latitude": 38.932711,
+    "longitude": -77.030248,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20011,
+    "latitude": 38.95261,
+    "longitude": -77.017898,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20012,
+    "latitude": 38.980231,
+    "longitude": -77.026298,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20013,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20015,
+    "latitude": 38.96926,
+    "longitude": -77.070949,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20016,
+    "latitude": 38.93826,
+    "longitude": -77.091149,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20017,
+    "latitude": 38.93846,
+    "longitude": -76.993068,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20018,
+    "latitude": 38.93056,
+    "longitude": -76.977953,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20019,
+    "latitude": 38.891561,
+    "longitude": -76.939396,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20020,
+    "latitude": 38.85761,
+    "longitude": -76.971547,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20024,
+    "latitude": 38.876494,
+    "longitude": -77.022948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20026,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20029,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20030,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20032,
+    "latitude": 38.8368,
+    "longitude": -76.997697,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20033,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20035,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20036,
+    "latitude": 38.900659,
+    "longitude": -77.039914,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20037,
+    "latitude": 38.918903,
+    "longitude": -77.061781,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20038,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20039,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20040,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20041,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20042,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20043,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20044,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20045,
+    "latitude": 38.896599,
+    "longitude": -77.0319,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20046,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20047,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20049,
+    "latitude": 38.895911,
+    "longitude": -77.020998,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20050,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20051,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20052,
+    "latitude": 38.90014,
+    "longitude": -77.047899,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20053,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20055,
+    "latitude": 38.901633,
+    "longitude": -77.020959,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20056,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20057,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20058,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20059,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20060,
+    "latitude": 38.918011,
+    "longitude": -77.020398,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20061,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20062,
+    "latitude": 38.900009,
+    "longitude": -77.036948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20063,
+    "latitude": 38.905317,
+    "longitude": -77.046645,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20064,
+    "latitude": 38.933161,
+    "longitude": -76.996348,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20065,
+    "latitude": 38.883412,
+    "longitude": -77.028198,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20066,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20067,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20068,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20069,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20070,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20071,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20073,
+    "latitude": 38.897011,
+    "longitude": -77.025098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20074,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20075,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20076,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20077,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20078,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20080,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20081,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20082,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20088,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20090,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20091,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20097,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20098,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20099,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20101,
+    "latitude": 39.002125,
+    "longitude": -77.442066,
+    "city": "Dulles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20102,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Dulles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20103,
+    "latitude": 38.996242,
+    "longitude": -77.449952,
+    "city": "Dulles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20104,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Dulles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20105,
+    "latitude": 38.957718,
+    "longitude": -77.60375,
+    "city": "Aldie",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20106,
+    "latitude": 38.6842,
+    "longitude": -78.016813,
+    "city": "Amissville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 20107,
+    "latitude": 38.968321,
+    "longitude": -77.533263,
+    "city": "Arcola",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20108,
+    "latitude": 38.744685,
+    "longitude": -77.487162,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas City"
+  },
+  {
+    "zip_code": 20109,
+    "latitude": 38.763215,
+    "longitude": -77.493092,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas City"
+  },
+  {
+    "zip_code": 20110,
+    "latitude": 38.749207,
+    "longitude": -77.487762,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas City"
+  },
+  {
+    "zip_code": 20111,
+    "latitude": 38.770741,
+    "longitude": -77.449443,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas Park City"
+  },
+  {
+    "zip_code": 20112,
+    "latitude": 38.770864,
+    "longitude": -77.449443,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas Park City"
+  },
+  {
+    "zip_code": 20113,
+    "latitude": 38.770864,
+    "longitude": -77.449443,
+    "city": "Manassas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Manassas Park City"
+  },
+  {
+    "zip_code": 20115,
+    "latitude": 38.840456,
+    "longitude": -77.891136,
+    "city": "Marshall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20116,
+    "latitude": 38.853723,
+    "longitude": -77.860127,
+    "city": "Marshall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20117,
+    "latitude": 39.029599,
+    "longitude": -77.693844,
+    "city": "Middleburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20118,
+    "latitude": 39.007548,
+    "longitude": -77.765553,
+    "city": "Middleburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20119,
+    "latitude": 38.636964,
+    "longitude": -77.638287,
+    "city": "Catlett",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20120,
+    "latitude": 38.84479,
+    "longitude": -77.46701,
+    "city": "Centreville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20121,
+    "latitude": 38.819513,
+    "longitude": -77.45576,
+    "city": "Centreville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20122,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Centreville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20124,
+    "latitude": 38.781809,
+    "longitude": -77.381808,
+    "city": "Clifton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20128,
+    "latitude": 38.741639,
+    "longitude": -77.977432,
+    "city": "Orlean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20129,
+    "latitude": 39.160291,
+    "longitude": -77.60967,
+    "city": "Paeonian Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20130,
+    "latitude": 39.004843,
+    "longitude": -77.954597,
+    "city": "Paris",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20131,
+    "latitude": 39.057952,
+    "longitude": -77.743423,
+    "city": "Philomont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20132,
+    "latitude": 39.143614,
+    "longitude": -77.734232,
+    "city": "Purcellville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20134,
+    "latitude": 39.152187,
+    "longitude": -77.702576,
+    "city": "Purcellville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20135,
+    "latitude": 39.082266,
+    "longitude": -77.846661,
+    "city": "Bluemont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20136,
+    "latitude": 38.734255,
+    "longitude": -77.547383,
+    "city": "Bristow",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20137,
+    "latitude": 38.819464,
+    "longitude": -77.736814,
+    "city": "Broad Run",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20138,
+    "latitude": 38.633774,
+    "longitude": -77.686868,
+    "city": "Calverton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20139,
+    "latitude": 38.654282,
+    "longitude": -77.702542,
+    "city": "Casanova",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20140,
+    "latitude": 38.916291,
+    "longitude": -77.864841,
+    "city": "Rectortown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20141,
+    "latitude": 39.116425,
+    "longitude": -77.780216,
+    "city": "Round Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20142,
+    "latitude": 39.130665,
+    "longitude": -77.774665,
+    "city": "Round Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20143,
+    "latitude": 38.845535,
+    "longitude": -77.566921,
+    "city": "Catharpin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20144,
+    "latitude": 38.911315,
+    "longitude": -77.967401,
+    "city": "Delaplane",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20146,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Ashburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20147,
+    "latitude": 39.037339,
+    "longitude": -77.480542,
+    "city": "Ashburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20148,
+    "latitude": 39.014196,
+    "longitude": -77.528452,
+    "city": "Ashburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20149,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Ashburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20151,
+    "latitude": 38.88668,
+    "longitude": -77.44566,
+    "city": "Chantilly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20152,
+    "latitude": 38.897591,
+    "longitude": -77.509174,
+    "city": "Chantilly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20153,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Chantilly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20155,
+    "latitude": 38.815714,
+    "longitude": -77.621613,
+    "city": "Gainesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20156,
+    "latitude": 38.721912,
+    "longitude": -77.466897,
+    "city": "Gainesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20158,
+    "latitude": 39.138314,
+    "longitude": -77.657328,
+    "city": "Hamilton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20159,
+    "latitude": 39.133855,
+    "longitude": -77.662072,
+    "city": "Hamilton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20160,
+    "latitude": 39.098479,
+    "longitude": -77.688338,
+    "city": "Lincoln",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20163,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Sterling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20164,
+    "latitude": 39.023047,
+    "longitude": -77.399367,
+    "city": "Sterling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20165,
+    "latitude": 39.047157,
+    "longitude": -77.386647,
+    "city": "Sterling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20166,
+    "latitude": 38.981387,
+    "longitude": -77.472333,
+    "city": "Sterling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20167,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Sterling",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20168,
+    "latitude": 38.721912,
+    "longitude": -77.466897,
+    "city": "Haymarket",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20169,
+    "latitude": 38.867441,
+    "longitude": -77.644539,
+    "city": "Haymarket",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20170,
+    "latitude": 38.983887,
+    "longitude": -77.367457,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20171,
+    "latitude": 38.92518,
+    "longitude": -77.39284,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20172,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20175,
+    "latitude": 39.041987,
+    "longitude": -77.605404,
+    "city": "Leesburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20176,
+    "latitude": 39.119727,
+    "longitude": -77.603458,
+    "city": "Leesburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20177,
+    "latitude": 39.158095,
+    "longitude": -77.666863,
+    "city": "Leesburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20178,
+    "latitude": 39.072918,
+    "longitude": -77.608014,
+    "city": "Leesburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20180,
+    "latitude": 39.220432,
+    "longitude": -77.659636,
+    "city": "Lovettsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20181,
+    "latitude": 38.700017,
+    "longitude": -77.548271,
+    "city": "Nokesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20182,
+    "latitude": 38.700866,
+    "longitude": -77.585708,
+    "city": "Nokesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 20184,
+    "latitude": 38.962661,
+    "longitude": -77.884726,
+    "city": "Upperville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20185,
+    "latitude": 38.992978,
+    "longitude": -77.879855,
+    "city": "Upperville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20186,
+    "latitude": 38.689832,
+    "longitude": -77.836115,
+    "city": "Warrenton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20187,
+    "latitude": 38.715296,
+    "longitude": -77.741696,
+    "city": "Warrenton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20188,
+    "latitude": 38.765619,
+    "longitude": -77.820293,
+    "city": "Warrenton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20190,
+    "latitude": 38.96146,
+    "longitude": -77.3418,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20191,
+    "latitude": 38.93181,
+    "longitude": -77.352718,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20192,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20193,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20194,
+    "latitude": 38.980742,
+    "longitude": -77.341878,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20195,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20196,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 20197,
+    "latitude": 39.188205,
+    "longitude": -77.630013,
+    "city": "Waterford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20198,
+    "latitude": 38.870681,
+    "longitude": -77.760779,
+    "city": "The Plains",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 20199,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Dulles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 20201,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20202,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20203,
+    "latitude": 38.905317,
+    "longitude": -77.046645,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20204,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20206,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20207,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20208,
+    "latitude": 38.896611,
+    "longitude": -77.011748,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20210,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20211,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20212,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20213,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20214,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20215,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20216,
+    "latitude": 38.891911,
+    "longitude": -77.014098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20217,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20218,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20219,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20220,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20221,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20222,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20223,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20224,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20226,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20227,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20228,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20229,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20230,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20231,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20232,
+    "latitude": 38.900561,
+    "longitude": -77.039099,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20233,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20235,
+    "latitude": 38.915361,
+    "longitude": -77.057199,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20237,
+    "latitude": 38.887555,
+    "longitude": -77.016054,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20238,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20239,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20240,
+    "latitude": 38.897143,
+    "longitude": -77.040895,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20241,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20242,
+    "latitude": 38.867812,
+    "longitude": -77.028948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20244,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20245,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20250,
+    "latitude": 38.887323,
+    "longitude": -77.03274,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20251,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20254,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20260,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20261,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20262,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20265,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20266,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20268,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20270,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20277,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20289,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20299,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20301,
+    "latitude": 38.889357,
+    "longitude": -77.031113,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20303,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20306,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20307,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20310,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20314,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20315,
+    "latitude": 38.928861,
+    "longitude": -77.017948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20317,
+    "latitude": 38.931161,
+    "longitude": -77.010298,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20318,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20319,
+    "latitude": 38.866745,
+    "longitude": -77.016556,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20330,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20332,
+    "latitude": 38.834563,
+    "longitude": -77.015848,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20336,
+    "latitude": 38.860415,
+    "longitude": -77.022545,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20337,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20338,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20340,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20350,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20370,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20372,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20373,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Anacostia Annex",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20374,
+    "latitude": 38.855522,
+    "longitude": -77.002197,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20375,
+    "latitude": 38.826163,
+    "longitude": -77.017448,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20376,
+    "latitude": 38.872883,
+    "longitude": -76.997425,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20380,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20388,
+    "latitude": 38.872553,
+    "longitude": -76.996605,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20389,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20390,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20391,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20392,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20393,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20394,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20395,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20398,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20401,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20402,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20403,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20404,
+    "latitude": 38.899161,
+    "longitude": -77.008948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20405,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20406,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20407,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20408,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20409,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20410,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20411,
+    "latitude": 38.883962,
+    "longitude": -77.022098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20412,
+    "latitude": 38.895261,
+    "longitude": -77.022098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20413,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20414,
+    "latitude": 38.883962,
+    "longitude": -77.022098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20415,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20416,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20418,
+    "latitude": 38.904253,
+    "longitude": -77.05723,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20419,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20420,
+    "latitude": 38.903461,
+    "longitude": -77.027648,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20421,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20422,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20423,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20424,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20425,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20426,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20427,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20428,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20429,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20431,
+    "latitude": 38.898618,
+    "longitude": -77.042753,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20433,
+    "latitude": 38.899996,
+    "longitude": -77.041976,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20434,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20435,
+    "latitude": 38.899399,
+    "longitude": -77.040319,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20436,
+    "latitude": 38.895927,
+    "longitude": -77.021068,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20437,
+    "latitude": 38.902761,
+    "longitude": -77.048499,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20439,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20440,
+    "latitude": 38.913911,
+    "longitude": -77.045349,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20441,
+    "latitude": 38.923861,
+    "longitude": -77.036349,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20442,
+    "latitude": 38.895977,
+    "longitude": -77.017668,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20444,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20447,
+    "latitude": 38.884712,
+    "longitude": -77.025198,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20451,
+    "latitude": 38.897711,
+    "longitude": -77.044449,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20453,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20456,
+    "latitude": 38.898111,
+    "longitude": -77.040149,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20460,
+    "latitude": 38.876362,
+    "longitude": -77.018798,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20463,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20468,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20469,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20470,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20472,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20500,
+    "latitude": 38.89876,
+    "longitude": -77.03645,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20501,
+    "latitude": 38.89872,
+    "longitude": -77.036198,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20502,
+    "latitude": 38.89872,
+    "longitude": -77.036198,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20503,
+    "latitude": 38.900711,
+    "longitude": -77.043068,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20504,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20505,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20506,
+    "latitude": 38.899364,
+    "longitude": -77.037668,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20507,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20508,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20510,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20515,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20520,
+    "latitude": 38.893217,
+    "longitude": -77.048957,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20521,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20522,
+    "latitude": 38.893217,
+    "longitude": -77.048957,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20523,
+    "latitude": 38.89449,
+    "longitude": -77.047807,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20524,
+    "latitude": 38.902414,
+    "longitude": -77.032601,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20525,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20526,
+    "latitude": 38.902217,
+    "longitude": -77.043738,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20527,
+    "latitude": 38.902933,
+    "longitude": -77.036091,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20530,
+    "latitude": 38.897561,
+    "longitude": -77.026998,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20531,
+    "latitude": 38.893761,
+    "longitude": -77.021848,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20532,
+    "latitude": 38.904486,
+    "longitude": -77.017291,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20533,
+    "latitude": 38.901102,
+    "longitude": -77.032591,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20534,
+    "latitude": 38.894075,
+    "longitude": -77.01254,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20535,
+    "latitude": 38.894097,
+    "longitude": -77.025133,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20536,
+    "latitude": 38.901211,
+    "longitude": -77.016948,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20537,
+    "latitude": 38.894097,
+    "longitude": -77.025133,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20538,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20539,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20540,
+    "latitude": 38.887405,
+    "longitude": -77.004663,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20541,
+    "latitude": 38.887405,
+    "longitude": -77.004663,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20542,
+    "latitude": 38.940761,
+    "longitude": -77.028348,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20543,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20544,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20546,
+    "latitude": 38.890976,
+    "longitude": -77.021092,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20547,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20548,
+    "latitude": 38.898111,
+    "longitude": -77.017698,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20549,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20550,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20551,
+    "latitude": 38.891995,
+    "longitude": -77.045219,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20552,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20553,
+    "latitude": 38.887333,
+    "longitude": -77.023118,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20554,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20555,
+    "latitude": 38.900011,
+    "longitude": -77.040149,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20557,
+    "latitude": 38.887405,
+    "longitude": -77.004663,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20558,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20559,
+    "latitude": 38.887405,
+    "longitude": -77.004663,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20560,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20565,
+    "latitude": 38.891941,
+    "longitude": -77.018853,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20566,
+    "latitude": 38.897074,
+    "longitude": -77.05535,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20570,
+    "latitude": 38.899061,
+    "longitude": -77.040149,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20571,
+    "latitude": 38.900559,
+    "longitude": -77.034554,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20572,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20573,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20575,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20576,
+    "latitude": 38.893662,
+    "longitude": -77.023592,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20577,
+    "latitude": 38.900758,
+    "longitude": -77.034455,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20578,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20579,
+    "latitude": 38.904311,
+    "longitude": -77.044649,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20580,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20581,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20585,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20586,
+    "latitude": 38.902211,
+    "longitude": -77.047399,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20590,
+    "latitude": 38.883962,
+    "longitude": -77.022098,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20591,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20593,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20594,
+    "latitude": 38.88494,
+    "longitude": -77.018372,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20597,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20599,
+    "latitude": 38.893311,
+    "longitude": -77.014647,
+    "city": "Washington",
+    "state": "DC",
+    "county": "District Of Columbia"
+  },
+  {
+    "zip_code": 20601,
+    "latitude": 38.603783,
+    "longitude": -76.867928,
+    "city": "Waldorf",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20602,
+    "latitude": 38.518559,
+    "longitude": -76.912165,
+    "city": "Waldorf",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20603,
+    "latitude": 38.52115,
+    "longitude": -77.062012,
+    "city": "Waldorf",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20604,
+    "latitude": 38.509548,
+    "longitude": -76.981651,
+    "city": "Waldorf",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20606,
+    "latitude": 38.247149,
+    "longitude": -76.748088,
+    "city": "Abell",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20607,
+    "latitude": 38.666071,
+    "longitude": -76.998396,
+    "city": "Accokeek",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20608,
+    "latitude": 38.588843,
+    "longitude": -76.712639,
+    "city": "Aquasco",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20609,
+    "latitude": 38.300217,
+    "longitude": -76.743445,
+    "city": "Avenue",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20610,
+    "latitude": 38.444727,
+    "longitude": -76.533026,
+    "city": "Barstow",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20611,
+    "latitude": 38.454919,
+    "longitude": -76.980364,
+    "city": "Bel Alton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20612,
+    "latitude": 38.508689,
+    "longitude": -76.687344,
+    "city": "Benedict",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20613,
+    "latitude": 38.658807,
+    "longitude": -76.824293,
+    "city": "Brandywine",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20615,
+    "latitude": 38.493984,
+    "longitude": -76.567469,
+    "city": "Broomes Island",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20616,
+    "latitude": 38.636227,
+    "longitude": -77.084649,
+    "city": "Bryans Road",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20617,
+    "latitude": 38.536256,
+    "longitude": -76.853752,
+    "city": "Bryantown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20618,
+    "latitude": 38.309507,
+    "longitude": -76.763069,
+    "city": "Bushwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20619,
+    "latitude": 38.324994,
+    "longitude": -76.637383,
+    "city": "California",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20620,
+    "latitude": 38.347927,
+    "longitude": -76.621613,
+    "city": "Callaway",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20621,
+    "latitude": 38.350987,
+    "longitude": -76.783288,
+    "city": "Chaptico",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20622,
+    "latitude": 38.484421,
+    "longitude": -76.754943,
+    "city": "Charlotte Hall",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20623,
+    "latitude": 38.745514,
+    "longitude": -76.840572,
+    "city": "Cheltenham",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20624,
+    "latitude": 38.329424,
+    "longitude": -76.730799,
+    "city": "Clements",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20625,
+    "latitude": 38.262037,
+    "longitude": -76.85019,
+    "city": "Cobb Island",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20626,
+    "latitude": 38.236645,
+    "longitude": -76.762227,
+    "city": "Coltons Point",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20627,
+    "latitude": 38.276828,
+    "longitude": -76.703971,
+    "city": "Compton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20628,
+    "latitude": 38.148114,
+    "longitude": -76.359651,
+    "city": "Dameron",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20629,
+    "latitude": 38.376974,
+    "longitude": -76.434476,
+    "city": "Dowell",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20630,
+    "latitude": 38.178948,
+    "longitude": -76.47451,
+    "city": "Drayden",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20632,
+    "latitude": 38.421762,
+    "longitude": -76.948718,
+    "city": "Faulkner",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20634,
+    "latitude": 38.242387,
+    "longitude": -76.501513,
+    "city": "Great Mills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20635,
+    "latitude": 38.312112,
+    "longitude": -76.607676,
+    "city": "Helen",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20636,
+    "latitude": 38.342437,
+    "longitude": -76.569163,
+    "city": "Hollywood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20637,
+    "latitude": 38.520572,
+    "longitude": -76.781313,
+    "city": "Hughesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20639,
+    "latitude": 38.519368,
+    "longitude": -76.546326,
+    "city": "Huntingtown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20640,
+    "latitude": 38.453999,
+    "longitude": -77.052819,
+    "city": "Indian Head",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20643,
+    "latitude": 38.503876,
+    "longitude": -77.148283,
+    "city": "Ironsides",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20645,
+    "latitude": 38.298477,
+    "longitude": -76.88491,
+    "city": "Issue",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20646,
+    "latitude": 38.513875,
+    "longitude": -77.01034,
+    "city": "La Plata",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20650,
+    "latitude": 38.278757,
+    "longitude": -76.655917,
+    "city": "Leonardtown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20653,
+    "latitude": 38.232909,
+    "longitude": -76.430853,
+    "city": "Lexington Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20656,
+    "latitude": 38.359274,
+    "longitude": -76.683325,
+    "city": "Loveville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20657,
+    "latitude": 38.49343,
+    "longitude": -76.459768,
+    "city": "Lusby",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20658,
+    "latitude": 38.563331,
+    "longitude": -77.159621,
+    "city": "Marbury",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20659,
+    "latitude": 38.279211,
+    "longitude": -76.608406,
+    "city": "Mechanicsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20660,
+    "latitude": 38.363994,
+    "longitude": -76.694102,
+    "city": "Morganza",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20661,
+    "latitude": 38.343591,
+    "longitude": -76.884559,
+    "city": "Mount Victoria",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20662,
+    "latitude": 38.430568,
+    "longitude": -77.192545,
+    "city": "Nanjemoy",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20664,
+    "latitude": 38.364718,
+    "longitude": -76.917398,
+    "city": "Newburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20667,
+    "latitude": 38.216529,
+    "longitude": -76.433445,
+    "city": "Park Hall",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20670,
+    "latitude": 38.281094,
+    "longitude": -76.420952,
+    "city": "Patuxent River",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20674,
+    "latitude": 38.16863,
+    "longitude": -76.498367,
+    "city": "Piney Point",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20675,
+    "latitude": 38.576096,
+    "longitude": -77.015916,
+    "city": "Pomfret",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20676,
+    "latitude": 38.560231,
+    "longitude": -76.531761,
+    "city": "Port Republic",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20677,
+    "latitude": 38.504699,
+    "longitude": -77.037862,
+    "city": "Port Tobacco",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20678,
+    "latitude": 38.511282,
+    "longitude": -76.528578,
+    "city": "Prince Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20680,
+    "latitude": 38.122181,
+    "longitude": -76.369412,
+    "city": "Ridge",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20682,
+    "latitude": 38.283551,
+    "longitude": -76.848093,
+    "city": "Rock Point",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20684,
+    "latitude": 38.141377,
+    "longitude": -76.38535,
+    "city": "Saint Inigoes",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20685,
+    "latitude": 38.440484,
+    "longitude": -76.51736,
+    "city": "Saint Leonard",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20686,
+    "latitude": 38.188796,
+    "longitude": -76.420738,
+    "city": "Saint Marys City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20687,
+    "latitude": 38.078898,
+    "longitude": -76.351659,
+    "city": "Scotland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20688,
+    "latitude": 38.37741,
+    "longitude": -76.440937,
+    "city": "Solomons",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20689,
+    "latitude": 38.556448,
+    "longitude": -76.541436,
+    "city": "Sunderland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20690,
+    "latitude": 38.160744,
+    "longitude": -76.525504,
+    "city": "Tall Timbers",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20692,
+    "latitude": 38.192688,
+    "longitude": -76.501604,
+    "city": "Valley Lee",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Saint Marys"
+  },
+  {
+    "zip_code": 20693,
+    "latitude": 38.476246,
+    "longitude": -77.084009,
+    "city": "Welcome",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20695,
+    "latitude": 38.59744,
+    "longitude": -76.990278,
+    "city": "White Plains",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Charles"
+  },
+  {
+    "zip_code": 20697,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Southern Md Facility",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20701,
+    "latitude": 39.1332,
+    "longitude": -76.798843,
+    "city": "Annapolis Junction",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20703,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Lanham",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20704,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Beltsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20705,
+    "latitude": 39.044858,
+    "longitude": -76.886795,
+    "city": "Beltsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20706,
+    "latitude": 38.96076,
+    "longitude": -76.856135,
+    "city": "Lanham",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20707,
+    "latitude": 39.093136,
+    "longitude": -76.881945,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20708,
+    "latitude": 39.049859,
+    "longitude": -76.834493,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20709,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20710,
+    "latitude": 38.901211,
+    "longitude": -76.925943,
+    "city": "Bladensburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20711,
+    "latitude": 38.802263,
+    "longitude": -76.645735,
+    "city": "Lothian",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20712,
+    "latitude": 38.94266,
+    "longitude": -76.967057,
+    "city": "Mount Rainier",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20714,
+    "latitude": 38.610496,
+    "longitude": -76.595901,
+    "city": "North Beach",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20715,
+    "latitude": 38.982612,
+    "longitude": -76.74379,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20716,
+    "latitude": 38.926311,
+    "longitude": -76.709789,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20717,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20718,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20719,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20720,
+    "latitude": 38.98851,
+    "longitude": -76.79098,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20721,
+    "latitude": 38.919357,
+    "longitude": -76.787141,
+    "city": "Bowie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20722,
+    "latitude": 38.886849,
+    "longitude": -76.865764,
+    "city": "Brentwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20723,
+    "latitude": 39.13652,
+    "longitude": -76.868729,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20724,
+    "latitude": 39.098008,
+    "longitude": -76.804443,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20725,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20726,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Laurel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20731,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Capitol Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20732,
+    "latitude": 38.565841,
+    "longitude": -76.526169,
+    "city": "Chesapeake Beach",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20733,
+    "latitude": 38.921313,
+    "longitude": -76.532569,
+    "city": "Churchton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20735,
+    "latitude": 38.739765,
+    "longitude": -76.912096,
+    "city": "Clinton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20736,
+    "latitude": 38.548775,
+    "longitude": -76.562876,
+    "city": "Owings",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20737,
+    "latitude": 38.963206,
+    "longitude": -76.917795,
+    "city": "Riverdale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20738,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Riverdale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20740,
+    "latitude": 38.979495,
+    "longitude": -76.895852,
+    "city": "College Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20741,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "College Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20742,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "College Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20743,
+    "latitude": 38.889711,
+    "longitude": -76.892544,
+    "city": "Capitol Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20744,
+    "latitude": 38.757114,
+    "longitude": -76.977596,
+    "city": "Fort Washington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20745,
+    "latitude": 38.814362,
+    "longitude": -76.957746,
+    "city": "Oxon Hill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20746,
+    "latitude": 38.834912,
+    "longitude": -76.912745,
+    "city": "Suitland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20747,
+    "latitude": 38.851262,
+    "longitude": -76.885744,
+    "city": "District Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20748,
+    "latitude": 38.817263,
+    "longitude": -76.935795,
+    "city": "Temple Hills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20749,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Fort Washington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20750,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Oxon Hill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20751,
+    "latitude": 38.960712,
+    "longitude": -76.621708,
+    "city": "Deale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20752,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Suitland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20753,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "District Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20754,
+    "latitude": 38.604072,
+    "longitude": -76.604364,
+    "city": "Dunkirk",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Calvert"
+  },
+  {
+    "zip_code": 20755,
+    "latitude": 39.154307,
+    "longitude": -76.69119,
+    "city": "Fort George G Meade",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20757,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Temple Hills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20758,
+    "latitude": 38.736079,
+    "longitude": -76.583547,
+    "city": "Friendship",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20759,
+    "latitude": 39.160806,
+    "longitude": -76.927881,
+    "city": "Fulton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20762,
+    "latitude": 38.806207,
+    "longitude": -76.875551,
+    "city": "Andrews Air Force Base",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20763,
+    "latitude": 39.136189,
+    "longitude": -76.815044,
+    "city": "Savage",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20764,
+    "latitude": 38.965727,
+    "longitude": -76.589086,
+    "city": "Shady Side",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20765,
+    "latitude": 38.974512,
+    "longitude": -76.545083,
+    "city": "Galesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20768,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Greenbelt",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20769,
+    "latitude": 38.98346,
+    "longitude": -76.811392,
+    "city": "Glenn Dale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20770,
+    "latitude": 38.995909,
+    "longitude": -76.880966,
+    "city": "Greenbelt",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20771,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Greenbelt",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20772,
+    "latitude": 38.816171,
+    "longitude": -76.786093,
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20773,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20774,
+    "latitude": 38.868212,
+    "longitude": -76.815591,
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20775,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20776,
+    "latitude": 38.962992,
+    "longitude": -76.564785,
+    "city": "Harwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20777,
+    "latitude": 39.173059,
+    "longitude": -76.966718,
+    "city": "Highland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20778,
+    "latitude": 39.002411,
+    "longitude": -76.563885,
+    "city": "West River",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20779,
+    "latitude": 38.942878,
+    "longitude": -76.558783,
+    "city": "Tracys Landing",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 20781,
+    "latitude": 38.94161,
+    "longitude": -76.937446,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20782,
+    "latitude": 38.912211,
+    "longitude": -76.967247,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20783,
+    "latitude": 39.000509,
+    "longitude": -76.972297,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20784,
+    "latitude": 38.95131,
+    "longitude": -76.895795,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20785,
+    "latitude": 38.922261,
+    "longitude": -76.875494,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20787,
+    "latitude": 38.98707,
+    "longitude": -76.982405,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20788,
+    "latitude": 38.969434,
+    "longitude": -76.950913,
+    "city": "Hyattsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20790,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Capitol Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20791,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Capitol Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20792,
+    "latitude": 38.903377,
+    "longitude": -76.837204,
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20794,
+    "latitude": 39.155266,
+    "longitude": -76.813394,
+    "city": "Jessup",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 20797,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Southern Md Facility",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20799,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Capitol Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Prince Georges"
+  },
+  {
+    "zip_code": 20812,
+    "latitude": 38.96851,
+    "longitude": -77.140801,
+    "city": "Glen Echo",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20813,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20814,
+    "latitude": 39.00452,
+    "longitude": -77.1046,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20815,
+    "latitude": 38.983759,
+    "longitude": -77.079449,
+    "city": "Chevy Chase",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20816,
+    "latitude": 38.955907,
+    "longitude": -77.1165,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20817,
+    "latitude": 38.989586,
+    "longitude": -77.153801,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20818,
+    "latitude": 39.128407,
+    "longitude": -77.180053,
+    "city": "Cabin John",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20824,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20825,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Chevy Chase",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20827,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20830,
+    "latitude": 39.15522,
+    "longitude": -77.066745,
+    "city": "Olney",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20832,
+    "latitude": 39.150364,
+    "longitude": -77.077651,
+    "city": "Olney",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20833,
+    "latitude": 39.204341,
+    "longitude": -77.05055,
+    "city": "Brookeville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20837,
+    "latitude": 39.123705,
+    "longitude": -77.403211,
+    "city": "Poolesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20838,
+    "latitude": 39.228424,
+    "longitude": -77.37097,
+    "city": "Barnesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20839,
+    "latitude": 39.17877,
+    "longitude": -77.419605,
+    "city": "Beallsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20841,
+    "latitude": 39.184675,
+    "longitude": -77.328764,
+    "city": "Boyds",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20842,
+    "latitude": 39.191093,
+    "longitude": -77.421929,
+    "city": "Dickerson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20847,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20848,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20849,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20850,
+    "latitude": 39.089557,
+    "longitude": -77.184127,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20851,
+    "latitude": 39.077858,
+    "longitude": -77.125751,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20852,
+    "latitude": 39.052158,
+    "longitude": -77.121096,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20853,
+    "latitude": 39.107357,
+    "longitude": -77.0996,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20854,
+    "latitude": 39.029839,
+    "longitude": -77.234792,
+    "city": "Potomac",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20855,
+    "latitude": 39.142857,
+    "longitude": -77.138145,
+    "city": "Derwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20857,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Rockville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20859,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Potomac",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20860,
+    "latitude": 39.142424,
+    "longitude": -77.044614,
+    "city": "Sandy Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20861,
+    "latitude": 39.151468,
+    "longitude": -76.994498,
+    "city": "Ashton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20862,
+    "latitude": 39.175506,
+    "longitude": -77.020626,
+    "city": "Brinklow",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20866,
+    "latitude": 39.105644,
+    "longitude": -76.935861,
+    "city": "Burtonsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20868,
+    "latitude": 39.122262,
+    "longitude": -76.972157,
+    "city": "Spencerville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20871,
+    "latitude": 39.207775,
+    "longitude": -77.259816,
+    "city": "Clarksburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20872,
+    "latitude": 39.285477,
+    "longitude": -77.215203,
+    "city": "Damascus",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20874,
+    "latitude": 39.135512,
+    "longitude": -77.282223,
+    "city": "Germantown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20875,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Germantown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20876,
+    "latitude": 39.210218,
+    "longitude": -77.239729,
+    "city": "Germantown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20877,
+    "latitude": 39.139336,
+    "longitude": -77.182953,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20878,
+    "latitude": 39.091857,
+    "longitude": -77.198452,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20879,
+    "latitude": 39.173,
+    "longitude": -77.185542,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20880,
+    "latitude": 39.138815,
+    "longitude": -77.172591,
+    "city": "Washington Grove",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20882,
+    "latitude": 39.233512,
+    "longitude": -77.145781,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20883,
+    "latitude": 39.121873,
+    "longitude": -77.233664,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20884,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20885,
+    "latitude": 39.187421,
+    "longitude": -77.202798,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20886,
+    "latitude": 39.175703,
+    "longitude": -77.18725,
+    "city": "Montgomery Village",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20889,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20891,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Kensington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20892,
+    "latitude": 39.002375,
+    "longitude": -77.10341,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20894,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Bethesda",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20895,
+    "latitude": 39.09538,
+    "longitude": -77.111555,
+    "city": "Kensington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20896,
+    "latitude": 39.036496,
+    "longitude": -77.0931,
+    "city": "Garrett Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20897,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Suburb Maryland Fac",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20898,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20899,
+    "latitude": 39.140324,
+    "longitude": -77.221984,
+    "city": "Gaithersburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20901,
+    "latitude": 39.036289,
+    "longitude": -77.010948,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20902,
+    "latitude": 39.039974,
+    "longitude": -77.044449,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20903,
+    "latitude": 39.015209,
+    "longitude": -76.980597,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20904,
+    "latitude": 39.066844,
+    "longitude": -76.996866,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20905,
+    "latitude": 39.114753,
+    "longitude": -77.00587,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20906,
+    "latitude": 39.083978,
+    "longitude": -77.061278,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20907,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20908,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20910,
+    "latitude": 39.003109,
+    "longitude": -77.029648,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20911,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20912,
+    "latitude": 38.98236,
+    "longitude": -77.005798,
+    "city": "Takoma Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20913,
+    "latitude": 38.833563,
+    "longitude": -76.877743,
+    "city": "Takoma Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20914,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20915,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20916,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20918,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 20997,
+    "latitude": 39.143979,
+    "longitude": -77.207617,
+    "city": "Silver Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 21001,
+    "latitude": 39.499909,
+    "longitude": -76.231177,
+    "city": "Aberdeen",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21005,
+    "latitude": 39.477062,
+    "longitude": -76.120824,
+    "city": "Aberdeen Proving Ground",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21009,
+    "latitude": 39.472579,
+    "longitude": -76.277279,
+    "city": "Abingdon",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21010,
+    "latitude": 39.380158,
+    "longitude": -76.295468,
+    "city": "Gunpowder",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21012,
+    "latitude": 39.031461,
+    "longitude": -76.623203,
+    "city": "Arnold",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21013,
+    "latitude": 39.496406,
+    "longitude": -76.486624,
+    "city": "Baldwin",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21014,
+    "latitude": 39.547557,
+    "longitude": -76.321984,
+    "city": "Bel Air",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21015,
+    "latitude": 39.551757,
+    "longitude": -76.298713,
+    "city": "Bel Air",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21017,
+    "latitude": 39.47366,
+    "longitude": -76.238835,
+    "city": "Belcamp",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21018,
+    "latitude": 39.509276,
+    "longitude": -76.385083,
+    "city": "Benson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21020,
+    "latitude": 39.521276,
+    "longitude": -76.804699,
+    "city": "Boring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21022,
+    "latitude": 39.397861,
+    "longitude": -76.671742,
+    "city": "Brooklandville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21023,
+    "latitude": 39.532955,
+    "longitude": -76.743196,
+    "city": "Butler",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21027,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Chase",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21028,
+    "latitude": 39.563172,
+    "longitude": -76.236427,
+    "city": "Churchville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21029,
+    "latitude": 39.212456,
+    "longitude": -76.951498,
+    "city": "Clarksville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21030,
+    "latitude": 39.491227,
+    "longitude": -76.664077,
+    "city": "Cockeysville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21031,
+    "latitude": 39.480493,
+    "longitude": -76.655257,
+    "city": "Hunt Valley",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21032,
+    "latitude": 39.01811,
+    "longitude": -76.588272,
+    "city": "Crownsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21034,
+    "latitude": 39.646205,
+    "longitude": -76.226377,
+    "city": "Darlington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21035,
+    "latitude": 39.04296,
+    "longitude": -76.62863,
+    "city": "Davidsonville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21036,
+    "latitude": 39.240155,
+    "longitude": -77.00375,
+    "city": "Dayton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21037,
+    "latitude": 38.975128,
+    "longitude": -76.623684,
+    "city": "Edgewater",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21040,
+    "latitude": 39.434799,
+    "longitude": -76.293579,
+    "city": "Edgewood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21041,
+    "latitude": 39.236405,
+    "longitude": -76.941902,
+    "city": "Ellicott City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21042,
+    "latitude": 39.261897,
+    "longitude": -76.897247,
+    "city": "Ellicott City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21043,
+    "latitude": 39.254833,
+    "longitude": -76.800124,
+    "city": "Ellicott City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21044,
+    "latitude": 39.206132,
+    "longitude": -76.887905,
+    "city": "Columbia",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21045,
+    "latitude": 39.207806,
+    "longitude": -76.825475,
+    "city": "Columbia",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21046,
+    "latitude": 39.175406,
+    "longitude": -76.834945,
+    "city": "Columbia",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21047,
+    "latitude": 39.531206,
+    "longitude": -76.439035,
+    "city": "Fallston",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21048,
+    "latitude": 39.499102,
+    "longitude": -76.910108,
+    "city": "Finksburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21050,
+    "latitude": 39.587155,
+    "longitude": -76.392733,
+    "city": "Forest Hill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21051,
+    "latitude": 39.47314,
+    "longitude": -76.448385,
+    "city": "Fork",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21052,
+    "latitude": 39.206998,
+    "longitude": -76.445599,
+    "city": "Fort Howard",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21053,
+    "latitude": 39.687103,
+    "longitude": -76.717644,
+    "city": "Freeland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21054,
+    "latitude": 39.048359,
+    "longitude": -76.631238,
+    "city": "Gambrills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21055,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Garrison",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21056,
+    "latitude": 39.086064,
+    "longitude": -76.545474,
+    "city": "Gibson Island",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21057,
+    "latitude": 39.451006,
+    "longitude": -76.501186,
+    "city": "Glen Arm",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21060,
+    "latitude": 39.170158,
+    "longitude": -76.579836,
+    "city": "Glen Burnie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21061,
+    "latitude": 38.967943,
+    "longitude": -76.615637,
+    "city": "Glen Burnie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21062,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Glen Burnie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21071,
+    "latitude": 39.515748,
+    "longitude": -76.766097,
+    "city": "Glyndon",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21074,
+    "latitude": 39.614552,
+    "longitude": -76.864427,
+    "city": "Hampstead",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21075,
+    "latitude": 39.205756,
+    "longitude": -76.753093,
+    "city": "Elkridge",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21076,
+    "latitude": 39.057694,
+    "longitude": -76.615557,
+    "city": "Hanover",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21077,
+    "latitude": 38.947102,
+    "longitude": -76.629277,
+    "city": "Harmans",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21078,
+    "latitude": 39.560095,
+    "longitude": -76.15517,
+    "city": "Havre De Grace",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21080,
+    "latitude": 39.534703,
+    "longitude": -77.049302,
+    "city": "Henryton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21082,
+    "latitude": 39.481685,
+    "longitude": -76.471736,
+    "city": "Hydes",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21084,
+    "latitude": 39.552706,
+    "longitude": -76.419734,
+    "city": "Jarrettsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21085,
+    "latitude": 39.449157,
+    "longitude": -76.351881,
+    "city": "Joppa",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21087,
+    "latitude": 39.445257,
+    "longitude": -76.421783,
+    "city": "Kingsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21088,
+    "latitude": 39.534703,
+    "longitude": -77.049302,
+    "city": "Lineboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21090,
+    "latitude": 39.068309,
+    "longitude": -76.631743,
+    "city": "Linthicum Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21092,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Long Green",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21093,
+    "latitude": 39.433206,
+    "longitude": -76.654593,
+    "city": "Lutherville Timonium",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21094,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Lutherville Timonium",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21098,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Hanover",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21102,
+    "latitude": 39.556164,
+    "longitude": -76.870849,
+    "city": "Manchester",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21104,
+    "latitude": 39.378104,
+    "longitude": -76.916267,
+    "city": "Marriottsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21105,
+    "latitude": 39.711379,
+    "longitude": -76.659492,
+    "city": "Maryland Line",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21106,
+    "latitude": 38.971475,
+    "longitude": -76.580934,
+    "city": "Mayo",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21108,
+    "latitude": 38.986961,
+    "longitude": -76.582479,
+    "city": "Millersville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21111,
+    "latitude": 39.566189,
+    "longitude": -76.597891,
+    "city": "Monkton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21113,
+    "latitude": 38.975412,
+    "longitude": -76.586886,
+    "city": "Odenton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21114,
+    "latitude": 39.06436,
+    "longitude": -76.622577,
+    "city": "Crofton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21117,
+    "latitude": 39.429055,
+    "longitude": -76.787696,
+    "city": "Owings Mills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21120,
+    "latitude": 39.642203,
+    "longitude": -76.673693,
+    "city": "Parkton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21122,
+    "latitude": 38.976813,
+    "longitude": -76.616185,
+    "city": "Pasadena",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21123,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Pasadena",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21128,
+    "latitude": 39.404757,
+    "longitude": -76.450084,
+    "city": "Perry Hall",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21130,
+    "latitude": 39.471559,
+    "longitude": -76.211676,
+    "city": "Perryman",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21131,
+    "latitude": 39.483255,
+    "longitude": -76.577619,
+    "city": "Phoenix",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21132,
+    "latitude": 39.692854,
+    "longitude": -76.421834,
+    "city": "Pylesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21133,
+    "latitude": 39.377872,
+    "longitude": -76.816675,
+    "city": "Randallstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21136,
+    "latitude": 39.487615,
+    "longitude": -76.796347,
+    "city": "Reisterstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21139,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Riderwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21140,
+    "latitude": 39.031943,
+    "longitude": -76.625199,
+    "city": "Riva",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21144,
+    "latitude": 38.983971,
+    "longitude": -76.623121,
+    "city": "Severn",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21146,
+    "latitude": 38.951199,
+    "longitude": -76.603722,
+    "city": "Severna Park",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21150,
+    "latitude": 39.236405,
+    "longitude": -76.941902,
+    "city": "Simpsonville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21152,
+    "latitude": 39.526441,
+    "longitude": -76.715587,
+    "city": "Sparks Glencoe",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21153,
+    "latitude": 39.412905,
+    "longitude": -76.730345,
+    "city": "Stevenson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21154,
+    "latitude": 39.657355,
+    "longitude": -76.371332,
+    "city": "Street",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21155,
+    "latitude": 39.567574,
+    "longitude": -76.797213,
+    "city": "Upperco",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21156,
+    "latitude": 39.461038,
+    "longitude": -76.583163,
+    "city": "Upper Falls",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21157,
+    "latitude": 39.564201,
+    "longitude": -76.980701,
+    "city": "Westminster",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21158,
+    "latitude": 39.606981,
+    "longitude": -77.029403,
+    "city": "Westminster",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21160,
+    "latitude": 39.703155,
+    "longitude": -76.330641,
+    "city": "Whiteford",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21161,
+    "latitude": 39.658104,
+    "longitude": -76.527937,
+    "city": "White Hall",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Harford"
+  },
+  {
+    "zip_code": 21162,
+    "latitude": 39.389457,
+    "longitude": -76.411976,
+    "city": "White Marsh",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21163,
+    "latitude": 39.349834,
+    "longitude": -76.845587,
+    "city": "Woodstock",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21201,
+    "latitude": 39.296536,
+    "longitude": -76.623489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21202,
+    "latitude": 39.295907,
+    "longitude": -76.608438,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21203,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21204,
+    "latitude": 39.407156,
+    "longitude": -76.60379,
+    "city": "Towson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21205,
+    "latitude": 39.302757,
+    "longitude": -76.567987,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21206,
+    "latitude": 39.336857,
+    "longitude": -76.553237,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21207,
+    "latitude": 39.325605,
+    "longitude": -76.736594,
+    "city": "Gwynn Oak",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21208,
+    "latitude": 39.385156,
+    "longitude": -76.727036,
+    "city": "Pikesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21209,
+    "latitude": 39.354256,
+    "longitude": -76.667892,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21210,
+    "latitude": 39.352356,
+    "longitude": -76.63329,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21211,
+    "latitude": 39.327889,
+    "longitude": -76.63899,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21212,
+    "latitude": 39.356206,
+    "longitude": -76.610989,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21213,
+    "latitude": 39.306606,
+    "longitude": -76.603338,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21214,
+    "latitude": 39.350006,
+    "longitude": -76.562187,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21215,
+    "latitude": 39.343306,
+    "longitude": -76.681192,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21216,
+    "latitude": 39.310756,
+    "longitude": -76.674792,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21217,
+    "latitude": 39.308606,
+    "longitude": -76.63749,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21218,
+    "latitude": 39.328456,
+    "longitude": -76.599139,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21219,
+    "latitude": 39.229611,
+    "longitude": -76.445532,
+    "city": "Sparrows Point",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21220,
+    "latitude": 39.344057,
+    "longitude": -76.505086,
+    "city": "Middle River",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21221,
+    "latitude": 39.296007,
+    "longitude": -76.559787,
+    "city": "Essex",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21222,
+    "latitude": 39.325991,
+    "longitude": -76.451733,
+    "city": "Dundalk",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21223,
+    "latitude": 39.279506,
+    "longitude": -76.65014,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21224,
+    "latitude": 39.279207,
+    "longitude": -76.557237,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21225,
+    "latitude": 39.018973,
+    "longitude": -76.616437,
+    "city": "Brooklyn",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21226,
+    "latitude": 39.06871,
+    "longitude": -76.584137,
+    "city": "Curtis Bay",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21227,
+    "latitude": 39.241606,
+    "longitude": -76.677291,
+    "city": "Halethorpe",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21228,
+    "latitude": 39.274156,
+    "longitude": -76.631074,
+    "city": "Catonsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21229,
+    "latitude": 39.286613,
+    "longitude": -76.65284,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21230,
+    "latitude": 39.264548,
+    "longitude": -76.622439,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21231,
+    "latitude": 39.288757,
+    "longitude": -76.592238,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21233,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21234,
+    "latitude": 39.413106,
+    "longitude": -76.530044,
+    "city": "Parkville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21235,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21236,
+    "latitude": 39.392107,
+    "longitude": -76.489277,
+    "city": "Nottingham",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21237,
+    "latitude": 39.339957,
+    "longitude": -76.488035,
+    "city": "Rosedale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21239,
+    "latitude": 39.356356,
+    "longitude": -76.587588,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21240,
+    "latitude": 39.142793,
+    "longitude": -76.651589,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21241,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21244,
+    "latitude": 39.333105,
+    "longitude": -76.784896,
+    "city": "Windsor Mill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21250,
+    "latitude": 39.258226,
+    "longitude": -76.713149,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21251,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21252,
+    "latitude": 39.388799,
+    "longitude": -76.613325,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21263,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21264,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21265,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21268,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21270,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21273,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21274,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21275,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21278,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21279,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21280,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21281,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21282,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21283,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21284,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21285,
+    "latitude": 39.438964,
+    "longitude": -76.592139,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21286,
+    "latitude": 39.414306,
+    "longitude": -76.576089,
+    "city": "Towson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore"
+  },
+  {
+    "zip_code": 21287,
+    "latitude": 39.297457,
+    "longitude": -76.592738,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21288,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21289,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21290,
+    "latitude": 39.293256,
+    "longitude": -76.623839,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21297,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21298,
+    "latitude": 39.284707,
+    "longitude": -76.620489,
+    "city": "Baltimore",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Baltimore City"
+  },
+  {
+    "zip_code": 21401,
+    "latitude": 38.967311,
+    "longitude": -76.610143,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21402,
+    "latitude": 39.04811,
+    "longitude": -76.452032,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21403,
+    "latitude": 39.007361,
+    "longitude": -76.584637,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21404,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21405,
+    "latitude": 38.992124,
+    "longitude": -76.506883,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21411,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21412,
+    "latitude": 38.974203,
+    "longitude": -76.594942,
+    "city": "Annapolis",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Anne Arundel"
+  },
+  {
+    "zip_code": 21501,
+    "latitude": 39.580691,
+    "longitude": -78.690593,
+    "city": "Cumberland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21502,
+    "latitude": 39.59915,
+    "longitude": -78.844425,
+    "city": "Cumberland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21503,
+    "latitude": 39.580691,
+    "longitude": -78.690593,
+    "city": "Cumberland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21504,
+    "latitude": 39.580691,
+    "longitude": -78.690593,
+    "city": "Cumberland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21505,
+    "latitude": 39.594043,
+    "longitude": -78.843432,
+    "city": "Cumberland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21520,
+    "latitude": 39.58935,
+    "longitude": -79.230969,
+    "city": "Accident",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21521,
+    "latitude": 39.536798,
+    "longitude": -79.009008,
+    "city": "Barton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21522,
+    "latitude": 39.601664,
+    "longitude": -79.233691,
+    "city": "Bittinger",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21523,
+    "latitude": 39.486109,
+    "longitude": -79.08297,
+    "city": "Bloomington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21524,
+    "latitude": 39.69668,
+    "longitude": -78.803067,
+    "city": "Corriganville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21528,
+    "latitude": 39.652837,
+    "longitude": -78.901395,
+    "city": "Eckhart Mines",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21529,
+    "latitude": 39.708261,
+    "longitude": -78.777446,
+    "city": "Ellerslie",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21530,
+    "latitude": 39.679418,
+    "longitude": -78.524164,
+    "city": "Flintstone",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21531,
+    "latitude": 39.637098,
+    "longitude": -79.257117,
+    "city": "Friendsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21532,
+    "latitude": 39.64206,
+    "longitude": -78.912502,
+    "city": "Frostburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21536,
+    "latitude": 39.655141,
+    "longitude": -79.124143,
+    "city": "Grantsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21538,
+    "latitude": 39.416917,
+    "longitude": -79.222202,
+    "city": "Kitzmiller",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21539,
+    "latitude": 39.571706,
+    "longitude": -78.934521,
+    "city": "Lonaconing",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21540,
+    "latitude": 39.475381,
+    "longitude": -79.058451,
+    "city": "Luke",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21541,
+    "latitude": 39.565589,
+    "longitude": -79.382332,
+    "city": "Mc Henry",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21542,
+    "latitude": 39.595113,
+    "longitude": -78.943082,
+    "city": "Midland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21543,
+    "latitude": 39.633866,
+    "longitude": -78.960403,
+    "city": "Midlothian",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21545,
+    "latitude": 39.695649,
+    "longitude": -78.872465,
+    "city": "Mount Savage",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21550,
+    "latitude": 39.43392,
+    "longitude": -79.316683,
+    "city": "Oakland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21555,
+    "latitude": 39.596645,
+    "longitude": -78.572564,
+    "city": "Oldtown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21556,
+    "latitude": 39.572452,
+    "longitude": -78.843962,
+    "city": "Pinto",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21557,
+    "latitude": 39.50582,
+    "longitude": -78.921162,
+    "city": "Rawlings",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21560,
+    "latitude": 39.601008,
+    "longitude": -78.687137,
+    "city": "Spring Gap",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21561,
+    "latitude": 39.538568,
+    "longitude": -79.190791,
+    "city": "Swanton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Garrett"
+  },
+  {
+    "zip_code": 21562,
+    "latitude": 39.490547,
+    "longitude": -79.013989,
+    "city": "Westernport",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21601,
+    "latitude": 38.800714,
+    "longitude": -76.051486,
+    "city": "Easton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21606,
+    "latitude": 38.758525,
+    "longitude": -76.180166,
+    "city": "Easton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21607,
+    "latitude": 39.073391,
+    "longitude": -76.060665,
+    "city": "Barclay",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21609,
+    "latitude": 38.740562,
+    "longitude": -75.958683,
+    "city": "Bethlehem",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21610,
+    "latitude": 39.366812,
+    "longitude": -76.067079,
+    "city": "Betterton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21612,
+    "latitude": 38.74955,
+    "longitude": -76.273704,
+    "city": "Bozman",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21613,
+    "latitude": 38.479813,
+    "longitude": -76.079864,
+    "city": "Cambridge",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21617,
+    "latitude": 39.084003,
+    "longitude": -76.091375,
+    "city": "Centreville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21619,
+    "latitude": 38.946034,
+    "longitude": -76.279172,
+    "city": "Chester",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21620,
+    "latitude": 39.235988,
+    "longitude": -76.059316,
+    "city": "Chestertown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21622,
+    "latitude": 38.415211,
+    "longitude": -76.191021,
+    "city": "Church Creek",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21623,
+    "latitude": 39.1305,
+    "longitude": -75.961404,
+    "city": "Church Hill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21624,
+    "latitude": 38.836766,
+    "longitude": -76.27137,
+    "city": "Claiborne",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21625,
+    "latitude": 38.869275,
+    "longitude": -76.000119,
+    "city": "Cordova",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21626,
+    "latitude": 38.323604,
+    "longitude": -76.097337,
+    "city": "Crapo",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21627,
+    "latitude": 38.242608,
+    "longitude": -76.053064,
+    "city": "Crocheron",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21628,
+    "latitude": 39.231771,
+    "longitude": -75.929797,
+    "city": "Crumpton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21629,
+    "latitude": 38.859523,
+    "longitude": -75.835702,
+    "city": "Denton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21631,
+    "latitude": 38.579447,
+    "longitude": -75.939691,
+    "city": "East New Market",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21632,
+    "latitude": 38.823318,
+    "longitude": -75.825197,
+    "city": "Federalsburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21634,
+    "latitude": 38.29868,
+    "longitude": -76.203532,
+    "city": "Fishing Creek",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21635,
+    "latitude": 39.320381,
+    "longitude": -75.836031,
+    "city": "Galena",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21636,
+    "latitude": 39.022245,
+    "longitude": -75.809462,
+    "city": "Goldsboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21638,
+    "latitude": 39.019049,
+    "longitude": -76.115897,
+    "city": "Grasonville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21639,
+    "latitude": 38.968592,
+    "longitude": -75.790732,
+    "city": "Greensboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21640,
+    "latitude": 39.081351,
+    "longitude": -75.811781,
+    "city": "Henderson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21641,
+    "latitude": 38.920588,
+    "longitude": -75.93877,
+    "city": "Hillsboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21643,
+    "latitude": 38.643824,
+    "longitude": -75.863003,
+    "city": "Hurlock",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21644,
+    "latitude": 39.118226,
+    "longitude": -75.876881,
+    "city": "Ingleside",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21645,
+    "latitude": 39.313679,
+    "longitude": -75.96152,
+    "city": "Kennedyville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21647,
+    "latitude": 38.808497,
+    "longitude": -76.287709,
+    "city": "Mcdaniel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21648,
+    "latitude": 38.478205,
+    "longitude": -76.241202,
+    "city": "Madison",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21649,
+    "latitude": 39.106088,
+    "longitude": -75.79087,
+    "city": "Marydel",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21650,
+    "latitude": 39.308228,
+    "longitude": -75.812769,
+    "city": "Massey",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21651,
+    "latitude": 39.274314,
+    "longitude": -75.895115,
+    "city": "Millington",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21652,
+    "latitude": 38.795102,
+    "longitude": -76.152762,
+    "city": "Neavitt",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21653,
+    "latitude": 38.751834,
+    "longitude": -76.178041,
+    "city": "Newcomb",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21654,
+    "latitude": 38.710783,
+    "longitude": -76.125184,
+    "city": "Oxford",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21655,
+    "latitude": 38.752146,
+    "longitude": -75.90765,
+    "city": "Preston",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21656,
+    "latitude": 39.034637,
+    "longitude": -76.092127,
+    "city": "Price",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21657,
+    "latitude": 38.975882,
+    "longitude": -75.975322,
+    "city": "Queen Anne",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21658,
+    "latitude": 39.00255,
+    "longitude": -76.142374,
+    "city": "Queenstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21659,
+    "latitude": 38.561727,
+    "longitude": -75.80465,
+    "city": "Rhodesdale",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21660,
+    "latitude": 38.874255,
+    "longitude": -75.866707,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21661,
+    "latitude": 39.117823,
+    "longitude": -76.223193,
+    "city": "Rock Hall",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21662,
+    "latitude": 38.713532,
+    "longitude": -76.196838,
+    "city": "Royal Oak",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21663,
+    "latitude": 38.748765,
+    "longitude": -76.167765,
+    "city": "Saint Michaels",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21664,
+    "latitude": 38.600971,
+    "longitude": -75.947375,
+    "city": "Secretary",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21665,
+    "latitude": 38.745387,
+    "longitude": -76.326606,
+    "city": "Sherwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21666,
+    "latitude": 39.012075,
+    "longitude": -76.11568,
+    "city": "Stevensville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21667,
+    "latitude": 39.339906,
+    "longitude": -76.047396,
+    "city": "Still Pond",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21668,
+    "latitude": 39.119123,
+    "longitude": -76.031257,
+    "city": "Sudlersville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21669,
+    "latitude": 38.453204,
+    "longitude": -76.2641,
+    "city": "Taylors Island",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21670,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Templeville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21671,
+    "latitude": 38.704729,
+    "longitude": -76.332647,
+    "city": "Tilghman",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21672,
+    "latitude": 38.274149,
+    "longitude": -76.072171,
+    "city": "Toddville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21673,
+    "latitude": 38.664452,
+    "longitude": -76.058006,
+    "city": "Trappe",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21675,
+    "latitude": 38.307394,
+    "longitude": -76.106344,
+    "city": "Wingate",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21676,
+    "latitude": 38.784568,
+    "longitude": -76.300134,
+    "city": "Wittman",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21677,
+    "latitude": 38.49965,
+    "longitude": -76.202456,
+    "city": "Woolford",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21678,
+    "latitude": 39.308842,
+    "longitude": -76.08165,
+    "city": "Worton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Kent"
+  },
+  {
+    "zip_code": 21679,
+    "latitude": 38.91506,
+    "longitude": -76.073905,
+    "city": "Wye Mills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Talbot"
+  },
+  {
+    "zip_code": 21681,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21682,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21683,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21684,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21685,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21686,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21687,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21688,
+    "latitude": 38.88927,
+    "longitude": -75.861191,
+    "city": "Ridgely",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 21690,
+    "latitude": 39.034637,
+    "longitude": -76.092127,
+    "city": "Chestertown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Queen Annes"
+  },
+  {
+    "zip_code": 21701,
+    "latitude": 39.512748,
+    "longitude": -77.369299,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21702,
+    "latitude": 39.492596,
+    "longitude": -77.461211,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21703,
+    "latitude": 39.364713,
+    "longitude": -77.463561,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21704,
+    "latitude": 39.345477,
+    "longitude": -77.383229,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21705,
+    "latitude": 39.469961,
+    "longitude": -77.392139,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21709,
+    "latitude": 39.469961,
+    "longitude": -77.392139,
+    "city": "Frederick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21710,
+    "latitude": 39.291049,
+    "longitude": -77.455243,
+    "city": "Adamstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21711,
+    "latitude": 39.666266,
+    "longitude": -77.954912,
+    "city": "Big Pool",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21713,
+    "latitude": 39.551986,
+    "longitude": -77.695721,
+    "city": "Boonsboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21714,
+    "latitude": 39.4203,
+    "longitude": -77.505098,
+    "city": "Braddock Heights",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21715,
+    "latitude": 39.386893,
+    "longitude": -77.658015,
+    "city": "Brownsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21716,
+    "latitude": 39.317945,
+    "longitude": -77.624701,
+    "city": "Brunswick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21717,
+    "latitude": 39.330887,
+    "longitude": -77.427405,
+    "city": "Buckeystown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  }
+]

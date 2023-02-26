@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 45899,
+    "latitude": 40.794002,
+    "longitude": -84.785735,
+    "city": "Wren",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Van Wert"
+  },
+  {
+    "zip_code": 45944,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 45999,
+    "latitude": 39.166759,
+    "longitude": -84.53822,
+    "city": "Cincinnati",
+    "state": "OH",
+    "full_state": "Ohio",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46001,
+    "latitude": 40.213154,
+    "longitude": -85.680698,
+    "city": "Alexandria",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46011,
+    "latitude": 40.141033,
+    "longitude": -85.766164,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46012,
+    "latitude": 40.165726,
+    "longitude": -85.633225,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46013,
+    "latitude": 40.05668,
+    "longitude": -85.674976,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46014,
+    "latitude": 40.161733,
+    "longitude": -85.719659,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46015,
+    "latitude": 40.093792,
+    "longitude": -85.657825,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46016,
+    "latitude": 40.144894,
+    "longitude": -85.742377,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46017,
+    "latitude": 40.100275,
+    "longitude": -85.710226,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46018,
+    "latitude": 40.161733,
+    "longitude": -85.719659,
+    "city": "Anderson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46030,
+    "latitude": 40.167756,
+    "longitude": -86.045789,
+    "city": "Arcadia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46031,
+    "latitude": 40.174289,
+    "longitude": -86.018909,
+    "city": "Atlanta",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46032,
+    "latitude": 40.071102,
+    "longitude": -86.117215,
+    "city": "Carmel",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46033,
+    "latitude": 39.974404,
+    "longitude": -86.082936,
+    "city": "Carmel",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46034,
+    "latitude": 40.154903,
+    "longitude": -86.038337,
+    "city": "Cicero",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46035,
+    "latitude": 40.211041,
+    "longitude": -86.64787,
+    "city": "Colfax",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46036,
+    "latitude": 40.27843,
+    "longitude": -85.719657,
+    "city": "Elwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46038,
+    "latitude": 39.967406,
+    "longitude": -85.964894,
+    "city": "Fishers",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46039,
+    "latitude": 40.373825,
+    "longitude": -86.309246,
+    "city": "Forest",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46040,
+    "latitude": 39.894912,
+    "longitude": -85.792762,
+    "city": "Fortville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46041,
+    "latitude": 40.304355,
+    "longitude": -86.468915,
+    "city": "Frankfort",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46044,
+    "latitude": 40.213173,
+    "longitude": -85.786049,
+    "city": "Frankton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46045,
+    "latitude": 40.289836,
+    "longitude": -86.149423,
+    "city": "Goldsmith",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46046,
+    "latitude": 40.304473,
+    "longitude": -86.469044,
+    "city": "Hillisburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46047,
+    "latitude": 40.284101,
+    "longitude": -85.945505,
+    "city": "Hobbs",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46048,
+    "latitude": 39.95729,
+    "longitude": -85.798078,
+    "city": "Ingalls",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46049,
+    "latitude": 40.307545,
+    "longitude": -86.146767,
+    "city": "Kempton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46050,
+    "latitude": 40.259929,
+    "longitude": -86.45201,
+    "city": "Kirklin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46051,
+    "latitude": 40.05956,
+    "longitude": -85.834429,
+    "city": "Lapel",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46052,
+    "latitude": 40.050302,
+    "longitude": -86.490381,
+    "city": "Lebanon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46055,
+    "latitude": 39.878113,
+    "longitude": -85.897957,
+    "city": "Mc Cordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46056,
+    "latitude": 39.985793,
+    "longitude": -85.617925,
+    "city": "Markleville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46057,
+    "latitude": 40.306276,
+    "longitude": -86.490945,
+    "city": "Michigantown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46058,
+    "latitude": 40.359433,
+    "longitude": -86.628659,
+    "city": "Mulberry",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46060,
+    "latitude": 40.073328,
+    "longitude": -85.999521,
+    "city": "Noblesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46061,
+    "latitude": 40.072462,
+    "longitude": -86.052285,
+    "city": "Noblesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46063,
+    "latitude": 40.271524,
+    "longitude": -85.72808,
+    "city": "Orestes",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46064,
+    "latitude": 40.107304,
+    "longitude": -85.757678,
+    "city": "Pendleton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46065,
+    "latitude": 40.360973,
+    "longitude": -86.603449,
+    "city": "Rossville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46067,
+    "latitude": 40.304473,
+    "longitude": -86.469044,
+    "city": "Sedalia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clinton"
+  },
+  {
+    "zip_code": 46068,
+    "latitude": 40.354088,
+    "longitude": -86.118782,
+    "city": "Sharpsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46069,
+    "latitude": 40.129468,
+    "longitude": -86.185273,
+    "city": "Sheridan",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46070,
+    "latitude": 40.314012,
+    "longitude": -85.666794,
+    "city": "Summitville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 46071,
+    "latitude": 40.068631,
+    "longitude": -86.58186,
+    "city": "Thorntown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46072,
+    "latitude": 40.311418,
+    "longitude": -86.063107,
+    "city": "Tipton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46074,
+    "latitude": 40.097028,
+    "longitude": -86.125716,
+    "city": "Westfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46075,
+    "latitude": 40.022608,
+    "longitude": -86.346179,
+    "city": "Whitestown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46076,
+    "latitude": 40.348927,
+    "longitude": -85.937642,
+    "city": "Windfall",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tipton"
+  },
+  {
+    "zip_code": 46077,
+    "latitude": 39.997457,
+    "longitude": -86.298135,
+    "city": "Zionsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46082,
+    "latitude": 40.072462,
+    "longitude": -86.052285,
+    "city": "Carmel",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46102,
+    "latitude": 39.995599,
+    "longitude": -86.619774,
+    "city": "Advance",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46103,
+    "latitude": 39.736926,
+    "longitude": -86.483474,
+    "city": "Amo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46104,
+    "latitude": 39.663342,
+    "longitude": -85.590869,
+    "city": "Arlington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46105,
+    "latitude": 39.752428,
+    "longitude": -86.812416,
+    "city": "Bainbridge",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46106,
+    "latitude": 39.489652,
+    "longitude": -86.102271,
+    "city": "Bargersville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46107,
+    "latitude": 39.713893,
+    "longitude": -86.093293,
+    "city": "Beech Grove",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46110,
+    "latitude": 39.566614,
+    "longitude": -85.91406,
+    "city": "Boggstown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46111,
+    "latitude": 39.539599,
+    "longitude": -86.370057,
+    "city": "Brooklyn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46112,
+    "latitude": 39.807038,
+    "longitude": -86.470429,
+    "city": "Brownsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46113,
+    "latitude": 39.6533,
+    "longitude": -86.30309,
+    "city": "Camby",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46114,
+    "latitude": 39.762448,
+    "longitude": -86.510386,
+    "city": "Cartersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46115,
+    "latitude": 39.735455,
+    "longitude": -85.552199,
+    "city": "Carthage",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46117,
+    "latitude": 39.838824,
+    "longitude": -85.625798,
+    "city": "Charlottesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46118,
+    "latitude": 39.711088,
+    "longitude": -86.495365,
+    "city": "Clayton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46120,
+    "latitude": 39.658826,
+    "longitude": -86.782523,
+    "city": "Cloverdale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46121,
+    "latitude": 39.688598,
+    "longitude": -86.594745,
+    "city": "Coatesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46122,
+    "latitude": 39.766794,
+    "longitude": -86.530319,
+    "city": "Danville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46123,
+    "latitude": 39.721434,
+    "longitude": -86.488881,
+    "city": "Avon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46124,
+    "latitude": 39.430795,
+    "longitude": -86.099838,
+    "city": "Edinburgh",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46125,
+    "latitude": 39.506641,
+    "longitude": -86.641773,
+    "city": "Eminence",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46126,
+    "latitude": 39.617344,
+    "longitude": -85.87593,
+    "city": "Fairland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46127,
+    "latitude": 39.729032,
+    "longitude": -85.333088,
+    "city": "Falmouth",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46128,
+    "latitude": 39.652271,
+    "longitude": -86.73796,
+    "city": "Fillmore",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46129,
+    "latitude": 39.821516,
+    "longitude": -85.765169,
+    "city": "Finly",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46130,
+    "latitude": 39.580663,
+    "longitude": -85.809775,
+    "city": "Fountaintown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46131,
+    "latitude": 39.469172,
+    "longitude": -86.068718,
+    "city": "Franklin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46133,
+    "latitude": 39.58598,
+    "longitude": -85.276882,
+    "city": "Glenwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 46135,
+    "latitude": 39.699485,
+    "longitude": -86.857172,
+    "city": "Greencastle",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46140,
+    "latitude": 39.821787,
+    "longitude": -85.775403,
+    "city": "Greenfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46142,
+    "latitude": 39.491246,
+    "longitude": -86.100454,
+    "city": "Greenwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46143,
+    "latitude": 39.50708,
+    "longitude": -86.10149,
+    "city": "Greenwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46144,
+    "latitude": 39.66172,
+    "longitude": -85.647634,
+    "city": "Gwynneville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46146,
+    "latitude": 39.619923,
+    "longitude": -85.46554,
+    "city": "Homer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46147,
+    "latitude": 39.988674,
+    "longitude": -86.563204,
+    "city": "Jamestown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Boone"
+  },
+  {
+    "zip_code": 46148,
+    "latitude": 39.836197,
+    "longitude": -85.474444,
+    "city": "Knightstown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 46149,
+    "latitude": 39.871667,
+    "longitude": -86.560328,
+    "city": "Lizton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46150,
+    "latitude": 39.546509,
+    "longitude": -85.583666,
+    "city": "Manilla",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46151,
+    "latitude": 39.477625,
+    "longitude": -86.466792,
+    "city": "Martinsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46154,
+    "latitude": 39.856763,
+    "longitude": -85.768357,
+    "city": "Maxwell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46155,
+    "latitude": 39.743769,
+    "longitude": -85.431184,
+    "city": "Mays",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46156,
+    "latitude": 39.488994,
+    "longitude": -85.486278,
+    "city": "Milroy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46157,
+    "latitude": 39.555178,
+    "longitude": -86.531957,
+    "city": "Monrovia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46158,
+    "latitude": 39.50942,
+    "longitude": -86.437089,
+    "city": "Mooresville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46160,
+    "latitude": 39.244566,
+    "longitude": -86.267561,
+    "city": "Morgantown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 46161,
+    "latitude": 39.65521,
+    "longitude": -85.71264,
+    "city": "Morristown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46162,
+    "latitude": 39.560511,
+    "longitude": -85.96563,
+    "city": "Needham",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46163,
+    "latitude": 39.739927,
+    "longitude": -85.885962,
+    "city": "New Palestine",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46164,
+    "latitude": 39.391505,
+    "longitude": -86.109534,
+    "city": "Nineveh",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46165,
+    "latitude": 39.839162,
+    "longitude": -86.640794,
+    "city": "North Salem",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46166,
+    "latitude": 39.427654,
+    "longitude": -86.533865,
+    "city": "Paragon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Morgan"
+  },
+  {
+    "zip_code": 46167,
+    "latitude": 39.784191,
+    "longitude": -86.475318,
+    "city": "Pittsboro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46168,
+    "latitude": 39.729892,
+    "longitude": -86.423412,
+    "city": "Plainfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46170,
+    "latitude": 39.668441,
+    "longitude": -86.828402,
+    "city": "Putnamville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46171,
+    "latitude": 39.543141,
+    "longitude": -86.955955,
+    "city": "Reelsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46172,
+    "latitude": 39.821381,
+    "longitude": -86.814317,
+    "city": "Roachdale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46173,
+    "latitude": 39.612836,
+    "longitude": -85.439133,
+    "city": "Rushville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Rush"
+  },
+  {
+    "zip_code": 46175,
+    "latitude": 39.822491,
+    "longitude": -86.973306,
+    "city": "Russellville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Putnam"
+  },
+  {
+    "zip_code": 46176,
+    "latitude": 39.511568,
+    "longitude": -85.791993,
+    "city": "Shelbyville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46180,
+    "latitude": 39.632997,
+    "longitude": -86.607678,
+    "city": "Stilesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hendricks"
+  },
+  {
+    "zip_code": 46181,
+    "latitude": 39.416652,
+    "longitude": -86.103674,
+    "city": "Trafalgar",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46182,
+    "latitude": 39.515,
+    "longitude": -85.781538,
+    "city": "Waldron",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 46183,
+    "latitude": 39.648251,
+    "longitude": -86.28509,
+    "city": "West Newton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46184,
+    "latitude": 39.50607,
+    "longitude": -86.08434,
+    "city": "Whiteland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Johnson"
+  },
+  {
+    "zip_code": 46186,
+    "latitude": 39.895139,
+    "longitude": -85.643767,
+    "city": "Wilkinson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hancock"
+  },
+  {
+    "zip_code": 46201,
+    "latitude": 39.775092,
+    "longitude": -86.13216,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46202,
+    "latitude": 39.762392,
+    "longitude": -86.143736,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46203,
+    "latitude": 39.743493,
+    "longitude": -86.113535,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46204,
+    "latitude": 39.772692,
+    "longitude": -86.158038,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46205,
+    "latitude": 39.822641,
+    "longitude": -86.129886,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46206,
+    "latitude": 39.761293,
+    "longitude": -86.161336,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46207,
+    "latitude": 39.767293,
+    "longitude": -86.160616,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46208,
+    "latitude": 39.832741,
+    "longitude": -86.190186,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46209,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46211,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46214,
+    "latitude": 39.792379,
+    "longitude": -86.287465,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46216,
+    "latitude": 39.864689,
+    "longitude": -86.013632,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46217,
+    "latitude": 39.678245,
+    "longitude": -86.197637,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46218,
+    "latitude": 39.806991,
+    "longitude": -86.100535,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46219,
+    "latitude": 39.782841,
+    "longitude": -86.081084,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46220,
+    "latitude": 39.86904,
+    "longitude": -86.10895,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46221,
+    "latitude": 39.764258,
+    "longitude": -86.130655,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46222,
+    "latitude": 39.783642,
+    "longitude": -86.207687,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46223,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46224,
+    "latitude": 39.794042,
+    "longitude": -86.27074,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46225,
+    "latitude": 39.743793,
+    "longitude": -86.167886,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46226,
+    "latitude": 39.832577,
+    "longitude": -86.083634,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46227,
+    "latitude": 39.678945,
+    "longitude": -86.130154,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46228,
+    "latitude": 39.846191,
+    "longitude": -86.195081,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46229,
+    "latitude": 39.798941,
+    "longitude": -86.035533,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46230,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46231,
+    "latitude": 39.703844,
+    "longitude": -86.30294,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46234,
+    "latitude": 39.808793,
+    "longitude": -86.316288,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46235,
+    "latitude": 39.84709,
+    "longitude": -85.974081,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46236,
+    "latitude": 39.868939,
+    "longitude": -85.976532,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46237,
+    "latitude": 39.742726,
+    "longitude": -86.171117,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46239,
+    "latitude": 39.726493,
+    "longitude": -86.000482,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46240,
+    "latitude": 39.877991,
+    "longitude": -86.200688,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46241,
+    "latitude": 39.709624,
+    "longitude": -86.261389,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46242,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46244,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46247,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46249,
+    "latitude": 39.858989,
+    "longitude": -86.006082,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46250,
+    "latitude": 39.904838,
+    "longitude": -86.067263,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46251,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46253,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46254,
+    "latitude": 39.81594,
+    "longitude": -86.22681,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46255,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46256,
+    "latitude": 39.897708,
+    "longitude": -86.009447,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46259,
+    "latitude": 39.667045,
+    "longitude": -85.998092,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46260,
+    "latitude": 39.89384,
+    "longitude": -86.137988,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46266,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46268,
+    "latitude": 39.868173,
+    "longitude": -86.21231,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46274,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46275,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46277,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46278,
+    "latitude": 39.872591,
+    "longitude": -86.276791,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46280,
+    "latitude": 39.9416,
+    "longitude": -86.115707,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46282,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46283,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46285,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46290,
+    "latitude": 39.93731,
+    "longitude": -86.199445,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Hamilton"
+  },
+  {
+    "zip_code": 46291,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46295,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46296,
+    "latitude": 39.7683,
+    "longitude": -86.158,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46298,
+    "latitude": 39.779492,
+    "longitude": -86.132837,
+    "city": "Indianapolis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marion"
+  },
+  {
+    "zip_code": 46301,
+    "latitude": 41.683796,
+    "longitude": -86.975178,
+    "city": "Beverly Shores",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46302,
+    "latitude": 41.354186,
+    "longitude": -87.130431,
+    "city": "Boone Grove",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46303,
+    "latitude": 41.311861,
+    "longitude": -87.41665,
+    "city": "Cedar Lake",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46304,
+    "latitude": 41.498946,
+    "longitude": -87.087021,
+    "city": "Chesterton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46307,
+    "latitude": 41.444409,
+    "longitude": -87.360089,
+    "city": "Crown Point",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46308,
+    "latitude": 41.461543,
+    "longitude": -87.372779,
+    "city": "Crown Point",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46310,
+    "latitude": 41.107336,
+    "longitude": -87.208423,
+    "city": "Demotte",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 46311,
+    "latitude": 41.451993,
+    "longitude": -87.499489,
+    "city": "Dyer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46312,
+    "latitude": 41.640835,
+    "longitude": -87.46149,
+    "city": "East Chicago",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46319,
+    "latitude": 41.522129,
+    "longitude": -87.390338,
+    "city": "Griffith",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46320,
+    "latitude": 41.444246,
+    "longitude": -87.487242,
+    "city": "Hammond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46321,
+    "latitude": 41.550535,
+    "longitude": -87.502585,
+    "city": "Munster",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46322,
+    "latitude": 41.577699,
+    "longitude": -87.47744,
+    "city": "Highland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46323,
+    "latitude": 41.590519,
+    "longitude": -87.45644,
+    "city": "Hammond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46324,
+    "latitude": 41.585185,
+    "longitude": -87.496665,
+    "city": "Hammond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46325,
+    "latitude": 41.461543,
+    "longitude": -87.372779,
+    "city": "Hammond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46327,
+    "latitude": 41.615085,
+    "longitude": -87.49039,
+    "city": "Hammond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46340,
+    "latitude": 41.378592,
+    "longitude": -86.788687,
+    "city": "Hanna",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46341,
+    "latitude": 41.347188,
+    "longitude": -87.152358,
+    "city": "Hebron",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46342,
+    "latitude": 41.520515,
+    "longitude": -87.347486,
+    "city": "Hobart",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46345,
+    "latitude": 41.526023,
+    "longitude": -86.699703,
+    "city": "Kingsbury",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46346,
+    "latitude": 41.480172,
+    "longitude": -86.691914,
+    "city": "Kingsford Heights",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46347,
+    "latitude": 41.301319,
+    "longitude": -87.066825,
+    "city": "Kouts",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46348,
+    "latitude": 41.394105,
+    "longitude": -86.806742,
+    "city": "La Crosse",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46349,
+    "latitude": 41.108242,
+    "longitude": -87.418963,
+    "city": "Lake Village",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 46350,
+    "latitude": 41.537585,
+    "longitude": -86.73764,
+    "city": "La Porte",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46352,
+    "latitude": 41.498992,
+    "longitude": -86.709883,
+    "city": "La Porte",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46355,
+    "latitude": 41.359415,
+    "longitude": -87.27081,
+    "city": "Leroy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46356,
+    "latitude": 41.280102,
+    "longitude": -87.411308,
+    "city": "Lowell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46360,
+    "latitude": 41.594185,
+    "longitude": -86.756985,
+    "city": "Michigan City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46361,
+    "latitude": 41.70354,
+    "longitude": -86.915077,
+    "city": "Michigan City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46365,
+    "latitude": 41.609081,
+    "longitude": -86.543956,
+    "city": "Mill Creek",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46366,
+    "latitude": 41.25163,
+    "longitude": -86.735127,
+    "city": "North Judson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46368,
+    "latitude": 41.473367,
+    "longitude": -87.12927,
+    "city": "Portage",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46371,
+    "latitude": 41.686609,
+    "longitude": -86.599414,
+    "city": "Rolling Prairie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46372,
+    "latitude": 41.143358,
+    "longitude": -87.322049,
+    "city": "Roselawn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 46373,
+    "latitude": 41.453965,
+    "longitude": -87.453086,
+    "city": "Saint John",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46374,
+    "latitude": 41.216655,
+    "longitude": -86.884,
+    "city": "San Pierre",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46375,
+    "latitude": 41.487733,
+    "longitude": -87.441525,
+    "city": "Schererville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46376,
+    "latitude": 41.189953,
+    "longitude": -87.477881,
+    "city": "Schneider",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46377,
+    "latitude": 41.191734,
+    "longitude": -87.339778,
+    "city": "Shelby",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46379,
+    "latitude": 41.167119,
+    "longitude": -87.43355,
+    "city": "Sumava Resorts",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 46380,
+    "latitude": 41.194816,
+    "longitude": -86.968614,
+    "city": "Tefft",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 46381,
+    "latitude": 41.17115,
+    "longitude": -87.331323,
+    "city": "Thayer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 46382,
+    "latitude": 41.466863,
+    "longitude": -86.772226,
+    "city": "Union Mills",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46383,
+    "latitude": 41.454731,
+    "longitude": -87.065565,
+    "city": "Valparaiso",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46384,
+    "latitude": 41.490545,
+    "longitude": -87.076094,
+    "city": "Valparaiso",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46385,
+    "latitude": 41.470567,
+    "longitude": -87.078309,
+    "city": "Valparaiso",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46390,
+    "latitude": 41.421123,
+    "longitude": -86.872078,
+    "city": "Wanatah",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46391,
+    "latitude": 41.549933,
+    "longitude": -86.742979,
+    "city": "Westville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "La Porte"
+  },
+  {
+    "zip_code": 46392,
+    "latitude": 41.133299,
+    "longitude": -87.063818,
+    "city": "Wheatfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 46393,
+    "latitude": 41.511578,
+    "longitude": -87.179177,
+    "city": "Wheeler",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Porter"
+  },
+  {
+    "zip_code": 46394,
+    "latitude": 41.656785,
+    "longitude": -87.493392,
+    "city": "Whiting",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46401,
+    "latitude": 41.590686,
+    "longitude": -87.319937,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46402,
+    "latitude": 41.599336,
+    "longitude": -87.336338,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46403,
+    "latitude": 41.605636,
+    "longitude": -87.268536,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46404,
+    "latitude": 41.584136,
+    "longitude": -87.377538,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46405,
+    "latitude": 41.555785,
+    "longitude": -87.354587,
+    "city": "Lake Station",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46406,
+    "latitude": 41.596012,
+    "longitude": -87.388189,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46407,
+    "latitude": 41.578886,
+    "longitude": -87.319987,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46408,
+    "latitude": 41.544936,
+    "longitude": -87.375307,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46409,
+    "latitude": 41.545636,
+    "longitude": -87.304186,
+    "city": "Gary",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46410,
+    "latitude": 41.497212,
+    "longitude": -87.338656,
+    "city": "Merrillville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46411,
+    "latitude": 41.461543,
+    "longitude": -87.372779,
+    "city": "Merrillville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lake"
+  },
+  {
+    "zip_code": 46501,
+    "latitude": 41.242669,
+    "longitude": -86.248052,
+    "city": "Argos",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46502,
+    "latitude": 41.254035,
+    "longitude": -85.969708,
+    "city": "Atwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46504,
+    "latitude": 41.323904,
+    "longitude": -86.150818,
+    "city": "Bourbon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46506,
+    "latitude": 41.40577,
+    "longitude": -86.242235,
+    "city": "Bremen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46507,
+    "latitude": 41.712983,
+    "longitude": -85.824845,
+    "city": "Bristol",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46508,
+    "latitude": 41.154726,
+    "longitude": -85.969282,
+    "city": "Burket",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46510,
+    "latitude": 41.136771,
+    "longitude": -85.871487,
+    "city": "Claypool",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46511,
+    "latitude": 41.314629,
+    "longitude": -86.386582,
+    "city": "Culver",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46513,
+    "latitude": 41.361903,
+    "longitude": -86.444254,
+    "city": "Donaldson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46514,
+    "latitude": 41.71873,
+    "longitude": -85.937024,
+    "city": "Elkhart",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46515,
+    "latitude": 41.641449,
+    "longitude": -85.938348,
+    "city": "Elkhart",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46516,
+    "latitude": 41.620856,
+    "longitude": -85.897236,
+    "city": "Elkhart",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46517,
+    "latitude": 41.617705,
+    "longitude": -85.965717,
+    "city": "Elkhart",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46524,
+    "latitude": 41.296306,
+    "longitude": -85.99843,
+    "city": "Etna Green",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46526,
+    "latitude": 41.584839,
+    "longitude": -85.858059,
+    "city": "Goshen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46527,
+    "latitude": 41.597739,
+    "longitude": -85.858076,
+    "city": "Goshen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46528,
+    "latitude": 41.624763,
+    "longitude": -85.839139,
+    "city": "Goshen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46530,
+    "latitude": 41.734912,
+    "longitude": -86.139868,
+    "city": "Granger",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46531,
+    "latitude": 41.34963,
+    "longitude": -86.524321,
+    "city": "Grovertown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46532,
+    "latitude": 41.393141,
+    "longitude": -86.594849,
+    "city": "Hamlet",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46534,
+    "latitude": 41.280907,
+    "longitude": -86.608249,
+    "city": "Knox",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46536,
+    "latitude": 41.526373,
+    "longitude": -86.270086,
+    "city": "Lakeville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46537,
+    "latitude": 41.455431,
+    "longitude": -86.309368,
+    "city": "Lapaz",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46538,
+    "latitude": 41.342883,
+    "longitude": -85.823785,
+    "city": "Leesburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46539,
+    "latitude": 41.177648,
+    "longitude": -86.008586,
+    "city": "Mentone",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46540,
+    "latitude": 41.646192,
+    "longitude": -85.831327,
+    "city": "Middlebury",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46542,
+    "latitude": 41.28296,
+    "longitude": -85.871138,
+    "city": "Milford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46543,
+    "latitude": 41.531255,
+    "longitude": -85.712083,
+    "city": "Millersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46544,
+    "latitude": 41.61536,
+    "longitude": -86.287884,
+    "city": "Mishawaka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46545,
+    "latitude": 41.696407,
+    "longitude": -86.304735,
+    "city": "Mishawaka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46546,
+    "latitude": 41.688432,
+    "longitude": -86.196485,
+    "city": "Mishawaka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46550,
+    "latitude": 41.574743,
+    "longitude": -85.972724,
+    "city": "Nappanee",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46552,
+    "latitude": 41.701172,
+    "longitude": -86.455494,
+    "city": "New Carlisle",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46553,
+    "latitude": 41.47867,
+    "longitude": -85.8192,
+    "city": "New Paris",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46554,
+    "latitude": 41.561716,
+    "longitude": -86.414045,
+    "city": "North Liberty",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46555,
+    "latitude": 41.332568,
+    "longitude": -85.710285,
+    "city": "North Webster",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46556,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "Notre Dame",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46561,
+    "latitude": 41.669504,
+    "longitude": -86.087002,
+    "city": "Osceola",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46562,
+    "latitude": 41.265769,
+    "longitude": -85.854745,
+    "city": "Pierceton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46563,
+    "latitude": 41.352997,
+    "longitude": -86.301486,
+    "city": "Plymouth",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46565,
+    "latitude": 41.67572,
+    "longitude": -85.567362,
+    "city": "Shipshewana",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46566,
+    "latitude": 41.137923,
+    "longitude": -85.88883,
+    "city": "Sidney",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46567,
+    "latitude": 41.296386,
+    "longitude": -85.844729,
+    "city": "Syracuse",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46570,
+    "latitude": 41.215971,
+    "longitude": -86.12282,
+    "city": "Tippecanoe",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46571,
+    "latitude": 41.578904,
+    "longitude": -85.540055,
+    "city": "Topeka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46572,
+    "latitude": 41.325513,
+    "longitude": -86.260569,
+    "city": "Tyner",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Marshall"
+  },
+  {
+    "zip_code": 46573,
+    "latitude": 41.58574,
+    "longitude": -85.882695,
+    "city": "Wakarusa",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Elkhart"
+  },
+  {
+    "zip_code": 46574,
+    "latitude": 41.488957,
+    "longitude": -86.446734,
+    "city": "Walkerton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46580,
+    "latitude": 41.2228,
+    "longitude": -85.860179,
+    "city": "Warsaw",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46581,
+    "latitude": 41.239365,
+    "longitude": -85.864267,
+    "city": "Warsaw",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46582,
+    "latitude": 41.254225,
+    "longitude": -85.849508,
+    "city": "Warsaw",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46590,
+    "latitude": 41.232725,
+    "longitude": -85.826346,
+    "city": "Winona Lake",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46595,
+    "latitude": 41.518136,
+    "longitude": -86.165227,
+    "city": "Wyatt",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46601,
+    "latitude": 41.673383,
+    "longitude": -86.251654,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46604,
+    "latitude": 41.664198,
+    "longitude": -86.221805,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46612,
+    "latitude": 41.628483,
+    "longitude": -86.234589,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46613,
+    "latitude": 41.656573,
+    "longitude": -86.255696,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46614,
+    "latitude": 41.616532,
+    "longitude": -86.278463,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46615,
+    "latitude": 41.677046,
+    "longitude": -86.216105,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46616,
+    "latitude": 41.695957,
+    "longitude": -86.264293,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46617,
+    "latitude": 41.682897,
+    "longitude": -86.238906,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46619,
+    "latitude": 41.672919,
+    "longitude": -86.296056,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46620,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46624,
+    "latitude": 41.733223,
+    "longitude": -86.283278,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46626,
+    "latitude": 41.677397,
+    "longitude": -86.252506,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46628,
+    "latitude": 41.716559,
+    "longitude": -86.335738,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46629,
+    "latitude": 41.671919,
+    "longitude": -86.27911,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46634,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46635,
+    "latitude": 41.686358,
+    "longitude": -86.338666,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46637,
+    "latitude": 41.699077,
+    "longitude": -86.315321,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46660,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46680,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46699,
+    "latitude": 41.596769,
+    "longitude": -86.292991,
+    "city": "South Bend",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "St Joseph"
+  },
+  {
+    "zip_code": 46701,
+    "latitude": 41.376028,
+    "longitude": -85.413862,
+    "city": "Albion",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46702,
+    "latitude": 40.820278,
+    "longitude": -85.597862,
+    "city": "Andrews",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46703,
+    "latitude": 41.672567,
+    "longitude": -85.000474,
+    "city": "Angola",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46704,
+    "latitude": 41.103797,
+    "longitude": -85.292474,
+    "city": "Arcola",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46705,
+    "latitude": 41.501455,
+    "longitude": -85.071275,
+    "city": "Ashley",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46706,
+    "latitude": 41.377758,
+    "longitude": -85.027689,
+    "city": "Auburn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46710,
+    "latitude": 41.368123,
+    "longitude": -85.391019,
+    "city": "Avilla",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46711,
+    "latitude": 40.671628,
+    "longitude": -84.934331,
+    "city": "Berne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46713,
+    "latitude": 40.829196,
+    "longitude": -85.489198,
+    "city": "Bippus",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46714,
+    "latitude": 40.71327,
+    "longitude": -85.2023,
+    "city": "Bluffton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46720,
+    "latitude": 41.395275,
+    "longitude": -85.423462,
+    "city": "Brimfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46721,
+    "latitude": 41.426441,
+    "longitude": -84.912517,
+    "city": "Butler",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46723,
+    "latitude": 41.190811,
+    "longitude": -85.389672,
+    "city": "Churubusco",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 46725,
+    "latitude": 41.14956,
+    "longitude": -85.50042,
+    "city": "Columbia City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 46730,
+    "latitude": 41.463082,
+    "longitude": -85.137324,
+    "city": "Corunna",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46731,
+    "latitude": 40.794056,
+    "longitude": -85.104206,
+    "city": "Craigville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46732,
+    "latitude": 41.377903,
+    "longitude": -85.59875,
+    "city": "Cromwell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46733,
+    "latitude": 40.81911,
+    "longitude": -84.93785,
+    "city": "Decatur",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46737,
+    "latitude": 41.711462,
+    "longitude": -84.945643,
+    "city": "Fremont",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46738,
+    "latitude": 41.323007,
+    "longitude": -85.140707,
+    "city": "Garrett",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46740,
+    "latitude": 40.612058,
+    "longitude": -84.936072,
+    "city": "Geneva",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46741,
+    "latitude": 41.195015,
+    "longitude": -84.963984,
+    "city": "Grabill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46742,
+    "latitude": 41.572304,
+    "longitude": -84.897465,
+    "city": "Hamilton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46743,
+    "latitude": 41.227324,
+    "longitude": -84.987882,
+    "city": "Harlan",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46745,
+    "latitude": 40.957347,
+    "longitude": -85.002148,
+    "city": "Hoagland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46746,
+    "latitude": 41.711914,
+    "longitude": -85.367474,
+    "city": "Howe",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46747,
+    "latitude": 41.577125,
+    "longitude": -85.113166,
+    "city": "Hudson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46748,
+    "latitude": 41.237988,
+    "longitude": -85.159437,
+    "city": "Huntertown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46750,
+    "latitude": 40.842697,
+    "longitude": -85.489225,
+    "city": "Huntington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46755,
+    "latitude": 41.431488,
+    "longitude": -85.389073,
+    "city": "Kendallville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46759,
+    "latitude": 40.603317,
+    "longitude": -85.205635,
+    "city": "Keystone",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46760,
+    "latitude": 41.369423,
+    "longitude": -85.543448,
+    "city": "Kimmell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46761,
+    "latitude": 41.655135,
+    "longitude": -85.387208,
+    "city": "Lagrange",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46763,
+    "latitude": 41.292913,
+    "longitude": -85.27904,
+    "city": "Laotto",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46764,
+    "latitude": 41.206938,
+    "longitude": -85.591994,
+    "city": "Larwill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 46765,
+    "latitude": 41.232203,
+    "longitude": -85.043118,
+    "city": "Leo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46766,
+    "latitude": 40.698551,
+    "longitude": -85.278222,
+    "city": "Liberty Center",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46767,
+    "latitude": 41.405478,
+    "longitude": -85.42573,
+    "city": "Ligonier",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46769,
+    "latitude": 40.74532,
+    "longitude": -84.937926,
+    "city": "Linn Grove",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46770,
+    "latitude": 40.862309,
+    "longitude": -85.354611,
+    "city": "Markle",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46771,
+    "latitude": 41.665489,
+    "longitude": -85.267567,
+    "city": "Mongo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46772,
+    "latitude": 40.709518,
+    "longitude": -84.919164,
+    "city": "Monroe",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46773,
+    "latitude": 41.059007,
+    "longitude": -84.90402,
+    "city": "Monroeville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46774,
+    "latitude": 41.102098,
+    "longitude": -84.962038,
+    "city": "New Haven",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46776,
+    "latitude": 41.71364,
+    "longitude": -85.140168,
+    "city": "Orland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46777,
+    "latitude": 40.855435,
+    "longitude": -85.203797,
+    "city": "Ossian",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46778,
+    "latitude": 40.611419,
+    "longitude": -85.152604,
+    "city": "Petroleum",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46779,
+    "latitude": 41.577443,
+    "longitude": -85.031873,
+    "city": "Pleasant Lake",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Steuben"
+  },
+  {
+    "zip_code": 46780,
+    "latitude": 40.74532,
+    "longitude": -84.937926,
+    "city": "Pleasant Mills",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46781,
+    "latitude": 40.639684,
+    "longitude": -85.259163,
+    "city": "Poneto",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46782,
+    "latitude": 40.83204,
+    "longitude": -85.005402,
+    "city": "Preble",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Adams"
+  },
+  {
+    "zip_code": 46783,
+    "latitude": 40.954446,
+    "longitude": -85.393868,
+    "city": "Roanoke",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46784,
+    "latitude": 41.401296,
+    "longitude": -85.401402,
+    "city": "Rome City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46785,
+    "latitude": 41.319754,
+    "longitude": -84.888552,
+    "city": "Saint Joe",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46786,
+    "latitude": 41.536899,
+    "longitude": -85.319241,
+    "city": "South Milford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46787,
+    "latitude": 41.071204,
+    "longitude": -85.510981,
+    "city": "South Whitley",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Whitley"
+  },
+  {
+    "zip_code": 46788,
+    "latitude": 41.302927,
+    "longitude": -84.902416,
+    "city": "Spencerville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46789,
+    "latitude": 41.583493,
+    "longitude": -85.199186,
+    "city": "Stroh",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46791,
+    "latitude": 40.859358,
+    "longitude": -85.270039,
+    "city": "Uniondale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wells"
+  },
+  {
+    "zip_code": 46792,
+    "latitude": 40.712066,
+    "longitude": -85.468798,
+    "city": "Warren",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Huntington"
+  },
+  {
+    "zip_code": 46793,
+    "latitude": 41.461019,
+    "longitude": -85.019562,
+    "city": "Waterloo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "De Kalb"
+  },
+  {
+    "zip_code": 46794,
+    "latitude": 41.476682,
+    "longitude": -85.386856,
+    "city": "Wawaka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46795,
+    "latitude": 41.583475,
+    "longitude": -85.337737,
+    "city": "Wolcottville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lagrange"
+  },
+  {
+    "zip_code": 46796,
+    "latitude": 41.336115,
+    "longitude": -85.500246,
+    "city": "Wolflake",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Noble"
+  },
+  {
+    "zip_code": 46797,
+    "latitude": 41.125044,
+    "longitude": -84.874249,
+    "city": "Woodburn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46798,
+    "latitude": 41.009498,
+    "longitude": -85.086518,
+    "city": "Yoder",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46799,
+    "latitude": 40.918797,
+    "longitude": -85.282422,
+    "city": "Zanesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46801,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46802,
+    "latitude": 41.065397,
+    "longitude": -85.15842,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46803,
+    "latitude": 41.065648,
+    "longitude": -85.084069,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46804,
+    "latitude": 41.057168,
+    "longitude": -85.239172,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46805,
+    "latitude": 41.099948,
+    "longitude": -85.078019,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46806,
+    "latitude": 41.049248,
+    "longitude": -85.082319,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46807,
+    "latitude": 41.042342,
+    "longitude": -85.14682,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46808,
+    "latitude": 41.093898,
+    "longitude": -85.184121,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46809,
+    "latitude": 41.037097,
+    "longitude": -85.205071,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46814,
+    "latitude": 41.045647,
+    "longitude": -85.305823,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46815,
+    "latitude": 41.141189,
+    "longitude": -85.072068,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46816,
+    "latitude": 40.988047,
+    "longitude": -85.033817,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46818,
+    "latitude": 41.112548,
+    "longitude": -85.203895,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46819,
+    "latitude": 40.978697,
+    "longitude": -85.126419,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46825,
+    "latitude": 41.138003,
+    "longitude": -85.104001,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46835,
+    "latitude": 41.156698,
+    "longitude": -85.057218,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46845,
+    "latitude": 41.095957,
+    "longitude": -85.084581,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46850,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46851,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46852,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46853,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46854,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46855,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46856,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46857,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46858,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46859,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46860,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46861,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46862,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46863,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46864,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46865,
+    "latitude": 41.126298,
+    "longitude": -85.090669,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46866,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46867,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46868,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46869,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46885,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46895,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46896,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46897,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46898,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46899,
+    "latitude": 41.093763,
+    "longitude": -85.070713,
+    "city": "Fort Wayne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Allen"
+  },
+  {
+    "zip_code": 46901,
+    "latitude": 40.506851,
+    "longitude": -86.171054,
+    "city": "Kokomo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46902,
+    "latitude": 40.444291,
+    "longitude": -86.17559,
+    "city": "Kokomo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46903,
+    "latitude": 40.469625,
+    "longitude": -86.11894,
+    "city": "Kokomo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46904,
+    "latitude": 40.469625,
+    "longitude": -86.11894,
+    "city": "Kokomo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46910,
+    "latitude": 41.047932,
+    "longitude": -86.069172,
+    "city": "Akron",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46911,
+    "latitude": 40.650476,
+    "longitude": -85.943552,
+    "city": "Amboy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46912,
+    "latitude": 41.040988,
+    "longitude": -86.206925,
+    "city": "Athens",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46913,
+    "latitude": 40.500141,
+    "longitude": -86.507065,
+    "city": "Bringhurst",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46914,
+    "latitude": 40.659068,
+    "longitude": -86.102125,
+    "city": "Bunker Hill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46915,
+    "latitude": 40.495181,
+    "longitude": -86.394248,
+    "city": "Burlington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46916,
+    "latitude": 40.584272,
+    "longitude": -86.573952,
+    "city": "Burrows",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46917,
+    "latitude": 40.626954,
+    "longitude": -86.499148,
+    "city": "Camden",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46919,
+    "latitude": 40.578034,
+    "longitude": -85.878104,
+    "city": "Converse",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46920,
+    "latitude": 40.485424,
+    "longitude": -86.488525,
+    "city": "Cutler",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46921,
+    "latitude": 40.960538,
+    "longitude": -86.12908,
+    "city": "Deedsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46922,
+    "latitude": 41.040988,
+    "longitude": -86.206925,
+    "city": "Delong",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46923,
+    "latitude": 40.580452,
+    "longitude": -86.637891,
+    "city": "Delphi",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46926,
+    "latitude": 40.867036,
+    "longitude": -86.07524,
+    "city": "Denver",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46928,
+    "latitude": 40.515421,
+    "longitude": -85.661196,
+    "city": "Fairmount",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46929,
+    "latitude": 40.556269,
+    "longitude": -86.490521,
+    "city": "Flora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46930,
+    "latitude": 40.40993,
+    "longitude": -85.571035,
+    "city": "Fowlerton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46931,
+    "latitude": 40.948405,
+    "longitude": -86.265814,
+    "city": "Fulton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46932,
+    "latitude": 40.634254,
+    "longitude": -86.269625,
+    "city": "Galveston",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46933,
+    "latitude": 40.54429,
+    "longitude": -85.585245,
+    "city": "Gas City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46935,
+    "latitude": 41.040988,
+    "longitude": -86.206925,
+    "city": "Grass Creek",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46936,
+    "latitude": 40.485442,
+    "longitude": -85.997326,
+    "city": "Greentown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46937,
+    "latitude": 40.418662,
+    "longitude": -86.018139,
+    "city": "Hemlock",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46938,
+    "latitude": 40.44673,
+    "longitude": -85.650398,
+    "city": "Jonesboro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46939,
+    "latitude": 41.040533,
+    "longitude": -86.374647,
+    "city": "Kewanna",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46940,
+    "latitude": 40.696155,
+    "longitude": -85.740428,
+    "city": "La Fontaine",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46941,
+    "latitude": 40.826475,
+    "longitude": -85.700909,
+    "city": "Lagro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46942,
+    "latitude": 40.736111,
+    "longitude": -86.37341,
+    "city": "Lake Cicott",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46943,
+    "latitude": 40.974279,
+    "longitude": -85.837546,
+    "city": "Laketon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46945,
+    "latitude": 41.040988,
+    "longitude": -86.206925,
+    "city": "Leiters Ford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46946,
+    "latitude": 41.035629,
+    "longitude": -85.735756,
+    "city": "Liberty Mills",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46947,
+    "latitude": 40.77927,
+    "longitude": -86.375168,
+    "city": "Logansport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46950,
+    "latitude": 40.875277,
+    "longitude": -86.354066,
+    "city": "Lucerne",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46951,
+    "latitude": 40.95841,
+    "longitude": -86.129366,
+    "city": "Macy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46952,
+    "latitude": 40.519756,
+    "longitude": -85.636731,
+    "city": "Marion",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46953,
+    "latitude": 40.499959,
+    "longitude": -85.626401,
+    "city": "Marion",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46957,
+    "latitude": 40.389831,
+    "longitude": -85.476619,
+    "city": "Matthews",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46958,
+    "latitude": 40.822384,
+    "longitude": -86.116189,
+    "city": "Mexico",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46959,
+    "latitude": 40.61466,
+    "longitude": -86.106432,
+    "city": "Miami",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46960,
+    "latitude": 41.124552,
+    "longitude": -86.544617,
+    "city": "Monterey",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 46961,
+    "latitude": 40.762054,
+    "longitude": -86.193648,
+    "city": "New Waverly",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46962,
+    "latitude": 40.859877,
+    "longitude": -85.794138,
+    "city": "North Manchester",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46965,
+    "latitude": 40.412741,
+    "longitude": -86.101484,
+    "city": "Oakford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46967,
+    "latitude": 40.694298,
+    "longitude": -86.204238,
+    "city": "Onward",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46968,
+    "latitude": 41.175557,
+    "longitude": -86.554326,
+    "city": "Ora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Starke"
+  },
+  {
+    "zip_code": 46970,
+    "latitude": 40.73991,
+    "longitude": -86.07581,
+    "city": "Peru",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46971,
+    "latitude": 40.780955,
+    "longitude": -86.016441,
+    "city": "Grissom Arb",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Miami"
+  },
+  {
+    "zip_code": 46974,
+    "latitude": 40.951589,
+    "longitude": -85.854151,
+    "city": "Roann",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46975,
+    "latitude": 41.040988,
+    "longitude": -86.254272,
+    "city": "Rochester",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fulton"
+  },
+  {
+    "zip_code": 46977,
+    "latitude": 40.584272,
+    "longitude": -86.573952,
+    "city": "Rockfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 46978,
+    "latitude": 40.851622,
+    "longitude": -86.492019,
+    "city": "Royal Center",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46979,
+    "latitude": 40.42573,
+    "longitude": -86.269717,
+    "city": "Russiaville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46980,
+    "latitude": 40.848927,
+    "longitude": -85.792501,
+    "city": "Servia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46982,
+    "latitude": 41.130963,
+    "longitude": -85.856589,
+    "city": "Silver Lake",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Kosciusko"
+  },
+  {
+    "zip_code": 46984,
+    "latitude": 40.671369,
+    "longitude": -85.828846,
+    "city": "Somerset",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46985,
+    "latitude": 41.003004,
+    "longitude": -86.589005,
+    "city": "Star City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 46986,
+    "latitude": 40.505141,
+    "longitude": -85.815617,
+    "city": "Swayzee",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46987,
+    "latitude": 40.564673,
+    "longitude": -85.765569,
+    "city": "Sweetser",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46988,
+    "latitude": 40.866096,
+    "longitude": -86.233899,
+    "city": "Twelve Mile",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46989,
+    "latitude": 40.455985,
+    "longitude": -85.62512,
+    "city": "Upland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46990,
+    "latitude": 40.886571,
+    "longitude": -85.736386,
+    "city": "Urbana",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46991,
+    "latitude": 40.617379,
+    "longitude": -85.514796,
+    "city": "Van Buren",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Grant"
+  },
+  {
+    "zip_code": 46992,
+    "latitude": 40.801867,
+    "longitude": -85.791823,
+    "city": "Wabash",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wabash"
+  },
+  {
+    "zip_code": 46994,
+    "latitude": 40.677128,
+    "longitude": -86.260927,
+    "city": "Walton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 46995,
+    "latitude": 40.442117,
+    "longitude": -86.215482,
+    "city": "West Middleton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 46996,
+    "latitude": 41.035862,
+    "longitude": -86.622156,
+    "city": "Winamac",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 46998,
+    "latitude": 40.866023,
+    "longitude": -86.225982,
+    "city": "Young America",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Cass"
+  },
+  {
+    "zip_code": 47001,
+    "latitude": 39.091081,
+    "longitude": -84.988904,
+    "city": "Aurora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47003,
+    "latitude": 39.515851,
+    "longitude": -84.862979,
+    "city": "West College Corner",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 47006,
+    "latitude": 39.19017,
+    "longitude": -85.229151,
+    "city": "Batesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47010,
+    "latitude": 39.490701,
+    "longitude": -84.853529,
+    "city": "Bath",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47011,
+    "latitude": 38.864386,
+    "longitude": -85.074867,
+    "city": "Bennington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Switzerland"
+  },
+  {
+    "zip_code": 47012,
+    "latitude": 39.416398,
+    "longitude": -85.00028,
+    "city": "Brookville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47016,
+    "latitude": 39.367379,
+    "longitude": -84.910391,
+    "city": "Cedar Grove",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47017,
+    "latitude": 38.945037,
+    "longitude": -85.191159,
+    "city": "Cross Plains",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47018,
+    "latitude": 39.002217,
+    "longitude": -85.02623,
+    "city": "Dillsboro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47019,
+    "latitude": 38.868591,
+    "longitude": -84.925998,
+    "city": "East Enterprise",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Switzerland"
+  },
+  {
+    "zip_code": 47020,
+    "latitude": 38.82353,
+    "longitude": -84.950119,
+    "city": "Florence",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Switzerland"
+  },
+  {
+    "zip_code": 47021,
+    "latitude": 38.970266,
+    "longitude": -85.15039,
+    "city": "Friendship",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47022,
+    "latitude": 39.193261,
+    "longitude": -84.964354,
+    "city": "Guilford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47023,
+    "latitude": 39.082863,
+    "longitude": -85.374353,
+    "city": "Holton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47024,
+    "latitude": 39.467957,
+    "longitude": -85.178057,
+    "city": "Laurel",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47025,
+    "latitude": 39.152741,
+    "longitude": -84.891015,
+    "city": "Lawrenceburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47030,
+    "latitude": 39.433095,
+    "longitude": -85.111826,
+    "city": "Metamora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47031,
+    "latitude": 39.115266,
+    "longitude": -85.22819,
+    "city": "Milan",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47032,
+    "latitude": 39.16259,
+    "longitude": -84.980417,
+    "city": "Moores Hill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47033,
+    "latitude": 39.281429,
+    "longitude": -85.1739,
+    "city": "Morris",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47034,
+    "latitude": 39.204833,
+    "longitude": -85.326962,
+    "city": "Napoleon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47035,
+    "latitude": 39.309983,
+    "longitude": -84.900711,
+    "city": "New Trenton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47036,
+    "latitude": 39.386175,
+    "longitude": -85.238529,
+    "city": "Oldenburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 47037,
+    "latitude": 39.172808,
+    "longitude": -85.285367,
+    "city": "Osgood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47038,
+    "latitude": 38.84188,
+    "longitude": -84.881782,
+    "city": "Patriot",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Switzerland"
+  },
+  {
+    "zip_code": 47039,
+    "latitude": 39.111625,
+    "longitude": -85.255114,
+    "city": "Pierceville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47040,
+    "latitude": 38.958134,
+    "longitude": -84.984085,
+    "city": "Rising Sun",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ohio"
+  },
+  {
+    "zip_code": 47041,
+    "latitude": 39.231396,
+    "longitude": -85.140001,
+    "city": "Sunman",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47042,
+    "latitude": 39.039682,
+    "longitude": -85.244161,
+    "city": "Versailles",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Ripley"
+  },
+  {
+    "zip_code": 47043,
+    "latitude": 38.809388,
+    "longitude": -85.061136,
+    "city": "Vevay",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Switzerland"
+  },
+  {
+    "zip_code": 47060,
+    "latitude": 39.25151,
+    "longitude": -84.91437,
+    "city": "West Harrison",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dearborn"
+  },
+  {
+    "zip_code": 47102,
+    "latitude": 38.748455,
+    "longitude": -85.750469,
+    "city": "Austin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 47104,
+    "latitude": 38.539899,
+    "longitude": -85.421753,
+    "city": "Bethlehem",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47106,
+    "latitude": 38.482335,
+    "longitude": -85.76776,
+    "city": "Borden",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47107,
+    "latitude": 38.190314,
+    "longitude": -86.115257,
+    "city": "Bradford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47108,
+    "latitude": 38.614255,
+    "longitude": -86.220645,
+    "city": "Campbellsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47110,
+    "latitude": 38.096971,
+    "longitude": -86.172327,
+    "city": "Central",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47111,
+    "latitude": 38.459992,
+    "longitude": -85.615235,
+    "city": "Charlestown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47112,
+    "latitude": 38.1863,
+    "longitude": -86.145211,
+    "city": "Corydon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47114,
+    "latitude": 38.289882,
+    "longitude": -86.08239,
+    "city": "Crandall",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47115,
+    "latitude": 38.338462,
+    "longitude": -86.212957,
+    "city": "Depauw",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47116,
+    "latitude": 38.329303,
+    "longitude": -86.575635,
+    "city": "Eckerty",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47117,
+    "latitude": 38.094629,
+    "longitude": -85.988349,
+    "city": "Elizabeth",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47118,
+    "latitude": 38.288549,
+    "longitude": -86.501185,
+    "city": "English",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47119,
+    "latitude": 38.35257,
+    "longitude": -85.890727,
+    "city": "Floyds Knobs",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47120,
+    "latitude": 38.46772,
+    "longitude": -86.185333,
+    "city": "Fredericksburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47122,
+    "latitude": 38.31098,
+    "longitude": -85.960009,
+    "city": "Georgetown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47123,
+    "latitude": 38.281966,
+    "longitude": -86.484327,
+    "city": "Grantsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47124,
+    "latitude": 38.373209,
+    "longitude": -85.986626,
+    "city": "Greenville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47125,
+    "latitude": 38.500408,
+    "longitude": -86.244689,
+    "city": "Hardinsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47126,
+    "latitude": 38.5504,
+    "longitude": -85.774327,
+    "city": "Henryville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47129,
+    "latitude": 38.310958,
+    "longitude": -85.764463,
+    "city": "Clarksville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47130,
+    "latitude": 38.404909,
+    "longitude": -85.716548,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47131,
+    "latitude": 38.437021,
+    "longitude": -85.704973,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47132,
+    "latitude": 38.286819,
+    "longitude": -85.732062,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47133,
+    "latitude": 38.286819,
+    "longitude": -85.732062,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47134,
+    "latitude": 38.286819,
+    "longitude": -85.732062,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47135,
+    "latitude": 38.039957,
+    "longitude": -86.06555,
+    "city": "Laconia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47136,
+    "latitude": 38.227684,
+    "longitude": -85.990389,
+    "city": "Lanesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47137,
+    "latitude": 38.195771,
+    "longitude": -86.368905,
+    "city": "Leavenworth",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47138,
+    "latitude": 38.671281,
+    "longitude": -85.6333,
+    "city": "Lexington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 47139,
+    "latitude": 38.600666,
+    "longitude": -86.078828,
+    "city": "Little York",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47140,
+    "latitude": 38.357884,
+    "longitude": -86.372687,
+    "city": "Marengo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47141,
+    "latitude": 38.549871,
+    "longitude": -85.597466,
+    "city": "Marysville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47142,
+    "latitude": 38.073945,
+    "longitude": -86.204065,
+    "city": "Mauckport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47143,
+    "latitude": 38.467595,
+    "longitude": -85.769631,
+    "city": "Memphis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47144,
+    "latitude": 38.286819,
+    "longitude": -85.732062,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47145,
+    "latitude": 38.337832,
+    "longitude": -86.314971,
+    "city": "Milltown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47146,
+    "latitude": 38.298486,
+    "longitude": -85.896961,
+    "city": "Mount Saint Francis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47147,
+    "latitude": 38.580326,
+    "longitude": -85.532171,
+    "city": "Nabb",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47150,
+    "latitude": 38.293355,
+    "longitude": -85.837911,
+    "city": "New Albany",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47151,
+    "latitude": 38.298486,
+    "longitude": -85.896961,
+    "city": "New Albany",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 47160,
+    "latitude": 38.148843,
+    "longitude": -86.049282,
+    "city": "New Middletown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47161,
+    "latitude": 38.328025,
+    "longitude": -86.105996,
+    "city": "New Salisbury",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47162,
+    "latitude": 38.550289,
+    "longitude": -85.486131,
+    "city": "New Washington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47163,
+    "latitude": 38.535058,
+    "longitude": -85.669829,
+    "city": "Otisco",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47164,
+    "latitude": 38.380353,
+    "longitude": -86.105954,
+    "city": "Palmyra",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47165,
+    "latitude": 38.512878,
+    "longitude": -86.010567,
+    "city": "Pekin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47166,
+    "latitude": 38.303364,
+    "longitude": -86.168979,
+    "city": "Ramsey",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Harrison"
+  },
+  {
+    "zip_code": 47167,
+    "latitude": 38.608621,
+    "longitude": -86.079404,
+    "city": "Salem",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 47170,
+    "latitude": 38.695648,
+    "longitude": -85.772815,
+    "city": "Scottsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Scott"
+  },
+  {
+    "zip_code": 47172,
+    "latitude": 38.404577,
+    "longitude": -85.787963,
+    "city": "Sellersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47174,
+    "latitude": 38.22588,
+    "longitude": -86.490751,
+    "city": "Sulphur",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47175,
+    "latitude": 38.345487,
+    "longitude": -86.54608,
+    "city": "Taswell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Crawford"
+  },
+  {
+    "zip_code": 47177,
+    "latitude": 38.584823,
+    "longitude": -85.748631,
+    "city": "Underwood",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47199,
+    "latitude": 38.286819,
+    "longitude": -85.732062,
+    "city": "Jeffersonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clark"
+  },
+  {
+    "zip_code": 47201,
+    "latitude": 39.191447,
+    "longitude": -85.891338,
+    "city": "Columbus",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47202,
+    "latitude": 39.192972,
+    "longitude": -85.885168,
+    "city": "Columbus",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47203,
+    "latitude": 39.241129,
+    "longitude": -85.827439,
+    "city": "Columbus",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47220,
+    "latitude": 38.866192,
+    "longitude": -86.046452,
+    "city": "Brownstown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47223,
+    "latitude": 39.046146,
+    "longitude": -85.486831,
+    "city": "Butlerville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47224,
+    "latitude": 38.873448,
+    "longitude": -85.291935,
+    "city": "Canaan",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 47225,
+    "latitude": 39.424072,
+    "longitude": -85.347677,
+    "city": "Clarksburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47226,
+    "latitude": 39.282609,
+    "longitude": -85.868533,
+    "city": "Clifford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47227,
+    "latitude": 38.868992,
+    "longitude": -85.660004,
+    "city": "Commiskey",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47228,
+    "latitude": 38.974458,
+    "longitude": -85.962761,
+    "city": "Cortland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47229,
+    "latitude": 38.815289,
+    "longitude": -85.985182,
+    "city": "Crothersville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47230,
+    "latitude": 38.794988,
+    "longitude": -85.60731,
+    "city": "Deputy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 47231,
+    "latitude": 38.876272,
+    "longitude": -85.500519,
+    "city": "Dupont",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 47232,
+    "latitude": 39.118884,
+    "longitude": -85.773533,
+    "city": "Elizabethtown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47234,
+    "latitude": 39.393802,
+    "longitude": -85.77201,
+    "city": "Flat Rock",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Shelby"
+  },
+  {
+    "zip_code": 47235,
+    "latitude": 38.962837,
+    "longitude": -86.155545,
+    "city": "Freetown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47236,
+    "latitude": 39.152228,
+    "longitude": -85.726135,
+    "city": "Grammer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47240,
+    "latitude": 39.299802,
+    "longitude": -85.491781,
+    "city": "Greensburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47243,
+    "latitude": 38.734755,
+    "longitude": -85.376804,
+    "city": "Hanover",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 47244,
+    "latitude": 39.218578,
+    "longitude": -85.717648,
+    "city": "Hartsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47245,
+    "latitude": 39.001301,
+    "longitude": -85.619906,
+    "city": "Hayden",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47246,
+    "latitude": 39.20336,
+    "longitude": -85.787611,
+    "city": "Hope",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47247,
+    "latitude": 39.059349,
+    "longitude": -85.888579,
+    "city": "Jonesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47249,
+    "latitude": 38.897974,
+    "longitude": -86.056681,
+    "city": "Kurtz",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47250,
+    "latitude": 38.804552,
+    "longitude": -85.420605,
+    "city": "Madison",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jefferson"
+  },
+  {
+    "zip_code": 47260,
+    "latitude": 38.84003,
+    "longitude": -86.194693,
+    "city": "Medora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47261,
+    "latitude": 39.292004,
+    "longitude": -85.491788,
+    "city": "Millhousen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47262,
+    "latitude": 39.001301,
+    "longitude": -85.619906,
+    "city": "Nebraska",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47263,
+    "latitude": 39.308252,
+    "longitude": -85.329695,
+    "city": "New Point",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47264,
+    "latitude": 38.947371,
+    "longitude": -86.23671,
+    "city": "Norman",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47265,
+    "latitude": 39.023539,
+    "longitude": -85.622328,
+    "city": "North Vernon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47270,
+    "latitude": 38.86752,
+    "longitude": -85.716186,
+    "city": "Paris Crossing",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47272,
+    "latitude": 39.318,
+    "longitude": -85.463684,
+    "city": "Saint Paul",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47273,
+    "latitude": 39.064795,
+    "longitude": -85.733853,
+    "city": "Scipio",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47274,
+    "latitude": 38.944827,
+    "longitude": -86.010789,
+    "city": "Seymour",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47280,
+    "latitude": 39.295266,
+    "longitude": -85.949844,
+    "city": "Taylorsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Bartholomew"
+  },
+  {
+    "zip_code": 47281,
+    "latitude": 38.814419,
+    "longitude": -86.092983,
+    "city": "Vallonia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jackson"
+  },
+  {
+    "zip_code": 47282,
+    "latitude": 38.982509,
+    "longitude": -85.616595,
+    "city": "Vernon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jennings"
+  },
+  {
+    "zip_code": 47283,
+    "latitude": 39.241181,
+    "longitude": -85.564278,
+    "city": "Westport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Decatur"
+  },
+  {
+    "zip_code": 47302,
+    "latitude": 40.142124,
+    "longitude": -85.389874,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47303,
+    "latitude": 40.280332,
+    "longitude": -85.383447,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47304,
+    "latitude": 40.238544,
+    "longitude": -85.484122,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47305,
+    "latitude": 40.247979,
+    "longitude": -85.433223,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47306,
+    "latitude": 40.202293,
+    "longitude": -85.408221,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47307,
+    "latitude": 40.162093,
+    "longitude": -85.442772,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47308,
+    "latitude": 40.227938,
+    "longitude": -85.396685,
+    "city": "Muncie",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47320,
+    "latitude": 40.277967,
+    "longitude": -85.274125,
+    "city": "Albany",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47322,
+    "latitude": 39.656994,
+    "longitude": -85.167996,
+    "city": "Bentonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 47324,
+    "latitude": 39.757864,
+    "longitude": -84.848442,
+    "city": "Boston",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47325,
+    "latitude": 39.682946,
+    "longitude": -84.995266,
+    "city": "Brownsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 47326,
+    "latitude": 40.54116,
+    "longitude": -84.982803,
+    "city": "Bryant",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47327,
+    "latitude": 39.848569,
+    "longitude": -85.035364,
+    "city": "Cambridge City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47330,
+    "latitude": 39.787438,
+    "longitude": -84.986277,
+    "city": "Centerville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47331,
+    "latitude": 39.656933,
+    "longitude": -85.168099,
+    "city": "Connersville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fayette"
+  },
+  {
+    "zip_code": 47334,
+    "latitude": 40.143843,
+    "longitude": -85.508457,
+    "city": "Daleville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47335,
+    "latitude": 39.812688,
+    "longitude": -85.204359,
+    "city": "Dublin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47336,
+    "latitude": 40.43525,
+    "longitude": -85.091124,
+    "city": "Dunkirk",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47337,
+    "latitude": 39.803063,
+    "longitude": -85.43711,
+    "city": "Dunreith",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47338,
+    "latitude": 40.252982,
+    "longitude": -85.338738,
+    "city": "Eaton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47339,
+    "latitude": 39.961044,
+    "longitude": -85.102314,
+    "city": "Economy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47340,
+    "latitude": 40.187565,
+    "longitude": -85.14558,
+    "city": "Farmland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47341,
+    "latitude": 39.864218,
+    "longitude": -84.995365,
+    "city": "Fountain City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47342,
+    "latitude": 40.309361,
+    "longitude": -85.432657,
+    "city": "Gaston",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47344,
+    "latitude": 39.878933,
+    "longitude": -85.464036,
+    "city": "Greensboro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47345,
+    "latitude": 39.893845,
+    "longitude": -85.013775,
+    "city": "Greens Fork",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47346,
+    "latitude": 39.895789,
+    "longitude": -85.05967,
+    "city": "Hagerstown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47348,
+    "latitude": 40.472672,
+    "longitude": -85.326447,
+    "city": "Hartford City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Blackford"
+  },
+  {
+    "zip_code": 47351,
+    "latitude": 39.904018,
+    "longitude": -85.520548,
+    "city": "Kennard",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47352,
+    "latitude": 39.830372,
+    "longitude": -85.372732,
+    "city": "Lewisville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47353,
+    "latitude": 39.625149,
+    "longitude": -84.925002,
+    "city": "Liberty",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Union"
+  },
+  {
+    "zip_code": 47354,
+    "latitude": 40.048148,
+    "longitude": -85.17051,
+    "city": "Losantville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47355,
+    "latitude": 40.055775,
+    "longitude": -84.941102,
+    "city": "Lynn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47356,
+    "latitude": 39.941555,
+    "longitude": -85.462793,
+    "city": "Middletown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47357,
+    "latitude": 39.764911,
+    "longitude": -85.109015,
+    "city": "Milton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47358,
+    "latitude": 40.055419,
+    "longitude": -85.108514,
+    "city": "Modoc",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47359,
+    "latitude": 40.515895,
+    "longitude": -85.295619,
+    "city": "Montpelier",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Blackford"
+  },
+  {
+    "zip_code": 47360,
+    "latitude": 40.01641,
+    "longitude": -85.293037,
+    "city": "Mooreland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47361,
+    "latitude": 40.001295,
+    "longitude": -85.319923,
+    "city": "Mount Summit",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47362,
+    "latitude": 39.92487,
+    "longitude": -85.366926,
+    "city": "New Castle",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47366,
+    "latitude": 39.931785,
+    "longitude": -85.398625,
+    "city": "New Lisbon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47367,
+    "latitude": 40.079197,
+    "longitude": -85.389978,
+    "city": "Oakville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47368,
+    "latitude": 40.174184,
+    "longitude": -85.173858,
+    "city": "Parker City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47369,
+    "latitude": 40.457413,
+    "longitude": -85.133813,
+    "city": "Pennville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47370,
+    "latitude": 39.861314,
+    "longitude": -85.147437,
+    "city": "Pershing",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47371,
+    "latitude": 40.431634,
+    "longitude": -84.983015,
+    "city": "Portland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47373,
+    "latitude": 40.359568,
+    "longitude": -85.151994,
+    "city": "Redkey",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47374,
+    "latitude": 39.84081,
+    "longitude": -85.010442,
+    "city": "Richmond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47375,
+    "latitude": 39.860417,
+    "longitude": -85.015983,
+    "city": "Richmond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47380,
+    "latitude": 40.167082,
+    "longitude": -85.048286,
+    "city": "Ridgeville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47381,
+    "latitude": 40.378574,
+    "longitude": -84.882263,
+    "city": "Salamonia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jay"
+  },
+  {
+    "zip_code": 47382,
+    "latitude": 40.234703,
+    "longitude": -84.91848,
+    "city": "Saratoga",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47383,
+    "latitude": 40.15178,
+    "longitude": -85.265562,
+    "city": "Selma",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47384,
+    "latitude": 39.946332,
+    "longitude": -85.485528,
+    "city": "Shirley",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47385,
+    "latitude": 39.91725,
+    "longitude": -85.450834,
+    "city": "Spiceland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47386,
+    "latitude": 40.011128,
+    "longitude": -85.383768,
+    "city": "Springport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47387,
+    "latitude": 39.83059,
+    "longitude": -85.284275,
+    "city": "Straughn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47388,
+    "latitude": 40.005999,
+    "longitude": -85.44341,
+    "city": "Sulphur Springs",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 47390,
+    "latitude": 40.166457,
+    "longitude": -85.006297,
+    "city": "Union City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47392,
+    "latitude": 39.911895,
+    "longitude": -84.935057,
+    "city": "Webster",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47393,
+    "latitude": 39.930541,
+    "longitude": -85.028032,
+    "city": "Williamsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Wayne"
+  },
+  {
+    "zip_code": 47394,
+    "latitude": 40.159854,
+    "longitude": -84.984682,
+    "city": "Winchester",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Randolph"
+  },
+  {
+    "zip_code": 47396,
+    "latitude": 40.19855,
+    "longitude": -85.509272,
+    "city": "Yorktown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Delaware"
+  },
+  {
+    "zip_code": 47401,
+    "latitude": 39.07881,
+    "longitude": -86.435094,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47402,
+    "latitude": 39.173234,
+    "longitude": -86.501543,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47403,
+    "latitude": 39.07884,
+    "longitude": -86.592389,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47404,
+    "latitude": 39.25007,
+    "longitude": -86.580849,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47405,
+    "latitude": 39.173447,
+    "longitude": -86.515145,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47406,
+    "latitude": 39.174541,
+    "longitude": -86.518296,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47407,
+    "latitude": 39.173234,
+    "longitude": -86.501543,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47408,
+    "latitude": 39.230326,
+    "longitude": -86.469187,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47420,
+    "latitude": 38.839482,
+    "longitude": -86.47943,
+    "city": "Avoca",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47421,
+    "latitude": 38.890524,
+    "longitude": -86.525843,
+    "city": "Bedford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47424,
+    "latitude": 39.031541,
+    "longitude": -86.838359,
+    "city": "Bloomfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47426,
+    "latitude": 39.173234,
+    "longitude": -86.501543,
+    "city": "Clear Creek",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47427,
+    "latitude": 39.319527,
+    "longitude": -86.842743,
+    "city": "Coal City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47429,
+    "latitude": 39.276356,
+    "longitude": -86.62658,
+    "city": "Ellettsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47430,
+    "latitude": 38.839482,
+    "longitude": -86.47943,
+    "city": "Fort Ritner",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47431,
+    "latitude": 39.319527,
+    "longitude": -86.842743,
+    "city": "Freedom",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47432,
+    "latitude": 38.486914,
+    "longitude": -86.587861,
+    "city": "French Lick",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 47433,
+    "latitude": 39.346964,
+    "longitude": -86.701332,
+    "city": "Gosport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47434,
+    "latitude": 39.012984,
+    "longitude": -86.545732,
+    "city": "Harrodsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47435,
+    "latitude": 39.196272,
+    "longitude": -86.230212,
+    "city": "Helmsburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 47436,
+    "latitude": 38.839482,
+    "longitude": -86.47943,
+    "city": "Heltonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47437,
+    "latitude": 38.722153,
+    "longitude": -86.670987,
+    "city": "Huron",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47438,
+    "latitude": 39.078835,
+    "longitude": -86.992896,
+    "city": "Jasonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47439,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Koleen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47441,
+    "latitude": 39.04963,
+    "longitude": -87.126965,
+    "city": "Linton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47443,
+    "latitude": 38.988255,
+    "longitude": -87.102958,
+    "city": "Lyons",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47445,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Midland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47446,
+    "latitude": 38.803928,
+    "longitude": -86.50326,
+    "city": "Mitchell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47448,
+    "latitude": 39.180583,
+    "longitude": -86.226228,
+    "city": "Nashville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Brown"
+  },
+  {
+    "zip_code": 47449,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Newberry",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47451,
+    "latitude": 38.895608,
+    "longitude": -86.525522,
+    "city": "Oolitic",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47452,
+    "latitude": 38.586595,
+    "longitude": -86.451946,
+    "city": "Orleans",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 47453,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Owensburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47454,
+    "latitude": 38.513132,
+    "longitude": -86.459473,
+    "city": "Paoli",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 47455,
+    "latitude": 39.319527,
+    "longitude": -86.842743,
+    "city": "Patricksburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47456,
+    "latitude": 39.442888,
+    "longitude": -86.669559,
+    "city": "Quincy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47457,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Scotland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47458,
+    "latitude": 39.173234,
+    "longitude": -86.501543,
+    "city": "Smithville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47459,
+    "latitude": 39.104137,
+    "longitude": -86.73706,
+    "city": "Solsberry",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47460,
+    "latitude": 39.313258,
+    "longitude": -86.756423,
+    "city": "Spencer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Owen"
+  },
+  {
+    "zip_code": 47462,
+    "latitude": 38.941408,
+    "longitude": -86.584408,
+    "city": "Springville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47463,
+    "latitude": 39.085896,
+    "longitude": -86.6689,
+    "city": "Stanford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47464,
+    "latitude": 39.299823,
+    "longitude": -86.648201,
+    "city": "Stinesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47465,
+    "latitude": 39.037144,
+    "longitude": -86.961577,
+    "city": "Switz City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47467,
+    "latitude": 38.839482,
+    "longitude": -86.47943,
+    "city": "Tunnelton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47468,
+    "latitude": 39.274735,
+    "longitude": -86.42106,
+    "city": "Unionville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47469,
+    "latitude": 38.620834,
+    "longitude": -86.589851,
+    "city": "West Baden Springs",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 47470,
+    "latitude": 38.839482,
+    "longitude": -86.47943,
+    "city": "Williams",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Lawrence"
+  },
+  {
+    "zip_code": 47471,
+    "latitude": 39.124289,
+    "longitude": -86.970755,
+    "city": "Worthington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 47490,
+    "latitude": 39.173234,
+    "longitude": -86.501543,
+    "city": "Bloomington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Monroe"
+  },
+  {
+    "zip_code": 47501,
+    "latitude": 38.689503,
+    "longitude": -87.121505,
+    "city": "Washington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47512,
+    "latitude": 38.741286,
+    "longitude": -87.346192,
+    "city": "Bicknell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47513,
+    "latitude": 38.326772,
+    "longitude": -86.820726,
+    "city": "Birdseye",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47514,
+    "latitude": 38.053876,
+    "longitude": -86.621994,
+    "city": "Branchville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47515,
+    "latitude": 38.198133,
+    "longitude": -86.682068,
+    "city": "Bristow",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47516,
+    "latitude": 38.761354,
+    "longitude": -87.417076,
+    "city": "Bruceville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47519,
+    "latitude": 38.697289,
+    "longitude": -87.091762,
+    "city": "Cannelburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47520,
+    "latitude": 37.949544,
+    "longitude": -86.715557,
+    "city": "Cannelton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47521,
+    "latitude": 38.406745,
+    "longitude": -86.742618,
+    "city": "Celestine",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47522,
+    "latitude": 38.894879,
+    "longitude": -86.900174,
+    "city": "Crane",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 47523,
+    "latitude": 38.149611,
+    "longitude": -86.946217,
+    "city": "Dale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47524,
+    "latitude": 38.626138,
+    "longitude": -87.511863,
+    "city": "Decker",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47525,
+    "latitude": 38.020017,
+    "longitude": -86.565129,
+    "city": "Derby",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47527,
+    "latitude": 38.439461,
+    "longitude": -86.777335,
+    "city": "Dubois",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47528,
+    "latitude": 38.786795,
+    "longitude": -87.38271,
+    "city": "Edwardsport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47529,
+    "latitude": 38.877167,
+    "longitude": -87.085001,
+    "city": "Elnora",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47531,
+    "latitude": 38.045062,
+    "longitude": -86.864745,
+    "city": "Evanston",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47532,
+    "latitude": 38.251171,
+    "longitude": -86.867492,
+    "city": "Ferdinand",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47535,
+    "latitude": 38.862735,
+    "longitude": -87.312678,
+    "city": "Freelandville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47536,
+    "latitude": 37.993813,
+    "longitude": -87.016971,
+    "city": "Fulda",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47537,
+    "latitude": 38.080052,
+    "longitude": -87.049834,
+    "city": "Gentryville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47541,
+    "latitude": 38.249617,
+    "longitude": -87.007734,
+    "city": "Holland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47542,
+    "latitude": 38.298972,
+    "longitude": -86.952413,
+    "city": "Huntingburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47545,
+    "latitude": 38.413687,
+    "longitude": -87.000879,
+    "city": "Ireland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47546,
+    "latitude": 38.360357,
+    "longitude": -86.929481,
+    "city": "Jasper",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47547,
+    "latitude": 38.364749,
+    "longitude": -86.876173,
+    "city": "Jasper",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47549,
+    "latitude": 38.364749,
+    "longitude": -86.876173,
+    "city": "Jasper",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47550,
+    "latitude": 38.042888,
+    "longitude": -86.94971,
+    "city": "Lamar",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47551,
+    "latitude": 38.127658,
+    "longitude": -86.570969,
+    "city": "Leopold",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47552,
+    "latitude": 38.124192,
+    "longitude": -86.995988,
+    "city": "Lincoln City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47553,
+    "latitude": 38.771691,
+    "longitude": -86.912985,
+    "city": "Loogootee",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 47556,
+    "latitude": 38.16644,
+    "longitude": -86.917205,
+    "city": "Mariah Hill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47557,
+    "latitude": 38.590433,
+    "longitude": -87.368456,
+    "city": "Monroe City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47558,
+    "latitude": 38.697289,
+    "longitude": -87.091762,
+    "city": "Montgomery",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47561,
+    "latitude": 38.709818,
+    "longitude": -87.388134,
+    "city": "Oaktown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47562,
+    "latitude": 38.841866,
+    "longitude": -86.986145,
+    "city": "Odon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47564,
+    "latitude": 38.477976,
+    "longitude": -87.128545,
+    "city": "Otwell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47567,
+    "latitude": 38.459787,
+    "longitude": -87.298174,
+    "city": "Petersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47568,
+    "latitude": 38.697289,
+    "longitude": -87.091762,
+    "city": "Plainville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Daviess"
+  },
+  {
+    "zip_code": 47573,
+    "latitude": 38.744136,
+    "longitude": -87.321357,
+    "city": "Ragsdale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47574,
+    "latitude": 37.937193,
+    "longitude": -86.534002,
+    "city": "Rome",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47575,
+    "latitude": 38.321125,
+    "longitude": -86.823444,
+    "city": "Saint Anthony",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47576,
+    "latitude": 38.152479,
+    "longitude": -86.64902,
+    "city": "Saint Croix",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47577,
+    "latitude": 38.141725,
+    "longitude": -86.821891,
+    "city": "Saint Meinrad",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47578,
+    "latitude": 38.881471,
+    "longitude": -87.19594,
+    "city": "Sandborn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47579,
+    "latitude": 38.117579,
+    "longitude": -86.928645,
+    "city": "Santa Claus",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47580,
+    "latitude": 38.352759,
+    "longitude": -86.912488,
+    "city": "Schnellville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Dubois"
+  },
+  {
+    "zip_code": 47581,
+    "latitude": 38.669976,
+    "longitude": -86.788412,
+    "city": "Shoals",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Martin"
+  },
+  {
+    "zip_code": 47584,
+    "latitude": 38.26376,
+    "longitude": -87.230482,
+    "city": "Spurgeon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47585,
+    "latitude": 38.271004,
+    "longitude": -87.147783,
+    "city": "Stendal",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47586,
+    "latitude": 37.999711,
+    "longitude": -86.731971,
+    "city": "Tell City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Perry"
+  },
+  {
+    "zip_code": 47588,
+    "latitude": 38.033118,
+    "longitude": -86.798123,
+    "city": "Troy",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47590,
+    "latitude": 38.367402,
+    "longitude": -87.109044,
+    "city": "Velpen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47591,
+    "latitude": 38.707231,
+    "longitude": -87.417306,
+    "city": "Vincennes",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47596,
+    "latitude": 38.791556,
+    "longitude": -87.3318,
+    "city": "Westphalia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47597,
+    "latitude": 38.656969,
+    "longitude": -87.329395,
+    "city": "Wheatland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Knox"
+  },
+  {
+    "zip_code": 47598,
+    "latitude": 38.372926,
+    "longitude": -87.211093,
+    "city": "Winslow",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pike"
+  },
+  {
+    "zip_code": 47601,
+    "latitude": 38.04247,
+    "longitude": -87.287145,
+    "city": "Boonville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47610,
+    "latitude": 38.054569,
+    "longitude": -87.267847,
+    "city": "Chandler",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47611,
+    "latitude": 38.031396,
+    "longitude": -86.970053,
+    "city": "Chrisney",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47612,
+    "latitude": 38.175698,
+    "longitude": -87.711423,
+    "city": "Cynthiana",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47613,
+    "latitude": 38.128931,
+    "longitude": -87.416104,
+    "city": "Elberfeld",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47614,
+    "latitude": 38.130034,
+    "longitude": -87.163636,
+    "city": "Folsomville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47615,
+    "latitude": 38.003542,
+    "longitude": -86.996351,
+    "city": "Grandview",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47616,
+    "latitude": 38.190994,
+    "longitude": -87.91701,
+    "city": "Griffin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47617,
+    "latitude": 37.903557,
+    "longitude": -87.249886,
+    "city": "Hatfield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47618,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Inglefield",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47619,
+    "latitude": 38.162899,
+    "longitude": -87.283955,
+    "city": "Lynnville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47620,
+    "latitude": 37.961781,
+    "longitude": -87.868228,
+    "city": "Mount Vernon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47629,
+    "latitude": 38.06242,
+    "longitude": -87.245214,
+    "city": "Newburgh",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47630,
+    "latitude": 38.038331,
+    "longitude": -87.283581,
+    "city": "Newburgh",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47631,
+    "latitude": 38.101827,
+    "longitude": -87.898765,
+    "city": "New Harmony",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47633,
+    "latitude": 38.148016,
+    "longitude": -87.786303,
+    "city": "Poseyville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47634,
+    "latitude": 37.975392,
+    "longitude": -87.136282,
+    "city": "Richland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47635,
+    "latitude": 37.929173,
+    "longitude": -87.033681,
+    "city": "Rockport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Spencer"
+  },
+  {
+    "zip_code": 47637,
+    "latitude": 38.118439,
+    "longitude": -87.244937,
+    "city": "Tennyson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warrick"
+  },
+  {
+    "zip_code": 47638,
+    "latitude": 38.069277,
+    "longitude": -87.783602,
+    "city": "Wadesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Posey"
+  },
+  {
+    "zip_code": 47639,
+    "latitude": 38.202701,
+    "longitude": -87.577358,
+    "city": "Haubstadt",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47640,
+    "latitude": 38.384971,
+    "longitude": -87.473674,
+    "city": "Hazleton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47647,
+    "latitude": 38.34949,
+    "longitude": -87.651777,
+    "city": "Buckskin",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47648,
+    "latitude": 38.30512,
+    "longitude": -87.518339,
+    "city": "Fort Branch",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47649,
+    "latitude": 38.331581,
+    "longitude": -87.447826,
+    "city": "Francisco",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47654,
+    "latitude": 38.34949,
+    "longitude": -87.651777,
+    "city": "Mackey",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47660,
+    "latitude": 38.306265,
+    "longitude": -87.514796,
+    "city": "Oakland City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47665,
+    "latitude": 38.272833,
+    "longitude": -87.681174,
+    "city": "Owensville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47666,
+    "latitude": 38.401233,
+    "longitude": -87.583761,
+    "city": "Patoka",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47670,
+    "latitude": 38.303369,
+    "longitude": -87.534003,
+    "city": "Princeton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47683,
+    "latitude": 38.281095,
+    "longitude": -87.37734,
+    "city": "Somerville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Gibson"
+  },
+  {
+    "zip_code": 47701,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47702,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47703,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47704,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47705,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47706,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47708,
+    "latitude": 37.976692,
+    "longitude": -87.564842,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47710,
+    "latitude": 38.029714,
+    "longitude": -87.569024,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47711,
+    "latitude": 38.061732,
+    "longitude": -87.554802,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47712,
+    "latitude": 37.984112,
+    "longitude": -87.580057,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47713,
+    "latitude": 37.95219,
+    "longitude": -87.547564,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47714,
+    "latitude": 37.959092,
+    "longitude": -87.519682,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47715,
+    "latitude": 37.984202,
+    "longitude": -87.489212,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47716,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47719,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47720,
+    "latitude": 38.059937,
+    "longitude": -87.637962,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47721,
+    "latitude": 37.978035,
+    "longitude": -87.600791,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47722,
+    "latitude": 37.970192,
+    "longitude": -87.542014,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47724,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47725,
+    "latitude": 38.045237,
+    "longitude": -87.547704,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47727,
+    "latitude": 38.031942,
+    "longitude": -87.538915,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47728,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47730,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47731,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47732,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47733,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47734,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47735,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47736,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47737,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47739,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47740,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47741,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47744,
+    "latitude": 37.977492,
+    "longitude": -87.597316,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47747,
+    "latitude": 37.997128,
+    "longitude": -87.574963,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47750,
+    "latitude": 37.962292,
+    "longitude": -87.505512,
+    "city": "Evansville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vanderburgh"
+  },
+  {
+    "zip_code": 47801,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47802,
+    "latitude": 39.357875,
+    "longitude": -87.42014,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47803,
+    "latitude": 39.468961,
+    "longitude": -87.315069,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47804,
+    "latitude": 39.505836,
+    "longitude": -87.342968,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47805,
+    "latitude": 39.532737,
+    "longitude": -87.325458,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47807,
+    "latitude": 39.467536,
+    "longitude": -87.392019,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47808,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47809,
+    "latitude": 39.470986,
+    "longitude": -87.41107,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47811,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47812,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47813,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47814,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47830,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Bellmore",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47831,
+    "latitude": 39.877847,
+    "longitude": -87.443566,
+    "city": "Blanford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47832,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Bloomingdale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47833,
+    "latitude": 39.415414,
+    "longitude": -87.065524,
+    "city": "Bowling Green",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47834,
+    "latitude": 39.387611,
+    "longitude": -87.126509,
+    "city": "Brazil",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47836,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Bridgeton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47837,
+    "latitude": 39.591282,
+    "longitude": -87.113196,
+    "city": "Carbon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47838,
+    "latitude": 38.966806,
+    "longitude": -87.384354,
+    "city": "Carlisle",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47840,
+    "latitude": 39.408241,
+    "longitude": -87.053309,
+    "city": "Centerpoint",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47841,
+    "latitude": 39.301664,
+    "longitude": -87.136902,
+    "city": "Clay City",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47842,
+    "latitude": 39.746685,
+    "longitude": -87.458654,
+    "city": "Clinton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47845,
+    "latitude": 39.387544,
+    "longitude": -87.090363,
+    "city": "Coalmont",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47846,
+    "latitude": 39.368643,
+    "longitude": -87.175317,
+    "city": "Cory",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47847,
+    "latitude": 39.838952,
+    "longitude": -87.471163,
+    "city": "Dana",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47848,
+    "latitude": 39.039488,
+    "longitude": -87.30662,
+    "city": "Dugger",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47849,
+    "latitude": 39.190101,
+    "longitude": -87.547036,
+    "city": "Fairbanks",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47850,
+    "latitude": 39.222063,
+    "longitude": -87.425279,
+    "city": "Farmersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47851,
+    "latitude": 39.573663,
+    "longitude": -87.24536,
+    "city": "Fontanet",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47852,
+    "latitude": 39.080474,
+    "longitude": -87.449558,
+    "city": "Graysville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47853,
+    "latitude": 39.537199,
+    "longitude": -87.072888,
+    "city": "Harmony",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47854,
+    "latitude": 39.808476,
+    "longitude": -87.424521,
+    "city": "Hillsdale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47855,
+    "latitude": 39.183335,
+    "longitude": -87.299448,
+    "city": "Hymera",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47856,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Judson",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47857,
+    "latitude": 39.526913,
+    "longitude": -87.086882,
+    "city": "Knightsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47858,
+    "latitude": 39.302796,
+    "longitude": -87.277737,
+    "city": "Lewis",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47859,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Marshall",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47860,
+    "latitude": 39.779078,
+    "longitude": -87.221819,
+    "city": "Mecca",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47861,
+    "latitude": 39.057641,
+    "longitude": -87.566595,
+    "city": "Merom",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47862,
+    "latitude": 39.791725,
+    "longitude": -87.369135,
+    "city": "Montezuma",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47863,
+    "latitude": 39.580285,
+    "longitude": -87.46157,
+    "city": "New Goshen",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47864,
+    "latitude": 39.041245,
+    "longitude": -87.475747,
+    "city": "New Lebanon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47865,
+    "latitude": 39.01849,
+    "longitude": -87.389047,
+    "city": "Paxton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47866,
+    "latitude": 39.292886,
+    "longitude": -87.33555,
+    "city": "Pimento",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47868,
+    "latitude": 39.444565,
+    "longitude": -86.960667,
+    "city": "Poland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47869,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Prairie Creek",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47870,
+    "latitude": 39.371187,
+    "longitude": -87.475871,
+    "city": "Prairieton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47871,
+    "latitude": 39.388638,
+    "longitude": -87.301367,
+    "city": "Riley",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47872,
+    "latitude": 39.712361,
+    "longitude": -87.222646,
+    "city": "Rockville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47874,
+    "latitude": 39.622405,
+    "longitude": -87.320767,
+    "city": "Rosedale",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Parke"
+  },
+  {
+    "zip_code": 47875,
+    "latitude": 39.877847,
+    "longitude": -87.443566,
+    "city": "Saint Bernice",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47876,
+    "latitude": 39.433602,
+    "longitude": -87.410094,
+    "city": "Saint Mary Of The Woods",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47878,
+    "latitude": 39.492838,
+    "longitude": -87.266549,
+    "city": "Seelyville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47879,
+    "latitude": 39.10494,
+    "longitude": -87.382988,
+    "city": "Shelburn",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47880,
+    "latitude": 39.600636,
+    "longitude": -87.419569,
+    "city": "Shepardsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47881,
+    "latitude": 39.491743,
+    "longitude": -87.186673,
+    "city": "Staunton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Clay"
+  },
+  {
+    "zip_code": 47882,
+    "latitude": 39.084199,
+    "longitude": -87.419003,
+    "city": "Sullivan",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Sullivan"
+  },
+  {
+    "zip_code": 47884,
+    "latitude": 39.622129,
+    "longitude": -87.454769,
+    "city": "Universal",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47885,
+    "latitude": 39.498419,
+    "longitude": -87.468825,
+    "city": "West Terre Haute",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vigo"
+  },
+  {
+    "zip_code": 47901,
+    "latitude": 40.39905,
+    "longitude": -86.830286,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47902,
+    "latitude": 40.388656,
+    "longitude": -86.894908,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47903,
+    "latitude": 40.304402,
+    "longitude": -86.824468,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47904,
+    "latitude": 40.482287,
+    "longitude": -86.917273,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47905,
+    "latitude": 40.392686,
+    "longitude": -86.884071,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47906,
+    "latitude": 40.467303,
+    "longitude": -86.928132,
+    "city": "West Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47907,
+    "latitude": 40.424923,
+    "longitude": -86.916215,
+    "city": "West Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47909,
+    "latitude": 40.322769,
+    "longitude": -86.888066,
+    "city": "Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47916,
+    "latitude": 39.962271,
+    "longitude": -87.050635,
+    "city": "Alamo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47917,
+    "latitude": 40.527877,
+    "longitude": -87.499343,
+    "city": "Ambia",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47918,
+    "latitude": 40.240204,
+    "longitude": -87.213921,
+    "city": "Attica",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47920,
+    "latitude": 40.533131,
+    "longitude": -86.822842,
+    "city": "Battle Ground",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47921,
+    "latitude": 40.577648,
+    "longitude": -87.311618,
+    "city": "Boswell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47922,
+    "latitude": 40.883043,
+    "longitude": -87.394076,
+    "city": "Brook",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 47923,
+    "latitude": 40.661019,
+    "longitude": -86.845433,
+    "city": "Brookston",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47924,
+    "latitude": 40.487603,
+    "longitude": -86.763111,
+    "city": "Buck Creek",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47925,
+    "latitude": 40.750414,
+    "longitude": -86.789632,
+    "city": "Buffalo",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47926,
+    "latitude": 40.813168,
+    "longitude": -86.619353,
+    "city": "Burnettsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47928,
+    "latitude": 39.927176,
+    "longitude": -87.471616,
+    "city": "Cayuga",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47929,
+    "latitude": 40.754782,
+    "longitude": -86.934599,
+    "city": "Chalmers",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47930,
+    "latitude": 40.250791,
+    "longitude": -86.75244,
+    "city": "Clarks Hill",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47932,
+    "latitude": 40.096833,
+    "longitude": -87.352877,
+    "city": "Covington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47933,
+    "latitude": 40.042425,
+    "longitude": -86.893538,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47934,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47935,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47936,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47937,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47938,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47939,
+    "latitude": 40.040014,
+    "longitude": -86.893614,
+    "city": "Crawfordsville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47940,
+    "latitude": 40.107625,
+    "longitude": -86.777653,
+    "city": "Darlington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47941,
+    "latitude": 40.362781,
+    "longitude": -86.763031,
+    "city": "Dayton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47942,
+    "latitude": 40.679382,
+    "longitude": -87.415972,
+    "city": "Earl Park",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47943,
+    "latitude": 41.076883,
+    "longitude": -87.208786,
+    "city": "Fair Oaks",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 47944,
+    "latitude": 40.606541,
+    "longitude": -87.311247,
+    "city": "Fowler",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47946,
+    "latitude": 40.984442,
+    "longitude": -86.83465,
+    "city": "Francesville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 47948,
+    "latitude": 40.794039,
+    "longitude": -87.324812,
+    "city": "Goodland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 47949,
+    "latitude": 40.045073,
+    "longitude": -87.175046,
+    "city": "Hillsboro",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47950,
+    "latitude": 40.809887,
+    "longitude": -86.739391,
+    "city": "Idaville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47951,
+    "latitude": 40.794191,
+    "longitude": -87.439821,
+    "city": "Kentland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 47952,
+    "latitude": 40.017364,
+    "longitude": -87.256877,
+    "city": "Kingman",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47954,
+    "latitude": 40.050732,
+    "longitude": -86.855491,
+    "city": "Ladoga",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47955,
+    "latitude": 40.191498,
+    "longitude": -86.901826,
+    "city": "Linden",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47957,
+    "latitude": 41.072624,
+    "longitude": -86.849745,
+    "city": "Medaryville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 47958,
+    "latitude": 40.164139,
+    "longitude": -87.14754,
+    "city": "Mellott",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47959,
+    "latitude": 40.795391,
+    "longitude": -86.93711,
+    "city": "Monon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47960,
+    "latitude": 40.779211,
+    "longitude": -86.749521,
+    "city": "Monticello",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47962,
+    "latitude": 40.473159,
+    "longitude": -87.027571,
+    "city": "Montmorenci",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47963,
+    "latitude": 40.95469,
+    "longitude": -87.411025,
+    "city": "Morocco",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 47964,
+    "latitude": 40.977567,
+    "longitude": -87.396982,
+    "city": "Mount Ayr",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Newton"
+  },
+  {
+    "zip_code": 47965,
+    "latitude": 39.952351,
+    "longitude": -86.920609,
+    "city": "New Market",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47966,
+    "latitude": 39.87356,
+    "longitude": -87.406937,
+    "city": "Newport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47967,
+    "latitude": 40.193583,
+    "longitude": -86.976237,
+    "city": "New Richmond",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47968,
+    "latitude": 40.026229,
+    "longitude": -86.827059,
+    "city": "New Ross",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47969,
+    "latitude": 40.203459,
+    "longitude": -87.147014,
+    "city": "Newtown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47970,
+    "latitude": 40.598666,
+    "longitude": -87.13607,
+    "city": "Otterbein",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47971,
+    "latitude": 40.533538,
+    "longitude": -87.259375,
+    "city": "Oxford",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47974,
+    "latitude": 40.023673,
+    "longitude": -87.475513,
+    "city": "Perrysville",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Vermillion"
+  },
+  {
+    "zip_code": 47975,
+    "latitude": 40.439726,
+    "longitude": -87.255833,
+    "city": "Pine Village",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 47977,
+    "latitude": 40.903837,
+    "longitude": -87.140991,
+    "city": "Remington",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 47978,
+    "latitude": 40.994793,
+    "longitude": -87.10368,
+    "city": "Rensselaer",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Jasper"
+  },
+  {
+    "zip_code": 47980,
+    "latitude": 40.782613,
+    "longitude": -86.919278,
+    "city": "Reynolds",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47981,
+    "latitude": 40.258026,
+    "longitude": -86.920786,
+    "city": "Romney",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47982,
+    "latitude": 40.19674,
+    "longitude": -87.526532,
+    "city": "State Line",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 47983,
+    "latitude": 40.284511,
+    "longitude": -86.772436,
+    "city": "Stockwell",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47984,
+    "latitude": 40.606301,
+    "longitude": -87.310042,
+    "city": "Talbot",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47986,
+    "latitude": 40.505497,
+    "longitude": -87.20696,
+    "city": "Templeton",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Benton"
+  },
+  {
+    "zip_code": 47987,
+    "latitude": 40.110318,
+    "longitude": -87.228444,
+    "city": "Veedersburg",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47988,
+    "latitude": 39.986538,
+    "longitude": -87.147674,
+    "city": "Wallace",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Fountain"
+  },
+  {
+    "zip_code": 47989,
+    "latitude": 39.913473,
+    "longitude": -86.980365,
+    "city": "Waveland",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47990,
+    "latitude": 40.055655,
+    "longitude": -87.035366,
+    "city": "Waynetown",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47991,
+    "latitude": 40.265862,
+    "longitude": -87.438432,
+    "city": "West Lebanon",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 47992,
+    "latitude": 40.318084,
+    "longitude": -87.046004,
+    "city": "Westpoint",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47993,
+    "latitude": 40.314172,
+    "longitude": -87.403882,
+    "city": "Williamsport",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 47994,
+    "latitude": 40.118361,
+    "longitude": -86.964894,
+    "city": "Wingate",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 47995,
+    "latitude": 40.726466,
+    "longitude": -86.989485,
+    "city": "Wolcott",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "White"
+  },
+  {
+    "zip_code": 47996,
+    "latitude": 40.388656,
+    "longitude": -86.894908,
+    "city": "West Lafayette",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Tippecanoe"
+  },
+  {
+    "zip_code": 47997,
+    "latitude": 40.670628,
+    "longitude": -86.722352,
+    "city": "Yeoman",
+    "state": "IN",
+    "full_state": "Indiana",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 48001,
+    "latitude": 42.614984,
+    "longitude": -82.597768,
+    "city": "Algonac",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48002,
+    "latitude": 42.938828,
+    "longitude": -82.919818,
+    "city": "Allenton",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48003,
+    "latitude": 42.934027,
+    "longitude": -83.052481,
+    "city": "Almont",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Lapeer"
+  },
+  {
+    "zip_code": 48004,
+    "latitude": 42.824095,
+    "longitude": -82.66522,
+    "city": "Anchorville",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  },
+  {
+    "zip_code": 48005,
+    "latitude": 42.850051,
+    "longitude": -82.894993,
+    "city": "Armada",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Macomb"
+  },
+  {
+    "zip_code": 48006,
+    "latitude": 43.075152,
+    "longitude": -82.695467,
+    "city": "Avoca",
+    "state": "MI",
+    "full_state": "Michigan",
+    "county": "Saint Clair"
+  }
+]

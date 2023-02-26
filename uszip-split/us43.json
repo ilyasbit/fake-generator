@@ -1,0 +1,9002 @@
+[
+  {
+    "zip_code": 21718,
+    "latitude": 39.400868,
+    "longitude": -77.627954,
+    "city": "Burkittsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21719,
+    "latitude": 39.695751,
+    "longitude": -77.495542,
+    "city": "Cascade",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21720,
+    "latitude": 39.647296,
+    "longitude": -77.584162,
+    "city": "Cavetown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21721,
+    "latitude": 39.642537,
+    "longitude": -77.637152,
+    "city": "Chewsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21722,
+    "latitude": 39.665751,
+    "longitude": -77.906389,
+    "city": "Clear Spring",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21723,
+    "latitude": 39.328104,
+    "longitude": -77.0142,
+    "city": "Cooksville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21727,
+    "latitude": 39.675397,
+    "longitude": -77.336732,
+    "city": "Emmitsburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21733,
+    "latitude": 39.559419,
+    "longitude": -77.76039,
+    "city": "Fairplay",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21734,
+    "latitude": 39.60596,
+    "longitude": -77.707207,
+    "city": "Funkstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21736,
+    "latitude": 39.520696,
+    "longitude": -77.916196,
+    "city": "Gapland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21737,
+    "latitude": 39.259656,
+    "longitude": -77.012699,
+    "city": "Glenelg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21738,
+    "latitude": 39.281504,
+    "longitude": -77.025362,
+    "city": "Glenwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21740,
+    "latitude": 39.58887,
+    "longitude": -77.700213,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21741,
+    "latitude": 39.693944,
+    "longitude": -77.742116,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21742,
+    "latitude": 39.642995,
+    "longitude": -77.652779,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21746,
+    "latitude": 39.563787,
+    "longitude": -77.720642,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21747,
+    "latitude": 39.520696,
+    "longitude": -77.916196,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21748,
+    "latitude": 39.520696,
+    "longitude": -77.916196,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21749,
+    "latitude": 39.520696,
+    "longitude": -77.916196,
+    "city": "Hagerstown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21750,
+    "latitude": 39.58895,
+    "longitude": -78.050204,
+    "city": "Hancock",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21754,
+    "latitude": 39.339477,
+    "longitude": -77.310622,
+    "city": "Ijamsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21755,
+    "latitude": 39.353688,
+    "longitude": -77.567142,
+    "city": "Jefferson",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21756,
+    "latitude": 39.458488,
+    "longitude": -77.693341,
+    "city": "Keedysville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21757,
+    "latitude": 39.619399,
+    "longitude": -77.252657,
+    "city": "Keymar",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21758,
+    "latitude": 39.34924,
+    "longitude": -77.620514,
+    "city": "Knoxville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21759,
+    "latitude": 39.569426,
+    "longitude": -77.290519,
+    "city": "Ladiesburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21762,
+    "latitude": 39.482208,
+    "longitude": -77.246761,
+    "city": "Libertytown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21764,
+    "latitude": 39.534703,
+    "longitude": -77.049302,
+    "city": "Linwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21765,
+    "latitude": 39.337804,
+    "longitude": -77.071952,
+    "city": "Lisbon",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21766,
+    "latitude": 39.641946,
+    "longitude": -78.408891,
+    "city": "Little Orleans",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Allegany"
+  },
+  {
+    "zip_code": 21767,
+    "latitude": 39.696761,
+    "longitude": -77.746766,
+    "city": "Maugansville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21769,
+    "latitude": 39.53503,
+    "longitude": -77.485034,
+    "city": "Middletown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21770,
+    "latitude": 39.351552,
+    "longitude": -77.265818,
+    "city": "Monrovia",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21771,
+    "latitude": 39.407252,
+    "longitude": -77.214087,
+    "city": "Mount Airy",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21773,
+    "latitude": 39.550036,
+    "longitude": -77.556275,
+    "city": "Myersville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21774,
+    "latitude": 39.432571,
+    "longitude": -77.220932,
+    "city": "New Market",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21775,
+    "latitude": 39.564472,
+    "longitude": -77.29468,
+    "city": "New Midway",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21776,
+    "latitude": 39.521886,
+    "longitude": -77.093303,
+    "city": "New Windsor",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21777,
+    "latitude": 39.27777,
+    "longitude": -77.532068,
+    "city": "Point Of Rocks",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21778,
+    "latitude": 39.618999,
+    "longitude": -77.335442,
+    "city": "Rocky Ridge",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21779,
+    "latitude": 39.430227,
+    "longitude": -77.66013,
+    "city": "Rohrersville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21780,
+    "latitude": 39.667035,
+    "longitude": -77.481888,
+    "city": "Sabillasville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21781,
+    "latitude": 39.56991,
+    "longitude": -77.760697,
+    "city": "Saint James",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21782,
+    "latitude": 39.438718,
+    "longitude": -77.771667,
+    "city": "Sharpsburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21783,
+    "latitude": 39.591355,
+    "longitude": -77.614762,
+    "city": "Smithsburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21784,
+    "latitude": 39.45672,
+    "longitude": -76.969601,
+    "city": "Sykesville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21787,
+    "latitude": 39.657449,
+    "longitude": -77.169055,
+    "city": "Taneytown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21788,
+    "latitude": 39.610876,
+    "longitude": -77.398931,
+    "city": "Thurmont",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21790,
+    "latitude": 39.265086,
+    "longitude": -77.496646,
+    "city": "Tuscarora",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21791,
+    "latitude": 39.57985,
+    "longitude": -77.131896,
+    "city": "Union Bridge",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21792,
+    "latitude": 39.469961,
+    "longitude": -77.392139,
+    "city": "Unionville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21793,
+    "latitude": 39.491247,
+    "longitude": -77.343542,
+    "city": "Walkersville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21794,
+    "latitude": 39.296204,
+    "longitude": -76.98115,
+    "city": "West Friendship",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Howard"
+  },
+  {
+    "zip_code": 21795,
+    "latitude": 39.589123,
+    "longitude": -77.826258,
+    "city": "Williamsport",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Washington"
+  },
+  {
+    "zip_code": 21797,
+    "latitude": 39.402352,
+    "longitude": -77.081821,
+    "city": "Woodbine",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Carroll"
+  },
+  {
+    "zip_code": 21798,
+    "latitude": 39.542724,
+    "longitude": -77.292314,
+    "city": "Woodsboro",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 21801,
+    "latitude": 38.382445,
+    "longitude": -75.633621,
+    "city": "Salisbury",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21802,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Salisbury",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21803,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Salisbury",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21804,
+    "latitude": 38.350793,
+    "longitude": -75.533782,
+    "city": "Salisbury",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21810,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Allen",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21811,
+    "latitude": 38.310447,
+    "longitude": -75.320901,
+    "city": "Berlin",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21813,
+    "latitude": 38.421121,
+    "longitude": -75.19596,
+    "city": "Bishopville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21814,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Bivalve",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21817,
+    "latitude": 37.998308,
+    "longitude": -75.818797,
+    "city": "Crisfield",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21821,
+    "latitude": 38.166101,
+    "longitude": -75.92329,
+    "city": "Deal Island",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21822,
+    "latitude": 38.216972,
+    "longitude": -75.55053,
+    "city": "Eden",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21824,
+    "latitude": 37.983912,
+    "longitude": -76.035623,
+    "city": "Ewell",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21826,
+    "latitude": 38.320318,
+    "longitude": -75.620806,
+    "city": "Fruitland",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21829,
+    "latitude": 38.102963,
+    "longitude": -75.381853,
+    "city": "Girdletree",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21830,
+    "latitude": 38.409235,
+    "longitude": -75.724848,
+    "city": "Hebron",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21835,
+    "latitude": 38.532301,
+    "longitude": -75.949958,
+    "city": "Linkwood",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21836,
+    "latitude": 38.073294,
+    "longitude": -75.734412,
+    "city": "Manokin",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21837,
+    "latitude": 38.458249,
+    "longitude": -75.754804,
+    "city": "Mardela Springs",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21838,
+    "latitude": 38.018983,
+    "longitude": -75.728768,
+    "city": "Marion Station",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21840,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Nanticoke",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21841,
+    "latitude": 38.246348,
+    "longitude": -75.301838,
+    "city": "Newark",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21842,
+    "latitude": 38.381107,
+    "longitude": -75.113816,
+    "city": "Ocean City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21843,
+    "latitude": 38.22309,
+    "longitude": -75.324057,
+    "city": "Ocean City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21849,
+    "latitude": 38.376894,
+    "longitude": -75.462009,
+    "city": "Parsonsburg",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21850,
+    "latitude": 38.394572,
+    "longitude": -75.410499,
+    "city": "Pittsville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21851,
+    "latitude": 38.089201,
+    "longitude": -75.537185,
+    "city": "Pocomoke City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21852,
+    "latitude": 38.388434,
+    "longitude": -75.6276,
+    "city": "Powellville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21853,
+    "latitude": 38.200553,
+    "longitude": -75.75292,
+    "city": "Princess Anne",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21856,
+    "latitude": 38.305282,
+    "longitude": -75.763118,
+    "city": "Quantico",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21857,
+    "latitude": 38.092718,
+    "longitude": -75.888207,
+    "city": "Rehobeth",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21861,
+    "latitude": 38.538904,
+    "longitude": -75.719182,
+    "city": "Sharptown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21862,
+    "latitude": 38.400306,
+    "longitude": -75.216551,
+    "city": "Showell",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21863,
+    "latitude": 38.217824,
+    "longitude": -75.326618,
+    "city": "Snow Hill",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21864,
+    "latitude": 38.042932,
+    "longitude": -75.411789,
+    "city": "Stockton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21865,
+    "latitude": 38.268914,
+    "longitude": -75.790882,
+    "city": "Tyaskin",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21866,
+    "latitude": 37.966573,
+    "longitude": -76.023482,
+    "city": "Tylerton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21867,
+    "latitude": 38.10049,
+    "longitude": -75.822318,
+    "city": "Upper Fairmount",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21869,
+    "latitude": 38.430928,
+    "longitude": -75.897058,
+    "city": "Vienna",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Dorchester"
+  },
+  {
+    "zip_code": 21870,
+    "latitude": 38.092718,
+    "longitude": -75.888207,
+    "city": "Wenona",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21871,
+    "latitude": 38.094181,
+    "longitude": -75.717406,
+    "city": "Westover",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21872,
+    "latitude": 38.412085,
+    "longitude": -75.281074,
+    "city": "Whaleyville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Worcester"
+  },
+  {
+    "zip_code": 21874,
+    "latitude": 38.40406,
+    "longitude": -75.351349,
+    "city": "Willards",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21875,
+    "latitude": 38.452527,
+    "longitude": -75.574165,
+    "city": "Delmar",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Wicomico"
+  },
+  {
+    "zip_code": 21890,
+    "latitude": 38.092718,
+    "longitude": -75.888207,
+    "city": "Westover",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Somerset"
+  },
+  {
+    "zip_code": 21901,
+    "latitude": 39.535078,
+    "longitude": -75.894051,
+    "city": "North East",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21902,
+    "latitude": 39.552962,
+    "longitude": -76.072471,
+    "city": "Perry Point",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21903,
+    "latitude": 39.571449,
+    "longitude": -76.033281,
+    "city": "Perryville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21904,
+    "latitude": 39.615086,
+    "longitude": -76.063342,
+    "city": "Port Deposit",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21911,
+    "latitude": 39.671572,
+    "longitude": -76.056651,
+    "city": "Rising Sun",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21912,
+    "latitude": 39.533058,
+    "longitude": -75.915203,
+    "city": "Warwick",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21913,
+    "latitude": 39.410355,
+    "longitude": -75.863287,
+    "city": "Cecilton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21914,
+    "latitude": 39.574387,
+    "longitude": -75.978564,
+    "city": "Charlestown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21915,
+    "latitude": 39.469098,
+    "longitude": -75.849327,
+    "city": "Chesapeake City",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21916,
+    "latitude": 39.541512,
+    "longitude": -75.999972,
+    "city": "Childs",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21917,
+    "latitude": 39.537261,
+    "longitude": -76.003452,
+    "city": "Colora",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21918,
+    "latitude": 39.543894,
+    "longitude": -76.049157,
+    "city": "Conowingo",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21919,
+    "latitude": 39.470309,
+    "longitude": -75.927952,
+    "city": "Earleville",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21920,
+    "latitude": 39.658031,
+    "longitude": -75.828196,
+    "city": "Elk Mills",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21921,
+    "latitude": 39.56186,
+    "longitude": -75.87574,
+    "city": "Elkton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21922,
+    "latitude": 39.593612,
+    "longitude": -75.947332,
+    "city": "Elkton",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 21930,
+    "latitude": 39.366183,
+    "longitude": -75.884544,
+    "city": "Georgetown",
+    "state": "MD",
+    "full_state": "Maryland",
+    "county": "Cecil"
+  },
+  {
+    "zip_code": 22002,
+    "latitude": 38.691448,
+    "longitude": -78.137019,
+    "city": "Amissville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22003,
+    "latitude": 38.835762,
+    "longitude": -77.212794,
+    "city": "Annandale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22009,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Burke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22015,
+    "latitude": 38.785864,
+    "longitude": -77.286156,
+    "city": "Burke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22026,
+    "latitude": 38.584734,
+    "longitude": -77.349935,
+    "city": "Dumfries",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22027,
+    "latitude": 38.895078,
+    "longitude": -77.221453,
+    "city": "Dunn Loring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22030,
+    "latitude": 38.853231,
+    "longitude": -77.305097,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax City"
+  },
+  {
+    "zip_code": 22031,
+    "latitude": 38.853962,
+    "longitude": -77.284195,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax City"
+  },
+  {
+    "zip_code": 22032,
+    "latitude": 38.819712,
+    "longitude": -77.287105,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22033,
+    "latitude": 38.879466,
+    "longitude": -77.378858,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22034,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22035,
+    "latitude": 38.855715,
+    "longitude": -77.361633,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22036,
+    "latitude": 38.735114,
+    "longitude": -77.07965,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22037,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22038,
+    "latitude": 38.852849,
+    "longitude": -77.30199,
+    "city": "Fairfax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax City"
+  },
+  {
+    "zip_code": 22039,
+    "latitude": 38.759329,
+    "longitude": -77.311588,
+    "city": "Fairfax Station",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22040,
+    "latitude": 38.884177,
+    "longitude": -77.171752,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Falls Church City"
+  },
+  {
+    "zip_code": 22041,
+    "latitude": 38.850212,
+    "longitude": -77.144801,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22042,
+    "latitude": 38.863452,
+    "longitude": -77.193915,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22043,
+    "latitude": 38.899361,
+    "longitude": -77.189502,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22044,
+    "latitude": 38.858853,
+    "longitude": -77.154761,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22046,
+    "latitude": 38.884936,
+    "longitude": -77.174052,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Falls Church City"
+  },
+  {
+    "zip_code": 22047,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Falls Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22060,
+    "latitude": 38.714562,
+    "longitude": -77.167886,
+    "city": "Fort Belvoir",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22066,
+    "latitude": 39.001609,
+    "longitude": -77.306416,
+    "city": "Great Falls",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22067,
+    "latitude": 38.96451,
+    "longitude": -77.233103,
+    "city": "Greenway",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22079,
+    "latitude": 38.692865,
+    "longitude": -77.204031,
+    "city": "Lorton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22081,
+    "latitude": 38.873861,
+    "longitude": -77.234454,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22082,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22092,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22093,
+    "latitude": 39.085309,
+    "longitude": -77.645224,
+    "city": "Ashburn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Loudoun"
+  },
+  {
+    "zip_code": 22095,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Herndon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22096,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Reston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22101,
+    "latitude": 38.935202,
+    "longitude": -77.18672,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22102,
+    "latitude": 38.953033,
+    "longitude": -77.229496,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22103,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "West Mclean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22106,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22107,
+    "latitude": 38.931453,
+    "longitude": -77.218448,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22108,
+    "latitude": 38.931453,
+    "longitude": -77.218448,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22109,
+    "latitude": 38.920165,
+    "longitude": -77.229043,
+    "city": "Mc Lean",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22116,
+    "latitude": 38.871469,
+    "longitude": -77.234428,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22118,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22119,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22120,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Merrifield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22121,
+    "latitude": 38.830912,
+    "longitude": -77.432252,
+    "city": "Mount Vernon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22122,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Newington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22124,
+    "latitude": 38.892796,
+    "longitude": -77.329906,
+    "city": "Oakton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22125,
+    "latitude": 38.681615,
+    "longitude": -77.26052,
+    "city": "Occoquan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22134,
+    "latitude": 38.52602,
+    "longitude": -77.322803,
+    "city": "Quantico",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22135,
+    "latitude": 38.721912,
+    "longitude": -77.466897,
+    "city": "Quantico",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22150,
+    "latitude": 38.763463,
+    "longitude": -77.186063,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22151,
+    "latitude": 38.802858,
+    "longitude": -77.211556,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22152,
+    "latitude": 38.775687,
+    "longitude": -77.233746,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22153,
+    "latitude": 38.757015,
+    "longitude": -77.181612,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22156,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22158,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22159,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22160,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22161,
+    "latitude": 38.807462,
+    "longitude": -77.219354,
+    "city": "Springfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22172,
+    "latitude": 38.581369,
+    "longitude": -77.367205,
+    "city": "Triangle",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22180,
+    "latitude": 38.897361,
+    "longitude": -77.253749,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22181,
+    "latitude": 38.90521,
+    "longitude": -77.295256,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22182,
+    "latitude": 38.935292,
+    "longitude": -77.268022,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22183,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22184,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22185,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Vienna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22191,
+    "latitude": 38.625541,
+    "longitude": -77.271644,
+    "city": "Woodbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22192,
+    "latitude": 38.675952,
+    "longitude": -77.316344,
+    "city": "Woodbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22193,
+    "latitude": 38.643765,
+    "longitude": -77.345106,
+    "city": "Woodbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22194,
+    "latitude": 38.721912,
+    "longitude": -77.466897,
+    "city": "Woodbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22195,
+    "latitude": 38.721912,
+    "longitude": -77.466897,
+    "city": "Woodbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince William"
+  },
+  {
+    "zip_code": 22199,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Lorton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22201,
+    "latitude": 38.885484,
+    "longitude": -77.099113,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22202,
+    "latitude": 38.854462,
+    "longitude": -77.059721,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22203,
+    "latitude": 38.874775,
+    "longitude": -77.119515,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22204,
+    "latitude": 38.860335,
+    "longitude": -77.100868,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22205,
+    "latitude": 38.875811,
+    "longitude": -77.140021,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22206,
+    "latitude": 38.840403,
+    "longitude": -77.0888,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22207,
+    "latitude": 38.907416,
+    "longitude": -77.122344,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22209,
+    "latitude": 38.893596,
+    "longitude": -77.110376,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22210,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22211,
+    "latitude": 38.878674,
+    "longitude": -77.077426,
+    "city": "Ft Myer",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22212,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22213,
+    "latitude": 38.894898,
+    "longitude": -77.162829,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22214,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22215,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22216,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22217,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22218,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22219,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22222,
+    "latitude": 38.861462,
+    "longitude": -77.053599,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22223,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22225,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22226,
+    "latitude": 38.883358,
+    "longitude": -77.10281,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22227,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22229,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22230,
+    "latitude": 38.87972,
+    "longitude": -77.110817,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22234,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22240,
+    "latitude": 38.856623,
+    "longitude": -77.051788,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22241,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22242,
+    "latitude": 38.850879,
+    "longitude": -77.052336,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22243,
+    "latitude": 38.86045,
+    "longitude": -77.051569,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22244,
+    "latitude": 38.854522,
+    "longitude": -77.052035,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22245,
+    "latitude": 38.851773,
+    "longitude": -77.052296,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22246,
+    "latitude": 38.880811,
+    "longitude": -77.11295,
+    "city": "Arlington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Arlington"
+  },
+  {
+    "zip_code": 22301,
+    "latitude": 38.823062,
+    "longitude": -77.079622,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22302,
+    "latitude": 38.827627,
+    "longitude": -77.089566,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22303,
+    "latitude": 38.791231,
+    "longitude": -77.08135,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22304,
+    "latitude": 38.81522,
+    "longitude": -77.10993,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22305,
+    "latitude": 38.835412,
+    "longitude": -77.063959,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22306,
+    "latitude": 38.758914,
+    "longitude": -77.087344,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22307,
+    "latitude": 38.771363,
+    "longitude": -77.065699,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22308,
+    "latitude": 38.731564,
+    "longitude": -77.060399,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22309,
+    "latitude": 38.722264,
+    "longitude": -77.171945,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22310,
+    "latitude": 38.779391,
+    "longitude": -77.119401,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22311,
+    "latitude": 38.832762,
+    "longitude": -77.119627,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22312,
+    "latitude": 38.799956,
+    "longitude": -77.150177,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22313,
+    "latitude": 38.815762,
+    "longitude": -77.09005,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22314,
+    "latitude": 38.811436,
+    "longitude": -77.063587,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22315,
+    "latitude": 38.759553,
+    "longitude": -77.148518,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22320,
+    "latitude": 38.804413,
+    "longitude": -77.046699,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22321,
+    "latitude": 38.831813,
+    "longitude": -77.288755,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fairfax"
+  },
+  {
+    "zip_code": 22331,
+    "latitude": 38.801342,
+    "longitude": -77.070733,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22332,
+    "latitude": 38.803142,
+    "longitude": -77.072679,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22333,
+    "latitude": 38.815762,
+    "longitude": -77.09005,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22334,
+    "latitude": 38.815762,
+    "longitude": -77.09005,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22336,
+    "latitude": 38.815762,
+    "longitude": -77.09005,
+    "city": "Alexandria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Alexandria City"
+  },
+  {
+    "zip_code": 22401,
+    "latitude": 38.295135,
+    "longitude": -77.483689,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fredericksburg City"
+  },
+  {
+    "zip_code": 22402,
+    "latitude": 38.299613,
+    "longitude": -77.489666,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fredericksburg City"
+  },
+  {
+    "zip_code": 22403,
+    "latitude": 38.417273,
+    "longitude": -77.460814,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22404,
+    "latitude": 38.298305,
+    "longitude": -77.489913,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fredericksburg City"
+  },
+  {
+    "zip_code": 22405,
+    "latitude": 38.336458,
+    "longitude": -77.436618,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22406,
+    "latitude": 38.414357,
+    "longitude": -77.534708,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22407,
+    "latitude": 38.271969,
+    "longitude": -77.606772,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22408,
+    "latitude": 38.233933,
+    "longitude": -77.562773,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22412,
+    "latitude": 38.184716,
+    "longitude": -77.662559,
+    "city": "Fredericksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22427,
+    "latitude": 38.008401,
+    "longitude": -77.260353,
+    "city": "Bowling Green",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22428,
+    "latitude": 38.014536,
+    "longitude": -77.355902,
+    "city": "Bowling Green",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22430,
+    "latitude": 38.385704,
+    "longitude": -77.374292,
+    "city": "Brooke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22432,
+    "latitude": 37.837435,
+    "longitude": -76.345493,
+    "city": "Burgess",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22433,
+    "latitude": 38.344608,
+    "longitude": -77.871855,
+    "city": "Burr Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22435,
+    "latitude": 37.961716,
+    "longitude": -76.577422,
+    "city": "Callao",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22436,
+    "latitude": 38.024704,
+    "longitude": -77.037147,
+    "city": "Caret",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22437,
+    "latitude": 37.818619,
+    "longitude": -76.786335,
+    "city": "Center Cross",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22438,
+    "latitude": 38.056246,
+    "longitude": -77.018147,
+    "city": "Champlain",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22442,
+    "latitude": 38.121793,
+    "longitude": -76.79025,
+    "city": "Coles Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22443,
+    "latitude": 38.184926,
+    "longitude": -76.823742,
+    "city": "Colonial Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22446,
+    "latitude": 38.171755,
+    "longitude": -77.408163,
+    "city": "Corbin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22448,
+    "latitude": 38.326218,
+    "longitude": -77.039825,
+    "city": "Dahlgren",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22451,
+    "latitude": 38.271077,
+    "longitude": -77.17261,
+    "city": "Dogue",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22454,
+    "latitude": 37.852669,
+    "longitude": -76.847543,
+    "city": "Dunnsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22456,
+    "latitude": 37.852316,
+    "longitude": -76.40511,
+    "city": "Edwardsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22460,
+    "latitude": 37.879797,
+    "longitude": -76.598782,
+    "city": "Farnham",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 22463,
+    "latitude": 38.468432,
+    "longitude": -77.461213,
+    "city": "Garrisonville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22469,
+    "latitude": 38.059488,
+    "longitude": -76.676452,
+    "city": "Hague",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22471,
+    "latitude": 38.39933,
+    "longitude": -77.581351,
+    "city": "Hartwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22472,
+    "latitude": 37.950511,
+    "longitude": -76.636722,
+    "city": "Haynesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 22473,
+    "latitude": 37.876733,
+    "longitude": -76.427334,
+    "city": "Heathsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22476,
+    "latitude": 38.032905,
+    "longitude": -77.06328,
+    "city": "Hustle",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22480,
+    "latitude": 37.667319,
+    "longitude": -76.404996,
+    "city": "Irvington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22481,
+    "latitude": 38.271077,
+    "longitude": -77.17261,
+    "city": "Jersey",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22482,
+    "latitude": 37.715738,
+    "longitude": -76.450212,
+    "city": "Kilmarnock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22485,
+    "latitude": 38.277209,
+    "longitude": -77.17225,
+    "city": "King George",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22488,
+    "latitude": 38.102075,
+    "longitude": -76.743458,
+    "city": "Kinsale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22501,
+    "latitude": 38.015899,
+    "longitude": -77.559298,
+    "city": "Ladysmith",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22503,
+    "latitude": 37.739451,
+    "longitude": -76.50021,
+    "city": "Lancaster",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22504,
+    "latitude": 37.76914,
+    "longitude": -76.712135,
+    "city": "Laneview",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22507,
+    "latitude": 37.757226,
+    "longitude": -76.511804,
+    "city": "Lively",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22508,
+    "latitude": 38.308398,
+    "longitude": -77.796156,
+    "city": "Locust Grove",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22509,
+    "latitude": 38.078932,
+    "longitude": -77.04851,
+    "city": "Loretto",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22511,
+    "latitude": 37.985615,
+    "longitude": -76.499878,
+    "city": "Lottsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22513,
+    "latitude": 37.750261,
+    "longitude": -76.509615,
+    "city": "Merry Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22514,
+    "latitude": 37.980787,
+    "longitude": -77.242558,
+    "city": "Milford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22517,
+    "latitude": 37.75028,
+    "longitude": -76.578109,
+    "city": "Mollusk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22520,
+    "latitude": 38.111955,
+    "longitude": -76.82434,
+    "city": "Montross",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22523,
+    "latitude": 37.792761,
+    "longitude": -76.60933,
+    "city": "Morattico",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22524,
+    "latitude": 38.118186,
+    "longitude": -76.680504,
+    "city": "Mount Holly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22526,
+    "latitude": 38.271077,
+    "longitude": -77.17261,
+    "city": "Ninde",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22528,
+    "latitude": 37.713175,
+    "longitude": -76.409946,
+    "city": "Nuttsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22529,
+    "latitude": 38.018054,
+    "longitude": -76.68611,
+    "city": "Oldhams",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22530,
+    "latitude": 37.90938,
+    "longitude": -76.293436,
+    "city": "Ophelia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22534,
+    "latitude": 38.08462,
+    "longitude": -77.666948,
+    "city": "Partlow",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22535,
+    "latitude": 38.157349,
+    "longitude": -77.180478,
+    "city": "Port Royal",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22538,
+    "latitude": 38.207873,
+    "longitude": -77.2502,
+    "city": "Rappahannock Academy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22539,
+    "latitude": 37.855567,
+    "longitude": -76.312376,
+    "city": "Reedville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22542,
+    "latitude": 38.292189,
+    "longitude": -77.897386,
+    "city": "Rhoadesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22544,
+    "latitude": 38.271077,
+    "longitude": -77.17261,
+    "city": "Rollins Fork",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22545,
+    "latitude": 38.508611,
+    "longitude": -77.542957,
+    "city": "Ruby",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22546,
+    "latitude": 37.948572,
+    "longitude": -77.437767,
+    "city": "Ruther Glen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22547,
+    "latitude": 38.271077,
+    "longitude": -77.17261,
+    "city": "Sealston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King George"
+  },
+  {
+    "zip_code": 22548,
+    "latitude": 37.837583,
+    "longitude": -76.694775,
+    "city": "Sharps",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 22552,
+    "latitude": 38.009438,
+    "longitude": -77.225139,
+    "city": "Sparta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22553,
+    "latitude": 38.182869,
+    "longitude": -77.69932,
+    "city": "Spotsylvania",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22554,
+    "latitude": 38.438958,
+    "longitude": -77.4354,
+    "city": "Stafford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22555,
+    "latitude": 38.417273,
+    "longitude": -77.460814,
+    "city": "Stafford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Stafford"
+  },
+  {
+    "zip_code": 22558,
+    "latitude": 38.121793,
+    "longitude": -76.79025,
+    "city": "Stratford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22560,
+    "latitude": 37.916613,
+    "longitude": -76.947547,
+    "city": "Tappahannock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 22565,
+    "latitude": 38.137216,
+    "longitude": -77.518865,
+    "city": "Thornburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Spotsylvania"
+  },
+  {
+    "zip_code": 22567,
+    "latitude": 38.242901,
+    "longitude": -77.917753,
+    "city": "Unionville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22570,
+    "latitude": 37.947224,
+    "longitude": -76.615358,
+    "city": "Village",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 22572,
+    "latitude": 37.96954,
+    "longitude": -76.766517,
+    "city": "Warsaw",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond"
+  },
+  {
+    "zip_code": 22576,
+    "latitude": 37.688877,
+    "longitude": -76.431553,
+    "city": "Weems",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22577,
+    "latitude": 38.067325,
+    "longitude": -76.550274,
+    "city": "Sandy Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22578,
+    "latitude": 37.688601,
+    "longitude": -76.361585,
+    "city": "White Stone",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lancaster"
+  },
+  {
+    "zip_code": 22579,
+    "latitude": 37.802527,
+    "longitude": -76.363603,
+    "city": "Wicomico Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northumberland"
+  },
+  {
+    "zip_code": 22580,
+    "latitude": 38.130103,
+    "longitude": -77.417234,
+    "city": "Woodford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Caroline"
+  },
+  {
+    "zip_code": 22581,
+    "latitude": 38.121793,
+    "longitude": -76.79025,
+    "city": "Zacata",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Westmoreland"
+  },
+  {
+    "zip_code": 22601,
+    "latitude": 39.169668,
+    "longitude": -78.16856,
+    "city": "Winchester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Winchester City"
+  },
+  {
+    "zip_code": 22602,
+    "latitude": 39.150074,
+    "longitude": -78.268988,
+    "city": "Winchester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22603,
+    "latitude": 39.263975,
+    "longitude": -78.198932,
+    "city": "Winchester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22604,
+    "latitude": 39.167603,
+    "longitude": -78.168643,
+    "city": "Winchester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Winchester City"
+  },
+  {
+    "zip_code": 22610,
+    "latitude": 38.818692,
+    "longitude": -78.275719,
+    "city": "Bentonville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 22611,
+    "latitude": 39.135711,
+    "longitude": -77.991926,
+    "city": "Berryville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 22620,
+    "latitude": 39.048614,
+    "longitude": -78.060132,
+    "city": "Boyce",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 22622,
+    "latitude": 39.2543,
+    "longitude": -78.066373,
+    "city": "Brucetown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22623,
+    "latitude": 38.853733,
+    "longitude": -78.141239,
+    "city": "Chester Gap",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22624,
+    "latitude": 39.271865,
+    "longitude": -78.099763,
+    "city": "Clear Brook",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22625,
+    "latitude": 39.296066,
+    "longitude": -78.310539,
+    "city": "Cross Junction",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22626,
+    "latitude": 38.983383,
+    "longitude": -78.403766,
+    "city": "Fishers Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22627,
+    "latitude": 38.787434,
+    "longitude": -78.083739,
+    "city": "Flint Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22630,
+    "latitude": 38.928308,
+    "longitude": -78.174537,
+    "city": "Front Royal",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 22637,
+    "latitude": 39.253982,
+    "longitude": -78.352754,
+    "city": "Gore",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22638,
+    "latitude": 39.236944,
+    "longitude": -78.288465,
+    "city": "Winchester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22639,
+    "latitude": 38.830067,
+    "longitude": -78.022322,
+    "city": "Hume",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22640,
+    "latitude": 38.812892,
+    "longitude": -78.116528,
+    "city": "Huntly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22641,
+    "latitude": 39.056218,
+    "longitude": -78.37477,
+    "city": "Strasburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22642,
+    "latitude": 38.932418,
+    "longitude": -78.065023,
+    "city": "Linden",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 22643,
+    "latitude": 38.895454,
+    "longitude": -78.004435,
+    "city": "Markham",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22644,
+    "latitude": 38.963523,
+    "longitude": -78.548229,
+    "city": "Maurertown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22645,
+    "latitude": 39.048863,
+    "longitude": -78.285171,
+    "city": "Middletown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22646,
+    "latitude": 39.121941,
+    "longitude": -77.990069,
+    "city": "Millwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 22649,
+    "latitude": 39.004774,
+    "longitude": -78.247806,
+    "city": "Middletown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Warren"
+  },
+  {
+    "zip_code": 22650,
+    "latitude": 38.763022,
+    "longitude": -78.387191,
+    "city": "Rileyville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Page"
+  },
+  {
+    "zip_code": 22652,
+    "latitude": 38.840715,
+    "longitude": -78.427584,
+    "city": "Fort Valley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22654,
+    "latitude": 39.078491,
+    "longitude": -78.443076,
+    "city": "Star Tannery",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22655,
+    "latitude": 39.163418,
+    "longitude": -78.246159,
+    "city": "Stephens City",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22656,
+    "latitude": 39.213701,
+    "longitude": -78.090144,
+    "city": "Stephenson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Frederick"
+  },
+  {
+    "zip_code": 22657,
+    "latitude": 39.020716,
+    "longitude": -78.41733,
+    "city": "Strasburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22660,
+    "latitude": 38.94761,
+    "longitude": -78.433111,
+    "city": "Toms Brook",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22663,
+    "latitude": 39.121941,
+    "longitude": -77.990069,
+    "city": "White Post",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Clarke"
+  },
+  {
+    "zip_code": 22664,
+    "latitude": 38.918791,
+    "longitude": -78.512429,
+    "city": "Woodstock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22701,
+    "latitude": 38.511694,
+    "longitude": -77.9928,
+    "city": "Culpeper",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22709,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Aroda",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22711,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Banco",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22712,
+    "latitude": 38.545289,
+    "longitude": -77.756064,
+    "city": "Bealeton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22713,
+    "latitude": 38.537138,
+    "longitude": -78.132778,
+    "city": "Boston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22714,
+    "latitude": 38.511323,
+    "longitude": -77.901265,
+    "city": "Brandy Station",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22715,
+    "latitude": 38.418207,
+    "longitude": -78.189878,
+    "city": "Brightwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22716,
+    "latitude": 38.624123,
+    "longitude": -78.102389,
+    "city": "Castleton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22718,
+    "latitude": 38.457473,
+    "longitude": -77.804343,
+    "city": "Elkwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22719,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Etlan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22720,
+    "latitude": 38.472457,
+    "longitude": -77.642308,
+    "city": "Goldvein",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22721,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Graves Mill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22722,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Haywood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22723,
+    "latitude": 38.396709,
+    "longitude": -78.432237,
+    "city": "Hood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22724,
+    "latitude": 38.622436,
+    "longitude": -77.907403,
+    "city": "Jeffersonton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22725,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Leon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22726,
+    "latitude": 38.404605,
+    "longitude": -77.770885,
+    "city": "Lignum",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22727,
+    "latitude": 38.369952,
+    "longitude": -78.297605,
+    "city": "Madison",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22728,
+    "latitude": 38.602592,
+    "longitude": -77.681065,
+    "city": "Midland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22729,
+    "latitude": 38.368552,
+    "longitude": -78.011837,
+    "city": "Mitchells",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22730,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Oakpark",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22731,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Pratts",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22732,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Radiant",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22733,
+    "latitude": 38.359195,
+    "longitude": -78.060292,
+    "city": "Rapidan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22734,
+    "latitude": 38.530877,
+    "longitude": -77.803719,
+    "city": "Remington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22735,
+    "latitude": 38.486703,
+    "longitude": -78.150059,
+    "city": "Reva",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22736,
+    "latitude": 38.389874,
+    "longitude": -77.711884,
+    "city": "Richardsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22737,
+    "latitude": 38.588388,
+    "longitude": -78.002489,
+    "city": "Rixeyville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22738,
+    "latitude": 38.3215,
+    "longitude": -78.304169,
+    "city": "Rochelle",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22739,
+    "latitude": 38.505945,
+    "longitude": -77.59557,
+    "city": "Somerville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22740,
+    "latitude": 38.612785,
+    "longitude": -78.227578,
+    "city": "Sperryville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22741,
+    "latitude": 38.434991,
+    "longitude": -77.860642,
+    "city": "Stevensburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Culpeper"
+  },
+  {
+    "zip_code": 22742,
+    "latitude": 38.462651,
+    "longitude": -77.706223,
+    "city": "Sumerduck",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fauquier"
+  },
+  {
+    "zip_code": 22743,
+    "latitude": 38.495692,
+    "longitude": -78.331826,
+    "city": "Syria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22746,
+    "latitude": 38.647841,
+    "longitude": -78.029974,
+    "city": "Viewtown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22747,
+    "latitude": 38.705616,
+    "longitude": -78.174894,
+    "city": "Washington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22748,
+    "latitude": 38.372652,
+    "longitude": -78.380509,
+    "city": "Wolftown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22749,
+    "latitude": 38.620549,
+    "longitude": -78.191528,
+    "city": "Woodville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rappahannock"
+  },
+  {
+    "zip_code": 22801,
+    "latitude": 38.422777,
+    "longitude": -78.877137,
+    "city": "Harrisonburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Harrisonburg City"
+  },
+  {
+    "zip_code": 22802,
+    "latitude": 38.490526,
+    "longitude": -78.817876,
+    "city": "Harrisonburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22803,
+    "latitude": 38.45226,
+    "longitude": -78.865952,
+    "city": "Harrisonburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Harrisonburg City"
+  },
+  {
+    "zip_code": 22807,
+    "latitude": 38.440898,
+    "longitude": -78.874173,
+    "city": "Harrisonburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Harrisonburg City"
+  },
+  {
+    "zip_code": 22810,
+    "latitude": 38.808869,
+    "longitude": -78.777598,
+    "city": "Basye",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22811,
+    "latitude": 38.781688,
+    "longitude": -78.948643,
+    "city": "Bergton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22812,
+    "latitude": 38.345632,
+    "longitude": -78.854597,
+    "city": "Bridgewater",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22815,
+    "latitude": 38.619698,
+    "longitude": -78.815219,
+    "city": "Broadway",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22820,
+    "latitude": 38.749089,
+    "longitude": -79.000426,
+    "city": "Criders",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22821,
+    "latitude": 38.417919,
+    "longitude": -79.044186,
+    "city": "Dayton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22824,
+    "latitude": 38.818191,
+    "longitude": -78.637768,
+    "city": "Edinburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22827,
+    "latitude": 38.4009,
+    "longitude": -78.729679,
+    "city": "Elkton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22830,
+    "latitude": 38.640083,
+    "longitude": -78.940553,
+    "city": "Fulks Run",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22831,
+    "latitude": 38.534126,
+    "longitude": -78.999618,
+    "city": "Hinton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22832,
+    "latitude": 38.465855,
+    "longitude": -78.749875,
+    "city": "Keezletown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22833,
+    "latitude": 38.528361,
+    "longitude": -78.855172,
+    "city": "Lacey Spring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22834,
+    "latitude": 38.550848,
+    "longitude": -78.876177,
+    "city": "Linville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22835,
+    "latitude": 38.645981,
+    "longitude": -78.481288,
+    "city": "Luray",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Page"
+  },
+  {
+    "zip_code": 22840,
+    "latitude": 38.400968,
+    "longitude": -78.734456,
+    "city": "Mc Gaheysville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22841,
+    "latitude": 38.347167,
+    "longitude": -78.838654,
+    "city": "Mount Crawford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22842,
+    "latitude": 38.785693,
+    "longitude": -78.680304,
+    "city": "Mount Jackson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22843,
+    "latitude": 38.325455,
+    "longitude": -79.094228,
+    "city": "Mount Solon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 22844,
+    "latitude": 38.673777,
+    "longitude": -78.677685,
+    "city": "New Market",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22845,
+    "latitude": 38.799978,
+    "longitude": -78.81029,
+    "city": "Orkney Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22846,
+    "latitude": 38.375012,
+    "longitude": -78.77954,
+    "city": "Penn Laird",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22847,
+    "latitude": 38.761208,
+    "longitude": -78.712058,
+    "city": "Quicksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Shenandoah"
+  },
+  {
+    "zip_code": 22848,
+    "latitude": 38.384681,
+    "longitude": -78.891422,
+    "city": "Pleasant Valley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22849,
+    "latitude": 38.525239,
+    "longitude": -78.607184,
+    "city": "Shenandoah",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Page"
+  },
+  {
+    "zip_code": 22850,
+    "latitude": 38.55743,
+    "longitude": -78.922657,
+    "city": "Singers Glen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22851,
+    "latitude": 38.559864,
+    "longitude": -78.512018,
+    "city": "Stanley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Page"
+  },
+  {
+    "zip_code": 22853,
+    "latitude": 38.63976,
+    "longitude": -78.781566,
+    "city": "Timberville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Rockingham"
+  },
+  {
+    "zip_code": 22901,
+    "latitude": 38.093604,
+    "longitude": -78.561139,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22902,
+    "latitude": 38.026588,
+    "longitude": -78.48045,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22903,
+    "latitude": 38.033938,
+    "longitude": -78.492384,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22904,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22905,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22906,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22907,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22908,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22909,
+    "latitude": 38.024474,
+    "longitude": -78.448214,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22910,
+    "latitude": 38.040101,
+    "longitude": -78.485066,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlottesville City"
+  },
+  {
+    "zip_code": 22911,
+    "latitude": 38.099507,
+    "longitude": -78.408498,
+    "city": "Charlottesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22920,
+    "latitude": 37.972758,
+    "longitude": -78.82231,
+    "city": "Afton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22922,
+    "latitude": 37.690183,
+    "longitude": -78.947944,
+    "city": "Arrington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22923,
+    "latitude": 38.209534,
+    "longitude": -78.309759,
+    "city": "Barboursville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22924,
+    "latitude": 38.001317,
+    "longitude": -78.727146,
+    "city": "Batesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22931,
+    "latitude": 37.893092,
+    "longitude": -78.709897,
+    "city": "Covesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22932,
+    "latitude": 38.129592,
+    "longitude": -78.710635,
+    "city": "Crozet",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22935,
+    "latitude": 38.270529,
+    "longitude": -78.557765,
+    "city": "Dyke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 22936,
+    "latitude": 38.166565,
+    "longitude": -78.506832,
+    "city": "Earlysville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22937,
+    "latitude": 37.82019,
+    "longitude": -78.609661,
+    "city": "Esmont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22938,
+    "latitude": 37.859373,
+    "longitude": -78.816071,
+    "city": "Faber",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22939,
+    "latitude": 38.096364,
+    "longitude": -78.99295,
+    "city": "Fishersville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 22940,
+    "latitude": 38.194421,
+    "longitude": -78.584936,
+    "city": "Free Union",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22942,
+    "latitude": 38.175906,
+    "longitude": -78.181467,
+    "city": "Gordonsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22943,
+    "latitude": 38.078772,
+    "longitude": -78.521957,
+    "city": "Greenwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22945,
+    "latitude": 38.065383,
+    "longitude": -78.595831,
+    "city": "Ivy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22946,
+    "latitude": 37.850141,
+    "longitude": -78.541911,
+    "city": "Keene",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22947,
+    "latitude": 38.053137,
+    "longitude": -78.339571,
+    "city": "Keswick",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22948,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Locust Dale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22949,
+    "latitude": 37.753,
+    "longitude": -78.859153,
+    "city": "Lovingston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22952,
+    "latitude": 37.974432,
+    "longitude": -78.936098,
+    "city": "Lyndhurst",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Augusta"
+  },
+  {
+    "zip_code": 22953,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Madison Mills",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 22954,
+    "latitude": 37.78907,
+    "longitude": -79.012459,
+    "city": "Massies Mill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22957,
+    "latitude": 38.22702,
+    "longitude": -78.176806,
+    "city": "Montpelier Station",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22958,
+    "latitude": 37.818439,
+    "longitude": -78.893139,
+    "city": "Nellysford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22959,
+    "latitude": 37.933631,
+    "longitude": -78.63511,
+    "city": "North Garden",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22960,
+    "latitude": 38.219183,
+    "longitude": -78.046093,
+    "city": "Orange",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22963,
+    "latitude": 37.893119,
+    "longitude": -78.338579,
+    "city": "Palmyra",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fluvanna"
+  },
+  {
+    "zip_code": 22964,
+    "latitude": 37.803604,
+    "longitude": -78.959134,
+    "city": "Piney River",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22965,
+    "latitude": 38.330132,
+    "longitude": -78.475018,
+    "city": "Quinque",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 22967,
+    "latitude": 37.824173,
+    "longitude": -78.962522,
+    "city": "Roseland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22968,
+    "latitude": 38.258615,
+    "longitude": -78.407377,
+    "city": "Ruckersville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 22969,
+    "latitude": 37.818031,
+    "longitude": -78.819906,
+    "city": "Schuyler",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22971,
+    "latitude": 37.759956,
+    "longitude": -78.810459,
+    "city": "Shipman",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22972,
+    "latitude": 38.199692,
+    "longitude": -78.239378,
+    "city": "Somerset",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Orange"
+  },
+  {
+    "zip_code": 22973,
+    "latitude": 38.312057,
+    "longitude": -78.482014,
+    "city": "Stanardsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greene"
+  },
+  {
+    "zip_code": 22974,
+    "latitude": 37.95591,
+    "longitude": -78.276599,
+    "city": "Troy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fluvanna"
+  },
+  {
+    "zip_code": 22976,
+    "latitude": 37.839132,
+    "longitude": -79.069321,
+    "city": "Tyro",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nelson"
+  },
+  {
+    "zip_code": 22980,
+    "latitude": 38.065794,
+    "longitude": -78.903445,
+    "city": "Waynesboro",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Waynesboro City"
+  },
+  {
+    "zip_code": 22987,
+    "latitude": 38.179859,
+    "longitude": -78.618912,
+    "city": "White Hall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Albemarle"
+  },
+  {
+    "zip_code": 22989,
+    "latitude": 38.428509,
+    "longitude": -78.267848,
+    "city": "Woodberry Forest",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Madison"
+  },
+  {
+    "zip_code": 23001,
+    "latitude": 37.28822,
+    "longitude": -76.426013,
+    "city": "Achilles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23002,
+    "latitude": 37.342768,
+    "longitude": -77.984092,
+    "city": "Amelia Court House",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amelia"
+  },
+  {
+    "zip_code": 23003,
+    "latitude": 37.432335,
+    "longitude": -76.601616,
+    "city": "Ark",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23004,
+    "latitude": 37.563225,
+    "longitude": -78.53643,
+    "city": "Arvonia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buckingham"
+  },
+  {
+    "zip_code": 23005,
+    "latitude": 37.754912,
+    "longitude": -77.480128,
+    "city": "Ashland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23009,
+    "latitude": 37.798833,
+    "longitude": -77.180912,
+    "city": "Aylett",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King William"
+  },
+  {
+    "zip_code": 23011,
+    "latitude": 37.479524,
+    "longitude": -76.949981,
+    "city": "Barhamsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "New Kent"
+  },
+  {
+    "zip_code": 23014,
+    "latitude": 37.733844,
+    "longitude": -77.888082,
+    "city": "Beaumont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23015,
+    "latitude": 37.914736,
+    "longitude": -77.62341,
+    "city": "Beaverdam",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23017,
+    "latitude": 37.418242,
+    "longitude": -76.508402,
+    "city": "Bellamy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23018,
+    "latitude": 37.418242,
+    "longitude": -76.508402,
+    "city": "Bena",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23021,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Bohannon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23022,
+    "latitude": 37.848408,
+    "longitude": -78.277393,
+    "city": "Bremo Bluff",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fluvanna"
+  },
+  {
+    "zip_code": 23023,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "Bruington",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23024,
+    "latitude": 37.90754,
+    "longitude": -77.798047,
+    "city": "Bumpass",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 23025,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Cardinal",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23027,
+    "latitude": 37.64794,
+    "longitude": -78.138859,
+    "city": "Cartersville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 23030,
+    "latitude": 37.354115,
+    "longitude": -77.073103,
+    "city": "Charles City",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charles City"
+  },
+  {
+    "zip_code": 23031,
+    "latitude": 37.598391,
+    "longitude": -76.447551,
+    "city": "Christchurch",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23032,
+    "latitude": 37.644319,
+    "longitude": -76.446001,
+    "city": "Church View",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23035,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Cobbs Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23038,
+    "latitude": 37.807863,
+    "longitude": -78.093506,
+    "city": "Columbia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23039,
+    "latitude": 37.657031,
+    "longitude": -77.794731,
+    "city": "Crozier",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23040,
+    "latitude": 37.518167,
+    "longitude": -78.214232,
+    "city": "Cumberland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Cumberland"
+  },
+  {
+    "zip_code": 23043,
+    "latitude": 37.551856,
+    "longitude": -76.366544,
+    "city": "Deltaville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23045,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Diggs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23047,
+    "latitude": 37.846874,
+    "longitude": -77.513156,
+    "city": "Doswell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23050,
+    "latitude": 37.500094,
+    "longitude": -76.454046,
+    "city": "Dutton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23054,
+    "latitude": 37.733844,
+    "longitude": -77.888082,
+    "city": "Fife",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23055,
+    "latitude": 37.848408,
+    "longitude": -78.277393,
+    "city": "Fork Union",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fluvanna"
+  },
+  {
+    "zip_code": 23056,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Foster",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23058,
+    "latitude": 37.531296,
+    "longitude": -77.416103,
+    "city": "Glen Allen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23059,
+    "latitude": 37.728404,
+    "longitude": -77.554393,
+    "city": "Glen Allen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23060,
+    "latitude": 37.595064,
+    "longitude": -77.508719,
+    "city": "Glen Allen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23061,
+    "latitude": 37.41259,
+    "longitude": -76.546416,
+    "city": "Gloucester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23062,
+    "latitude": 37.277726,
+    "longitude": -76.49988,
+    "city": "Gloucester Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23063,
+    "latitude": 37.725416,
+    "longitude": -77.995,
+    "city": "Goochland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23064,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Grimstead",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23065,
+    "latitude": 37.798243,
+    "longitude": -77.937457,
+    "city": "Gum Spring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23066,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Gwynn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23067,
+    "latitude": 37.825208,
+    "longitude": -77.989878,
+    "city": "Hadensville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23068,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Hallieford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23069,
+    "latitude": 37.735448,
+    "longitude": -77.337944,
+    "city": "Hanover",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23070,
+    "latitude": 37.55118,
+    "longitude": -76.384428,
+    "city": "Hardyville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23071,
+    "latitude": 37.541289,
+    "longitude": -76.4152,
+    "city": "Hartfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23072,
+    "latitude": 37.391501,
+    "longitude": -76.514807,
+    "city": "Hayes",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23075,
+    "latitude": 37.545511,
+    "longitude": -77.317838,
+    "city": "Highland Springs",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23076,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Hudgins",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23079,
+    "latitude": 37.644319,
+    "longitude": -76.446001,
+    "city": "Jamaica",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23081,
+    "latitude": 37.223482,
+    "longitude": -76.783317,
+    "city": "Jamestown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "James City"
+  },
+  {
+    "zip_code": 23083,
+    "latitude": 37.322156,
+    "longitude": -78.121631,
+    "city": "Jetersville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amelia"
+  },
+  {
+    "zip_code": 23084,
+    "latitude": 37.848408,
+    "longitude": -78.277393,
+    "city": "Kents Store",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Fluvanna"
+  },
+  {
+    "zip_code": 23085,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "King And Queen Court Hous",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23086,
+    "latitude": 37.677991,
+    "longitude": -77.028495,
+    "city": "King William",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King William"
+  },
+  {
+    "zip_code": 23089,
+    "latitude": 37.465312,
+    "longitude": -76.909711,
+    "city": "Lanexa",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "New Kent"
+  },
+  {
+    "zip_code": 23090,
+    "latitude": 37.235892,
+    "longitude": -76.445567,
+    "city": "Lightfoot",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23091,
+    "latitude": 37.617747,
+    "longitude": -76.771273,
+    "city": "Little Plymouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23092,
+    "latitude": 37.582554,
+    "longitude": -76.498426,
+    "city": "Locust Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23093,
+    "latitude": 37.998422,
+    "longitude": -77.967416,
+    "city": "Louisa",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 23101,
+    "latitude": 37.553314,
+    "longitude": -77.892964,
+    "city": "Macon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Powhatan"
+  },
+  {
+    "zip_code": 23102,
+    "latitude": 37.694226,
+    "longitude": -77.796603,
+    "city": "Maidens",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23103,
+    "latitude": 37.663224,
+    "longitude": -77.791971,
+    "city": "Manakin Sabot",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23105,
+    "latitude": 37.345032,
+    "longitude": -77.944868,
+    "city": "Mannboro",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Amelia"
+  },
+  {
+    "zip_code": 23106,
+    "latitude": 37.733093,
+    "longitude": -77.206868,
+    "city": "Manquin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King William"
+  },
+  {
+    "zip_code": 23107,
+    "latitude": 37.28641,
+    "longitude": -76.404783,
+    "city": "Maryus",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23108,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "Mascot",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23109,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Mathews",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23110,
+    "latitude": 37.613475,
+    "longitude": -76.810087,
+    "city": "Mattaponi",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23111,
+    "latitude": 37.628179,
+    "longitude": -77.281955,
+    "city": "Mechanicsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23112,
+    "latitude": 37.454138,
+    "longitude": -77.66258,
+    "city": "Midlothian",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23113,
+    "latitude": 37.494897,
+    "longitude": -77.663061,
+    "city": "Midlothian",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23114,
+    "latitude": 37.48301,
+    "longitude": -77.660433,
+    "city": "Midlothian",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23115,
+    "latitude": 37.836374,
+    "longitude": -76.913844,
+    "city": "Millers Tavern",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Essex"
+  },
+  {
+    "zip_code": 23116,
+    "latitude": 37.669086,
+    "longitude": -77.329421,
+    "city": "Mechanicsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23117,
+    "latitude": 37.937619,
+    "longitude": -77.868959,
+    "city": "Mineral",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 23119,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Moon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23120,
+    "latitude": 37.416066,
+    "longitude": -77.779015,
+    "city": "Moseley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23123,
+    "latitude": 37.563225,
+    "longitude": -78.53643,
+    "city": "New Canton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buckingham"
+  },
+  {
+    "zip_code": 23124,
+    "latitude": 37.535579,
+    "longitude": -77.005863,
+    "city": "New Kent",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "New Kent"
+  },
+  {
+    "zip_code": 23125,
+    "latitude": 37.343785,
+    "longitude": -76.287792,
+    "city": "New Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23126,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "Newtown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23127,
+    "latitude": 37.310451,
+    "longitude": -76.746769,
+    "city": "Norge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "James City"
+  },
+  {
+    "zip_code": 23128,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "North",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23129,
+    "latitude": 37.701136,
+    "longitude": -77.790584,
+    "city": "Oilville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23130,
+    "latitude": 37.410286,
+    "longitude": -76.294103,
+    "city": "Onemo",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23131,
+    "latitude": 37.312159,
+    "longitude": -76.518831,
+    "city": "Ordinary",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23138,
+    "latitude": 37.355641,
+    "longitude": -76.292253,
+    "city": "Port Haywood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23139,
+    "latitude": 37.541609,
+    "longitude": -77.928759,
+    "city": "Powhatan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Powhatan"
+  },
+  {
+    "zip_code": 23140,
+    "latitude": 37.453467,
+    "longitude": -77.033714,
+    "city": "Providence Forge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "New Kent"
+  },
+  {
+    "zip_code": 23141,
+    "latitude": 37.518432,
+    "longitude": -77.134289,
+    "city": "Quinton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "New Kent"
+  },
+  {
+    "zip_code": 23146,
+    "latitude": 37.739029,
+    "longitude": -77.708072,
+    "city": "Rockville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23147,
+    "latitude": 37.37956,
+    "longitude": -77.034752,
+    "city": "Ruthville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charles City"
+  },
+  {
+    "zip_code": 23148,
+    "latitude": 37.753427,
+    "longitude": -77.047727,
+    "city": "Saint Stephens Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23149,
+    "latitude": 37.644319,
+    "longitude": -76.446001,
+    "city": "Saluda",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23150,
+    "latitude": 37.501495,
+    "longitude": -77.271789,
+    "city": "Sandston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23153,
+    "latitude": 37.779913,
+    "longitude": -77.940549,
+    "city": "Sandy Hook",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23154,
+    "latitude": 37.418242,
+    "longitude": -76.508402,
+    "city": "Schley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23155,
+    "latitude": 37.418242,
+    "longitude": -76.508402,
+    "city": "Severn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23156,
+    "latitude": 37.544151,
+    "longitude": -76.684306,
+    "city": "Shacklefords",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23160,
+    "latitude": 37.733844,
+    "longitude": -77.888082,
+    "city": "State Farm",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23161,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "Stevensville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23162,
+    "latitude": 37.772187,
+    "longitude": -77.45264,
+    "city": "Studley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23163,
+    "latitude": 37.350792,
+    "longitude": -76.316136,
+    "city": "Susan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mathews"
+  },
+  {
+    "zip_code": 23168,
+    "latitude": 37.394138,
+    "longitude": -76.835415,
+    "city": "Toano",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "James City"
+  },
+  {
+    "zip_code": 23169,
+    "latitude": 37.644319,
+    "longitude": -76.446001,
+    "city": "Topping",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23170,
+    "latitude": 37.940788,
+    "longitude": -77.996956,
+    "city": "Trevilians",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Louisa"
+  },
+  {
+    "zip_code": 23173,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "University Of Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23175,
+    "latitude": 37.635564,
+    "longitude": -76.591805,
+    "city": "Urbanna",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23176,
+    "latitude": 37.644319,
+    "longitude": -76.446001,
+    "city": "Wake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23177,
+    "latitude": 37.701823,
+    "longitude": -76.916248,
+    "city": "Walkerton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King And Queen"
+  },
+  {
+    "zip_code": 23178,
+    "latitude": 37.400387,
+    "longitude": -76.452896,
+    "city": "Ware Neck",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23180,
+    "latitude": 37.725161,
+    "longitude": -76.613446,
+    "city": "Water View",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Middlesex"
+  },
+  {
+    "zip_code": 23181,
+    "latitude": 37.607215,
+    "longitude": -76.891642,
+    "city": "West Point",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "King William"
+  },
+  {
+    "zip_code": 23183,
+    "latitude": 37.363201,
+    "longitude": -76.532492,
+    "city": "White Marsh",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23184,
+    "latitude": 37.322121,
+    "longitude": -76.53185,
+    "city": "Wicomico",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23185,
+    "latitude": 37.273209,
+    "longitude": -76.732423,
+    "city": "Williamsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "James City"
+  },
+  {
+    "zip_code": 23186,
+    "latitude": 37.310451,
+    "longitude": -76.746769,
+    "city": "Williamsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Williamsburg City"
+  },
+  {
+    "zip_code": 23187,
+    "latitude": 37.310451,
+    "longitude": -76.746769,
+    "city": "Williamsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Williamsburg City"
+  },
+  {
+    "zip_code": 23188,
+    "latitude": 37.34822,
+    "longitude": -76.773832,
+    "city": "Williamsburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "James City"
+  },
+  {
+    "zip_code": 23190,
+    "latitude": 37.482039,
+    "longitude": -76.636154,
+    "city": "Woods Cross Roads",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23191,
+    "latitude": 37.418242,
+    "longitude": -76.508402,
+    "city": "Zanoni",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Gloucester"
+  },
+  {
+    "zip_code": 23192,
+    "latitude": 37.820707,
+    "longitude": -77.651831,
+    "city": "Montpelier",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hanover"
+  },
+  {
+    "zip_code": 23218,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23219,
+    "latitude": 37.541696,
+    "longitude": -77.439204,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23220,
+    "latitude": 37.552746,
+    "longitude": -77.456602,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23221,
+    "latitude": 37.553196,
+    "longitude": -77.489706,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23222,
+    "latitude": 37.568861,
+    "longitude": -77.428004,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23223,
+    "latitude": 37.533246,
+    "longitude": -77.431054,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23224,
+    "latitude": 37.497796,
+    "longitude": -77.46726,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23225,
+    "latitude": 37.519396,
+    "longitude": -77.500757,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23226,
+    "latitude": 37.587223,
+    "longitude": -77.518407,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23227,
+    "latitude": 37.6247,
+    "longitude": -77.435149,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23228,
+    "latitude": 37.624988,
+    "longitude": -77.49592,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23229,
+    "latitude": 37.595695,
+    "longitude": -77.570359,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23230,
+    "latitude": 37.592095,
+    "longitude": -77.495206,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23231,
+    "latitude": 37.457072,
+    "longitude": -77.307326,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23232,
+    "latitude": 37.520187,
+    "longitude": -77.408359,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23233,
+    "latitude": 37.615276,
+    "longitude": -77.576641,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23234,
+    "latitude": 37.43732,
+    "longitude": -77.478825,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23235,
+    "latitude": 37.494147,
+    "longitude": -77.556501,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23236,
+    "latitude": 37.466359,
+    "longitude": -77.590818,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23237,
+    "latitude": 37.400822,
+    "longitude": -77.471206,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23238,
+    "latitude": 37.733844,
+    "longitude": -77.888082,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Goochland"
+  },
+  {
+    "zip_code": 23240,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23241,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23242,
+    "latitude": 37.531296,
+    "longitude": -77.416103,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23249,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23250,
+    "latitude": 37.507498,
+    "longitude": -77.332916,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23255,
+    "latitude": 37.531296,
+    "longitude": -77.416103,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23260,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23261,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23266,
+    "latitude": 37.567896,
+    "longitude": -77.528308,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23269,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23270,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23272,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23273,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23274,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23275,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23276,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23278,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23279,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23280,
+    "latitude": 37.637622,
+    "longitude": -77.46836,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23282,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23284,
+    "latitude": 37.549446,
+    "longitude": -77.451155,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23285,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23286,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23288,
+    "latitude": 37.531296,
+    "longitude": -77.416103,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23289,
+    "latitude": 37.531296,
+    "longitude": -77.416103,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23290,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23291,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23292,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23293,
+    "latitude": 37.524246,
+    "longitude": -77.493157,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23294,
+    "latitude": 37.628657,
+    "longitude": -77.542871,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henrico"
+  },
+  {
+    "zip_code": 23295,
+    "latitude": 37.5803,
+    "longitude": -77.486661,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23297,
+    "latitude": 37.389721,
+    "longitude": -77.561266,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23298,
+    "latitude": 37.540646,
+    "longitude": -77.431555,
+    "city": "Richmond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Richmond City"
+  },
+  {
+    "zip_code": 23301,
+    "latitude": 37.712919,
+    "longitude": -75.661132,
+    "city": "Accomac",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23302,
+    "latitude": 37.865814,
+    "longitude": -75.527697,
+    "city": "Assawoman",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23303,
+    "latitude": 37.896797,
+    "longitude": -75.520581,
+    "city": "Atlantic",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23304,
+    "latitude": 36.989766,
+    "longitude": -76.572291,
+    "city": "Battery Park",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23306,
+    "latitude": 37.567852,
+    "longitude": -75.858617,
+    "city": "Belle Haven",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23307,
+    "latitude": 37.432247,
+    "longitude": -75.880425,
+    "city": "Birdsnest",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23308,
+    "latitude": 37.823569,
+    "longitude": -75.615138,
+    "city": "Bloxom",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23310,
+    "latitude": 37.259125,
+    "longitude": -75.961975,
+    "city": "Cape Charles",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23313,
+    "latitude": 37.201937,
+    "longitude": -75.952409,
+    "city": "Capeville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23314,
+    "latitude": 36.956505,
+    "longitude": -76.542783,
+    "city": "Carrollton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23315,
+    "latitude": 36.73282,
+    "longitude": -76.830545,
+    "city": "Carrsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23316,
+    "latitude": 37.294283,
+    "longitude": -75.961858,
+    "city": "Cheriton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23320,
+    "latitude": 36.749991,
+    "longitude": -76.218759,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23321,
+    "latitude": 36.781942,
+    "longitude": -76.325762,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23322,
+    "latitude": 36.6434,
+    "longitude": -76.24201,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23323,
+    "latitude": 36.710949,
+    "longitude": -76.339913,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23324,
+    "latitude": 36.802097,
+    "longitude": -76.273934,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23325,
+    "latitude": 36.79202,
+    "longitude": -76.23856,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23326,
+    "latitude": 36.777015,
+    "longitude": -76.239417,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23327,
+    "latitude": 36.7085,
+    "longitude": -76.278531,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23328,
+    "latitude": 36.7085,
+    "longitude": -76.278531,
+    "city": "Chesapeake",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesapeake City"
+  },
+  {
+    "zip_code": 23336,
+    "latitude": 37.948723,
+    "longitude": -75.436285,
+    "city": "Chincoteague Island",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23337,
+    "latitude": 37.918556,
+    "longitude": -75.490518,
+    "city": "Wallops Island",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23341,
+    "latitude": 37.577292,
+    "longitude": -75.864607,
+    "city": "Craddockville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23345,
+    "latitude": 37.738248,
+    "longitude": -75.701449,
+    "city": "Davis Wharf",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23347,
+    "latitude": 37.356057,
+    "longitude": -75.964939,
+    "city": "Eastville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23350,
+    "latitude": 37.376126,
+    "longitude": -75.882344,
+    "city": "Exmore",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23354,
+    "latitude": 37.458837,
+    "longitude": -75.900724,
+    "city": "Franktown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23356,
+    "latitude": 37.999789,
+    "longitude": -75.413184,
+    "city": "Greenbackville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23357,
+    "latitude": 37.750487,
+    "longitude": -75.66704,
+    "city": "Greenbush",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23358,
+    "latitude": 37.639252,
+    "longitude": -75.865009,
+    "city": "Hacksneck",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23359,
+    "latitude": 37.883709,
+    "longitude": -75.604063,
+    "city": "Hallwood",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23389,
+    "latitude": 37.656158,
+    "longitude": -75.848807,
+    "city": "Harborton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23395,
+    "latitude": 37.975567,
+    "longitude": -75.479748,
+    "city": "Horntown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23396,
+    "latitude": 37.923682,
+    "longitude": -75.555142,
+    "city": "Oak Hall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23397,
+    "latitude": 36.898915,
+    "longitude": -76.687745,
+    "city": "Isle Of Wight",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23398,
+    "latitude": 37.534336,
+    "longitude": -75.877052,
+    "city": "Jamesville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23399,
+    "latitude": 37.916218,
+    "longitude": -75.616754,
+    "city": "Jenkins Bridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23401,
+    "latitude": 37.596576,
+    "longitude": -75.789256,
+    "city": "Keller",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23404,
+    "latitude": 37.677193,
+    "longitude": -75.672604,
+    "city": "Locustville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23405,
+    "latitude": 37.413281,
+    "longitude": -75.92133,
+    "city": "Machipongo",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23407,
+    "latitude": 37.838898,
+    "longitude": -75.563439,
+    "city": "Mappsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23408,
+    "latitude": 37.424497,
+    "longitude": -75.877143,
+    "city": "Marionville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23409,
+    "latitude": 37.844421,
+    "longitude": -75.611577,
+    "city": "Mears",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23410,
+    "latitude": 37.603823,
+    "longitude": -75.75782,
+    "city": "Melfa",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23412,
+    "latitude": 37.790415,
+    "longitude": -75.60347,
+    "city": "Modest Town",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23413,
+    "latitude": 37.469454,
+    "longitude": -75.879019,
+    "city": "Nassawadox",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23414,
+    "latitude": 37.816896,
+    "longitude": -75.583227,
+    "city": "Nelsonia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23415,
+    "latitude": 37.92807,
+    "longitude": -75.526526,
+    "city": "New Church",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23416,
+    "latitude": 37.922866,
+    "longitude": -75.538591,
+    "city": "Oak Hall",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23417,
+    "latitude": 37.693197,
+    "longitude": -75.746,
+    "city": "Onancock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23418,
+    "latitude": 37.796421,
+    "longitude": -75.650275,
+    "city": "Onley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23419,
+    "latitude": 37.307411,
+    "longitude": -75.926877,
+    "city": "Oyster",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23420,
+    "latitude": 37.59081,
+    "longitude": -75.832274,
+    "city": "Painter",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23421,
+    "latitude": 37.840771,
+    "longitude": -75.633717,
+    "city": "Parksley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23422,
+    "latitude": 37.616183,
+    "longitude": -75.791519,
+    "city": "Pungoteague",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23423,
+    "latitude": 37.542324,
+    "longitude": -75.74122,
+    "city": "Quinby",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23424,
+    "latitude": 36.996881,
+    "longitude": -76.564516,
+    "city": "Rescue",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23426,
+    "latitude": 37.922894,
+    "longitude": -75.678111,
+    "city": "Sanford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23427,
+    "latitude": 37.926441,
+    "longitude": -75.721978,
+    "city": "Saxis",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23429,
+    "latitude": 37.271104,
+    "longitude": -75.953608,
+    "city": "Seaview",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23430,
+    "latitude": 36.990826,
+    "longitude": -76.661123,
+    "city": "Smithfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23431,
+    "latitude": 36.898915,
+    "longitude": -76.687745,
+    "city": "Smithfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23432,
+    "latitude": 36.874916,
+    "longitude": -76.553061,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23433,
+    "latitude": 36.9061,
+    "longitude": -76.493175,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23434,
+    "latitude": 36.704592,
+    "longitude": -76.636158,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23435,
+    "latitude": 36.837412,
+    "longitude": -76.477756,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23436,
+    "latitude": 36.886856,
+    "longitude": -76.523388,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23437,
+    "latitude": 36.646717,
+    "longitude": -76.796225,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23438,
+    "latitude": 36.598524,
+    "longitude": -76.710143,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23439,
+    "latitude": 36.746101,
+    "longitude": -76.665251,
+    "city": "Suffolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Suffolk City"
+  },
+  {
+    "zip_code": 23440,
+    "latitude": 37.823118,
+    "longitude": -75.994287,
+    "city": "Tangier",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23441,
+    "latitude": 37.732288,
+    "longitude": -75.677292,
+    "city": "Tasley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23442,
+    "latitude": 37.899545,
+    "longitude": -75.580102,
+    "city": "Temperanceville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23443,
+    "latitude": 37.188217,
+    "longitude": -75.969003,
+    "city": "Townsend",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23450,
+    "latitude": 36.844004,
+    "longitude": -76.12036,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23451,
+    "latitude": 36.856348,
+    "longitude": -76.053568,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23452,
+    "latitude": 36.846147,
+    "longitude": -76.097355,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23454,
+    "latitude": 36.828586,
+    "longitude": -76.070772,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23455,
+    "latitude": 36.888865,
+    "longitude": -76.146757,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23456,
+    "latitude": 36.746599,
+    "longitude": -76.039092,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23457,
+    "latitude": 36.622351,
+    "longitude": -76.02485,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23458,
+    "latitude": 36.847388,
+    "longitude": -76.15581,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23459,
+    "latitude": 36.924496,
+    "longitude": -76.018703,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23460,
+    "latitude": 36.837598,
+    "longitude": -76.026053,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23461,
+    "latitude": 36.790249,
+    "longitude": -76.002552,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23462,
+    "latitude": 36.837052,
+    "longitude": -76.146692,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23463,
+    "latitude": 36.795669,
+    "longitude": -76.012628,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23464,
+    "latitude": 36.799473,
+    "longitude": -76.178375,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23465,
+    "latitude": 36.851243,
+    "longitude": -76.169215,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23466,
+    "latitude": 36.795669,
+    "longitude": -76.012628,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23467,
+    "latitude": 36.795669,
+    "longitude": -76.012628,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23468,
+    "latitude": 36.843948,
+    "longitude": -76.142407,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23471,
+    "latitude": 36.795669,
+    "longitude": -76.012628,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23479,
+    "latitude": 36.795669,
+    "longitude": -76.012628,
+    "city": "Virginia Beach",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23480,
+    "latitude": 37.604378,
+    "longitude": -75.692465,
+    "city": "Wachapreague",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23482,
+    "latitude": 37.273986,
+    "longitude": -75.86913,
+    "city": "Wardtown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23483,
+    "latitude": 37.943726,
+    "longitude": -75.502306,
+    "city": "Wattsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23486,
+    "latitude": 37.518917,
+    "longitude": -75.810482,
+    "city": "Willis Wharf",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Northampton"
+  },
+  {
+    "zip_code": 23487,
+    "latitude": 36.845054,
+    "longitude": -76.713731,
+    "city": "Windsor",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23488,
+    "latitude": 37.948229,
+    "longitude": -75.601856,
+    "city": "Withams",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Accomack"
+  },
+  {
+    "zip_code": 23501,
+    "latitude": 36.895911,
+    "longitude": -76.208521,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23502,
+    "latitude": 36.887433,
+    "longitude": -76.212909,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23503,
+    "latitude": 36.948097,
+    "longitude": -76.256311,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23504,
+    "latitude": 36.877847,
+    "longitude": -76.265762,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23505,
+    "latitude": 36.902947,
+    "longitude": -76.278813,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23506,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23507,
+    "latitude": 36.865697,
+    "longitude": -76.299862,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23508,
+    "latitude": 36.884447,
+    "longitude": -76.299963,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23509,
+    "latitude": 36.881197,
+    "longitude": -76.261511,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23510,
+    "latitude": 36.881047,
+    "longitude": -76.292412,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23511,
+    "latitude": 36.935579,
+    "longitude": -76.303417,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23512,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23513,
+    "latitude": 36.890747,
+    "longitude": -76.23516,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23514,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23515,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23517,
+    "latitude": 36.869597,
+    "longitude": -76.292611,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23518,
+    "latitude": 36.907997,
+    "longitude": -76.216448,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23519,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23520,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23521,
+    "latitude": 36.913144,
+    "longitude": -76.147157,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Virginia Beach City"
+  },
+  {
+    "zip_code": 23523,
+    "latitude": 36.831647,
+    "longitude": -76.270561,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23529,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23530,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23541,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23551,
+    "latitude": 36.931166,
+    "longitude": -76.23972,
+    "city": "Norfolk",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Norfolk City"
+  },
+  {
+    "zip_code": 23601,
+    "latitude": 37.058296,
+    "longitude": -76.463471,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23602,
+    "latitude": 37.125384,
+    "longitude": -76.510952,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23603,
+    "latitude": 37.168276,
+    "longitude": -76.541367,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23604,
+    "latitude": 37.157438,
+    "longitude": -76.584469,
+    "city": "Fort Eustis",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23605,
+    "latitude": 37.021946,
+    "longitude": -76.436637,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23606,
+    "latitude": 37.073526,
+    "longitude": -76.493022,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23607,
+    "latitude": 36.991097,
+    "longitude": -76.420763,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23608,
+    "latitude": 37.152619,
+    "longitude": -76.542039,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23609,
+    "latitude": 37.195924,
+    "longitude": -76.524805,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23612,
+    "latitude": 37.195924,
+    "longitude": -76.524805,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23628,
+    "latitude": 37.195924,
+    "longitude": -76.524805,
+    "city": "Newport News",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Newport News City"
+  },
+  {
+    "zip_code": 23630,
+    "latitude": 37.072658,
+    "longitude": -76.38992,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23631,
+    "latitude": 37.072658,
+    "longitude": -76.38992,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23651,
+    "latitude": 37.018012,
+    "longitude": -76.304391,
+    "city": "Fort Monroe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23653,
+    "latitude": 37.072658,
+    "longitude": -76.38992,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23661,
+    "latitude": 37.034746,
+    "longitude": -76.385817,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23662,
+    "latitude": 37.132326,
+    "longitude": -76.365419,
+    "city": "Poquoson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Poquoson City"
+  },
+  {
+    "zip_code": 23663,
+    "latitude": 37.034207,
+    "longitude": -76.319364,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23664,
+    "latitude": 37.05165,
+    "longitude": -76.334465,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23665,
+    "latitude": 37.083118,
+    "longitude": -76.360036,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23666,
+    "latitude": 37.060646,
+    "longitude": -76.371616,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23667,
+    "latitude": 37.019346,
+    "longitude": -76.331815,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23668,
+    "latitude": 37.020596,
+    "longitude": -76.337715,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23669,
+    "latitude": 37.045715,
+    "longitude": -76.353866,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23670,
+    "latitude": 37.072658,
+    "longitude": -76.38992,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23681,
+    "latitude": 37.072658,
+    "longitude": -76.38992,
+    "city": "Hampton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hampton City"
+  },
+  {
+    "zip_code": 23690,
+    "latitude": 37.230251,
+    "longitude": -76.524359,
+    "city": "Yorktown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23691,
+    "latitude": 37.203185,
+    "longitude": -76.494054,
+    "city": "Yorktown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23692,
+    "latitude": 37.168632,
+    "longitude": -76.458126,
+    "city": "Yorktown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23693,
+    "latitude": 37.152812,
+    "longitude": -76.44791,
+    "city": "Yorktown",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23694,
+    "latitude": 37.223152,
+    "longitude": -76.55901,
+    "city": "Lackey",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23696,
+    "latitude": 37.189902,
+    "longitude": -76.426469,
+    "city": "Seaford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "York"
+  },
+  {
+    "zip_code": 23701,
+    "latitude": 36.811498,
+    "longitude": -76.367715,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23702,
+    "latitude": 36.804098,
+    "longitude": -76.329263,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23703,
+    "latitude": 36.867948,
+    "longitude": -76.380766,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23704,
+    "latitude": 36.824298,
+    "longitude": -76.315663,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23705,
+    "latitude": 36.868553,
+    "longitude": -76.355165,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23707,
+    "latitude": 36.837153,
+    "longitude": -76.347314,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23708,
+    "latitude": 36.868553,
+    "longitude": -76.355165,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23709,
+    "latitude": 36.868553,
+    "longitude": -76.355165,
+    "city": "Portsmouth",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Portsmouth City"
+  },
+  {
+    "zip_code": 23801,
+    "latitude": 37.233941,
+    "longitude": -77.334831,
+    "city": "Fort Lee",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince George"
+  },
+  {
+    "zip_code": 23803,
+    "latitude": 37.21713,
+    "longitude": -77.389253,
+    "city": "Petersburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Petersburg City"
+  },
+  {
+    "zip_code": 23804,
+    "latitude": 37.204765,
+    "longitude": -77.392784,
+    "city": "Petersburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Petersburg City"
+  },
+  {
+    "zip_code": 23805,
+    "latitude": 37.1922,
+    "longitude": -77.389641,
+    "city": "Petersburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Petersburg City"
+  },
+  {
+    "zip_code": 23806,
+    "latitude": 37.204765,
+    "longitude": -77.392784,
+    "city": "Petersburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Petersburg City"
+  },
+  {
+    "zip_code": 23821,
+    "latitude": 36.858078,
+    "longitude": -77.894632,
+    "city": "Alberta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23822,
+    "latitude": 37.072361,
+    "longitude": -77.647495,
+    "city": "Ammon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23824,
+    "latitude": 37.12237,
+    "longitude": -77.978923,
+    "city": "Blackstone",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nottoway"
+  },
+  {
+    "zip_code": 23827,
+    "latitude": 36.611614,
+    "longitude": -77.207263,
+    "city": "Boykins",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23828,
+    "latitude": 36.597427,
+    "longitude": -77.293341,
+    "city": "Branchville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23829,
+    "latitude": 36.720629,
+    "longitude": -77.236519,
+    "city": "Capron",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23830,
+    "latitude": 37.021522,
+    "longitude": -77.453348,
+    "city": "Carson",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23831,
+    "latitude": 37.320744,
+    "longitude": -77.454311,
+    "city": "Chester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23832,
+    "latitude": 37.392683,
+    "longitude": -77.605362,
+    "city": "Chesterfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23833,
+    "latitude": 37.168045,
+    "longitude": -77.674226,
+    "city": "Church Road",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23834,
+    "latitude": 37.26219,
+    "longitude": -77.396989,
+    "city": "Colonial Heights",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Colonial Heights City"
+  },
+  {
+    "zip_code": 23836,
+    "latitude": 37.347458,
+    "longitude": -77.338551,
+    "city": "Chester",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23837,
+    "latitude": 36.70656,
+    "longitude": -77.215522,
+    "city": "Courtland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23838,
+    "latitude": 37.333271,
+    "longitude": -77.634265,
+    "city": "Chesterfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Chesterfield"
+  },
+  {
+    "zip_code": 23839,
+    "latitude": 37.065785,
+    "longitude": -76.915537,
+    "city": "Dendron",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Surry"
+  },
+  {
+    "zip_code": 23840,
+    "latitude": 37.069327,
+    "longitude": -77.677945,
+    "city": "Dewitt",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23841,
+    "latitude": 37.079304,
+    "longitude": -77.601563,
+    "city": "Dinwiddie",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23842,
+    "latitude": 37.150869,
+    "longitude": -77.213961,
+    "city": "Disputanta",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince George"
+  },
+  {
+    "zip_code": 23843,
+    "latitude": 36.849008,
+    "longitude": -77.807345,
+    "city": "Dolphin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23844,
+    "latitude": 36.662286,
+    "longitude": -77.335713,
+    "city": "Drewryville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23845,
+    "latitude": 36.598591,
+    "longitude": -78.001206,
+    "city": "Ebony",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23846,
+    "latitude": 37.07295,
+    "longitude": -76.856852,
+    "city": "Elberon",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Surry"
+  },
+  {
+    "zip_code": 23847,
+    "latitude": 36.694745,
+    "longitude": -77.535517,
+    "city": "Emporia",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Emporia City"
+  },
+  {
+    "zip_code": 23850,
+    "latitude": 37.134946,
+    "longitude": -77.736402,
+    "city": "Ford",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23851,
+    "latitude": 36.682635,
+    "longitude": -76.942233,
+    "city": "Franklin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin City"
+  },
+  {
+    "zip_code": 23856,
+    "latitude": 36.808949,
+    "longitude": -77.720027,
+    "city": "Freeman",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23857,
+    "latitude": 36.596172,
+    "longitude": -77.890727,
+    "city": "Gasburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23860,
+    "latitude": 37.286676,
+    "longitude": -77.296596,
+    "city": "Hopewell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Hopewell City"
+  },
+  {
+    "zip_code": 23866,
+    "latitude": 36.887634,
+    "longitude": -76.900225,
+    "city": "Ivor",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23867,
+    "latitude": 36.864325,
+    "longitude": -77.282567,
+    "city": "Jarratt",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23868,
+    "latitude": 36.734246,
+    "longitude": -77.813561,
+    "city": "Lawrenceville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23870,
+    "latitude": 36.721471,
+    "longitude": -77.531996,
+    "city": "Jarratt",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greensville"
+  },
+  {
+    "zip_code": 23872,
+    "latitude": 37.010322,
+    "longitude": -77.736044,
+    "city": "Mc Kenney",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23873,
+    "latitude": 36.80878,
+    "longitude": -77.954397,
+    "city": "Meredithville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23874,
+    "latitude": 36.607792,
+    "longitude": -77.092706,
+    "city": "Newsoms",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23875,
+    "latitude": 37.234733,
+    "longitude": -77.263465,
+    "city": "Prince George",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince George"
+  },
+  {
+    "zip_code": 23876,
+    "latitude": 36.948942,
+    "longitude": -77.841001,
+    "city": "Rawlings",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23878,
+    "latitude": 36.820784,
+    "longitude": -77.026194,
+    "city": "Sedley",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Southampton"
+  },
+  {
+    "zip_code": 23879,
+    "latitude": 36.595815,
+    "longitude": -77.59207,
+    "city": "Skippers",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Greensville"
+  },
+  {
+    "zip_code": 23881,
+    "latitude": 37.169453,
+    "longitude": -76.967517,
+    "city": "Spring Grove",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Surry"
+  },
+  {
+    "zip_code": 23882,
+    "latitude": 36.878331,
+    "longitude": -77.392824,
+    "city": "Stony Creek",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23883,
+    "latitude": 37.095554,
+    "longitude": -76.821125,
+    "city": "Surry",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Surry"
+  },
+  {
+    "zip_code": 23884,
+    "latitude": 36.945667,
+    "longitude": -77.253913,
+    "city": "Sussex",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23885,
+    "latitude": 37.180418,
+    "longitude": -77.575347,
+    "city": "Sutherland",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23887,
+    "latitude": 36.6608,
+    "longitude": -77.820567,
+    "city": "Valentines",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23888,
+    "latitude": 36.958091,
+    "longitude": -77.040206,
+    "city": "Wakefield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23889,
+    "latitude": 36.885672,
+    "longitude": -77.764753,
+    "city": "Warfield",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23890,
+    "latitude": 36.973687,
+    "longitude": -77.12993,
+    "city": "Waverly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23891,
+    "latitude": 36.909845,
+    "longitude": -77.286287,
+    "city": "Waverly",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23893,
+    "latitude": 36.61509,
+    "longitude": -77.927891,
+    "city": "White Plains",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23894,
+    "latitude": 37.125964,
+    "longitude": -77.703648,
+    "city": "Wilsons",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Dinwiddie"
+  },
+  {
+    "zip_code": 23897,
+    "latitude": 36.838572,
+    "longitude": -77.27587,
+    "city": "Yale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Sussex"
+  },
+  {
+    "zip_code": 23898,
+    "latitude": 36.833708,
+    "longitude": -76.817727,
+    "city": "Zuni",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Isle Of Wight"
+  },
+  {
+    "zip_code": 23899,
+    "latitude": 37.199009,
+    "longitude": -76.984159,
+    "city": "Claremont",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Surry"
+  },
+  {
+    "zip_code": 23901,
+    "latitude": 37.280694,
+    "longitude": -78.421284,
+    "city": "Farmville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23909,
+    "latitude": 37.301574,
+    "longitude": -78.394944,
+    "city": "Farmville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23915,
+    "latitude": 36.70774,
+    "longitude": -78.281204,
+    "city": "Baskerville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23917,
+    "latitude": 36.655033,
+    "longitude": -78.350388,
+    "city": "Boydton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23919,
+    "latitude": 36.612381,
+    "longitude": -78.288907,
+    "city": "Bracey",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23920,
+    "latitude": 36.697808,
+    "longitude": -77.935481,
+    "city": "Brodnax",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Brunswick"
+  },
+  {
+    "zip_code": 23921,
+    "latitude": 37.563225,
+    "longitude": -78.53643,
+    "city": "Buckingham",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buckingham"
+  },
+  {
+    "zip_code": 23922,
+    "latitude": 37.190922,
+    "longitude": -78.182733,
+    "city": "Burkeville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nottoway"
+  },
+  {
+    "zip_code": 23923,
+    "latitude": 37.087895,
+    "longitude": -78.637846,
+    "city": "Charlotte Court House",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23924,
+    "latitude": 36.771496,
+    "longitude": -78.425379,
+    "city": "Chase City",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23927,
+    "latitude": 36.65565,
+    "longitude": -78.458282,
+    "city": "Clarksville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23930,
+    "latitude": 37.150355,
+    "longitude": -78.095474,
+    "city": "Crewe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nottoway"
+  },
+  {
+    "zip_code": 23934,
+    "latitude": 37.153846,
+    "longitude": -78.661108,
+    "city": "Cullen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23936,
+    "latitude": 37.412369,
+    "longitude": -78.434926,
+    "city": "Dillwyn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Buckingham"
+  },
+  {
+    "zip_code": 23937,
+    "latitude": 36.961434,
+    "longitude": -78.556872,
+    "city": "Drakes Branch",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23938,
+    "latitude": 36.918641,
+    "longitude": -78.052391,
+    "city": "Dundas",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lunenburg"
+  },
+  {
+    "zip_code": 23939,
+    "latitude": 37.377196,
+    "longitude": -78.80648,
+    "city": "Evergreen",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Appomattox"
+  },
+  {
+    "zip_code": 23941,
+    "latitude": 36.948129,
+    "longitude": -78.248333,
+    "city": "Fort Mitchell",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lunenburg"
+  },
+  {
+    "zip_code": 23942,
+    "latitude": 37.238139,
+    "longitude": -78.461789,
+    "city": "Green Bay",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23943,
+    "latitude": 37.238139,
+    "longitude": -78.461789,
+    "city": "Hampden Sydney",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23944,
+    "latitude": 36.909212,
+    "longitude": -78.142642,
+    "city": "Kenbridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lunenburg"
+  },
+  {
+    "zip_code": 23947,
+    "latitude": 37.013846,
+    "longitude": -78.567247,
+    "city": "Keysville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23950,
+    "latitude": 36.690021,
+    "longitude": -78.232633,
+    "city": "La Crosse",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23952,
+    "latitude": 36.979498,
+    "longitude": -78.285967,
+    "city": "Lunenburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lunenburg"
+  },
+  {
+    "zip_code": 23954,
+    "latitude": 37.238139,
+    "longitude": -78.461789,
+    "city": "Meherrin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23955,
+    "latitude": 37.116094,
+    "longitude": -78.057832,
+    "city": "Nottoway",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Nottoway"
+  },
+  {
+    "zip_code": 23958,
+    "latitude": 37.377196,
+    "longitude": -78.80648,
+    "city": "Pamplin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Appomattox"
+  },
+  {
+    "zip_code": 23959,
+    "latitude": 37.108477,
+    "longitude": -78.739921,
+    "city": "Phenix",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23960,
+    "latitude": 37.238139,
+    "longitude": -78.461789,
+    "city": "Prospect",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23962,
+    "latitude": 36.951533,
+    "longitude": -78.705413,
+    "city": "Randolph",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23963,
+    "latitude": 37.181814,
+    "longitude": -78.77379,
+    "city": "Red House",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23964,
+    "latitude": 36.783999,
+    "longitude": -78.618595,
+    "city": "Red Oak",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23966,
+    "latitude": 37.280047,
+    "longitude": -78.346836,
+    "city": "Rice",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Prince Edward"
+  },
+  {
+    "zip_code": 23967,
+    "latitude": 36.905289,
+    "longitude": -78.632086,
+    "city": "Saxe",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 23968,
+    "latitude": 36.723976,
+    "longitude": -78.530076,
+    "city": "Skipwith",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23970,
+    "latitude": 36.717223,
+    "longitude": -78.168729,
+    "city": "South Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Mecklenburg"
+  },
+  {
+    "zip_code": 23974,
+    "latitude": 36.961136,
+    "longitude": -78.258493,
+    "city": "Victoria",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Lunenburg"
+  },
+  {
+    "zip_code": 23976,
+    "latitude": 36.839122,
+    "longitude": -78.598225,
+    "city": "Wylliesburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Charlotte"
+  },
+  {
+    "zip_code": 24001,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24002,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24003,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24004,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24005,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24006,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24007,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24008,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24009,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24010,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24011,
+    "latitude": 37.270237,
+    "longitude": -79.941586,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24012,
+    "latitude": 37.30529,
+    "longitude": -79.92711,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24013,
+    "latitude": 37.265687,
+    "longitude": -79.923698,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24014,
+    "latitude": 37.238643,
+    "longitude": -79.940559,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24015,
+    "latitude": 37.253866,
+    "longitude": -79.974559,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24016,
+    "latitude": 37.272486,
+    "longitude": -79.952709,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24017,
+    "latitude": 37.297919,
+    "longitude": -79.98776,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24018,
+    "latitude": 37.250349,
+    "longitude": -80.05251,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24019,
+    "latitude": 37.351517,
+    "longitude": -79.905211,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24020,
+    "latitude": 37.358887,
+    "longitude": -79.944789,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24022,
+    "latitude": 37.278439,
+    "longitude": -79.933206,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24023,
+    "latitude": 37.210663,
+    "longitude": -80.406172,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24024,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24025,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24026,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24027,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24028,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24029,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24030,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24031,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24032,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24033,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24034,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24035,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24036,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24037,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24038,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24040,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24042,
+    "latitude": 37.271687,
+    "longitude": -79.939228,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24043,
+    "latitude": 37.269168,
+    "longitude": -79.939905,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24044,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24045,
+    "latitude": 37.268618,
+    "longitude": -79.940655,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24048,
+    "latitude": 37.274175,
+    "longitude": -79.95786,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke City"
+  },
+  {
+    "zip_code": 24050,
+    "latitude": 37.555083,
+    "longitude": -79.786151,
+    "city": "Roanoke",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24053,
+    "latitude": 36.612434,
+    "longitude": -80.504446,
+    "city": "Ararat",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24054,
+    "latitude": 36.670446,
+    "longitude": -79.742557,
+    "city": "Axton",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24055,
+    "latitude": 36.735045,
+    "longitude": -79.975528,
+    "city": "Bassett",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24058,
+    "latitude": 37.198248,
+    "longitude": -80.615065,
+    "city": "Belspring",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24059,
+    "latitude": 37.154932,
+    "longitude": -80.121522,
+    "city": "Bent Mountain",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24060,
+    "latitude": 37.256283,
+    "longitude": -80.43473,
+    "city": "Blacksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24061,
+    "latitude": 37.179115,
+    "longitude": -80.351482,
+    "city": "Blacksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24062,
+    "latitude": 37.174227,
+    "longitude": -80.395698,
+    "city": "Blacksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24063,
+    "latitude": 37.174227,
+    "longitude": -80.395698,
+    "city": "Blacksburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24064,
+    "latitude": 37.369287,
+    "longitude": -79.819537,
+    "city": "Blue Ridge",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24065,
+    "latitude": 37.098391,
+    "longitude": -79.95233,
+    "city": "Boones Mill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24066,
+    "latitude": 37.547903,
+    "longitude": -79.712321,
+    "city": "Buchanan",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24067,
+    "latitude": 37.024849,
+    "longitude": -80.056685,
+    "city": "Callaway",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24068,
+    "latitude": 37.154804,
+    "longitude": -80.418396,
+    "city": "Christiansburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24069,
+    "latitude": 36.594226,
+    "longitude": -79.616614,
+    "city": "Cascade",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pittsylvania"
+  },
+  {
+    "zip_code": 24070,
+    "latitude": 37.355418,
+    "longitude": -80.158462,
+    "city": "Catawba",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24072,
+    "latitude": 37.044622,
+    "longitude": -80.227981,
+    "city": "Check",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 24073,
+    "latitude": 37.118759,
+    "longitude": -80.41787,
+    "city": "Christiansburg",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Montgomery"
+  },
+  {
+    "zip_code": 24076,
+    "latitude": 36.597733,
+    "longitude": -80.36824,
+    "city": "Claudville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24077,
+    "latitude": 37.372608,
+    "longitude": -79.901331,
+    "city": "Cloverdale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24078,
+    "latitude": 36.724691,
+    "longitude": -79.914912,
+    "city": "Collinsville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24079,
+    "latitude": 37.048796,
+    "longitude": -80.153614,
+    "city": "Copper Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 24082,
+    "latitude": 36.627165,
+    "longitude": -80.11928,
+    "city": "Critz",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Patrick"
+  },
+  {
+    "zip_code": 24083,
+    "latitude": 37.44197,
+    "longitude": -79.914156,
+    "city": "Daleville",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24084,
+    "latitude": 37.122327,
+    "longitude": -80.752614,
+    "city": "Dublin",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Pulaski"
+  },
+  {
+    "zip_code": 24085,
+    "latitude": 37.645695,
+    "longitude": -79.864047,
+    "city": "Eagle Rock",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24086,
+    "latitude": 37.277231,
+    "longitude": -80.670159,
+    "city": "Eggleston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24087,
+    "latitude": 37.225683,
+    "longitude": -80.184842,
+    "city": "Elliston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Roanoke"
+  },
+  {
+    "zip_code": 24088,
+    "latitude": 36.889337,
+    "longitude": -80.025866,
+    "city": "Ferrum",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24089,
+    "latitude": 36.708873,
+    "longitude": -79.970745,
+    "city": "Fieldale",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Henry"
+  },
+  {
+    "zip_code": 24090,
+    "latitude": 37.527349,
+    "longitude": -79.834474,
+    "city": "Fincastle",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Botetourt"
+  },
+  {
+    "zip_code": 24091,
+    "latitude": 36.895714,
+    "longitude": -80.327524,
+    "city": "Floyd",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Floyd"
+  },
+  {
+    "zip_code": 24092,
+    "latitude": 36.985894,
+    "longitude": -79.772986,
+    "city": "Glade Hill",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24093,
+    "latitude": 37.384006,
+    "longitude": -80.853048,
+    "city": "Glen Lyn",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24094,
+    "latitude": 37.385257,
+    "longitude": -80.590627,
+    "city": "Goldbond",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Giles"
+  },
+  {
+    "zip_code": 24095,
+    "latitude": 37.21229,
+    "longitude": -79.742886,
+    "city": "Goodview",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24101,
+    "latitude": 37.177891,
+    "longitude": -79.667368,
+    "city": "Hardy",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  },
+  {
+    "zip_code": 24102,
+    "latitude": 36.840862,
+    "longitude": -79.986739,
+    "city": "Henry",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Franklin"
+  },
+  {
+    "zip_code": 24104,
+    "latitude": 37.154717,
+    "longitude": -79.494856,
+    "city": "Huddleston",
+    "state": "VA",
+    "full_state": "Virginia",
+    "county": "Bedford"
+  }
+]
