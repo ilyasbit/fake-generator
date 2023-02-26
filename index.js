@@ -20,8 +20,7 @@ app.listen(port, '0.0.0.0', () => {
 app.get('/us', (req, res) => {
   const files = fs.readdirSync('./uszip-split');
   const randomFile = files[Math.floor(Math.random() * files.length)];
-  const data = fs.readFile('./uszip-split/' + randomFile, 'utf8');
-    const parsedData = JSON.parse(data);
+  const parsedData = JSON.parse(fs.readFileSync(`./uszip-split/${randomFile}`));
     const getData = () => {
       let randomIndex = Math.floor(Math.random() * parsedData.length);
       let zip = parsedData[randomIndex].zip_code;
