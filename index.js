@@ -9,7 +9,7 @@ const app = express();
 
 
 app.use(bodyParser.json());
-app.use(morgan('mini'));
+app.use(morgan('combined'));
 
 const port = 9999;
 
@@ -113,7 +113,8 @@ if (month_exp.length === 1) {
 const this_year = new Date().getFullYear();
 const year_exp =  (Math.floor(Math.random() * 5) + this_year).toString().slice(-2);
 
-const cvv = Math.floor(Math.random() * 900) + 100;
+let cvv = Math.floor(Math.random() * 900) + 100;
+cvv = cvv.toString();
 const livecard = {
     card_number: cc_number,
     month_exp: month_exp,
