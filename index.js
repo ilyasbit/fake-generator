@@ -63,3 +63,65 @@ app.get('/us', (req, res) => {
     company
     });
 });
+
+
+app.get('/k4rtug3n', (req, res) => {
+  try{
+  const bin = req.query.bin;
+  const genSixteen = (bin) => {
+    const generate = (bin) => {
+      let ccnum;
+      ccnum = bin;
+      const binLength = bin.length;
+      const sisa = 16 - binLength;
+      for (let i = 0; i < sisa; i++) {
+        ccnum += Math.floor(Math.random() * 10);
+      }
+      return ccnum;
+    };
+    const luhnCheck = (sixteenDigitString) => {
+      let sum = 0;
+      let alternate = false;
+      for (let i = sixteenDigitString.length - 1; i >= 0; i--) {
+        let n = parseInt(sixteenDigitString.charAt(i));
+        if (alternate) {
+          n *= 2;
+          if (n > 9) {
+            n = (n % 10) + 1;
+          }
+        }
+        sum += n;
+        alternate = !alternate;
+      }
+      return (sum % 10 === 0);
+    }
+    let cc_number;
+    while (true) {
+      const sixteenDigitString = generate(bin);
+      if (luhnCheck(sixteenDigitString)) {
+        cc_number = sixteenDigitString;
+        break;
+      }
+    }
+    return cc_number;
+};
+const cc_number = genSixteen(bin);
+let month_exp = (Math.floor(Math.random() * 5) + 1).toString();
+if (month_exp.length === 1) {
+    month_exp = '0' + month_exp;
+}
+const this_year = new Date().getFullYear();
+const year_exp =  (Math.floor(Math.random() * 5) + this_year).toString().slice(-2);
+
+const cvv = Math.floor(Math.random() * 900) + 100;
+const livecard = {
+    card_number: cc_number,
+    month_exp: month_exp,
+    year_exp: year_exp,
+    cvv: cvv
+};
+return res.status(200).json(livecard);
+  } catch (err) {
+    return res.json({error: 'invalid request'});
+  }
+});
