@@ -17,6 +17,16 @@ app.listen(port, "0.0.0.0", () => {
   console.log(`Listening on port ${port}`);
 });
 
+app.get("/ip", async (req, res) => {
+  try {
+    const ip = req.headers["x-forwarded-for"] || req.connection.remoteAddress;
+    //return only the ip address in plain text
+    return res.status(200).send(ip);
+  } catch (err) {
+    return res.status(500).json({ message: err.message });
+  }
+});
+
 app.get("/us", (req, res) => {
   const os = ["windows", "mac", "linux"];
   const randOs = os[Math.floor(Math.random() * os.length)];
