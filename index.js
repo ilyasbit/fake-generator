@@ -20,7 +20,6 @@ app.listen(port, '0.0.0.0', () => {
 app.get('/ip', async (req, res) => {
   try {
     const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress
-    awai
     return res.status(200).send(ip)
   } catch (err) {
     return res.status(500).json({ message: err.message })
